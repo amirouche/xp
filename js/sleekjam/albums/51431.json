@@ -1,0 +1,14 @@
+{
+    "name": "Steppe melodies", 
+    "artist": "Shaitan-Aral", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51431&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=418401&streamencoding=mp31", 
+            "name": "Steppe melodies (4 nations)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51431"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "kozarmo at his best", 
+    "artist": "kozarmo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34074&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231699&streamencoding=mp31", 
+            "name": "bouge le rock'n roll"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231701&streamencoding=mp31", 
+            "name": "rock du chaud lapin"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34074"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Evil Cat Fangs", 
+    "artist": "Sraluconib", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79531&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683789&streamencoding=mp31", 
+            "name": "Ceiling Heat"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683790&streamencoding=mp31", 
+            "name": "Spyglass For Jerry"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683791&streamencoding=mp31", 
+            "name": "Occidental Foxtrot"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683792&streamencoding=mp31", 
+            "name": "Guns For Hire"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683793&streamencoding=mp31", 
+            "name": "Advice From Alen Car"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79531"
+}

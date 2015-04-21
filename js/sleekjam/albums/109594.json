@@ -1,0 +1,14 @@
+{
+    "name": "Song for Kyra - I feel good in Music", 
+    "artist": "D_Tom", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109594&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933980&streamencoding=mp31", 
+            "name": "Song_for_Kyra-I_feel_good_in_Music"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109594"
+}

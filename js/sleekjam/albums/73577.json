@@ -1,0 +1,64 @@
+{
+    "name": "recollection... step by step", 
+    "artist": "zakora", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73577&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=635747&streamencoding=mp31", 
+            "name": "life live love"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=635740&streamencoding=mp31", 
+            "name": "...dreams"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=635742&streamencoding=mp31", 
+            "name": "wave"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=635748&streamencoding=mp31", 
+            "name": "remember"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=635745&streamencoding=mp31", 
+            "name": "summer"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=635739&streamencoding=mp31", 
+            "name": "walk"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=635746&streamencoding=mp31", 
+            "name": "dreams you"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=635743&streamencoding=mp31", 
+            "name": "rmx lfd"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=635741&streamencoding=mp31", 
+            "name": "...rain"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=635738&streamencoding=mp31", 
+            "name": "dreams [chill]"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=635744&streamencoding=mp31", 
+            "name": "step by step"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73577"
+}

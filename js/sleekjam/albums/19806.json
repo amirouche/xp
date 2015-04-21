@@ -1,0 +1,14 @@
+{
+    "name": "Vivacomovailalahente", 
+    "artist": "PC", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19806&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138517&streamencoding=mp31", 
+            "name": "Vivacomovailalahente"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19806"
+}

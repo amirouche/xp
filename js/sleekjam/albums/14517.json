@@ -1,0 +1,19 @@
+{
+    "name": "Mummy said", 
+    "artist": "Mob", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14517&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112643&streamencoding=mp31", 
+            "name": "Mummy said 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112653&streamencoding=mp31", 
+            "name": "Mummy said 2"
+        }
+    ], 
+    "release": "2007", 
+    "id": "14517"
+}

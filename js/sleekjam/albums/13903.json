@@ -1,0 +1,49 @@
+{
+    "name": "Ukulele Noir - Craig Robertson", 
+    "artist": "ARTSomerville", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13903&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111075&streamencoding=mp31", 
+            "name": "Bears"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111122&streamencoding=mp31", 
+            "name": "Houdini Never Hung Around in Bars"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111123&streamencoding=mp31", 
+            "name": "That Dress"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111124&streamencoding=mp31", 
+            "name": "She Likes to Pull the Wings Off Flies"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111090&streamencoding=mp31", 
+            "name": "Sawing a Lady in Half"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111107&streamencoding=mp31", 
+            "name": "Sneaky Pigs"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111108&streamencoding=mp31", 
+            "name": "Nicotine"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111109&streamencoding=mp31", 
+            "name": "The Big Nowhere"
+        }
+    ], 
+    "release": "2007", 
+    "id": "13903"
+}

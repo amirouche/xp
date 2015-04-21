@@ -1,0 +1,74 @@
+{
+    "name": "Dream Catcher", 
+    "artist": "Ben Wunder", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73472&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634972&streamencoding=mp31", 
+            "name": "A Rest Before the Rise"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634966&streamencoding=mp31", 
+            "name": "Sinking In"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634970&streamencoding=mp31", 
+            "name": "Sailing Through the Tides and Mist"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634967&streamencoding=mp31", 
+            "name": "When Youre Not Quite Sure Where You Are (But You Know It's Going to Be OK)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634971&streamencoding=mp31", 
+            "name": "Interlude Attitude"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634974&streamencoding=mp31", 
+            "name": "When Youre Still Not Sure Where You Are (or if it'll be okay...)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634965&streamencoding=mp31", 
+            "name": "In Between"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634969&streamencoding=mp31", 
+            "name": "The Darkness That Illuminates"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634975&streamencoding=mp31", 
+            "name": "Each Voice Emits Love You Need"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634976&streamencoding=mp31", 
+            "name": "Nightwalker"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634968&streamencoding=mp31", 
+            "name": "Dream Tube"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634973&streamencoding=mp31", 
+            "name": "The Weaver of Dreams"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634964&streamencoding=mp31", 
+            "name": "Arise"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73472"
+}

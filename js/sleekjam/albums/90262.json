@@ -1,0 +1,44 @@
+{
+    "name": "Rock Machine", 
+    "artist": "Barbezieux 2011", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90262&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770214&streamencoding=mp31", 
+            "name": "Song en R\u00e9 (orient metal trip)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770216&streamencoding=mp31", 
+            "name": "Song en Sol (ballade melancolique)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770212&streamencoding=mp31", 
+            "name": "Song en Mi (rock vener)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770217&streamencoding=mp31", 
+            "name": "Song en La (epic rock)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770213&streamencoding=mp31", 
+            "name": "Spanish Song"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770218&streamencoding=mp31", 
+            "name": "Song out"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770215&streamencoding=mp31", 
+            "name": "Nils & Tom"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90262"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "CLOSE", 
+    "artist": "mr dark", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33901&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229243&streamencoding=mp31", 
+            "name": "dub in bus"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229267&streamencoding=mp31", 
+            "name": "drum 'n dub"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229269&streamencoding=mp31", 
+            "name": "power"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229286&streamencoding=mp31", 
+            "name": "lockout"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229290&streamencoding=mp31", 
+            "name": "drumlock"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33901"
+}

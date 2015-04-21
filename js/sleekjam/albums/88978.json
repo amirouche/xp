@@ -1,0 +1,49 @@
+{
+    "name": "... And The Tune?", 
+    "artist": "Claudio Papitto", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88978&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760627&streamencoding=mp31", 
+            "name": "The Dungeon Of The Perfect Tune"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760628&streamencoding=mp31", 
+            "name": "Crazy Afternoon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760629&streamencoding=mp31", 
+            "name": "The Sound Wanderer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760630&streamencoding=mp31", 
+            "name": "Dawn"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760631&streamencoding=mp31", 
+            "name": "Dug"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760632&streamencoding=mp31", 
+            "name": "Morning Late"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760633&streamencoding=mp31", 
+            "name": "Night (Walkin' Alone)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760634&streamencoding=mp31", 
+            "name": "Wet Girl"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88978"
+}

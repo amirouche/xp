@@ -1,0 +1,94 @@
+{
+    "name": "Sa\u0161a je gladan", 
+    "artist": "Vesela Vokalna Skupina Franko Pu\u0161ac", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123025&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044724&streamencoding=mp31", 
+            "name": "predgovor"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044727&streamencoding=mp31", 
+            "name": "di je ana"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044726&streamencoding=mp31", 
+            "name": "Ana brala jagode"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044725&streamencoding=mp31", 
+            "name": "poslu\u017ei kavu"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044723&streamencoding=mp31", 
+            "name": "Kad \u0107e te pla\u010dinke"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044722&streamencoding=mp31", 
+            "name": "Krava travu pas\u00e9"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044728&streamencoding=mp31", 
+            "name": "Su\u0161a"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044734&streamencoding=mp31", 
+            "name": "ljubavna"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044735&streamencoding=mp31", 
+            "name": "utjeha"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044736&streamencoding=mp31", 
+            "name": "Pjesma mladog \u0160andora"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044720&streamencoding=mp31", 
+            "name": "25.prosinac"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044721&streamencoding=mp31", 
+            "name": "ni pjesma"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044730&streamencoding=mp31", 
+            "name": "branko je u redu"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044732&streamencoding=mp31", 
+            "name": "zeljka"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044733&streamencoding=mp31", 
+            "name": "\u017dena sam i mu\u0161ka svinja sam"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044729&streamencoding=mp31", 
+            "name": "branko me dira"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044731&streamencoding=mp31", 
+            "name": "na madracu"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123025"
+}

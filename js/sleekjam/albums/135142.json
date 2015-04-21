@@ -1,0 +1,14 @@
+{
+    "name": "Jamaican-Java Junkie (Single)", 
+    "artist": "Galaxy Soundwave Project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135142&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128320&streamencoding=mp31", 
+            "name": "Jamaican-Java Junkie"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135142"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "\u041b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432", 
+    "artist": "\u0411\u0440\u0430\u0442\u044c\u044f \u0415\u043d\u043e\u0442\u043e\u0432\u044b", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75813&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=654475&streamencoding=mp31", 
+            "name": "\u0414\u043e\u0436\u0438\u0442\u044c \u0434\u043e \u0432\u0435\u0441\u043d\u044b"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=654480&streamencoding=mp31", 
+            "name": "\u041e \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=654476&streamencoding=mp31", 
+            "name": "\u041a\u0443\u0440\u0438\u043d\u044b\u0435 \u043a\u0440\u044b\u043b\u044c\u044f"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=654481&streamencoding=mp31", 
+            "name": "\u0421\u0442\u0440\u0430\u0434\u0430\u043d\u0438\u044f"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=654477&streamencoding=mp31", 
+            "name": "\u0414\u043e\u0440\u043e\u0433\u0430 \u043a \u0414\u0436\u0430"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=654483&streamencoding=mp31", 
+            "name": "\u0412\u0435\u0447\u0435\u0440"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=654484&streamencoding=mp31", 
+            "name": "\u0425\u044d\u0439 \u043c\u0430\u043c\u0430 \u0445\u044d\u0439"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=654485&streamencoding=mp31", 
+            "name": "Song for Helen"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=654479&streamencoding=mp31", 
+            "name": "\u041b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=654482&streamencoding=mp31", 
+            "name": "\u041f\u0440\u043e\u0441\u0442\u0438"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=654478&streamencoding=mp31", 
+            "name": "\u0412\u0440\u0435\u043c\u044f \u043d\u043e\u0432\u043e\u0439 \u043b\u0443\u043d\u044b"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75813"
+}

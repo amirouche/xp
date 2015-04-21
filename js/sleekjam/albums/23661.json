@@ -1,0 +1,69 @@
+{
+    "name": "1.0", 
+    "artist": "Reno Project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23661&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161538&streamencoding=mp31", 
+            "name": "Constellation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161537&streamencoding=mp31", 
+            "name": "Atlanta"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161536&streamencoding=mp31", 
+            "name": "Afterwork"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161539&streamencoding=mp31", 
+            "name": "Down"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161544&streamencoding=mp31", 
+            "name": "System"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161543&streamencoding=mp31", 
+            "name": "Night Spot"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161542&streamencoding=mp31", 
+            "name": "Loft Side"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161546&streamencoding=mp31", 
+            "name": "Urban"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161545&streamencoding=mp31", 
+            "name": "The Field"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161541&streamencoding=mp31", 
+            "name": "Hot Street"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161535&streamencoding=mp31", 
+            "name": "73rd Moon"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161540&streamencoding=mp31", 
+            "name": "Friday"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23661"
+}

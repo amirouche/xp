@@ -1,0 +1,49 @@
+{
+    "name": "Schatten", 
+    "artist": "J.M.Sch\u00f6nfeld", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63798&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547739&streamencoding=mp31", 
+            "name": "Take_Off"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547741&streamencoding=mp31", 
+            "name": "Bier_Blues"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547742&streamencoding=mp31", 
+            "name": "Schatten"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547743&streamencoding=mp31", 
+            "name": "Hey_Alter_Mann"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547744&streamencoding=mp31", 
+            "name": "Hass_Ja"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547944&streamencoding=mp31", 
+            "name": "Black_Magic_Overdoze"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547946&streamencoding=mp31", 
+            "name": "Nein_Danke"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547947&streamencoding=mp31", 
+            "name": "Kein_System"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63798"
+}

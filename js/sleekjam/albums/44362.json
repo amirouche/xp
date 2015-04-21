@@ -1,0 +1,79 @@
+{
+    "name": "Jazz Up", 
+    "artist": "Frostafari", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44362&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333451&streamencoding=mp31", 
+            "name": "Lazy Days"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333446&streamencoding=mp31", 
+            "name": "Last Bad Breath"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333447&streamencoding=mp31", 
+            "name": "New Waves"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333455&streamencoding=mp31", 
+            "name": "Jam to Infinite"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333445&streamencoding=mp31", 
+            "name": "Dub Orchestrated"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333454&streamencoding=mp31", 
+            "name": "Another Pipe Dream"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333456&streamencoding=mp31", 
+            "name": "Jazz Sitcom"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333452&streamencoding=mp31", 
+            "name": "Jazz Mash Soup"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333450&streamencoding=mp31", 
+            "name": "Electrothelonious"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333448&streamencoding=mp31", 
+            "name": "Taiwan Blues Roots"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333453&streamencoding=mp31", 
+            "name": "Rain in a Night"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333444&streamencoding=mp31", 
+            "name": "Rock Nasty"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333449&streamencoding=mp31", 
+            "name": "Prenez Deux"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=333457&streamencoding=mp31", 
+            "name": "Catalina Funk"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44362"
+}

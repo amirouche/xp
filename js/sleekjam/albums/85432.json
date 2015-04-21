@@ -1,0 +1,39 @@
+{
+    "name": "Fala com Deus", 
+    "artist": "jusara flor\u00eancio", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85432&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731028&streamencoding=mp31", 
+            "name": "Jussara Flor\u00eancio Adorador"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731042&streamencoding=mp31", 
+            "name": "Jussara Flor\u00eancio Fala com Deus"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731043&streamencoding=mp31", 
+            "name": "Jussara Flor\u00eancio Eu sei que existe um Lugar bonito"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731044&streamencoding=mp31", 
+            "name": "Jusssara flor\u00eancio Passa ca a Maced\u00f4nia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731045&streamencoding=mp31", 
+            "name": "JUssara Flor\u00eancio Moro em um Pais"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731047&streamencoding=mp31", 
+            "name": "Jussara Flor\u00eancio Porque ele passou tudo Isso"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85432"
+}

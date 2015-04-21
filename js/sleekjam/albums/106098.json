@@ -1,0 +1,14 @@
+{
+    "name": "Grunge", 
+    "artist": "Akashic Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106098&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=901224&streamencoding=mp31", 
+            "name": "Grunge Out Loud"
+        }
+    ], 
+    "release": "2012", 
+    "id": "106098"
+}

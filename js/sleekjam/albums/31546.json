@@ -1,0 +1,14 @@
+{
+    "name": "dj Stonic - Outronic", 
+    "artist": "dj Stonic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31546&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214318&streamencoding=mp31", 
+            "name": "Outronic"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31546"
+}

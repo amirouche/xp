@@ -1,0 +1,134 @@
+{
+    "name": "Mit Zehnbier durch die Woche", 
+    "artist": "Franz Zehnbier", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93070&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792943&streamencoding=mp31", 
+            "name": "Franz Z- Computerstress"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792929&streamencoding=mp31", 
+            "name": "Intro-Franz Sonntagmorgenmagazin Werbung"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792935&streamencoding=mp31", 
+            "name": "1 Franz Zehnbier - Vorschau 2011 "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792925&streamencoding=mp31", 
+            "name": "2 Franz Zehnbier - Sonntagskolumne 03kw"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792922&streamencoding=mp31", 
+            "name": "3 Franz Zehnbier - Gruen vor Augen 04kw"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792926&streamencoding=mp31", 
+            "name": "4 Franz Zehnbier - Mit dem Zweiten sieht man besser 05kw"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792930&streamencoding=mp31", 
+            "name": "5 Franz Zehnbier - Frauenquote 06kw"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792940&streamencoding=mp31", 
+            "name": "6 Franz Zehnbier - Harz IV 07kw"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792937&streamencoding=mp31", 
+            "name": "7 Franz Zehnbier - Der grosse Plagiator 08kw"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792941&streamencoding=mp31", 
+            "name": "7-2 Willfried Koellner-Karl Theodor-Gedicht"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792944&streamencoding=mp31", 
+            "name": "8 Franz Zehnbier - OE 10 09kw"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792921&streamencoding=mp31", 
+            "name": "9 Franz Zehnbier - Der letze Zug ist abgefahren 10kw"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792927&streamencoding=mp31", 
+            "name": "0 Franz Zehnbier - KKW - Menschheit ade 11kw"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792932&streamencoding=mp31", 
+            "name": "1 Franz Zehnbier - Das Rad des Schicksals 12kw"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792936&streamencoding=mp31", 
+            "name": "2 Franz Zehnbier - Hinter Nebelscheiern 13kw"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792942&streamencoding=mp31", 
+            "name": "3 Franz Zehnbier - Portugiesische Verhaeltnisse 14kw"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792924&streamencoding=mp31", 
+            "name": "4 Franz Zehnbier - Auf dem Ruecken eines Regenbogens 15kw"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792931&streamencoding=mp31", 
+            "name": "5 Franz Zehnbier - Ausgebruetet 16kw"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792934&streamencoding=mp31", 
+            "name": "6 Franz Zehnbier - Weiter geht die Eierei 17kw"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792939&streamencoding=mp31", 
+            "name": "7 Franz Zehnbier - Drei Tage heisse Luft 18kw"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792945&streamencoding=mp31", 
+            "name": "8 Franz Zehnbier - FDP Ade 19kw"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792923&streamencoding=mp31", 
+            "name": "9 Franz Zehnbier - Zehnbier und der TUV 20kw"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792928&streamencoding=mp31", 
+            "name": "0 Franz Zehnbier - Nun haben wir den Salat 21kw"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792933&streamencoding=mp31", 
+            "name": "1 Franz Zehnbier - Himmelfahrt-s-kommando 22kw"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792938&streamencoding=mp31", 
+            "name": "2 Interview-Ende 1.Staffel-23kw"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93070"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "some Things", 
+    "artist": "Luke Gooding", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95980&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820225&streamencoding=mp31", 
+            "name": "One direction"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820694&streamencoding=mp31", 
+            "name": "Tension"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820226&streamencoding=mp31", 
+            "name": "Drums contra-Bass"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820616&streamencoding=mp31", 
+            "name": "Seven steps"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820227&streamencoding=mp31", 
+            "name": "Some feelings"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820224&streamencoding=mp31", 
+            "name": "It awaits you"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820734&streamencoding=mp31", 
+            "name": "Uprise"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820222&streamencoding=mp31", 
+            "name": "Straight forward"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820223&streamencoding=mp31", 
+            "name": "Walking alone"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820617&streamencoding=mp31", 
+            "name": "The green one"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820619&streamencoding=mp31", 
+            "name": "Groovepower (Soul Bossa Nova Theme - Remixed) "
+        }
+    ], 
+    "release": "2011", 
+    "id": "95980"
+}

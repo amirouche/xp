@@ -1,0 +1,64 @@
+{
+    "name": "Une journ\u00e9e Extra-Ordinaire", 
+    "artist": "Human", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61222&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523747&streamencoding=mp31", 
+            "name": "L'\u00e9toile (Part3)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523748&streamencoding=mp31", 
+            "name": "Human (Part3)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523750&streamencoding=mp31", 
+            "name": "Travelers (Fin) vers.2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523756&streamencoding=mp31", 
+            "name": "Fragments (Part1)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523754&streamencoding=mp31", 
+            "name": "Fragments (Part2)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523749&streamencoding=mp31", 
+            "name": "Fragments (Part3)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523753&streamencoding=mp31", 
+            "name": "Human (Part2)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523752&streamencoding=mp31", 
+            "name": "Travelers (intro)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523751&streamencoding=mp31", 
+            "name": "L'\u00e9toile (Part1)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523757&streamencoding=mp31", 
+            "name": "L'\u00e9toile (Part2)."
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523755&streamencoding=mp31", 
+            "name": "Human (Part1)."
+        }
+    ], 
+    "release": "2010", 
+    "id": "61222"
+}

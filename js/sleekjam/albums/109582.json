@@ -1,0 +1,39 @@
+{
+    "name": "PULSE", 
+    "artist": "JPMOUNIER", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109582&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933850&streamencoding=mp31", 
+            "name": "JMC"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933851&streamencoding=mp31", 
+            "name": "PULSE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933853&streamencoding=mp31", 
+            "name": "ROMANIC WAY"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933854&streamencoding=mp31", 
+            "name": "RECUERDO "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933855&streamencoding=mp31", 
+            "name": "MANDALA  "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933856&streamencoding=mp31", 
+            "name": "NEW YEAR"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109582"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Austrian spring", 
+    "artist": "bekola", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116365&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989087&streamencoding=mp31", 
+            "name": "austrian spring"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116365"
+}

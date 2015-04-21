@@ -1,0 +1,14 @@
+{
+    "name": "chajki, padayushie na pesok, pered smertyu ne videli tvoi slezy", 
+    "artist": "Moresebya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75368&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650201&streamencoding=mp31", 
+            "name": "chajki, padayushie na pesok, pered smertyu ne videli tvoi slezy"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75368"
+}

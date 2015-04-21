@@ -1,0 +1,24 @@
+{
+    "name": "A&A", 
+    "artist": "LA REINE MARGOT (PHR\u00dcNXE)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31640&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214857&streamencoding=mp31", 
+            "name": "\u0418\u043d\u0435\u0440\u0446\u0438\u044f (Inertia)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214863&streamencoding=mp31", 
+            "name": "\u0410\u0433\u0440\u0435\u0441\u0441\u043e\u0440 \u0438 \u0410\u043b\u044c\u043c\u0430 (Aggressor and Alma)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214858&streamencoding=mp31", 
+            "name": "\u041a\u0440\u044b\u043b\u044c\u044f (Wings)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31640"
+}

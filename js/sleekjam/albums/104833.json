@@ -1,0 +1,29 @@
+{
+    "name": "Holismo", 
+    "artist": "Seiscientosdoce", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104833&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891414&streamencoding=mp31", 
+            "name": "Holismo, Sheldrake"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891416&streamencoding=mp31", 
+            "name": "Engranajes de C8H10N4O2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891417&streamencoding=mp31", 
+            "name": "Sinciencia"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891415&streamencoding=mp31", 
+            "name": "Holismo, Ego  ergo Ego"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104833"
+}

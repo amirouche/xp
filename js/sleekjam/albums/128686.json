@@ -1,0 +1,14 @@
+{
+    "name": "Lib\u00e8re toi ", 
+    "artist": "Mental'in dub", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128686&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080353&streamencoding=mp31", 
+            "name": "(peuple libre)2"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128686"
+}

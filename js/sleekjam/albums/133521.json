@@ -1,0 +1,79 @@
+{
+    "name": "I Mimic Me [2014]", 
+    "artist": "JoosTVD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133521&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117450&streamencoding=mp31", 
+            "name": "Cowboy On The Moon"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117451&streamencoding=mp31", 
+            "name": "Velvet Shoes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117452&streamencoding=mp31", 
+            "name": "Buy (Bye Bye)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117453&streamencoding=mp31", 
+            "name": "Ballroom Blues"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117454&streamencoding=mp31", 
+            "name": "Social Suicide"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117455&streamencoding=mp31", 
+            "name": "I Mimic Me"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117456&streamencoding=mp31", 
+            "name": "Different Kind Of Cool"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117457&streamencoding=mp31", 
+            "name": "Intermission Of Love"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117458&streamencoding=mp31", 
+            "name": "Cats (Walk With A Swagger)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117460&streamencoding=mp31", 
+            "name": "Sin Pan Alleyman"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117461&streamencoding=mp31", 
+            "name": "Lovesong For The Ghetto"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117462&streamencoding=mp31", 
+            "name": "Coffin Song"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117459&streamencoding=mp31", 
+            "name": "I See You"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117463&streamencoding=mp31", 
+            "name": "Cowboy In Your Room"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133521"
+}

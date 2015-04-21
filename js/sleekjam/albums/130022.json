@@ -1,0 +1,14 @@
+{
+    "name": "Ludo", 
+    "artist": "Ludovico Enaudi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130022&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090793&streamencoding=mp31", 
+            "name": "LudovicoEinaudi-NuvoleBianche"
+        }
+    ], 
+    "release": "2013", 
+    "id": "130022"
+}

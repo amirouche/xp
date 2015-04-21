@@ -1,0 +1,44 @@
+{
+    "name": "The Perfectly Imperfection", 
+    "artist": "Last Noise", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86492&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740200&streamencoding=mp31", 
+            "name": "live feel suicide"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740201&streamencoding=mp31", 
+            "name": "Last Noise - Box of Your Life"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740202&streamencoding=mp31", 
+            "name": "Last Noise - Try to Make Me Fall in Love"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740203&streamencoding=mp31", 
+            "name": "Last Noise - Fear"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740204&streamencoding=mp31", 
+            "name": "Last Noise - A minute of noise"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740205&streamencoding=mp31", 
+            "name": "Last Noise - Imperfect Man"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740206&streamencoding=mp31", 
+            "name": "Last Noise - Don't Worry Be Drunk"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86492"
+}

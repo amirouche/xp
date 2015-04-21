@@ -1,0 +1,59 @@
+{
+    "name": "Wapner LivEuzkadi", 
+    "artist": "David Wapner", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72288&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=624103&streamencoding=mp31", 
+            "name": "El felino urbano / Globatos / Moscatos"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=624099&streamencoding=mp31", 
+            "name": "Gatautos"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=624104&streamencoding=mp31", 
+            "name": "L\u00e1mpara F\u00e9lux"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=624100&streamencoding=mp31", 
+            "name": "Gatamello / Gatamale\u00f3n"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=624106&streamencoding=mp31", 
+            "name": "Gatartista"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=624107&streamencoding=mp31", 
+            "name": "Pelucata /  Gato Orientado al Pollo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=624108&streamencoding=mp31", 
+            "name": "Gatotecnos"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=624102&streamencoding=mp31", 
+            "name": "Retr\u00f3gatos"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=624105&streamencoding=mp31", 
+            "name": "El Gatem\u00e1tico"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=624101&streamencoding=mp31", 
+            "name": "Gatomundi / Final"
+        }
+    ], 
+    "release": "2010", 
+    "id": "72288"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Google The One You Love", 
+    "artist": "The Kiss That Took A Trip", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75654&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653051&streamencoding=mp31", 
+            "name": "Google the one you love"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653077&streamencoding=mp31", 
+            "name": "Nefarious"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653097&streamencoding=mp31", 
+            "name": "God found dead"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653115&streamencoding=mp31", 
+            "name": "Between attitude and pose"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75654"
+}

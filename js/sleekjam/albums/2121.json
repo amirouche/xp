@@ -1,0 +1,54 @@
+{
+    "name": "Mind Phaser: About the world", 
+    "artist": "Luca Deriu", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2121&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=14888&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=14889&streamencoding=mp31", 
+            "name": "Promises"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=14890&streamencoding=mp31", 
+            "name": "Baby"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=14891&streamencoding=mp31", 
+            "name": "Innocent Blood"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=14892&streamencoding=mp31", 
+            "name": "Illusion"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=14893&streamencoding=mp31", 
+            "name": "Lies' Prophets"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=14894&streamencoding=mp31", 
+            "name": "Eyes in the spirit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=14895&streamencoding=mp31", 
+            "name": "My name"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=14896&streamencoding=mp31", 
+            "name": "In to the shadow"
+        }
+    ], 
+    "release": "2006", 
+    "id": "2121"
+}

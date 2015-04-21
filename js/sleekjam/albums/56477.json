@@ -1,0 +1,79 @@
+{
+    "name": "Frivolitats magn\u00edfiques", 
+    "artist": "Vo\u00efvode de la Transylvanie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56477&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=442853&streamencoding=mp31", 
+            "name": "Marxa nupcial pel Rei de Tropol\u00e0ndia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=442851&streamencoding=mp31", 
+            "name": "Nom\u00e9s vull ser superficial"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=398965&streamencoding=mp31", 
+            "name": "Polit, polit"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=398962&streamencoding=mp31", 
+            "name": "Ablucions de sa Bassa de Sant Pere"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=442854&streamencoding=mp31", 
+            "name": "Am\u00e9rico"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=442850&streamencoding=mp31", 
+            "name": "Era un fosquet estoc\u00e0stic, estimada comtessa"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400621&streamencoding=mp31", 
+            "name": "Epifania modesta"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=398961&streamencoding=mp31", 
+            "name": "Nadales de sa princesa de la Cucanya"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=398963&streamencoding=mp31", 
+            "name": "Afrodita als jardins"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399303&streamencoding=mp31", 
+            "name": "Renouetes"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=442855&streamencoding=mp31", 
+            "name": "Gravar papallones \u00e9s xungo"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400623&streamencoding=mp31", 
+            "name": "Der Feldweg"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399302&streamencoding=mp31", 
+            "name": "A tree. A rock. A cloud."
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478978&streamencoding=mp31", 
+            "name": "Torre de H\u00f6lderlin"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56477"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "NeoQi nr1", 
+    "artist": "NeoQi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29337&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196762&streamencoding=mp31", 
+            "name": "jann"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29337"
+}

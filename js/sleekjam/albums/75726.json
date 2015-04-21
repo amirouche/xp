@@ -1,0 +1,69 @@
+{
+    "name": "Imperceptible memories (2010)", 
+    "artist": "Wasaru", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75726&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653704&streamencoding=mp31", 
+            "name": "When I'm a boy (feat. [mUE])"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653703&streamencoding=mp31", 
+            "name": "Past mirror"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653707&streamencoding=mp31", 
+            "name": "I let go (feat. Graciellita)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653752&streamencoding=mp31", 
+            "name": "Far beyond the trees"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653706&streamencoding=mp31", 
+            "name": "Body of dust (feat. The dada weatherman)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653755&streamencoding=mp31", 
+            "name": "Low hydrogenic converter"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653705&streamencoding=mp31", 
+            "name": "Recall (feat. [mUE])"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653750&streamencoding=mp31", 
+            "name": "Animal rights (feat. Ak-blanc)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653754&streamencoding=mp31", 
+            "name": "Cold story (feat. Screenatorium)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653702&streamencoding=mp31", 
+            "name": "Sugar seas (feat. Julie)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653753&streamencoding=mp31", 
+            "name": "All these childs"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653751&streamencoding=mp31", 
+            "name": "Our memories"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75726"
+}

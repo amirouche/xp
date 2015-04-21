@@ -1,0 +1,24 @@
+{
+    "name": "Get The Feeling", 
+    "artist": "CasioBeatz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85511&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731548&streamencoding=mp31", 
+            "name": "Dont give up"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731547&streamencoding=mp31", 
+            "name": "Natural Love"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731546&streamencoding=mp31", 
+            "name": "Velvet"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85511"
+}

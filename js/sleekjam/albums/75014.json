@@ -1,0 +1,29 @@
+{
+    "name": "Zone of alienation of a city of a phantom 2010", 
+    "artist": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0410\u0440\u0445\u0438\u043f\u043e\u0432 Awolla85", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75014&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647220&streamencoding=mp31", 
+            "name": "\u0437\u043e\u043d\u0430 \u043e\u0442\u0434\u044b\u0445\u0430"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647222&streamencoding=mp31", 
+            "name": "\u043e\u043f\u0430\u0441\u043d\u0430\u044f \u0437\u043e\u043d\u0430"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647224&streamencoding=mp31", 
+            "name": " \u0440\u0430\u0434\u0438\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0444\u043e\u043d"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647252&streamencoding=mp31", 
+            "name": "\u043f\u043e\u0431\u0435\u0433"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75014"
+}

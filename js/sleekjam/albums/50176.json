@@ -1,0 +1,29 @@
+{
+    "name": "The Trip", 
+    "artist": "Dark Coffee", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50176&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403503&streamencoding=mp31", 
+            "name": "Dark Coffee - Rain"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403520&streamencoding=mp31", 
+            "name": "Dark Coffee - Luna Azul"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403522&streamencoding=mp31", 
+            "name": "Dark Coffee - Running"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403521&streamencoding=mp31", 
+            "name": "Dark Coffee - The 5th"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50176"
+}

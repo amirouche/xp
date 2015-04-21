@@ -1,0 +1,49 @@
+{
+    "name": "Paladina Sahari", 
+    "artist": "Dhalius", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35880&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248402&streamencoding=mp31", 
+            "name": "high impact"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248400&streamencoding=mp31", 
+            "name": "sun life moon friend"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248403&streamencoding=mp31", 
+            "name": "paladina sahari"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248401&streamencoding=mp31", 
+            "name": "wind solution"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248404&streamencoding=mp31", 
+            "name": "jazzy tune"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248405&streamencoding=mp31", 
+            "name": "formula fantasy"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248399&streamencoding=mp31", 
+            "name": "last tune pt 2"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248406&streamencoding=mp31", 
+            "name": "last tune pt 1"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35880"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Forgotten Heroes", 
+    "artist": "Sound Empire Project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66354&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575346&streamencoding=mp31", 
+            "name": "Breaking News"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575341&streamencoding=mp31", 
+            "name": "Forgotten Heroes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575345&streamencoding=mp31", 
+            "name": "Love And Hate"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575339&streamencoding=mp31", 
+            "name": "Cross The Line"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575343&streamencoding=mp31", 
+            "name": "Fallen Angel"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575342&streamencoding=mp31", 
+            "name": "The Lost Town"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575347&streamencoding=mp31", 
+            "name": "Pilgrim"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575340&streamencoding=mp31", 
+            "name": "Return To Light"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575344&streamencoding=mp31", 
+            "name": "Don't Cry For Me"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66354"
+}

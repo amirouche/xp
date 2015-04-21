@@ -1,0 +1,64 @@
+{
+    "name": "The Straphon", 
+    "artist": "The Straphon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110675&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941987&streamencoding=mp31", 
+            "name": "Black Powder"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941986&streamencoding=mp31", 
+            "name": "E55"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941983&streamencoding=mp31", 
+            "name": "Parental Advisory"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941988&streamencoding=mp31", 
+            "name": "Thank you"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941989&streamencoding=mp31", 
+            "name": "Dark Love"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941990&streamencoding=mp31", 
+            "name": "Choice"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941980&streamencoding=mp31", 
+            "name": "Attitude for idiots"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941981&streamencoding=mp31", 
+            "name": "Whitout sense"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941982&streamencoding=mp31", 
+            "name": "Walk Away"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941984&streamencoding=mp31", 
+            "name": "Judge at the mirror"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941985&streamencoding=mp31", 
+            "name": "Kraken"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110675"
+}

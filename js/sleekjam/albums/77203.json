@@ -1,0 +1,24 @@
+{
+    "name": "One day", 
+    "artist": "Alexander Kilinkarov", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77203&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665336&streamencoding=mp31", 
+            "name": "morning"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665337&streamencoding=mp31", 
+            "name": "afternoon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665335&streamencoding=mp31", 
+            "name": "evening"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77203"
+}

@@ -1,0 +1,84 @@
+{
+    "name": "GROOVE SMOOTH", 
+    "artist": "JPMOUNIER", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135337&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129471&streamencoding=mp31", 
+            "name": "RIFIFI BLUES wav"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129474&streamencoding=mp31", 
+            "name": "SWEEPING ROUND wav"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129475&streamencoding=mp31", 
+            "name": "TURNING wav"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129468&streamencoding=mp31", 
+            "name": "PARIS BLUES wav"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129462&streamencoding=mp31", 
+            "name": "DREAM wav"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129463&streamencoding=mp31", 
+            "name": "EASY wav"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129464&streamencoding=mp31", 
+            "name": "FEMINA wav"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129461&streamencoding=mp31", 
+            "name": "CHABADA wav"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129465&streamencoding=mp31", 
+            "name": "MELOPEE wav"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129466&streamencoding=mp31", 
+            "name": "METROBLUES wav"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129467&streamencoding=mp31", 
+            "name": "NIAGARA  wav"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129469&streamencoding=mp31", 
+            "name": "PIANISSIMO wav"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129470&streamencoding=mp31", 
+            "name": "REGARD wav"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129472&streamencoding=mp31", 
+            "name": "SOFT-LINE wav"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129473&streamencoding=mp31", 
+            "name": "SPACE  wav"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135337"
+}

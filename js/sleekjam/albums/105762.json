@@ -1,0 +1,49 @@
+{
+    "name": "The Path", 
+    "artist": "Wolfuneral", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105762&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=898587&streamencoding=mp31", 
+            "name": "The Ensemble Of Silence"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=898586&streamencoding=mp31", 
+            "name": "Dunkelheit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=898585&streamencoding=mp31", 
+            "name": "Mother North"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=898598&streamencoding=mp31", 
+            "name": "Glemselens Elv"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=898584&streamencoding=mp31", 
+            "name": "Illa Ti\u00f0andi"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=898583&streamencoding=mp31", 
+            "name": "Shadowsphere"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=898582&streamencoding=mp31", 
+            "name": "Beyond The Gates Of Night (Bonus Track)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=898581&streamencoding=mp31", 
+            "name": "Silent Hill (Bonus Track)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "105762"
+}

@@ -1,0 +1,99 @@
+{
+    "name": "Newroz_Live (2002)", 
+    "artist": "Loungerie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63804&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547867&streamencoding=mp31", 
+            "name": "Cubanga"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547669&streamencoding=mp31", 
+            "name": "Insert Coin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547866&streamencoding=mp31", 
+            "name": "Mai Mai"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547793&streamencoding=mp31", 
+            "name": "Morte A Venezia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547794&streamencoding=mp31", 
+            "name": "Quina"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547860&streamencoding=mp31", 
+            "name": "Marina Pi"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547857&streamencoding=mp31", 
+            "name": "Ta Ra TTa TTa TTa"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547865&streamencoding=mp31", 
+            "name": "Bernacca"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547869&streamencoding=mp31", 
+            "name": "Billie Holiday"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547856&streamencoding=mp31", 
+            "name": "Etichetta Magica"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547855&streamencoding=mp31", 
+            "name": "Hopper Lounge"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547864&streamencoding=mp31", 
+            "name": "BuddhaBar"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547868&streamencoding=mp31", 
+            "name": "Il mio DJ"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547861&streamencoding=mp31", 
+            "name": "Sciopero Blu"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547859&streamencoding=mp31", 
+            "name": "Perplissi"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547670&streamencoding=mp31", 
+            "name": "Bloody Ieri"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547858&streamencoding=mp31", 
+            "name": "Cubanga (Bis)"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547863&streamencoding=mp31", 
+            "name": "BuddhaBar (Bis)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63804"
+}

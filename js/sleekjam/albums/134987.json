@@ -1,0 +1,49 @@
+{
+    "name": "Der ganz normale Alltag", 
+    "artist": "Klaus Blume", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134987&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127414&streamencoding=mp31", 
+            "name": "Achmed"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127411&streamencoding=mp31", 
+            "name": "Laktose und Gluten"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127415&streamencoding=mp31", 
+            "name": "Unser Klempner Rodenbeck"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127418&streamencoding=mp31", 
+            "name": "Mehdorn"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127416&streamencoding=mp31", 
+            "name": "Unser Enkelkind Teil 1"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127417&streamencoding=mp31", 
+            "name": "Unser Enkelkind Teil 2"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127412&streamencoding=mp31", 
+            "name": "Bach Prelude C-major"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127413&streamencoding=mp31", 
+            "name": "Unser Mops in Halle"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134987"
+}

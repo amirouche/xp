@@ -1,0 +1,49 @@
+{
+    "name": "Singularity [Jamendo Edition]", 
+    "artist": "TitanSlayer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133872&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120166&streamencoding=mp31", 
+            "name": "Neuromorph"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120172&streamencoding=mp31", 
+            "name": "Carthage Reborn"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120168&streamencoding=mp31", 
+            "name": "Titanium"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120167&streamencoding=mp31", 
+            "name": "Sentinel"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120170&streamencoding=mp31", 
+            "name": "Hyperion"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120169&streamencoding=mp31", 
+            "name": "Imperion"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120171&streamencoding=mp31", 
+            "name": "Drone Revolution"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120173&streamencoding=mp31", 
+            "name": "Dark Reflections"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133872"
+}

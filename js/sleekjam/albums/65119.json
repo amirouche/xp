@@ -1,0 +1,54 @@
+{
+    "name": "Earth & Heaven: The true Solfeggio Frequencies vol. 2", 
+    "artist": "Dj XenivaX", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65119&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562545&streamencoding=mp31", 
+            "name": "93 Hz Vol. 2"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562553&streamencoding=mp31", 
+            "name": "204 Hz Vol. 2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562546&streamencoding=mp31", 
+            "name": "315 Hz Vol. 2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562599&streamencoding=mp31", 
+            "name": "417 Hz Vol. 2"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562602&streamencoding=mp31", 
+            "name": "528 Hz Vol. 2"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562468&streamencoding=mp31", 
+            "name": "639 Hz Vol. 2"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562608&streamencoding=mp31", 
+            "name": "741 Hz Vol. 2"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562612&streamencoding=mp31", 
+            "name": "852 Hz Vol. 2"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562572&streamencoding=mp31", 
+            "name": "963 Hz Vol. 2"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65119"
+}

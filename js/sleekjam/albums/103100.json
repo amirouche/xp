@@ -1,0 +1,44 @@
+{
+    "name": "CARDIAC", 
+    "artist": "Genais", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103100&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=877865&streamencoding=mp31", 
+            "name": "Cardiac -  Ma nuit \u00e0 Montr\u00e9al "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=877867&streamencoding=mp31", 
+            "name": "Cardiac - Veut sortir \u00e0 soir"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=877868&streamencoding=mp31", 
+            "name": "Cardiac - Sacr\u00e9 temps "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=877870&streamencoding=mp31", 
+            "name": "Cardiac - Bonaventure"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=877869&streamencoding=mp31", 
+            "name": "Cardiac - Pourquoi pas moi"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=877866&streamencoding=mp31", 
+            "name": "Cardiac - Suzie"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=877871&streamencoding=mp31", 
+            "name": "Cardiac - Assis dans mon char"
+        }
+    ], 
+    "release": "2011", 
+    "id": "103100"
+}

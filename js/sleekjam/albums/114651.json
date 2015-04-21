@@ -1,0 +1,49 @@
+{
+    "name": "Funk Rock Energetic Music", 
+    "artist": "Plastic3", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114651&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973729&streamencoding=mp31", 
+            "name": "Energetic Funk"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973730&streamencoding=mp31", 
+            "name": "Funky"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973731&streamencoding=mp31", 
+            "name": "Retro Funk"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973732&streamencoding=mp31", 
+            "name": "Corporate Funk"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973733&streamencoding=mp31", 
+            "name": "Funk Fashion"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973734&streamencoding=mp31", 
+            "name": "Guitar Chill"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973735&streamencoding=mp31", 
+            "name": "Background Groove"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973736&streamencoding=mp31", 
+            "name": "Fashion Groove"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114651"
+}

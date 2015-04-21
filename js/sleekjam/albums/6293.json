@@ -1,0 +1,49 @@
+{
+    "name": "Earth Adventure", 
+    "artist": "Mike Verstu", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6293&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62630&streamencoding=mp31", 
+            "name": "African Adventure"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62632&streamencoding=mp31", 
+            "name": "Despite difficulties"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62633&streamencoding=mp31", 
+            "name": "Do You know Adventure"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62634&streamencoding=mp31", 
+            "name": "Freedom"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62636&streamencoding=mp31", 
+            "name": "Iranska przypowiesc"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62639&streamencoding=mp31", 
+            "name": "No way out"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62640&streamencoding=mp31", 
+            "name": "Tesknota za absolutem"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62641&streamencoding=mp31", 
+            "name": "Watch out"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6293"
+}

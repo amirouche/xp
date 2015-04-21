@@ -1,0 +1,44 @@
+{
+    "name": "Experiences", 
+    "artist": "Viktor", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116615&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991277&streamencoding=mp31", 
+            "name": "Slow Motion"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991283&streamencoding=mp31", 
+            "name": "Reflexion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991279&streamencoding=mp31", 
+            "name": "Drum Two"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991280&streamencoding=mp31", 
+            "name": "Silence"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991286&streamencoding=mp31", 
+            "name": "Bruit"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991278&streamencoding=mp31", 
+            "name": "Distortion"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991287&streamencoding=mp31", 
+            "name": "Les Oiseaux"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116615"
+}

@@ -1,0 +1,94 @@
+{
+    "name": "Algo", 
+    "artist": "Ultrasonico", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53258&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440770&streamencoding=mp31", 
+            "name": "Antena intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440776&streamencoding=mp31", 
+            "name": "Antena"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440781&streamencoding=mp31", 
+            "name": "Coral "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440778&streamencoding=mp31", 
+            "name": "Vox "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440782&streamencoding=mp31", 
+            "name": "Antes "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440771&streamencoding=mp31", 
+            "name": "Analog Adventures "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440777&streamencoding=mp31", 
+            "name": "Basstrace "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440772&streamencoding=mp31", 
+            "name": "Tres Chelas Sountrack "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440768&streamencoding=mp31", 
+            "name": "Libre "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440779&streamencoding=mp31", 
+            "name": "2:17 "
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440769&streamencoding=mp31", 
+            "name": "Martes Ambiental "
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440773&streamencoding=mp31", 
+            "name": "Acustic Live "
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440780&streamencoding=mp31", 
+            "name": "Free Hall "
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440775&streamencoding=mp31", 
+            "name": "Inter (versi\u00f3n corta)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440783&streamencoding=mp31", 
+            "name": "Antes (reprise) "
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440926&streamencoding=mp31", 
+            "name": "Dos Enigmas "
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440927&streamencoding=mp31", 
+            "name": "Uno Dos Tres Cuatro"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53258"
+}

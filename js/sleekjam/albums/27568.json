@@ -1,0 +1,54 @@
+{
+    "name": "Unravel", 
+    "artist": "Makena Monk", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27568&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=183936&streamencoding=mp31", 
+            "name": "Halelujah"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=183934&streamencoding=mp31", 
+            "name": "Follow Me Home"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=183933&streamencoding=mp31", 
+            "name": "Worries"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=183941&streamencoding=mp31", 
+            "name": "Switch"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=183937&streamencoding=mp31", 
+            "name": "How Come"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=183935&streamencoding=mp31", 
+            "name": "Diamonds"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=183974&streamencoding=mp31", 
+            "name": "Sleezy"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=183938&streamencoding=mp31", 
+            "name": "o0o Hollywood"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=183939&streamencoding=mp31", 
+            "name": "Run"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27568"
+}

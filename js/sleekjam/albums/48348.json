@@ -1,0 +1,24 @@
+{
+    "name": "Mansur Samba Trio - Live in  Rio 2008", 
+    "artist": "Mansur Samba Trio", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48348&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=380615&streamencoding=mp31", 
+            "name": "Santa Teresa"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=380614&streamencoding=mp31", 
+            "name": "Samba Simples"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=380616&streamencoding=mp31", 
+            "name": "Wilson Divisao"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48348"
+}

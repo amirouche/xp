@@ -1,0 +1,49 @@
+{
+    "name": "ENCLLE Cole\u00e7\u00e3o MIDI-Wave Vol. III", 
+    "artist": "Leandro Candido / ENCLLE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86556&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740596&streamencoding=mp31", 
+            "name": "Hino 005 - \u00c9 bom louvar ao Criador"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740597&streamencoding=mp31", 
+            "name": "Hino 021 - O Evangelho do Senhor"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740595&streamencoding=mp31", 
+            "name": "Hino 264 - Gl\u00f3ria a Jesus, Aleluia!"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740603&streamencoding=mp31", 
+            "name": "Hino 020 - Gra\u00e7as dou a Ti, \u00f3 bom Deus"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740600&streamencoding=mp31", 
+            "name": "Hino 297 - Guia-me, \u00f3 Senhor"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740604&streamencoding=mp31", 
+            "name": "Hino 267 - A Ti, eu consagrei-me"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740651&streamencoding=mp31", 
+            "name": "Hino 191 - Em breve ao c\u00e9u irei"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740609&streamencoding=mp31", 
+            "name": "Hino 312 - Trabalhai! Trabalhai!"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86556"
+}

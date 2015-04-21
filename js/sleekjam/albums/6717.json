@@ -1,0 +1,54 @@
+{
+    "name": "The Grasping Hands of Possibility", 
+    "artist": "Ruined Machines", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6717&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75227&streamencoding=mp31", 
+            "name": "Hardly a Place of Honor"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75228&streamencoding=mp31", 
+            "name": "Earth's Best Kept Secret"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75229&streamencoding=mp31", 
+            "name": "The Grasping Hands of Possibility"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75230&streamencoding=mp31", 
+            "name": "Of Aries & Aquarius"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75231&streamencoding=mp31", 
+            "name": "Here Today, Gone Tomorrow"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75232&streamencoding=mp31", 
+            "name": "Hidden Paths to the Core"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75233&streamencoding=mp31", 
+            "name": "Your Morphing Mindset"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75234&streamencoding=mp31", 
+            "name": "Deep Thought & Deep Space"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75235&streamencoding=mp31", 
+            "name": "Miss Television Intelligence"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6717"
+}

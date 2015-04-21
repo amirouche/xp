@@ -1,0 +1,14 @@
+{
+    "name": "GARDEN PARTY DUB :ToUs au jArdiN !", 
+    "artist": "Luz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109469&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925663&streamencoding=mp31", 
+            "name": "garden party dub"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109469"
+}

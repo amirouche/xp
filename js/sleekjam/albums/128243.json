@@ -1,0 +1,74 @@
+{
+    "name": "Instrumental Piano - Playalong", 
+    "artist": "Lobo Loco", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128243&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076656&streamencoding=mp31", 
+            "name": "HippieHouse Pianoversion"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076652&streamencoding=mp31", 
+            "name": "Das Dorfrennen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076654&streamencoding=mp31", 
+            "name": "Auf den Spuren des Einhorns"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076650&streamencoding=mp31", 
+            "name": "Wunderbarer Moment"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076651&streamencoding=mp31", 
+            "name": "Bin der Boss Pianoversion"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076655&streamencoding=mp31", 
+            "name": "Heiter immer weiter"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076658&streamencoding=mp31", 
+            "name": "Pulsierende Menschenstroeme"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076653&streamencoding=mp31", 
+            "name": "Film ab"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076657&streamencoding=mp31", 
+            "name": "Liebestanz Pianoversion"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076661&streamencoding=mp31", 
+            "name": "Sch\u00f6ne Erinnerungen Pianoversion"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076659&streamencoding=mp31", 
+            "name": "Sandsofa Pianoversion"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076660&streamencoding=mp31", 
+            "name": "Fr\u00fchlinggserwachen Retroversion"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1076649&streamencoding=mp31", 
+            "name": "Woke up this morning Pianoversion"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128243"
+}

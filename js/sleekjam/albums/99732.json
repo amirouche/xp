@@ -1,0 +1,29 @@
+{
+    "name": "The Red Sterns - Winter Cold", 
+    "artist": "The Sterns", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99732&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=853379&streamencoding=mp31", 
+            "name": "Aeroplane Blues"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=853380&streamencoding=mp31", 
+            "name": "Devil Got My Woman"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=853381&streamencoding=mp31", 
+            "name": "Rolling And Tumblin'"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=853382&streamencoding=mp31", 
+            "name": "Winter Cold"
+        }
+    ], 
+    "release": "2012", 
+    "id": "99732"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "some reason in madness...", 
+    "artist": "Krzysztof Przychodzki", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85837&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734333&streamencoding=mp31", 
+            "name": "some reason in madness"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734332&streamencoding=mp31", 
+            "name": "pure"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85837"
+}

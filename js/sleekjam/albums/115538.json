@@ -1,0 +1,59 @@
+{
+    "name": "Forward", 
+    "artist": "Jim Guittard", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115538&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981037&streamencoding=mp31", 
+            "name": "It's No Fun But I'm Ok"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981039&streamencoding=mp31", 
+            "name": "Dont Get Hung Up"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981040&streamencoding=mp31", 
+            "name": "Higher Frequency"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981041&streamencoding=mp31", 
+            "name": "War Is Fun"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981042&streamencoding=mp31", 
+            "name": "Do It Yourself"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981043&streamencoding=mp31", 
+            "name": "Occupy Monotony"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981044&streamencoding=mp31", 
+            "name": "Raga"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981045&streamencoding=mp31", 
+            "name": "Ballad Of Homeland Security"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981046&streamencoding=mp31", 
+            "name": "Mr. Groove"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981047&streamencoding=mp31", 
+            "name": "Smoothie"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115538"
+}

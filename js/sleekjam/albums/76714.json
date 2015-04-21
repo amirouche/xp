@@ -1,0 +1,79 @@
+{
+    "name": "RINGTONES OF DOOM", 
+    "artist": "Dr. Saylermorph", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76714&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661135&streamencoding=mp31", 
+            "name": "funk reflektor"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661136&streamencoding=mp31", 
+            "name": "dream a ringtone"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661137&streamencoding=mp31", 
+            "name": "horror in the attic"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661138&streamencoding=mp31", 
+            "name": "freddy on your phone"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661140&streamencoding=mp31", 
+            "name": "we love popmusik"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661139&streamencoding=mp31", 
+            "name": "ringtone of doom"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661141&streamencoding=mp31", 
+            "name": "go go davida"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661142&streamencoding=mp31", 
+            "name": "evileduart"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661144&streamencoding=mp31", 
+            "name": "freshmeat"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661143&streamencoding=mp31", 
+            "name": "drink beatlemilk"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661145&streamencoding=mp31", 
+            "name": "a hole in my tron"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661146&streamencoding=mp31", 
+            "name": "gremlins in your pocket"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661147&streamencoding=mp31", 
+            "name": "wirool tone"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661149&streamencoding=mp31", 
+            "name": "lucyl"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76714"
+}

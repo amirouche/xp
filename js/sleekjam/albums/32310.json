@@ -1,0 +1,29 @@
+{
+    "name": "Underscore", 
+    "artist": "Ogg Vorbis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32310&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=218648&streamencoding=mp31", 
+            "name": "Side by side"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=218650&streamencoding=mp31", 
+            "name": "Histoire courte"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=218651&streamencoding=mp31", 
+            "name": "You're not alone"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=218652&streamencoding=mp31", 
+            "name": "Classical Delay"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32310"
+}

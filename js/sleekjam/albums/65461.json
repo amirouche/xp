@@ -1,0 +1,64 @@
+{
+    "name": "Souvenirs 2004-2007", 
+    "artist": "Phal\u00e8nes diurnes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65461&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=565722&streamencoding=mp31", 
+            "name": "Arr\u00eate ton cirque !"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=565984&streamencoding=mp31", 
+            "name": "Symbiose picturale"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=565736&streamencoding=mp31", 
+            "name": "Cause I'm dreaming"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=565713&streamencoding=mp31", 
+            "name": "Paradis' beach"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=565987&streamencoding=mp31", 
+            "name": "Les bienheureux"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=565738&streamencoding=mp31", 
+            "name": "I hate the world"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=565735&streamencoding=mp31", 
+            "name": "La vie en rouge"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=565986&streamencoding=mp31", 
+            "name": "Chronique d'un couple peu ordinaire"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=565990&streamencoding=mp31", 
+            "name": "Une histoire de coeur"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=565991&streamencoding=mp31", 
+            "name": "Les jumeaux de Phal\u00e8nes diurnes"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=565989&streamencoding=mp31", 
+            "name": "The good 2"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65461"
+}

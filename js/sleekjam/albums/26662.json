@@ -1,0 +1,94 @@
+{
+    "name": "Video Game Mushroom Funk", 
+    "artist": "Xaviant Haze", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26662&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176054&streamencoding=mp31", 
+            "name": "MUSHROOM FIELDS OF THE NORTH STAR"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176057&streamencoding=mp31", 
+            "name": "BROKEN CONTROLLER"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176059&streamencoding=mp31", 
+            "name": "OLIVIA MUNN GROOVE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177539&streamencoding=mp31", 
+            "name": "PLAY MY RECORD"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177546&streamencoding=mp31", 
+            "name": "SUPER MARIO GALAXY FUNK"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177550&streamencoding=mp31", 
+            "name": "G4 JUNKIE"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177553&streamencoding=mp31", 
+            "name": "DON'T MESS WITH STARFOX"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177554&streamencoding=mp31", 
+            "name": "JAZZ VISUALS"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177575&streamencoding=mp31", 
+            "name": "DRAGON QUEST"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179116&streamencoding=mp31", 
+            "name": "DONKEY KONG'S A DIRTY FIGHTER"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179119&streamencoding=mp31", 
+            "name": "SUPER GHOULS THAT SWING"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179122&streamencoding=mp31", 
+            "name": "WATER ON THE SPHINX"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179124&streamencoding=mp31", 
+            "name": "THE SONG CELESTIAL"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179128&streamencoding=mp31", 
+            "name": "THE RUINS OF NAN MADOL"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179132&streamencoding=mp31", 
+            "name": "TEARS FOR IRAQ"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179133&streamencoding=mp31", 
+            "name": "MIDNIGHT PRINCESS RESCUE!"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179149&streamencoding=mp31", 
+            "name": "THANKS 4 PLAYING!"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26662"
+}

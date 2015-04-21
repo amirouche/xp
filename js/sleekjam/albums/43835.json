@@ -1,0 +1,74 @@
+{
+    "name": "Garabi at euskalduna prison", 
+    "artist": "Garabi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43835&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316496&streamencoding=mp31", 
+            "name": "Dark as a dungeon"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316499&streamencoding=mp31", 
+            "name": "Still miss someone"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316503&streamencoding=mp31", 
+            "name": "Cocaine blues"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316506&streamencoding=mp31", 
+            "name": "25 minutes to go"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316755&streamencoding=mp31", 
+            "name": "Orange blossom special"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316773&streamencoding=mp31", 
+            "name": "Long black veil"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326912&streamencoding=mp31", 
+            "name": "Send a picture of mother"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326965&streamencoding=mp31", 
+            "name": "The Wall"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=327009&streamencoding=mp31", 
+            "name": "Jackson"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326967&streamencoding=mp31", 
+            "name": "Give my love to Rose"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=327006&streamencoding=mp31", 
+            "name": "I got Stripes"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326983&streamencoding=mp31", 
+            "name": "Green green grass of home"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=327017&streamencoding=mp31", 
+            "name": "Greyston chapel"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43835"
+}

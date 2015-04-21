@@ -1,0 +1,14 @@
+{
+    "name": "Broken Dream (SINGLE)", 
+    "artist": "Koke N\u00fa\u00f1ez G\u00f3mez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125746&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064582&streamencoding=mp31", 
+            "name": "Broken Dream"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125746"
+}

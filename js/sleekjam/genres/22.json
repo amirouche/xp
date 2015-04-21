@@ -1,0 +1,726 @@
+{
+    "albums": [
+        {
+            "release": "2011", 
+            "artist": "Mortal Plague", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93639&imagesize=100", 
+            "id": "93639", 
+            "name": "Omens"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Freakhate", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36928&imagesize=100", 
+            "id": "36928", 
+            "name": "Demo 08"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "OFACTT", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29033&imagesize=100", 
+            "id": "29033", 
+            "name": "DMD"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Apoplexy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29045&imagesize=100", 
+            "id": "29045", 
+            "name": "Infection"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "KINGCAESAR", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102696&imagesize=100", 
+            "id": "102696", 
+            "name": "Gravity E.P."
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Tokks Voitto", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95424&imagesize=100", 
+            "id": "95424", 
+            "name": "Formation"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Cold fire", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7728&imagesize=100", 
+            "id": "7728", 
+            "name": "Searching for a light"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Extinctionist", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85686&imagesize=100", 
+            "id": "85686", 
+            "name": "All Flesh Must Be Eaten"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Castrensis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87086&imagesize=100", 
+            "id": "87086", 
+            "name": "Brutal Discipline"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "MESENTERY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23847&imagesize=100", 
+            "id": "23847", 
+            "name": "Blood Rain"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "IMPUREZA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=127290&imagesize=100", 
+            "id": "127290", 
+            "name": "Inquisition Demos"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "WANNAbe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22908&imagesize=100", 
+            "id": "22908", 
+            "name": "S.*.*.*.O. (single)"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Deathwing", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128517&imagesize=100", 
+            "id": "128517", 
+            "name": "Eternal Agony (2013 re-issue)"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Archenterum", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131557&imagesize=100", 
+            "id": "131557", 
+            "name": "Exhumed"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Grey Heaven Fall", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136395&imagesize=100", 
+            "id": "136395", 
+            "name": "...grey heaven fall"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Sografalth", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37335&imagesize=100", 
+            "id": "37335", 
+            "name": "Super Metal Fight (Sografalth)"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Sol Niger", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6761&imagesize=100", 
+            "id": "6761", 
+            "name": "D\u00e9mo 2007"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Oblyvion", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82695&imagesize=100", 
+            "id": "82695", 
+            "name": "Afterlife"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Cryogenic Implosion", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57434&imagesize=100", 
+            "id": "57434", 
+            "name": "The Demons Come Again"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Sheol", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63256&imagesize=100", 
+            "id": "63256", 
+            "name": "Painting black on the sun"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Lughum", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109046&imagesize=100", 
+            "id": "109046", 
+            "name": "Galaico's Sign"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Lughum", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90051&imagesize=100", 
+            "id": "90051", 
+            "name": "Nemeth"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Lughum", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117935&imagesize=100", 
+            "id": "117935", 
+            "name": "The path of the dark druid"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Rape the Dead", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45802&imagesize=100", 
+            "id": "45802", 
+            "name": "...Kill the Living EP"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "mr&mrsBrian", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84052&imagesize=100", 
+            "id": "84052", 
+            "name": "(the) cleft & (the) kessl"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Thorus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21301&imagesize=100", 
+            "id": "21301", 
+            "name": "Hell and Beer [EP 2008]"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Breath of Death", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42892&imagesize=100", 
+            "id": "42892", 
+            "name": "Dawn of the dead"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Azgard", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87032&imagesize=100", 
+            "id": "87032", 
+            "name": "\u0411\u043e\u0433\u0434\u0430\u043d\u0447\u0438\u043a\u043e\u0432\u0430 \u041a\u0430\u0448\u043a\u0430"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Azgard", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130936&imagesize=100", 
+            "id": "130936", 
+            "name": "Be a Man (Single)"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Splice", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119604&imagesize=100", 
+            "id": "119604", 
+            "name": "Mythological Deviance"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Nihili Locus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102956&imagesize=100", 
+            "id": "102956", 
+            "name": "MORS"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Chadel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112310&imagesize=100", 
+            "id": "112310", 
+            "name": "Spirit's Torment"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "DavidKBD", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73753&imagesize=100", 
+            "id": "73753", 
+            "name": "DeathSAGA: No Pudo M\u00e1s (SINGLE)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Uncrowned", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65579&imagesize=100", 
+            "id": "65579", 
+            "name": "The Uncrowned EP"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Mass Murder Machine", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43407&imagesize=100", 
+            "id": "43407", 
+            "name": "Becoming the horror"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "koriza", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31243&imagesize=100", 
+            "id": "31243", 
+            "name": "New Orlean Sunset Club (single)"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "Luca Deriu", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2121&imagesize=100", 
+            "id": "2121", 
+            "name": "Mind Phaser: About the world"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "Luca Deriu", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2119&imagesize=100", 
+            "id": "2119", 
+            "name": "The FiveStarLuxury: Chaos in musicae"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "blodlyst", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57912&imagesize=100", 
+            "id": "57912", 
+            "name": "From Where Pain Is Born"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "blodlyst", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71449&imagesize=100", 
+            "id": "71449", 
+            "name": "Kadaver"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Moray Eel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91599&imagesize=100", 
+            "id": "91599", 
+            "name": "Priest Hunter"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Moray Eel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91595&imagesize=100", 
+            "id": "91595", 
+            "name": "Psycho: Delusion"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Black Whole", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50048&imagesize=100", 
+            "id": "50048", 
+            "name": "Black Whole"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Black Whole", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91122&imagesize=100", 
+            "id": "91122", 
+            "name": "Dark Matter"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Hollow Cycle", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109949&imagesize=100", 
+            "id": "109949", 
+            "name": "Voices in my Mind"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Hollow Cycle", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107556&imagesize=100", 
+            "id": "107556", 
+            "name": "Voices in my Mind - EP"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "Crystal Wall", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2854&imagesize=100", 
+            "id": "2854", 
+            "name": "Crystal Wall"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Sonorant", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22745&imagesize=100", 
+            "id": "22745", 
+            "name": "Engulfed EP"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "OFFENSE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8946&imagesize=100", 
+            "id": "8946", 
+            "name": "Aside"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Herpes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126495&imagesize=100", 
+            "id": "126495", 
+            "name": "Doomsday"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Mother Skull", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82812&imagesize=100", 
+            "id": "82812", 
+            "name": "Demo  2009"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Vrademargk", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129087&imagesize=100", 
+            "id": "129087", 
+            "name": "The Black Chamber"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Mad Mav", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27364&imagesize=100", 
+            "id": "27364", 
+            "name": "Bloody Fingers"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Mad Mav", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51139&imagesize=100", 
+            "id": "51139", 
+            "name": "Black Sheep II"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Joxean Koret", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32490&imagesize=100", 
+            "id": "32490", 
+            "name": "Ilunabarra"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Infection", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135636&imagesize=100", 
+            "id": "135636", 
+            "name": "Acrotomophile Mutilator"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Infection", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46252&imagesize=100", 
+            "id": "46252", 
+            "name": "Necrokindergarden"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Wolfp.a.c.k", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83863&imagesize=100", 
+            "id": "83863", 
+            "name": "I "
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Ever-Frost", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37727&imagesize=100", 
+            "id": "37727", 
+            "name": "The Awakening"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Ass Burners", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19924&imagesize=100", 
+            "id": "19924", 
+            "name": "Tears From Your Ass"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Carmina", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6828&imagesize=100", 
+            "id": "6828", 
+            "name": "Demo"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Cynicism", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22890&imagesize=100", 
+            "id": "22890", 
+            "name": "A Taste Of Hate"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Starseed", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45403&imagesize=100", 
+            "id": "45403", 
+            "name": "Cosmic Conspiracy"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Hammer of Witches", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61974&imagesize=100", 
+            "id": "61974", 
+            "name": "Sounds of Storm"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Celestial Voyage", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55718&imagesize=100", 
+            "id": "55718", 
+            "name": "Celestial Voyage"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Celestial Voyage", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82153&imagesize=100", 
+            "id": "82153", 
+            "name": "Universe Collapse (Single)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Mear Of Darkness", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37411&imagesize=100", 
+            "id": "37411", 
+            "name": "Mear of  Darkness EP"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Dismal Exaltation", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82945&imagesize=100", 
+            "id": "82945", 
+            "name": "Demo"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Zhurgal Dukhiatz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77320&imagesize=100", 
+            "id": "77320", 
+            "name": "Qavufok Hom Fel Bordukh"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Juicy Guts", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50514&imagesize=100", 
+            "id": "50514", 
+            "name": "Debauchery (demo)"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Tacit Fury", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112499&imagesize=100", 
+            "id": "112499", 
+            "name": "Horrors From Depth"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Eating Shit", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64207&imagesize=100", 
+            "id": "64207", 
+            "name": "Paradox"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Eating Shit", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64257&imagesize=100", 
+            "id": "64257", 
+            "name": "Eating Shit"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Eating Shit", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64242&imagesize=100", 
+            "id": "64242", 
+            "name": "World of Shit"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Echidna", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64854&imagesize=100", 
+            "id": "64854", 
+            "name": "Manifests Of Human Existence (promo)"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Echidna", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54502&imagesize=100", 
+            "id": "54502", 
+            "name": "This Suffering"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Cydocore", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20211&imagesize=100", 
+            "id": "20211", 
+            "name": "Envenom"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "F0R54K3N", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104933&imagesize=100", 
+            "id": "104933", 
+            "name": "F0R54K3N"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "StabWounD", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26579&imagesize=100", 
+            "id": "26579", 
+            "name": "I (The birth Of StabWounD)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "StabWounD", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115194&imagesize=100", 
+            "id": "115194", 
+            "name": "II"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Religio Mortis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52271&imagesize=100", 
+            "id": "52271", 
+            "name": "Before Christ... After Death"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "BORN ALIVE DEAD", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29107&imagesize=100", 
+            "id": "29107", 
+            "name": "BORN ALIVE DEAD"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Advent of Bedlam", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87589&imagesize=100", 
+            "id": "87589", 
+            "name": "Behold The Chaos"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Deviant Messiah", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47230&imagesize=100", 
+            "id": "47230", 
+            "name": "Demo 2008"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Moltencore", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24374&imagesize=100", 
+            "id": "24374", 
+            "name": "Demo 2007"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Born of Sin", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5638&imagesize=100", 
+            "id": "5638", 
+            "name": "Let it begin"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Skin Trade", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82048&imagesize=100", 
+            "id": "82048", 
+            "name": "SKIN TRADE"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Veils of Perception", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13136&imagesize=100", 
+            "id": "13136", 
+            "name": "Under my Skin (demo)"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Nothing Kills The Sun", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45115&imagesize=100", 
+            "id": "45115", 
+            "name": "Jack's Wasted Life"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Miles To Perdition", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24943&imagesize=100", 
+            "id": "24943", 
+            "name": "Demo 2008"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Wanton Decay", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43979&imagesize=100", 
+            "id": "43979", 
+            "name": "Rise of Hate - EP"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "decaying procession", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32647&imagesize=100", 
+            "id": "32647", 
+            "name": "Decaying procession"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "RENUEN", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86201&imagesize=100", 
+            "id": "86201", 
+            "name": "A Letter From Hell"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "RENUEN", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110491&imagesize=100", 
+            "id": "110491", 
+            "name": "Sublimated"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Red Horizons", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101642&imagesize=100", 
+            "id": "101642", 
+            "name": "Angelic"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Irate Architect", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80792&imagesize=100", 
+            "id": "80792", 
+            "name": "Born Blood Portrait"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "EVERFAILED", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66867&imagesize=100", 
+            "id": "66867", 
+            "name": "biological order"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "perversion", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11955&imagesize=100", 
+            "id": "11955", 
+            "name": "zepsucie"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Ophyra", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102129&imagesize=100", 
+            "id": "102129", 
+            "name": "Post Mortem"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Chiral", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131209&imagesize=100", 
+            "id": "131209", 
+            "name": "Winter Eternal"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Goliardeath", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123295&imagesize=100", 
+            "id": "123295", 
+            "name": "Human Cake"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Austin Deathtrip", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114226&imagesize=100", 
+            "id": "114226", 
+            "name": "Texas Bulldozer"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "Start Of The End", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3004&imagesize=100", 
+            "id": "3004", 
+            "name": "Start Of The End"
+        }
+    ], 
+    "name": "Death Metal"
+}

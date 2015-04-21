@@ -1,0 +1,29 @@
+{
+    "name": "Redish", 
+    "artist": "SEATTLE RAIN", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54344&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=454210&streamencoding=mp31", 
+            "name": "Holy Water Rain"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=454211&streamencoding=mp31", 
+            "name": "Psychedelic"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=454212&streamencoding=mp31", 
+            "name": "I Know"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=454213&streamencoding=mp31", 
+            "name": "Deliverance (Kissing my Ass)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54344"
+}

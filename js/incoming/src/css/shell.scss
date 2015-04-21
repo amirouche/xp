@@ -1,0 +1,224 @@
+$small-screen: 768px;
+$middle-screen: 992px;
+$large-screen: 1200px;
+
+$lightblue3: #F3F8FA;
+$lightblue2: #ECF2F5;
+$lightblue: #C8CED6;
+$darkblue2: #53606F;
+$darkblue: #485766;
+
+$pureblue: #00BFF5;
+$greenblue: #00BFF5;
+
+$border: #DDD;
+
+
+body {
+    background: $lightblue2;
+}
+
+/* nav styles */
+
+nav {
+    background: $lightblue; 
+    display: flex;
+
+    #brand {
+	padding-top: 10px;
+
+	h1 {
+	    line-height: 1em;
+	    margin: 0px;
+	    padding: 0px;
+	    color: white;
+	    padding-left: 20px;
+	}
+    }
+
+    #search {  
+	line-height: 1em;
+	margin: 0px;
+	padding: 0px;
+	padding-top: 10px;
+	width: 60%;
+	padding-left: 20px;
+	
+	input {
+	    border: 1px solid white;
+	    padding: 5px;
+	    width: 100%;
+	}
+    }
+}
+
+/* end of nav styles */
+
+/* styles of #main */
+
+body, html {
+    height: 100%;
+}
+
+#wrapper {
+    min-height: 100%;
+    
+    display: flex;
+    flex-direction: column;
+}
+
+#main {
+    flex: 1;
+    
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    /* justify-content: center; */
+
+    padding-bottom: 150px;
+    
+    > div.wrapper {
+	/* use media query over height */
+	padding-top: 100px;
+
+	@media (max-width: $small-screen) {
+	    width: 100%;
+	    padding: 0px 10px;
+	}
+	/* @media (min-width: $small-screen) { */
+	/*     width: 800px; */
+	/* } */
+	@media (min-width: $middle-screen) {
+	    width: 900px;
+	}
+	@media (min-width: $large-screen) {
+	    width: 1170px;
+	}
+	
+    }
+}
+
+
+
+/* end of #main styles */
+
+
+/* drawer styles */
+
+#drawer {
+    width: 300px;
+    background: $lightblue;     
+    height: 100%;
+    position: fixed;
+    z-index: 14;
+}
+
+/* drawer toggle button aka. hamburger */
+
+
+#hamburger {
+    cursor: pointer;
+    padding: 10px 35px 16px 0px;
+    margin: 15px;
+}
+#hamburger span,
+#hamburger span:before,
+#hamburger span:after {
+    cursor: pointer;
+    border-radius: 1px;
+    height: 5px;
+    width: 35px;
+    background: white;
+    position: absolute;
+    display: block;
+    content: '';
+}
+
+#hamburger span:before {
+    top: -10px; 
+}
+#hamburger span:after {
+    bottom: -10px;
+}
+
+#hamburger span,
+#hamburger span:before,
+#hamburger span:after {
+    transition: all 500ms ease-in-out;
+}
+
+#hamburger.active span {
+    background-color: transparent;
+}
+
+#hamburger.active span:before,
+#hamburger.active span:after {
+    top: 0;
+}
+
+#hamburger.active span:before {
+    transform: rotate(45deg);
+}
+#hamburger.active span:after {
+    transform: rotate(-45deg);
+}
+
+/* drawer enter/leave animation */
+
+/* drawer specific */
+
+#drawer {
+    transform: translate3d(0%, 0, 0);
+}
+
+#drawer.drawer-enter {
+    opacity: 0.1;
+    transform: translate3d(-100%, 0, 0);
+    transition-duration: 1s;
+}
+
+#drawer.drawer-enter.drawer-enter-active {
+    opacity: 1;
+    transform: translate3d(0%, 0, 0);
+}
+
+#drawer.drawer-leave {
+    opacity: 1;
+    transition-duration: 1s;
+    transform: translate3d(0%, 0, 0);
+}
+
+#drawer.drawer-leave.drawer-leave-active {
+    transform: translate3d(-100%, 0, 0);
+    opacity: 0.01;
+}
+
+/* overlay specific */
+
+#overlay {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+#overlay.drawer-enter {
+    opacity: 0.01;
+    transition: opacity .5s ease-in;
+}
+
+#overlay.drawer-enter.drawer-enter-active {
+    opacity: 1;
+}
+
+#overlay.drawer-leave {
+    opacity: 1;
+    transition: opacity .5s ease-in;
+}
+
+#overlay.drawer-leave.drawer-leave-active {
+    opacity: 0.01;
+}
+
+/* end of drawer enter/leave animation */

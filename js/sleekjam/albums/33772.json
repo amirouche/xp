@@ -1,0 +1,24 @@
+{
+    "name": "first steps", 
+    "artist": "synapse lost", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33772&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228818&streamencoding=mp31", 
+            "name": "snake"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228833&streamencoding=mp31", 
+            "name": "what about you"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228862&streamencoding=mp31", 
+            "name": "strawberries"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33772"
+}

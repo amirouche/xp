@@ -1,0 +1,34 @@
+{
+    "name": "Olonfelne (maxmex 1991/2014)", 
+    "artist": "Maxmex", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132657&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1110328&streamencoding=mp31", 
+            "name": "Olonfelne - maxmex [Olonfelne - 1991-2014]"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1110330&streamencoding=mp31", 
+            "name": "Il tempo non d\u00e0 risposta - maxmex [Olonfelne 1991-2014]"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1110331&streamencoding=mp31", 
+            "name": "Stella morente del sud - maxmex [Olonfelne 1991-2014]"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1110333&streamencoding=mp31", 
+            "name": "L'albero della fortuna - maxmex [Olonfelne - 1991-2014]"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1110369&streamencoding=mp31", 
+            "name": "Cuore sconfitto  - maxmex [Olonfelne 1991-2014]"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132657"
+}

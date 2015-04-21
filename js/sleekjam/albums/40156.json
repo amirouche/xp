@@ -1,0 +1,114 @@
+{
+    "name": "A-out soundtrack", 
+    "artist": "Sikos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40156&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289672&streamencoding=mp31", 
+            "name": "Ao\u00fbt r\u00e9v\u00e9lation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289670&streamencoding=mp31", 
+            "name": "Ao\u00fbt holy spirit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289671&streamencoding=mp31", 
+            "name": "Ao\u00fbt viva la vida"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289673&streamencoding=mp31", 
+            "name": "Ao\u00fbt le mal incarn\u00e9"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289674&streamencoding=mp31", 
+            "name": "Ao\u00fbt old bucket"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289675&streamencoding=mp31", 
+            "name": "Ao\u00fbt do it yourself"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289677&streamencoding=mp31", 
+            "name": "Ao\u00fbt mode discret"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289678&streamencoding=mp31", 
+            "name": "Ao\u00fbt gang"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289679&streamencoding=mp31", 
+            "name": "Ao\u00fbt vision"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289680&streamencoding=mp31", 
+            "name": "Ao\u00fbt atmosphere douteuse"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289681&streamencoding=mp31", 
+            "name": "Ao\u00fbt suspense + poursuite"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289682&streamencoding=mp31", 
+            "name": "Ao\u00fbt le mal approche"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289683&streamencoding=mp31", 
+            "name": "Ao\u00fbt horreur"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289684&streamencoding=mp31", 
+            "name": "Ao\u00fbt rock and fear"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289685&streamencoding=mp31", 
+            "name": "Ao\u00fbt b\u00e9n\u00e9diction"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289686&streamencoding=mp31", 
+            "name": "Ao\u00fbt funky"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289688&streamencoding=mp31", 
+            "name": "Ao\u00fbt stress intense"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289689&streamencoding=mp31", 
+            "name": "Ao\u00fbt madness"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289687&streamencoding=mp31", 
+            "name": "ao\u00fbt main character"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289690&streamencoding=mp31", 
+            "name": "Ao\u00fbt requiem"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=289691&streamencoding=mp31", 
+            "name": "Ao\u00fbt melodrama"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40156"
+}

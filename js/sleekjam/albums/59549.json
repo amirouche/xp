@@ -1,0 +1,89 @@
+{
+    "name": "TODO CORAZON", 
+    "artist": "sebastia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59549&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=507861&streamencoding=mp31", 
+            "name": "confidencias"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508151&streamencoding=mp31", 
+            "name": "transparencias"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508564&streamencoding=mp31", 
+            "name": "75"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508246&streamencoding=mp31", 
+            "name": "esta vida es un merengue"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508150&streamencoding=mp31", 
+            "name": "miedo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508161&streamencoding=mp31", 
+            "name": "se llama utopia"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508247&streamencoding=mp31", 
+            "name": "recuerdos"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508248&streamencoding=mp31", 
+            "name": "gente del sur"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508249&streamencoding=mp31", 
+            "name": "me invitas a una cerveza"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508562&streamencoding=mp31", 
+            "name": "cancion de cuna"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508316&streamencoding=mp31", 
+            "name": "lamentos"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508317&streamencoding=mp31", 
+            "name": "perdido en el tiempo"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508318&streamencoding=mp31", 
+            "name": "buenas noticias"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508319&streamencoding=mp31", 
+            "name": "esto es un lio"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508563&streamencoding=mp31", 
+            "name": "como a pasado el tiempo"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508315&streamencoding=mp31", 
+            "name": "todo corazon"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59549"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Whiteinblack or Blackinwhite: Fragments contemplation (video-album)", 
+    "artist": "Canoply Games", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63890&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548756&streamencoding=mp31", 
+            "name": "about movement"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548711&streamencoding=mp31", 
+            "name": "toys"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548710&streamencoding=mp31", 
+            "name": "ballet - now mechanisms, not people"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548712&streamencoding=mp31", 
+            "name": "about nature of things "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548755&streamencoding=mp31", 
+            "name": "future"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63890"
+}

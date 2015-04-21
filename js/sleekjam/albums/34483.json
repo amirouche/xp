@@ -1,0 +1,39 @@
+{
+    "name": "Synthetic Metal EP", 
+    "artist": "Deadpsycho", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34483&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236005&streamencoding=mp31", 
+            "name": "Synthetic Metal"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236010&streamencoding=mp31", 
+            "name": "Explicit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236011&streamencoding=mp31", 
+            "name": "Tronic"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236014&streamencoding=mp31", 
+            "name": "Psycho"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236015&streamencoding=mp31", 
+            "name": "Sesion D"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236019&streamencoding=mp31", 
+            "name": "Orgasm"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34483"
+}

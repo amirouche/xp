@@ -1,0 +1,14 @@
+{
+    "name": "September electric  by Viktor Sethy S\u00e9thy", 
+    "artist": "Viktor S\u00e9thy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35051&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=240950&streamencoding=mp31", 
+            "name": "Jazz dance "
+        }
+    ], 
+    "release": "2008", 
+    "id": "35051"
+}

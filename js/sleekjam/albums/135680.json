@@ -1,0 +1,54 @@
+{
+    "name": "Alone", 
+    "artist": "One Dice", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135680&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131609&streamencoding=mp31", 
+            "name": "Change"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131611&streamencoding=mp31", 
+            "name": "You or Me"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131612&streamencoding=mp31", 
+            "name": "Fly"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131613&streamencoding=mp31", 
+            "name": "Sad blue Eyes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131614&streamencoding=mp31", 
+            "name": "I die Today"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131615&streamencoding=mp31", 
+            "name": "Wake up Sleeper"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131616&streamencoding=mp31", 
+            "name": "Out of Reach"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131617&streamencoding=mp31", 
+            "name": "Just one Cut"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131618&streamencoding=mp31", 
+            "name": "Komm Zur\u00fcck"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135680"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "TURMOIL", 
+    "artist": "DreamSwan & WonderCrow", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=127023&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071494&streamencoding=mp31", 
+            "name": "deathwish memory"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071492&streamencoding=mp31", 
+            "name": "fetid placenta"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071491&streamencoding=mp31", 
+            "name": "hidden ocean beasts"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071489&streamencoding=mp31", 
+            "name": "dead riding hood"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071490&streamencoding=mp31", 
+            "name": "nothing you do is good enough"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071493&streamencoding=mp31", 
+            "name": "harlequin ichthyosis"
+        }
+    ], 
+    "release": "2013", 
+    "id": "127023"
+}

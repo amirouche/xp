@@ -1,0 +1,84 @@
+{
+    "name": "Mine de rien...", 
+    "artist": "zab", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20123&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140833&streamencoding=mp31", 
+            "name": "t\u00e9l\u00e9bidon"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140835&streamencoding=mp31", 
+            "name": "Citoyen honn\u00eate"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140836&streamencoding=mp31", 
+            "name": "Les jours..."
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140837&streamencoding=mp31", 
+            "name": "Manipulez"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140839&streamencoding=mp31", 
+            "name": "En string"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140849&streamencoding=mp31", 
+            "name": "Histoire verte"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140851&streamencoding=mp31", 
+            "name": "En tappant dans un ballon"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140852&streamencoding=mp31", 
+            "name": "Bigboss&co"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140853&streamencoding=mp31", 
+            "name": "9@#!!??"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140856&streamencoding=mp31", 
+            "name": "A l'envers"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140860&streamencoding=mp31", 
+            "name": "p'tit bonhomme"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140862&streamencoding=mp31", 
+            "name": "Sombre payasage"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140877&streamencoding=mp31", 
+            "name": "La ...garden"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140879&streamencoding=mp31", 
+            "name": "Pas rond"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140885&streamencoding=mp31", 
+            "name": "Sur un banc"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20123"
+}

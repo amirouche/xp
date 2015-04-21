@@ -1,0 +1,89 @@
+{
+    "name": "EVAZION", 
+    "artist": "DON VALDES", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113782&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967240&streamencoding=mp31", 
+            "name": "Ecoute"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967231&streamencoding=mp31", 
+            "name": "Bun Vampire"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967236&streamencoding=mp31", 
+            "name": "Africa Dream"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967235&streamencoding=mp31", 
+            "name": "Evazion (Princess Riddim)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967234&streamencoding=mp31", 
+            "name": "Real Rocking Style"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967237&streamencoding=mp31", 
+            "name": "Johnny trop bad"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967242&streamencoding=mp31", 
+            "name": "Droit \u00e0 l'amour"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967239&streamencoding=mp31", 
+            "name": "Cette France (Sun Riddim - Makoka Music) "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967243&streamencoding=mp31", 
+            "name": "Let Reggae Music Free"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967238&streamencoding=mp31", 
+            "name": "Merci Papa Jah"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967230&streamencoding=mp31", 
+            "name": "Ne plus laisser faire (feat. Revolushan) (Badman Riddim - Seedness Records)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967228&streamencoding=mp31", 
+            "name": "Coeur Libert\u00e9 (Ghost Riddim - Itchy Skanking)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967232&streamencoding=mp31", 
+            "name": "Love  (Meditation Riddim)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967233&streamencoding=mp31", 
+            "name": "Respecte ton prochain"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967241&streamencoding=mp31", 
+            "name": "AlleluJah Time"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967229&streamencoding=mp31", 
+            "name": "Arretez \u00e7\u00e0 (feat. Mister Phan) (Poutchi Riddim - Black House Music)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113782"
+}

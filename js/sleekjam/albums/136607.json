@@ -1,0 +1,29 @@
+{
+    "name": "CopperSnake - King Of Sickness", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136607&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137363&streamencoding=mp31", 
+            "name": "CopperSnake - King Of Sickness"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137369&streamencoding=mp31", 
+            "name": "SuperEgo - Supernatural Love"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137375&streamencoding=mp31", 
+            "name": "Demiurge - PainFather"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137379&streamencoding=mp31", 
+            "name": "Holy Shrine"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136607"
+}

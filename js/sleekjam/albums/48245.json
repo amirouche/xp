@@ -1,0 +1,64 @@
+{
+    "name": "28 Avril 1969", 
+    "artist": "Uifoayuit", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48245&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379032&streamencoding=mp31", 
+            "name": "Aujourd'hui les oiseaux tombent de haut"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379034&streamencoding=mp31", 
+            "name": "LSDay Tripper"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379031&streamencoding=mp31", 
+            "name": "Lily ( you know )"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379025&streamencoding=mp31", 
+            "name": "Fichtre"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379026&streamencoding=mp31", 
+            "name": "Orgie dans le sang"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379028&streamencoding=mp31", 
+            "name": "Brian Epstein"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379029&streamencoding=mp31", 
+            "name": "Noli me tangere"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379039&streamencoding=mp31", 
+            "name": "Strawberry Files (forever)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379030&streamencoding=mp31", 
+            "name": "Who are this fuckin' noise dealer"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379036&streamencoding=mp31", 
+            "name": "U = RI"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379038&streamencoding=mp31", 
+            "name": "John Lennon ( I love you since i was 5)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48245"
+}

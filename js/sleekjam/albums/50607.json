@@ -1,0 +1,59 @@
+{
+    "name": "Once Again From Start", 
+    "artist": "Midnight Delirium", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50607&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408647&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408648&streamencoding=mp31", 
+            "name": "History"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408671&streamencoding=mp31", 
+            "name": "Once Again From Start"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408686&streamencoding=mp31", 
+            "name": "Dubplate by Zerno"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408752&streamencoding=mp31", 
+            "name": "It is Evil"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408762&streamencoding=mp31", 
+            "name": "Rats"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408765&streamencoding=mp31", 
+            "name": "Place In The Sun"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408769&streamencoding=mp31", 
+            "name": "Glamour"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408711&streamencoding=mp31", 
+            "name": "Dubplate by Mic MC"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408794&streamencoding=mp31", 
+            "name": "Outro"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50607"
+}

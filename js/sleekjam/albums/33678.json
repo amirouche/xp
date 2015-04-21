@@ -1,0 +1,69 @@
+{
+    "name": "Histoires Sans Paroles", 
+    "artist": "Dominick MORDINI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33678&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228293&streamencoding=mp31", 
+            "name": "Stephanie is back again/Last train to Herne Bay/For David (and Richard too...)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228296&streamencoding=mp31", 
+            "name": "Song for Peter Bardens"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228312&streamencoding=mp31", 
+            "name": "Automne (Part.1 et 2)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228338&streamencoding=mp31", 
+            "name": "Celtic heart"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228344&streamencoding=mp31", 
+            "name": "L'histoire du marin / l'appel de Cthulhu"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228348&streamencoding=mp31", 
+            "name": "Ronde de nuit"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228352&streamencoding=mp31", 
+            "name": "Paire of a perfect Fripp"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228357&streamencoding=mp31", 
+            "name": "Pour Sabyne"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228368&streamencoding=mp31", 
+            "name": "Boulevard du Cr\u00e9puscule"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228373&streamencoding=mp31", 
+            "name": "Avant l'orage"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228395&streamencoding=mp31", 
+            "name": "L'ombre de Minuit"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228400&streamencoding=mp31", 
+            "name": "happy ending"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33678"
+}

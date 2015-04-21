@@ -1,0 +1,69 @@
+{
+    "name": "Montando la comedia", 
+    "artist": "Vagos Permanentes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84461&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723354&streamencoding=mp31", 
+            "name": "Elogio a la locura"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723351&streamencoding=mp31", 
+            "name": "Somos Legi\u00f3n"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723356&streamencoding=mp31", 
+            "name": "A otro planeta"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723352&streamencoding=mp31", 
+            "name": "Misi\u00f3n Imposible"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723357&streamencoding=mp31", 
+            "name": "Gran Numerario (The Opus Dei Freak Show)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723353&streamencoding=mp31", 
+            "name": "Rogelio y Nazario"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723359&streamencoding=mp31", 
+            "name": "Caralibro"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723360&streamencoding=mp31", 
+            "name": "Tangoegk\u00e1"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723361&streamencoding=mp31", 
+            "name": "Medidas excepcionales"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723355&streamencoding=mp31", 
+            "name": "Somos Vagos"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723438&streamencoding=mp31", 
+            "name": "Calle o Cruz"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723358&streamencoding=mp31", 
+            "name": "Granmadub (Ambien Mix) feat. Richie Kalifornia"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84461"
+}

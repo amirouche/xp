@@ -1,0 +1,14 @@
+{
+    "name": "Straight blast against Loudness War", 
+    "artist": "BLS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83000&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711168&streamencoding=mp31", 
+            "name": "Straight blast against Loudness War"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83000"
+}

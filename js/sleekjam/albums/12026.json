@@ -1,0 +1,49 @@
+{
+    "name": "Quelli che fanno", 
+    "artist": "Pablo Rabito", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=12026&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104167&streamencoding=mp31", 
+            "name": "Il fiume Cucchiaio"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103852&streamencoding=mp31", 
+            "name": "Nuvole viola"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103925&streamencoding=mp31", 
+            "name": "Fetente"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104312&streamencoding=mp31", 
+            "name": "Jos\u00e9 no tiene culpa"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104285&streamencoding=mp31", 
+            "name": "Quelli che fanno"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104309&streamencoding=mp31", 
+            "name": "Alborada"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104317&streamencoding=mp31", 
+            "name": "Asia"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104326&streamencoding=mp31", 
+            "name": "Licaone"
+        }
+    ], 
+    "release": "2007", 
+    "id": "12026"
+}

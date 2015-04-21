@@ -1,0 +1,64 @@
+{
+    "name": "Sehnsucht nach dem Licht", 
+    "artist": "Soul in Sadness", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108658&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917574&streamencoding=mp31", 
+            "name": "Fernweh"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917572&streamencoding=mp31", 
+            "name": "The Heart is no servant"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917635&streamencoding=mp31", 
+            "name": "Bright Side of Darkness"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917570&streamencoding=mp31", 
+            "name": "Kiss of Death"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917569&streamencoding=mp31", 
+            "name": "Nights will come and go"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917568&streamencoding=mp31", 
+            "name": "Love's a game Love's a lie"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917567&streamencoding=mp31", 
+            "name": "Mystery called love 1.9"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917566&streamencoding=mp31", 
+            "name": "Woran Denkst Du"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917576&streamencoding=mp31", 
+            "name": "Sehnsucht Nach dem Licht"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917575&streamencoding=mp31", 
+            "name": "End of Miseries"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917573&streamencoding=mp31", 
+            "name": "Too short eternity"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108658"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Evolutionary Cusp of Revolutionary Nowhere", 
+    "artist": "SLiver0ne", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89898&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767381&streamencoding=mp31", 
+            "name": "Solidarity Sanctum"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767382&streamencoding=mp31", 
+            "name": "Boxed in Drawn out and Stared at"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767383&streamencoding=mp31", 
+            "name": "Arthrital Crash"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767384&streamencoding=mp31", 
+            "name": "Naptic Cortex"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89898"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "This Lonely Earth", 
+    "artist": "Out Of Orion (Ox3)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58633&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500689&streamencoding=mp31", 
+            "name": "Cathedral Of Stars"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500688&streamencoding=mp31", 
+            "name": "Deep Space Mission"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500690&streamencoding=mp31", 
+            "name": "Shar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500686&streamencoding=mp31", 
+            "name": "The Hexagon Of Saturn"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500685&streamencoding=mp31", 
+            "name": "Termination Shock"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500687&streamencoding=mp31", 
+            "name": "The Colour Of The Moon"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500692&streamencoding=mp31", 
+            "name": "Earth Approach"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500684&streamencoding=mp31", 
+            "name": "Murder  In Earth Orbit"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500683&streamencoding=mp31", 
+            "name": "The Sound Of Stars"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500691&streamencoding=mp31", 
+            "name": "This Lonely Earth"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58633"
+}

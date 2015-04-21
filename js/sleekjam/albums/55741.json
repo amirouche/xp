@@ -1,0 +1,54 @@
+{
+    "name": "Nightmares Daydream {a Silent Film}", 
+    "artist": "Tab", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55741&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471483&streamencoding=mp31", 
+            "name": "Dream Sequence"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471484&streamencoding=mp31", 
+            "name": "Rite of Passage"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471485&streamencoding=mp31", 
+            "name": "The Factory Girl"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471486&streamencoding=mp31", 
+            "name": "Falling In Love"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471487&streamencoding=mp31", 
+            "name": "Driving in the Rain"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471488&streamencoding=mp31", 
+            "name": "The Mystic"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471489&streamencoding=mp31", 
+            "name": "Changes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471491&streamencoding=mp31", 
+            "name": "Chemicals"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471492&streamencoding=mp31", 
+            "name": "The Last Desperate Attempt"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55741"
+}

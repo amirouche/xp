@@ -1,0 +1,24 @@
+{
+    "name": "DISOCOWORD", 
+    "artist": "djbertix", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101282&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864598&streamencoding=mp31", 
+            "name": "saint joseph"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864600&streamencoding=mp31", 
+            "name": "electro studio"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864601&streamencoding=mp31", 
+            "name": "l'impr\u00e9visible"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101282"
+}

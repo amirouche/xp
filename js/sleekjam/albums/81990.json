@@ -1,0 +1,199 @@
+{
+    "name": "Agapantos CD1", 
+    "artist": "Mario Nhardes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81990&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703185&streamencoding=mp31", 
+            "name": "1 - A mulher"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703191&streamencoding=mp31", 
+            "name": "2 - Agapantos"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703196&streamencoding=mp31", 
+            "name": "3 - Comentarios"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703200&streamencoding=mp31", 
+            "name": "4 - Maos"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703178&streamencoding=mp31", 
+            "name": "5 - O que me faz assim"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703212&streamencoding=mp31", 
+            "name": "6 - Pensar em voce"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703183&streamencoding=mp31", 
+            "name": "7 - Poucas palavras"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703189&streamencoding=mp31", 
+            "name": "8 - Seu vestido"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703194&streamencoding=mp31", 
+            "name": "9 - Telefonema"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703201&streamencoding=mp31", 
+            "name": "0 - Voar no desejo"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703208&streamencoding=mp31", 
+            "name": "1 - Amor assim"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703177&streamencoding=mp31", 
+            "name": "2 - Botao de rosa"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703195&streamencoding=mp31", 
+            "name": "3 - Breve fantasia"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703192&streamencoding=mp31", 
+            "name": "4 - Chuva de verao"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703198&streamencoding=mp31", 
+            "name": "5 - Fantasia"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703205&streamencoding=mp31", 
+            "name": "6 - Flor"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703213&streamencoding=mp31", 
+            "name": "7 - Meu viver"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703182&streamencoding=mp31", 
+            "name": "8 - Volta"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703190&streamencoding=mp31", 
+            "name": "9 - Amiga"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703197&streamencoding=mp31", 
+            "name": "0 - Amizade"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703203&streamencoding=mp31", 
+            "name": "1 - Meu querer"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703211&streamencoding=mp31", 
+            "name": "2 - Meu ver"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703180&streamencoding=mp31", 
+            "name": "3 - Se acaso partir"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703187&streamencoding=mp31", 
+            "name": "4 - Angustia"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703204&streamencoding=mp31", 
+            "name": "5 - Desilusao"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703179&streamencoding=mp31", 
+            "name": "6 - Destino de crianca"
+        }, 
+        {
+            "position": 27, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703181&streamencoding=mp31", 
+            "name": "7 - Espelho"
+        }, 
+        {
+            "position": 28, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703188&streamencoding=mp31", 
+            "name": "8 - Espero"
+        }, 
+        {
+            "position": 29, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703207&streamencoding=mp31", 
+            "name": "9 - Eu e voce"
+        }, 
+        {
+            "position": 30, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703202&streamencoding=mp31", 
+            "name": "0 - Explicacao do sentimento"
+        }, 
+        {
+            "position": 31, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703209&streamencoding=mp31", 
+            "name": "1 - Falei de mim"
+        }, 
+        {
+            "position": 32, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703184&streamencoding=mp31", 
+            "name": "2 - Heroi"
+        }, 
+        {
+            "position": 33, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703186&streamencoding=mp31", 
+            "name": "3 - Incapaz"
+        }, 
+        {
+            "position": 34, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703193&streamencoding=mp31", 
+            "name": "4 - Inerte"
+        }, 
+        {
+            "position": 35, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703199&streamencoding=mp31", 
+            "name": "5 - Inocencia"
+        }, 
+        {
+            "position": 36, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703206&streamencoding=mp31", 
+            "name": "6 - Inutil"
+        }, 
+        {
+            "position": 37, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703214&streamencoding=mp31", 
+            "name": "7 - Jazigo"
+        }, 
+        {
+            "position": 38, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703210&streamencoding=mp31", 
+            "name": "8 - Jugo"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81990"
+}

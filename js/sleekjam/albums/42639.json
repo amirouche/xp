@@ -1,0 +1,29 @@
+{
+    "name": "Live it up", 
+    "artist": "RAS Nabu & Players Union", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42639&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=315320&streamencoding=mp31", 
+            "name": "Goodness"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=315321&streamencoding=mp31", 
+            "name": "Peacefully"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=315319&streamencoding=mp31", 
+            "name": "Farmer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=315322&streamencoding=mp31", 
+            "name": "Live it up"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42639"
+}

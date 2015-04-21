@@ -1,0 +1,19 @@
+@import url("http://fonts.googleapis.com/css?family=Roboto");
+@import url("http://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700");
+	    
+$title-fonts: 'PT Sans Caption', sans;
+$body-fonts: Roboto, verdana, sans;
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $body-fonts;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $title-fonts;
+    font-weight: 700;
+}

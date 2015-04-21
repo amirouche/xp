@@ -1,0 +1,14 @@
+{
+    "name": "Destino IX", 
+    "artist": "CLUB DESTINO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110772&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=942807&streamencoding=mp31", 
+            "name": "CLUB DESTINO - Si es amor..."
+        }
+    ], 
+    "release": "2012", 
+    "id": "110772"
+}

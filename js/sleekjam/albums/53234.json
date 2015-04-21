@@ -1,0 +1,14 @@
+{
+    "name": "Sinxelo (Riddim)", 
+    "artist": "Medra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53234&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440654&streamencoding=mp31", 
+            "name": "Sinxelo (Ridim)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53234"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Trikutraca", 
+    "artist": "Renich", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57703&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492267&streamencoding=mp31", 
+            "name": "Lala"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492279&streamencoding=mp31", 
+            "name": "Peda"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492273&streamencoding=mp31", 
+            "name": "Rancholo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492274&streamencoding=mp31", 
+            "name": "W\u00f3rale"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492276&streamencoding=mp31", 
+            "name": "Rolasepa"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492277&streamencoding=mp31", 
+            "name": "Waka trail"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57703"
+}

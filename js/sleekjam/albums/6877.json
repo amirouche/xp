@@ -1,0 +1,59 @@
+{
+    "name": "PART VI - rush 1", 
+    "artist": "Jesus first christ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6877&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=76548&streamencoding=mp31", 
+            "name": "begin"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=76549&streamencoding=mp31", 
+            "name": "groove"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=76550&streamencoding=mp31", 
+            "name": "the cure"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=76551&streamencoding=mp31", 
+            "name": "gratte 2"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=76552&streamencoding=mp31", 
+            "name": "r\u00e9 stretch 102"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=76553&streamencoding=mp31", 
+            "name": "hopes"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=76554&streamencoding=mp31", 
+            "name": "for"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=76555&streamencoding=mp31", 
+            "name": "alone"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=76556&streamencoding=mp31", 
+            "name": "sober"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=76557&streamencoding=mp31", 
+            "name": "world"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6877"
+}

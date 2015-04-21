@@ -1,0 +1,14 @@
+{
+    "name": "ROCK VOODOO", 
+    "artist": "PLANK", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118019&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002868&streamencoding=mp31", 
+            "name": "PLANK - ROCK VOODOO"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118019"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Children of Teratapolis (preview)", 
+    "artist": "POulbO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71741&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=619781&streamencoding=mp31", 
+            "name": "Lost (instrumental)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "71741"
+}

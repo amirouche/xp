@@ -1,0 +1,29 @@
+{
+    "name": "Voces del Sur", 
+    "artist": "Pia Casagrande", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109905&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936339&streamencoding=mp31", 
+            "name": "mas_vale_trocar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936338&streamencoding=mp31", 
+            "name": "meis_ollos"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936337&streamencoding=mp31", 
+            "name": "passe l'agua_mix"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936340&streamencoding=mp31", 
+            "name": "alla_se_me_ponga_2"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109905"
+}

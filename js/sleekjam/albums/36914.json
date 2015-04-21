@@ -1,0 +1,24 @@
+{
+    "name": "Antennae Galaxy", 
+    "artist": "khades", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36914&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=257458&streamencoding=mp31", 
+            "name": "Stasis"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=257476&streamencoding=mp31", 
+            "name": "Destability"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=257504&streamencoding=mp31", 
+            "name": "Overflow"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36914"
+}

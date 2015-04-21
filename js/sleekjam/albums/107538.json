@@ -1,0 +1,89 @@
+{
+    "name": "Gift A.D. - remastered", 
+    "artist": "Seal Seven", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107538&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909105&streamencoding=mp31", 
+            "name": "Alright"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909103&streamencoding=mp31", 
+            "name": "Castles"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909102&streamencoding=mp31", 
+            "name": "Good Shepherd"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909101&streamencoding=mp31", 
+            "name": "Half Step Down"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909100&streamencoding=mp31", 
+            "name": "Have Me Do"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909099&streamencoding=mp31", 
+            "name": "Honest Mistake"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909098&streamencoding=mp31", 
+            "name": "Little Girl"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909097&streamencoding=mp31", 
+            "name": "Lord Guide My Way"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909096&streamencoding=mp31", 
+            "name": "Meant to Last"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909091&streamencoding=mp31", 
+            "name": "Out of My Mind"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909104&streamencoding=mp31", 
+            "name": "Return"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909090&streamencoding=mp31", 
+            "name": "See How a Nation Will Rise"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909092&streamencoding=mp31", 
+            "name": "The Race"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909093&streamencoding=mp31", 
+            "name": "You Were There for Me"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909094&streamencoding=mp31", 
+            "name": "Lord Guide My Way -Best Of-"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909095&streamencoding=mp31", 
+            "name": "You Were There for Me -Best Of-"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107538"
+}

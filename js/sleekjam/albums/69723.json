@@ -1,0 +1,49 @@
+{
+    "name": "File n\u00b065 Medecine system", 
+    "artist": "Speedgt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69723&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=603315&streamencoding=mp31", 
+            "name": "Enter to the medecine system"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=603316&streamencoding=mp31", 
+            "name": "Morphdecine"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=603317&streamencoding=mp31", 
+            "name": "Alive for restore"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=603318&streamencoding=mp31", 
+            "name": "Bell of the death"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=603319&streamencoding=mp31", 
+            "name": "Electro mistake"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=603320&streamencoding=mp31", 
+            "name": "Virus go inside the system"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=603321&streamencoding=mp31", 
+            "name": "Save my system"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=603322&streamencoding=mp31", 
+            "name": "Close the file n\u00b065"
+        }
+    ], 
+    "release": "2010", 
+    "id": "69723"
+}

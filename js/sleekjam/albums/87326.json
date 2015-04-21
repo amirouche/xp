@@ -1,0 +1,29 @@
+{
+    "name": "Saturday's kiss", 
+    "artist": "Dj Goubz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87326&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746919&streamencoding=mp31", 
+            "name": "La serenissima (rondo veneziano remix ft Carl)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746942&streamencoding=mp31", 
+            "name": "A brand new dance"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746943&streamencoding=mp31", 
+            "name": "What would we do (Dsk remix)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746944&streamencoding=mp31", 
+            "name": "I'm kissing you"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87326"
+}

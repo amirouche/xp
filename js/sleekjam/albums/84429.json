@@ -1,0 +1,29 @@
+{
+    "name": "Bogyman", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84429&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723174&streamencoding=mp31", 
+            "name": "Bogyman"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723175&streamencoding=mp31", 
+            "name": "Ignis Fatuus"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723176&streamencoding=mp31", 
+            "name": "2000x"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723177&streamencoding=mp31", 
+            "name": "Skits of Angst"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84429"
+}

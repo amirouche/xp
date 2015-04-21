@@ -1,0 +1,59 @@
+{
+    "name": "Shelf Life", 
+    "artist": "Richie Reinholdt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63562&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545763&streamencoding=mp31", 
+            "name": "Split The Sheets"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545764&streamencoding=mp31", 
+            "name": "The Wind"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545759&streamencoding=mp31", 
+            "name": "Fading Photographs"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545762&streamencoding=mp31", 
+            "name": "Skeeter"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545757&streamencoding=mp31", 
+            "name": "Cold Moon"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545761&streamencoding=mp31", 
+            "name": "Overboard"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545758&streamencoding=mp31", 
+            "name": "Everywhere"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545765&streamencoding=mp31", 
+            "name": "Vacuum"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545754&streamencoding=mp31", 
+            "name": "Beefaload 50"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545760&streamencoding=mp31", 
+            "name": "Gee Whiz"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63562"
+}

@@ -1,0 +1,104 @@
+{
+    "name": "=Humano", 
+    "artist": "Erizo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41508&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304768&streamencoding=mp31", 
+            "name": "Introfunk"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304769&streamencoding=mp31", 
+            "name": "Disimular"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304770&streamencoding=mp31", 
+            "name": "Gris"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304771&streamencoding=mp31", 
+            "name": "Cumbia Caracol"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304772&streamencoding=mp31", 
+            "name": "Bajando El Rio"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304773&streamencoding=mp31", 
+            "name": "Hasta Cuando"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304775&streamencoding=mp31", 
+            "name": "Bossamar"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305159&streamencoding=mp31", 
+            "name": "Alumbrate (Percusion)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305160&streamencoding=mp31", 
+            "name": "Reflejos"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305162&streamencoding=mp31", 
+            "name": "Despacio"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305161&streamencoding=mp31", 
+            "name": "Desalmas"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305163&streamencoding=mp31", 
+            "name": "Es Vedra"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305164&streamencoding=mp31", 
+            "name": "Equinodermo"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305165&streamencoding=mp31", 
+            "name": "Nada Espiral"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305166&streamencoding=mp31", 
+            "name": "Equinodermo (Electrico)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305167&streamencoding=mp31", 
+            "name": "Diluvio"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305168&streamencoding=mp31", 
+            "name": "Prehispanica"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305169&streamencoding=mp31", 
+            "name": "El Mar"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305170&streamencoding=mp31", 
+            "name": "Atmantra"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41508"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Red Lizard", 
+    "artist": "Melcheor", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79516&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683704&streamencoding=mp31", 
+            "name": "Melcheor - Red Lizard"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683701&streamencoding=mp31", 
+            "name": "Melcheor - intermedia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683706&streamencoding=mp31", 
+            "name": "Melcheor - Operating circuit"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683702&streamencoding=mp31", 
+            "name": "Melcheor - Maatkara Hatshepsut Henemetamon"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683707&streamencoding=mp31", 
+            "name": "Melcheor - Evidence of the existence of God"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683703&streamencoding=mp31", 
+            "name": "Melcheor - Error Bounds for Convolutional Codes and an Asymptotically Optimum Decoding Algorithm"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683709&streamencoding=mp31", 
+            "name": "VISIV - Die or Die"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683710&streamencoding=mp31", 
+            "name": "VISIV - Magic wire"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683711&streamencoding=mp31", 
+            "name": "VISIV - puzzle"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683705&streamencoding=mp31", 
+            "name": "VISIV - 09 02 32"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683708&streamencoding=mp31", 
+            "name": "VISIV - Initial code"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79516"
+}

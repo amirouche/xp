@@ -1,0 +1,14 @@
+{
+    "name": "Sky is The Limit [Trip Hop]", 
+    "artist": "SaReGaMa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120207&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022283&streamencoding=mp31", 
+            "name": "[trip hop] Sky is the Limit"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120207"
+}

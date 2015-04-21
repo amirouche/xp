@@ -1,0 +1,54 @@
+{
+    "name": "FEAT THE VIBE vases communiquants", 
+    "artist": "Alterlabel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4743&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38658&streamencoding=mp31", 
+            "name": "OPTIMYSTIC"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38660&streamencoding=mp31", 
+            "name": "AND FOLLOW"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38662&streamencoding=mp31", 
+            "name": "COM UNITY"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38664&streamencoding=mp31", 
+            "name": "BLUE SPIRIT"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38665&streamencoding=mp31", 
+            "name": "THEY'RE WAITING"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38667&streamencoding=mp31", 
+            "name": "COME THROUGH"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38669&streamencoding=mp31", 
+            "name": "THE RESA PARTY TO NIGHT"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38670&streamencoding=mp31", 
+            "name": "THE DREAM THAT YOU WANTED"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38672&streamencoding=mp31", 
+            "name": "YOU ARE THE SAME"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4743"
+}

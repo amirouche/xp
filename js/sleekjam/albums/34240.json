@@ -1,0 +1,39 @@
+{
+    "name": "Dancing Willow: Demo-CD 2007", 
+    "artist": "Dancing Willow", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34240&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233257&streamencoding=mp31", 
+            "name": "The Wind that shakes that Barley"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233262&streamencoding=mp31", 
+            "name": "Foggy Dew"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233269&streamencoding=mp31", 
+            "name": "The old grey Goose"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233293&streamencoding=mp31", 
+            "name": "Sally Gardens"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233316&streamencoding=mp31", 
+            "name": "Drowsy Maggie"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233340&streamencoding=mp31", 
+            "name": "Give me your Hand"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34240"
+}

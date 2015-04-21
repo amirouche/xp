@@ -1,0 +1,59 @@
+{
+    "name": "Three Little Pigs - A Tale of Vengeance", 
+    "artist": "DOUG the Eagle", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43116&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319363&streamencoding=mp31", 
+            "name": "Three Little Pigs - Overture"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319366&streamencoding=mp31", 
+            "name": "Three Little Pigs"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319373&streamencoding=mp31", 
+            "name": "The First Pig's Laid In Clay"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319369&streamencoding=mp31", 
+            "name": "The Next, A Pig On Fire"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319371&streamencoding=mp31", 
+            "name": "The Third Pig's Watery Grave"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319372&streamencoding=mp31", 
+            "name": "The Wolf's Gone with the Wind"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319368&streamencoding=mp31", 
+            "name": "The Death of a Thousand Splices"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319370&streamencoding=mp31", 
+            "name": "Fanfare for the Common Beast"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319367&streamencoding=mp31", 
+            "name": "The Dark Price of Eternal Youth"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319375&streamencoding=mp31", 
+            "name": "A Dream of Fire and Ice"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43116"
+}

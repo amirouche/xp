@@ -1,0 +1,24 @@
+{
+    "name": "Nuclear Party Stories", 
+    "artist": "Radioodbiornik Ultra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60446&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516701&streamencoding=mp31", 
+            "name": "Nagasaki Early Morning Coffe Club"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516702&streamencoding=mp31", 
+            "name": "Fat Man over Japan Dance"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516703&streamencoding=mp31", 
+            "name": "Little Boy"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60446"
+}

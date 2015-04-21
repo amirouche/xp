@@ -1,0 +1,29 @@
+{
+    "name": "Demo 2009", 
+    "artist": "NoiseFall", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47783&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373161&streamencoding=mp31", 
+            "name": "Down Here"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373165&streamencoding=mp31", 
+            "name": "Strong Words"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373175&streamencoding=mp31", 
+            "name": "The Perfect Suicide Of Love"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373375&streamencoding=mp31", 
+            "name": "Everything Is Noise"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47783"
+}

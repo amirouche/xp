@@ -1,0 +1,14 @@
+{
+    "name": "Positive Pop Track", 
+    "artist": "Forssto", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122969&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1044250&streamencoding=mp31", 
+            "name": "Positive Pop Track"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122969"
+}

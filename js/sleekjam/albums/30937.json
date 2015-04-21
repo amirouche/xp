@@ -1,0 +1,84 @@
+{
+    "name": "Funky routine (31)", 
+    "artist": "Briovere Buffentis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30937&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208364&streamencoding=mp31", 
+            "name": "Superfly"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208366&streamencoding=mp31", 
+            "name": "Ready for you"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209007&streamencoding=mp31", 
+            "name": "Funky routine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209033&streamencoding=mp31", 
+            "name": "Get up tribute"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209042&streamencoding=mp31", 
+            "name": "To the break of dawn"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209045&streamencoding=mp31", 
+            "name": "Sexy mother"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209061&streamencoding=mp31", 
+            "name": "I will love you"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209068&streamencoding=mp31", 
+            "name": "What the hell do you want ?"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209071&streamencoding=mp31", 
+            "name": "Shake that ass"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209078&streamencoding=mp31", 
+            "name": "Fonky tunes"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209086&streamencoding=mp31", 
+            "name": "Ejay five"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209090&streamencoding=mp31", 
+            "name": "Do you love me"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209097&streamencoding=mp31", 
+            "name": "I like it You want it"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209110&streamencoding=mp31", 
+            "name": "You are crazy"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209119&streamencoding=mp31", 
+            "name": "This"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30937"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The Great Pharaos", 
+    "artist": "The Pharaos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8252&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=85856&streamencoding=mp31", 
+            "name": "Mission Bucharest"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=85874&streamencoding=mp31", 
+            "name": "Cleopatra's Theme"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=85862&streamencoding=mp31", 
+            "name": "Investigation"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=85879&streamencoding=mp31", 
+            "name": "Hava Nagilah"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=85902&streamencoding=mp31", 
+            "name": "The Pharaos' Theme"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8252"
+}

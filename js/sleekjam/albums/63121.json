@@ -1,0 +1,14 @@
+{
+    "name": "MORNING STAR", 
+    "artist": "\u0427\u0423\u0416\u0410\u041a (4Y}I{AK,4-Y-}!{-A-K)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63121&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541382&streamencoding=mp31", 
+            "name": "4-Y-}!{-A-K R+R10 30 [-MORNING STAR-] EMU 1212M PCI 32 96 (2 etalon)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63121"
+}

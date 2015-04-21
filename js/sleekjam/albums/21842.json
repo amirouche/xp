@@ -1,0 +1,39 @@
+{
+    "name": "Play Like A Child", 
+    "artist": "Alfonso Tregua", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21842&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153034&streamencoding=mp31", 
+            "name": "A.T. Meets The Drummers Of The Stone Age"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153040&streamencoding=mp31", 
+            "name": "The Contrary Motion Blues"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153041&streamencoding=mp31", 
+            "name": "Two flutes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153042&streamencoding=mp31", 
+            "name": "A Tangle of Fast Waves"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153043&streamencoding=mp31", 
+            "name": "Hidden Beauty"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153057&streamencoding=mp31", 
+            "name": "Play Like A Child"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21842"
+}

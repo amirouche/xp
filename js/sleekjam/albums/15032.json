@@ -1,0 +1,19 @@
+{
+    "name": "Reggae ", 
+    "artist": "Emorej", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15032&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114644&streamencoding=mp31", 
+            "name": "6 million ways"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114664&streamencoding=mp31", 
+            "name": "revolution"
+        }
+    ], 
+    "release": "2007", 
+    "id": "15032"
+}

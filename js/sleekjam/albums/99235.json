@@ -1,0 +1,24 @@
+{
+    "name": "Criminal Vocals And Guitars", 
+    "artist": "Claudio Papitto", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99235&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=849353&streamencoding=mp31", 
+            "name": "You Want Me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=849354&streamencoding=mp31", 
+            "name": "Slave Of The Moon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=849355&streamencoding=mp31", 
+            "name": "When the Criminal Talks"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99235"
+}

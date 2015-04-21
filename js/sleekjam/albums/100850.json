@@ -1,0 +1,24 @@
+{
+    "name": "dj arti vol.1", 
+    "artist": "dj ARTI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100850&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861203&streamencoding=mp31", 
+            "name": "dj arti-to run fly"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861233&streamencoding=mp31", 
+            "name": "dj arti-this is your love to day"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861234&streamencoding=mp31", 
+            "name": "dj arti-to be in sky (new version)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "100850"
+}

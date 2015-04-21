@@ -1,0 +1,59 @@
+{
+    "name": "Punk Funk (41)", 
+    "artist": "Briovere Buffentis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96788&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827711&streamencoding=mp31", 
+            "name": "New god's prayer"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827713&streamencoding=mp31", 
+            "name": "If you want some bullshit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827714&streamencoding=mp31", 
+            "name": "Funk the police"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827716&streamencoding=mp31", 
+            "name": "Get noisy"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827709&streamencoding=mp31", 
+            "name": "Skandal"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827710&streamencoding=mp31", 
+            "name": "Punk Funk"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827712&streamencoding=mp31", 
+            "name": "Dont tell me"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827715&streamencoding=mp31", 
+            "name": "Gotta feel"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827717&streamencoding=mp31", 
+            "name": "Express !"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827718&streamencoding=mp31", 
+            "name": "Keep it moving"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96788"
+}

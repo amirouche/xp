@@ -1,0 +1,49 @@
+{
+    "name": "Preguntas concretas, respuestas cocretas", 
+    "artist": "MORTADELIA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50013&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401603&streamencoding=mp31", 
+            "name": "Rumbo a Neo York"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401609&streamencoding=mp31", 
+            "name": "Sanchez Trag\u00f3n"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401602&streamencoding=mp31", 
+            "name": "M\u00e1s fea que un pie"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401604&streamencoding=mp31", 
+            "name": "Kung-Fu Et\u00edlico"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401785&streamencoding=mp31", 
+            "name": "El brebaje tr\u00e1jico"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401610&streamencoding=mp31", 
+            "name": "Rata ahumada"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401607&streamencoding=mp31", 
+            "name": "Se\u00f1ora, deme usted la hora"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401605&streamencoding=mp31", 
+            "name": "No te llevas comisi\u00f3n"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50013"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Missin Red inna reggae vibezzz", 
+    "artist": "Missin Red ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31735&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215551&streamencoding=mp31", 
+            "name": "giro giro "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215558&streamencoding=mp31", 
+            "name": "I feel so blue"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215562&streamencoding=mp31", 
+            "name": "un'ora sola"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215563&streamencoding=mp31", 
+            "name": "j'ai besoin"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215564&streamencoding=mp31", 
+            "name": "no no no"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215588&streamencoding=mp31", 
+            "name": "father's song "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215570&streamencoding=mp31", 
+            "name": "there will never be"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215571&streamencoding=mp31", 
+            "name": "jah love"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215584&streamencoding=mp31", 
+            "name": "99 posse mix"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215585&streamencoding=mp31", 
+            "name": "the dance hall"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215617&streamencoding=mp31", 
+            "name": "Tra la la"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215587&streamencoding=mp31", 
+            "name": "good man"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31735"
+}

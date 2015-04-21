@@ -1,0 +1,24 @@
+{
+    "name": "The Steel Rat", 
+    "artist": "Spaceman J", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133183&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1114833&streamencoding=mp31", 
+            "name": "Harry Harrison: The Steel Rat"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1114834&streamencoding=mp31", 
+            "name": "Philip K. Dick: The Truth behind it"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1114835&streamencoding=mp31", 
+            "name": "Ray Bradbury: Medicine for Melancholy"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133183"
+}

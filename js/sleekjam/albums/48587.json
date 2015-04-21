@@ -1,0 +1,69 @@
+{
+    "name": "Piano solo", 
+    "artist": "Guillaume Robbe", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48587&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383171&streamencoding=mp31", 
+            "name": "alone"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383172&streamencoding=mp31", 
+            "name": "hymn"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383173&streamencoding=mp31", 
+            "name": "contretemps"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383174&streamencoding=mp31", 
+            "name": "le bal des feuilles mortes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383175&streamencoding=mp31", 
+            "name": "cloudy"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383176&streamencoding=mp31", 
+            "name": "souvenirs"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383178&streamencoding=mp31", 
+            "name": "hallelujah"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383179&streamencoding=mp31", 
+            "name": "duel"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383180&streamencoding=mp31", 
+            "name": "etang"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383182&streamencoding=mp31", 
+            "name": "jealous guy"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383183&streamencoding=mp31", 
+            "name": "mer"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383184&streamencoding=mp31", 
+            "name": "songe"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48587"
+}

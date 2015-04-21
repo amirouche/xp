@@ -1,0 +1,89 @@
+{
+    "name": "RUBELLION SONGS MIXTAPE", 
+    "artist": "MADRAS FAMILY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26639&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178825&streamencoding=mp31", 
+            "name": "BLACKARTEL - Starko STARRR"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178826&streamencoding=mp31", 
+            "name": "K-PORAL HICKS - G\u00e9no Lirikal"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179136&streamencoding=mp31", 
+            "name": "SHEVABOY - Judgement"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179137&streamencoding=mp31", 
+            "name": "FRED - L\u00e9menm"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179138&streamencoding=mp31", 
+            "name": "SETSA - Blackman"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179139&streamencoding=mp31", 
+            "name": "FRED - Ar\u00e9t\u00e9 Goum\u00e9 (Feat. K-Poral HICKS)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179140&streamencoding=mp31", 
+            "name": "DENDE - Black War"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179141&streamencoding=mp31", 
+            "name": "K-PORAL HICKS - Enjistis"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179142&streamencoding=mp31", 
+            "name": "FRED - Kotiz\u00e9"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179143&streamencoding=mp31", 
+            "name": "GENERAL SENSEE - Ar\u00e9t\u00e9 Badman"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179144&streamencoding=mp31", 
+            "name": "FULLSTYLE - An p\u00e9 pa"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179145&streamencoding=mp31", 
+            "name": "BADJAH - R\u00e8b\u00e8l"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179146&streamencoding=mp31", 
+            "name": "LITTLE VIRUS - Mach!!!"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179147&streamencoding=mp31", 
+            "name": "POWER D - Juste Un Peu de Style"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179148&streamencoding=mp31", 
+            "name": "FRED - Kalvakat Riddim"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179135&streamencoding=mp31", 
+            "name": "FRED - Rubellion Song Riddim"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26639"
+}

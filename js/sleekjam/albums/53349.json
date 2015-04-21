@@ -1,0 +1,14 @@
+{
+    "name": "My Blade - Single", 
+    "artist": "Scarlet Dust", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53349&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441877&streamencoding=mp31", 
+            "name": "My Blade"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53349"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Asaf Productions Vol 3", 
+    "artist": "Asaf Productions", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95294&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816073&streamencoding=mp31", 
+            "name": "We Belong at the Top"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816076&streamencoding=mp31", 
+            "name": "Wash It Away"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816071&streamencoding=mp31", 
+            "name": "Enchanted"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816077&streamencoding=mp31", 
+            "name": "Breakout"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816072&streamencoding=mp31", 
+            "name": "Last Time I Checked"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816078&streamencoding=mp31", 
+            "name": "My Desire"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816074&streamencoding=mp31", 
+            "name": "Jeffster"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816069&streamencoding=mp31", 
+            "name": "Feel This Way"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816075&streamencoding=mp31", 
+            "name": "Leelanau"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816070&streamencoding=mp31", 
+            "name": "Go Home Lullaby"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95294"
+}

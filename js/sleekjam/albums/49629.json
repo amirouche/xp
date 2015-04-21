@@ -1,0 +1,39 @@
+{
+    "name": "Sample Pieces from my new album- SHADES AND FADES", 
+    "artist": "AMUTHAN SUNDAR", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49629&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396323&streamencoding=mp31", 
+            "name": "Shades and Fades-Preview 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396319&streamencoding=mp31", 
+            "name": "Shades and Fades-Preview 2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396324&streamencoding=mp31", 
+            "name": "Shades and Fades-Preview 3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396321&streamencoding=mp31", 
+            "name": "Shades and Fades-Preview 4"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396322&streamencoding=mp31", 
+            "name": "Shades and Fades-Preview 5"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396320&streamencoding=mp31", 
+            "name": "Shades and Fades -Main Theme"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49629"
+}

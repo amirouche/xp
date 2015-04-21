@@ -1,0 +1,74 @@
+{
+    "name": "Dreamland", 
+    "artist": "CORIN-Music", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97385&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832780&streamencoding=mp31", 
+            "name": "Forgotten World"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832860&streamencoding=mp31", 
+            "name": "Enter the Dreamland"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832781&streamencoding=mp31", 
+            "name": "My final Dream"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832782&streamencoding=mp31", 
+            "name": "Deep blue See"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832783&streamencoding=mp31", 
+            "name": "Behind Fantasy"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832784&streamencoding=mp31", 
+            "name": "Enter the Silence"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832785&streamencoding=mp31", 
+            "name": "Bizarre"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832870&streamencoding=mp31", 
+            "name": "High Hopes"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832787&streamencoding=mp31", 
+            "name": "Clouded Sky"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832788&streamencoding=mp31", 
+            "name": "Energize"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832789&streamencoding=mp31", 
+            "name": "Joy Song"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832790&streamencoding=mp31", 
+            "name": "Minefield"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832791&streamencoding=mp31", 
+            "name": "Leave the Dreamland"
+        }
+    ], 
+    "release": "2011", 
+    "id": "97385"
+}

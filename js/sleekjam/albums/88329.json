@@ -1,0 +1,49 @@
+{
+    "name": "BLUES CIGAR", 
+    "artist": "Francesco Muliedda", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88329&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755431&streamencoding=mp31", 
+            "name": "Francesco Muliedda - Ipocrisia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755432&streamencoding=mp31", 
+            "name": "Francesco Muliedda - Many problems"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755433&streamencoding=mp31", 
+            "name": "Francesco Muliedda - Spirito di sopravvivenza"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755434&streamencoding=mp31", 
+            "name": "Francesco Muliedda - A night with you"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755435&streamencoding=mp31", 
+            "name": "Francesco Muliedda - Full of blues"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755436&streamencoding=mp31", 
+            "name": "Francesco Muliedda - My old song"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755437&streamencoding=mp31", 
+            "name": "Francesco Muliedda - Asociale"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755438&streamencoding=mp31", 
+            "name": "Take Five Dave Brubeck eseguito da Francesco Muliedda"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88329"
+}

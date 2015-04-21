@@ -1,0 +1,39 @@
+{
+    "name": "Winter-Bhajans @ Gundica", 
+    "artist": "Gundica Bhajans", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37905&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262027&streamencoding=mp31", 
+            "name": "Maha-mantra by Maitreya Muni"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262010&streamencoding=mp31", 
+            "name": "Maha-mantra by Keshava Madhava"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262075&streamencoding=mp31", 
+            "name": "Maha-mantra by Maitreya Muni (dadra tal)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262096&streamencoding=mp31", 
+            "name": "Maha-mantra by Nadine"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262117&streamencoding=mp31", 
+            "name": "Sri Nrisimha Pranam by Maitreya Muni"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262003&streamencoding=mp31", 
+            "name": "Jaya Radha-Madhava by Gopati"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37905"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "hemplicitt demo", 
+    "artist": "Hemplicitt'", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24583&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167339&streamencoding=mp31", 
+            "name": "intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167350&streamencoding=mp31", 
+            "name": "radio one"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167377&streamencoding=mp31", 
+            "name": "ragga inna the jungle"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167409&streamencoding=mp31", 
+            "name": "dubdenska"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167419&streamencoding=mp31", 
+            "name": "blis pas"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167436&streamencoding=mp31", 
+            "name": "bregobatovitch"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167447&streamencoding=mp31", 
+            "name": "braquage de branques (instru)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167449&streamencoding=mp31", 
+            "name": "satan is comming"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167459&streamencoding=mp31", 
+            "name": "boris"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167477&streamencoding=mp31", 
+            "name": "ska jazz"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24583"
+}

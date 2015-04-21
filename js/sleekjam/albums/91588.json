@@ -1,0 +1,34 @@
+{
+    "name": "Backside Up Frontside Back", 
+    "artist": "SLiver0ne", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91588&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781366&streamencoding=mp31", 
+            "name": "Being"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781367&streamencoding=mp31", 
+            "name": "Glimmer"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781368&streamencoding=mp31", 
+            "name": "Burst"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781379&streamencoding=mp31", 
+            "name": "Atainment"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781382&streamencoding=mp31", 
+            "name": "Solace"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91588"
+}

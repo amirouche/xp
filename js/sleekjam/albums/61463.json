@@ -1,0 +1,59 @@
+{
+    "name": "Sheeted Mirrors", 
+    "artist": "f.p.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61463&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525555&streamencoding=mp31", 
+            "name": "Free P Trox"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525549&streamencoding=mp31", 
+            "name": "Cops"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525554&streamencoding=mp31", 
+            "name": "DEDG"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525556&streamencoding=mp31", 
+            "name": "Throb"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525552&streamencoding=mp31", 
+            "name": "MSP"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525550&streamencoding=mp31", 
+            "name": "Plastic Bags"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525553&streamencoding=mp31", 
+            "name": "Interlude"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525551&streamencoding=mp31", 
+            "name": "Synth Sx"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525557&streamencoding=mp31", 
+            "name": "Halt Code 11-7-03"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525558&streamencoding=mp31", 
+            "name": "3"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61463"
+}

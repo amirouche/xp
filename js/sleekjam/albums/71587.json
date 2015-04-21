@@ -1,0 +1,29 @@
+{
+    "name": "These Guys Are", 
+    "artist": "Fukked Up", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71587&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=571493&streamencoding=mp31", 
+            "name": "Fukked Up - Egality"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=571495&streamencoding=mp31", 
+            "name": "Fukked Up - She Killed Me Long Time Ago"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=571492&streamencoding=mp31", 
+            "name": "Fukked Up - Damn"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=571494&streamencoding=mp31", 
+            "name": "Fukked Up - I Rule"
+        }
+    ], 
+    "release": "2010", 
+    "id": "71587"
+}

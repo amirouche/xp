@@ -1,0 +1,69 @@
+{
+    "name": "Angelic", 
+    "artist": "Red Horizons", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101642&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867091&streamencoding=mp31", 
+            "name": "A Hymn for the Damned"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867094&streamencoding=mp31", 
+            "name": "Stormclouds"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867093&streamencoding=mp31", 
+            "name": "Poison the Skies"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867092&streamencoding=mp31", 
+            "name": "Shadows of Promises"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867097&streamencoding=mp31", 
+            "name": "Veiled Eyes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867102&streamencoding=mp31", 
+            "name": "The Gathering"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867101&streamencoding=mp31", 
+            "name": "A Council in the Dark"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867100&streamencoding=mp31", 
+            "name": "Pandora"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867099&streamencoding=mp31", 
+            "name": "Angelic"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867098&streamencoding=mp31", 
+            "name": "The End of All Things"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867095&streamencoding=mp31", 
+            "name": "Outro"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867096&streamencoding=mp31", 
+            "name": "Believer [8-Foot Sativa cover] [Bonus Track]"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101642"
+}

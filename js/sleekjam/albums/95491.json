@@ -1,0 +1,14 @@
+{
+    "name": "Noche furtiva", 
+    "artist": "Luis Zunel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95491&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817326&streamencoding=mp31", 
+            "name": "Noche furtiva"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95491"
+}

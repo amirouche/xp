@@ -1,0 +1,64 @@
+{
+    "name": "Ingovernables", 
+    "artist": "FOK", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76775&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661823&streamencoding=mp31", 
+            "name": "Formes de llenguatge : odi i por"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661758&streamencoding=mp31", 
+            "name": "Battle Royale : programa de superviv\u00e8ncia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661760&streamencoding=mp31", 
+            "name": "Banc de l'infern : esclaus del s.XXI"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661762&streamencoding=mp31", 
+            "name": "Paranoia Attack : la transformaci\u00f3"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661763&streamencoding=mp31", 
+            "name": "La Granja : ovelles i llops"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661764&streamencoding=mp31", 
+            "name": "Pandemia mental : grip nova"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661765&streamencoding=mp31", 
+            "name": "Telekaspa : full equip"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661766&streamencoding=mp31", 
+            "name": "Paral\u00b7lelismes : amn\u00e8sia"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661767&streamencoding=mp31", 
+            "name": "La Crew : crits i gols"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661768&streamencoding=mp31", 
+            "name": "Soledat : des de la pres\u00f3"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661769&streamencoding=mp31", 
+            "name": "Declaraci\u00f3 d'intencions : ingovernables"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76775"
+}

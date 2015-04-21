@@ -1,0 +1,19 @@
+{
+    "name": "N\u00e4cken", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123327&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046630&streamencoding=mp31", 
+            "name": "N\u00e4cken"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046633&streamencoding=mp31", 
+            "name": "La Vita Interiore op. 199"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123327"
+}

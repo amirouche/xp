@@ -1,0 +1,29 @@
+{
+    "name": "Demo 08", 
+    "artist": "Freakhate", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36928&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=257622&streamencoding=mp31", 
+            "name": "Lords of the Alcoholocaust"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=257630&streamencoding=mp31", 
+            "name": "Keep the cult of the crypt alive!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=257635&streamencoding=mp31", 
+            "name": "3L of Whiskey & a dead bitch"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=257650&streamencoding=mp31", 
+            "name": "Drunk & Buried (Beyon the Grave)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36928"
+}

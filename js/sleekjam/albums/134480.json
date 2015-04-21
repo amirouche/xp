@@ -1,0 +1,14 @@
+{
+    "name": "Illusion (1 track 2014)", 
+    "artist": "D27m", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134480&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124503&streamencoding=mp31", 
+            "name": "illusion"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134480"
+}

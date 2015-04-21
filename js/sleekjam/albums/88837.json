@@ -1,0 +1,54 @@
+{
+    "name": "2009 *My3blka cHoB*", 
+    "artist": "Sinestesia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88837&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759483&streamencoding=mp31", 
+            "name": "4eTblpe ypoBH\u044f H\u0438\u0436He\u0439 \u0422yHDpbl "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759482&streamencoding=mp31", 
+            "name": "Tomorrow Never Knows "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759481&streamencoding=mp31", 
+            "name": "RE:forma of Zodiak"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759485&streamencoding=mp31", 
+            "name": "Landslip of Empires"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759480&streamencoding=mp31", 
+            "name": "\u0422\u0432\u043e\u0439 npekpacHbl\u0439 \u0434om "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759478&streamencoding=mp31", 
+            "name": "\u0428kaTy/\\ka D/\\\u044f cHoB "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759484&streamencoding=mp31", 
+            "name": "Cnac\u04386o, Bpem\u044f! "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759477&streamencoding=mp31", 
+            "name": "DaTcka\u044f np\u0438Huecca "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759479&streamencoding=mp31", 
+            "name": "Ha BocTok "
+        }
+    ], 
+    "release": "2011", 
+    "id": "88837"
+}

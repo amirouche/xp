@@ -1,0 +1,29 @@
+{
+    "name": "Revelations (Promo)", 
+    "artist": "PhaZer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8957&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91613&streamencoding=mp31", 
+            "name": "Way Downtown"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91614&streamencoding=mp31", 
+            "name": "Wonder Girl"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91615&streamencoding=mp31", 
+            "name": "Revelations"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91618&streamencoding=mp31", 
+            "name": "Benediction"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8957"
+}

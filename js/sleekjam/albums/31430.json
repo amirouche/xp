@@ -1,0 +1,74 @@
+{
+    "name": "Fool's Paradise Revisited", 
+    "artist": "Spinefish", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31430&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213181&streamencoding=mp31", 
+            "name": "Intangible"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213182&streamencoding=mp31", 
+            "name": "Daydream diary"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213183&streamencoding=mp31", 
+            "name": "More than..."
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213184&streamencoding=mp31", 
+            "name": "...all pain and laughter"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213185&streamencoding=mp31", 
+            "name": "Guardian angel"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213186&streamencoding=mp31", 
+            "name": "Aeons"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213198&streamencoding=mp31", 
+            "name": "Eyes of grief"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213199&streamencoding=mp31", 
+            "name": "Embrace me"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213200&streamencoding=mp31", 
+            "name": "Fool's paradise revisited"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213201&streamencoding=mp31", 
+            "name": "My spirit's flight"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213202&streamencoding=mp31", 
+            "name": "Vortex interlude"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213203&streamencoding=mp31", 
+            "name": "Salvation"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213204&streamencoding=mp31", 
+            "name": "Shattered 21"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31430"
+}

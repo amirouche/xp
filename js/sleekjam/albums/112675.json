@@ -1,0 +1,119 @@
+{
+    "name": "Ca Yu Co", 
+    "artist": "Simpleman", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112675&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956621&streamencoding=mp31", 
+            "name": "Amanecer"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958340&streamencoding=mp31", 
+            "name": "Un d\u00eda cualquiera"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956641&streamencoding=mp31", 
+            "name": "La ALdea"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956666&streamencoding=mp31", 
+            "name": "Africa"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956761&streamencoding=mp31", 
+            "name": "vehiculos militares"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956762&streamencoding=mp31", 
+            "name": "Se\u00f1ores de la guerra"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956764&streamencoding=mp31", 
+            "name": "Lamento"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956769&streamencoding=mp31", 
+            "name": "Castillo de Naipes"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956770&streamencoding=mp31", 
+            "name": "ruidos ciudad"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956772&streamencoding=mp31", 
+            "name": "Ecos del Norte"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956773&streamencoding=mp31", 
+            "name": "ruidos insectos"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956776&streamencoding=mp31", 
+            "name": "La Traves\u00eda"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956791&streamencoding=mp31", 
+            "name": "orilla del mar"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956792&streamencoding=mp31", 
+            "name": "Esperando en el puerto"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958346&streamencoding=mp31", 
+            "name": "No hay marcha atr\u00e1s"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956804&streamencoding=mp31", 
+            "name": "tormenta en el mar"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956812&streamencoding=mp31", 
+            "name": "La tormenta"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956814&streamencoding=mp31", 
+            "name": "Requiem"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956816&streamencoding=mp31", 
+            "name": "Joao"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956818&streamencoding=mp31", 
+            "name": "La Llegada"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956843&streamencoding=mp31", 
+            "name": "Ojala estuvieras aqu\u00ed"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956819&streamencoding=mp31", 
+            "name": "Siglos de Esperanza"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112675"
+}

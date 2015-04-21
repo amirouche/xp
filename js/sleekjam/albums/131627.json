@@ -1,0 +1,69 @@
+{
+    "name": "Einsamkeit", 
+    "artist": "S\u00e5\u00f1a \u00d8lzk\u00e8 G\u00e6\u0161p\u00e4ns", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131627&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102820&streamencoding=mp31", 
+            "name": "Der t\u00f6dliche Karneval"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102830&streamencoding=mp31", 
+            "name": "Die Trennung"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102821&streamencoding=mp31", 
+            "name": "Die Versuchung nach einen Freudenhaus zu kommen"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102822&streamencoding=mp31", 
+            "name": "Selbstverf\u00fchrung"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102823&streamencoding=mp31", 
+            "name": "Ein M\u00e4dchen und ein M\u00f6rder"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102824&streamencoding=mp31", 
+            "name": "Du tust mir weh"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102825&streamencoding=mp31", 
+            "name": "Der Tod kommt"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102826&streamencoding=mp31", 
+            "name": "Das Fleisch der gefallenen Engeln"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102827&streamencoding=mp31", 
+            "name": "Nie"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102828&streamencoding=mp31", 
+            "name": "Totenstille"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102829&streamencoding=mp31", 
+            "name": "Herzschmerz"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102819&streamencoding=mp31", 
+            "name": "Dunkelheit"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131627"
+}

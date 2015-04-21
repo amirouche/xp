@@ -1,0 +1,14 @@
+{
+    "name": "First time in town", 
+    "artist": "The Docksound", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51115&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414560&streamencoding=mp31", 
+            "name": "buried alive"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51115"
+}

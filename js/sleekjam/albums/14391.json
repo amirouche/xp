@@ -1,0 +1,24 @@
+{
+    "name": "Plastic City EP", 
+    "artist": "Aygan", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14391&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112042&streamencoding=mp31", 
+            "name": "To Turn Around"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112057&streamencoding=mp31", 
+            "name": "Days So Hard"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112072&streamencoding=mp31", 
+            "name": "Now It's Over"
+        }
+    ], 
+    "release": "2007", 
+    "id": "14391"
+}

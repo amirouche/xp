@@ -1,0 +1,59 @@
+{
+    "name": "Resonance", 
+    "artist": "mindthings", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51826&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423120&streamencoding=mp31", 
+            "name": "Fractal"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423114&streamencoding=mp31", 
+            "name": "Shine"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423119&streamencoding=mp31", 
+            "name": "Elle"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423121&streamencoding=mp31", 
+            "name": "Blue Field"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423117&streamencoding=mp31", 
+            "name": "Resonance"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423118&streamencoding=mp31", 
+            "name": "Road To Seaside"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423115&streamencoding=mp31", 
+            "name": "Contrast"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423116&streamencoding=mp31", 
+            "name": "Colours of Happiness"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423152&streamencoding=mp31", 
+            "name": "Whispering"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423122&streamencoding=mp31", 
+            "name": "Douceurs"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51826"
+}

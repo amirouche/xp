@@ -1,0 +1,59 @@
+{
+    "name": "I live for you", 
+    "artist": "Alexander Permyakov", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49928&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400677&streamencoding=mp31", 
+            "name": "Road of death"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400644&streamencoding=mp31", 
+            "name": "The rebel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400636&streamencoding=mp31", 
+            "name": "Malicious doll"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400638&streamencoding=mp31", 
+            "name": "Mystic sight"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400643&streamencoding=mp31", 
+            "name": "Your whims"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400641&streamencoding=mp31", 
+            "name": "Sands of Arabia"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400645&streamencoding=mp31", 
+            "name": "I'll come back"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400642&streamencoding=mp31", 
+            "name": "Matrix"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400640&streamencoding=mp31", 
+            "name": "I live for you"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400639&streamencoding=mp31", 
+            "name": "To pass the way"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49928"
+}

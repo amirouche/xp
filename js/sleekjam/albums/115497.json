@@ -1,0 +1,64 @@
+{
+    "name": "LIBERTA'", 
+    "artist": "BarmaGrande", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115497&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980757&streamencoding=mp31", 
+            "name": " INTERCONNECTION feat. Big Youth"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980747&streamencoding=mp31", 
+            "name": "VEGETARIAN MAN feat. Cedric Myton the Congos"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980748&streamencoding=mp31", 
+            "name": "BACK FROM THE FUTURE feat. Bernard Satta Collins the Abyssinians"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980750&streamencoding=mp31", 
+            "name": "WAITING FOR HELP feat. Luciano"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980751&streamencoding=mp31", 
+            "name": "C'EST LA VIE feat. Queen Ifrica"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980749&streamencoding=mp31", 
+            "name": "MY MEDITATION feat. Freddie McGregor"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980755&streamencoding=mp31", 
+            "name": "GOOD MAN feat. Franklyn Montague"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980752&streamencoding=mp31", 
+            "name": " PEACE IN ONESELF feat. Tony Rebel"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980753&streamencoding=mp31", 
+            "name": " INNER POTENTIAL feat. Max Romeo"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980756&streamencoding=mp31", 
+            "name": " FREE TIBET- dedication of Song LIBERTA'"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980754&streamencoding=mp31", 
+            "name": "LIBERTA' feat. Bob Andy"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115497"
+}

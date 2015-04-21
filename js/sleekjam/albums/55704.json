@@ -1,0 +1,74 @@
+{
+    "name": "H.R.R.", 
+    "artist": "Reverdead: Two Of Me", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55704&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471067&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471079&streamencoding=mp31", 
+            "name": "Disappointment"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471081&streamencoding=mp31", 
+            "name": "H.R.R."
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471090&streamencoding=mp31", 
+            "name": "Lost"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471091&streamencoding=mp31", 
+            "name": "Vague"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471097&streamencoding=mp31", 
+            "name": "Goodbye"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471099&streamencoding=mp31", 
+            "name": "Let song"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471116&streamencoding=mp31", 
+            "name": "Reminders"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471118&streamencoding=mp31", 
+            "name": "Coma"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471119&streamencoding=mp31", 
+            "name": "Devastated"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471129&streamencoding=mp31", 
+            "name": "Dirt"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471133&streamencoding=mp31", 
+            "name": "Rdtw"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471135&streamencoding=mp31", 
+            "name": "Outro"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55704"
+}

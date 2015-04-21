@@ -1,0 +1,59 @@
+{
+    "name": "DUB CONVALE.SCIENZA", 
+    "artist": "RASTEA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40674&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=296066&streamencoding=mp31", 
+            "name": "Dub Convale.Scienza f Esa"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=296071&streamencoding=mp31", 
+            "name": "Luglius Dub f Step"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=296067&streamencoding=mp31", 
+            "name": "Ammonition f Dre Love"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=296065&streamencoding=mp31", 
+            "name": "Bella Clavia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=296069&streamencoding=mp31", 
+            "name": "NONONOO riddim"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=296070&streamencoding=mp31", 
+            "name": "Sunday Evening"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=296068&streamencoding=mp31", 
+            "name": "Questa \u00e8 l'era Dub f Skone"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=296073&streamencoding=mp31", 
+            "name": "Hendrix f Esa"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=296072&streamencoding=mp31", 
+            "name": "In the night f Ugo de Crescenzo"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=296074&streamencoding=mp31", 
+            "name": "Live&direct 2001 f Yan&Kabba&Step"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40674"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "S.*.*.*.O. (single)", 
+    "artist": "WANNAbe", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22908&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159102&streamencoding=mp31", 
+            "name": "s***o (album version)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159454&streamencoding=mp31", 
+            "name": "s***o (acoustic version)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159455&streamencoding=mp31", 
+            "name": "s***o (piano version)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22908"
+}

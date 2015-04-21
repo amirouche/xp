@@ -1,0 +1,14 @@
+{
+    "name": "Ay-14ice Tell Me (Single Album)", 
+    "artist": "Ay - 14ice", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61367&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525176&streamencoding=mp31", 
+            "name": "Ay-14ice Tell Me"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61367"
+}

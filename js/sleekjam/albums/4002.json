@@ -1,0 +1,14 @@
+{
+    "name": "AfterTheClouds", 
+    "artist": "DJ Davidouille", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4002&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=32094&streamencoding=mp31", 
+            "name": "AfterClouds"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4002"
+}

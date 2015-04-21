@@ -1,0 +1,59 @@
+{
+    "name": "The First Sessions", 
+    "artist": "Project Retouch", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21651&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151912&streamencoding=mp31", 
+            "name": "Ocean Home"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151913&streamencoding=mp31", 
+            "name": "Return of Starmike"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151924&streamencoding=mp31", 
+            "name": "Seeker's Lament (feat Anet)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151926&streamencoding=mp31", 
+            "name": "Mind Blind"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151931&streamencoding=mp31", 
+            "name": "The Visitor"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151905&streamencoding=mp31", 
+            "name": "Rainfall"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151935&streamencoding=mp31", 
+            "name": "Machines of Reality"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151944&streamencoding=mp31", 
+            "name": "Fall Girl"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151947&streamencoding=mp31", 
+            "name": "And If"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151945&streamencoding=mp31", 
+            "name": "Nameless Memories (feat Jango)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21651"
+}

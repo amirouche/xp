@@ -1,0 +1,34 @@
+{
+    "name": "Brutal Discipline", 
+    "artist": "Castrensis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87086&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=745170&streamencoding=mp31", 
+            "name": "Brutal Discipline"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=745167&streamencoding=mp31", 
+            "name": "Grotesque Deliverance"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=745168&streamencoding=mp31", 
+            "name": "Simulating the Living"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=745169&streamencoding=mp31", 
+            "name": "Devoured by Clay"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=745171&streamencoding=mp31", 
+            "name": "Slaves to a Black Sun"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87086"
+}

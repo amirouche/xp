@@ -1,0 +1,19 @@
+{
+    "name": "G Color", 
+    "artist": "Germain, Gabily", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59136&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=504998&streamencoding=mp31", 
+            "name": "Sournoie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=504999&streamencoding=mp31", 
+            "name": "Tard le Soir"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59136"
+}

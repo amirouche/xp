@@ -1,0 +1,84 @@
+{
+    "name": "Val des Lacs", 
+    "artist": "ValDesLacs", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102477&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872199&streamencoding=mp31", 
+            "name": "Entr\u00e9e des dames"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872200&streamencoding=mp31", 
+            "name": "Ste-Cath"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872201&streamencoding=mp31", 
+            "name": "Danse de minuit"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872202&streamencoding=mp31", 
+            "name": "Tu me fais"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872203&streamencoding=mp31", 
+            "name": "Val des Lacs"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872204&streamencoding=mp31", 
+            "name": "Octobre"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872205&streamencoding=mp31", 
+            "name": "Lolita"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872206&streamencoding=mp31", 
+            "name": "L'\u00e9claireur"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872207&streamencoding=mp31", 
+            "name": "Lac aux diamants"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872208&streamencoding=mp31", 
+            "name": "La grand'noire"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872209&streamencoding=mp31", 
+            "name": "La bousculade"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872210&streamencoding=mp31", 
+            "name": "Estelle ma belle"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872446&streamencoding=mp31", 
+            "name": "Louisiana"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872447&streamencoding=mp31", 
+            "name": "Main dans la main"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=872448&streamencoding=mp31", 
+            "name": "Jeu \u00e0 3 mains"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102477"
+}

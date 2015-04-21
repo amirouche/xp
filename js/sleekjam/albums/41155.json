@@ -1,0 +1,39 @@
+{
+    "name": "G-strings", 
+    "artist": "The TenGooz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41155&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301462&streamencoding=mp31", 
+            "name": "Too Much Information"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301453&streamencoding=mp31", 
+            "name": "Miracle "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301457&streamencoding=mp31", 
+            "name": "Revolving Door"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301460&streamencoding=mp31", 
+            "name": "Beach Bossa Nova"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301463&streamencoding=mp31", 
+            "name": "Kapo Verdy"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301458&streamencoding=mp31", 
+            "name": "Chatter (Life in The US under GW Bush)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41155"
+}

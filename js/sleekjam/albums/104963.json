@@ -1,0 +1,29 @@
+{
+    "name": "Spitfire (EP)", 
+    "artist": "RIM", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104963&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892406&streamencoding=mp31", 
+            "name": "Spitfire"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892157&streamencoding=mp31", 
+            "name": "Idle"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892158&streamencoding=mp31", 
+            "name": "Trouble Counter"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892176&streamencoding=mp31", 
+            "name": "Dark Clouds"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104963"
+}

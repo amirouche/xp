@@ -1,0 +1,59 @@
+{
+    "name": "Enough", 
+    "artist": "Sven Turtle", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133675&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118534&streamencoding=mp31", 
+            "name": "Sven Turtle - Welcome"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118531&streamencoding=mp31", 
+            "name": "Sven Turtle - Future Is Untold"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118532&streamencoding=mp31", 
+            "name": "Sven Turtle - Poem About Kate"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118533&streamencoding=mp31", 
+            "name": "Sven Turtle - Memories"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118538&streamencoding=mp31", 
+            "name": "Sven Turtle - I Miss You"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118535&streamencoding=mp31", 
+            "name": "Sven Turtle - Wisdom of Light"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118536&streamencoding=mp31", 
+            "name": "Sven Turtle - Instrumental Metal"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118529&streamencoding=mp31", 
+            "name": "Sven Turtle - Let's Die Together"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118530&streamencoding=mp31", 
+            "name": "Sven Turtle - Burning the Ashes"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118537&streamencoding=mp31", 
+            "name": "Sven Turtle - Enough"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133675"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "HOY ES VIERNES ( SE VA A BEBER)", 
+    "artist": "MARSHALL AQUICCI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136273&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135247&streamencoding=mp31", 
+            "name": "MARSHALL AQUICCI FT LENIN - HOY ES VIERNES (HOY SE VA A BEBER)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136273"
+}

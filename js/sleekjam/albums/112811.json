@@ -1,0 +1,64 @@
+{
+    "name": "Ein Hauch Adrenalin", 
+    "artist": "Damiaskaron", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112811&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959468&streamencoding=mp31", 
+            "name": "We're waiting"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959471&streamencoding=mp31", 
+            "name": "In Form gepresstes Fleisch"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959470&streamencoding=mp31", 
+            "name": "Tr\u00e4nen fallen im Dunkeln leichter als am Tag"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959469&streamencoding=mp31", 
+            "name": "Ein Hauch Adrenalin"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959473&streamencoding=mp31", 
+            "name": "Wenn Soldaten weinen"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959478&streamencoding=mp31", 
+            "name": "Gro\u00dfstadtastronaut"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959477&streamencoding=mp31", 
+            "name": "Sei bereit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959474&streamencoding=mp31", 
+            "name": "Immer wenn ich tr\u00e4um'"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959475&streamencoding=mp31", 
+            "name": "Wieder mal"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959476&streamencoding=mp31", 
+            "name": "Am Tunneleingang"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959472&streamencoding=mp31", 
+            "name": "Nachtklischees"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112811"
+}

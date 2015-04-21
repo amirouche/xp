@@ -1,0 +1,14 @@
+{
+    "name": "A voice in the desert", 
+    "artist": "Soul TakeR", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126462&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069383&streamencoding=mp31", 
+            "name": "A voice in the dersert"
+        }
+    ], 
+    "release": "2013", 
+    "id": "126462"
+}

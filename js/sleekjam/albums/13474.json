@@ -1,0 +1,34 @@
+{
+    "name": "kolscher voyage", 
+    "artist": "Tet production", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13474&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109751&streamencoding=mp31", 
+            "name": "Wellcome"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109750&streamencoding=mp31", 
+            "name": "L'Italien"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109748&streamencoding=mp31", 
+            "name": "le Sicilien"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109747&streamencoding=mp31", 
+            "name": "La Mer"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109749&streamencoding=mp31", 
+            "name": "Le Touareg"
+        }
+    ], 
+    "release": "2007", 
+    "id": "13474"
+}

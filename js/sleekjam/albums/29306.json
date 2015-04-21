@@ -1,0 +1,49 @@
+{
+    "name": "Pneuma EP", 
+    "artist": "Electronic Noise Controller", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29306&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196444&streamencoding=mp31", 
+            "name": "Pneuma"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196448&streamencoding=mp31", 
+            "name": "Sandstone"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196451&streamencoding=mp31", 
+            "name": "Shuffle"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196453&streamencoding=mp31", 
+            "name": "Bugtoy"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196457&streamencoding=mp31", 
+            "name": "Burrow"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196477&streamencoding=mp31", 
+            "name": "Piel"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196481&streamencoding=mp31", 
+            "name": "Frozen Tomatoes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196487&streamencoding=mp31", 
+            "name": "Tape Surgeon"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29306"
+}

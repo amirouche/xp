@@ -1,0 +1,49 @@
+{
+    "name": "Black Forest", 
+    "artist": "J\u00fcrgen N\u00f6ding", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56718&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481292&streamencoding=mp31", 
+            "name": "Black Forest-Black Forest-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481293&streamencoding=mp31", 
+            "name": "Let me come to you-Black Forest-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481294&streamencoding=mp31", 
+            "name": "Sch\u00f6n und heilsam-Black Forest-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481295&streamencoding=mp31", 
+            "name": "Gute Erholung !-Black Forest-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481296&streamencoding=mp31", 
+            "name": "Ohne Wenn und Aber !-Black Forest-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481297&streamencoding=mp31", 
+            "name": "Vergiss mich nicht-Black Forest-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481298&streamencoding=mp31", 
+            "name": "Alles ist Klang-Black Forest-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481299&streamencoding=mp31", 
+            "name": "High dreaming-Black Forest-(c)Copyright 2006 by Juergen Noeding"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56718"
+}

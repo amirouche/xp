@@ -1,0 +1,44 @@
+{
+    "name": "Envenom", 
+    "artist": "Cydocore", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20211&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141335&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141336&streamencoding=mp31", 
+            "name": "Fallen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141338&streamencoding=mp31", 
+            "name": "Attention"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141339&streamencoding=mp31", 
+            "name": "Never Wake"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141342&streamencoding=mp31", 
+            "name": "What You Regret"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141345&streamencoding=mp31", 
+            "name": "I'm Down"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141348&streamencoding=mp31", 
+            "name": "Final Truth"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20211"
+}

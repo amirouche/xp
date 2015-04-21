@@ -1,0 +1,104 @@
+{
+    "name": "Premier Semestre", 
+    "artist": "JAM OUEST", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117232&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996644&streamencoding=mp31", 
+            "name": "Serendipity"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996641&streamencoding=mp31", 
+            "name": "Addiction"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996642&streamencoding=mp31", 
+            "name": "Clic Clac Boum"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996643&streamencoding=mp31", 
+            "name": "Work with you (all night long)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996650&streamencoding=mp31", 
+            "name": "Ca se passe"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996645&streamencoding=mp31", 
+            "name": "Can we Get"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996646&streamencoding=mp31", 
+            "name": "One Day"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996647&streamencoding=mp31", 
+            "name": "B.U."
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996648&streamencoding=mp31", 
+            "name": "Meli Melo "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996649&streamencoding=mp31", 
+            "name": "North Avenue"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996651&streamencoding=mp31", 
+            "name": "Cha\u00eene Humaine"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996633&streamencoding=mp31", 
+            "name": "Give"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996635&streamencoding=mp31", 
+            "name": "Tijuana"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996634&streamencoding=mp31", 
+            "name": "Partiels"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996636&streamencoding=mp31", 
+            "name": "J'ai la dalle"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996638&streamencoding=mp31", 
+            "name": "Pas de Soucy"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996640&streamencoding=mp31", 
+            "name": "Kasdedi o keur"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996637&streamencoding=mp31", 
+            "name": "Fin du monde"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996639&streamencoding=mp31", 
+            "name": "Chanson cach\u00e9e"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117232"
+}

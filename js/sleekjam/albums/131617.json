@@ -1,0 +1,49 @@
+{
+    "name": "Do you remember ?", 
+    "artist": "MIRO B.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131617&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102748&streamencoding=mp31", 
+            "name": "Titel 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102745&streamencoding=mp31", 
+            "name": "Titel 2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102746&streamencoding=mp31", 
+            "name": "Titel 3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102747&streamencoding=mp31", 
+            "name": "Titel 4"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102752&streamencoding=mp31", 
+            "name": "Titel 5"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102749&streamencoding=mp31", 
+            "name": "Titel 6"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102750&streamencoding=mp31", 
+            "name": "Titel 7"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102751&streamencoding=mp31", 
+            "name": "Titel 8"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131617"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Ostynat'1", 
+    "artist": "Ostynat'", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99245&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=849438&streamencoding=mp31", 
+            "name": "Variations en 12-8"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99245"
+}

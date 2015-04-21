@@ -1,0 +1,54 @@
+{
+    "name": "pulsions", 
+    "artist": "Zoot", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19175&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134569&streamencoding=mp31", 
+            "name": "jugement dernier"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134545&streamencoding=mp31", 
+            "name": "brown"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134541&streamencoding=mp31", 
+            "name": "high way out"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134549&streamencoding=mp31", 
+            "name": "mondialisation"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134551&streamencoding=mp31", 
+            "name": "cowgirl"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134556&streamencoding=mp31", 
+            "name": "final dream"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134560&streamencoding=mp31", 
+            "name": "guitar"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134565&streamencoding=mp31", 
+            "name": "postman in pool"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134568&streamencoding=mp31", 
+            "name": "cars"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19175"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "I (The birth Of StabWounD)", 
+    "artist": "StabWounD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26579&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178573&streamencoding=mp31", 
+            "name": "Shroudded In Darkness"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161498&streamencoding=mp31", 
+            "name": "Feel The StabWounD"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161499&streamencoding=mp31", 
+            "name": "Death Assembly"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178574&streamencoding=mp31", 
+            "name": "Serenity In Pain"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26579"
+}

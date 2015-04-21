@@ -1,0 +1,74 @@
+{
+    "name": "Sensi", 
+    "artist": "A Flipping  Budjunky", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79072&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680326&streamencoding=mp31", 
+            "name": "Sensi"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680330&streamencoding=mp31", 
+            "name": "Switch"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680334&streamencoding=mp31", 
+            "name": "Good Ganja"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680331&streamencoding=mp31", 
+            "name": "Bass of the Orient"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680335&streamencoding=mp31", 
+            "name": "Okami"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680338&streamencoding=mp31", 
+            "name": "Heartbeat"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680329&streamencoding=mp31", 
+            "name": "Frogstep"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680333&streamencoding=mp31", 
+            "name": "Acid Rein"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680336&streamencoding=mp31", 
+            "name": "Marihuana"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680327&streamencoding=mp31", 
+            "name": "Bless me"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680332&streamencoding=mp31", 
+            "name": "Wobblefrogs"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680337&streamencoding=mp31", 
+            "name": "Subsonic"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680328&streamencoding=mp31", 
+            "name": "Puppet Player"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79072"
+}

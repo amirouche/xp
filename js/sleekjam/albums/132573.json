@@ -1,0 +1,19 @@
+{
+    "name": "ExtraExtreme!", 
+    "artist": "\u041a\u0438\u0441\u043a\u0430", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132573&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109653&streamencoding=mp31", 
+            "name": "\u042d\u043a\u0441\u0442\u0440\u0430\u042d\u043a\u0441\u0442\u0440\u0438\u043c"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109654&streamencoding=mp31", 
+            "name": "\u0412\u041e!"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132573"
+}

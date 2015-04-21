@@ -1,0 +1,34 @@
+{
+    "name": "Escenas de la vida g\u00f3tica", 
+    "artist": "Distimia (Espa\u00f1a)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8246&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=85631&streamencoding=mp31", 
+            "name": "Claviculas Salomonis"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=85632&streamencoding=mp31", 
+            "name": "La rosa marchita"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=85633&streamencoding=mp31", 
+            "name": "Delenda Est"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=85664&streamencoding=mp31", 
+            "name": "When Lord Cries (Instrumental)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=85648&streamencoding=mp31", 
+            "name": "El bosque a las afueras"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8246"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Pi/2", 
+    "artist": "Rec.koner", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83853&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718826&streamencoding=mp31", 
+            "name": "Jaberwock"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718823&streamencoding=mp31", 
+            "name": "Rad"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718827&streamencoding=mp31", 
+            "name": "Unnamed Beauty"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718824&streamencoding=mp31", 
+            "name": "Gormonbozia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718828&streamencoding=mp31", 
+            "name": "Perception I"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718825&streamencoding=mp31", 
+            "name": "Perception II"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718829&streamencoding=mp31", 
+            "name": "Perception III"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718830&streamencoding=mp31", 
+            "name": "Perception IV"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718831&streamencoding=mp31", 
+            "name": "Outro"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83853"
+}

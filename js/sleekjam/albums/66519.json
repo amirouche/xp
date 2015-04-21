@@ -1,0 +1,34 @@
+{
+    "name": "ELECTRO", 
+    "artist": "Michel Casadei Della Chiesa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66519&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=576996&streamencoding=mp31", 
+            "name": "Turbule"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=576979&streamencoding=mp31", 
+            "name": "Chassez le naturel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=576995&streamencoding=mp31", 
+            "name": "Pr\u00e9texte"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=576975&streamencoding=mp31", 
+            "name": "Dance on the keyboard"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=576994&streamencoding=mp31", 
+            "name": "Funky Teck"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66519"
+}

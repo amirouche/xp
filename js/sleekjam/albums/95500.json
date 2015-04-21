@@ -1,0 +1,14 @@
+{
+    "name": "Titles", 
+    "artist": "Antony Raijekov", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95500&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817375&streamencoding=mp31", 
+            "name": "Titles"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95500"
+}

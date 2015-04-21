@@ -1,0 +1,29 @@
+{
+    "name": "Freedom 911 ep", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99334&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850235&streamencoding=mp31", 
+            "name": "Where The Heart Goes (ft HTore & Mel)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850233&streamencoding=mp31", 
+            "name": "When Tomorrow Comes (ft LoveShadow)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850232&streamencoding=mp31", 
+            "name": "Put The Needle Down (ft Admiral Bob)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850234&streamencoding=mp31", 
+            "name": "100 Paper Washingtons (ft Scomber)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99334"
+}

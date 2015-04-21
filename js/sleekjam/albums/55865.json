@@ -1,0 +1,59 @@
+{
+    "name": "sunnn", 
+    "artist": "l'arbre vert", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55865&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472736&streamencoding=mp31", 
+            "name": "Elle qui agit"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472738&streamencoding=mp31", 
+            "name": "Joe tropical train"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472739&streamencoding=mp31", 
+            "name": "Suuunn"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472740&streamencoding=mp31", 
+            "name": "vive les melons "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472735&streamencoding=mp31", 
+            "name": "Bon ben d'accord "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472690&streamencoding=mp31", 
+            "name": "Django Return With ET"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472691&streamencoding=mp31", 
+            "name": "joyeux no\u00eal (balade2)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472737&streamencoding=mp31", 
+            "name": "Etoile du nord"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472693&streamencoding=mp31", 
+            "name": "Joe Trinidad"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472692&streamencoding=mp31", 
+            "name": "Finale"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55865"
+}

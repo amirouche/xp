@@ -1,0 +1,34 @@
+{
+    "name": "The Teeth Of Tomorrow", 
+    "artist": "The Silence Industry", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66978&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580871&streamencoding=mp31", 
+            "name": "The Teeth of Tomorrow"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580873&streamencoding=mp31", 
+            "name": "Together (Perfect Isolation)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580874&streamencoding=mp31", 
+            "name": "Ruins of the City"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580875&streamencoding=mp31", 
+            "name": "Kissing Clouds"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580876&streamencoding=mp31", 
+            "name": "The Colour of Heaven (All My Love)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66978"
+}

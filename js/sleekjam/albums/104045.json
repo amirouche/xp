@@ -1,0 +1,14 @@
+{
+    "name": "Thysong", 
+    "artist": "Mthymusik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104045&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=885066&streamencoding=mp31", 
+            "name": "thysong-1"
+        }
+    ], 
+    "release": "2013", 
+    "id": "104045"
+}

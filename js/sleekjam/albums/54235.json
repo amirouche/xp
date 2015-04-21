@@ -1,0 +1,59 @@
+{
+    "name": "Phoenix", 
+    "artist": "Kitaygorod", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54235&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453040&streamencoding=mp31", 
+            "name": "Phoenix"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453034&streamencoding=mp31", 
+            "name": "J.C.S.S."
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453039&streamencoding=mp31", 
+            "name": "Mulholland Drive"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453045&streamencoding=mp31", 
+            "name": "Phoenix (Nora Zoloto mix)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453037&streamencoding=mp31", 
+            "name": "Moloko Plus"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453038&streamencoding=mp31", 
+            "name": "Fazan (Dimasta mix)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453035&streamencoding=mp31", 
+            "name": "Om"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453036&streamencoding=mp31", 
+            "name": "Sexy Blue Jazz"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453042&streamencoding=mp31", 
+            "name": "Metro (Dimasta mix)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453043&streamencoding=mp31", 
+            "name": "Krylya Jelaniya (Shtoda mix)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54235"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Calm & Collect Vol.2", 
+    "artist": "Anitek", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110292&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939255&streamencoding=mp31", 
+            "name": "First Impression"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939258&streamencoding=mp31", 
+            "name": "Cedar Tops"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939254&streamencoding=mp31", 
+            "name": "Assumption"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939260&streamencoding=mp31", 
+            "name": "Breakdown1"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939256&streamencoding=mp31", 
+            "name": "Quote Book"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939253&streamencoding=mp31", 
+            "name": "Sound Bite"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939261&streamencoding=mp31", 
+            "name": "Breakdown2"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939257&streamencoding=mp31", 
+            "name": "Quartz"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939259&streamencoding=mp31", 
+            "name": "Master Key"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110292"
+}

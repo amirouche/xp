@@ -1,0 +1,69 @@
+{
+    "name": "surtido selecto", 
+    "artist": "REOPLA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18719&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132426&streamencoding=mp31", 
+            "name": "ven helen"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132437&streamencoding=mp31", 
+            "name": "buen sabor"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132453&streamencoding=mp31", 
+            "name": "tiempos sin lucha"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132458&streamencoding=mp31", 
+            "name": "me corto las penas"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132465&streamencoding=mp31", 
+            "name": "mantener el pellejo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132471&streamencoding=mp31", 
+            "name": "el cuento del lobo hormiguero"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132487&streamencoding=mp31", 
+            "name": "ese pueblo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132497&streamencoding=mp31", 
+            "name": "m\u00b4alegro verte"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132499&streamencoding=mp31", 
+            "name": "mi calle"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132513&streamencoding=mp31", 
+            "name": "mistica"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132516&streamencoding=mp31", 
+            "name": "dame veneno"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132518&streamencoding=mp31", 
+            "name": "el vals del borracho"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18719"
+}

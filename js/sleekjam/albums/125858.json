@@ -1,0 +1,19 @@
+{
+    "name": "Un estiu sense nevera (2012)", 
+    "artist": "David Castell\u00e0", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125858&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1065460&streamencoding=mp31", 
+            "name": "Dins del bosc - David Castell\u00e0 - Un estiu sense nevera (2012)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1065461&streamencoding=mp31", 
+            "name": "Intermediaris-77 - David Castell\u00e0 - Un estiu sense nevera (2012)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125858"
+}

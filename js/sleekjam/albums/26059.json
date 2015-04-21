@@ -1,0 +1,64 @@
+{
+    "name": "Here Come The Floods", 
+    "artist": "Luke Tan", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26059&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175877&streamencoding=mp31", 
+            "name": "Prison Break"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175919&streamencoding=mp31", 
+            "name": "Baby's Baby Blue Eyes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175874&streamencoding=mp31", 
+            "name": "Bottle Of Wine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175875&streamencoding=mp31", 
+            "name": "Come Back West"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175880&streamencoding=mp31", 
+            "name": "Streets Of New Orleans"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175881&streamencoding=mp31", 
+            "name": "Whiskey Before Breakfast"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175876&streamencoding=mp31", 
+            "name": "Faith To Fly"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175872&streamencoding=mp31", 
+            "name": "Adios, So Long Sweetheart, Goodbye"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175879&streamencoding=mp31", 
+            "name": "Standing In The Mud"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175878&streamencoding=mp31", 
+            "name": "Red August Moon"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175882&streamencoding=mp31", 
+            "name": "Bring Your Body Home"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26059"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Viva Steel Rat!", 
+    "artist": "Spaceman J", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137175&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1144098&streamencoding=mp31", 
+            "name": "The Steelrat sings the Rock'n'Roll"
+        }
+    ], 
+    "release": "2014", 
+    "id": "137175"
+}

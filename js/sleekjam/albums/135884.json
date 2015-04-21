@@ -1,0 +1,49 @@
+{
+    "name": "T. R. A. P. Music", 
+    "artist": "King Hitz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135884&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132954&streamencoding=mp31", 
+            "name": "Sex In the Morning (Radio Edit)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132955&streamencoding=mp31", 
+            "name": "Deeper"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132946&streamencoding=mp31", 
+            "name": "Adios (ft: Merce Him)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132951&streamencoding=mp31", 
+            "name": "Tonight"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132947&streamencoding=mp31", 
+            "name": "Long Stroke"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132948&streamencoding=mp31", 
+            "name": "My Drug"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132949&streamencoding=mp31", 
+            "name": "Love You Better"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132950&streamencoding=mp31", 
+            "name": "Next 2 You"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135884"
+}

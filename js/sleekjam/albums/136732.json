@@ -1,0 +1,29 @@
+{
+    "name": "Hambone Gas", 
+    "artist": "Conway Hambone", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136732&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1138262&streamencoding=mp31", 
+            "name": "Ticking Away"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1138257&streamencoding=mp31", 
+            "name": "Push It"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1138256&streamencoding=mp31", 
+            "name": "Back around Again"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1138258&streamencoding=mp31", 
+            "name": "PSI"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136732"
+}

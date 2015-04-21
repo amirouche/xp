@@ -1,0 +1,59 @@
+{
+    "name": "Outlet", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119640&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015990&streamencoding=mp31", 
+            "name": "if you stop ft team smile"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015998&streamencoding=mp31", 
+            "name": "musicbiztoday ft hans atom"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015997&streamencoding=mp31", 
+            "name": "bor ft tomas phusion"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015996&streamencoding=mp31", 
+            "name": "nothingmuch ft ciggieburns"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015995&streamencoding=mp31", 
+            "name": "gotime ft 4nsic + My Free Mickey"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015994&streamencoding=mp31", 
+            "name": "starteachday ft kara square"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015999&streamencoding=mp31", 
+            "name": "waking ft snowflake"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015993&streamencoding=mp31", 
+            "name": "veryinteresting1 ft fy psykick + imaginario"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015992&streamencoding=mp31", 
+            "name": "boydontcry ft scomber"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015991&streamencoding=mp31", 
+            "name": "follow ft discopen"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119640"
+}

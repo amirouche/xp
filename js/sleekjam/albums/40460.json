@@ -1,0 +1,59 @@
+{
+    "name": "This Ain't Hollywood (Instrumental)", 
+    "artist": "Silence is Sexy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40460&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293871&streamencoding=mp31", 
+            "name": "Come Back To You (Instrumental)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293869&streamencoding=mp31", 
+            "name": "Night Out (Instrumental)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293866&streamencoding=mp31", 
+            "name": "1984 (Instrumental)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293873&streamencoding=mp31", 
+            "name": "This Ain't Hollywood (Instrumental)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293905&streamencoding=mp31", 
+            "name": "On The Beach (Instrumental)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293867&streamencoding=mp31", 
+            "name": "Where Were You (Instrumental)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293904&streamencoding=mp31", 
+            "name": "You Are A Mirror (Instrumental)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293868&streamencoding=mp31", 
+            "name": "Spider (Instrumental)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293875&streamencoding=mp31", 
+            "name": "Closing Titles (Instrumental)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293906&streamencoding=mp31", 
+            "name": "Talk (Instrumental)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40460"
+}

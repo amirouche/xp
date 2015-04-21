@@ -1,0 +1,29 @@
+{
+    "name": "01 / 06 / 2010", 
+    "artist": "BLUESY ROOSTERS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68427&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=592801&streamencoding=mp31", 
+            "name": "LES PETITES PUTES "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=592803&streamencoding=mp31", 
+            "name": "LES GARCONS "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=592804&streamencoding=mp31", 
+            "name": "SALUT MARGOT "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=592802&streamencoding=mp31", 
+            "name": "TGV'N ROLL"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68427"
+}

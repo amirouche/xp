@@ -1,0 +1,14 @@
+{
+    "name": "Tiger march", 
+    "artist": "Master Project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115257&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978594&streamencoding=mp31", 
+            "name": "tiger march - single"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115257"
+}

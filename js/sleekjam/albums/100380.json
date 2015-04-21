@@ -1,0 +1,69 @@
+{
+    "name": "Spirit of wude", 
+    "artist": "Cybernoiser", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100380&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=857708&streamencoding=mp31", 
+            "name": "Ecocities"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=857714&streamencoding=mp31", 
+            "name": "King Money"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=857715&streamencoding=mp31", 
+            "name": "Time Of Changes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=857716&streamencoding=mp31", 
+            "name": "Middle Center"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=857717&streamencoding=mp31", 
+            "name": "Spirit Of Wude"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=857732&streamencoding=mp31", 
+            "name": "Boizy And Girly"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=857734&streamencoding=mp31", 
+            "name": "Palace Of Signs"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=857737&streamencoding=mp31", 
+            "name": "Magnetic Pulse"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=857749&streamencoding=mp31", 
+            "name": "Line Life"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=857760&streamencoding=mp31", 
+            "name": "Travel Senses"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=857762&streamencoding=mp31", 
+            "name": "Before The End"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=857784&streamencoding=mp31", 
+            "name": "Gathering"
+        }
+    ], 
+    "release": "2011", 
+    "id": "100380"
+}

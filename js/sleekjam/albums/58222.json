@@ -1,0 +1,64 @@
+{
+    "name": "Balayan Bats", 
+    "artist": "A Jovian Night", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58222&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496821&streamencoding=mp31", 
+            "name": "A Jovian Night - 01 - Left Behind"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497130&streamencoding=mp31", 
+            "name": "A Jovian Night - 02 - Festival Of Lights"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497131&streamencoding=mp31", 
+            "name": "A Jovian Night - 03 - Tell Me I Did The Right Thing"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496824&streamencoding=mp31", 
+            "name": "A Jovian Night - 04 - Kalamansi"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497132&streamencoding=mp31", 
+            "name": "A Jovian Night - 05 - Stay Alive"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497133&streamencoding=mp31", 
+            "name": "A Jovian Night - 06 - Abandoned"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496828&streamencoding=mp31", 
+            "name": "A Jovian Night - 07 - Why Can't I Feel Sad"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497134&streamencoding=mp31", 
+            "name": "A Jovian Night - 08 - Say What You Want"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497135&streamencoding=mp31", 
+            "name": "A Jovian Night - 09 - Blessed"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496831&streamencoding=mp31", 
+            "name": "A Jovian Night - 10 - Oddly Calm"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496832&streamencoding=mp31", 
+            "name": "A Jovian Night - 11 - Hangeen"
+        }
+    ], 
+    "release": "2009", 
+    "id": "58222"
+}

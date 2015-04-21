@@ -1,0 +1,44 @@
+{
+    "name": "Calls", 
+    "artist": "Dj Poke", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39190&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=279043&streamencoding=mp31", 
+            "name": "mind revelation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=279048&streamencoding=mp31", 
+            "name": "spiritual body"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=279042&streamencoding=mp31", 
+            "name": "blackroom reality"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=279044&streamencoding=mp31", 
+            "name": "when i want to die"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=279045&streamencoding=mp31", 
+            "name": "world fucker"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=279046&streamencoding=mp31", 
+            "name": "communique a tort"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=279047&streamencoding=mp31", 
+            "name": "les morts back"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39190"
+}

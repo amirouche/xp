@@ -1,0 +1,44 @@
+{
+    "name": "SONGO 21 - Studio sessions 2003", 
+    "artist": "SONGO 21", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74097&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639729&streamencoding=mp31", 
+            "name": "Opening para Songo 21"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639730&streamencoding=mp31", 
+            "name": "La Mujer de Antonio"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639731&streamencoding=mp31", 
+            "name": "Fallaste al sacar tu cuenta"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639732&streamencoding=mp31", 
+            "name": "Guiro para Elegua"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639733&streamencoding=mp31", 
+            "name": "De Cuba"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639734&streamencoding=mp31", 
+            "name": "Donde Estabas-tu ?"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639735&streamencoding=mp31", 
+            "name": "Amor Y Felicidad"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74097"
+}

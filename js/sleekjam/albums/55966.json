@@ -1,0 +1,89 @@
+{
+    "name": "Snow Eyes", 
+    "artist": "l'arbre vert", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55966&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474160&streamencoding=mp31", 
+            "name": "Smoke Haze"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474299&streamencoding=mp31", 
+            "name": "Snow Eyes (remix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474152&streamencoding=mp31", 
+            "name": "neiges  astrales"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474150&streamencoding=mp31", 
+            "name": "s\u00e9n\u00e9\u00e7on d'Hiver (snow chap 3.2 remix )"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474157&streamencoding=mp31", 
+            "name": "Snow pass"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474148&streamencoding=mp31", 
+            "name": "Panorpe"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474151&streamencoding=mp31", 
+            "name": "Snow pant\u00e8ne coda"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474153&streamencoding=mp31", 
+            "name": "Sylvinite(Snow Chap Man rmix)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474149&streamencoding=mp31", 
+            "name": "Percerette des neige"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474156&streamencoding=mp31", 
+            "name": "Snow  Nature"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474158&streamencoding=mp31", 
+            "name": "muserolle Pause sindycale"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474162&streamencoding=mp31", 
+            "name": "Snow Chap Circus"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474161&streamencoding=mp31", 
+            "name": "tic tac tri\u00eache"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474159&streamencoding=mp31", 
+            "name": "Patinage du trinquart (ignrancia remix)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474164&streamencoding=mp31", 
+            "name": "Snow By Pass"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474154&streamencoding=mp31", 
+            "name": "Reaction Sensitive (snow chap 3.3 remix)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55966"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Room For Two And Your Ghost", 
+    "artist": "Good Day, Montag.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60589&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518204&streamencoding=mp31", 
+            "name": "The Contemporary Aggresive Mind..."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518209&streamencoding=mp31", 
+            "name": "\u2026 Throws Pierre Soul\u00e9 From The Boat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518211&streamencoding=mp31", 
+            "name": "Trevilian Station:"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518212&streamencoding=mp31", 
+            "name": "City Of M: Part 5"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518206&streamencoding=mp31", 
+            "name": "Charlie's Beard"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518203&streamencoding=mp31", 
+            "name": "Cold With Patchy Fog (Runners High)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518210&streamencoding=mp31", 
+            "name": "Bloomington Thunderbird"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518205&streamencoding=mp31", 
+            "name": "Room For Two And Your Ghost"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518214&streamencoding=mp31", 
+            "name": "Continental Gift"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518213&streamencoding=mp31", 
+            "name": "Trophies"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518208&streamencoding=mp31", 
+            "name": "The TR Express"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518207&streamencoding=mp31", 
+            "name": "The Sisters Of Mercy's Squandered Sums"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518215&streamencoding=mp31", 
+            "name": "Arrival At Manassas"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60589"
+}

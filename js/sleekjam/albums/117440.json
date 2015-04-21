@@ -1,0 +1,64 @@
+{
+    "name": "Coleslaw", 
+    "artist": "Sur Non", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117440&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998392&streamencoding=mp31", 
+            "name": "Pepsi The Cat"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998378&streamencoding=mp31", 
+            "name": "Motorik F\u00fcnf"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998376&streamencoding=mp31", 
+            "name": "Fancy a Sinecure?"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998379&streamencoding=mp31", 
+            "name": "Taggart in the Gulch"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998375&streamencoding=mp31", 
+            "name": "Noble Tri-State (Lazy Ray)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998370&streamencoding=mp31", 
+            "name": "Falling off a Seesaw"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998371&streamencoding=mp31", 
+            "name": "Pooper-Scooper"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998372&streamencoding=mp31", 
+            "name": "Beware of Road Apples!"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998374&streamencoding=mp31", 
+            "name": "Verimakkara"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998373&streamencoding=mp31", 
+            "name": "Cure for Rosacea"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998377&streamencoding=mp31", 
+            "name": "Random Lloopy (live bonus)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117440"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Mind Express", 
+    "artist": "Anitek", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90408&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771290&streamencoding=mp31", 
+            "name": "Calling"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771294&streamencoding=mp31", 
+            "name": "Flow"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771285&streamencoding=mp31", 
+            "name": "Blueprint"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771287&streamencoding=mp31", 
+            "name": "Sarcasm"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771288&streamencoding=mp31", 
+            "name": "Light-year"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771291&streamencoding=mp31", 
+            "name": "Shortcut"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771289&streamencoding=mp31", 
+            "name": "Contact"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771292&streamencoding=mp31", 
+            "name": "One-way"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771293&streamencoding=mp31", 
+            "name": "Welcome"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771286&streamencoding=mp31", 
+            "name": "Destination"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90408"
+}

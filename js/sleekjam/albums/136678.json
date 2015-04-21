@@ -1,0 +1,14 @@
+{
+    "name": "Riffle One (Single)", 
+    "artist": "Truman", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136678&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137982&streamencoding=mp31", 
+            "name": "Riffle One"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136678"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Funky Drum and Bass", 
+    "artist": "Akashic Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132320&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1107947&streamencoding=mp31", 
+            "name": "Funky Jungle Beat"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1107948&streamencoding=mp31", 
+            "name": "Fast Energetic Jingle"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132320"
+}

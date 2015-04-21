@@ -1,0 +1,14 @@
+{
+    "name": "Acte 17", 
+    "artist": "Jos\u00e9 Konda", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35596&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=245947&streamencoding=mp31", 
+            "name": "Act17"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35596"
+}

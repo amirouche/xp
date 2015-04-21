@@ -1,0 +1,59 @@
+{
+    "name": "WRW It's Still Raining", 
+    "artist": "Avi Rosenfeld", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121425&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031557&streamencoding=mp31", 
+            "name": "Mazal Tov Nolad Lecha (Congratulations, your son was born)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031556&streamencoding=mp31", 
+            "name": "Met This Fellow"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031555&streamencoding=mp31", 
+            "name": "Its Still Raining"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031554&streamencoding=mp31", 
+            "name": "Motown Day"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031553&streamencoding=mp31", 
+            "name": "Bobby's Bass Bomb"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031552&streamencoding=mp31", 
+            "name": "Come Back"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031551&streamencoding=mp31", 
+            "name": "Rumba Ken"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031550&streamencoding=mp31", 
+            "name": "Bakrav Mul Hamachshev (In a Fight With The Computer)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031549&streamencoding=mp31", 
+            "name": "Blue Sails"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031548&streamencoding=mp31", 
+            "name": "Ani Bishvilech (I'm For You)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121425"
+}

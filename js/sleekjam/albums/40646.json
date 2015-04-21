@@ -1,0 +1,24 @@
+{
+    "name": " melting dance", 
+    "artist": "KL", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40646&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=295782&streamencoding=mp31", 
+            "name": "unhop"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=295781&streamencoding=mp31", 
+            "name": "oriental_dancefloor"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=295783&streamencoding=mp31", 
+            "name": "jump_sax"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40646"
+}

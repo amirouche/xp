@@ -1,0 +1,49 @@
+{
+    "name": "I PoP OnE (11)", 
+    "artist": "Briovere Buffentis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54436&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455262&streamencoding=mp31", 
+            "name": "7__-_Briovere_Buffentis_-_I_Pop_One_-_2006"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455259&streamencoding=mp31", 
+            "name": "Changing_Weather_-_Briovere_Buffentis_-_I_Pop_One_-_2006"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455256&streamencoding=mp31", 
+            "name": "Dream_Shopping_-_Briovere_Buffentis_-_I_Pop_One_-_2006"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455257&streamencoding=mp31", 
+            "name": "Old_Story_-_Briovere_Buffentis_-_I_Pop_One_-_2006"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455258&streamencoding=mp31", 
+            "name": "Savanna_Express_-_Briovere_Buffentis_-_I_Pop_One_-_2006"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455260&streamencoding=mp31", 
+            "name": "Lignt_Symhony_-_Briovere_Buffentis_-_I_Pop_One_-_2006"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455261&streamencoding=mp31", 
+            "name": "Coming_Soon_-_Briovere_Buffentis_-_I_Pop_One_-_2006"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455263&streamencoding=mp31", 
+            "name": "New_Western_Movie_-_Briovere_Buffentis_-_I_Pop_One_-_2006"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54436"
+}

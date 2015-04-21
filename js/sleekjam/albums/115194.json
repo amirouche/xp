@@ -1,0 +1,29 @@
+{
+    "name": "II", 
+    "artist": "StabWounD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115194&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978179&streamencoding=mp31", 
+            "name": "Black Avenger"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978180&streamencoding=mp31", 
+            "name": "Pain Bringer"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978181&streamencoding=mp31", 
+            "name": "Angel of Lust"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978182&streamencoding=mp31", 
+            "name": "Slashed"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115194"
+}

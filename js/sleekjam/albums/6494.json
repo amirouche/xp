@@ -1,0 +1,34 @@
+{
+    "name": "HeartBEATS", 
+    "artist": "The Love Dictators", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6494&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73379&streamencoding=mp31", 
+            "name": "Superstorm (Intro)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73380&streamencoding=mp31", 
+            "name": "This is Love!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73381&streamencoding=mp31", 
+            "name": "De-Virginator"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73382&streamencoding=mp31", 
+            "name": "All Your Base Are Belong To Us"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73383&streamencoding=mp31", 
+            "name": "Groove of Love"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6494"
+}

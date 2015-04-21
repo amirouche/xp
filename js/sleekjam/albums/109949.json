@@ -1,0 +1,59 @@
+{
+    "name": "Voices in my Mind", 
+    "artist": "Hollow Cycle", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109949&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936703&streamencoding=mp31", 
+            "name": "Anger"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936706&streamencoding=mp31", 
+            "name": "Consequences"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936705&streamencoding=mp31", 
+            "name": "Merthyr"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936704&streamencoding=mp31", 
+            "name": "Suffocation"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936712&streamencoding=mp31", 
+            "name": "War Against the Beast"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936708&streamencoding=mp31", 
+            "name": "Prey of Violence"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936709&streamencoding=mp31", 
+            "name": "Voices in my Mind"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936710&streamencoding=mp31", 
+            "name": "Anger - Delion"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936711&streamencoding=mp31", 
+            "name": "Ascension of Violence"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936707&streamencoding=mp31", 
+            "name": "Leviticus"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109949"
+}

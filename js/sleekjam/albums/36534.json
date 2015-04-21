@@ -1,0 +1,14 @@
+{
+    "name": "Hey ho !", 
+    "artist": "Mob", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36534&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=254431&streamencoding=mp31", 
+            "name": "Hey ho !"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36534"
+}

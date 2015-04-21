@@ -1,0 +1,94 @@
+{
+    "name": "Harpy", 
+    "artist": "Melcheor", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79438&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683206&streamencoding=mp31", 
+            "name": "The creator is talking with a woman(beginning)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683198&streamencoding=mp31", 
+            "name": "Scorn (intermedia one)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683195&streamencoding=mp31", 
+            "name": "We are afraid (waiver)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683199&streamencoding=mp31", 
+            "name": "Thoughts (forgiveness)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683205&streamencoding=mp31", 
+            "name": "Creator Calls snakes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683193&streamencoding=mp31", 
+            "name": "Preparation (intermedia two)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683197&streamencoding=mp31", 
+            "name": "Going in the mud (intermedia three)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683203&streamencoding=mp31", 
+            "name": "Volkolak"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683191&streamencoding=mp31", 
+            "name": "Sharp teeth, wings coriaceous, and the agony"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683194&streamencoding=mp31", 
+            "name": "Gathering blood"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683201&streamencoding=mp31", 
+            "name": "Howl of the Manticora"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683192&streamencoding=mp31", 
+            "name": "Dying Harpy"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683196&streamencoding=mp31", 
+            "name": "Sword of razorback (intermedia four)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683204&streamencoding=mp31", 
+            "name": "Ello"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683207&streamencoding=mp31", 
+            "name": "Nikofeya"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683200&streamencoding=mp31", 
+            "name": "The seventh circle"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683202&streamencoding=mp31", 
+            "name": "...(final)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79438"
+}

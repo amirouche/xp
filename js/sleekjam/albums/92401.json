@@ -1,0 +1,69 @@
+{
+    "name": "Garden City Sessions", 
+    "artist": "The System/Addicts", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92401&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787549&streamencoding=mp31", 
+            "name": "Morning after pills"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787539&streamencoding=mp31", 
+            "name": "3 ciggie micco"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787547&streamencoding=mp31", 
+            "name": "Hauned hard drive"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787542&streamencoding=mp31", 
+            "name": "Suicide proof bridge"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787548&streamencoding=mp31", 
+            "name": "Jerry's long walk home"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787543&streamencoding=mp31", 
+            "name": "Tram stop blues"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787550&streamencoding=mp31", 
+            "name": "Indie electro disco nightmare"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787545&streamencoding=mp31", 
+            "name": "General Coruba"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787551&streamencoding=mp31", 
+            "name": "Subvert radio"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787544&streamencoding=mp31", 
+            "name": "Son of a glitch"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787546&streamencoding=mp31", 
+            "name": "Saturday night on King st"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787540&streamencoding=mp31", 
+            "name": "Hope"
+        }
+    ], 
+    "release": "2011", 
+    "id": "92401"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Dhalius", 
+    "artist": "Dhalius", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58121&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495843&streamencoding=mp31", 
+            "name": "Iam Why (Lo-Fi Instrumental)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495840&streamencoding=mp31", 
+            "name": "Drain Song (Lo-Fi Instrumental)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495837&streamencoding=mp31", 
+            "name": "Hit me (Lo-Fi Vocal)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495842&streamencoding=mp31", 
+            "name": "7 Souls (Lo-Fi Instrumental)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495839&streamencoding=mp31", 
+            "name": "Granpa Joe (Lo-Fi Instrumental)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495838&streamencoding=mp31", 
+            "name": "Upon the Hill (Lo-Fi Vocal)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495841&streamencoding=mp31", 
+            "name": "Jaunt (Lo-Fi Instrumental)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "58121"
+}

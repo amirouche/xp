@@ -1,0 +1,69 @@
+{
+    "name": "Indian Songs", 
+    "artist": "Dj'mv", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28226&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188548&streamencoding=mp31", 
+            "name": "Sunset"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188653&streamencoding=mp31", 
+            "name": "Transpacific"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188629&streamencoding=mp31", 
+            "name": "Indian Winter"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188557&streamencoding=mp31", 
+            "name": "!"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188550&streamencoding=mp31", 
+            "name": "Simple"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188554&streamencoding=mp31", 
+            "name": "Ghost of Freedom"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188659&streamencoding=mp31", 
+            "name": "Untuned Wheels"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188615&streamencoding=mp31", 
+            "name": "Free For"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188640&streamencoding=mp31", 
+            "name": "Monday Evening"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188552&streamencoding=mp31", 
+            "name": "Mountains"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188556&streamencoding=mp31", 
+            "name": "East Mysteries"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188649&streamencoding=mp31", 
+            "name": "Smoke Signal"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28226"
+}

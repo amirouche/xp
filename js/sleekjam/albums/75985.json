@@ -1,0 +1,14 @@
+{
+    "name": "About Love", 
+    "artist": "Za\u00efan", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75985&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=656153&streamencoding=mp31", 
+            "name": "About Love   6Ta Indika Feat Za\u00efan      see dem grow riddim m 2010"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75985"
+}

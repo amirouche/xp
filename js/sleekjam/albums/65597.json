@@ -1,0 +1,34 @@
+{
+    "name": "Work Up!", 
+    "artist": "Fokt Rech", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65597&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546743&streamencoding=mp31", 
+            "name": "startAjob"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546744&streamencoding=mp31", 
+            "name": "Rush Hour"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546740&streamencoding=mp31", 
+            "name": "After Slavery (Mechanical Party)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546741&streamencoding=mp31", 
+            "name": "endAjob"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546742&streamencoding=mp31", 
+            "name": "After Slavery (Mechanical Party) (FreeTime Mix)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65597"
+}

@@ -1,0 +1,89 @@
+{
+    "name": "electric waste", 
+    "artist": "Niteffect", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98912&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845868&streamencoding=mp31", 
+            "name": "the hero is dead"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845870&streamencoding=mp31", 
+            "name": "vandykes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845857&streamencoding=mp31", 
+            "name": "get bogged down"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845862&streamencoding=mp31", 
+            "name": "sobersides"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845867&streamencoding=mp31", 
+            "name": "slubber"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845871&streamencoding=mp31", 
+            "name": "beatitude"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845859&streamencoding=mp31", 
+            "name": "swing swift"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845865&streamencoding=mp31", 
+            "name": "zonked out"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845869&streamencoding=mp31", 
+            "name": "waste my life"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845856&streamencoding=mp31", 
+            "name": "termination"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845863&streamencoding=mp31", 
+            "name": "royal jelly"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845861&streamencoding=mp31", 
+            "name": "quick to anger"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845858&streamencoding=mp31", 
+            "name": "protein factory"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845866&streamencoding=mp31", 
+            "name": "power strip"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845864&streamencoding=mp31", 
+            "name": "sweet sorrow"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845860&streamencoding=mp31", 
+            "name": "binary exponents"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98912"
+}

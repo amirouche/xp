@@ -1,0 +1,89 @@
+{
+    "name": "Scorci esadecafonici", 
+    "artist": "FFF Fiale", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113393&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964334&streamencoding=mp31", 
+            "name": "Libere schitarrate solistiche"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964341&streamencoding=mp31", 
+            "name": "trittico triestino parte I"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964340&streamencoding=mp31", 
+            "name": "trittico triestino parte II"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964335&streamencoding=mp31", 
+            "name": "trittico triestino parte III"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964339&streamencoding=mp31", 
+            "name": "intermezzo prismatico"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964332&streamencoding=mp31", 
+            "name": "pseudharmoragariff"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964331&streamencoding=mp31", 
+            "name": "sfaccettature anticristalliformi"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964337&streamencoding=mp31", 
+            "name": "breve sospiro cosmico"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964329&streamencoding=mp31", 
+            "name": "viola di notte"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964330&streamencoding=mp31", 
+            "name": "cuccetta parte I"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964336&streamencoding=mp31", 
+            "name": "cuccetta parte II"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964333&streamencoding=mp31", 
+            "name": "cuccetta parte III"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964344&streamencoding=mp31", 
+            "name": "in motu treni"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964338&streamencoding=mp31", 
+            "name": "beshtie d'intermezzo"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964343&streamencoding=mp31", 
+            "name": "innesto di alieno su scimpanz\u00e9"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964342&streamencoding=mp31", 
+            "name": "spirali pentatoniche mavilesche"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113393"
+}

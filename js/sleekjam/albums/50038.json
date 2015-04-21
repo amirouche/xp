@@ -1,0 +1,59 @@
+{
+    "name": "first work on M.A.O.", 
+    "artist": "JOE TRAXX", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50038&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401940&streamencoding=mp31", 
+            "name": "SHAKIN RAGGAE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401941&streamencoding=mp31", 
+            "name": "BABY KING"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401942&streamencoding=mp31", 
+            "name": "BURN TO BLUES"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401943&streamencoding=mp31", 
+            "name": "COMPOSE THE STEEL"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401944&streamencoding=mp31", 
+            "name": "DEUTSH WEAR SOUND"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401945&streamencoding=mp31", 
+            "name": "FREEZE SUGAR"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401946&streamencoding=mp31", 
+            "name": "FLYER"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401947&streamencoding=mp31", 
+            "name": "FISHIN INTO THE DARK"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401948&streamencoding=mp31", 
+            "name": "JAZZ JOE"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401950&streamencoding=mp31", 
+            "name": "JOE SPACE"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50038"
+}

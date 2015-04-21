@@ -1,0 +1,79 @@
+{
+    "name": "Romantic Collection", 
+    "artist": "Oleg O. Kachanko", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131416&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101288&streamencoding=mp31", 
+            "name": "Believe in Love"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101295&streamencoding=mp31", 
+            "name": "Sting"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101285&streamencoding=mp31", 
+            "name": "A Step Towards"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101297&streamencoding=mp31", 
+            "name": "Warm Tears"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101286&streamencoding=mp31", 
+            "name": "The Season of Love"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101296&streamencoding=mp31", 
+            "name": "Luxury"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101287&streamencoding=mp31", 
+            "name": "Morning for two"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101300&streamencoding=mp31", 
+            "name": "Crossroad's Wind"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101294&streamencoding=mp31", 
+            "name": "Tears of happiness"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101289&streamencoding=mp31", 
+            "name": "Roses for Valentine"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101290&streamencoding=mp31", 
+            "name": "Secret Passion"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101291&streamencoding=mp31", 
+            "name": "Touch Of Tenderness"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101292&streamencoding=mp31", 
+            "name": "Frozen Heart"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101293&streamencoding=mp31", 
+            "name": "Name on the Sand"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131416"
+}

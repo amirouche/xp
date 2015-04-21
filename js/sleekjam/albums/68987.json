@@ -1,0 +1,84 @@
+{
+    "name": "Roughneck Selection", 
+    "artist": "Fonogeri", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68987&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597263&streamencoding=mp31", 
+            "name": "Part 1 (Open eyes dreaming)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597270&streamencoding=mp31", 
+            "name": "Part 2 (Dusk)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597267&streamencoding=mp31", 
+            "name": "Part 3 (Escalating forplay)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597264&streamencoding=mp31", 
+            "name": "Part 4 (Especially escalating)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597274&streamencoding=mp31", 
+            "name": "Part 5 (Dreams of laburnum)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597272&streamencoding=mp31", 
+            "name": "Part 6 (Years without you)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597269&streamencoding=mp31", 
+            "name": "Part 7 (Mer\u00e9sz)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597261&streamencoding=mp31", 
+            "name": "Part 8 (Fuckin' good mixover)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597265&streamencoding=mp31", 
+            "name": "Part 9 (Sea fever)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597262&streamencoding=mp31", 
+            "name": "Part 10 (Wahhaha)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597275&streamencoding=mp31", 
+            "name": "Part 11 (Hull\u00e1mf\u00fcrd\u0151)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597266&streamencoding=mp31", 
+            "name": "Part 12 (Robojazz mixdown)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597271&streamencoding=mp31", 
+            "name": "Part 13 (Trumpeter's garden)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597268&streamencoding=mp31", 
+            "name": "Part 14 (Ballad of the gardener)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597273&streamencoding=mp31", 
+            "name": "Part 15 (I was dreaming of you)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68987"
+}

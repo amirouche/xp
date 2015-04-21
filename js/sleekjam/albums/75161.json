@@ -1,0 +1,14 @@
+{
+    "name": "Hard rock orchestrale ", 
+    "artist": "-Paulin.h-", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75161&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647350&streamencoding=mp31", 
+            "name": "Hard rock orchestrale"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75161"
+}

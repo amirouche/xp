@@ -1,0 +1,74 @@
+{
+    "name": "auT\u00f3MaTaS", 
+    "artist": "KoGiTo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68261&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=590259&streamencoding=mp31", 
+            "name": "Outra Birra"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=590276&streamencoding=mp31", 
+            "name": "Skapa"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=590289&streamencoding=mp31", 
+            "name": "Kogito"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=590575&streamencoding=mp31", 
+            "name": "8 que 80"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=590592&streamencoding=mp31", 
+            "name": "This Calipso"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=590621&streamencoding=mp31", 
+            "name": "Marea Negra"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=590644&streamencoding=mp31", 
+            "name": "Tipo Feliz"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=590786&streamencoding=mp31", 
+            "name": "Celtas"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=590820&streamencoding=mp31", 
+            "name": "Apnea"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591288&streamencoding=mp31", 
+            "name": "Moza!"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591300&streamencoding=mp31", 
+            "name": "If You Love Me"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591395&streamencoding=mp31", 
+            "name": "Aut\u00f3mata"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591676&streamencoding=mp31", 
+            "name": "Sen Alambrar"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68261"
+}

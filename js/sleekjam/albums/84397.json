@@ -1,0 +1,59 @@
+{
+    "name": "World Of Love", 
+    "artist": "J-Nyu", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84397&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722882&streamencoding=mp31", 
+            "name": "You &amp; Me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722874&streamencoding=mp31", 
+            "name": "Enjoy the love"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722878&streamencoding=mp31", 
+            "name": "My little darling"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722890&streamencoding=mp31", 
+            "name": "Renaissance"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722877&streamencoding=mp31", 
+            "name": "My heart sounds"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722876&streamencoding=mp31", 
+            "name": "Don't cry"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722875&streamencoding=mp31", 
+            "name": "Immortel"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722872&streamencoding=mp31", 
+            "name": "Apocalypse"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722873&streamencoding=mp31", 
+            "name": "Closer friend"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722879&streamencoding=mp31", 
+            "name": "Shanty"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84397"
+}

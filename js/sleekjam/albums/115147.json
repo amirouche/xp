@@ -1,0 +1,59 @@
+{
+    "name": "Ancestors", 
+    "artist": "Dmitry Diamond", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115147&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977770&streamencoding=mp31", 
+            "name": "intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977767&streamencoding=mp31", 
+            "name": "t\u028ctunh\u0251me"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977768&streamencoding=mp31", 
+            "name": "\u0251\u026a\u0251-h\u0251\u026a\u0251 (ancestor version)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977769&streamencoding=mp31", 
+            "name": "u\u02d0u\u0251"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977766&streamencoding=mp31", 
+            "name": "hudu-hudu\u02d0"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977771&streamencoding=mp31", 
+            "name": "ancestor trip"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977772&streamencoding=mp31", 
+            "name": "\u0251\u026a\u0251-huhor\u0251"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977773&streamencoding=mp31", 
+            "name": "\u0251\u026a\u0251\u026a-bu\u026a\u0251\u026a"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977764&streamencoding=mp31", 
+            "name": "jegubie"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977765&streamencoding=mp31", 
+            "name": "outro"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115147"
+}

@@ -1,0 +1,99 @@
+{
+    "name": "Violent Lullabies (and other songs for children)", 
+    "artist": "Disappearance of Anna", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37175&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259556&streamencoding=mp31", 
+            "name": "to the end"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259558&streamencoding=mp31", 
+            "name": "tomorrow never came (warm)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259559&streamencoding=mp31", 
+            "name": "absolution"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259564&streamencoding=mp31", 
+            "name": "necrosis"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259599&streamencoding=mp31", 
+            "name": "breathe (unspoken mix)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259588&streamencoding=mp31", 
+            "name": "all i want (is nothing mix)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259596&streamencoding=mp31", 
+            "name": "nothing will come of this"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259563&streamencoding=mp31", 
+            "name": "the forgotten"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259562&streamencoding=mp31", 
+            "name": "one time"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259584&streamencoding=mp31", 
+            "name": "seen not said (leetch)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259682&streamencoding=mp31", 
+            "name": "haunting me"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259597&streamencoding=mp31", 
+            "name": "\"M\" (piano)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259560&streamencoding=mp31", 
+            "name": "stars are out (piano)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259600&streamencoding=mp31", 
+            "name": "breathe"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259603&streamencoding=mp31", 
+            "name": "last (piano)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259598&streamencoding=mp31", 
+            "name": "asleep in the rain (accustic instrumental)"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259713&streamencoding=mp31", 
+            "name": "geek drive"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259557&streamencoding=mp31", 
+            "name": "(unnamed)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37175"
+}

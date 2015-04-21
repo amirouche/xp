@@ -1,0 +1,54 @@
+{
+    "name": "Music 4 Neuro Dancers", 
+    "artist": "NINES (091999)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38046&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=267521&streamencoding=mp31", 
+            "name": "Bus"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=267531&streamencoding=mp31", 
+            "name": "Apply"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=267560&streamencoding=mp31", 
+            "name": "Hotel"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=267532&streamencoding=mp31", 
+            "name": "P2"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=267551&streamencoding=mp31", 
+            "name": "Pool"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=267555&streamencoding=mp31", 
+            "name": "Deep"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=267556&streamencoding=mp31", 
+            "name": "QNX"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=267558&streamencoding=mp31", 
+            "name": "Pyza"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=267559&streamencoding=mp31", 
+            "name": "Malonev"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38046"
+}

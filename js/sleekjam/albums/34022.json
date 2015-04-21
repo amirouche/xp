@@ -1,0 +1,79 @@
+{
+    "name": "Party Thieves", 
+    "artist": "Loudog", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34022&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=230934&streamencoding=mp31", 
+            "name": "Something's Wrong"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=230949&streamencoding=mp31", 
+            "name": "Woman"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=230962&streamencoding=mp31", 
+            "name": "Party Thieves"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=230991&streamencoding=mp31", 
+            "name": "Suzie Blue"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=230998&streamencoding=mp31", 
+            "name": "Politicians"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231011&streamencoding=mp31", 
+            "name": "H.ero I.n V.anity"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231013&streamencoding=mp31", 
+            "name": "Music"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231021&streamencoding=mp31", 
+            "name": "Don't Become a Cop"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231059&streamencoding=mp31", 
+            "name": "Just a Killer"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231066&streamencoding=mp31", 
+            "name": "P.L.H."
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231068&streamencoding=mp31", 
+            "name": "Coming Home"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231080&streamencoding=mp31", 
+            "name": "Mothershucking Fit"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231116&streamencoding=mp31", 
+            "name": "Das Boot"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231118&streamencoding=mp31", 
+            "name": "Walking"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34022"
+}

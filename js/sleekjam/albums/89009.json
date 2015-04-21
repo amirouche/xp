@@ -1,0 +1,69 @@
+{
+    "name": "Cambia", 
+    "artist": "Abya Yala ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89009&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760804&streamencoding=mp31", 
+            "name": "La Flor"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760805&streamencoding=mp31", 
+            "name": "Primavera"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760806&streamencoding=mp31", 
+            "name": "Open Close "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760807&streamencoding=mp31", 
+            "name": "Lento "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760808&streamencoding=mp31", 
+            "name": "Viento de Poder "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760809&streamencoding=mp31", 
+            "name": "Cambia "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760810&streamencoding=mp31", 
+            "name": "Madre "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760811&streamencoding=mp31", 
+            "name": "Salto Latino"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760812&streamencoding=mp31", 
+            "name": "Camino al Amor"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760813&streamencoding=mp31", 
+            "name": "Violeta "
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760814&streamencoding=mp31", 
+            "name": "La Conexion"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760815&streamencoding=mp31", 
+            "name": "Morena"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89009"
+}

@@ -1,0 +1,99 @@
+{
+    "name": "The journey of a feather", 
+    "artist": "Ancelin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74495&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643081&streamencoding=mp31", 
+            "name": "The journey of a feather"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643094&streamencoding=mp31", 
+            "name": "Walk On Air"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643084&streamencoding=mp31", 
+            "name": "Apocalypse"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643082&streamencoding=mp31", 
+            "name": "fall in Jazz"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643085&streamencoding=mp31", 
+            "name": "the truth"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643092&streamencoding=mp31", 
+            "name": "Happy end"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643083&streamencoding=mp31", 
+            "name": "childbearing"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643087&streamencoding=mp31", 
+            "name": "Apolo 11"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643086&streamencoding=mp31", 
+            "name": "Storm"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643088&streamencoding=mp31", 
+            "name": "Go up"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643089&streamencoding=mp31", 
+            "name": "Eveux"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643090&streamencoding=mp31", 
+            "name": "Une pens\u00e9e"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643093&streamencoding=mp31", 
+            "name": "Dance's child"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643080&streamencoding=mp31", 
+            "name": "Jungle of blues"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643091&streamencoding=mp31", 
+            "name": "un r\u00eave"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643095&streamencoding=mp31", 
+            "name": "Bubble"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643097&streamencoding=mp31", 
+            "name": "Nanotechnologie"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643096&streamencoding=mp31", 
+            "name": "Le_nouveau_n\u00e9"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74495"
+}

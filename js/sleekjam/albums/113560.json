@@ -1,0 +1,14 @@
+{
+    "name": "Oh Lord!", 
+    "artist": "Jim Tersol", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113560&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=965622&streamencoding=mp31", 
+            "name": "ohlord"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113560"
+}

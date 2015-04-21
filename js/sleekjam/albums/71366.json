@@ -1,0 +1,69 @@
+{
+    "name": "Greatest Misses", 
+    "artist": "Dave and John", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71366&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=616608&streamencoding=mp31", 
+            "name": "Melon"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=616616&streamencoding=mp31", 
+            "name": "Now She's Bald"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=616613&streamencoding=mp31", 
+            "name": "Durango95"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=616619&streamencoding=mp31", 
+            "name": "Frostbite"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=616615&streamencoding=mp31", 
+            "name": "Major Thing"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=616610&streamencoding=mp31", 
+            "name": "House of the Rising Damp"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=616612&streamencoding=mp31", 
+            "name": "Assumptions"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=616617&streamencoding=mp31", 
+            "name": "7898"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=616614&streamencoding=mp31", 
+            "name": "Lords of Khazi"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=616618&streamencoding=mp31", 
+            "name": "Major Extravaganza"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=616609&streamencoding=mp31", 
+            "name": "Rain"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=616611&streamencoding=mp31", 
+            "name": "Antisocial"
+        }
+    ], 
+    "release": "2010", 
+    "id": "71366"
+}

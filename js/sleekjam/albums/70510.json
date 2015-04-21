@@ -1,0 +1,14 @@
+{
+    "name": "Por la Tierra (single) tema promocional", 
+    "artist": "BABEL SIN FRONTERAS ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70510&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=608970&streamencoding=mp31", 
+            "name": "Por la Tierra (Jorgestrada)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70510"
+}

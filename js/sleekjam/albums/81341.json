@@ -1,0 +1,84 @@
+{
+    "name": "GALAXIE", 
+    "artist": " ENIGMA63", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81341&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697218&streamencoding=mp31", 
+            "name": "Intro  -  Le d\u00e9but du voyage"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697212&streamencoding=mp31", 
+            "name": "Traverser du Trou noir"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697209&streamencoding=mp31", 
+            "name": "Galaxie"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697213&streamencoding=mp31", 
+            "name": "Pluton"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697217&streamencoding=mp31", 
+            "name": "Neptune (samples de DJBOULY Il s\u2019agit d\u2019un remix du titre Perturbia de l'album Muse(s) Syndrome)-remixer par Enigma63)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697207&streamencoding=mp31", 
+            "name": "Uranus"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697211&streamencoding=mp31", 
+            "name": "Saturne"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697215&streamencoding=mp31", 
+            "name": "Jupiter"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697205&streamencoding=mp31", 
+            "name": "Mars"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697208&streamencoding=mp31", 
+            "name": "Terre"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697214&streamencoding=mp31", 
+            "name": "Lune ( path to silence.chris reminger. remixer par Enigma63)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697206&streamencoding=mp31", 
+            "name": "V\u00e9nus"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697210&streamencoding=mp31", 
+            "name": "Mercure (chalet suite. chris reminger. remixer par Enigma63)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697216&streamencoding=mp31", 
+            "name": "Soleil"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697219&streamencoding=mp31", 
+            "name": "hyper-espace  - Retour la fin du voyage"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81341"
+}

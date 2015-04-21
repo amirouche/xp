@@ -1,0 +1,29 @@
+{
+    "name": "The Week", 
+    "artist": "Mr. Black Cat", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74941&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=646627&streamencoding=mp31", 
+            "name": "Nothing"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=646628&streamencoding=mp31", 
+            "name": "Forever"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=646630&streamencoding=mp31", 
+            "name": "Always"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=646629&streamencoding=mp31", 
+            "name": "Inside"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74941"
+}

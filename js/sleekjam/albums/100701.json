@@ -1,0 +1,39 @@
+{
+    "name": "Rock 'n' Roll Crews ", 
+    "artist": "Harry Marttila", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100701&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860004&streamencoding=mp31", 
+            "name": "Whisky 'n' Milk 'n' Girls"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860027&streamencoding=mp31", 
+            "name": "Hard 'n' Loaded"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860028&streamencoding=mp31", 
+            "name": "Jenny's Blues"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860036&streamencoding=mp31", 
+            "name": "Sister"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860259&streamencoding=mp31", 
+            "name": "Cry Cry Baby"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860260&streamencoding=mp31", 
+            "name": "I've Been Lovin' Ya Too Long"
+        }
+    ], 
+    "release": "2011", 
+    "id": "100701"
+}

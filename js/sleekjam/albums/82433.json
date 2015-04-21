@@ -1,0 +1,44 @@
+{
+    "name": "VARIETOCHE 1990", 
+    "artist": "DOC PILOT", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82433&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706852&streamencoding=mp31", 
+            "name": "TU SENS LA NUIT "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706853&streamencoding=mp31", 
+            "name": "SEXY LOVE SITAR "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706847&streamencoding=mp31", 
+            "name": "MON COEUR PING PONG "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706848&streamencoding=mp31", 
+            "name": "EDITH AIME LES SONS ELECTRIQUES "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706850&streamencoding=mp31", 
+            "name": "15H30  "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706851&streamencoding=mp31", 
+            "name": "SUGAR GIRL "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706849&streamencoding=mp31", 
+            "name": "TON ROUGE A LEVRE PSYCHEDELIQUE "
+        }
+    ], 
+    "release": "2010", 
+    "id": "82433"
+}

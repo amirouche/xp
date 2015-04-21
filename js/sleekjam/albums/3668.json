@@ -1,0 +1,44 @@
+{
+    "name": "Aper\u00e7u....", 
+    "artist": "JJGang", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3668&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26789&streamencoding=mp31", 
+            "name": "1-J'en ai bav\u00e9                               3:39"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26790&streamencoding=mp31", 
+            "name": "2- La musique                              6:53"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26791&streamencoding=mp31", 
+            "name": "3- Zonards des rues                      3:54"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26792&streamencoding=mp31", 
+            "name": "4-Mi ange, mi d\u00e9mon                    4:11"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26793&streamencoding=mp31", 
+            "name": "5- Tranquillit\u00e9                                6:09"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26794&streamencoding=mp31", 
+            "name": "6- Elle m'a quitt\u00e9                           6:48"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26795&streamencoding=mp31", 
+            "name": "7- Pas b'soin de nanas                  4:18"
+        }
+    ], 
+    "release": "2007", 
+    "id": "3668"
+}

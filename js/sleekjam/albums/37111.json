@@ -1,0 +1,14 @@
+{
+    "name": "TOXIC SONG", 
+    "artist": "Epsilone Project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37111&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259115&streamencoding=mp31", 
+            "name": "toxic song"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37111"
+}

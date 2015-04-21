@@ -1,0 +1,64 @@
+{
+    "name": "Palma-Guadalajara conexi\u00f3n", 
+    "artist": "Dubuti", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114996&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976607&streamencoding=mp31", 
+            "name": "Dubuti Dub"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976606&streamencoding=mp31", 
+            "name": "Caudillo Ja"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976605&streamencoding=mp31", 
+            "name": "Iraky"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976621&streamencoding=mp31", 
+            "name": "Alarma Nuclear"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976620&streamencoding=mp31", 
+            "name": "Granjaman"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976634&streamencoding=mp31", 
+            "name": "Amazonas"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976626&streamencoding=mp31", 
+            "name": "Bush Dub"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976625&streamencoding=mp31", 
+            "name": "Elevacion (con Clash Riddim Sound)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976628&streamencoding=mp31", 
+            "name": "Saltando Charcos (con Favela Sound System)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976629&streamencoding=mp31", 
+            "name": "No money No keys (con Bodega Bodega)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976579&streamencoding=mp31", 
+            "name": "No Communication (con Mariskada Sound System)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114996"
+}

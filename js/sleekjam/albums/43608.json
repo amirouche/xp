@@ -1,0 +1,19 @@
+{
+    "name": "cocoared rufkuts", 
+    "artist": "Cocoared Fam", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43608&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=324633&streamencoding=mp31", 
+            "name": "bitmo-rickdorr&genieq."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=324635&streamencoding=mp31", 
+            "name": "rickdoor-shebtrippnnip"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43608"
+}

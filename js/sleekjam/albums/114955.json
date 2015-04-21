@@ -1,0 +1,54 @@
+{
+    "name": "Medina Girl", 
+    "artist": "DeadBunny Laura", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114955&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976155&streamencoding=mp31", 
+            "name": "Acapulco Bay"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976156&streamencoding=mp31", 
+            "name": "Amore impossibile"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976157&streamencoding=mp31", 
+            "name": "Bay Leaf"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976158&streamencoding=mp31", 
+            "name": "Bessie Swan"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976159&streamencoding=mp31", 
+            "name": "Das Wort des Traumes [The word of the dream]"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976160&streamencoding=mp31", 
+            "name": "What I always wanted to tell you and I never could"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976314&streamencoding=mp31", 
+            "name": "Medina Girl"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976337&streamencoding=mp31", 
+            "name": "The man from Ankara"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976338&streamencoding=mp31", 
+            "name": "Dance music"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114955"
+}

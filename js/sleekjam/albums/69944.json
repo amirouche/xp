@@ -1,0 +1,14 @@
+{
+    "name": "Reggae Love", 
+    "artist": "TonyBtM", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69944&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=604989&streamencoding=mp31", 
+            "name": "OutlanDub (rec with Sound's Freedom Group)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "69944"
+}

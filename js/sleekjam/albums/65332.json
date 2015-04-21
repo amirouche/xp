@@ -1,0 +1,74 @@
+{
+    "name": "\u00d8", 
+    "artist": "Bj\u00d8rN", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65332&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564795&streamencoding=mp31", 
+            "name": "Die Zeiten aendern sich"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564790&streamencoding=mp31", 
+            "name": "C\u00b4est la vie francaise"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564793&streamencoding=mp31", 
+            "name": "Neulich"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564786&streamencoding=mp31", 
+            "name": "Wir gehen unter"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564787&streamencoding=mp31", 
+            "name": "Fuenf Mark fuer Gina"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564784&streamencoding=mp31", 
+            "name": "Suffanruf"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564791&streamencoding=mp31", 
+            "name": "Es gibt Dinge"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564783&streamencoding=mp31", 
+            "name": "A.F.F.E."
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564785&streamencoding=mp31", 
+            "name": "Eine Wanne voller Selbstmitleid"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564788&streamencoding=mp31", 
+            "name": "Der Fred"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564789&streamencoding=mp31", 
+            "name": "FDHDFUVD"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564794&streamencoding=mp31", 
+            "name": "Bi - curious"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564816&streamencoding=mp31", 
+            "name": "Besoffenheit"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65332"
+}

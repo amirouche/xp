@@ -1,0 +1,44 @@
+{
+    "name": "Running with the blues", 
+    "artist": "Ciampa & The Blues", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111683&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950042&streamencoding=mp31", 
+            "name": ") Beats and bites other"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950043&streamencoding=mp31", 
+            "name": ") Trip for today"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950044&streamencoding=mp31", 
+            "name": ") Running on the blues' knees"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950045&streamencoding=mp31", 
+            "name": ") Mr. B. and me"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950046&streamencoding=mp31", 
+            "name": ") Pinky's blues"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950050&streamencoding=mp31", 
+            "name": ") Bleus  lullaby for my little cryin' child - tape 1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950051&streamencoding=mp31", 
+            "name": ") Goin away"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111683"
+}

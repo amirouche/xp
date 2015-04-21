@@ -1,0 +1,99 @@
+{
+    "name": "Innerlight Music", 
+    "artist": "DJ Brutus", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46366&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=354959&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=354967&streamencoding=mp31", 
+            "name": "Big Bang"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=354990&streamencoding=mp31", 
+            "name": "Boizis"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=354994&streamencoding=mp31", 
+            "name": "Demonia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355000&streamencoding=mp31", 
+            "name": "Hyperspace"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355012&streamencoding=mp31", 
+            "name": "La mouche"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355018&streamencoding=mp31", 
+            "name": "Milou"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355019&streamencoding=mp31", 
+            "name": "Moon"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355024&streamencoding=mp31", 
+            "name": "Once Agai"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355028&streamencoding=mp31", 
+            "name": "R.A.P.T"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355031&streamencoding=mp31", 
+            "name": "Remorse"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355035&streamencoding=mp31", 
+            "name": "Revolution"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355160&streamencoding=mp31", 
+            "name": "Sex at Full"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355170&streamencoding=mp31", 
+            "name": "Speeding"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355181&streamencoding=mp31", 
+            "name": "Split"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355187&streamencoding=mp31", 
+            "name": "Tic Toc"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355203&streamencoding=mp31", 
+            "name": "Water"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=355207&streamencoding=mp31", 
+            "name": "Zany"
+        }
+    ], 
+    "release": "2009", 
+    "id": "46366"
+}

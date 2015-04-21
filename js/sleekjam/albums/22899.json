@@ -1,0 +1,29 @@
+{
+    "name": "Fonetica Libera Trance", 
+    "artist": "La Claque di Dafne", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22899&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159375&streamencoding=mp31", 
+            "name": "Tu Quoque?"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159374&streamencoding=mp31", 
+            "name": "Sul Tempo non Cortese"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159373&streamencoding=mp31", 
+            "name": "Rad 6283"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159372&streamencoding=mp31", 
+            "name": "Elettra"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22899"
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Fiction Factory", 
+    "artist": "Leon bli", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41261&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302643&streamencoding=mp31", 
+            "name": "In"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302637&streamencoding=mp31", 
+            "name": "Quatre Cinq"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302645&streamencoding=mp31", 
+            "name": "Six"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302639&streamencoding=mp31", 
+            "name": "Six Bis"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302641&streamencoding=mp31", 
+            "name": "Six Ter"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302633&streamencoding=mp31", 
+            "name": "Sept"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302635&streamencoding=mp31", 
+            "name": "Huit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302647&streamencoding=mp31", 
+            "name": "Dix"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302646&streamencoding=mp31", 
+            "name": "Close The Night"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302636&streamencoding=mp31", 
+            "name": "Youpla"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302638&streamencoding=mp31", 
+            "name": "Brass Mass"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302631&streamencoding=mp31", 
+            "name": "You Are Not (In) Me"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302644&streamencoding=mp31", 
+            "name": "Bizibou"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302629&streamencoding=mp31", 
+            "name": "Blux"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302634&streamencoding=mp31", 
+            "name": "Wazmi"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302632&streamencoding=mp31", 
+            "name": "Fat Aux"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302642&streamencoding=mp31", 
+            "name": "Chponlu"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302630&streamencoding=mp31", 
+            "name": "Out"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302640&streamencoding=mp31", 
+            "name": "Smash Mash"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41261"
+}

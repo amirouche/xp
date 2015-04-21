@@ -1,0 +1,74 @@
+{
+    "name": "Soft & Slow", 
+    "artist": "L\u00f6hstana David", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92150&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785643&streamencoding=mp31", 
+            "name": "Elle est ainsi - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785652&streamencoding=mp31", 
+            "name": "Apr\u00e8s toi - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785650&streamencoding=mp31", 
+            "name": "Ma Vie - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785641&streamencoding=mp31", 
+            "name": "M\u00e9lodie douce - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785651&streamencoding=mp31", 
+            "name": "Avant de partir - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785642&streamencoding=mp31", 
+            "name": "Tristounette histoire - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785648&streamencoding=mp31", 
+            "name": "Tes d\u00e9fauts - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785644&streamencoding=mp31", 
+            "name": "Underture - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785646&streamencoding=mp31", 
+            "name": "Je sais - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785647&streamencoding=mp31", 
+            "name": "Flamenspace - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785653&streamencoding=mp31", 
+            "name": "Avenue d'Italie - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785645&streamencoding=mp31", 
+            "name": "Puisque - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785649&streamencoding=mp31", 
+            "name": "Alexandra 02 - INSTRUMENTAL VERSION"
+        }
+    ], 
+    "release": "2011", 
+    "id": "92150"
+}

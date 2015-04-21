@@ -1,0 +1,54 @@
+{
+    "name": "Psychog", 
+    "artist": "dsy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84192&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721523&streamencoding=mp31", 
+            "name": "Psychog"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721524&streamencoding=mp31", 
+            "name": "Remember"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721526&streamencoding=mp31", 
+            "name": "What"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721527&streamencoding=mp31", 
+            "name": "Feel"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721528&streamencoding=mp31", 
+            "name": "Kodis"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721530&streamencoding=mp31", 
+            "name": "Straw"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721529&streamencoding=mp31", 
+            "name": "Smooth"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721531&streamencoding=mp31", 
+            "name": "Sun"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721525&streamencoding=mp31", 
+            "name": "Burnout"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84192"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "I'n FrEEdom", 
+    "artist": "GASNOPROD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46969&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=363157&streamencoding=mp31", 
+            "name": "Mange KeyB"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=363156&streamencoding=mp31", 
+            "name": "Juju YO India"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=363153&streamencoding=mp31", 
+            "name": "Paloma GonaZZ versus TwO"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=363151&streamencoding=mp31", 
+            "name": "Mais quoi encore ?"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=363166&streamencoding=mp31", 
+            "name": "Sans Toi"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=363152&streamencoding=mp31", 
+            "name": "Orient de volkanz"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=363150&streamencoding=mp31", 
+            "name": "Fou de mai 1 a 2"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=363167&streamencoding=mp31", 
+            "name": "Youpi"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=363154&streamencoding=mp31", 
+            "name": "Septant d'Eph"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=363155&streamencoding=mp31", 
+            "name": "Secondes de maltraitance_sonore"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=363148&streamencoding=mp31", 
+            "name": "Orient de volkanz j'ai trop charge le the"
+        }
+    ], 
+    "release": "2009", 
+    "id": "46969"
+}

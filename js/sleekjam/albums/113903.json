@@ -1,0 +1,14 @@
+{
+    "name": "Pulse of The City", 
+    "artist": "Blues Byte Project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113903&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=968152&streamencoding=mp31", 
+            "name": "Pulse of the city"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113903"
+}

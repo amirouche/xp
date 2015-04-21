@@ -1,0 +1,64 @@
+{
+    "name": "Kill your self", 
+    "artist": "Vermillia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108631&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917361&streamencoding=mp31", 
+            "name": "rain is still falling (ft megurine luka)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917364&streamencoding=mp31", 
+            "name": "STFU (ft megurine luka)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917359&streamencoding=mp31", 
+            "name": "kill your self (ft megurine luka)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917365&streamencoding=mp31", 
+            "name": "nothing is wrong with us"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917363&streamencoding=mp31", 
+            "name": "brain killer girl"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917360&streamencoding=mp31", 
+            "name": "use your logic (ft megurine luka)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917366&streamencoding=mp31", 
+            "name": "waste your life on me (album version)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917357&streamencoding=mp31", 
+            "name": "one week one hour"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917362&streamencoding=mp31", 
+            "name": "burried whisper"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917358&streamencoding=mp31", 
+            "name": "gorgeous"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917367&streamencoding=mp31", 
+            "name": "rain is still falling (paprikaz mix)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108631"
+}

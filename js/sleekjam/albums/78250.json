@@ -1,0 +1,34 @@
+{
+    "name": "Nachts im Wald (EP)", 
+    "artist": "Ingwer.Honig", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78250&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674280&streamencoding=mp31", 
+            "name": "morgenmuffel"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674277&streamencoding=mp31", 
+            "name": "dekadent"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674278&streamencoding=mp31", 
+            "name": "nachts im wald"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674279&streamencoding=mp31", 
+            "name": "kiffgulasch"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674281&streamencoding=mp31", 
+            "name": "angel"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78250"
+}

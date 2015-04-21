@@ -1,0 +1,69 @@
+{
+    "name": "Amor Cochino 2011", 
+    "artist": "EL EFECTO VERDOLAGA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90914&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775689&streamencoding=mp31", 
+            "name": "Arriba Manolillo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775683&streamencoding=mp31", 
+            "name": "Ronda Jarramplera"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775692&streamencoding=mp31", 
+            "name": "Jota de T\u00edo Cano"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775686&streamencoding=mp31", 
+            "name": "El Mandil\u00edn"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775682&streamencoding=mp31", 
+            "name": "Malague\u00f1a Tualera"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775684&streamencoding=mp31", 
+            "name": "Lev\u00e1ntate Ni\u00f1a"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775685&streamencoding=mp31", 
+            "name": "Ronda los Solteros"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775688&streamencoding=mp31", 
+            "name": "El Ringurrango"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775690&streamencoding=mp31", 
+            "name": "Ronde\u00f1a Burre\u00f1a"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775681&streamencoding=mp31", 
+            "name": "El Dicho de San Ant\u00f3n"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775691&streamencoding=mp31", 
+            "name": "Seguidillas Veraniegas"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775693&streamencoding=mp31", 
+            "name": "El Tren"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90914"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Demo  2009", 
+    "artist": "Mother Skull", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82812&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709787&streamencoding=mp31", 
+            "name": "Jinetes Del Apokalypsis"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709788&streamencoding=mp31", 
+            "name": "Matanza"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709786&streamencoding=mp31", 
+            "name": "Asesinos"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82812"
+}

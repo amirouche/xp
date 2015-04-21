@@ -1,0 +1,19 @@
+{
+    "name": "Greyscale Demo", 
+    "artist": "JAmez TaeLor", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92295&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787073&streamencoding=mp31", 
+            "name": "Mayze"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787081&streamencoding=mp31", 
+            "name": "Future Infest (land,air,sea)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "92295"
+}

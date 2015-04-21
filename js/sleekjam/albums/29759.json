@@ -1,0 +1,34 @@
+{
+    "name": "FLUOCRANA", 
+    "artist": "Alias SHADOW", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29759&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200504&streamencoding=mp31", 
+            "name": "MIXintro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200506&streamencoding=mp31", 
+            "name": "MIX WORLD"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200507&streamencoding=mp31", 
+            "name": "teckfunk"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200509&streamencoding=mp31", 
+            "name": "WORLD FIN "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200511&streamencoding=mp31", 
+            "name": "mess trance hard"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29759"
+}

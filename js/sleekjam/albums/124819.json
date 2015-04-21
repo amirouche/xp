@@ -1,0 +1,14 @@
+{
+    "name": "SUNRISE", 
+    "artist": "DJ Davidouille", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124819&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1058313&streamencoding=mp31", 
+            "name": "SUNRISE - David33Fr Mayne 2013"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124819"
+}

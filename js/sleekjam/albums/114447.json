@@ -1,0 +1,44 @@
+{
+    "name": "6 Goth Songs To Hell", 
+    "artist": "Lullaby & The Bats", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114447&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972236&streamencoding=mp31", 
+            "name": "Intro (Welcome in Transylvania)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972239&streamencoding=mp31", 
+            "name": "Conformist Bitch"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972238&streamencoding=mp31", 
+            "name": "Bat Whispers"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972233&streamencoding=mp31", 
+            "name": "She's Alive"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972237&streamencoding=mp31", 
+            "name": "Sunglasses And Cigarettes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972235&streamencoding=mp31", 
+            "name": "Nyan Goth (Instrumental)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972234&streamencoding=mp31", 
+            "name": "Hey Kids (Porno Chicks)(Instrumental)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114447"
+}

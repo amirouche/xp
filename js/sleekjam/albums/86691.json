@@ -1,0 +1,64 @@
+{
+    "name": "Zen Relaxation vol.1 : Nature ", 
+    "artist": "Alban Lepsy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86691&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=741719&streamencoding=mp31", 
+            "name": "Big waves"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=741722&streamencoding=mp31", 
+            "name": "A walk on a beach"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=741728&streamencoding=mp31", 
+            "name": "Under the sea - dancing with whales"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=741723&streamencoding=mp31", 
+            "name": "Sea Waves in Summer"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=741868&streamencoding=mp31", 
+            "name": "River with sun"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=741724&streamencoding=mp31", 
+            "name": "Mountain of my heart"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=741720&streamencoding=mp31", 
+            "name": "Bird song"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=741726&streamencoding=mp31", 
+            "name": "Nightingale"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=741721&streamencoding=mp31", 
+            "name": "It's raining love"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=741727&streamencoding=mp31", 
+            "name": "Hiver au coin du feu"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=741725&streamencoding=mp31", 
+            "name": "Thunder pathetique by Beethoven"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86691"
+}

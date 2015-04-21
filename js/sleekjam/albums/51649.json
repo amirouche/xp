@@ -1,0 +1,74 @@
+{
+    "name": "Los Ligarios...Edicion Especial", 
+    "artist": "Los Ligarios....Fred Joe y MC Kid", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51649&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=418953&streamencoding=mp31", 
+            "name": "Intro Los Ligarios"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=418970&streamencoding=mp31", 
+            "name": "Toma Dembow"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419009&streamencoding=mp31", 
+            "name": "Esta Noche"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419010&streamencoding=mp31", 
+            "name": "Tengo Miedo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419047&streamencoding=mp31", 
+            "name": "Corillo Activado"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419048&streamencoding=mp31", 
+            "name": "Los Ligarios feat. Little G..Kartagena...Robadop"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419116&streamencoding=mp31", 
+            "name": "Galopea"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419117&streamencoding=mp31", 
+            "name": "Caceria"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419118&streamencoding=mp31", 
+            "name": "Los Ligarios feat. Little G...Slow"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419204&streamencoding=mp31", 
+            "name": "Compression"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419205&streamencoding=mp31", 
+            "name": "Ven seduceme"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=421052&streamencoding=mp31", 
+            "name": "Temperatura"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=421053&streamencoding=mp31", 
+            "name": "Tengo Miedo Remix"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51649"
+}

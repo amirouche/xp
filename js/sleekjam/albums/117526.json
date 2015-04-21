@@ -1,0 +1,29 @@
+{
+    "name": "Journey [EP]", 
+    "artist": "Panivan Yuriy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117526&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=999018&streamencoding=mp31", 
+            "name": "Machaon"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=999022&streamencoding=mp31", 
+            "name": "Journey"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=999024&streamencoding=mp31", 
+            "name": "Space Shift"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=999030&streamencoding=mp31", 
+            "name": "Burning Heaven"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117526"
+}

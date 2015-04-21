@@ -1,0 +1,24 @@
+{
+    "name": "eeslezy(Single)", 
+    "artist": "Moresebya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70983&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613502&streamencoding=mp31", 
+            "name": "eeslezy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613518&streamencoding=mp31", 
+            "name": "eeslezy(instrumental)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613504&streamencoding=mp31", 
+            "name": "eeslezy(acapella)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70983"
+}

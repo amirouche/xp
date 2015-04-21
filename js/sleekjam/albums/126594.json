@@ -1,0 +1,19 @@
+{
+    "name": "TripHop OrGasm", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126594&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1070125&streamencoding=mp31", 
+            "name": "TripHop OrGasm"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1070126&streamencoding=mp31", 
+            "name": "TripHop MetalHead"
+        }
+    ], 
+    "release": "2013", 
+    "id": "126594"
+}

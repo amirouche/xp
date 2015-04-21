@@ -1,0 +1,29 @@
+{
+    "name": "The Skarnivals - Skakeo", 
+    "artist": "Theskarnivals", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110689&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941862&streamencoding=mp31", 
+            "name": "Vienen a robar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941872&streamencoding=mp31", 
+            "name": "Historias do mar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941894&streamencoding=mp31", 
+            "name": "La guasa civil"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941903&streamencoding=mp31", 
+            "name": "Y gritare"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110689"
+}

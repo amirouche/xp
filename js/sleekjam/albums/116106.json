@@ -1,0 +1,19 @@
+{
+    "name": "De-construction", 
+    "artist": "Luis Zunel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116106&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=986493&streamencoding=mp31", 
+            "name": "De-construction"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=986494&streamencoding=mp31", 
+            "name": "Escapada"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116106"
+}

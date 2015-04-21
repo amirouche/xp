@@ -1,0 +1,14 @@
+{
+    "name": "Stupid Revolutions", 
+    "artist": "Peter Loved", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66452&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=576019&streamencoding=mp31", 
+            "name": "Stupid Revolutions"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66452"
+}

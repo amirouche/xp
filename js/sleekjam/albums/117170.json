@@ -1,0 +1,14 @@
+{
+    "name": "H\u00e9cate", 
+    "artist": "Jos\u00e9 Estrella Resonante", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117170&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996223&streamencoding=mp31", 
+            "name": "H\u00e9cate"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117170"
+}

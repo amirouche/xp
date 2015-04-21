@@ -1,0 +1,74 @@
+{
+    "name": "Release Candidate", 
+    "artist": "Shawn Bayern", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67387&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584227&streamencoding=mp31", 
+            "name": "Ibiza"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584238&streamencoding=mp31", 
+            "name": "Margrave (de Brandenburg)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584231&streamencoding=mp31", 
+            "name": "Yield"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584232&streamencoding=mp31", 
+            "name": "The Ice-Cream-Truck Factory"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584234&streamencoding=mp31", 
+            "name": "Norfolk"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584225&streamencoding=mp31", 
+            "name": "Winter Errand"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584228&streamencoding=mp31", 
+            "name": "Communiqu\u00e9"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584236&streamencoding=mp31", 
+            "name": "Response"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584226&streamencoding=mp31", 
+            "name": "Three"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584229&streamencoding=mp31", 
+            "name": "Dead Sea"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584233&streamencoding=mp31", 
+            "name": "The Bach Saloon"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584235&streamencoding=mp31", 
+            "name": "Taos"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584237&streamencoding=mp31", 
+            "name": "Ibiza Morning"
+        }
+    ], 
+    "release": "2010", 
+    "id": "67387"
+}

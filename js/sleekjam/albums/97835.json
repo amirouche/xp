@@ -1,0 +1,139 @@
+{
+    "name": "Sonnentanz", 
+    "artist": "Chillheimer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97835&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836358&streamencoding=mp31", 
+            "name": "Doorstep"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836361&streamencoding=mp31", 
+            "name": "Awakening"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836356&streamencoding=mp31", 
+            "name": "Deep Breath"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836363&streamencoding=mp31", 
+            "name": "Sonnentanz"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836357&streamencoding=mp31", 
+            "name": "Gloaming"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836352&streamencoding=mp31", 
+            "name": "Some Things"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836359&streamencoding=mp31", 
+            "name": "Journey"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836354&streamencoding=mp31", 
+            "name": "Nightfall"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836360&streamencoding=mp31", 
+            "name": "Anything"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836328&streamencoding=mp31", 
+            "name": "Insane"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836355&streamencoding=mp31", 
+            "name": "Floating"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836353&streamencoding=mp31", 
+            "name": "Keep Walking"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836362&streamencoding=mp31", 
+            "name": "Morning Moon"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836365&streamencoding=mp31", 
+            "name": "Doorstep (orig.Mix)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836372&streamencoding=mp31", 
+            "name": "Awakening (orig.Mix)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836369&streamencoding=mp31", 
+            "name": "Deep Breath (orig.Mix)"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836370&streamencoding=mp31", 
+            "name": "Sonnentanz (orig.Mix)"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836367&streamencoding=mp31", 
+            "name": "Gloaming (orig.Mix)"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836368&streamencoding=mp31", 
+            "name": "Some Things (orig.Mix)"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836373&streamencoding=mp31", 
+            "name": "Journey (orig.Mix)"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836371&streamencoding=mp31", 
+            "name": "Nightfall (orig.Mix)"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836364&streamencoding=mp31", 
+            "name": "Anything (orig.Mix)"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836375&streamencoding=mp31", 
+            "name": "Insane (orig.Mix)"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836376&streamencoding=mp31", 
+            "name": "Floating (orig.Mix)"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836374&streamencoding=mp31", 
+            "name": "Keep Walking (orig.Mix)"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=836366&streamencoding=mp31", 
+            "name": "Morning Moon (orig. Mix)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "97835"
+}

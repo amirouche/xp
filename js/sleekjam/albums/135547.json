@@ -1,0 +1,19 @@
+{
+    "name": "Lost Love - EP ", 
+    "artist": "Darkman Sounds", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135547&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1130872&streamencoding=mp31", 
+            "name": "My heart is bleeding"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1130849&streamencoding=mp31", 
+            "name": "When love comes to an end"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135547"
+}

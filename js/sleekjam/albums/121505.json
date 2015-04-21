@@ -1,0 +1,14 @@
+{
+    "name": "Bitter Sweet", 
+    "artist": "Leo Bowers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121505&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032520&streamencoding=mp31", 
+            "name": "Bitter Sweet"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121505"
+}

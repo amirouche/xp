@@ -1,0 +1,29 @@
+{
+    "name": "Manifests Of Human Existence (promo)", 
+    "artist": "Echidna", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64854&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=558466&streamencoding=mp31", 
+            "name": "Whispers"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=558465&streamencoding=mp31", 
+            "name": "Political Sickness in D# Hijaz Kar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=558464&streamencoding=mp31", 
+            "name": "Dogma Of Cain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=558463&streamencoding=mp31", 
+            "name": "The Pendulum"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64854"
+}

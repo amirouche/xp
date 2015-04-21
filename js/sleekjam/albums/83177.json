@@ -1,0 +1,74 @@
+{
+    "name": "MAYBE IT'S ME/MAYBE IT'S YOU", 
+    "artist": "Smash Addams", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83177&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712551&streamencoding=mp31", 
+            "name": "Nothing Means More to Me (Than You)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712554&streamencoding=mp31", 
+            "name": "Girl, It's a Dark and Lonely World"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712558&streamencoding=mp31", 
+            "name": "Broken Record"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712562&streamencoding=mp31", 
+            "name": "Aiming at Shadows"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712552&streamencoding=mp31", 
+            "name": "Don't Know Why"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712556&streamencoding=mp31", 
+            "name": "Giving Up on Someone"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712560&streamencoding=mp31", 
+            "name": "Sunday  (duet with Cliff Haskins)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712550&streamencoding=mp31", 
+            "name": "It Just Happens"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712557&streamencoding=mp31", 
+            "name": "Maybe It's Me, Maybe It's You"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712559&streamencoding=mp31", 
+            "name": "Forever in Your Eyes"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712553&streamencoding=mp31", 
+            "name": "Oh Well"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712555&streamencoding=mp31", 
+            "name": "Memphis in the Rain"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712561&streamencoding=mp31", 
+            "name": "I Got Darkness"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83177"
+}

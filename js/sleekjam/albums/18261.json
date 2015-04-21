@@ -1,0 +1,49 @@
+{
+    "name": "Where The Gang Dwells", 
+    "artist": "WOLFGUN", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18261&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129504&streamencoding=mp31", 
+            "name": "Night of The Wolves"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129505&streamencoding=mp31", 
+            "name": "Utter Confusion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129506&streamencoding=mp31", 
+            "name": "The Shaker"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129507&streamencoding=mp31", 
+            "name": "Where The Gang Dwells"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129508&streamencoding=mp31", 
+            "name": "Rock Me"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129509&streamencoding=mp31", 
+            "name": "Solid Pressure"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129510&streamencoding=mp31", 
+            "name": "The Wolf Gang"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129511&streamencoding=mp31", 
+            "name": "Vertigo"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18261"
+}

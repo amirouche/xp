@@ -1,0 +1,59 @@
+{
+    "name": "Polas lameiras", 
+    "artist": "Medra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82267&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=705340&streamencoding=mp31", 
+            "name": "Medrando"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=705338&streamencoding=mp31", 
+            "name": "Chove sobre ti"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=705334&streamencoding=mp31", 
+            "name": "Non te raies"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=705339&streamencoding=mp31", 
+            "name": "Estanche a mentir"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=705337&streamencoding=mp31", 
+            "name": "Calense"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=705333&streamencoding=mp31", 
+            "name": "Pesadelo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=705336&streamencoding=mp31", 
+            "name": "Pra poder cambiar"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=705341&streamencoding=mp31", 
+            "name": "Hoxe non"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=705332&streamencoding=mp31", 
+            "name": "Elelegido"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=705335&streamencoding=mp31", 
+            "name": "Chove sobre min"
+        }
+    ], 
+    "release": "2010", 
+    "id": "82267"
+}

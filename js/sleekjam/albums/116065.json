@@ -1,0 +1,44 @@
+{
+    "name": "Staubkeller Sessions 2012 - Part 1", 
+    "artist": "Hippie House Jam Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116065&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=986122&streamencoding=mp31", 
+            "name": "Dealer"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=986123&streamencoding=mp31", 
+            "name": "Nightclub"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=986125&streamencoding=mp31", 
+            "name": "Kommt doch alle mit"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=986126&streamencoding=mp31", 
+            "name": "Hippie Bulle"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=986127&streamencoding=mp31", 
+            "name": "Hawaii F\u00fcnfnull"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=986129&streamencoding=mp31", 
+            "name": "Sonnenschein"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=986131&streamencoding=mp31", 
+            "name": "Babe Babe"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116065"
+}

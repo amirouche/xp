@@ -1,0 +1,79 @@
+{
+    "name": "MiradaProds. Vol.1", 
+    "artist": "Tambor", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33402&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225711&streamencoding=mp31", 
+            "name": "Introducci\u00f3n al \u00e9xodo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225712&streamencoding=mp31", 
+            "name": "Broken flowers"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225713&streamencoding=mp31", 
+            "name": "White bitch"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225714&streamencoding=mp31", 
+            "name": "If you go away"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225716&streamencoding=mp31", 
+            "name": "Carmen"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225717&streamencoding=mp31", 
+            "name": "Shirley Track"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225718&streamencoding=mp31", 
+            "name": "C\u00f3modo en el tiempo I"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225827&streamencoding=mp31", 
+            "name": "Hay por favor ay\u00fadenme"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225720&streamencoding=mp31", 
+            "name": "Big beats city"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225721&streamencoding=mp31", 
+            "name": "Experimental fat beat"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225722&streamencoding=mp31", 
+            "name": "C\u00f3modo en el tiempo II"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225723&streamencoding=mp31", 
+            "name": "Tribute of Manolo Escobar"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225724&streamencoding=mp31", 
+            "name": "2006"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225725&streamencoding=mp31", 
+            "name": "Outro"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33402"
+}

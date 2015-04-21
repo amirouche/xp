@@ -1,0 +1,44 @@
+{
+    "name": "I have seen", 
+    "artist": "Black Chrome Bullets", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109514&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926111&streamencoding=mp31", 
+            "name": "Black Chrome Bullets - I have seen"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926216&streamencoding=mp31", 
+            "name": "Black Chrome Bullets - Lonely in the crowd"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926212&streamencoding=mp31", 
+            "name": "Black Chrome Bullets - d&b lost city 2 1.8 strumental"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926214&streamencoding=mp31", 
+            "name": "Black Chrome Bullets - Black rain"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926217&streamencoding=mp31", 
+            "name": "Black Chrome Bullets - Grandmother's hug"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926222&streamencoding=mp31", 
+            "name": "Black Chrome Bullets - milling machine"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926226&streamencoding=mp31", 
+            "name": "Black Chrome Bullets - Storm of tears rem 2011"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109514"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Playful Children's Music", 
+    "artist": "Akashic Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112980&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961229&streamencoding=mp31", 
+            "name": "Playful Children's Music - Baby's First Step"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112980"
+}

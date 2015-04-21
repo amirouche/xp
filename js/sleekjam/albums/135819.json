@@ -1,0 +1,74 @@
+{
+    "name": "Template of Nothing", 
+    "artist": "Egg's Pear", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135819&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132534&streamencoding=mp31", 
+            "name": "Little Jump"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132527&streamencoding=mp31", 
+            "name": "Template Of Nothing"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132533&streamencoding=mp31", 
+            "name": "Sound Of Steel"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132532&streamencoding=mp31", 
+            "name": "Fem'Ale"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132531&streamencoding=mp31", 
+            "name": "Unimportant As A Cockroach"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132535&streamencoding=mp31", 
+            "name": "Duchebag"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132523&streamencoding=mp31", 
+            "name": "In Between"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132524&streamencoding=mp31", 
+            "name": "My Balls Are On Fire"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132525&streamencoding=mp31", 
+            "name": "Lost In Porn"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132526&streamencoding=mp31", 
+            "name": "Wishful Thinking"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132528&streamencoding=mp31", 
+            "name": "Please Some Help"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132529&streamencoding=mp31", 
+            "name": "Penistroika"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132530&streamencoding=mp31", 
+            "name": "Walkthrough (bonus)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135819"
+}

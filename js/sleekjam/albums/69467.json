@@ -1,0 +1,24 @@
+{
+    "name": "First", 
+    "artist": "G-Noise", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69467&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=600648&streamencoding=mp31", 
+            "name": "Fly with me (where the angels sing) (Instrumental)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=600689&streamencoding=mp31", 
+            "name": "Is it love or Hatelove"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=600690&streamencoding=mp31", 
+            "name": "Stalker"
+        }
+    ], 
+    "release": "2010", 
+    "id": "69467"
+}

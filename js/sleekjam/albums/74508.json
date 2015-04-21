@@ -1,0 +1,14 @@
+{
+    "name": "people-clouds", 
+    "artist": "people-clouds", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74508&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643439&streamencoding=mp31", 
+            "name": "\u041e\u0433\u043d\u0438"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74508"
+}

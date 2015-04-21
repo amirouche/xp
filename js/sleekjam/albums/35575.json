@@ -1,0 +1,54 @@
+{
+    "name": "CNG Autum", 
+    "artist": "Gerett Hill", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35575&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=245814&streamencoding=mp31", 
+            "name": "Pirat"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=245812&streamencoding=mp31", 
+            "name": "Voddi"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=245815&streamencoding=mp31", 
+            "name": "Cut the Dive"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=245802&streamencoding=mp31", 
+            "name": "Ohwee"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=245803&streamencoding=mp31", 
+            "name": "Images"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=245808&streamencoding=mp31", 
+            "name": "Ich bins"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=245801&streamencoding=mp31", 
+            "name": "Manni"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=245809&streamencoding=mp31", 
+            "name": "Mein Herr"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=245810&streamencoding=mp31", 
+            "name": "Danke"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35575"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "FILIGRANE", 
+    "artist": "SIRUS Francky", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=12562&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=105095&streamencoding=mp31", 
+            "name": "filigrane"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=105104&streamencoding=mp31", 
+            "name": "par principe"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=105141&streamencoding=mp31", 
+            "name": "musicopositif"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=105160&streamencoding=mp31", 
+            "name": "pour une seule femme"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=105173&streamencoding=mp31", 
+            "name": "sans commandement"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=105180&streamencoding=mp31", 
+            "name": "tentative"
+        }
+    ], 
+    "release": "2007", 
+    "id": "12562"
+}

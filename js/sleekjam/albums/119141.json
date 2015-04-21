@@ -1,0 +1,69 @@
+{
+    "name": "Mundus Duo", 
+    "artist": "Adjaston Ascursol", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119141&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011701&streamencoding=mp31", 
+            "name": "Track 1 - Angst um Erik"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011716&streamencoding=mp31", 
+            "name": "Track 2 - Der Weg in die Freiheit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011722&streamencoding=mp31", 
+            "name": "Track 3 - Das ist Natur"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011717&streamencoding=mp31", 
+            "name": "Track 4 - Verbleichende Hoffnung"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011718&streamencoding=mp31", 
+            "name": "Track 5 - Alternativ Imagination"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011719&streamencoding=mp31", 
+            "name": "Track 6 - Querfeldein"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011724&streamencoding=mp31", 
+            "name": "Track 7 - Ein Hauch von Freiheit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011725&streamencoding=mp31", 
+            "name": "Track 8 - Flora et Fauna"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011754&streamencoding=mp31", 
+            "name": "Bonus track 1 - Is nobody home"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011756&streamencoding=mp31", 
+            "name": "Bonus Track 2 - The oxigenium-shock"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011755&streamencoding=mp31", 
+            "name": "Bonus track 3 - The tunnelrun"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011757&streamencoding=mp31", 
+            "name": "Bonus Track 4 - Die neue Welt"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119141"
+}

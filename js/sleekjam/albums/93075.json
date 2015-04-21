@@ -1,0 +1,54 @@
+{
+    "name": "The Sound of Magic", 
+    "artist": "DJ-Dreamland", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93075&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793312&streamencoding=mp31", 
+            "name": "DJ-Dreamland - The Sound of Magic.mp3"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793308&streamencoding=mp31", 
+            "name": "DJ-Dreamland - Theme.mp3"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793309&streamencoding=mp31", 
+            "name": "DJ-Dreamland - In a Dreamworld(Choirversion).mp3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793310&streamencoding=mp31", 
+            "name": "DJ-Dreamland - Magic Melody.mp3"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793313&streamencoding=mp31", 
+            "name": "DJ-Dreamland - Magic Dreams.mp3"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793314&streamencoding=mp31", 
+            "name": "DJ-Dreamland - Magic World.mp3"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793311&streamencoding=mp31", 
+            "name": "DJ-Dreamland - Mystical.mp3"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793315&streamencoding=mp31", 
+            "name": "DJ-Dreamland - In a Dreamworld.mp3"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793307&streamencoding=mp31", 
+            "name": "DJ-Dreamland - The Magic Piano (The Final Track).mp3"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93075"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "World in Panic  (single)", 
+    "artist": "C\u0152DES Pierre-Marie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33575&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=226898&streamencoding=mp31", 
+            "name": "World in panic"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33575"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "EMOTION+BONUS PROCHAIN TRACKX", 
+    "artist": "les cheper", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54543&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456392&streamencoding=mp31", 
+            "name": "emotion +bonus prochain trackx"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54543"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "groove   vol.2", 
+    "artist": "chris.B", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47908&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370598&streamencoding=mp31", 
+            "name": "Gimme space  (3,57)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370602&streamencoding=mp31", 
+            "name": "Do it     (5.28)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370600&streamencoding=mp31", 
+            "name": "My min   (5,47)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370599&streamencoding=mp31", 
+            "name": "mars attack   (7,49)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47908"
+}

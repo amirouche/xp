@@ -1,0 +1,64 @@
+{
+    "name": "Time Voyage", 
+    "artist": "mmb digidesigns", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7066&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78040&streamencoding=mp31", 
+            "name": "Take off"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78041&streamencoding=mp31", 
+            "name": "Yueshin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78042&streamencoding=mp31", 
+            "name": "Sitar wave part 1"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78043&streamencoding=mp31", 
+            "name": "Sitar wave part 2"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78044&streamencoding=mp31", 
+            "name": "Pads & sweeps"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78045&streamencoding=mp31", 
+            "name": "La madeleine de Proust"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78046&streamencoding=mp31", 
+            "name": "The old monk's space"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78047&streamencoding=mp31", 
+            "name": "Uno Dos Tres Quatro"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78048&streamencoding=mp31", 
+            "name": "Contemplation"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78049&streamencoding=mp31", 
+            "name": "Beyond past & future"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78050&streamencoding=mp31", 
+            "name": "Time voyage"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7066"
+}

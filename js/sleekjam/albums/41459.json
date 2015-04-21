@@ -1,0 +1,74 @@
+{
+    "name": "The Envious Dead", 
+    "artist": "Brokenkites", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41459&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304831&streamencoding=mp31", 
+            "name": "revised youth"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304832&streamencoding=mp31", 
+            "name": "the lost kids"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304833&streamencoding=mp31", 
+            "name": "tiernan"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304834&streamencoding=mp31", 
+            "name": "hours of night"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304835&streamencoding=mp31", 
+            "name": "cryonics"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304836&streamencoding=mp31", 
+            "name": "horizons"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304837&streamencoding=mp31", 
+            "name": "cold movement"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304838&streamencoding=mp31", 
+            "name": "nina's sandman"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304839&streamencoding=mp31", 
+            "name": "a breath away"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304840&streamencoding=mp31", 
+            "name": "between the blanks"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304841&streamencoding=mp31", 
+            "name": "nonfunctionals"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304842&streamencoding=mp31", 
+            "name": "skyships"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304843&streamencoding=mp31", 
+            "name": "the envious dead"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41459"
+}

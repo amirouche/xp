@@ -1,0 +1,44 @@
+{
+    "name": "lctrolord - immulio", 
+    "artist": "Lctrolord", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77014&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663956&streamencoding=mp31", 
+            "name": "(01)_[lctrolord]_offhz"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663960&streamencoding=mp31", 
+            "name": "(02)_[lctrolord]_fsc-lyy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663957&streamencoding=mp31", 
+            "name": "(03)_[lctrolord]_ud5"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663954&streamencoding=mp31", 
+            "name": "(04)_[lctrolord]_wpximftr"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663958&streamencoding=mp31", 
+            "name": "(05)_[lctrolord]_ouriqil_2010"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663955&streamencoding=mp31", 
+            "name": "(06)_[lctrolord]_l-tup_(ud5v2)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663959&streamencoding=mp31", 
+            "name": "(07)_[lctrolord]_iiexxs"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77014"
+}

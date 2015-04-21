@@ -1,0 +1,74 @@
+{
+    "name": "Loose Autumn Moans", 
+    "artist": "Fiffdimension", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22885&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159236&streamencoding=mp31", 
+            "name": "Summer Skin"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159238&streamencoding=mp31", 
+            "name": "After the Filmshoot (Take 1)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159239&streamencoding=mp31", 
+            "name": "Working Like a Fountain in the Slender Morning Chill"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159240&streamencoding=mp31", 
+            "name": "Interlude- The Sociopolitical Context"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159246&streamencoding=mp31", 
+            "name": "Etude for Electric Saxophone"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159247&streamencoding=mp31", 
+            "name": "Redressing Regression Agression"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159251&streamencoding=mp31", 
+            "name": "Interlude- Les Paul Tapdance"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159263&streamencoding=mp31", 
+            "name": "Mouth of the Caveman"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159264&streamencoding=mp31", 
+            "name": "W.L.A.F. Reprise"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159267&streamencoding=mp31", 
+            "name": "The Hurricane Wrangle (A Butcher-Review)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159269&streamencoding=mp31", 
+            "name": "Sleep-Grease"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159270&streamencoding=mp31", 
+            "name": "After the Filmshoot (Take 2)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159271&streamencoding=mp31", 
+            "name": "O Henry Ending (The Winter version)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22885"
+}

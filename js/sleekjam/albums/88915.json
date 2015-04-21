@@ -1,0 +1,19 @@
+{
+    "name": "Jazz Funk Underground", 
+    "artist": "Custom Radio", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88915&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760080&streamencoding=mp31", 
+            "name": "groovy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760078&streamencoding=mp31", 
+            "name": "carajillo blues"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88915"
+}

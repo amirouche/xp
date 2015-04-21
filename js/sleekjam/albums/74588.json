@@ -1,0 +1,54 @@
+{
+    "name": "Georgia Boy", 
+    "artist": "Titan Murphy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74588&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636706&streamencoding=mp31", 
+            "name": "My Baby"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636707&streamencoding=mp31", 
+            "name": "Baby"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636708&streamencoding=mp31", 
+            "name": "Off In the Club"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636709&streamencoding=mp31", 
+            "name": "LOVE"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636710&streamencoding=mp31", 
+            "name": "I Believe"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636711&streamencoding=mp31", 
+            "name": "Bangkok"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636712&streamencoding=mp31", 
+            "name": "Georgia Boy"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636713&streamencoding=mp31", 
+            "name": "One Dance"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636714&streamencoding=mp31", 
+            "name": "Die For This Here"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74588"
+}

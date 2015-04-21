@@ -1,0 +1,54 @@
+{
+    "name": "May the folk be with you", 
+    "artist": "mykee", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18043&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127792&streamencoding=mp31", 
+            "name": "Bar barbaru"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127793&streamencoding=mp31", 
+            "name": "Plynu"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127796&streamencoding=mp31", 
+            "name": "Transformace"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127797&streamencoding=mp31", 
+            "name": "Folkove seminko"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127798&streamencoding=mp31", 
+            "name": "Ze severu silny vetry"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127799&streamencoding=mp31", 
+            "name": "Bud si jak bud"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127800&streamencoding=mp31", 
+            "name": "Petrolejove lampy"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127801&streamencoding=mp31", 
+            "name": "Relativni stesti"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127802&streamencoding=mp31", 
+            "name": "Velmi kratky vztah"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18043"
+}

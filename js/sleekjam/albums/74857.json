@@ -1,0 +1,69 @@
+{
+    "name": "Flat People", 
+    "artist": "Flat People", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74857&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645961&streamencoding=mp31", 
+            "name": "Sensitive Clumsy Astronaut"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645960&streamencoding=mp31", 
+            "name": "Oh, Conspiracy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645975&streamencoding=mp31", 
+            "name": "For The Birds"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645972&streamencoding=mp31", 
+            "name": "Retool"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645958&streamencoding=mp31", 
+            "name": "A Year From Now (Where's the Emotion Baby-)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645976&streamencoding=mp31", 
+            "name": "Everybody's Got A Syndrome Here"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645973&streamencoding=mp31", 
+            "name": "Isn't It Time"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645974&streamencoding=mp31", 
+            "name": "My Heart Is Beating Warm"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645959&streamencoding=mp31", 
+            "name": "Ice Cubes"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645977&streamencoding=mp31", 
+            "name": "My Old Machine"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645979&streamencoding=mp31", 
+            "name": "Soon"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645978&streamencoding=mp31", 
+            "name": "Jay Borsky"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74857"
+}

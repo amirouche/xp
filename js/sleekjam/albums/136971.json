@@ -1,0 +1,14 @@
+{
+    "name": "Brick - SingleShot", 
+    "artist": "Michael Pin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136971&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142344&streamencoding=mp31", 
+            "name": "Brick"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136971"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Bathroom naturism", 
+    "artist": "Minusminus", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104342&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887233&streamencoding=mp31", 
+            "name": "counting the sheep"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887232&streamencoding=mp31", 
+            "name": "waltzing nothing"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887231&streamencoding=mp31", 
+            "name": "troubles"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887230&streamencoding=mp31", 
+            "name": "coXinelle"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887229&streamencoding=mp31", 
+            "name": "the bananafishgirl"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887228&streamencoding=mp31", 
+            "name": "fade out: out"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887227&streamencoding=mp31", 
+            "name": "a long time"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887237&streamencoding=mp31", 
+            "name": "soundtrack (for a nightmare)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887236&streamencoding=mp31", 
+            "name": "la science des r\u00eaves partis"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887234&streamencoding=mp31", 
+            "name": "qui sait qui il est"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887235&streamencoding=mp31", 
+            "name": "danser on la music"
+        }
+    ], 
+    "release": "2011", 
+    "id": "104342"
+}

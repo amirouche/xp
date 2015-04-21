@@ -1,0 +1,54 @@
+{
+    "name": "Tov\u00e1rna na kr\u00e1sn\u00e1 slova", 
+    "artist": "mykee", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30851&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208577&streamencoding=mp31", 
+            "name": "Kapi\u010dky nad\u011bje"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208578&streamencoding=mp31", 
+            "name": "7"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208579&streamencoding=mp31", 
+            "name": "Fialov\u00fd kr\u00e1vy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208580&streamencoding=mp31", 
+            "name": "Kouzlo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208582&streamencoding=mp31", 
+            "name": "Pocta v\u0161edn\u00edmu dni"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208583&streamencoding=mp31", 
+            "name": "Spole\u010dnost mrtv\u00fdch du\u0161\u00ed"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208584&streamencoding=mp31", 
+            "name": "Tov\u00e1rna na kr\u00e1sn\u00e1 slova"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208585&streamencoding=mp31", 
+            "name": "\u010cernooran\u017eov\u00e1"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208586&streamencoding=mp31", 
+            "name": "Jako \u010dlov\u011bk"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30851"
+}

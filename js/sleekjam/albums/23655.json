@@ -1,0 +1,14 @@
+{
+    "name": "Chanson de l'hippocampe (po\u00e8me d'Aim\u00e9 C\u00e9saire)", 
+    "artist": "Rapha\u00eblle Eva", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23655&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161502&streamencoding=mp31", 
+            "name": "Chanson de l'hippocampe (Po\u00e8me d'Aim\u00e9 C\u00e9saire)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23655"
+}

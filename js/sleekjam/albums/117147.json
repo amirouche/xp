@@ -1,0 +1,49 @@
+{
+    "name": "Chapter IV", 
+    "artist": "King Dubby", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117147&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996093&streamencoding=mp31", 
+            "name": "Nina's Dub"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996094&streamencoding=mp31", 
+            "name": "Ordinary man"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996095&streamencoding=mp31", 
+            "name": "Lola's Dub"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996096&streamencoding=mp31", 
+            "name": "A peacefull Dub"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996098&streamencoding=mp31", 
+            "name": "Tribulation Dub"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996099&streamencoding=mp31", 
+            "name": "A Rough Dub"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996100&streamencoding=mp31", 
+            "name": "Don't let me dubbbb"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996101&streamencoding=mp31", 
+            "name": "Dub in the house"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117147"
+}

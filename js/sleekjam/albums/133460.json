@@ -1,0 +1,29 @@
+{
+    "name": "Parlor tricks and bad illusions", 
+    "artist": "Smiling Cynic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133460&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117018&streamencoding=mp31", 
+            "name": "an intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117019&streamencoding=mp31", 
+            "name": "funk me ft kidjazz"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117020&streamencoding=mp31", 
+            "name": "a beer and a smoke"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117021&streamencoding=mp31", 
+            "name": "coffee on a sunday morning"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133460"
+}

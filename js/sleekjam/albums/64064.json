@@ -1,0 +1,34 @@
+{
+    "name": "Sounds From Ako'\u00e9", 
+    "artist": "Hermann Floride", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64064&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550216&streamencoding=mp31", 
+            "name": "Meagua"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550217&streamencoding=mp31", 
+            "name": "First Encounter"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550218&streamencoding=mp31", 
+            "name": "La Ronde (Matisse)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550219&streamencoding=mp31", 
+            "name": "Fields To Starfields"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550220&streamencoding=mp31", 
+            "name": "Adee Fadzeem Nefree Neete"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64064"
+}

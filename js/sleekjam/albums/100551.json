@@ -1,0 +1,89 @@
+{
+    "name": "Native Sessions", 
+    "artist": "Eyes Tribe", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100551&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859034&streamencoding=mp31", 
+            "name": "Wenn Du behauptest - eine L\u00fcge"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859036&streamencoding=mp31", 
+            "name": "Crystal Lake"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859039&streamencoding=mp31", 
+            "name": "Paths of Destiny"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859042&streamencoding=mp31", 
+            "name": "Gedicht"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859122&streamencoding=mp31", 
+            "name": "No Ordinary Love"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859011&streamencoding=mp31", 
+            "name": "Traumflucht"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859045&streamencoding=mp31", 
+            "name": "To die .."
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859074&streamencoding=mp31", 
+            "name": "Wolke aus Glas (Native Version)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859099&streamencoding=mp31", 
+            "name": "Forever Friends"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859124&streamencoding=mp31", 
+            "name": "Weg ins Morgen (Native Version 2.011)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859100&streamencoding=mp31", 
+            "name": "DawnLight"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859102&streamencoding=mp31", 
+            "name": "I fail"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859137&streamencoding=mp31", 
+            "name": "Blessed Good Bye"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859108&streamencoding=mp31", 
+            "name": "Ein Traum erlischt (Bonus)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859144&streamencoding=mp31", 
+            "name": "Leave Without (Bonus)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859155&streamencoding=mp31", 
+            "name": "No Ordinary Love (Native Bonus Version)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "100551"
+}

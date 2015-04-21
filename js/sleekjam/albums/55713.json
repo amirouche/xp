@@ -1,0 +1,119 @@
+{
+    "name": "Bravo", 
+    "artist": "A STAGE KINDLY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55713&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471056&streamencoding=mp31", 
+            "name": "The Jungle Song - by Paul Katz and Michael Colby from 'Tales of Tinseltown'.  Sung by Arabella Rodrigo."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471038&streamencoding=mp31", 
+            "name": "Chasing Rainbows - by Mark Kelser, Jon Bartlett with Martin Sterling from 'Whitechapel'.  Sung by Frank Loman."
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471042&streamencoding=mp31", 
+            "name": "Lost For Words - by Giles Howe from 'Soviet Zion'.  Sung by Giles Howe."
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471040&streamencoding=mp31", 
+            "name": "My Song - by Peter Milrose and Michael Colby from 'Quel Fromage'.  Sung by Katy Lipson."
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471046&streamencoding=mp31", 
+            "name": "Congratulations - by Michael Gordon Shapiro from 'The Charmed Life'.  Sung by Charlotte Donald."
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471039&streamencoding=mp31", 
+            "name": "Just One Look - by Caden Jones and Robert Gould from 'After The Turn'.  Sung by Adam Bayjou and Charlotte Donald."
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471041&streamencoding=mp31", 
+            "name": "It's All In The Ball - by Darryl Chute from 'Alison The Musical'.  Sung by Arabella Rodrigo featuring Adam Bayjou."
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471060&streamencoding=mp31", 
+            "name": "Don't Cry Butterfly - by Anna Hurkmans and Raffaele Paglione from 'Don't Cry Butterfly'.  Sung by Arabella Rodrigo and Frank Loman."
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471045&streamencoding=mp31", 
+            "name": "In A Perfect World  - by Darryl Chute from 'Alison The Musical'.  Sung by Giles Howe and Katy Lipson."
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471048&streamencoding=mp31", 
+            "name": "It's Up To Me - by Ludovic-Alexandre Vidal and Julien Salvia from The Price And The Pauper.  Sung by Charlotte Donald."
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471044&streamencoding=mp31", 
+            "name": "Bite Your Lip - by Caden Jones and Robert Gould from 'After The Turn'.  Sung by Adam Bayjou."
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471049&streamencoding=mp31", 
+            "name": "The Legend Of Mata Hari - by Anna Hurkmans and Raffaele Paglione from 'Don't Cry Butterfly'.  Sung by Arabella Rodrigo."
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471050&streamencoding=mp31", 
+            "name": "Zofia, I Have News To Tell You - by Katy Lipson and Giles Howe from 'Soviet Zion'.  Sung by Katy Lipson and Giles Howe."
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471051&streamencoding=mp31", 
+            "name": "She's The One - by Mark Kelser, Jon Bartlett with Martin Sterling from 'Whitechapel'.  Sung by Adam Bayjou"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471054&streamencoding=mp31", 
+            "name": "Sunflowers - by Anna Hurkmans and Raffaele Paglione from 'Vincent'.  Sung by Arabella Rodrigo"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471052&streamencoding=mp31", 
+            "name": "Dreams Come True - by Mark Kelser, Jon Bartlett with Martin Sterling from 'Whitechapel'.  Sung by Frank Loman."
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471055&streamencoding=mp31", 
+            "name": "Although I Often Feel - by Katy Lipson and Giles Howe from 'Soviet Zion'.  Sung by Katy Lipson"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471057&streamencoding=mp31", 
+            "name": "Still Human Where It Counts - by Scarlett Deva Antaloczy and Nigel Osner from 'Rock Heaven'.  Sung by The Cast of Bravo featured solo Giles Howe."
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471061&streamencoding=mp31", 
+            "name": "I'm Not In Love With Her - by David Reiser from 'All About Love'.  Sung by Frank Loman"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471047&streamencoding=mp31", 
+            "name": "The Rights Of Man - by Ludovic-Alexandre Vidal and Julien Salvia from Revolution.  Sung by the Cast Of Bravo."
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471062&streamencoding=mp31", 
+            "name": "Something - by Jim Farley and David Brush from 'The Big Picture'.  Sung by Charlotte Donald and Cast of Bravo."
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=471186&streamencoding=mp31", 
+            "name": "Ya've Got What It Takes - by Jack Urbont and Michael Colby from 'Mrs McThing'.  Sung by Frank Loman and Adam Bayjou."
+        }
+    ], 
+    "release": "2009", 
+    "id": "55713"
+}

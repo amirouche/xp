@@ -1,0 +1,24 @@
+{
+    "name": "DEMO", 
+    "artist": "\u041c\u0410\u0421\u0422\u0415\u0420\u041a\u041b\u0410\u0421\u0421", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88421&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755986&streamencoding=mp31", 
+            "name": "Krim"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755984&streamencoding=mp31", 
+            "name": "Ulibaisa"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755985&streamencoding=mp31", 
+            "name": "Vtaptivaem pol"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88421"
+}

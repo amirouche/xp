@@ -1,0 +1,74 @@
+{
+    "name": "Groovy Bones", 
+    "artist": "Instantperson", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126323&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068626&streamencoding=mp31", 
+            "name": "No matter what they say"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068627&streamencoding=mp31", 
+            "name": "On the run"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068630&streamencoding=mp31", 
+            "name": "The brightest star"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068625&streamencoding=mp31", 
+            "name": "Maybe"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068634&streamencoding=mp31", 
+            "name": "If"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068633&streamencoding=mp31", 
+            "name": "Again we went astray"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068629&streamencoding=mp31", 
+            "name": "Safe"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068628&streamencoding=mp31", 
+            "name": "One more time"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068632&streamencoding=mp31", 
+            "name": "The last living refugee"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068631&streamencoding=mp31", 
+            "name": "The consequences"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068624&streamencoding=mp31", 
+            "name": "In vain"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068635&streamencoding=mp31", 
+            "name": "The perfect place"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068623&streamencoding=mp31", 
+            "name": "Fortune cookie"
+        }
+    ], 
+    "release": "2013", 
+    "id": "126323"
+}

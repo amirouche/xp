@@ -1,0 +1,89 @@
+{
+    "name": "DOM Volume 1", 
+    "artist": "Dom N", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23319&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160294&streamencoding=mp31", 
+            "name": "Temps et silence"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160182&streamencoding=mp31", 
+            "name": "Berceuse pour Amandine"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160186&streamencoding=mp31", 
+            "name": "Au 43"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160188&streamencoding=mp31", 
+            "name": "Au Mousse"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160199&streamencoding=mp31", 
+            "name": "Blessures"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160211&streamencoding=mp31", 
+            "name": "Diane"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160229&streamencoding=mp31", 
+            "name": "Dina dinou"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160241&streamencoding=mp31", 
+            "name": "La maman des chatons"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160254&streamencoding=mp31", 
+            "name": "Le temps des vacances"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160262&streamencoding=mp31", 
+            "name": "Mais qui en veut \u00e0 G\u00e9raldine"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160357&streamencoding=mp31", 
+            "name": "Naissance"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160370&streamencoding=mp31", 
+            "name": "Gueule \u00e0 boujous"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160348&streamencoding=mp31", 
+            "name": "Sonia"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160380&streamencoding=mp31", 
+            "name": "Les mains"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160388&streamencoding=mp31", 
+            "name": "Cette main sur l'\u00e9paule"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160383&streamencoding=mp31", 
+            "name": "Po\u00e8me inachev\u00e9"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23319"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "There is only a step", 
+    "artist": "Mister Electric Demon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82907&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710532&streamencoding=mp31", 
+            "name": "03 If neither of us"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710533&streamencoding=mp31", 
+            "name": "05 Consequences"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710534&streamencoding=mp31", 
+            "name": "01 Time wasted"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710535&streamencoding=mp31", 
+            "name": "09 All things must be clarified"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710536&streamencoding=mp31", 
+            "name": "12 Let me show you how dark is my heart now"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710537&streamencoding=mp31", 
+            "name": "06 Difficult choice"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710538&streamencoding=mp31", 
+            "name": "10 Shitty world"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710539&streamencoding=mp31", 
+            "name": "13 I must forget you"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710540&streamencoding=mp31", 
+            "name": "07 Love cow"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710541&streamencoding=mp31", 
+            "name": "02 I am a free spaceman"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710542&streamencoding=mp31", 
+            "name": "04 Sentimental equations"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710543&streamencoding=mp31", 
+            "name": "11 Why making me believe"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710544&streamencoding=mp31", 
+            "name": "08 Speak to me"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710545&streamencoding=mp31", 
+            "name": "14 See you in 14 years"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82907"
+}

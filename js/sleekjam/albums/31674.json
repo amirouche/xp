@@ -1,0 +1,44 @@
+{
+    "name": "tovarish tovarish", 
+    "artist": "tovarish", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31674&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215105&streamencoding=mp31", 
+            "name": "sfiratela"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215107&streamencoding=mp31", 
+            "name": "marmelada"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215108&streamencoding=mp31", 
+            "name": "selamalejkum"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215110&streamencoding=mp31", 
+            "name": "trafik"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215112&streamencoding=mp31", 
+            "name": "clovek"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215113&streamencoding=mp31", 
+            "name": "etnolo\u0161ki muzej"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215115&streamencoding=mp31", 
+            "name": "norost"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31674"
+}

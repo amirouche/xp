@@ -1,0 +1,154 @@
+@font-face {
+  font-family: 'Open Sans Light';
+  font-style: normal;
+  src: local('Open Sans Light'), url("OpenSans-Light.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Raleway Bold';
+  font-style: normal;
+  src: local('Raleway Bold'), url("Raleway-Bold.ttf") format('truetype');
+}
+
+
+body {
+    background: url("background.jpg") fixed;
+    font-size: 1em;
+    font-family: 'Open Sans Light', sans;
+}
+
+.hidden {
+    display: none;
+}
+
+/* back button */
+div h1 span:first-child {
+    cursor: pointer;
+}
+
+#genres {
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 200px;
+}
+
+#genres > div  {
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-family: 'Raleway Bold', 'Arial Black', sans;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    color: #aaa;
+}
+
+#genres > div:hover {
+    color: #666;	
+    background: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    text-align: right;
+}
+
+#albums {
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 500px;
+}
+
+#albums h1 {
+    font-size: 3em;
+    line-height: 1em;
+    margin: 0px;
+    margin-left: -30px;
+    padding: 0px;
+    color: white;
+    font-family: 'Open Sans Light';
+    margin-bottom: 30px;
+}
+
+#albums > div {
+    cursor: pointer;
+    height: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+#albums > div:hover {
+    background: white;
+    color: #222;
+    border: 2px solid white;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+}
+
+#albums > div:hover p {
+    color: #999;
+}
+
+#albums > div:hover p:first-child {
+    color: #555;
+}
+
+#albums img  {
+    float: left;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+#albums p {
+    line-height: 1em;
+    margin: 0px;
+    padding: 0px;
+
+    font-family: 'Raleway Bold', 'Arial Black', sans;
+    color: #ddd;
+    margin: 0px;
+    padding: 0px;
+
+    margin-bottom: 4px;
+}
+
+#albums p:first-child {
+    color: #eee;
+    font-family: 'Open Sans Light', sans;
+    font-size: 1.7em;
+}
+
+#player {
+    margin: 20px;
+    margin-left: 50px;
+}
+
+#player img {
+    float: left;
+    margin-right: 20px;
+}
+
+#player div {
+    color: #eee;
+    margin-left: 20px;
+}
+
+#player h1 {
+    color: #eee;
+    margin-left: -30px;
+}
+
+#player div p {
+    font-family: 'Open Sans Light', sans;  
+    font-size: 1.2em;
+    line-height: 1.3em;
+    padding: 0px;
+    margin: 0px;
+    cursor: pointer;
+}
+
+#player div p.played {
+    font-weight: bold;
+}
+
+#player div p.played:before {
+    content: "» ";
+    font-weight: bold;
+}

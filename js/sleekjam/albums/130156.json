@@ -1,0 +1,59 @@
+{
+    "name": "\"ON THE RIDDIM\" My Best Of ", 
+    "artist": "Ej Rams Records ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130156&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091963&streamencoding=mp31", 
+            "name": "Venme pronto a buscar (Fred R\u00e9dimido / Carlos Mor\u00e9no)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091967&streamencoding=mp31", 
+            "name": "Diamond girl (Sing A Teh Rise / Bonny Bonez)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091961&streamencoding=mp31", 
+            "name": "Mi Calma (El Ganjoman)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091965&streamencoding=mp31", 
+            "name": "Vini pou nou al\u00e9 (Original Sol'Jah)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091969&streamencoding=mp31", 
+            "name": "Sababa (Ijahdan Taurus)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091962&streamencoding=mp31", 
+            "name": "One Love (Mike Joseph)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091966&streamencoding=mp31", 
+            "name": "Il faut qu't'arretes de t'prendre la t\u00eate (Ousmane)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091960&streamencoding=mp31", 
+            "name": "Summertime (J.Life / Indrani)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091964&streamencoding=mp31", 
+            "name": "S\u00e9n\u00e9gali (Sista Kidjao)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091968&streamencoding=mp31", 
+            "name": "Jah time is the best (Borbor Show)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "130156"
+}

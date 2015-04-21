@@ -1,0 +1,39 @@
+{
+    "name": "Brutal Assimilation EP", 
+    "artist": "Endogenous Examination Project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75408&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650423&streamencoding=mp31", 
+            "name": "Inovative Machinery Explained in Relative Distortion"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650430&streamencoding=mp31", 
+            "name": "Bourongi Drive"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650431&streamencoding=mp31", 
+            "name": "Corporal Radamo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650432&streamencoding=mp31", 
+            "name": "Dark Cluster"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650433&streamencoding=mp31", 
+            "name": "Human Companionship"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650434&streamencoding=mp31", 
+            "name": "Worthless Human Being"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75408"
+}

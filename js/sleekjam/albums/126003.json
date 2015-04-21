@@ -1,0 +1,69 @@
+{
+    "name": "Ray Of Lightss Healing Love Music", 
+    "artist": "Ray Of Lightss", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126003&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066058&streamencoding=mp31", 
+            "name": "Rainbow Of Colors"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066060&streamencoding=mp31", 
+            "name": "Tug-O-War"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066080&streamencoding=mp31", 
+            "name": "Stop The War Us"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066041&streamencoding=mp31", 
+            "name": "U Got Me Smilin'"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066047&streamencoding=mp31", 
+            "name": "Power In The Blood"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066062&streamencoding=mp31", 
+            "name": "Lord's Prayer"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066040&streamencoding=mp31", 
+            "name": "Precious Love Song"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066045&streamencoding=mp31", 
+            "name": "All Hail The King!"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066081&streamencoding=mp31", 
+            "name": "Harvest Time"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066088&streamencoding=mp31", 
+            "name": "Blue Jean Baby"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066294&streamencoding=mp31", 
+            "name": "Trick-O-Treat"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066082&streamencoding=mp31", 
+            "name": "Rangy Tangy Candy"
+        }
+    ], 
+    "release": "2013", 
+    "id": "126003"
+}

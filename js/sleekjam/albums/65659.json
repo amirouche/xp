@@ -1,0 +1,24 @@
+{
+    "name": "UP", 
+    "artist": "Fokt Rech", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65659&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=568329&streamencoding=mp31", 
+            "name": "U/P/P/P/P"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=568330&streamencoding=mp31", 
+            "name": "KickBreakVisionHate"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=568328&streamencoding=mp31", 
+            "name": "(In) Prostration (Out)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65659"
+}

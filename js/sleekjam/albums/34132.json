@@ -1,0 +1,39 @@
+{
+    "name": "Gregg Porter Live at The Nave", 
+    "artist": "ARTSomerville", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34132&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=232301&streamencoding=mp31", 
+            "name": "May God Speed"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=232302&streamencoding=mp31", 
+            "name": "Sleepin' In My Boots"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=232303&streamencoding=mp31", 
+            "name": "Mr. Bloodblister"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=232304&streamencoding=mp31", 
+            "name": "Good God Da Gerty"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=232305&streamencoding=mp31", 
+            "name": "I'm Not History"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=232306&streamencoding=mp31", 
+            "name": "Take Care - Drive a Man to Drink"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34132"
+}

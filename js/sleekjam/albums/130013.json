@@ -1,0 +1,94 @@
+{
+    "name": "1991 OUTLAND...", 
+    "artist": "Antoine Guiry", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130013&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090172&streamencoding=mp31", 
+            "name": "The Beginning"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090173&streamencoding=mp31", 
+            "name": "Ozone Depletion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090174&streamencoding=mp31", 
+            "name": "Exp\u00e9rience"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090167&streamencoding=mp31", 
+            "name": "Delire II"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090168&streamencoding=mp31", 
+            "name": "Fusion"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090169&streamencoding=mp31", 
+            "name": "Laser Vivant"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090170&streamencoding=mp31", 
+            "name": "Die Hard"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090171&streamencoding=mp31", 
+            "name": "Objection"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090178&streamencoding=mp31", 
+            "name": "Outland I"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090180&streamencoding=mp31", 
+            "name": "Outland II"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090181&streamencoding=mp31", 
+            "name": "Outland III"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090177&streamencoding=mp31", 
+            "name": "Voyager I"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090176&streamencoding=mp31", 
+            "name": "Voyager II"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090179&streamencoding=mp31", 
+            "name": "Live in Freedom or Die I"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090183&streamencoding=mp31", 
+            "name": "Live in Freedom or Die II"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090182&streamencoding=mp31", 
+            "name": "Delire I"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090175&streamencoding=mp31", 
+            "name": "This Is My End (T.I.M.E.)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "130013"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "3 \u00e8me Impair", 
+    "artist": "conFusion", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72804&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628085&streamencoding=mp31", 
+            "name": "Schpecktr\u00e4um(a) (Bruno BERNARD)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628087&streamencoding=mp31", 
+            "name": "En Allant (Bruno BERNARD)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628086&streamencoding=mp31", 
+            "name": "5 \u00e0 7 (Pascal FELTEN)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628088&streamencoding=mp31", 
+            "name": "40's Blues (Jean COADOU)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628084&streamencoding=mp31", 
+            "name": "H\u00e9licycle (Bruno BERNARD)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628082&streamencoding=mp31", 
+            "name": "Jazz Rock mini concerto pour violon \"\u00e0 la rose et au lotus\" (Bruno BERNARD)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628083&streamencoding=mp31", 
+            "name": "Ever and Ever (Jean COADOU)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628089&streamencoding=mp31", 
+            "name": "Catwalk (bonus track) (Bruno BERNARD)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "72804"
+}

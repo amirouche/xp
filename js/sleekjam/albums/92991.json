@@ -1,0 +1,49 @@
+{
+    "name": "Headless Frog (A Selection Of Headless Frogs)", 
+    "artist": "Stellar Art Wars Free License", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92991&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792517&streamencoding=mp31", 
+            "name": "Headless Frog 4"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792518&streamencoding=mp31", 
+            "name": "Headless Frog 1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792520&streamencoding=mp31", 
+            "name": "Headless Frog 2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792522&streamencoding=mp31", 
+            "name": "Headless Frog 3"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792519&streamencoding=mp31", 
+            "name": "biffabeat"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792516&streamencoding=mp31", 
+            "name": "headless frogs voice"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792521&streamencoding=mp31", 
+            "name": "bongoloop"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792523&streamencoding=mp31", 
+            "name": "Another Headless Frog"
+        }
+    ], 
+    "release": "2011", 
+    "id": "92991"
+}

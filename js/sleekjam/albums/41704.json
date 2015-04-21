@@ -1,0 +1,59 @@
+{
+    "name": "Jes\u00fas Odrem\u00e1n y la Banda de El Perro Andaluz 101 RL", 
+    "artist": "Jes\u00fas Odrem\u00e1n", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41704&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306943&streamencoding=mp31", 
+            "name": "Malandreo del Miiguel Vicente Pata Caliente"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306944&streamencoding=mp31", 
+            "name": "Abuel\u00f3n Lounge"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306945&streamencoding=mp31", 
+            "name": "Saludo a Mar\u00eda Lionza"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306946&streamencoding=mp31", 
+            "name": "Flauta de Caribay"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306947&streamencoding=mp31", 
+            "name": "Carta del tirano Aguirre"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306948&streamencoding=mp31", 
+            "name": "Calipso Lounge"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306949&streamencoding=mp31", 
+            "name": "Encuentro con el Silb\u00f3n"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306950&streamencoding=mp31", 
+            "name": "Campanadas Plaza Bol\u00edvar"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306951&streamencoding=mp31", 
+            "name": "Tambores del Negro Miguel"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306952&streamencoding=mp31", 
+            "name": "El Oro del Dorado"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41704"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Red Ray", 
+    "artist": "Circles", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26945&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180680&streamencoding=mp31", 
+            "name": "The Beginning"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180681&streamencoding=mp31", 
+            "name": "Desert Dance"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180683&streamencoding=mp31", 
+            "name": "Enjoy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180684&streamencoding=mp31", 
+            "name": "Dub"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180686&streamencoding=mp31", 
+            "name": "Electric Camel"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180687&streamencoding=mp31", 
+            "name": "Oasis"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180688&streamencoding=mp31", 
+            "name": "Carousel"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180689&streamencoding=mp31", 
+            "name": "Wild Bunch"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180690&streamencoding=mp31", 
+            "name": "From the Hills "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180692&streamencoding=mp31", 
+            "name": "Red Ray"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180693&streamencoding=mp31", 
+            "name": "Arabia"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180696&streamencoding=mp31", 
+            "name": "The End "
+        }
+    ], 
+    "release": "2008", 
+    "id": "26945"
+}

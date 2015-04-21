@@ -1,0 +1,69 @@
+{
+    "name": "Squizo Concreto Minimal\u00edstico", 
+    "artist": "Emerson Antoniacomi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75882&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655129&streamencoding=mp31", 
+            "name": "Leo's Groove"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655095&streamencoding=mp31", 
+            "name": "Blind"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655132&streamencoding=mp31", 
+            "name": "Breeze"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655150&streamencoding=mp31", 
+            "name": "Baladinha"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655121&streamencoding=mp31", 
+            "name": "Be Back"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655117&streamencoding=mp31", 
+            "name": "Electrical Sweeper"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655126&streamencoding=mp31", 
+            "name": "Fusion"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655119&streamencoding=mp31", 
+            "name": "Mais Uma"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655123&streamencoding=mp31", 
+            "name": "Squizo Concreto Minimal\u00edstico"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655128&streamencoding=mp31", 
+            "name": "Nightmares"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655122&streamencoding=mp31", 
+            "name": "\u00c1frica Misteriosa"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655115&streamencoding=mp31", 
+            "name": "Complicity"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75882"
+}

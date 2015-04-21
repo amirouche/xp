@@ -1,0 +1,44 @@
+{
+    "name": "Dub your brain", 
+    "artist": "Dub Yorf", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112880&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959625&streamencoding=mp31", 
+            "name": "Dubitya"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959973&streamencoding=mp31", 
+            "name": "Straight ahead"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959826&streamencoding=mp31", 
+            "name": "Wisdom"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959971&streamencoding=mp31", 
+            "name": "Side effect"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959974&streamencoding=mp31", 
+            "name": "Take this train"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959825&streamencoding=mp31", 
+            "name": "Essential matters"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959972&streamencoding=mp31", 
+            "name": "Forget the clock"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112880"
+}

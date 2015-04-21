@@ -1,0 +1,89 @@
+{
+    "name": "Majikakonvinazion", 
+    "artist": "Butumbaba", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6500&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73422&streamencoding=mp31", 
+            "name": "Festa - feat. NEGRO (LA CRUDA)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73423&streamencoding=mp31", 
+            "name": "Dancehall - feat FIDEL NADAL & I JAH BONES"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73424&streamencoding=mp31", 
+            "name": "To the drums - feat - Liber Ter\u00e1n (Los de Abajo)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73425&streamencoding=mp31", 
+            "name": "Puerta Dimenzional feat. Actitud Maria Marta"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73426&streamencoding=mp31", 
+            "name": "La Luna - feat SIzu Yantra (Caf\u00e9 Tacuba)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73427&streamencoding=mp31", 
+            "name": "Racist Friend - feat. Roco (Maldita Vecindad)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73428&streamencoding=mp31", 
+            "name": "Sin Contaminantes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73429&streamencoding=mp31", 
+            "name": "Sin Capitan"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73430&streamencoding=mp31", 
+            "name": "Barrios Violentos"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73431&streamencoding=mp31", 
+            "name": "Kenia"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73432&streamencoding=mp31", 
+            "name": "Todo lo que crece"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73433&streamencoding=mp31", 
+            "name": "Big Up"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73434&streamencoding=mp31", 
+            "name": "Agua"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73435&streamencoding=mp31", 
+            "name": "Jumping to the stars"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73436&streamencoding=mp31", 
+            "name": "Rocksteady Times"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73437&streamencoding=mp31", 
+            "name": "Alelimon"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6500"
+}

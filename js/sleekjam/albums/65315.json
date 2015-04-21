@@ -1,0 +1,14 @@
+{
+    "name": "Disco Chill - Single", 
+    "artist": "Zenkman", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65315&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564672&streamencoding=mp31", 
+            "name": "Disco Chill"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65315"
+}

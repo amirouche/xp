@@ -1,0 +1,29 @@
+{
+    "name": "Fuzz Off @ SottoSuono Lab Live", 
+    "artist": "Fuzz Off", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39322&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280154&streamencoding=mp31", 
+            "name": "ShutUp"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280153&streamencoding=mp31", 
+            "name": "lady bitch"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280152&streamencoding=mp31", 
+            "name": "I'm a bastard"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280151&streamencoding=mp31", 
+            "name": "Eh"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39322"
+}

@@ -1,0 +1,99 @@
+{
+    "name": "Acoustic Observations", 
+    "artist": "Derek Haines", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52377&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430617&streamencoding=mp31", 
+            "name": "Lawdy Miss Clawdy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430618&streamencoding=mp31", 
+            "name": "Banks"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430619&streamencoding=mp31", 
+            "name": "Where Were You"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430620&streamencoding=mp31", 
+            "name": "Angel of the Storm"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430621&streamencoding=mp31", 
+            "name": "Wheels"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430622&streamencoding=mp31", 
+            "name": "Disgracefully"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430623&streamencoding=mp31", 
+            "name": "Alberta"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430624&streamencoding=mp31", 
+            "name": "Show Me"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430625&streamencoding=mp31", 
+            "name": "Flying"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430626&streamencoding=mp31", 
+            "name": "Save The Last Dance For Me"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430627&streamencoding=mp31", 
+            "name": "Blue In My Shoes"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430628&streamencoding=mp31", 
+            "name": "Places"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430629&streamencoding=mp31", 
+            "name": "Last Call For Alcohol"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430630&streamencoding=mp31", 
+            "name": "Jump The Broom"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430631&streamencoding=mp31", 
+            "name": "Blue Eyes Crying In The Rain"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430632&streamencoding=mp31", 
+            "name": "Metro, Boulot, Dodo"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430633&streamencoding=mp31", 
+            "name": "Peace In The Valley"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430634&streamencoding=mp31", 
+            "name": "Before You Accuse Me"
+        }
+    ], 
+    "release": "2009", 
+    "id": "52377"
+}

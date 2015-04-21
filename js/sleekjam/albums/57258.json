@@ -1,0 +1,34 @@
+{
+    "name": "Secktum Sepra EP", 
+    "artist": "RAZXCA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57258&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488080&streamencoding=mp31", 
+            "name": "posthardcore f 0"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488081&streamencoding=mp31", 
+            "name": "god buy mooy zai4ik - Untitledgd6666fgh"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488082&streamencoding=mp31", 
+            "name": "posthardcore xdf7777d"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488083&streamencoding=mp31", 
+            "name": "the Infinity Ghosts Untitled posthardcore part III"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488084&streamencoding=mp31", 
+            "name": "The Infernum oglog laba Untitled2"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57258"
+}

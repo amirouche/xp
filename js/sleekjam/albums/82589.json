@@ -1,0 +1,54 @@
+{
+    "name": "Etherworlds", 
+    "artist": "WMRI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82589&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708192&streamencoding=mp31", 
+            "name": "Bell Chants of Timber Prophets"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708188&streamencoding=mp31", 
+            "name": "Clear Vision of the Satin Sky"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708187&streamencoding=mp31", 
+            "name": "Artificial Shapes of the Frosted Valley"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708190&streamencoding=mp31", 
+            "name": "Flare Fortress of the Great Dragon"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708189&streamencoding=mp31", 
+            "name": "Water Cave Where Lizard Sleeps Tonight"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708185&streamencoding=mp31", 
+            "name": "Mysterious Garden of Night"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708186&streamencoding=mp31", 
+            "name": "Story of the Storm Canyon"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708184&streamencoding=mp31", 
+            "name": "Blue Light in the Star Ocean"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708191&streamencoding=mp31", 
+            "name": "In the Land of Snow Flakes"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82589"
+}

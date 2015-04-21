@@ -1,0 +1,14 @@
+{
+    "name": "Inspirate", 
+    "artist": "Bethke-Musik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124286&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054419&streamencoding=mp31", 
+            "name": "inspirate"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124286"
+}

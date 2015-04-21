@@ -1,0 +1,39 @@
+{
+    "name": "Nebbia", 
+    "artist": "Maludasta", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93050&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793102&streamencoding=mp31", 
+            "name": "Tu sai solo fingere"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793103&streamencoding=mp31", 
+            "name": "A lei"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793101&streamencoding=mp31", 
+            "name": "La Verit\u00e0"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793104&streamencoding=mp31", 
+            "name": "Bivi"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793106&streamencoding=mp31", 
+            "name": "Sotto la sabbia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793105&streamencoding=mp31", 
+            "name": "Vive di te"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93050"
+}

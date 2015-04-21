@@ -1,0 +1,59 @@
+{
+    "name": "Quiet Songs", 
+    "artist": "ElettrofurtE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20305&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141817&streamencoding=mp31", 
+            "name": "Houser"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142204&streamencoding=mp31", 
+            "name": "The song of the smiths"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142200&streamencoding=mp31", 
+            "name": "If looks could kill"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142202&streamencoding=mp31", 
+            "name": "Never close me down"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141854&streamencoding=mp31", 
+            "name": "Please"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142201&streamencoding=mp31", 
+            "name": "I'm right"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141851&streamencoding=mp31", 
+            "name": "Lullaby"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142199&streamencoding=mp31", 
+            "name": "Feed your smile"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142203&streamencoding=mp31", 
+            "name": "Nursery tales"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141855&streamencoding=mp31", 
+            "name": "Sea x"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20305"
+}

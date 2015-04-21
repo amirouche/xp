@@ -1,0 +1,59 @@
+{
+    "name": "La festa est\u00e0 servida", 
+    "artist": "Aspencat", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59224&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505718&streamencoding=mp31", 
+            "name": "Mercat Com\u00fa"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505713&streamencoding=mp31", 
+            "name": "Carpe Diem"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505715&streamencoding=mp31", 
+            "name": "Sense Renunciar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505717&streamencoding=mp31", 
+            "name": "A Passes de Gegant"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505711&streamencoding=mp31", 
+            "name": "Blocs de Formig\u00f3"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505712&streamencoding=mp31", 
+            "name": "Verd Esperan\u00e7a"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505720&streamencoding=mp31", 
+            "name": "\u00c0frica"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505714&streamencoding=mp31", 
+            "name": "Consumisme Descontrolat"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505716&streamencoding=mp31", 
+            "name": "Reggae Moll"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505719&streamencoding=mp31", 
+            "name": "De Baix\u00f3"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59224"
+}

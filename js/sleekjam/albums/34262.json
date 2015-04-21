@@ -1,0 +1,14 @@
+{
+    "name": "NRV29.7A_140BPM", 
+    "artist": "FRK", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34262&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233350&streamencoding=mp31", 
+            "name": "NRV29.7A_16B44_140BPM"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34262"
+}

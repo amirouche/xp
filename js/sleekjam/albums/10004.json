@@ -1,0 +1,29 @@
+{
+    "name": "Schegge", 
+    "artist": "Marco Della Noce", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=10004&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97115&streamencoding=mp31", 
+            "name": "Eleventually"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97116&streamencoding=mp31", 
+            "name": "Highway"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97117&streamencoding=mp31", 
+            "name": "Obsession"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97118&streamencoding=mp31", 
+            "name": "Virus"
+        }
+    ], 
+    "release": "2007", 
+    "id": "10004"
+}

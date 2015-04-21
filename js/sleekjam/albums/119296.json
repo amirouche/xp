@@ -1,0 +1,54 @@
+{
+    "name": "DR Africa II - Gre'AnDe", 
+    "artist": "Denis RICHARD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119296&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1012897&streamencoding=mp31", 
+            "name": "Nuku Nyede"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1012898&streamencoding=mp31", 
+            "name": "Ne Medohounkou"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1012899&streamencoding=mp31", 
+            "name": "Ne Mawu"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1012900&streamencoding=mp31", 
+            "name": "Mi Nim"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1012901&streamencoding=mp31", 
+            "name": "Alleluia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1012902&streamencoding=mp31", 
+            "name": "Amen"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1012903&streamencoding=mp31", 
+            "name": "Wo Shedemye"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1012904&streamencoding=mp31", 
+            "name": "Mi Gna Mi"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1012905&streamencoding=mp31", 
+            "name": "Y Ona E De Mi"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119296"
+}

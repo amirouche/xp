@@ -1,0 +1,84 @@
+{
+    "name": "Compilation classique", 
+    "artist": "Les Petits Chanteurs de Montigny", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=381&streamencoding=mp31", 
+            "name": "Go down Moses (Negro Spiritual)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=382&streamencoding=mp31", 
+            "name": "Soon and Very Soon (Negro Spiritual)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383&streamencoding=mp31", 
+            "name": "Go tell it on the mountain (Negro Spiritual)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=384&streamencoding=mp31", 
+            "name": "Let us break bread (Negro Spiritual)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=385&streamencoding=mp31", 
+            "name": "Ave Maria (Sylvain Zimmer)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=386&streamencoding=mp31", 
+            "name": "Cantate Domino (Johann Cr\u00fcger)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387&streamencoding=mp31", 
+            "name": "Cantique de Jean Racine (Gabriel Faur\u00e9)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388&streamencoding=mp31", 
+            "name": "Jubilemus Exultemus (Fran\u00e7ois Couperin)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389&streamencoding=mp31", 
+            "name": "Nocturnes (W.A. Mozart)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=390&streamencoding=mp31", 
+            "name": "Psaume 61 (Joseph Haydn)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=391&streamencoding=mp31", 
+            "name": "Cantate Domino (G.O. Pitoni)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=392&streamencoding=mp31", 
+            "name": "Messe \u00e0 3 voix (Antonio Lotti)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=393&streamencoding=mp31", 
+            "name": "O bone Jesu (C.G. Reissiger)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=394&streamencoding=mp31", 
+            "name": "Alma Redemptoris Mater (G.P. da Palestrina)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=395&streamencoding=mp31", 
+            "name": "L'immensit\u00e9 du firmament (Benedetto Marcello)"
+        }
+    ], 
+    "release": "2005", 
+    "id": "46"
+}

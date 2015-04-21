@@ -1,0 +1,119 @@
+{
+    "name": "NO shuh", 
+    "artist": "The orchestra off the last earth", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30063&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202196&streamencoding=mp31", 
+            "name": "Niesen"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202352&streamencoding=mp31", 
+            "name": "suzpense borborygme (tuba edit)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202204&streamencoding=mp31", 
+            "name": "index"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202203&streamencoding=mp31", 
+            "name": "new morning on the penultimate earth"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202209&streamencoding=mp31", 
+            "name": "der neue Robo spinnt mich ein"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202354&streamencoding=mp31", 
+            "name": "Menschenmenge, Angewidert Urgh Rufend"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202211&streamencoding=mp31", 
+            "name": "menschenmenge. endteuscht oh rufend"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202212&streamencoding=mp31", 
+            "name": "Africola schlachtshow einwurf"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202222&streamencoding=mp31", 
+            "name": "Menschenmenge, Erleichtert Ah Rufend"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202361&streamencoding=mp31", 
+            "name": "lachen weinen rinozeruss"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202356&streamencoding=mp31", 
+            "name": "Hustender Mann"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202241&streamencoding=mp31", 
+            "name": "the last night on the last earth"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202243&streamencoding=mp31", 
+            "name": "influenced sheep on my privat footballfield"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202220&streamencoding=mp31", 
+            "name": "lachendes Baby"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202246&streamencoding=mp31", 
+            "name": "lass uns die hochzeitzorgel anschmeissen"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202357&streamencoding=mp31", 
+            "name": "Gel\u00e4chter, Applaus Mit Kleiner Menschenmenge"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202362&streamencoding=mp31", 
+            "name": "90's mittle-age"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202252&streamencoding=mp31", 
+            "name": "R\u00fclpser, Lang"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202253&streamencoding=mp31", 
+            "name": "the river of babylon"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202254&streamencoding=mp31", 
+            "name": "scramble disco cumulus"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202255&streamencoding=mp31", 
+            "name": "selBst bautanz"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202249&streamencoding=mp31", 
+            "name": "umfallender besen"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30063"
+}

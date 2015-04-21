@@ -1,0 +1,54 @@
+{
+    "name": "Polycephatic", 
+    "artist": "Pabblo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131437&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101362&streamencoding=mp31", 
+            "name": "Abraham's Bosom"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101365&streamencoding=mp31", 
+            "name": "Reborn"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101366&streamencoding=mp31", 
+            "name": "Nearly"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101367&streamencoding=mp31", 
+            "name": "SXVII"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101369&streamencoding=mp31", 
+            "name": "We Are Friends"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101370&streamencoding=mp31", 
+            "name": "Forthcoming"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101371&streamencoding=mp31", 
+            "name": "Dissenting Spirit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101373&streamencoding=mp31", 
+            "name": "Descending Soul"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101372&streamencoding=mp31", 
+            "name": "Dante's Home"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131437"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Mystic Dream", 
+    "artist": "smiley 73", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99254&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=849570&streamencoding=mp31", 
+            "name": "Mystic Dream"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99254"
+}

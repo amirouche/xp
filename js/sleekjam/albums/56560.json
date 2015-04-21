@@ -1,0 +1,99 @@
+{
+    "name": "substitutions", 
+    "artist": "GNZ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56560&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479416&streamencoding=mp31", 
+            "name": "la morose"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479409&streamencoding=mp31", 
+            "name": "lesprit de la foret"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479412&streamencoding=mp31", 
+            "name": "desordre"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479407&streamencoding=mp31", 
+            "name": "R-255 code rouge"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479403&streamencoding=mp31", 
+            "name": "la kora et la basse"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479414&streamencoding=mp31", 
+            "name": "le serpent a plumes"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479401&streamencoding=mp31", 
+            "name": "le grain de sable et ses copains"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479405&streamencoding=mp31", 
+            "name": "raclez bulles carrees"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479402&streamencoding=mp31", 
+            "name": "longle de lelephant est plus long quon ne croit"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479411&streamencoding=mp31", 
+            "name": "murder on the dancefloor"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479415&streamencoding=mp31", 
+            "name": "le pet du moustique et le chant du crapaud"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479400&streamencoding=mp31", 
+            "name": "les fourmis sagitent"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479404&streamencoding=mp31", 
+            "name": "danse de rappel aux morts"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479410&streamencoding=mp31", 
+            "name": "reste avec les vivants"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479399&streamencoding=mp31", 
+            "name": "le vautour aussi doit manger"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479408&streamencoding=mp31", 
+            "name": "le chaos cest la vie mais faut pas pousser"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479413&streamencoding=mp31", 
+            "name": "retour a la deuxieme realite"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479406&streamencoding=mp31", 
+            "name": "187 code meurtre"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56560"
+}

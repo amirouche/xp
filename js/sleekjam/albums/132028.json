@@ -1,0 +1,34 @@
+{
+    "name": "Singularity: Chapter I", 
+    "artist": "TitanSlayer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132028&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105771&streamencoding=mp31", 
+            "name": "Neuromorph [Prologue]"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105760&streamencoding=mp31", 
+            "name": "Titanium"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105759&streamencoding=mp31", 
+            "name": "Sentinel"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105758&streamencoding=mp31", 
+            "name": "Imperion"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105757&streamencoding=mp31", 
+            "name": "Drone Revolution"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132028"
+}

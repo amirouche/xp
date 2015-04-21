@@ -1,0 +1,44 @@
+{
+    "name": "F0R54K3N", 
+    "artist": "F0R54K3N", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104933&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892098&streamencoding=mp31", 
+            "name": "- Preludes to madness-a"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892099&streamencoding=mp31", 
+            "name": "- Eternal death-a"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892100&streamencoding=mp31", 
+            "name": "- In my darkest hours-a"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892101&streamencoding=mp31", 
+            "name": "- Forsaken-a"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892102&streamencoding=mp31", 
+            "name": "- Desolation-a"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892103&streamencoding=mp31", 
+            "name": "- Suicidal torment-a"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892104&streamencoding=mp31", 
+            "name": "- The final emptyness-a"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104933"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Alibi", 
+    "artist": "Roma Agishev", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65476&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=566209&streamencoding=mp31", 
+            "name": "It's Me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=566211&streamencoding=mp31", 
+            "name": "City Fever"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=566217&streamencoding=mp31", 
+            "name": "Lustful Chick"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=566219&streamencoding=mp31", 
+            "name": "Cloud In Heaven (Dedicated To The Memory of Arcady Potapov)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=566227&streamencoding=mp31", 
+            "name": "Beach"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=566234&streamencoding=mp31", 
+            "name": "Thanx For Teachers"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=566236&streamencoding=mp31", 
+            "name": "Searching For Your Own's Tail"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=566237&streamencoding=mp31", 
+            "name": "Champion"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=566246&streamencoding=mp31", 
+            "name": "Looking Back"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=566248&streamencoding=mp31", 
+            "name": "Varan"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=566259&streamencoding=mp31", 
+            "name": "Absinthe"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=566277&streamencoding=mp31", 
+            "name": "Kurai"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65476"
+}

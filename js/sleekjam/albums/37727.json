@@ -1,0 +1,29 @@
+{
+    "name": "The Awakening", 
+    "artist": "Ever-Frost", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37727&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264680&streamencoding=mp31", 
+            "name": "A Glance Into The End"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264660&streamencoding=mp31", 
+            "name": "The Awakening"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264705&streamencoding=mp31", 
+            "name": "The New Age Of Redemption"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264718&streamencoding=mp31", 
+            "name": "Tear Down The Sky"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37727"
+}

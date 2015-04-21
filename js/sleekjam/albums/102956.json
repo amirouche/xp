@@ -1,0 +1,44 @@
+{
+    "name": "MORS", 
+    "artist": "Nihili Locus", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102956&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876584&streamencoding=mp31", 
+            "name": "Godly Given Pain"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876581&streamencoding=mp31", 
+            "name": "Dead Soul"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876585&streamencoding=mp31", 
+            "name": "Stench of Death"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876586&streamencoding=mp31", 
+            "name": "Playng My Last SYmphony"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876583&streamencoding=mp31", 
+            "name": "Dying Wolf"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876582&streamencoding=mp31", 
+            "name": "Premature Exequie"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876587&streamencoding=mp31", 
+            "name": "My Storm"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102956"
+}

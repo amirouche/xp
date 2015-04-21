@@ -1,0 +1,39 @@
+{
+    "name": "Jazz Masterpieces Good Old Swing Ragtime Instrumental Album n\u00b083", 
+    "artist": "PremiumMusic (Instrumental Version)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116548&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990733&streamencoding=mp31", 
+            "name": "Jazz Masterpieces Good Old Swing 001"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990730&streamencoding=mp31", 
+            "name": "Jazz Masterpieces Good Old Swing 002"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990731&streamencoding=mp31", 
+            "name": "Jazz Masterpieces Good Old Swing 003"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990732&streamencoding=mp31", 
+            "name": "Jazz Masterpieces Good Old Swing 004"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990735&streamencoding=mp31", 
+            "name": "Jazz Masterpieces Good Old Swing 005"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990734&streamencoding=mp31", 
+            "name": "Jazz Masterpieces Good Old Swing 006"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116548"
+}

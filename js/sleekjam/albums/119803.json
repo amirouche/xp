@@ -1,0 +1,84 @@
+{
+    "name": "Christmas With The Bailiffs", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119803&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017411&streamencoding=mp31", 
+            "name": "bankland - javolenus"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017409&streamencoding=mp31", 
+            "name": "cuss the sky - camburn"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017410&streamencoding=mp31", 
+            "name": "it all - snowflake"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017412&streamencoding=mp31", 
+            "name": "midwinter - tacet"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017413&streamencoding=mp31", 
+            "name": "ok - kara square"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017414&streamencoding=mp31", 
+            "name": "romilar expectorant ft psykick"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017415&streamencoding=mp31", 
+            "name": "the wait - admiral bob"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017416&streamencoding=mp31", 
+            "name": "to the best - copperhead"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017417&streamencoding=mp31", 
+            "name": "liberty road - loveshadow"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017418&streamencoding=mp31", 
+            "name": "class of 89 - sackjo22"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017419&streamencoding=mp31", 
+            "name": "unionturkey-projectquestion"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017420&streamencoding=mp31", 
+            "name": "when winter comes - javolenus"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017421&streamencoding=mp31", 
+            "name": "goat ft robbero + myfreemickey"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017422&streamencoding=mp31", 
+            "name": "land of the dead"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017426&streamencoding=mp31", 
+            "name": "love is a cruel machine - fronz arp"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119803"
+}

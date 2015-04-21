@@ -1,0 +1,34 @@
+{
+    "name": "My soul", 
+    "artist": "clementine s", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66170&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=573378&streamencoding=mp31", 
+            "name": "my soul"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=573376&streamencoding=mp31", 
+            "name": "j'sais pas pourquoi"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=573301&streamencoding=mp31", 
+            "name": "mama"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=573377&streamencoding=mp31", 
+            "name": "la couleuvre"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=573379&streamencoding=mp31", 
+            "name": "The world is"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66170"
+}

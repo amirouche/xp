@@ -1,0 +1,59 @@
+{
+    "name": "Jungle road part 1", 
+    "artist": "Junglist King", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56716&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481247&streamencoding=mp31", 
+            "name": "Jungle road"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481240&streamencoding=mp31", 
+            "name": "Amen 1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481241&streamencoding=mp31", 
+            "name": "style 90"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481243&streamencoding=mp31", 
+            "name": "jungle box"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481244&streamencoding=mp31", 
+            "name": "junglement v\u00f4tre"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481245&streamencoding=mp31", 
+            "name": "Jungle machine"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481246&streamencoding=mp31", 
+            "name": "il \u00e9t\u00e8 1foi dan la jungle"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481249&streamencoding=mp31", 
+            "name": "Unit\u00e9"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481250&streamencoding=mp31", 
+            "name": "Jungle Man"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481248&streamencoding=mp31", 
+            "name": "for ever"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56716"
+}

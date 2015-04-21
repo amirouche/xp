@@ -1,0 +1,64 @@
+{
+    "name": "\"The World is yours\" ", 
+    "artist": "Distemper", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31234&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211581&streamencoding=mp31", 
+            "name": "\u041c\u0438\u0440 \u0441\u043e\u0437\u0434\u0430\u043d \u0434\u043b\u044f \u0442\u0435\u0431\u044f"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211583&streamencoding=mp31", 
+            "name": "\u041e\u0442 \u0441\u0435\u0431\u044f \u043d\u0435 \u0443\u0431\u0435\u0436\u0430\u0442\u044c"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211586&streamencoding=mp31", 
+            "name": "\u041e\u0434\u0435\u044f\u043b\u0430 \u0438\u0437 \u043a\u0440\u044b\u0448"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211587&streamencoding=mp31", 
+            "name": "\u0421\u0447\u0430\u0441\u0442\u044c\u044f \u043f\u043e\u043b\u043d\u044b\u0435 \u043a\u0430\u0440\u043c\u0430\u043d\u044b"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211590&streamencoding=mp31", 
+            "name": "\u042f \u043c\u0435\u043d\u044f\u044e\u0441\u044c"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211591&streamencoding=mp31", 
+            "name": "\u041c\u043e\u0436\u0435\u0442 \u0432\u0441\u0435 \u043f\u0440\u0438\u0441\u043d\u0438\u043b\u043e\u0441\u044c"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211593&streamencoding=mp31", 
+            "name": "\u041e\u0442\u0447\u0435\u0433\u043e \u0442\u0435\u0431\u0435 \u0442\u0430\u043a \u0441\u0442\u0440\u0430\u0448\u043d\u043e"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211594&streamencoding=mp31", 
+            "name": "\u041f\u044c\u044f\u043d\u0438\u0446\u044b \u0438 \u0434\u0435\u0442\u0438"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211597&streamencoding=mp31", 
+            "name": "\u0413\u043e\u0440\u043e\u0434"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211598&streamencoding=mp31", 
+            "name": "\u0411\u043b\u0435\u0441\u043a \u0432 \u0433\u043b\u0430\u0437\u0430\u0445"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211601&streamencoding=mp31", 
+            "name": "\u041c\u044b \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0432\u0435\u0440\u043d\u0435\u043c\u0441\u044f"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31234"
+}

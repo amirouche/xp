@@ -1,0 +1,49 @@
+{
+    "name": "Salam Alikoum Demo", 
+    "artist": "Gnawa Click", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87358&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747144&streamencoding=mp31", 
+            "name": "Salamo Alikom Traditionnel"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747145&streamencoding=mp31", 
+            "name": "Khasna Nt3awnou - Feat Jackpot "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747149&streamencoding=mp31", 
+            "name": "Dour Liyam "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747151&streamencoding=mp31", 
+            "name": "Laafou"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747146&streamencoding=mp31", 
+            "name": "Laafou Gnawi"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747147&streamencoding=mp31", 
+            "name": "Tchoumira Hlektina"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747148&streamencoding=mp31", 
+            "name": "Salam Alikom"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747150&streamencoding=mp31", 
+            "name": "La Pauvret\u00e9"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87358"
+}

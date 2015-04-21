@@ -1,0 +1,84 @@
+{
+    "name": "I'm A Machine", 
+    "artist": "Acoustic Enlacement", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116507&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990337&streamencoding=mp31", 
+            "name": "Endless Vacation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990338&streamencoding=mp31", 
+            "name": "I'm A Machine"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990339&streamencoding=mp31", 
+            "name": "Blue Sky"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990340&streamencoding=mp31", 
+            "name": "Smooth Winds"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990341&streamencoding=mp31", 
+            "name": "Orient Express"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990342&streamencoding=mp31", 
+            "name": "Mama Africa"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990343&streamencoding=mp31", 
+            "name": "Melancholia"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990344&streamencoding=mp31", 
+            "name": "Let the Machine Do the Work"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990345&streamencoding=mp31", 
+            "name": "Celestial Voyager"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990346&streamencoding=mp31", 
+            "name": "Not Of This World"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990351&streamencoding=mp31", 
+            "name": "Ritual No.9"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990349&streamencoding=mp31", 
+            "name": "Fine White Wine"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990350&streamencoding=mp31", 
+            "name": "Rock and Stones"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990352&streamencoding=mp31", 
+            "name": "Twelve Steps"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990353&streamencoding=mp31", 
+            "name": "Shanghai Blues"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116507"
+}

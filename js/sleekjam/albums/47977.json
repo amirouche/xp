@@ -1,0 +1,79 @@
+{
+    "name": "Blackbox", 
+    "artist": "Lobo Loco", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47977&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375157&streamencoding=mp31", 
+            "name": "Eiskrokodil Blues"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375944&streamencoding=mp31", 
+            "name": "Schafs Canon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375938&streamencoding=mp31", 
+            "name": "Lass Dir Zeit"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375246&streamencoding=mp31", 
+            "name": "Seven nights of love"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375946&streamencoding=mp31", 
+            "name": "Schn\u00f6der Mammon"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375241&streamencoding=mp31", 
+            "name": "For a friend"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375923&streamencoding=mp31", 
+            "name": "Beautiful Roose"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375767&streamencoding=mp31", 
+            "name": "No Neckar delta"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375936&streamencoding=mp31", 
+            "name": "Blackbox"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375937&streamencoding=mp31", 
+            "name": "Evolution"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375941&streamencoding=mp31", 
+            "name": "Viagem no Brasil"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375950&streamencoding=mp31", 
+            "name": "Mary Roose"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375943&streamencoding=mp31", 
+            "name": "Canadian Spring"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375935&streamencoding=mp31", 
+            "name": "Der liebe Advent"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47977"
+}

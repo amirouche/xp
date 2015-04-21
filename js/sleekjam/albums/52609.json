@@ -1,0 +1,19 @@
+{
+    "name": "Luminosidade Mar\u00e9 ", 
+    "artist": "Beatriz Bessa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52609&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=433330&streamencoding=mp31", 
+            "name": "acalanto mineiro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=433466&streamencoding=mp31", 
+            "name": "pense positivo"
+        }
+    ], 
+    "release": "2009", 
+    "id": "52609"
+}

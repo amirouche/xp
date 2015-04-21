@@ -1,0 +1,49 @@
+{
+    "name": "Tonitruance", 
+    "artist": "Tonitruance", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56533&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479493&streamencoding=mp31", 
+            "name": "Orchestrap"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479494&streamencoding=mp31", 
+            "name": "Dougrob"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479496&streamencoding=mp31", 
+            "name": "Inexorable"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479497&streamencoding=mp31", 
+            "name": "Chilletrap"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479498&streamencoding=mp31", 
+            "name": "Ecclectisme"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479499&streamencoding=mp31", 
+            "name": "Changement de ton"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479500&streamencoding=mp31", 
+            "name": "Weird"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479508&streamencoding=mp31", 
+            "name": "Tonitruante"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56533"
+}

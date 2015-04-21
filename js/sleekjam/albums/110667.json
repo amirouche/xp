@@ -1,0 +1,79 @@
+{
+    "name": "Muzyka uteh", 
+    "artist": "Ivan Samshit", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110667&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941971&streamencoding=mp31", 
+            "name": "Introduction"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941967&streamencoding=mp31", 
+            "name": "Le decouvert"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941976&streamencoding=mp31", 
+            "name": "Mir mashin"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941972&streamencoding=mp31", 
+            "name": "Fontany raja"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941968&streamencoding=mp31", 
+            "name": "Il sogno"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941977&streamencoding=mp31", 
+            "name": "Ja i ty"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941965&streamencoding=mp31", 
+            "name": "Samotnist'"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941974&streamencoding=mp31", 
+            "name": "Le rouge aux levres"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941970&streamencoding=mp31", 
+            "name": "Raj po imeni S"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941969&streamencoding=mp31", 
+            "name": "Muzyka uteh"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941973&streamencoding=mp31", 
+            "name": "Sladkie shalosti"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941978&streamencoding=mp31", 
+            "name": "Plakat' o proshlom"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941975&streamencoding=mp31", 
+            "name": "*******"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941966&streamencoding=mp31", 
+            "name": "Le fruit vert"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110667"
+}

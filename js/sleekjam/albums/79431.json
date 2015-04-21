@@ -1,0 +1,14 @@
+{
+    "name": "Voice of power", 
+    "artist": "Melcheor", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79431&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683145&streamencoding=mp31", 
+            "name": "Voice of power"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79431"
+}

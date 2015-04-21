@@ -1,0 +1,29 @@
+{
+    "name": "She's Making Me Straight (MCD)", 
+    "artist": "IX-Acht", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91805&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782986&streamencoding=mp31", 
+            "name": "iX-Acht - 01 - She's Making Me Straight (Album Edit)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782987&streamencoding=mp31", 
+            "name": "iX-Acht - 02 - She's Making Me Straight (Cold Extension Remix by X8)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782988&streamencoding=mp31", 
+            "name": "iX-Acht - 03 - She's Making Me Straight (Red Alert Low Remix by X8)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782989&streamencoding=mp31", 
+            "name": "iX-Acht - 04 - She's Making Me Straight (Sweet XTC Remix by X8)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91805"
+}

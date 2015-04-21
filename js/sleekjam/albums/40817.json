@@ -1,0 +1,84 @@
+{
+    "name": "Baroni One Time", 
+    "artist": "Baroni One Time", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40817&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297652&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297655&streamencoding=mp31", 
+            "name": "Distance"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297646&streamencoding=mp31", 
+            "name": "Ready"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297650&streamencoding=mp31", 
+            "name": "Hoy"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297658&streamencoding=mp31", 
+            "name": "Me Wanna Know"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297659&streamencoding=mp31", 
+            "name": "Love And Unity"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297657&streamencoding=mp31", 
+            "name": "So High"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297647&streamencoding=mp31", 
+            "name": "Matha"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297645&streamencoding=mp31", 
+            "name": "Burnin"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297653&streamencoding=mp31", 
+            "name": "Puede Ver"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297648&streamencoding=mp31", 
+            "name": "Sexy Gyal (remix)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297656&streamencoding=mp31", 
+            "name": "Sexy Gyal"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297649&streamencoding=mp31", 
+            "name": "historia"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297651&streamencoding=mp31", 
+            "name": "Ahora!!"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297654&streamencoding=mp31", 
+            "name": "Outro"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40817"
+}

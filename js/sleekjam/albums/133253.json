@@ -1,0 +1,59 @@
+{
+    "name": "Grandes Exilios", 
+    "artist": "Lagartos Del Ritmo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133253&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115297&streamencoding=mp31", 
+            "name": "Canes de ciudad"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115291&streamencoding=mp31", 
+            "name": "El local"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115295&streamencoding=mp31", 
+            "name": "Puede"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115299&streamencoding=mp31", 
+            "name": "A la deriva"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115293&streamencoding=mp31", 
+            "name": "Estado Temiente"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115296&streamencoding=mp31", 
+            "name": "Dicelo tu"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115300&streamencoding=mp31", 
+            "name": "Guachin"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115294&streamencoding=mp31", 
+            "name": "La negra"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115298&streamencoding=mp31", 
+            "name": "Sera que ya no siento nada"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115292&streamencoding=mp31", 
+            "name": "Cerveza beer"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133253"
+}

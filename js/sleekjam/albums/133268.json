@@ -1,0 +1,14 @@
+{
+    "name": "AsiAnna", 
+    "artist": "Jean Toba", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133268&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115465&streamencoding=mp31", 
+            "name": "asiAnna"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133268"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Maio", 
+    "artist": "Klaus Tonnerre Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20294&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141781&streamencoding=mp31", 
+            "name": "Bi-Canal"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141782&streamencoding=mp31", 
+            "name": "Atmen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141794&streamencoding=mp31", 
+            "name": "Mercury I"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141791&streamencoding=mp31", 
+            "name": "Glocken I"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141783&streamencoding=mp31", 
+            "name": "Atmen II"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141785&streamencoding=mp31", 
+            "name": "Caverna"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142138&streamencoding=mp31", 
+            "name": "Patsypat"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142410&streamencoding=mp31", 
+            "name": "Son I"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141790&streamencoding=mp31", 
+            "name": "Execute"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141793&streamencoding=mp31", 
+            "name": "Glocken II"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142409&streamencoding=mp31", 
+            "name": "Py8N"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142146&streamencoding=mp31", 
+            "name": "Patsypat II"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142407&streamencoding=mp31", 
+            "name": "Pitie"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142408&streamencoding=mp31", 
+            "name": "Plumb"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20294"
+}

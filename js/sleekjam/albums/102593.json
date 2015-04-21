@@ -1,0 +1,84 @@
+{
+    "name": "Snow Shadows", 
+    "artist": "Fuzzy Logic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102593&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874007&streamencoding=mp31", 
+            "name": "Magic Is"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874008&streamencoding=mp31", 
+            "name": "Drama Queen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874009&streamencoding=mp31", 
+            "name": "Snow Shadows"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874010&streamencoding=mp31", 
+            "name": "Unavailable Men"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874011&streamencoding=mp31", 
+            "name": "Things You Want To Do"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874012&streamencoding=mp31", 
+            "name": "Last Of The Vipers"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874013&streamencoding=mp31", 
+            "name": "Nice Guys"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874014&streamencoding=mp31", 
+            "name": "Calling All Bars"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874015&streamencoding=mp31", 
+            "name": "The New Frontier"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874016&streamencoding=mp31", 
+            "name": "Celebrity"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874017&streamencoding=mp31", 
+            "name": "There's A Cheat Goin' On"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874018&streamencoding=mp31", 
+            "name": "Uncle Walt"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874019&streamencoding=mp31", 
+            "name": "South Pacific Tour"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874020&streamencoding=mp31", 
+            "name": "A Little Time"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874021&streamencoding=mp31", 
+            "name": "Don't Jump"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102593"
+}

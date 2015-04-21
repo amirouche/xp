@@ -1,0 +1,14 @@
+{
+    "name": "NO HAY NADIE COMO TU", 
+    "artist": "ENRIKE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102447&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=873213&streamencoding=mp31", 
+            "name": "NO HAY NADIE COMO TU"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102447"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "SUMMER IN '49", 
+    "artist": "Necessary Road", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106402&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=903650&streamencoding=mp31", 
+            "name": "SUMMER IN '49"
+        }
+    ], 
+    "release": "2012", 
+    "id": "106402"
+}

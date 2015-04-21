@@ -1,0 +1,39 @@
+{
+    "name": "The Birth In Blood", 
+    "artist": "Human Weakness", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=16996&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=121444&streamencoding=mp31", 
+            "name": "01 - Human Weakness - Sacrificed Foetus"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=121445&streamencoding=mp31", 
+            "name": "02 - Human Weakness - USA Army"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=121446&streamencoding=mp31", 
+            "name": "03 - Human Weakness - Decadence Humaine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=121448&streamencoding=mp31", 
+            "name": "04 - Human Weakness - Heroine Psychedelique"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=121451&streamencoding=mp31", 
+            "name": "05 - Human Weakness - Slayer Mortelle"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=121455&streamencoding=mp31", 
+            "name": "06 - Human Weakness - Psychose Electro"
+        }
+    ], 
+    "release": "2008", 
+    "id": "16996"
+}

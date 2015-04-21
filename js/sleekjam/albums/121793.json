@@ -1,0 +1,14 @@
+{
+    "name": "Perseverance (Single)", 
+    "artist": "Josh Mono", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121793&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1034659&streamencoding=mp31", 
+            "name": "Perseverance"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121793"
+}

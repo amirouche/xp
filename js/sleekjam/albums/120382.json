@@ -1,0 +1,59 @@
+{
+    "name": "Annika - mitt i Livet", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120382&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024085&streamencoding=mp31", 
+            "name": "Hela Livet "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024086&streamencoding=mp31", 
+            "name": "Lethe"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024103&streamencoding=mp31", 
+            "name": "Lieman"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024112&streamencoding=mp31", 
+            "name": "H\u00e5ll Fast Iden"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024122&streamencoding=mp31", 
+            "name": "Guds Dag"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024123&streamencoding=mp31", 
+            "name": "Guds Spegel"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024124&streamencoding=mp31", 
+            "name": "Katedral"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024125&streamencoding=mp31", 
+            "name": "Dr\u00f6m Din Dystopi"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024126&streamencoding=mp31", 
+            "name": "Den Trettonde"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024127&streamencoding=mp31", 
+            "name": "En ny dag"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120382"
+}

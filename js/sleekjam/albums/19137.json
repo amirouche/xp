@@ -1,0 +1,39 @@
+{
+    "name": "Bsl & Bass - Album II", 
+    "artist": " Bsl & Bass", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19137&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134319&streamencoding=mp31", 
+            "name": "Askatru"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134320&streamencoding=mp31", 
+            "name": "astrale"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134322&streamencoding=mp31", 
+            "name": "bells down_bsl"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134323&streamencoding=mp31", 
+            "name": "Fantisna"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134324&streamencoding=mp31", 
+            "name": "fisolet"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134325&streamencoding=mp31", 
+            "name": "faniminal"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19137"
+}

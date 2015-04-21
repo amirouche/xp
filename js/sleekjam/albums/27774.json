@@ -1,0 +1,29 @@
+{
+    "name": "Les p'tites derni\u00e8res", 
+    "artist": "LN et L\u00e9a", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27774&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185379&streamencoding=mp31", 
+            "name": "Joue fou "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185423&streamencoding=mp31", 
+            "name": "Aux traits d'une plume"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185440&streamencoding=mp31", 
+            "name": "J'apprends ma le\u00e7on"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185449&streamencoding=mp31", 
+            "name": "Comme un carnaval"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27774"
+}

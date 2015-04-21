@@ -1,0 +1,64 @@
+{
+    "name": "Impression II", 
+    "artist": "Urs Aebersold", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78067&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672595&streamencoding=mp31", 
+            "name": "cat"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672596&streamencoding=mp31", 
+            "name": "go"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672597&streamencoding=mp31", 
+            "name": "apol"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672599&streamencoding=mp31", 
+            "name": "old man"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672600&streamencoding=mp31", 
+            "name": "exe"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672601&streamencoding=mp31", 
+            "name": "rem"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672602&streamencoding=mp31", 
+            "name": "slowli"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672603&streamencoding=mp31", 
+            "name": "didgeri do"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672605&streamencoding=mp31", 
+            "name": "august one"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672800&streamencoding=mp31", 
+            "name": "basa 7/8"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672801&streamencoding=mp31", 
+            "name": "flutatio"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78067"
+}

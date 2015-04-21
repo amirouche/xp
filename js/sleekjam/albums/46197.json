@@ -1,0 +1,44 @@
+{
+    "name": "mit dem dax auf kaffeefahrt", 
+    "artist": "babel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46197&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=352934&streamencoding=mp31", 
+            "name": "kabale und cash"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=352935&streamencoding=mp31", 
+            "name": "starbucks mater"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=352940&streamencoding=mp31", 
+            "name": "nicole eng beta"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=352936&streamencoding=mp31", 
+            "name": "world largest damn"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=352939&streamencoding=mp31", 
+            "name": "financial freedom"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=352937&streamencoding=mp31", 
+            "name": "dasein und vermehrung"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=352938&streamencoding=mp31", 
+            "name": "tangerine kant"
+        }
+    ], 
+    "release": "2009", 
+    "id": "46197"
+}

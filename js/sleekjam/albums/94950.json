@@ -1,0 +1,74 @@
+{
+    "name": "l'ingorda", 
+    "artist": "duraMadre", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94950&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812777&streamencoding=mp31", 
+            "name": "Luce - duraMadre"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812778&streamencoding=mp31", 
+            "name": "Strati di Noia - duraMadre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812779&streamencoding=mp31", 
+            "name": "D.M. - duraMadre"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812780&streamencoding=mp31", 
+            "name": "Vortice - duraMadre"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812781&streamencoding=mp31", 
+            "name": "Orbita - duraMadre"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812782&streamencoding=mp31", 
+            "name": "Vitrea - duraMadre"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812783&streamencoding=mp31", 
+            "name": "Elettrica - duraMadre"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812784&streamencoding=mp31", 
+            "name": "Tu Parli - duraMadre"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812785&streamencoding=mp31", 
+            "name": "Raptus - duraMadre"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812786&streamencoding=mp31", 
+            "name": "L'Ingorda - duraMadre"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812787&streamencoding=mp31", 
+            "name": "Anemia - duraMadre"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812788&streamencoding=mp31", 
+            "name": "Spine - duraMadre"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812789&streamencoding=mp31", 
+            "name": "Arianna - duraMadre"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94950"
+}

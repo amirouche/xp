@@ -1,0 +1,74 @@
+{
+    "name": "Zero", 
+    "artist": "DeadBunny Laura", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115065&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976972&streamencoding=mp31", 
+            "name": "Carmine No, no! No me dejes"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976973&streamencoding=mp31", 
+            "name": "The seagal"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976974&streamencoding=mp31", 
+            "name": "Blue Rose"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976975&streamencoding=mp31", 
+            "name": "El dia soleado"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976976&streamencoding=mp31", 
+            "name": "A ella le encanta el pato [She loves the duck]"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976977&streamencoding=mp31", 
+            "name": "Ironic"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977118&streamencoding=mp31", 
+            "name": "Kira"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977119&streamencoding=mp31", 
+            "name": "S.C."
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977120&streamencoding=mp31", 
+            "name": "The rusty clown"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977121&streamencoding=mp31", 
+            "name": "Coraline"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977122&streamencoding=mp31", 
+            "name": "Zero"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977123&streamencoding=mp31", 
+            "name": "Esa noche"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977124&streamencoding=mp31", 
+            "name": "New York"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115065"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "REENCUENTRO", 
+    "artist": "\"Esta Noche no te vayas! (PopCountry)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5100&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42030&streamencoding=mp31", 
+            "name": "ESTA NOCHE NO TE VAYAS (Eva maria)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42031&streamencoding=mp31", 
+            "name": "CADENAS ( Eva maria)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42032&streamencoding=mp31", 
+            "name": "MA\u00d1ANA ( Eva maria )"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42033&streamencoding=mp31", 
+            "name": "NO VOY A NEGAR ( Eva maria )"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42034&streamencoding=mp31", 
+            "name": "SI QUIERES VOLVER  ( R. Perez Botija )"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42036&streamencoding=mp31", 
+            "name": "MALDITA MELANCOLIA ( Seijas-Villa-Duirim )"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42037&streamencoding=mp31", 
+            "name": "ACERCATE A MI  ( Pituko Rigual )"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42038&streamencoding=mp31", 
+            "name": "REGRESA  ( Eva maria )"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42039&streamencoding=mp31", 
+            "name": "TE QUIERO LIBRE  ( Heleno )"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42040&streamencoding=mp31", 
+            "name": "FUEGO NUEVO  ( Eva maria )"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5100"
+}

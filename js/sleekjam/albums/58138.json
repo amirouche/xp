@@ -1,0 +1,59 @@
+{
+    "name": "Psychotropikal", 
+    "artist": "Contratempo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58138&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496222&streamencoding=mp31", 
+            "name": "Funky Reggae Tonight"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496220&streamencoding=mp31", 
+            "name": "Push Push"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496035&streamencoding=mp31", 
+            "name": "Love da Reggae Music"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496032&streamencoding=mp31", 
+            "name": "Sweet Darling"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496221&streamencoding=mp31", 
+            "name": "El Fuego y la Palabra"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496223&streamencoding=mp31", 
+            "name": "Itaca"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496036&streamencoding=mp31", 
+            "name": "Dragon and Lion"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496033&streamencoding=mp31", 
+            "name": "Perdido"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496037&streamencoding=mp31", 
+            "name": "Diferente"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496034&streamencoding=mp31", 
+            "name": "Itaca Dub Remix"
+        }
+    ], 
+    "release": "2009", 
+    "id": "58138"
+}

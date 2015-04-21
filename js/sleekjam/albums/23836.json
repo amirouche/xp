@@ -1,0 +1,64 @@
+{
+    "name": "Geroy/Hero", 
+    "artist": "SKOMOROSHIJ BUNT/REVOLUTION OF CLOWNS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23836&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162617&streamencoding=mp31", 
+            "name": "Naigrysh/Impromptu"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162619&streamencoding=mp31", 
+            "name": "Geroy/Hero"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162621&streamencoding=mp31", 
+            "name": "Nebylitsy/Fables (instrumental)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162624&streamencoding=mp31", 
+            "name": "Russkaja Narodnaja/Russian Traditional"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162629&streamencoding=mp31", 
+            "name": "Melenka/Little Mill (instrumental)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162630&streamencoding=mp31", 
+            "name": "Poljushko-Pole/A Field (variant)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162634&streamencoding=mp31", 
+            "name": "Naigrysh 2/Impromptu 2"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162636&streamencoding=mp31", 
+            "name": "Jehali Geroi/Heroes Went Ahead (White Guards` Song)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162639&streamencoding=mp31", 
+            "name": "Grustnaja/Gloomy (instrumental)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162641&streamencoding=mp31", 
+            "name": "Kolybel`naja/Lulluby"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162642&streamencoding=mp31", 
+            "name": "Geroy/Hero (instrumental)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23836"
+}

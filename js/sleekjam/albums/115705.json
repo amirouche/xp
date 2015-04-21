@@ -1,0 +1,24 @@
+{
+    "name": "Esc\u00fachame Hijo", 
+    "artist": "Oscar Silva", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115705&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982295&streamencoding=mp31", 
+            "name": "Esc\u00fachame Hijo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982293&streamencoding=mp31", 
+            "name": "Aquel Instante"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982294&streamencoding=mp31", 
+            "name": "Clavel Rojo"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115705"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Ki Sap", 
+    "artist": "Ki Sap", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49032&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388733&streamencoding=mp31", 
+            "name": "Ki Sap"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388738&streamencoding=mp31", 
+            "name": "Mr. President"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388741&streamencoding=mp31", 
+            "name": "Al dia seg\u00fcent no em vaig poder al\u00e7ar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388735&streamencoding=mp31", 
+            "name": "Mira quina trola"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388732&streamencoding=mp31", 
+            "name": "Saler Beach"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388739&streamencoding=mp31", 
+            "name": "Marihuana on est\u00e0s?"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388740&streamencoding=mp31", 
+            "name": "L'Horta instrumental"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388730&streamencoding=mp31", 
+            "name": "A vora barranc"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388734&streamencoding=mp31", 
+            "name": "Respira"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49032"
+}

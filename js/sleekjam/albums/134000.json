@@ -1,0 +1,14 @@
+{
+    "name": "\u0414\u0432\u0435 \u043f\u043e\u043b\u043e\u0441\u043a\u0438", 
+    "artist": "Dajte Grammy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134000&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121506&streamencoding=mp31", 
+            "name": "Dajte Grammy - \u0414\u0432\u0435 \u043f\u043e\u043b\u043e\u0441\u043a\u0438"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134000"
+}

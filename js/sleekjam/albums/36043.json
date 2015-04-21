@@ -1,0 +1,14 @@
+{
+    "name": "Une vie de chien - Single", 
+    "artist": "Commandant Atse", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36043&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250243&streamencoding=mp31", 
+            "name": "Une vie de chien"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36043"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "I would do anything", 
+    "artist": "Razvan Veina", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108270&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=914779&streamencoding=mp31", 
+            "name": "I would do anything"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108270"
+}

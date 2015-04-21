@@ -1,0 +1,49 @@
+{
+    "name": "DR Song Part 1", 
+    "artist": "Denis RICHARD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2700&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19198&streamencoding=mp31", 
+            "name": "Kyrielle"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19199&streamencoding=mp31", 
+            "name": "Erotika"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19200&streamencoding=mp31", 
+            "name": "Pop Story"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19201&streamencoding=mp31", 
+            "name": "DR Song Part 1"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19202&streamencoding=mp31", 
+            "name": "M\u00e9lancolie"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19203&streamencoding=mp31", 
+            "name": "Pour Manon"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19204&streamencoding=mp31", 
+            "name": "New Funk 02"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19205&streamencoding=mp31", 
+            "name": "Good times are coming"
+        }
+    ], 
+    "release": "2006", 
+    "id": "2700"
+}

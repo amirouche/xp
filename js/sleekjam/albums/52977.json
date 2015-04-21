@@ -1,0 +1,79 @@
+{
+    "name": "In Unexpected Places", 
+    "artist": "Bruce H. McCosar", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52977&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437705&streamencoding=mp31", 
+            "name": "Waiting for You"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437706&streamencoding=mp31", 
+            "name": "Set Free the Night"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437708&streamencoding=mp31", 
+            "name": "Vanished Moments"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437710&streamencoding=mp31", 
+            "name": "Poison on my Tongue"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437711&streamencoding=mp31", 
+            "name": "If the Future Never Comes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437713&streamencoding=mp31", 
+            "name": "My Own Avalon"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437714&streamencoding=mp31", 
+            "name": "The Sky in Shadow"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437719&streamencoding=mp31", 
+            "name": "Vertigo at the Edge"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437720&streamencoding=mp31", 
+            "name": "Step Through this Window"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437721&streamencoding=mp31", 
+            "name": "A Dream of Crows"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437726&streamencoding=mp31", 
+            "name": "Tell Me, Madame Fortune Teller"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437727&streamencoding=mp31", 
+            "name": "One Last, Perfect Sunset"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437729&streamencoding=mp31", 
+            "name": "Heartbeat of the Desert"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437730&streamencoding=mp31", 
+            "name": "Alone on the Tracks"
+        }
+    ], 
+    "release": "2009", 
+    "id": "52977"
+}

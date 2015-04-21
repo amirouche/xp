@@ -1,0 +1,29 @@
+{
+    "name": "I close my Eyes", 
+    "artist": "One Dice", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54805&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459346&streamencoding=mp31", 
+            "name": "I close my Eyes (Original Cut)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459347&streamencoding=mp31", 
+            "name": "I close my Eyes (Virgill Massive Melancholy Remix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459345&streamencoding=mp31", 
+            "name": "I close my Eyes (Dub Mix)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459348&streamencoding=mp31", 
+            "name": "I close my Eyes (Compo Rule Cut)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54805"
+}

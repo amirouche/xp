@@ -1,0 +1,49 @@
+{
+    "name": "Non-sens quotidiens", 
+    "artist": "Melampyre", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11107&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100703&streamencoding=mp31", 
+            "name": "Rhinoc\u00e9ros"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100704&streamencoding=mp31", 
+            "name": "La dialectique"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100705&streamencoding=mp31", 
+            "name": "La s\u00e9paration c'est la protection"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100706&streamencoding=mp31", 
+            "name": "Impersonnalisation de la discussion"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100707&streamencoding=mp31", 
+            "name": "Une vague histoire de pression"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100699&streamencoding=mp31", 
+            "name": "Dusk won't come again"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100701&streamencoding=mp31", 
+            "name": "Nos meilleurs amis"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100708&streamencoding=mp31", 
+            "name": "Le quotidien"
+        }
+    ], 
+    "release": "2007", 
+    "id": "11107"
+}

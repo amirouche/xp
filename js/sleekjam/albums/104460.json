@@ -1,0 +1,14 @@
+{
+    "name": "2012 year of the moon", 
+    "artist": "DJ DOS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104460&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=888327&streamencoding=mp31", 
+            "name": "2012 year of the moon"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104460"
+}

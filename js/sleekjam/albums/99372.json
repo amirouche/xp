@@ -1,0 +1,59 @@
+{
+    "name": "An act of love and violence", 
+    "artist": "The Open Up And Bleeds", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99372&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850579&streamencoding=mp31", 
+            "name": "In Darkest Hours"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850574&streamencoding=mp31", 
+            "name": "Stiv Bators in All of Us"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850580&streamencoding=mp31", 
+            "name": "This Noise"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850575&streamencoding=mp31", 
+            "name": "OK Is Not OK"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850581&streamencoding=mp31", 
+            "name": "Cut Me a Live One"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850577&streamencoding=mp31", 
+            "name": "Everyone I Know"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850582&streamencoding=mp31", 
+            "name": "Lets Go Back to Modernism"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850578&streamencoding=mp31", 
+            "name": "What John Said"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850583&streamencoding=mp31", 
+            "name": "I Dont Wanna Die (Anymore)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850576&streamencoding=mp31", 
+            "name": "The End"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99372"
+}

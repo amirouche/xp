@@ -1,0 +1,14 @@
+{
+    "name": "Ein Abend mit Dir (eine gef\u00fchrte Traumreise)", 
+    "artist": "Bastian Hepp", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83335&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713688&streamencoding=mp31", 
+            "name": "Ein Abend mit Dir"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83335"
+}

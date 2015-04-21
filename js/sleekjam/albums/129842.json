@@ -1,0 +1,14 @@
+{
+    "name": "Right Now (Single)", 
+    "artist": "King Hitz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129842&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089091&streamencoding=mp31", 
+            "name": "Right Now"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129842"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "BACHES CAMINOS Y PIEDRAS", 
+    "artist": "TROPPO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31347&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212591&streamencoding=mp31", 
+            "name": "EL BAR"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212596&streamencoding=mp31", 
+            "name": "A LA SOMBRA DE UN CARAJILLO"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212600&streamencoding=mp31", 
+            "name": "LA FRIA CIUDAD"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212604&streamencoding=mp31", 
+            "name": "NACIDO PARA ESTO"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212625&streamencoding=mp31", 
+            "name": "BUROCRATAS DE TERGAL"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212611&streamencoding=mp31", 
+            "name": "EL PERRO"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212636&streamencoding=mp31", 
+            "name": "BACHES CAMINOS Y PIEDRAS"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212647&streamencoding=mp31", 
+            "name": "VACIO YSOLO"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212651&streamencoding=mp31", 
+            "name": "Y AHORA"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31347"
+}

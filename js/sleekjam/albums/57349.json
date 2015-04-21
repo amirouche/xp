@@ -1,0 +1,44 @@
+{
+    "name": "Post-Nuclear Heathland", 
+    "artist": "Brainfucker", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57349&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489203&streamencoding=mp31", 
+            "name": "Brainfucker-The dead sounds of the far worlds"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=485319&streamencoding=mp31", 
+            "name": "Brainfucker-Last Day"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489202&streamencoding=mp31", 
+            "name": "Brainfucker-On approaches to Gaswagen"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489207&streamencoding=mp31", 
+            "name": "Brainfucker-S.t.a.l.k.e.r.(Noisy Mix)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489204&streamencoding=mp31", 
+            "name": "Brainfucker-Space radiation"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489206&streamencoding=mp31", 
+            "name": "Brainfucker-The Post-nuclear heathland"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489205&streamencoding=mp31", 
+            "name": "Brainfucker-Singularity"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57349"
+}

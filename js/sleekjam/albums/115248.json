@@ -1,0 +1,34 @@
+{
+    "name": "Legenden", 
+    "artist": "Too Little Cage", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115248&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977852&streamencoding=mp31", 
+            "name": "Devildance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977849&streamencoding=mp31", 
+            "name": "Brainless Paradise"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977850&streamencoding=mp31", 
+            "name": "Legenden"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977851&streamencoding=mp31", 
+            "name": "Listen to me"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977853&streamencoding=mp31", 
+            "name": "If a song"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115248"
+}

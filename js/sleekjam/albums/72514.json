@@ -1,0 +1,64 @@
+{
+    "name": "Kompozitsia III", 
+    "artist": "Avi Rosenfeld", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72514&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626488&streamencoding=mp31", 
+            "name": "AviRosenfeld - NeshikaRehoka"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626493&streamencoding=mp31", 
+            "name": "AviRosenfeld - KetsevMitgaber"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626489&streamencoding=mp31", 
+            "name": "AviRosenfeld - HayaLanuTov"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626494&streamencoding=mp31", 
+            "name": "AviRosenfeld - YamimShelHoref"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626490&streamencoding=mp31", 
+            "name": "AviRosenfeld - KolEchadVe"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626485&streamencoding=mp31", 
+            "name": "AviRosenfeld - HaDeaShelHaAdam"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626486&streamencoding=mp31", 
+            "name": "AviRosenfeld - Boee"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626487&streamencoding=mp31", 
+            "name": "AviRosenfeld - EtmolBaLayla"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626492&streamencoding=mp31", 
+            "name": "AviRosenfeld - Or"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626495&streamencoding=mp31", 
+            "name": "AviRosenfeld - Manginat HaGalim"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626491&streamencoding=mp31", 
+            "name": "AviRosenfeld - ObsessioninBlue"
+        }
+    ], 
+    "release": "2010", 
+    "id": "72514"
+}

@@ -1,0 +1,992 @@
+{
+    "albums": [
+        {
+            "release": "2009", 
+            "artist": "Pogodina", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53941&imagesize=100", 
+            "id": "53941", 
+            "name": "\u0414\u0435\u043d\u044c \u0414\u043e\u0436\u0434\u044f"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Machelune", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125676&imagesize=100", 
+            "id": "125676", 
+            "name": "Machelune & l'Orchestre imaginaire"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "SHAMATRONIC", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77848&imagesize=100", 
+            "id": "77848", 
+            "name": "Trip solombre "
+        }, 
+        {
+            "release": "2009", 
+            "artist": "StaFra", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55736&imagesize=100", 
+            "id": "55736", 
+            "name": "Klingende Worte"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Harald S", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65166&imagesize=100", 
+            "id": "65166", 
+            "name": "Cry Of The Unborn"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Shyam Monk", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87617&imagesize=100", 
+            "id": "87617", 
+            "name": "Dark Indian Lullaby and Improvisation"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Turkish Delight The Opera", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47889&imagesize=100", 
+            "id": "47889", 
+            "name": "Turkish Delight the Opera, live at The Battersea Barge 2009"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Turkish Delight The Opera", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48276&imagesize=100", 
+            "id": "48276", 
+            "name": "Turkish Delight the Opera - Studio Recording 2009"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Tony Bardon", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54321&imagesize=100", 
+            "id": "54321", 
+            "name": "The Lake Isle of Innisfree"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Derfla", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106389&imagesize=100", 
+            "id": "106389", 
+            "name": "Mein s\u00fc\u00dfes Lieb"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Franz Zehnbier", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93070&imagesize=100", 
+            "id": "93070", 
+            "name": "Mit Zehnbier durch die Woche"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Nakazawa Fusako", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7509&imagesize=100", 
+            "id": "7509", 
+            "name": "Ensemble Koto - Nihon Kakyoku"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Padre Enrique Pascal Garc\u00eda-Huidobro", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111286&imagesize=100", 
+            "id": "111286", 
+            "name": "Pr\u00e9dicas Dominicales - volumen 2"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "KaWa VideoBeats", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119832&imagesize=100", 
+            "id": "119832", 
+            "name": "Kawa VideoBeats"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Francisco Bobadilla", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65736&imagesize=100", 
+            "id": "65736", 
+            "name": "Cicatrices"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Wayne Pascall Acappella", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130165&imagesize=100", 
+            "id": "130165", 
+            "name": "REJOICE - Songs From The Book of Philippians"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Wayne Pascall Acappella", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130481&imagesize=100", 
+            "id": "130481", 
+            "name": "Transformed"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "JACK ARIEL", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129047&imagesize=100", 
+            "id": "129047", 
+            "name": "Para ti"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Georges", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94259&imagesize=100", 
+            "id": "94259", 
+            "name": "L'amour en voiture"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Amadeus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57833&imagesize=100", 
+            "id": "57833", 
+            "name": "Arnold Wohler: Where Will The Ducks Go?"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Amadeus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58532&imagesize=100", 
+            "id": "58532", 
+            "name": "Arnold Wohler: The Mountain's Ghost"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Amadeus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57513&imagesize=100", 
+            "id": "57513", 
+            "name": "Arnold Wohler: I'm Glad To See You Again"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "SNUPO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21718&imagesize=100", 
+            "id": "21718", 
+            "name": "SNUPO - Protestgesang"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Mohamed Ahmed", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132025&imagesize=100", 
+            "id": "132025", 
+            "name": "Le Droit chemin"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Vibhavaree Gargeya", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103701&imagesize=100", 
+            "id": "103701", 
+            "name": "Bhairav Sadhana - 9"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Vibhavaree Gargeya", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88618&imagesize=100", 
+            "id": "88618", 
+            "name": "Bhairav Sadhana - 1"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Vibhavaree Gargeya", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108095&imagesize=100", 
+            "id": "108095", 
+            "name": "Bhairav Sadhana - 11"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Vibhavaree Gargeya", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112469&imagesize=100", 
+            "id": "112469", 
+            "name": "Bhairav Sadhana - 13"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Vibhavaree Gargeya", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89113&imagesize=100", 
+            "id": "89113", 
+            "name": "Bhairav Sadhana - 2"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Vibhavaree Gargeya", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103824&imagesize=100", 
+            "id": "103824", 
+            "name": "Bhairav Sadhana - 10"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "soulriddim", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5250&imagesize=100", 
+            "id": "5250", 
+            "name": "Brut de d\u00e9coffrage"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Oscar Silva", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115705&imagesize=100", 
+            "id": "115705", 
+            "name": "Esc\u00fachame Hijo"
+        }, 
+        {
+            "release": "2005", 
+            "artist": "Athman", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=789&imagesize=100", 
+            "id": "789", 
+            "name": "I GO TO BLED"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Humberto Garc\u00eda ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113217&imagesize=100", 
+            "id": "113217", 
+            "name": "Noche Dulce Compa\u00f1\u00eda "
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Tobiatsch", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81959&imagesize=100", 
+            "id": "81959", 
+            "name": "Andersrum"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Am\u00e9lilion", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26035&imagesize=100", 
+            "id": "26035", 
+            "name": "L'histoire d'un autre"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Giles Howe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8338&imagesize=100", 
+            "id": "8338", 
+            "name": "Coloratura Nightmare"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Habanera", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38533&imagesize=100", 
+            "id": "38533", 
+            "name": "La mesure"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Habanera", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31895&imagesize=100", 
+            "id": "31895", 
+            "name": "Autobiogramme"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "ARTSomerville", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35223&imagesize=100", 
+            "id": "35223", 
+            "name": "Sandi Hammond at The Nave"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104727&imagesize=100", 
+            "id": "104727", 
+            "name": "Etat DeS LieUx "
+        }, 
+        {
+            "release": "2011", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89919&imagesize=100", 
+            "id": "89919", 
+            "name": "MagiE InDiennE"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78909&imagesize=100", 
+            "id": "78909", 
+            "name": "TOmOrROw"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57022&imagesize=100", 
+            "id": "57022", 
+            "name": "Solstice"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47293&imagesize=100", 
+            "id": "47293", 
+            "name": "Les jours o\u00f9 les roses sont \u00e0 moiti\u00e9 roses  / Po\u00e8mesPhoniques verts s\u00e9rie 2 "
+        }, 
+        {
+            "release": "2010", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66221&imagesize=100", 
+            "id": "66221", 
+            "name": "Pour Un DiamanT Pos\u00e9 SuR Une RosE"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60638&imagesize=100", 
+            "id": "60638", 
+            "name": "PoEmes PhoniquEs s\u00e9rie 4"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52117&imagesize=100", 
+            "id": "52117", 
+            "name": "Cette \u00e9motion nomm\u00e9e po\u00e9sie  /  Po\u00e8mesPhoniques Oranges s\u00e9rie 3"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86459&imagesize=100", 
+            "id": "86459", 
+            "name": "NosTalGia"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82187&imagesize=100", 
+            "id": "82187", 
+            "name": "KalaChaKrA"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98539&imagesize=100", 
+            "id": "98539", 
+            "name": "SePtemBer"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "JORGESTRADA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122517&imagesize=100", 
+            "id": "122517", 
+            "name": "Invocations(Simple piano pieces and trhee songs (Invocaciones)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Dom N", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23319&imagesize=100", 
+            "id": "23319", 
+            "name": "DOM Volume 1"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Village noir", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70943&imagesize=100", 
+            "id": "70943", 
+            "name": "Les mots que tu penses tout bas."
+        }, 
+        {
+            "release": "2011", 
+            "artist": "JCR & GB", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87426&imagesize=100", 
+            "id": "87426", 
+            "name": "VOCALES FL\u00c2NERIES"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "patrice chala", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9630&imagesize=100", 
+            "id": "9630", 
+            "name": "UN MORCEAU D ETOFFE"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Mario Nhardes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81990&imagesize=100", 
+            "id": "81990", 
+            "name": "Agapantos CD1"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "J\u00e9r\u00e9my Peiti", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54108&imagesize=100", 
+            "id": "54108", 
+            "name": "Mes Ann\u00e9es Lyc\u00e9e 2009"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Deiedra", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97823&imagesize=100", 
+            "id": "97823", 
+            "name": "Dagda beltza"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Mob", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11248&imagesize=100", 
+            "id": "11248", 
+            "name": "L'air du temps"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Mob", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36534&imagesize=100", 
+            "id": "36534", 
+            "name": "Hey ho !"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Mob", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38227&imagesize=100", 
+            "id": "38227", 
+            "name": "Song of Silence"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Mob", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34958&imagesize=100", 
+            "id": "34958", 
+            "name": "La fraternit\u00e9"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Mob", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42713&imagesize=100", 
+            "id": "42713", 
+            "name": "Coup de foudre"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Mob", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21521&imagesize=100", 
+            "id": "21521", 
+            "name": "La vie de Candie V2"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "REBECCA BEHAR  - R\u00e9sidus plasmiques", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91771&imagesize=100", 
+            "id": "91771", 
+            "name": "PLUIE DE NOMS"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "THE BEASTMASTER", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90212&imagesize=100", 
+            "id": "90212", 
+            "name": "CHORUS VOICE "
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Amniotik", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64033&imagesize=100", 
+            "id": "64033", 
+            "name": "La tendre \u00e2me douce"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Pia Casagrande", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109905&imagesize=100", 
+            "id": "109905", 
+            "name": "Voces del Sur"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Gasher G.14", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108510&imagesize=100", 
+            "id": "108510", 
+            "name": "Alle machen es (mit Evren Svren)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "RT RAMON SALAZAR RT", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80453&imagesize=100", 
+            "id": "80453", 
+            "name": "PASO LENTOS"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "OpeningVoices", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89835&imagesize=100", 
+            "id": "89835", 
+            "name": "Opening Voices"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Miriam Venus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50925&imagesize=100", 
+            "id": "50925", 
+            "name": "Songs From the Path II"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Miriam Venus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50918&imagesize=100", 
+            "id": "50918", 
+            "name": "Songs From The Path"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "CANETON", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61913&imagesize=100", 
+            "id": "61913", 
+            "name": "Les temps sont compt\u00e9s"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Matthieu", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7107&imagesize=100", 
+            "id": "7107", 
+            "name": "C'est l'amour"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Donnie Ozone", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133673&imagesize=100", 
+            "id": "133673", 
+            "name": "Bass In Your Face Acapella"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Loungerie", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63540&imagesize=100", 
+            "id": "63540", 
+            "name": "Mattaccio Live (2004)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Loungerie", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63804&imagesize=100", 
+            "id": "63804", 
+            "name": "Newroz_Live (2002)"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Tery", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40560&imagesize=100", 
+            "id": "40560", 
+            "name": "La fraternit\u00e9 by Tery"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "JD", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9973&imagesize=100", 
+            "id": "9973", 
+            "name": "L'envie d'aimer"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Guy Berrier", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40803&imagesize=100", 
+            "id": "40803", 
+            "name": "JEANS ELASTIK'S SONG (Single)"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Sergey Kovchik", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128840&imagesize=100", 
+            "id": "128840", 
+            "name": "Twelve haiku"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Sergey Kovchik", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101955&imagesize=100", 
+            "id": "101955", 
+            "name": "Winds"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "LA EMBAJADORA DE AMERICA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40824&imagesize=100", 
+            "id": "40824", 
+            "name": "Para Siempre...Por Ti"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Musiciens de Surface", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17579&imagesize=100", 
+            "id": "17579", 
+            "name": "Warnach 2007"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Musiciens de Surface", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5294&imagesize=100", 
+            "id": "5294", 
+            "name": "Volaiville 2007"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Musiciens de Surface", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3907&imagesize=100", 
+            "id": "3907", 
+            "name": "Rachamps 2004"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Chiiukokoneka", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113194&imagesize=100", 
+            "id": "113194", 
+            "name": "Carry On"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "\u041a\u0438\u0441\u043a\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120749&imagesize=100", 
+            "id": "120749", 
+            "name": "\u0424\u0435\u0441\u0442\u0435\u0432\u0430\u043b\u044c2000: TOPs"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Leithal", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109016&imagesize=100", 
+            "id": "109016", 
+            "name": "FIVE"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "RV", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7129&imagesize=100", 
+            "id": "7129", 
+            "name": "Maman"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "RV", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15901&imagesize=100", 
+            "id": "15901", 
+            "name": "Toi"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "David Wapner", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72288&imagesize=100", 
+            "id": "72288", 
+            "name": "Wapner LivEuzkadi"
+        }, 
+        {
+            "release": "2005", 
+            "artist": "Les Petits Chanteurs de Montigny", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46&imagesize=100", 
+            "id": "46", 
+            "name": "Compilation classique"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "Maya de Luna", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3469&imagesize=100", 
+            "id": "3469", 
+            "name": "Bar Stim.Art"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Maya de Luna", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5179&imagesize=100", 
+            "id": "5179", 
+            "name": "Envers et contre toi"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Shanaelle Yanka", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28959&imagesize=100", 
+            "id": "28959", 
+            "name": "A coeur ouvert"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Pino Sblendorio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123264&imagesize=100", 
+            "id": "123264", 
+            "name": "Jenny"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Nook", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86694&imagesize=100", 
+            "id": "86694", 
+            "name": "Winter Child - Ost.Dream High. "
+        }, 
+        {
+            "release": "2009", 
+            "artist": "ZorBuddha", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47546&imagesize=100", 
+            "id": "47546", 
+            "name": "ZorBuddha"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Aufklarung", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136269&imagesize=100", 
+            "id": "136269", 
+            "name": "Strings in the Earth and Air"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Aufklarung", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124895&imagesize=100", 
+            "id": "124895", 
+            "name": "Fairy Tale "
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Aufklarung", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105549&imagesize=100", 
+            "id": "105549", 
+            "name": "Trois Chansons Tristes"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Soyka & Homo Satori", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87390&imagesize=100", 
+            "id": "87390", 
+            "name": "\u041a\u043e\u043b\u0435\u0441\u043e"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Colegio Mayor P. Jos\u00e9 Kentenich", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113872&imagesize=100", 
+            "id": "113872", 
+            "name": "Tiempo de Alianza"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Maxmex", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131978&imagesize=100", 
+            "id": "131978", 
+            "name": "Le mele pi\u00f9 dolci (maxmex 1992/2014)"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Maxmex", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132657&imagesize=100", 
+            "id": "132657", 
+            "name": "Olonfelne (maxmex 1991/2014)"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "skadyll", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14712&imagesize=100", 
+            "id": "14712", 
+            "name": "loomponique"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "David.G", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96236&imagesize=100", 
+            "id": "96236", 
+            "name": "Trino"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "David.G", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96278&imagesize=100", 
+            "id": "96278", 
+            "name": "De vuelta a la vida"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Jaimina Johnston", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75960&imagesize=100", 
+            "id": "75960", 
+            "name": "PRAY"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Juan Carlos Ganazhapa", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72370&imagesize=100", 
+            "id": "72370", 
+            "name": "Single - Necesidad - 2010"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "StereoResonance", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129093&imagesize=100", 
+            "id": "129093", 
+            "name": "You & I"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "\u00aestarmann65", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101848&imagesize=100", 
+            "id": "101848", 
+            "name": "Amanda [Remastert]"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "The Soulbird", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133256&imagesize=100", 
+            "id": "133256", 
+            "name": "Wortgefieder"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "SYNTHESIC", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39453&imagesize=100", 
+            "id": "39453", 
+            "name": "Synth\u00e9sic Vocal vol 2"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Paul Perkins", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70067&imagesize=100", 
+            "id": "70067", 
+            "name": "Copyleft"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Rafael Villegas", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17421&imagesize=100", 
+            "id": "17421", 
+            "name": "Dal Cuore"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "dj ivan cruz producciones", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123139&imagesize=100", 
+            "id": "123139", 
+            "name": "7 Lunas"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Brenda-SinglePoems", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82553&imagesize=100", 
+            "id": "82553", 
+            "name": "Ink Ocean, version2"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Dr. Emiliyan Stankov", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44940&imagesize=100", 
+            "id": "44940", 
+            "name": "Tebe Poem"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "David Fink", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83219&imagesize=100", 
+            "id": "83219", 
+            "name": "Upside Down (Single)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "St\u00e9phane Bataillon", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59597&imagesize=100", 
+            "id": "59597", 
+            "name": "Pour les \u00e2mes conjointes"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "michalko wawrzyn", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44032&imagesize=100", 
+            "id": "44032", 
+            "name": "marzenie"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "COELHO DE MORAES", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118180&imagesize=100", 
+            "id": "118180", 
+            "name": "NATAL NO ROS\u00c1RIO"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "LN et L\u00e9a", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27774&imagesize=100", 
+            "id": "27774", 
+            "name": "Les p'tites derni\u00e8res"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Stefan Colomb", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78513&imagesize=100", 
+            "id": "78513", 
+            "name": "MJSLAMEURS"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "That Crooner from Nowhere", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31825&imagesize=100", 
+            "id": "31825", 
+            "name": "Cumming soon EP"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Victa Rain", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55937&imagesize=100", 
+            "id": "55937", 
+            "name": "Poetry Parade"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Thomas Stein", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65153&imagesize=100", 
+            "id": "65153", 
+            "name": "Worte in Wind"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "radjKarl", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55860&imagesize=100", 
+            "id": "55860", 
+            "name": "Findet den Pinguink\u00f6nig"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Antonio Leal Esp\u00edn", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123213&imagesize=100", 
+            "id": "123213", 
+            "name": "Ese vientecito y esos ruidos de mi boca"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Brenda Clews", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81729&imagesize=100", 
+            "id": "81729", 
+            "name": "Starfire"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Brenda Clews", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57606&imagesize=100", 
+            "id": "57606", 
+            "name": "Dance of the Solar Wind"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Gr\u00fcnemusik", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124506&imagesize=100", 
+            "id": "124506", 
+            "name": "Close your eyes"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "AMarie.C", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3108&imagesize=100", 
+            "id": "3108", 
+            "name": "Des Marques d'Amour"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Isidro Aublin", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6442&imagesize=100", 
+            "id": "6442", 
+            "name": "El Arte del Camuflaje"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Plamen Sivov", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30107&imagesize=100", 
+            "id": "30107", 
+            "name": "Near Life Experiences"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Plamen Sivov", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30155&imagesize=100", 
+            "id": "30155", 
+            "name": "\u041f\u0438\u0441\u043c\u043e \u043e\u0442 \u0433\u0440\u0430\u0434\u0430"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Magnus Mond", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117829&imagesize=100", 
+            "id": "117829", 
+            "name": "Kopflos 3.0 (2012)"
+        }
+    ], 
+    "name": "Vocal"
+}

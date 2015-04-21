@@ -1,0 +1,24 @@
+{
+    "name": "Cursed Angel - Instrumental", 
+    "artist": "Cursed Angel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99436&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850844&streamencoding=mp31", 
+            "name": "Tempestad-Inst"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851033&streamencoding=mp31", 
+            "name": "Abismo-Inst"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850843&streamencoding=mp31", 
+            "name": "La lluvia amarilla-Inst"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99436"
+}

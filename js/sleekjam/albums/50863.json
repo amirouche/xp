@@ -1,0 +1,24 @@
+{
+    "name": "En la onda ", 
+    "artist": "John Palomo Fussion Blues Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50863&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411498&streamencoding=mp31", 
+            "name": "(Vieja) Bossa"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411520&streamencoding=mp31", 
+            "name": "En la onda"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411596&streamencoding=mp31", 
+            "name": "Mi vieja balada"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50863"
+}

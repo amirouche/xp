@@ -1,0 +1,49 @@
+{
+    "name": "Dark Clouds", 
+    "artist": "Hannu Kalevi Elo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15377&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115410&streamencoding=mp31", 
+            "name": "1 - Into the future"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115411&streamencoding=mp31", 
+            "name": "2 - Magic Wand"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115412&streamencoding=mp31", 
+            "name": "3 - Helix"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115413&streamencoding=mp31", 
+            "name": "4 - Clockwork"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115414&streamencoding=mp31", 
+            "name": "5 - Dark Clouds"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115415&streamencoding=mp31", 
+            "name": "6 - Ufo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115416&streamencoding=mp31", 
+            "name": "7 - Radioactivity"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115417&streamencoding=mp31", 
+            "name": "8 - Hour of destiny"
+        }
+    ], 
+    "release": "2007", 
+    "id": "15377"
+}

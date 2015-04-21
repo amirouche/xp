@@ -1,0 +1,29 @@
+{
+    "name": "Rarezas", 
+    "artist": "CHATARRA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100026&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=855281&streamencoding=mp31", 
+            "name": "Cuando perder fu\u00e9 ganar?"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=855278&streamencoding=mp31", 
+            "name": "De mentira"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=855279&streamencoding=mp31", 
+            "name": "Estrella fugaz"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=855280&streamencoding=mp31", 
+            "name": "atrav\u00e9s del olvido (Versi\u00f3n ac\u00fastica en r\u00e1dio la mina)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "100026"
+}

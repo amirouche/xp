@@ -1,0 +1,14 @@
+{
+    "name": "La jungle des mots", 
+    "artist": "Philippe LACOMBE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94219&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=805305&streamencoding=mp31", 
+            "name": "Genesis"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94219"
+}

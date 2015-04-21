@@ -1,0 +1,84 @@
+{
+    "name": "Pour qui sonne le dub", 
+    "artist": "Dubamix", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131407&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101159&streamencoding=mp31", 
+            "name": "Pour qui sonne le dub feat Kyam"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101266&streamencoding=mp31", 
+            "name": "Libert\u00e9 I"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101263&streamencoding=mp31", 
+            "name": "Ils ne cherchaient personne feat E.one"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101264&streamencoding=mp31", 
+            "name": "Ne d\u00e9sesp\u00e9rez pas"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101265&streamencoding=mp31", 
+            "name": "Partisan Dub feat Skalpel"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101272&streamencoding=mp31", 
+            "name": "Libert\u00e9 II"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101267&streamencoding=mp31", 
+            "name": "Valls in Dub"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101156&streamencoding=mp31", 
+            "name": "Class War Dub"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101157&streamencoding=mp31", 
+            "name": "Dub In Circus"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101158&streamencoding=mp31", 
+            "name": "Crisis"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101268&streamencoding=mp31", 
+            "name": "Tripalium Dub"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101269&streamencoding=mp31", 
+            "name": "Le monde bouge Remix feat Joke"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101270&streamencoding=mp31", 
+            "name": "Ayuboga Dub Live"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101271&streamencoding=mp31", 
+            "name": "Dub Conqua Live"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101160&streamencoding=mp31", 
+            "name": "Tierra y Libertad Live"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131407"
+}

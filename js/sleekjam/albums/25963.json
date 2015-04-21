@@ -1,0 +1,44 @@
+{
+    "name": "Hinterhof HiFi - Wem gehoert die Welt", 
+    "artist": "Hinterhof HiFi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25963&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175106&streamencoding=mp31", 
+            "name": "Hinterhof HiFi - Gib dich nicht auf"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175108&streamencoding=mp31", 
+            "name": "Hinterhof HiFi - Gib mir die Hand"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175112&streamencoding=mp31", 
+            "name": "Hinterhof HiFi - Jah lebt"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175134&streamencoding=mp31", 
+            "name": "Hinterhof HiFi - Star Wars"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175141&streamencoding=mp31", 
+            "name": "Hinterhof Hifi - Was wirst du tun"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175148&streamencoding=mp31", 
+            "name": "Hinterhof Hifi - Wem gehoert die Welt"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175154&streamencoding=mp31", 
+            "name": "Hinterhof HiFi - Wie weit"
+        }
+    ], 
+    "release": "2008", 
+    "id": "25963"
+}

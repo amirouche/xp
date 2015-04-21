@@ -1,0 +1,59 @@
+{
+    "name": "Textures", 
+    "artist": "JUN27 - a John IdleWell Experience", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85327&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=730213&streamencoding=mp31", 
+            "name": "Texture"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729787&streamencoding=mp31", 
+            "name": "Black_Spots_(a_dream)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729783&streamencoding=mp31", 
+            "name": "FSTB"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=730163&streamencoding=mp31", 
+            "name": "Don't_Let_The_Pigeons_..._(Do_The_Rest)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729784&streamencoding=mp31", 
+            "name": "Sucking_Candies"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729789&streamencoding=mp31", 
+            "name": "To_Fix_Under_Punches_(of_5)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729929&streamencoding=mp31", 
+            "name": "No_Way_(Another_Dream)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729930&streamencoding=mp31", 
+            "name": "Don't_Pull_My_Legs_With_Flying_Saucers_Tales"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729786&streamencoding=mp31", 
+            "name": "Texture_Basic"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729785&streamencoding=mp31", 
+            "name": "The_Fall_Jacket_(bonus_track)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85327"
+}

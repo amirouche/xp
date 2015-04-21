@@ -1,0 +1,49 @@
+{
+    "name": "Nostromo", 
+    "artist": "artenoise", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60105&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513604&streamencoding=mp31", 
+            "name": "Dwarf"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513605&streamencoding=mp31", 
+            "name": "Earth"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513606&streamencoding=mp31", 
+            "name": "Un Brindis Con Salfuman"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513608&streamencoding=mp31", 
+            "name": "El Octavo Pasajero"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513609&streamencoding=mp31", 
+            "name": "Indranapolis (minueto)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513613&streamencoding=mp31", 
+            "name": "Aun Se Lo Que Hicisteis"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513611&streamencoding=mp31", 
+            "name": "Cosas Que Hacer En Xuriz"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513612&streamencoding=mp31", 
+            "name": "El Octavo Pasajero (Interferencias)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60105"
+}

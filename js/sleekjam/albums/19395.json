@@ -1,0 +1,99 @@
+{
+    "name": "03 02 L'installation Part B", 
+    "artist": "Grego Mondo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19395&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135667&streamencoding=mp31", 
+            "name": "A L'eau Sous Les Ponts"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135684&streamencoding=mp31", 
+            "name": "B Le chant des Baleines"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135689&streamencoding=mp31", 
+            "name": "C Le Rivage"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135692&streamencoding=mp31", 
+            "name": "D Les Indig\u00e8nes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135699&streamencoding=mp31", 
+            "name": "E La Danse des Indig\u00e8nes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135704&streamencoding=mp31", 
+            "name": "F La nuit tombe"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135711&streamencoding=mp31", 
+            "name": "G Musique des C\u00eemes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135713&streamencoding=mp31", 
+            "name": "H La tranch\u00e9e"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135715&streamencoding=mp31", 
+            "name": "A Reveil Lunaire"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135730&streamencoding=mp31", 
+            "name": "B Pr\u00e9sentations"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135743&streamencoding=mp31", 
+            "name": "C Ils sont Joueurs"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135745&streamencoding=mp31", 
+            "name": "D La visite des Caves"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135756&streamencoding=mp31", 
+            "name": "E Commentaire"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135759&streamencoding=mp31", 
+            "name": "F Ne tiens pas en Place"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135760&streamencoding=mp31", 
+            "name": "G La Promenade de l'Oncle Colombien"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135767&streamencoding=mp31", 
+            "name": "H L'appel"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135769&streamencoding=mp31", 
+            "name": "I Des Oiseaux dans le Ciel"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=135770&streamencoding=mp31", 
+            "name": "J Sur Terre"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19395"
+}

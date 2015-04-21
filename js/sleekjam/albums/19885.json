@@ -1,0 +1,119 @@
+{
+    "name": "03 10 Valise Mobile", 
+    "artist": "Grego Mondo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19885&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139208&streamencoding=mp31", 
+            "name": "Projection"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139210&streamencoding=mp31", 
+            "name": "La Trebuche"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139211&streamencoding=mp31", 
+            "name": "Pinceau"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139213&streamencoding=mp31", 
+            "name": "Tri Poil"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139217&streamencoding=mp31", 
+            "name": "Soci\u00e9t\u00e9 nationale de pinceau"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139227&streamencoding=mp31", 
+            "name": "Interval datante"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139228&streamencoding=mp31", 
+            "name": "La Boite \u00e0 neige"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139229&streamencoding=mp31", 
+            "name": "Clic de Zoom"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139232&streamencoding=mp31", 
+            "name": "Monster Run"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139233&streamencoding=mp31", 
+            "name": "La Roulette"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139236&streamencoding=mp31", 
+            "name": "La Capsule"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139239&streamencoding=mp31", 
+            "name": "Appel nocturne"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139245&streamencoding=mp31", 
+            "name": "Boite des Steppes"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139252&streamencoding=mp31", 
+            "name": "Du Jack"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139262&streamencoding=mp31", 
+            "name": "Echorythmie"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139275&streamencoding=mp31", 
+            "name": "Galop"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139278&streamencoding=mp31", 
+            "name": "Zen"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139279&streamencoding=mp31", 
+            "name": "Brume"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139282&streamencoding=mp31", 
+            "name": "Blup"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139283&streamencoding=mp31", 
+            "name": "La Danse des Postitions"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139285&streamencoding=mp31", 
+            "name": "Steppe en boite"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139288&streamencoding=mp31", 
+            "name": "Evacuez"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19885"
+}

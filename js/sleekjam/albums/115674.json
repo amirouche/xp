@@ -1,0 +1,54 @@
+{
+    "name": "A Child's Christmas Dream", 
+    "artist": "Out Of Orion (Ox3)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115674&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982136&streamencoding=mp31", 
+            "name": "A Child's Christmas Dream"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982137&streamencoding=mp31", 
+            "name": "Christmas Away From Home"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982138&streamencoding=mp31", 
+            "name": "Christmas Snow"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982135&streamencoding=mp31", 
+            "name": "Once Upon A Christmas Eve"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982140&streamencoding=mp31", 
+            "name": "Visions Of Sugar Plums"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982141&streamencoding=mp31", 
+            "name": "Holiday Hearth And Home"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982142&streamencoding=mp31", 
+            "name": "Winter's Chill"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982134&streamencoding=mp31", 
+            "name": "Beneath A Christmas Moon"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982139&streamencoding=mp31", 
+            "name": "A Child's Christmas Dream (Extended Mix)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115674"
+}

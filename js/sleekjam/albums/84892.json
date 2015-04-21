@@ -1,0 +1,39 @@
+{
+    "name": "AZULEJOS", 
+    "artist": "JAC", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84892&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726468&streamencoding=mp31", 
+            "name": "Azulejos"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726469&streamencoding=mp31", 
+            "name": "Jo Gambino rock"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726470&streamencoding=mp31", 
+            "name": "Pr\u00e9sidarios"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726471&streamencoding=mp31", 
+            "name": "Ver\u00e0o d'inferno"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726472&streamencoding=mp31", 
+            "name": "Ternura noite"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726473&streamencoding=mp31", 
+            "name": "Casal do Nil"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84892"
+}

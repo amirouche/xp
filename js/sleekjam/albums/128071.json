@@ -1,0 +1,14 @@
+{
+    "name": "In A Good Mood (happy acoustic poprock)", 
+    "artist": "Akashic Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128071&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1075261&streamencoding=mp31", 
+            "name": "In a Good Mood"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128071"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Traveling in Stereo EP", 
+    "artist": "Traveling in Stereo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68328&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=592127&streamencoding=mp31", 
+            "name": "No Bother"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=592128&streamencoding=mp31", 
+            "name": "Just a Dream"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=592129&streamencoding=mp31", 
+            "name": "See Your Face"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=592130&streamencoding=mp31", 
+            "name": "Who's Who"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=592131&streamencoding=mp31", 
+            "name": "Peace Pipe"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=592132&streamencoding=mp31", 
+            "name": "Let it Go"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=592133&streamencoding=mp31", 
+            "name": "What I Know"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68328"
+}

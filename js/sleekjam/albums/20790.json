@@ -1,0 +1,69 @@
+{
+    "name": "Ce Cri", 
+    "artist": "FOOL DADAZ FIRE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20790&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144500&streamencoding=mp31", 
+            "name": "La Cur\u00e9e (feat. Tixi)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144511&streamencoding=mp31", 
+            "name": "Claudie (feat. Princess Waggy)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144665&streamencoding=mp31", 
+            "name": "Le Blues du Fant\u00f4me (feat. l'Archiduchesse de Pomme de Reinette)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144671&streamencoding=mp31", 
+            "name": "Vie et Mort de la Reine Marianne (feat. Princess Waggy & Archiduchesse de Pomme de Reinette)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144679&streamencoding=mp31", 
+            "name": "Sunrise (feat. Los Hermanos & Tixi)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144681&streamencoding=mp31", 
+            "name": "Sur le Fil"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144687&streamencoding=mp31", 
+            "name": "Ce Cri"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144688&streamencoding=mp31", 
+            "name": "La Bedaine (feat. Tixi)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144690&streamencoding=mp31", 
+            "name": "Lumumba"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144692&streamencoding=mp31", 
+            "name": "Je Suis Quoi ?"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144696&streamencoding=mp31", 
+            "name": "Sunset (feat. Tixi)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146061&streamencoding=mp31", 
+            "name": "Silver Surfeur (feat. Tixi & the Midnight Normandy Clapping Band)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20790"
+}

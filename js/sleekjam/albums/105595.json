@@ -1,0 +1,49 @@
+{
+    "name": "\u00a1Cu\u00e1nto d\u00eda!", 
+    "artist": "Alejandro Vallarino", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105595&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897379&streamencoding=mp31", 
+            "name": "Cuanto d\u00eda!"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897378&streamencoding=mp31", 
+            "name": "ginebra digital"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897374&streamencoding=mp31", 
+            "name": "variaciones sobre un tema de Haendel"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897373&streamencoding=mp31", 
+            "name": "Vela vartok"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897376&streamencoding=mp31", 
+            "name": "Lux Umbra Dei"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897377&streamencoding=mp31", 
+            "name": "juana"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897372&streamencoding=mp31", 
+            "name": "zamba del cute and paste"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897375&streamencoding=mp31", 
+            "name": "Peregrino"
+        }
+    ], 
+    "release": "2012", 
+    "id": "105595"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Oxampo - single", 
+    "artist": "Beder K.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27131&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177569&streamencoding=mp31", 
+            "name": "Oxampo"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27131"
+}

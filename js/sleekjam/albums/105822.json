@@ -1,0 +1,39 @@
+{
+    "name": "Discomatic", 
+    "artist": "Synthirius", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105822&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899004&streamencoding=mp31", 
+            "name": "discomatic"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899005&streamencoding=mp31", 
+            "name": "303909"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899021&streamencoding=mp31", 
+            "name": "externality"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899007&streamencoding=mp31", 
+            "name": "High tea"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899008&streamencoding=mp31", 
+            "name": "Galaxy rock"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899009&streamencoding=mp31", 
+            "name": "Mark 22"
+        }
+    ], 
+    "release": "2012", 
+    "id": "105822"
+}

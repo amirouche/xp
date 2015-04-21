@@ -1,0 +1,44 @@
+{
+    "name": "vcvete(EP)", 
+    "artist": "Moresebya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70863&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612346&streamencoding=mp31", 
+            "name": "poloviny zhizni"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612347&streamencoding=mp31", 
+            "name": "neizvestnaya zima"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612348&streamencoding=mp31", 
+            "name": "v metro"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612349&streamencoding=mp31", 
+            "name": "ostanovis"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612350&streamencoding=mp31", 
+            "name": "zasypaeshvvannojnadne"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612351&streamencoding=mp31", 
+            "name": "v tvoih glazah"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612352&streamencoding=mp31", 
+            "name": "vashi veki sliplis"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70863"
+}

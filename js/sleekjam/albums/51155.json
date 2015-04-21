@@ -1,0 +1,74 @@
+{
+    "name": "PANIC", 
+    "artist": "LA OLLA EXPRESS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51155&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415050&streamencoding=mp31", 
+            "name": "La Batalla"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415083&streamencoding=mp31", 
+            "name": "Aeropuerto"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415093&streamencoding=mp31", 
+            "name": "Pain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415103&streamencoding=mp31", 
+            "name": "Panic"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415106&streamencoding=mp31", 
+            "name": "1000 Sonidos"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415142&streamencoding=mp31", 
+            "name": "Esperando"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415160&streamencoding=mp31", 
+            "name": "Para todo el mundo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415168&streamencoding=mp31", 
+            "name": "Magic Box"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415169&streamencoding=mp31", 
+            "name": "Oporto 0300 am"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415186&streamencoding=mp31", 
+            "name": "Babylon"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415199&streamencoding=mp31", 
+            "name": "Viene y va"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415207&streamencoding=mp31", 
+            "name": "Tiempo"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415208&streamencoding=mp31", 
+            "name": "La Olla Express"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51155"
+}

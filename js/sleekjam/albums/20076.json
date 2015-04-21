@@ -1,0 +1,74 @@
+{
+    "name": "Verf\u00fchrer, Volk und Vaterland!", 
+    "artist": "Die drei Len\u00f6re", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20076&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140458&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140459&streamencoding=mp31", 
+            "name": "Urlaub wie er sein sollte"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140505&streamencoding=mp31", 
+            "name": "Birnbach am Wolfgangsee"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140461&streamencoding=mp31", 
+            "name": "Der Lispler"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140462&streamencoding=mp31", 
+            "name": "Adolf der Hund"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140463&streamencoding=mp31", 
+            "name": "Anst\u00e4ndig erzogen"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140464&streamencoding=mp31", 
+            "name": "Aerobic im Dunkel"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140506&streamencoding=mp31", 
+            "name": "Du bist Emo"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140507&streamencoding=mp31", 
+            "name": "Grobe Fehleinsch\u00e4tzungen"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140508&streamencoding=mp31", 
+            "name": "Hymne an die Schwedenfrau"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140509&streamencoding=mp31", 
+            "name": "Sand in der Fresse"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140510&streamencoding=mp31", 
+            "name": "Armes Deutschland"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140511&streamencoding=mp31", 
+            "name": "Time to say Adieu (feat. Warmock)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20076"
+}

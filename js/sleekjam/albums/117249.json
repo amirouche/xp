@@ -1,0 +1,14 @@
+{
+    "name": "Qu\u00e9 pasar\u00e1 ma\u00f1ana...", 
+    "artist": "FhV", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117249&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996809&streamencoding=mp31", 
+            "name": "Qu\u00e9 pasar\u00e1 ma\u00f1ana"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117249"
+}

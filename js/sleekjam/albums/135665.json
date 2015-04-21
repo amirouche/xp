@@ -1,0 +1,69 @@
+{
+    "name": "LONELY ROSE OF ANDOVER", 
+    "artist": "Varicourt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135665&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131536&streamencoding=mp31", 
+            "name": "Nothing fits, nothing quits"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131530&streamencoding=mp31", 
+            "name": "Lonely rose of Andover"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131534&streamencoding=mp31", 
+            "name": "Don\u00b4t get me wrong"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131535&streamencoding=mp31", 
+            "name": "Conjurer"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131538&streamencoding=mp31", 
+            "name": "Andover"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131537&streamencoding=mp31", 
+            "name": "Poppycock"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131539&streamencoding=mp31", 
+            "name": "Dear Lourdes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131540&streamencoding=mp31", 
+            "name": "Allessandra"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131541&streamencoding=mp31", 
+            "name": "Talk, time and tutors"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131532&streamencoding=mp31", 
+            "name": "Gillian"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131531&streamencoding=mp31", 
+            "name": "The mystical story of Mary"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131533&streamencoding=mp31", 
+            "name": "I don\u00b4t want you back"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135665"
+}

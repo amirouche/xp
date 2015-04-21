@@ -1,0 +1,49 @@
+{
+    "name": "Rainbow Crab Live Session", 
+    "artist": "Rainbow crab", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115927&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=984839&streamencoding=mp31", 
+            "name": "Fresh Water"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=984840&streamencoding=mp31", 
+            "name": "Mars Mechanics"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=984841&streamencoding=mp31", 
+            "name": "Plex & Phlox"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=984843&streamencoding=mp31", 
+            "name": "Heavy Jellyfish"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=984844&streamencoding=mp31", 
+            "name": "Ruins At Virginia Water"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=984846&streamencoding=mp31", 
+            "name": "Australian Bebop"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=984847&streamencoding=mp31", 
+            "name": "Microvibration"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=984848&streamencoding=mp31", 
+            "name": "Wide Sight At The World"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115927"
+}

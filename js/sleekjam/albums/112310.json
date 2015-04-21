@@ -1,0 +1,19 @@
+{
+    "name": "Spirit's Torment", 
+    "artist": "Chadel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112310&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955210&streamencoding=mp31", 
+            "name": "Spirit's Torment"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955209&streamencoding=mp31", 
+            "name": "Internal Battle"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112310"
+}

@@ -1,0 +1,89 @@
+{
+    "name": "J\u00e8 Mustu Ca Fervi", 
+    "artist": "Terron Rebel Sound", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42969&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317997&streamencoding=mp31", 
+            "name": "01 - Ozza La Capu"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317988&streamencoding=mp31", 
+            "name": "02 - Canto Suono Vivo Reggae"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317985&streamencoding=mp31", 
+            "name": "03 - Danza Paesana"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317991&streamencoding=mp31", 
+            "name": "04 - Nna Bella Vagnona"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317996&streamencoding=mp31", 
+            "name": "05 - Luv Songs Tra Vagnuni Ti Osci"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317987&streamencoding=mp31", 
+            "name": "06 - Situazione Bbona"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317993&streamencoding=mp31", 
+            "name": "07 - Iu Sto Cu Li Cugliuni"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317999&streamencoding=mp31", 
+            "name": "08 - Senza Presupposti"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317990&streamencoding=mp31", 
+            "name": "09 - Carosi E Amore (Feat. Graffio MC)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317995&streamencoding=mp31", 
+            "name": "10 - Pi Nnu Paisi Motu Spiciali (Parole...)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317986&streamencoding=mp31", 
+            "name": "11 - L'Ardori Ti La Terra Nostra (Feat. Barbara)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317992&streamencoding=mp31", 
+            "name": "12 - Lu Paisi Mia"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317998&streamencoding=mp31", 
+            "name": "13 - Liberamu La Musica"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317989&streamencoding=mp31", 
+            "name": "14 - Nnu Ringraziamentu (Feat. X$A)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317994&streamencoding=mp31", 
+            "name": "15 - Cchi\u00f9 Scuru Ti La Menzanotti"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317984&streamencoding=mp31", 
+            "name": "16 - So Terroni"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42969"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PFM v2", 
+    "artist": "FOXAPET", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15493&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116103&streamencoding=mp31", 
+            "name": "04-Halloween"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116104&streamencoding=mp31", 
+            "name": "07-Never stop the beat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116105&streamencoding=mp31", 
+            "name": "06-Feel the groove"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116106&streamencoding=mp31", 
+            "name": "02-Step on to me"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116107&streamencoding=mp31", 
+            "name": "01-P-F-M"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116108&streamencoding=mp31", 
+            "name": "03-Sex it up"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116109&streamencoding=mp31", 
+            "name": "04-Music"
+        }
+    ], 
+    "release": "2007", 
+    "id": "15493"
+}

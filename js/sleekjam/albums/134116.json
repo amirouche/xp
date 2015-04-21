@@ -1,0 +1,29 @@
+{
+    "name": "ON-plugget", 
+    "artist": "Ricardo Plaza", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134116&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1122250&streamencoding=mp31", 
+            "name": "CRUMARMix (1)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1122251&streamencoding=mp31", 
+            "name": "CRUMARMix (2)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1122252&streamencoding=mp31", 
+            "name": "CRUMARMix (3)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1122253&streamencoding=mp31", 
+            "name": "CRUMARMix (4)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134116"
+}

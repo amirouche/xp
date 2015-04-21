@@ -1,0 +1,49 @@
+{
+    "name": "The inside is insane (Remixed)", 
+    "artist": "DeadSheep", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8728&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90104&streamencoding=mp31", 
+            "name": "Dead Sheep - Beer"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90105&streamencoding=mp31", 
+            "name": "Dead Sheep - Fight Her"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90106&streamencoding=mp31", 
+            "name": "Dead Sheep - Fuck all you politics"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90107&streamencoding=mp31", 
+            "name": "Dead Sheep - Mad"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90108&streamencoding=mp31", 
+            "name": "Dead Sheep - Mary-Jane"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90109&streamencoding=mp31", 
+            "name": "Dead Sheep - Nice to burn"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90110&streamencoding=mp31", 
+            "name": "Dead Sheep - Spinning Drive"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90111&streamencoding=mp31", 
+            "name": "Dead Sheep - The inside is insane"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8728"
+}

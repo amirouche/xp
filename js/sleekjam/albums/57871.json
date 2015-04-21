@@ -1,0 +1,79 @@
+{
+    "name": "Itch", 
+    "artist": "Bryan Baker", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57871&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493791&streamencoding=mp31", 
+            "name": "All My Designs"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493792&streamencoding=mp31", 
+            "name": "I Know What You've Been Up To"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493796&streamencoding=mp31", 
+            "name": "Complication"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493785&streamencoding=mp31", 
+            "name": "A Little Danger"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493786&streamencoding=mp31", 
+            "name": "Let Me Step Inside"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493789&streamencoding=mp31", 
+            "name": "At Grandma's House"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493790&streamencoding=mp31", 
+            "name": "Barking Doctrine"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493794&streamencoding=mp31", 
+            "name": "Needs"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493788&streamencoding=mp31", 
+            "name": "My Insignificant Life"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493787&streamencoding=mp31", 
+            "name": "'Til the Money's Gone"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493793&streamencoding=mp31", 
+            "name": "No More Sorrow"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493797&streamencoding=mp31", 
+            "name": "To Someone"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493795&streamencoding=mp31", 
+            "name": "Whatever It Takes"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493783&streamencoding=mp31", 
+            "name": "Come Be My Girl"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57871"
+}

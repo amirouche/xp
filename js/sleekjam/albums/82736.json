@@ -1,0 +1,64 @@
+{
+    "name": "R\u00e9flexions", 
+    "artist": "Francesco", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82736&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709208&streamencoding=mp31", 
+            "name": "R\u00e9flexions"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709210&streamencoding=mp31", 
+            "name": "Une Amiti\u00e9"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709217&streamencoding=mp31", 
+            "name": "Vers l'inconnu"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709229&streamencoding=mp31", 
+            "name": "Different de Toi"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709234&streamencoding=mp31", 
+            "name": "Demande au Ciel"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709237&streamencoding=mp31", 
+            "name": "Ce que l'on a en Soi"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709240&streamencoding=mp31", 
+            "name": "Chemin du Coeur"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709245&streamencoding=mp31", 
+            "name": "Voir Autrement"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709252&streamencoding=mp31", 
+            "name": "Ombre et Lumi\u00e8re"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709255&streamencoding=mp31", 
+            "name": "Comme le temps"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709264&streamencoding=mp31", 
+            "name": "Mouvement Celeste"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82736"
+}

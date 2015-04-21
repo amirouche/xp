@@ -1,0 +1,64 @@
+{
+    "name": "Svario 2.0", 
+    "artist": "L.A. Funky Simia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81331&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697369&streamencoding=mp31", 
+            "name": "Shami kabob inna jam"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697368&streamencoding=mp31", 
+            "name": "Muori"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697374&streamencoding=mp31", 
+            "name": "Ekelora 2.0"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697375&streamencoding=mp31", 
+            "name": "Inda L"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697376&streamencoding=mp31", 
+            "name": "The backstabber"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697370&streamencoding=mp31", 
+            "name": "The newest guy in town"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697377&streamencoding=mp31", 
+            "name": "Cocaine blues"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697372&streamencoding=mp31", 
+            "name": "Relativo"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697367&streamencoding=mp31", 
+            "name": "Detective squalo"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697373&streamencoding=mp31", 
+            "name": "Garden of sleaze feat. Tasha Hollywood"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697371&streamencoding=mp31", 
+            "name": "Synchro city"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81331"
+}

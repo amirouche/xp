@@ -1,0 +1,49 @@
+{
+    "name": "Hallucination Boulevard", 
+    "artist": "Gustnado", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86866&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=743305&streamencoding=mp31", 
+            "name": "Dustdevil"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=743313&streamencoding=mp31", 
+            "name": "The Golden Rush"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=743314&streamencoding=mp31", 
+            "name": "Sunshine Delirium"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=743315&streamencoding=mp31", 
+            "name": "Smell Of The Summer"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=743316&streamencoding=mp31", 
+            "name": "Setback In Treasure Island"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=743317&streamencoding=mp31", 
+            "name": "Gust Front Tornado"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=743318&streamencoding=mp31", 
+            "name": "Atlantic Avenue"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=743319&streamencoding=mp31", 
+            "name": "Terrible Sunburn"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86866"
+}

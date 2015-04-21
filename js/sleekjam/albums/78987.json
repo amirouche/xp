@@ -1,0 +1,64 @@
+{
+    "name": "TANGO - ARABIAN BRAT BOX", 
+    "artist": "Inc.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78987&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679720&streamencoding=mp31", 
+            "name": "INTROCISION"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679713&streamencoding=mp31", 
+            "name": "DERBY RACE SUBMISSION"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679719&streamencoding=mp31", 
+            "name": "ARABIAN BRAT BOX "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679709&streamencoding=mp31", 
+            "name": "GROSS FUNK SKETCH"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679723&streamencoding=mp31", 
+            "name": "CUT DA CLIT"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679712&streamencoding=mp31", 
+            "name": "TABLE"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679707&streamencoding=mp31", 
+            "name": "GWERE"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679714&streamencoding=mp31", 
+            "name": "HENNE"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679718&streamencoding=mp31", 
+            "name": "DOOM"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679722&streamencoding=mp31", 
+            "name": "SLEEPY"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679716&streamencoding=mp31", 
+            "name": "PRAYER END"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78987"
+}

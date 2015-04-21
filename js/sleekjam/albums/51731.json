@@ -1,0 +1,64 @@
+{
+    "name": "Ska Punk Moscow", 
+    "artist": "Distemper", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51731&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422155&streamencoding=mp31", 
+            "name": "the city is up till dawn"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422146&streamencoding=mp31", 
+            "name": "Jamaica"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422153&streamencoding=mp31", 
+            "name": "in the mirrors of my hope"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422154&streamencoding=mp31", 
+            "name": "all wonderful"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422148&streamencoding=mp31", 
+            "name": "why?!!!"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422150&streamencoding=mp31", 
+            "name": "was that love?"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422149&streamencoding=mp31", 
+            "name": "no racism - no problems"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422145&streamencoding=mp31", 
+            "name": "be careful - we can do what we want"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422147&streamencoding=mp31", 
+            "name": "incident"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422151&streamencoding=mp31", 
+            "name": "start with yourself"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422152&streamencoding=mp31", 
+            "name": "moscow reggae"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51731"
+}

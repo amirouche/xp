@@ -1,0 +1,29 @@
+{
+    "name": "Artilugios para abrir un cuento", 
+    "artist": "LaBarcaDeSua", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6596&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=74269&streamencoding=mp31", 
+            "name": "Humphrey y Nuria"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=74270&streamencoding=mp31", 
+            "name": "Son de ma\u00edz"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=74271&streamencoding=mp31", 
+            "name": "Ni pensarte"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=74272&streamencoding=mp31", 
+            "name": "Zaid\u00edn"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6596"
+}

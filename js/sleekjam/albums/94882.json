@@ -1,0 +1,89 @@
+{
+    "name": "Hardcore Scm Mixed - Drum and Bass", 
+    "artist": "Hardcore Scm", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94882&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812257&streamencoding=mp31", 
+            "name": "Track 01 - Hardcore Scm - Midnight"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812244&streamencoding=mp31", 
+            "name": "Track 02 - Hardcore Scm - Roraima"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812248&streamencoding=mp31", 
+            "name": "Track 03 - Hardcore Scm - Butterfly"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812253&streamencoding=mp31", 
+            "name": "Track 04 - Hardcore Scm - 303 Amen"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812242&streamencoding=mp31", 
+            "name": "Track 05 - Hardcore Scm - Europa"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812246&streamencoding=mp31", 
+            "name": "Track 06 - Hardcore Scm - Showdown"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812251&streamencoding=mp31", 
+            "name": "Track 07 - Hardcore Scm - Remember Me"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812256&streamencoding=mp31", 
+            "name": "Track 08 - Hardcore Scm - Iron"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812243&streamencoding=mp31", 
+            "name": "Track 09 - Hardcore Scm - Professionalism"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812250&streamencoding=mp31", 
+            "name": "Track 10 - Hardcore Scm - Humanity"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812247&streamencoding=mp31", 
+            "name": "Track 11 - Hardcore Scm - Bodiless"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812245&streamencoding=mp31", 
+            "name": "Track 12 - Hardcore Scm - Book of Days"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812252&streamencoding=mp31", 
+            "name": "Track 13 - Hardcore Scm - Messages"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812255&streamencoding=mp31", 
+            "name": "Track 14 - Hardcore Scm - Steam"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812249&streamencoding=mp31", 
+            "name": "Track 15 - Hardcore Scm - Old Yeller"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812254&streamencoding=mp31", 
+            "name": "Track 16 - Hardcore Scm - Dank"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94882"
+}

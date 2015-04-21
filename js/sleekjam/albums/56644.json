@@ -1,0 +1,74 @@
+{
+    "name": "\u0433\u0438\u043f\u043d\u043e\u044d\u043f\u0430\u0442\u0430\u0436", 
+    "artist": "[\u043a\u043e\u043c\u0430]", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56644&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=476923&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=476925&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - in a dream"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=476938&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - \u0432\u044b\u0441\u0442\u0440\u0435\u043b"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477078&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - \u0430\u043a\u0442\u0440\u0438\u0441\u0430"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477113&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - the violet tram has gone"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480373&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - spring wind"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480382&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - a little girl in red dress"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480384&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - breath"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480392&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - \u0441\u0432\u043e\u0431\u043e\u0434\u0430"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480399&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - trip"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480400&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - \u043f\u0443\u0441\u0442\u043e\u0442\u0430"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480402&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - \u0432\u0440\u0435\u043c\u044f \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u043e\u0441\u044c"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480404&streamencoding=mp31", 
+            "name": "[\u043a\u043e\u043c\u0430] - outro (7 \u0441\u0435\u043a\u0443\u043d\u0434)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "56644"
+}

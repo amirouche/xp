@@ -1,0 +1,34 @@
+{
+    "name": "Industrial Machine", 
+    "artist": "Gera Zim Zum", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113410&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964457&streamencoding=mp31", 
+            "name": "Gera Zim Zum - Errorize (Original Mix)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964455&streamencoding=mp31", 
+            "name": "Gera Zim Zum - The Cubix Moment (Original Mix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964454&streamencoding=mp31", 
+            "name": "Gera Zim Zum - Industrial Climax (Original Mix)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964458&streamencoding=mp31", 
+            "name": "Gera Zim Zum - Praying (Original Mix)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964456&streamencoding=mp31", 
+            "name": "Gera Zim Zum - Industrial Machine (Original Mix)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113410"
+}

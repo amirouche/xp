@@ -1,0 +1,29 @@
+{
+    "name": "Traveler", 
+    "artist": "A Field of Blue", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133951&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121170&streamencoding=mp31", 
+            "name": "That Night in South Miami"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121169&streamencoding=mp31", 
+            "name": "Expanding Minds"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121168&streamencoding=mp31", 
+            "name": "Overton's Basement"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121167&streamencoding=mp31", 
+            "name": "Imagined Rock God"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133951"
+}

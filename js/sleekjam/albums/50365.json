@@ -1,0 +1,24 @@
+{
+    "name": "BeBe", 
+    "artist": "Beatriz Bessa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50365&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=404395&streamencoding=mp31", 
+            "name": "paisagem"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=404396&streamencoding=mp31", 
+            "name": "ana girasssol"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=404433&streamencoding=mp31", 
+            "name": "calango da saudade"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50365"
+}

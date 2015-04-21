@@ -1,0 +1,29 @@
+{
+    "name": "Kill Human//Kill Human", 
+    "artist": "Male Enhancement", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74224&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=640903&streamencoding=mp31", 
+            "name": "A Fool And His Money Will Soon Be Partying//If You're Gonna Ride My Ass, Then At Least Pull My Hair"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=640905&streamencoding=mp31", 
+            "name": "Hell Was Full So I Came Back//Peace: Learn To Live In It Or Rest In It"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=640904&streamencoding=mp31", 
+            "name": "If You Don't Stand Behind Our Troops Then Stand In Front of Them//Horn Broken, Watch For Finger"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=640902&streamencoding=mp31", 
+            "name": "I Say We Fish Five Days A Week And Work Two//My Other Auto Is A .38 Special"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74224"
+}

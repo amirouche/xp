@@ -1,0 +1,84 @@
+{
+    "name": "The Freakout Tent", 
+    "artist": "Tab", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63792&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547905&streamencoding=mp31", 
+            "name": "The Freakout Tent"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547913&streamencoding=mp31", 
+            "name": "The Excess"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547914&streamencoding=mp31", 
+            "name": "Night Life"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547916&streamencoding=mp31", 
+            "name": "Music Theory"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547917&streamencoding=mp31", 
+            "name": "Air"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547918&streamencoding=mp31", 
+            "name": "Yes Yes Yall"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547919&streamencoding=mp31", 
+            "name": "Channel Surf"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547920&streamencoding=mp31", 
+            "name": "Ruffin Feathers"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547921&streamencoding=mp31", 
+            "name": "Clockwork"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547922&streamencoding=mp31", 
+            "name": "ChopCity"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547923&streamencoding=mp31", 
+            "name": "Dreams"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547924&streamencoding=mp31", 
+            "name": "Moderate Stimulation"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547925&streamencoding=mp31", 
+            "name": "The Life Aquatic"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547926&streamencoding=mp31", 
+            "name": "Fantom"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547927&streamencoding=mp31", 
+            "name": "Sinister Psyche"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63792"
+}

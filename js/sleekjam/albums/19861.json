@@ -1,0 +1,84 @@
+{
+    "name": "Souvenirs d'un oc\u00e9an disparu", 
+    "artist": "Benjamin Grassineau", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19861&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138873&streamencoding=mp31", 
+            "name": "1. Ce ne sont pas vos souvenirs ce sont de quelqun dautre"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138876&streamencoding=mp31", 
+            "name": "2. Canon du cr\u00e9puscule"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138878&streamencoding=mp31", 
+            "name": "3. R\u00e9volution"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138880&streamencoding=mp31", 
+            "name": "4. Amour imparfait"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138883&streamencoding=mp31", 
+            "name": "5.Arrachement de coeur"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138886&streamencoding=mp31", 
+            "name": "6. What are the people talking about"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138889&streamencoding=mp31", 
+            "name": "7.Extra-Ketchup"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138891&streamencoding=mp31", 
+            "name": "8. Infini"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138893&streamencoding=mp31", 
+            "name": "9. Oc\u00e9an Pacifique"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138899&streamencoding=mp31", 
+            "name": "10. Terminus"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138902&streamencoding=mp31", 
+            "name": "11. Musique primitive"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138904&streamencoding=mp31", 
+            "name": "12. Radio Londres - 2297"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138906&streamencoding=mp31", 
+            "name": "13. Reproduction"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138909&streamencoding=mp31", 
+            "name": "14. Tempete bretonne"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138931&streamencoding=mp31", 
+            "name": "15. Oc\u00e9an Pacifique (instru)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19861"
+}

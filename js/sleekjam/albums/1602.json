@@ -1,0 +1,39 @@
+{
+    "name": "Le 3eme Homme", 
+    "artist": "Hasch'm'M\u00e9neum", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=1602&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10861&streamencoding=mp31", 
+            "name": "Graillon d'humeur"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10866&streamencoding=mp31", 
+            "name": "Christ\u00e9rium"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10870&streamencoding=mp31", 
+            "name": "Mirage"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10873&streamencoding=mp31", 
+            "name": "Mobylette"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10876&streamencoding=mp31", 
+            "name": "4#nication"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10879&streamencoding=mp31", 
+            "name": "Drums"
+        }
+    ], 
+    "release": "2006", 
+    "id": "1602"
+}

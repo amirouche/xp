@@ -1,0 +1,24 @@
+{
+    "name": "Sonidos Oscuros", 
+    "artist": "Guibernau", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98021&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=837963&streamencoding=mp31", 
+            "name": "El Lobo Estepario. Herman Hesse"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=837974&streamencoding=mp31", 
+            "name": "Un Artista del Hambre. Franz Kafka"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=838067&streamencoding=mp31", 
+            "name": "La Gallina degollada. Horacio Quiroga"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98021"
+}

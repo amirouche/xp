@@ -1,0 +1,69 @@
+{
+    "name": "Vientos de tierra de vientos", 
+    "artist": "Edgardo Civallero", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58520&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499595&streamencoding=mp31", 
+            "name": "Tierra de vientos"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499596&streamencoding=mp31", 
+            "name": "Lucero del alba"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499597&streamencoding=mp31", 
+            "name": "Akulliku"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499598&streamencoding=mp31", 
+            "name": "Cae la noche, sopla el viento"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499668&streamencoding=mp31", 
+            "name": "La cigarra"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499674&streamencoding=mp31", 
+            "name": "Seleccion de huaynos"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499675&streamencoding=mp31", 
+            "name": "Alma aymara"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499676&streamencoding=mp31", 
+            "name": "Ecuadormanta"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499716&streamencoding=mp31", 
+            "name": "Lluvia en la puna"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499717&streamencoding=mp31", 
+            "name": "Morenadas"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499718&streamencoding=mp31", 
+            "name": "Flor de Mami\u00f1a"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499719&streamencoding=mp31", 
+            "name": "Jamas"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58520"
+}

@@ -1,0 +1,89 @@
+{
+    "name": "A Collection Of Songs & Stories By \u767d\u8056\u4ec1", 
+    "artist": "\u767d\u8056\u4ec1", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117994&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002645&streamencoding=mp31", 
+            "name": "A Warm Welcome By \u767d\u8056\u4ec1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002652&streamencoding=mp31", 
+            "name": "\u0535\u057d \u0578\u0582\u0566\u0578\u0582\u0574 \u0565\u0574 \u0584\u0576\u0565\u056c \u056e\u0578\u057e\u056b"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002659&streamencoding=mp31", 
+            "name": "The Countryside Of Northamptonshire"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002654&streamencoding=mp31", 
+            "name": "A (Long) Natter About Tea"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002649&streamencoding=mp31", 
+            "name": "English Autumn Song"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002647&streamencoding=mp31", 
+            "name": "Dignity"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002655&streamencoding=mp31", 
+            "name": "Reminiscing/My Cousin Ben"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002643&streamencoding=mp31", 
+            "name": "Thoughts By The Yellow River"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002646&streamencoding=mp31", 
+            "name": "Any Excuse For A Cup Of Tea"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002648&streamencoding=mp31", 
+            "name": "Drunken Intermission"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002650&streamencoding=mp31", 
+            "name": "For Paul (Claire, You're Just Too Slow)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002642&streamencoding=mp31", 
+            "name": "Theres Always Time For Tea"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002653&streamencoding=mp31", 
+            "name": "Little Girl"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002651&streamencoding=mp31", 
+            "name": "Greenflower Turning North"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002656&streamencoding=mp31", 
+            "name": "The Boat Inn, Stoke Bruerne"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002658&streamencoding=mp31", 
+            "name": "The Jazz Night"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117994"
+}

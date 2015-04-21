@@ -1,0 +1,69 @@
+{
+    "name": "Obri la Llauna", 
+    "artist": "Aspencat", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59217&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505740&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505747&streamencoding=mp31", 
+            "name": "Crida"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505744&streamencoding=mp31", 
+            "name": "Res a perdre"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505741&streamencoding=mp31", 
+            "name": "Xiqueta dol\u00e7a"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505738&streamencoding=mp31", 
+            "name": "Temps"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505748&streamencoding=mp31", 
+            "name": "Balla la melodia"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505745&streamencoding=mp31", 
+            "name": "Novembre"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505742&streamencoding=mp31", 
+            "name": "On estan"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505739&streamencoding=mp31", 
+            "name": "Ciutad\u00e0 passiu"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505743&streamencoding=mp31", 
+            "name": "A passes de gegant (remix)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505746&streamencoding=mp31", 
+            "name": "Tu creus (versi\u00f3 de Paco Mu\u00f1oz)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505749&streamencoding=mp31", 
+            "name": "Conectant (bonus track) "
+        }
+    ], 
+    "release": "2010", 
+    "id": "59217"
+}

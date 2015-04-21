@@ -1,0 +1,69 @@
+{
+    "name": "Sounds of Storm", 
+    "artist": "Hammer of Witches", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61974&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=531150&streamencoding=mp31", 
+            "name": "Welcome"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=531151&streamencoding=mp31", 
+            "name": "Death And Decay"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=531152&streamencoding=mp31", 
+            "name": "Martyr"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=531153&streamencoding=mp31", 
+            "name": "Infernal Sanctum"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=531156&streamencoding=mp31", 
+            "name": "When Darkness Devour The Light"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=531163&streamencoding=mp31", 
+            "name": "Supreme Satan"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=531165&streamencoding=mp31", 
+            "name": "Emperor Of Terror"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=531166&streamencoding=mp31", 
+            "name": "My Paranoid Dreams"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=531167&streamencoding=mp31", 
+            "name": "Open The Gates"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=531183&streamencoding=mp31", 
+            "name": "Universal Evil"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=531198&streamencoding=mp31", 
+            "name": "Spiritual  Invocation(Secrets Of Black Mess)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=531200&streamencoding=mp31", 
+            "name": "After Apocalypse"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61974"
+}

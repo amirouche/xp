@@ -1,0 +1,69 @@
+{
+    "name": "Mattaccio Live (2004)", 
+    "artist": "Loungerie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63540&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545534&streamencoding=mp31", 
+            "name": "Hopper Lounge"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545541&streamencoding=mp31", 
+            "name": "Cubanga"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545532&streamencoding=mp31", 
+            "name": "Buddhabar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545538&streamencoding=mp31", 
+            "name": "Acquaragia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545533&streamencoding=mp31", 
+            "name": "Fumo blu"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545539&streamencoding=mp31", 
+            "name": "Bloody Ieri"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545540&streamencoding=mp31", 
+            "name": "Kappatango"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545536&streamencoding=mp31", 
+            "name": "Billie Holiday"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545535&streamencoding=mp31", 
+            "name": "Liquirizia"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545531&streamencoding=mp31", 
+            "name": "Popolare"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545542&streamencoding=mp31", 
+            "name": "L'amore \u00e8 tutto qui_(omaggio a Piero Ciampi)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545621&streamencoding=mp31", 
+            "name": "Tartiflette"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63540"
+}

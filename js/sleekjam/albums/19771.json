@@ -1,0 +1,44 @@
+{
+    "name": "TAG - Patchwork", 
+    "artist": "TAG", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19771&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138357&streamencoding=mp31", 
+            "name": "Hasta Siempre"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138364&streamencoding=mp31", 
+            "name": "Soledad"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138365&streamencoding=mp31", 
+            "name": "Brasil fusion"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138366&streamencoding=mp31", 
+            "name": "Gipsy dance"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138367&streamencoding=mp31", 
+            "name": "Groove generator"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138368&streamencoding=mp31", 
+            "name": "Indian"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138369&streamencoding=mp31", 
+            "name": "Magic moove"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19771"
+}

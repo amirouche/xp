@@ -1,0 +1,64 @@
+{
+    "name": "Le bruit de la chemin\u00e9e", 
+    "artist": "Glandul", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35168&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242190&streamencoding=mp31", 
+            "name": "Blue Choux Blues"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242205&streamencoding=mp31", 
+            "name": "Le Y\u00e9ti"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242199&streamencoding=mp31", 
+            "name": "La Soci\u00e9t\u00e9 D\u00e9mocratique"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242203&streamencoding=mp31", 
+            "name": "Coup de Barre"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242206&streamencoding=mp31", 
+            "name": "Interb\u00e8te"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242217&streamencoding=mp31", 
+            "name": "Bonjour Gros Con"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242226&streamencoding=mp31", 
+            "name": "L'\u00e9cole Suce"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242227&streamencoding=mp31", 
+            "name": "Bernard"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242191&streamencoding=mp31", 
+            "name": "Le Longboard"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242209&streamencoding=mp31", 
+            "name": "Ayumi"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242216&streamencoding=mp31", 
+            "name": "La Vague"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35168"
+}

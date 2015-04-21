@@ -1,0 +1,74 @@
+{
+    "name": "Down in the Swamp - Vol.3", 
+    "artist": "Teen Spirit", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117467&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998472&streamencoding=mp31", 
+            "name": "Another thing"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998473&streamencoding=mp31", 
+            "name": "Cage for rats"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998461&streamencoding=mp31", 
+            "name": "Engraved"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998462&streamencoding=mp31", 
+            "name": "Just another wake"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998463&streamencoding=mp31", 
+            "name": "My fate"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998464&streamencoding=mp31", 
+            "name": "Out of the game"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998465&streamencoding=mp31", 
+            "name": "Revenge"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998466&streamencoding=mp31", 
+            "name": "Shameless"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998467&streamencoding=mp31", 
+            "name": "Take a shower"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998468&streamencoding=mp31", 
+            "name": "Time to admit"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998469&streamencoding=mp31", 
+            "name": "Underpaid"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998470&streamencoding=mp31", 
+            "name": "Wanted"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=998471&streamencoding=mp31", 
+            "name": "Without a cloud"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117467"
+}

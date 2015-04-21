@@ -1,0 +1,39 @@
+{
+    "name": "Beieinander sein", 
+    "artist": "Purpurea", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=127471&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072863&streamencoding=mp31", 
+            "name": "Beieinander sein"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072862&streamencoding=mp31", 
+            "name": "Komm bei mich bei"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072864&streamencoding=mp31", 
+            "name": "Chor sing mit"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072865&streamencoding=mp31", 
+            "name": "Dusche am Morgen"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072866&streamencoding=mp31", 
+            "name": "Andacht"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072867&streamencoding=mp31", 
+            "name": "Sonntag in der Fr\u00fche"
+        }
+    ], 
+    "release": "2013", 
+    "id": "127471"
+}

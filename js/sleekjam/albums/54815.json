@@ -1,0 +1,34 @@
+{
+    "name": "DELKO 3.0", 
+    "artist": "Delko", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54815&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459378&streamencoding=mp31", 
+            "name": "Vortsex"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459466&streamencoding=mp31", 
+            "name": "BCL Bureau des Conf\u00e9d\u00e9rations Nihilistes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459380&streamencoding=mp31", 
+            "name": "L'ile du Docteur Chow Tset"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459381&streamencoding=mp31", 
+            "name": "Insatiable Kimberley"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459382&streamencoding=mp31", 
+            "name": "Mamouth"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54815"
+}

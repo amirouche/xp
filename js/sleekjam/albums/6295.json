@@ -1,0 +1,44 @@
+{
+    "name": "Take a breath", 
+    "artist": "Mike Verstu", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6295&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62745&streamencoding=mp31", 
+            "name": "Oversea"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62746&streamencoding=mp31", 
+            "name": "Relax"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62747&streamencoding=mp31", 
+            "name": "Secret Zero"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62748&streamencoding=mp31", 
+            "name": "Sound Module"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62749&streamencoding=mp31", 
+            "name": "The Last"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62750&streamencoding=mp31", 
+            "name": "Twoj Kin"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62751&streamencoding=mp31", 
+            "name": "Your Angel"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6295"
+}

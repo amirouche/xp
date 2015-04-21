@@ -1,0 +1,59 @@
+{
+    "name": "Sublimated", 
+    "artist": "RENUEN", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110491&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940652&streamencoding=mp31", 
+            "name": "Dethinformation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940651&streamencoding=mp31", 
+            "name": "Nightmare on Your Street"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940648&streamencoding=mp31", 
+            "name": "Bitter Tears"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940656&streamencoding=mp31", 
+            "name": "Dance With The Devil"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940647&streamencoding=mp31", 
+            "name": "Frozen Glance"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940653&streamencoding=mp31", 
+            "name": "Awaken"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940649&streamencoding=mp31", 
+            "name": "Between Flesh And Soul"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940654&streamencoding=mp31", 
+            "name": "Distorted Reality"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940655&streamencoding=mp31", 
+            "name": "Virtual Suicide"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940650&streamencoding=mp31", 
+            "name": "Misplaced In The Past"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110491"
+}

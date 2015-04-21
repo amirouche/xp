@@ -1,0 +1,49 @@
+{
+    "name": "Demo Los Cadaver ", 
+    "artist": "Los Cadaver", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36365&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253232&streamencoding=mp31", 
+            "name": "Terror en la Bahia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253235&streamencoding=mp31", 
+            "name": "Elastica"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253241&streamencoding=mp31", 
+            "name": "Bailame Nena!"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253242&streamencoding=mp31", 
+            "name": "Bandidos"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253260&streamencoding=mp31", 
+            "name": "Cigarrillo en la Playa"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253266&streamencoding=mp31", 
+            "name": "Rock\u00b4n\u00b4Corpse"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253267&streamencoding=mp31", 
+            "name": "Crimen Espacial"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253270&streamencoding=mp31", 
+            "name": "Viaje Misterioso"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36365"
+}

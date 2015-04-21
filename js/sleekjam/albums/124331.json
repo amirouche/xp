@@ -1,0 +1,59 @@
+{
+    "name": "Greece- Thessaloniki", 
+    "artist": "ANTONIS THALASSINOS-SALONIKI-GREECE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124331&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054738&streamencoding=mp31", 
+            "name": "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03bf \u03bc\u03bf\u03c5 \u03b2\u03bb\u03b5\u03bc\u03b1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054740&streamencoding=mp31", 
+            "name": "\u0394\u03b5 \u03c0\u03b1\u03c9 \u03c3\u03c4\u03b7 \u03b4\u03bf\u03c5\u03bb\u03b5\u03b9\u03b1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054739&streamencoding=mp31", 
+            "name": "\u0393\u03c5\u03c6\u03c4\u03b9\u03c3\u03c3\u03b1 \u03c8\u03c5\u03c7\u03b7"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054741&streamencoding=mp31", 
+            "name": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03b7 \u03b1\u03bd\u03b5\u03c1\u03b1\u03c3\u03c4\u03b7"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054742&streamencoding=mp31", 
+            "name": "\u03a3\u03b1\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b1\u03b5\u03b9"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054743&streamencoding=mp31", 
+            "name": "\u03a4\u03b1 \u03c3\u03c4\u03b9\u03c7\u03b1\u03ba\u03b9\u03b1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054744&streamencoding=mp31", 
+            "name": "\u03a4\u03bf \u03b4\u03c1\u03bf\u03bc\u03bf \u03bc\u03bf\u03c5 \u03b2\u03b1\u03b4\u03b9\u03b6\u03c9"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054747&streamencoding=mp31", 
+            "name": "\u03a3\u03c4\u03bf \u039d\u03b9\u03ba\u03bf\u03bb\u03b1 \u0391\u03c3\u03b9\u03bc\u03bf"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054745&streamencoding=mp31", 
+            "name": "\u03a4\u03bf \u03b6\u03b5\u03b9\u03bc\u03c0\u03b5\u03ba\u03b9\u03ba\u03bf \u03c4\u03b7\u03c2 \u0391\u03c1\u03b9\u03b1\u03b4\u03bd\u03b7\u03c2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054746&streamencoding=mp31", 
+            "name": "\u03a7\u03b1\u03c3\u03b9\u03c2"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124331"
+}

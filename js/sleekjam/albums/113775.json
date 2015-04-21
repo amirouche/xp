@@ -1,0 +1,54 @@
+{
+    "name": "WE Play You Skank", 
+    "artist": "WEPYS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113775&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967150&streamencoding=mp31", 
+            "name": "Meet These Guys"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967151&streamencoding=mp31", 
+            "name": "Mermaid Parade"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967152&streamencoding=mp31", 
+            "name": "Put Off Fire"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967153&streamencoding=mp31", 
+            "name": "Thinkin'"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967154&streamencoding=mp31", 
+            "name": "BubbleGum Life"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967155&streamencoding=mp31", 
+            "name": "Schmuck"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967156&streamencoding=mp31", 
+            "name": "Equilibrium"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967148&streamencoding=mp31", 
+            "name": "Circle's Member"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967149&streamencoding=mp31", 
+            "name": "Love is a Bitch"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113775"
+}

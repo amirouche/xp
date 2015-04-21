@@ -1,0 +1,44 @@
+{
+    "name": "BooGieS", 
+    "artist": "Franck Camu", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20073&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140516&streamencoding=mp31", 
+            "name": "Boogie Ballot"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140528&streamencoding=mp31", 
+            "name": "Arretez La Musique"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140529&streamencoding=mp31", 
+            "name": "Doctor JLH"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140530&streamencoding=mp31", 
+            "name": "Un Mot Sur La Table"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140531&streamencoding=mp31", 
+            "name": "Eglantine"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140527&streamencoding=mp31", 
+            "name": "Ou Es-Tu"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140515&streamencoding=mp31", 
+            "name": "Glucose"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20073"
+}

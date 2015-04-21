@@ -1,0 +1,39 @@
+{
+    "name": "Africa", 
+    "artist": "Denis RICHARD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8526&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87980&streamencoding=mp31", 
+            "name": "01 Varius (dans ma Savane)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87981&streamencoding=mp31", 
+            "name": "02 Caravelius (l'eau c'est la vie)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87997&streamencoding=mp31", 
+            "name": "03 Africa 1 (le r\u00eave de la Mer)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87998&streamencoding=mp31", 
+            "name": "04 Ne Medohounkou (\u00e0 GreAnDe)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87999&streamencoding=mp31", 
+            "name": "05 Gibus (le Singe)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88000&streamencoding=mp31", 
+            "name": "06 Africa 2 (les Enfants)"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8526"
+}

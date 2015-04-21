@@ -1,0 +1,24 @@
+{
+    "name": "Dark vs Light", 
+    "artist": "DigitalSin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37653&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264046&streamencoding=mp31", 
+            "name": "Dark vs Light (Darkness OZD - ADC Level)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264047&streamencoding=mp31", 
+            "name": "Nymph On The Floor - Light Version (Darkness OZD - ADC Level)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264048&streamencoding=mp31", 
+            "name": "Noise On The Floor - Dark Version (Darkness OZD - ADC Level)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37653"
+}

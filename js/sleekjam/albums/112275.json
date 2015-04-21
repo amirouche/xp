@@ -1,0 +1,59 @@
+{
+    "name": "Hier und am Leben", 
+    "artist": "Soul in Sadness", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112275&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954909&streamencoding=mp31", 
+            "name": "End of Miseries 2012"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954918&streamencoding=mp31", 
+            "name": "Spiel des Lebens 2012"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954917&streamencoding=mp31", 
+            "name": "Obsession (Mystery called love 3.0)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954916&streamencoding=mp31", 
+            "name": "From Heaven"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954915&streamencoding=mp31", 
+            "name": "Burning the Sad Souls 2012"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954914&streamencoding=mp31", 
+            "name": "Kiss of Death 2005"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954910&streamencoding=mp31", 
+            "name": "Bright Side of Darkness 2009"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954911&streamencoding=mp31", 
+            "name": "Obsession (touched by proxy_view)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954912&streamencoding=mp31", 
+            "name": "Menschlichkeit (touched by proxy_view)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954913&streamencoding=mp31", 
+            "name": "Fernweh (Out of Munich Remix)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112275"
+}

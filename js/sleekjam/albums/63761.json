@@ -1,0 +1,54 @@
+{
+    "name": "Maze of Time (Full)", 
+    "artist": "Astras", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63761&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547572&streamencoding=mp31", 
+            "name": "Guardian of Danger"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547573&streamencoding=mp31", 
+            "name": "The Incredible Light"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547574&streamencoding=mp31", 
+            "name": "Tears from Paradise"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547575&streamencoding=mp31", 
+            "name": "Maze of Time"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547576&streamencoding=mp31", 
+            "name": "Born to Fly"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547577&streamencoding=mp31", 
+            "name": "Dark Minds"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547578&streamencoding=mp31", 
+            "name": "First Blood "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547579&streamencoding=mp31", 
+            "name": "Flashback"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547580&streamencoding=mp31", 
+            "name": "The Secret of Laedyan"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63761"
+}

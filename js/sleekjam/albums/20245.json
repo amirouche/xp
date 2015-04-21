@@ -1,0 +1,34 @@
+{
+    "name": "PAROLES DE FEMMES  volume.1  by LIGHT UP CREATION MUSIC", 
+    "artist": "LIGHT UP CREATION MUSIC ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20245&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141655&streamencoding=mp31", 
+            "name": "PAROLES DE FEMMES Vol.1 PROMOMIX"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141656&streamencoding=mp31", 
+            "name": "Dasoul & Netna & NiceA & Laety-La co-naissance-PAROLES  DE FEMMES VOL.1-(sound boy riddim)-LIGHT UP CREATION MUSIC-2008"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141657&streamencoding=mp31", 
+            "name": "Sista Fabiola-Endangered species-PAROLES DE FEMMES VOL.1-(sunshine riddim)-LIGHT UP CREATION MUSIC-2008"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141658&streamencoding=mp31", 
+            "name": "Phenomenal sisters & Queen I cecile-An lo pal\u00e9-PAROLES DE FEMMES VOL.1-(opinion riddim)-LIGHT UP CREATION MUSIC-2008"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141659&streamencoding=mp31", 
+            "name": "Sista LD-Guidance & protection-PAROLES DE FEMMES VOL.1-(love groove riddim)-LIGHT UP CREATION MUSIC-2008"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20245"
+}

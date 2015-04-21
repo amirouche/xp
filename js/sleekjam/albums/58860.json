@@ -1,0 +1,14 @@
+{
+    "name": "Little Rosey", 
+    "artist": "Blue Millenium", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58860&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=502613&streamencoding=mp31", 
+            "name": "Little Rosey"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58860"
+}

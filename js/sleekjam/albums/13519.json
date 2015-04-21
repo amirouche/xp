@@ -1,0 +1,54 @@
+{
+    "name": "Brain Stimulant", 
+    "artist": "DWARPH", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13519&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109916&streamencoding=mp31", 
+            "name": "01_100 E"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109917&streamencoding=mp31", 
+            "name": "02_23h30"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109918&streamencoding=mp31", 
+            "name": "03_Le Retour de Vendetaz"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109919&streamencoding=mp31", 
+            "name": "04_DubStyle"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109920&streamencoding=mp31", 
+            "name": "05_Skit_Martian"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109933&streamencoding=mp31", 
+            "name": "06_Martian beat"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109935&streamencoding=mp31", 
+            "name": "12_Outro Titan"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109936&streamencoding=mp31", 
+            "name": "funky party"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=109937&streamencoding=mp31", 
+            "name": "skapart"
+        }
+    ], 
+    "release": "2007", 
+    "id": "13519"
+}

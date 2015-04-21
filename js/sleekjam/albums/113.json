@@ -1,0 +1,69 @@
+{
+    "name": "12 Petits Chants", 
+    "artist": "Le P'tit Jean", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665&streamencoding=mp31", 
+            "name": "La Marchande de foie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666&streamencoding=mp31", 
+            "name": "Chanson hebdomadaire"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667&streamencoding=mp31", 
+            "name": "La pauvre enfant"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668&streamencoding=mp31", 
+            "name": "Des vacances comme \u00e7a..."
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=669&streamencoding=mp31", 
+            "name": "4 Saisons"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670&streamencoding=mp31", 
+            "name": "Chanson porno"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671&streamencoding=mp31", 
+            "name": "La galette des rois"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672&streamencoding=mp31", 
+            "name": "Chacun son truc"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=673&streamencoding=mp31", 
+            "name": "Le silence"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674&streamencoding=mp31", 
+            "name": "Paris"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675&streamencoding=mp31", 
+            "name": "Les conciliabules"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=676&streamencoding=mp31", 
+            "name": "Joli mois de mai"
+        }
+    ], 
+    "release": "2005", 
+    "id": "113"
+}

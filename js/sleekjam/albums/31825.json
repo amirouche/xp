@@ -1,0 +1,79 @@
+{
+    "name": "Cumming soon EP", 
+    "artist": "That Crooner from Nowhere", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31825&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216593&streamencoding=mp31", 
+            "name": "ToastedSushiBar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216594&streamencoding=mp31", 
+            "name": "TheHudsuckerwon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216595&streamencoding=mp31", 
+            "name": "Gimmesomethingnice"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216596&streamencoding=mp31", 
+            "name": "intermezzo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216640&streamencoding=mp31", 
+            "name": "Yourshitisonmilkyoushitonme"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216598&streamencoding=mp31", 
+            "name": "HipstersloveOysters"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216599&streamencoding=mp31", 
+            "name": "HudsuckerisUnderPressure"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216600&streamencoding=mp31", 
+            "name": "Obtusedreamsofadeadrebel"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216601&streamencoding=mp31", 
+            "name": "Nulllyricalcontent"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216603&streamencoding=mp31", 
+            "name": "TheHudsuckerislost"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216605&streamencoding=mp31", 
+            "name": "NusratmeetsrumbafeaturingDjDaTosta"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216604&streamencoding=mp31", 
+            "name": "GastricJuiceandFalafel"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216606&streamencoding=mp31", 
+            "name": "OtherVoicesOtherRooms"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=216607&streamencoding=mp31", 
+            "name": "FunkyOutro"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31825"
+}

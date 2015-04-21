@@ -1,0 +1,74 @@
+{
+    "name": "; ", 
+    "artist": "Wolfwetz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81695&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700669&streamencoding=mp31", 
+            "name": "Erstes St\u00fcck"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700659&streamencoding=mp31", 
+            "name": "Ginger"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700668&streamencoding=mp31", 
+            "name": "Braucht\u00fcm"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700658&streamencoding=mp31", 
+            "name": "Beulenwald"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700667&streamencoding=mp31", 
+            "name": "Es br\u00f6ckelt"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700664&streamencoding=mp31", 
+            "name": "Breschevor"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700660&streamencoding=mp31", 
+            "name": "Red Sparrow"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700661&streamencoding=mp31", 
+            "name": "Pianoteppich"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700665&streamencoding=mp31", 
+            "name": "Schrillschreck"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700662&streamencoding=mp31", 
+            "name": "Geziefer (Wolfwetz versus Poetro Version)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700670&streamencoding=mp31", 
+            "name": "Kauderwelt (Wolfwetz versus Poetro Version)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700666&streamencoding=mp31", 
+            "name": "Unter Kr\u00e4mpfen zu tanzen (der.brandt Remix)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700663&streamencoding=mp31", 
+            "name": "In Nachbars Garten (der.brandt Remix)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81695"
+}

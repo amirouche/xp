@@ -1,0 +1,14 @@
+{
+    "name": "Cool walk (single)", 
+    "artist": "The fixer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37100&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259029&streamencoding=mp31", 
+            "name": "cool walk"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37100"
+}

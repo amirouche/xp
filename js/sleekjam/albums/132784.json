@@ -1,0 +1,44 @@
+{
+    "name": "Voyager (the lost demos)", 
+    "artist": "Yvalain", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132784&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111782&streamencoding=mp31", 
+            "name": "Tou T'Chin Yu (original demo)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111780&streamencoding=mp31", 
+            "name": "Healing Broken Wings (original demo)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111778&streamencoding=mp31", 
+            "name": "Voyager (Middle and Grand Finale demo)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111776&streamencoding=mp31", 
+            "name": "Losing Control (the original song)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111779&streamencoding=mp31", 
+            "name": "French Love (alternate version)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111781&streamencoding=mp31", 
+            "name": "Voyager (original analog version)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111777&streamencoding=mp31", 
+            "name": "Un Ange Dort (ft. Karine Tharreau)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132784"
+}

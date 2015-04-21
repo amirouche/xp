@@ -1,0 +1,64 @@
+{
+    "name": "Complexis Media", 
+    "artist": "Eftos-Trilogie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112069&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953194&streamencoding=mp31", 
+            "name": "Periheldilatation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953195&streamencoding=mp31", 
+            "name": "Tensoriell"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953196&streamencoding=mp31", 
+            "name": "Infinitesimal"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953197&streamencoding=mp31", 
+            "name": "Complementaris"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953198&streamencoding=mp31", 
+            "name": "Approximation"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953199&streamencoding=mp31", 
+            "name": "Radial Transmission"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953200&streamencoding=mp31", 
+            "name": "Complexis Media"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953201&streamencoding=mp31", 
+            "name": "Complexis Vision"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953202&streamencoding=mp31", 
+            "name": "Chromoetrie"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953203&streamencoding=mp31", 
+            "name": "Mysterium Etam"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953204&streamencoding=mp31", 
+            "name": "Axis of Structure"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112069"
+}

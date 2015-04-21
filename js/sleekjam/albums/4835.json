@@ -1,0 +1,39 @@
+{
+    "name": "Poker party", 
+    "artist": "N\u00eeCO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4835&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39339&streamencoding=mp31", 
+            "name": "Long Distance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39344&streamencoding=mp31", 
+            "name": "Discution Dance"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39360&streamencoding=mp31", 
+            "name": "Hallucinations"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39366&streamencoding=mp31", 
+            "name": "Illusion of a soul"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39370&streamencoding=mp31", 
+            "name": "Innocent victime"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39388&streamencoding=mp31", 
+            "name": "Telephone a Samuel (feat samuel merisse)"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4835"
+}

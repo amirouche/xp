@@ -1,0 +1,14 @@
+{
+    "name": "No te detengas", 
+    "artist": "Gustavo Crochenci", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133805&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119695&streamencoding=mp31", 
+            "name": "No te detengas"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133805"
+}

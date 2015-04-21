@@ -1,0 +1,74 @@
+{
+    "name": "Deusto jaia -19/03/04-", 
+    "artist": "El Paso Killers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29742&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200228&streamencoding=mp31", 
+            "name": "Little Mendez"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200229&streamencoding=mp31", 
+            "name": "El Paso"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200230&streamencoding=mp31", 
+            "name": "Saigon"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200231&streamencoding=mp31", 
+            "name": "Get my peace"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200232&streamencoding=mp31", 
+            "name": "Piel"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200233&streamencoding=mp31", 
+            "name": "Perdido en el espacio"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200235&streamencoding=mp31", 
+            "name": "El barco de la locura (Folling down)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200236&streamencoding=mp31", 
+            "name": "El Paso Killers -Maniac (Michael Sambello cover)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200237&streamencoding=mp31", 
+            "name": "Mujeres asesinas"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200238&streamencoding=mp31", 
+            "name": "Rock 'n roll"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200239&streamencoding=mp31", 
+            "name": "Bastardos (cantado en 3 idiomas)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200241&streamencoding=mp31", 
+            "name": "100.000 wattios"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=200242&streamencoding=mp31", 
+            "name": "I wanna be sombody (WASP cover)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29742"
+}

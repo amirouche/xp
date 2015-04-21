@@ -1,0 +1,59 @@
+{
+    "name": "Zen Relaxation vol 3 : Melody of my Soul", 
+    "artist": "Alban Lepsy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114421&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972055&streamencoding=mp31", 
+            "name": "Sweetness "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972054&streamencoding=mp31", 
+            "name": "Hope "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972053&streamencoding=mp31", 
+            "name": "Melody of destiny"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972052&streamencoding=mp31", 
+            "name": "Far Away"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972051&streamencoding=mp31", 
+            "name": " Draw your soul"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972050&streamencoding=mp31", 
+            "name": " Bell & Heart"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972049&streamencoding=mp31", 
+            "name": "Universe in the belly"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972048&streamencoding=mp31", 
+            "name": "Harmony"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972047&streamencoding=mp31", 
+            "name": "The story Begins"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=972046&streamencoding=mp31", 
+            "name": " It's your time"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114421"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "\u041c\u0438\u0440 \u0447\u0435\u0440\u0435\u0437 \u0441\u0442\u0435\u043a\u043b\u043e", 
+    "artist": "\u0421\u043e\u043b\u044c \u0417\u0435\u043c\u043b\u0438", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54744&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458632&streamencoding=mp31", 
+            "name": "\u0426\u0432\u0435\u0442\u043d\u044b\u0435 \u0441\u0442\u0451\u043a\u043b\u0430"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458579&streamencoding=mp31", 
+            "name": "second instrumental"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458622&streamencoding=mp31", 
+            "name": "\u0420\u0430\u043d\u0435\u0435 \u0443\u0442\u0440\u043e"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458607&streamencoding=mp31", 
+            "name": "Zabava"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458586&streamencoding=mp31", 
+            "name": "\u0414\u043e\u0431\u0440\u043e \u0441 \u043a\u0443\u043b\u0430\u043a\u0430\u043c\u0438"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54744"
+}

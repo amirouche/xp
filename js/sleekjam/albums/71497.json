@@ -1,0 +1,64 @@
+{
+    "name": "The Takes", 
+    "artist": "Black Spring", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71497&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613943&streamencoding=mp31", 
+            "name": "Dracula"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613945&streamencoding=mp31", 
+            "name": "Take 136"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613950&streamencoding=mp31", 
+            "name": "Untitled"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613947&streamencoding=mp31", 
+            "name": "Take 178"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613948&streamencoding=mp31", 
+            "name": "Face Off"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613944&streamencoding=mp31", 
+            "name": "Inferno"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613940&streamencoding=mp31", 
+            "name": "Take 172"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613946&streamencoding=mp31", 
+            "name": "Control"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613941&streamencoding=mp31", 
+            "name": "Take 174"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613949&streamencoding=mp31", 
+            "name": "Specimen"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613942&streamencoding=mp31", 
+            "name": "Take 177"
+        }
+    ], 
+    "release": "2010", 
+    "id": "71497"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "The Great Dictator", 
+    "artist": "Chemical Waves", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111738&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950475&streamencoding=mp31", 
+            "name": "The Great Dictator"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950476&streamencoding=mp31", 
+            "name": "Haze"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950477&streamencoding=mp31", 
+            "name": "The Great Dictator (Ira-K Organisation Remix)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111738"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Entre Seine & Volcans", 
+    "artist": "GASNOPROD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2224&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15641&streamencoding=mp31", 
+            "name": "Bikhop"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15642&streamencoding=mp31", 
+            "name": "Brak 505"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15643&streamencoding=mp31", 
+            "name": "Diffrenet v2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15644&streamencoding=mp31", 
+            "name": "DoudbiZ"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15645&streamencoding=mp31", 
+            "name": "Ethnos"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15646&streamencoding=mp31", 
+            "name": "DubnOs"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15647&streamencoding=mp31", 
+            "name": "Feve 3"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15648&streamencoding=mp31", 
+            "name": "Fin Avril"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15649&streamencoding=mp31", 
+            "name": "Extrait / FunKdubct"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15650&streamencoding=mp31", 
+            "name": "No other way"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15651&streamencoding=mp31", 
+            "name": "Mars2000 v2"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15652&streamencoding=mp31", 
+            "name": "No routt's v2"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15653&streamencoding=mp31", 
+            "name": "Paris-Lorient"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=15654&streamencoding=mp31", 
+            "name": "Nos col\u00e8res 3"
+        }
+    ], 
+    "release": "2006", 
+    "id": "2224"
+}

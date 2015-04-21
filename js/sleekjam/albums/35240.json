@@ -1,0 +1,14 @@
+{
+    "name": "in ateck", 
+    "artist": "Un conteur des origines", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35240&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242880&streamencoding=mp31", 
+            "name": "duydubydub in ateck 242cr db"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35240"
+}

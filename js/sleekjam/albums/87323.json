@@ -1,0 +1,74 @@
+{
+    "name": "Deep Heaven", 
+    "artist": "The X-Structure", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87323&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746861&streamencoding=mp31", 
+            "name": "Lux"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746863&streamencoding=mp31", 
+            "name": "Parable"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746866&streamencoding=mp31", 
+            "name": "A Time for every Season"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746857&streamencoding=mp31", 
+            "name": "Shadow of Death"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746860&streamencoding=mp31", 
+            "name": " Spirit Move"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746864&streamencoding=mp31", 
+            "name": " Rising Son"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746855&streamencoding=mp31", 
+            "name": " Deep Love"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746859&streamencoding=mp31", 
+            "name": " Heaven-sent"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746862&streamencoding=mp31", 
+            "name": " Saint Now"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746856&streamencoding=mp31", 
+            "name": " Take Heart"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746858&streamencoding=mp31", 
+            "name": "Sons of Thunder"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746865&streamencoding=mp31", 
+            "name": " Veritas"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746867&streamencoding=mp31", 
+            "name": " Via"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87323"
+}

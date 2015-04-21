@@ -1,0 +1,34 @@
+{
+    "name": "Electriko", 
+    "artist": "Nicholas Guida", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88687&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758298&streamencoding=mp31", 
+            "name": "Aachie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758269&streamencoding=mp31", 
+            "name": "Freedom's Wings"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758270&streamencoding=mp31", 
+            "name": "Now And Forever"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758141&streamencoding=mp31", 
+            "name": "Taste Of Tears"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758268&streamencoding=mp31", 
+            "name": "I Live Just Another Day"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88687"
+}

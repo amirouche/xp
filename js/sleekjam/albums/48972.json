@@ -1,0 +1,64 @@
+{
+    "name": "\"Coup de Coeur\"", 
+    "artist": "Maya de Luna", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48972&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388111&streamencoding=mp31", 
+            "name": "Ecris moi - Feat. Arietys "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388112&streamencoding=mp31", 
+            "name": "Cellule - Feat. Silence"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388113&streamencoding=mp31", 
+            "name": " L'attente - Feat. Ehma"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388114&streamencoding=mp31", 
+            "name": "On ne me quitte pas - Feat. Mister Al "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388115&streamencoding=mp31", 
+            "name": "L'Ether d'Afrique - Feat. Philippe Mangold"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388116&streamencoding=mp31", 
+            "name": "Au bout du monde - Feat. Chris Daniels"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388117&streamencoding=mp31", 
+            "name": "Casamance"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388174&streamencoding=mp31", 
+            "name": "Ophelia Theme - Feat. Raphael Badawi"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388119&streamencoding=mp31", 
+            "name": "In our place"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388120&streamencoding=mp31", 
+            "name": "Petit pantin - Feat. Lacrymosa"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388121&streamencoding=mp31", 
+            "name": "Le chant du vent - Feat. Lacrymosa"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48972"
+}

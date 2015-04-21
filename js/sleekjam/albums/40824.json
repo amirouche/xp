@@ -1,0 +1,24 @@
+{
+    "name": "Para Siempre...Por Ti", 
+    "artist": "LA EMBAJADORA DE AMERICA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40824&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297791&streamencoding=mp31", 
+            "name": "URGE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297795&streamencoding=mp31", 
+            "name": "COMO OLVIDARTE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297799&streamencoding=mp31", 
+            "name": "PARA SIEMPRE"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40824"
+}

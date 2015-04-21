@@ -1,0 +1,14 @@
+{
+    "name": "It's A Dream That Come True 2009 DEMO", 
+    "artist": "Alex Gray", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117785&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000980&streamencoding=mp31", 
+            "name": "2009 DEMO: It's A Dream That Come True "
+        }
+    ], 
+    "release": "2013", 
+    "id": "117785"
+}

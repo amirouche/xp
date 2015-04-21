@@ -1,0 +1,59 @@
+{
+    "name": "sounds of reeds", 
+    "artist": "michalko wawrzyn", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45162&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342433&streamencoding=mp31", 
+            "name": "Par\u0119 nut wschodu"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342434&streamencoding=mp31", 
+            "name": "Palma i bambus"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342436&streamencoding=mp31", 
+            "name": "Po obiednie ko\u0142ysanie trzciny"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342437&streamencoding=mp31", 
+            "name": "Kr\u00f3tkie struny uczu\u0107"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342438&streamencoding=mp31", 
+            "name": "Phyllostachys zwyczajny"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342439&streamencoding=mp31", 
+            "name": "Po troch\u0119 nowoczesno\u015bci"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342441&streamencoding=mp31", 
+            "name": "Nasiona wiosny"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342442&streamencoding=mp31", 
+            "name": "Podwieczorny papieros mnicha"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342443&streamencoding=mp31", 
+            "name": "Wiecz\u00f3r kwitn\u0105cej my\u015bli"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342605&streamencoding=mp31", 
+            "name": "Tajemnice pustki zmroku"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45162"
+}

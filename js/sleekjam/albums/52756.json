@@ -1,0 +1,14 @@
+{
+    "name": "Electronics vibes II (single edition)", 
+    "artist": "Robots Of", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52756&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=435289&streamencoding=mp31", 
+            "name": "Electronics vibes II (single edition)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "52756"
+}

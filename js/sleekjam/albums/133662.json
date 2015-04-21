@@ -1,0 +1,34 @@
+{
+    "name": "Geometri", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133662&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118482&streamencoding=mp31", 
+            "name": "Geometri"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118483&streamencoding=mp31", 
+            "name": "Gener"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118484&streamencoding=mp31", 
+            "name": "Darwins Duvor"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118485&streamencoding=mp31", 
+            "name": "Candide"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118487&streamencoding=mp31", 
+            "name": "SuGGud"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133662"
+}

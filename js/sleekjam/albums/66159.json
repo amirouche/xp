@@ -1,0 +1,14 @@
+{
+    "name": "Tribes Trip", 
+    "artist": "HotKot pres. Etnia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66159&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=573195&streamencoding=mp31", 
+            "name": "Etnia - Tribes Trip"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66159"
+}

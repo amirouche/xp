@@ -1,0 +1,64 @@
+{
+    "name": "The Garden of Forking Paths", 
+    "artist": "Chemical Waves", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115819&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=983857&streamencoding=mp31", 
+            "name": "Radio America"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=983858&streamencoding=mp31", 
+            "name": "The Origin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=983859&streamencoding=mp31", 
+            "name": "Soviet Army"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=983860&streamencoding=mp31", 
+            "name": "Sweet Candy Bullets"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=983861&streamencoding=mp31", 
+            "name": "The Great Dictator"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=983862&streamencoding=mp31", 
+            "name": "The Other Side of Garden"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=983863&streamencoding=mp31", 
+            "name": "Ever Loved"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=983864&streamencoding=mp31", 
+            "name": "Hungry Kisses"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=983865&streamencoding=mp31", 
+            "name": "I Dont Like This at All"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=983866&streamencoding=mp31", 
+            "name": "Murders TV"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=983867&streamencoding=mp31", 
+            "name": "Closure"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115819"
+}

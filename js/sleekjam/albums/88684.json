@@ -1,0 +1,69 @@
+{
+    "name": "Live to a mic", 
+    "artist": "Danie Nel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88684&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=757854&streamencoding=mp31", 
+            "name": "Danie Nel - Responsibility"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758253&streamencoding=mp31", 
+            "name": "Danie Nel - The Gathering"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=756143&streamencoding=mp31", 
+            "name": "Danie Nel - Jerusalem"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758266&streamencoding=mp31", 
+            "name": "Danie Nel - You Stand Out"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758260&streamencoding=mp31", 
+            "name": "Danie Nel - To where our souls call home"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758263&streamencoding=mp31", 
+            "name": "Danie Nel - Turn the Page"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=752039&streamencoding=mp31", 
+            "name": "Danie Nel - Behind the Mask"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=756133&streamencoding=mp31", 
+            "name": "Danie Nel - Bye Bye Love"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=757884&streamencoding=mp31", 
+            "name": "Danie Nel - The Curtain"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=757861&streamencoding=mp31", 
+            "name": "Danie Nel - Sing Sing Sing"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758256&streamencoding=mp31", 
+            "name": "Danie Nel - The Kingdom"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758267&streamencoding=mp31", 
+            "name": "Danie Nel - You are the One"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88684"
+}

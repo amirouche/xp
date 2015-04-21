@@ -1,0 +1,24 @@
+{
+    "name": "Dawn of Mercury", 
+    "artist": "BRoNto-BaSS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73960&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638499&streamencoding=mp31", 
+            "name": "CJ BRoNto - BaSS _  Dead city washes a rain"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638541&streamencoding=mp31", 
+            "name": "CJ BRoNto - BaSS_Dawn of Mercury"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638546&streamencoding=mp31", 
+            "name": "CJ BRoNto - BaSS - Viola dnb"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73960"
+}

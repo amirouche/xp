@@ -1,0 +1,64 @@
+{
+    "name": "If We Had Time", 
+    "artist": "Parametric", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78548&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=676326&streamencoding=mp31", 
+            "name": "Crazy Guy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=676327&streamencoding=mp31", 
+            "name": "Five on Floor"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=676328&streamencoding=mp31", 
+            "name": "Underway"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=676329&streamencoding=mp31", 
+            "name": "Harmony"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=676330&streamencoding=mp31", 
+            "name": "Melloww"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=676331&streamencoding=mp31", 
+            "name": "Quadron"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=676332&streamencoding=mp31", 
+            "name": "Zerk"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=676333&streamencoding=mp31", 
+            "name": "Bitter"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=676334&streamencoding=mp31", 
+            "name": "DeSeQ"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=676335&streamencoding=mp31", 
+            "name": "Garbled"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=676336&streamencoding=mp31", 
+            "name": "Atmo"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78548"
+}

@@ -1,0 +1,114 @@
+{
+    "name": "zlepek pomys\u0142\u00f3w", 
+    "artist": "d-alternative", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=12319&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104688&streamencoding=mp31", 
+            "name": "chaos"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104691&streamencoding=mp31", 
+            "name": "anio\u0142y"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104692&streamencoding=mp31", 
+            "name": "silence"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104694&streamencoding=mp31", 
+            "name": "instrumentel"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104695&streamencoding=mp31", 
+            "name": "ostatni z mego pokolenia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104698&streamencoding=mp31", 
+            "name": "bip classical"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104699&streamencoding=mp31", 
+            "name": "z\u0142y "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104701&streamencoding=mp31", 
+            "name": "zamkni\u0119ty"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104728&streamencoding=mp31", 
+            "name": "skazany"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104730&streamencoding=mp31", 
+            "name": "wariacja"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104732&streamencoding=mp31", 
+            "name": "stoisz tu"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104735&streamencoding=mp31", 
+            "name": "20-07"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104736&streamencoding=mp31", 
+            "name": "bip"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104737&streamencoding=mp31", 
+            "name": "jestem"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104762&streamencoding=mp31", 
+            "name": "VI piano"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104764&streamencoding=mp31", 
+            "name": "rado\u015b\u0107"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104765&streamencoding=mp31", 
+            "name": "rado\u015b\u0107 symf"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104766&streamencoding=mp31", 
+            "name": "rado\u015b\u0107 - piano"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104770&streamencoding=mp31", 
+            "name": "VI classical"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104772&streamencoding=mp31", 
+            "name": "z\u0142y 2"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104774&streamencoding=mp31", 
+            "name": "VI"
+        }
+    ], 
+    "release": "2007", 
+    "id": "12319"
+}

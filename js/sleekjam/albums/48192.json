@@ -1,0 +1,49 @@
+{
+    "name": "Adios Mu\u00f1eca", 
+    "artist": "Basilio Montes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48192&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378628&streamencoding=mp31", 
+            "name": "Perdedor"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378629&streamencoding=mp31", 
+            "name": "Lolita"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378655&streamencoding=mp31", 
+            "name": "Perfume de Mujer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378627&streamencoding=mp31", 
+            "name": "Como Un Ciclon"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378657&streamencoding=mp31", 
+            "name": "Me Gustan Los Lunes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378653&streamencoding=mp31", 
+            "name": "Para Ti"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378654&streamencoding=mp31", 
+            "name": "Heroes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378656&streamencoding=mp31", 
+            "name": "Tras el Cristal"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48192"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Nuit Sanglante", 
+    "artist": "Bass", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53274&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=438967&streamencoding=mp31", 
+            "name": "nuit sanglante"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=438972&streamencoding=mp31", 
+            "name": "puit noir"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=438979&streamencoding=mp31", 
+            "name": "snocha"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441090&streamencoding=mp31", 
+            "name": "desir charnel"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441092&streamencoding=mp31", 
+            "name": "infernale priere"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=438977&streamencoding=mp31", 
+            "name": "je suis un ange, le tien"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441091&streamencoding=mp31", 
+            "name": "crepuscule"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441093&streamencoding=mp31", 
+            "name": "meandre obscur"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=438974&streamencoding=mp31", 
+            "name": "mael"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53274"
+}

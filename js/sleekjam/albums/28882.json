@@ -1,0 +1,54 @@
+{
+    "name": "Lunik 15 Dreaming", 
+    "artist": "MaterialErm\u00fcdung", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28882&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193256&streamencoding=mp31", 
+            "name": "Mare Crisium"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193269&streamencoding=mp31", 
+            "name": "Katz I"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193270&streamencoding=mp31", 
+            "name": "Das Gespenst Von Damals"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193271&streamencoding=mp31", 
+            "name": "Libellen"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193272&streamencoding=mp31", 
+            "name": "Katz II"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193273&streamencoding=mp31", 
+            "name": "Snow. Rust. Sunrise!"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193274&streamencoding=mp31", 
+            "name": "I Had Two Dreams About This Place (But They Are Both The Same)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193275&streamencoding=mp31", 
+            "name": "Katz III"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193276&streamencoding=mp31", 
+            "name": "Exit Elise"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28882"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Katana", 
+    "artist": "Koenikz Muzik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44548&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=335620&streamencoding=mp31", 
+            "name": "1.5.4 - Guck mich an guck dich an"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=335621&streamencoding=mp31", 
+            "name": "1.5.4 - Bosse sterben reich"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=335622&streamencoding=mp31", 
+            "name": "1.5.4. - Einsamer Wolf"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=335623&streamencoding=mp31", 
+            "name": "1.5.4 - Ghetto in dem Club Story"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=335624&streamencoding=mp31", 
+            "name": "1.5.4 - Morgen wird mein Bester Tag"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=335625&streamencoding=mp31", 
+            "name": "Champp & Ceaser - Irgendwann,Irgendwo"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44548"
+}

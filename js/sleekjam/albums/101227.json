@@ -1,0 +1,19 @@
+{
+    "name": "\u773c\u93e1\u3068\u7530\u4e2d (glasses and tanakas)", 
+    "artist": "\u7530\u4e2d\u30b5\u30e0\u30b7\u30f3\u30b0 (Tanakasomething)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101227&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864208&streamencoding=mp31", 
+            "name": "\u773c\u93e1\u3068\u30bb\u30d6\u30f3 (glasses and 7th)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864209&streamencoding=mp31", 
+            "name": "\u773c\u93e1\u3068\u9b54\u6cd5 (glasses and magical arts)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101227"
+}

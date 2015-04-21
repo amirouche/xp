@@ -1,0 +1,14 @@
+{
+    "name": "Ba Les PaTTeS", 
+    "artist": "P\u00f4PeTTe La ChePer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71780&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=620006&streamencoding=mp31", 
+            "name": "D\u00e9ch\u00e9n\u00e9e "
+        }
+    ], 
+    "release": "2010", 
+    "id": "71780"
+}

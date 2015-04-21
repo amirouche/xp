@@ -1,0 +1,34 @@
+{
+    "name": "Sirio", 
+    "artist": "Sirio", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4504&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36806&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36807&streamencoding=mp31", 
+            "name": "Witch Hunting"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36809&streamencoding=mp31", 
+            "name": "Wings In The Night"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36810&streamencoding=mp31", 
+            "name": "Dance Of Stars"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36811&streamencoding=mp31", 
+            "name": "Rainy Day"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4504"
+}

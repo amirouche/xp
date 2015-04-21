@@ -1,0 +1,24 @@
+{
+    "name": "Kadaver", 
+    "artist": "blodlyst", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71449&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617299&streamencoding=mp31", 
+            "name": "Flesh Torn From Inside Out"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617300&streamencoding=mp31", 
+            "name": "Dead Babies Galore"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617301&streamencoding=mp31", 
+            "name": "Before I Slit your Throat"
+        }
+    ], 
+    "release": "2010", 
+    "id": "71449"
+}

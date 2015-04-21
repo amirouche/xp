@@ -1,0 +1,44 @@
+{
+    "name": "From Mars To Earth", 
+    "artist": "Joost Egelie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78915&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679040&streamencoding=mp31", 
+            "name": "Leaving Base"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679038&streamencoding=mp31", 
+            "name": "Docking"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679041&streamencoding=mp31", 
+            "name": "Flung Around Phobos"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679039&streamencoding=mp31", 
+            "name": "Hibernated"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679037&streamencoding=mp31", 
+            "name": "Back Home"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679043&streamencoding=mp31", 
+            "name": "Pioneers"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679042&streamencoding=mp31", 
+            "name": "Now More Than Ever"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78915"
+}

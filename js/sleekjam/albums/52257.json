@@ -1,0 +1,69 @@
+{
+    "name": "Comment m'enfuir", 
+    "artist": "jibHaine", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52257&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=428991&streamencoding=mp31", 
+            "name": "Fruity Rabbit"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=428992&streamencoding=mp31", 
+            "name": "Je ne veux pas vieillir"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=428994&streamencoding=mp31", 
+            "name": "Ma haine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429005&streamencoding=mp31", 
+            "name": "Alice"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429006&streamencoding=mp31", 
+            "name": "La Mobylette"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429007&streamencoding=mp31", 
+            "name": "Sofa Mandarine"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429018&streamencoding=mp31", 
+            "name": "Malgr\u00e9 la pluie"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429024&streamencoding=mp31", 
+            "name": "Comment m'enfuir ?"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429025&streamencoding=mp31", 
+            "name": "T\u00e9l\u00e9-vision"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429031&streamencoding=mp31", 
+            "name": "Yann's Dub"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429047&streamencoding=mp31", 
+            "name": "Share"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429055&streamencoding=mp31", 
+            "name": "Roi de Rien"
+        }
+    ], 
+    "release": "2009", 
+    "id": "52257"
+}

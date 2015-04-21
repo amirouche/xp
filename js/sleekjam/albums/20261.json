@@ -1,0 +1,34 @@
+{
+    "name": "Southern Cross - Halftime Lover 2007", 
+    "artist": "Southern Cross", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20261&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141751&streamencoding=mp31", 
+            "name": "01 Alone"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141752&streamencoding=mp31", 
+            "name": "02 So close"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141753&streamencoding=mp31", 
+            "name": "03 Half time Lover"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141754&streamencoding=mp31", 
+            "name": "04 Holidays in Heaven"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141755&streamencoding=mp31", 
+            "name": "05 By my side"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20261"
+}

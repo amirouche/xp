@@ -1,0 +1,14 @@
+{
+    "name": "The Devil Song Single Album", 
+    "artist": "Inger & Thomas", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51570&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420257&streamencoding=mp31", 
+            "name": "the-devil-song-II-Master Bus"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51570"
+}

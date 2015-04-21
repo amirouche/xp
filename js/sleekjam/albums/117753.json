@@ -1,0 +1,29 @@
+{
+    "name": "Storm Outbreak & The Desert Diaries", 
+    "artist": "SEATTLE RAIN", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117753&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000789&streamencoding=mp31", 
+            "name": "The Blindman Travelling Through the Desert Song"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000787&streamencoding=mp31", 
+            "name": "Silent & Chained"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000786&streamencoding=mp31", 
+            "name": "Daze in Dawn"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000788&streamencoding=mp31", 
+            "name": "Last Child Standing"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117753"
+}

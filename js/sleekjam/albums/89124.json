@@ -1,0 +1,14 @@
+{
+    "name": "Lean Back", 
+    "artist": "Data Collaborate", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89124&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=761624&streamencoding=mp31", 
+            "name": "Lean Back"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89124"
+}

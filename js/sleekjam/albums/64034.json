@@ -1,0 +1,34 @@
+{
+    "name": "Un petit pot pourri", 
+    "artist": "Zebulon427", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64034&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549881&streamencoding=mp31", 
+            "name": "high_Life_maquis"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549882&streamencoding=mp31", 
+            "name": "le_cri_de_musique"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549883&streamencoding=mp31", 
+            "name": "robbers_in_the_night"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549884&streamencoding=mp31", 
+            "name": "the_nothing_no_singing_song"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549887&streamencoding=mp31", 
+            "name": "Wacko_wacko_ouai_ouai_ouai"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64034"
+}

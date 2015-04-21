@@ -1,0 +1,29 @@
+{
+    "name": "Off the top Ep", 
+    "artist": "Marty", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50169&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403421&streamencoding=mp31", 
+            "name": "On my list by marty"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403423&streamencoding=mp31", 
+            "name": "shot callers Marty ft JR FOG"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403424&streamencoding=mp31", 
+            "name": "shouldnt have by marty"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403425&streamencoding=mp31", 
+            "name": "take me away by marty"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50169"
+}

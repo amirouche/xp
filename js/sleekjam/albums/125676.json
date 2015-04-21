@@ -1,0 +1,169 @@
+{
+    "name": "Machelune & l'Orchestre imaginaire", 
+    "artist": "Machelune", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125676&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063925&streamencoding=mp31", 
+            "name": "Gal\u00e8re(Texte:Luc Sannier)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063957&streamencoding=mp31", 
+            "name": "Liturgie de l'instant (Texte:Jenny de La Guillonni\u00e8re)."
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063927&streamencoding=mp31", 
+            "name": "Passe-Temps"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063952&streamencoding=mp31", 
+            "name": "Le chant des  4 royaumes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063959&streamencoding=mp31", 
+            "name": "Le bout du rouleau"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064044&streamencoding=mp31", 
+            "name": "La Java Tropicale"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064046&streamencoding=mp31", 
+            "name": "Le coeur aventureux"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063928&streamencoding=mp31", 
+            "name": "La Tendresse"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063965&streamencoding=mp31", 
+            "name": "Carnaval (Texte:Jenny de La Guillonni\u00e8re)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063929&streamencoding=mp31", 
+            "name": "Pass\u00e9-vol (Texte:Jenny de La Guillonni\u00e8re)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063956&streamencoding=mp31", 
+            "name": "Les Chants du L\u00e9zard"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063953&streamencoding=mp31", 
+            "name": "Le Tango des proverbes"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063968&streamencoding=mp31", 
+            "name": "Au pays des lutins"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063926&streamencoding=mp31", 
+            "name": "Helios"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063924&streamencoding=mp31", 
+            "name": "Epiphanie"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063954&streamencoding=mp31", 
+            "name": "Media blues"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063955&streamencoding=mp31", 
+            "name": "Le voyageur"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063958&streamencoding=mp31", 
+            "name": "Matins givr\u00e9s"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063964&streamencoding=mp31", 
+            "name": "Aux oubli\u00e9s des Dieux"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064051&streamencoding=mp31", 
+            "name": "Passion"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063967&streamencoding=mp31", 
+            "name": "Chanson blanche"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063966&streamencoding=mp31", 
+            "name": "Chez Nous (Texte:Luc Sannier)"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064011&streamencoding=mp31", 
+            "name": "Siao-Lin"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064012&streamencoding=mp31", 
+            "name": "Pleine lune"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064043&streamencoding=mp31", 
+            "name": "D\u00e9sir d'elle,d\u00e9sir d'ailes"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064045&streamencoding=mp31", 
+            "name": "Laisse d\u00e9filer les images"
+        }, 
+        {
+            "position": 27, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064047&streamencoding=mp31", 
+            "name": "Le silence des murs"
+        }, 
+        {
+            "position": 28, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064049&streamencoding=mp31", 
+            "name": "Chanter comme on s'en va"
+        }, 
+        {
+            "position": 29, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064052&streamencoding=mp31", 
+            "name": "On peut toujours r\u00eaver"
+        }, 
+        {
+            "position": 30, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064053&streamencoding=mp31", 
+            "name": "Les chemins creux"
+        }, 
+        {
+            "position": 31, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064048&streamencoding=mp31", 
+            "name": "Blues de cuisine (Mazurka patissi\u00e8re)"
+        }, 
+        {
+            "position": 32, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064050&streamencoding=mp31", 
+            "name": "Danse pour Sol\u00e8ne"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125676"
+}

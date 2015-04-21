@@ -1,0 +1,54 @@
+{
+    "name": "Morning Tricks Me", 
+    "artist": "CA-15", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131014&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098360&streamencoding=mp31", 
+            "name": "Morning Tricks Me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098361&streamencoding=mp31", 
+            "name": "Tel'Aran'Rhiod"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098376&streamencoding=mp31", 
+            "name": "Relax Me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098377&streamencoding=mp31", 
+            "name": "The Pink Elephant"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098379&streamencoding=mp31", 
+            "name": "Black Attack"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098380&streamencoding=mp31", 
+            "name": "Go On"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098381&streamencoding=mp31", 
+            "name": "Levitation feat. Pavle DCKV"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098407&streamencoding=mp31", 
+            "name": "Blues & Booze"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098410&streamencoding=mp31", 
+            "name": "Silk Street feat Crtistina Xta"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131014"
+}

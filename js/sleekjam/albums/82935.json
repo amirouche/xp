@@ -1,0 +1,19 @@
+{
+    "name": "Prospectus(demo mini single) ", 
+    "artist": "Prospekt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82935&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710700&streamencoding=mp31", 
+            "name": "entry"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710699&streamencoding=mp31", 
+            "name": "Victim of the night"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82935"
+}

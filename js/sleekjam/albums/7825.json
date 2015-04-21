@@ -1,0 +1,54 @@
+{
+    "name": "Al vento.", 
+    "artist": "Livio A.Cech", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7825&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=84814&streamencoding=mp31", 
+            "name": "Livia T."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=84815&streamencoding=mp31", 
+            "name": "Hommage \u00e0 Jodorowsky"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=84816&streamencoding=mp31", 
+            "name": " Al vento"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=84817&streamencoding=mp31", 
+            "name": "Dal luogo e dal contesto"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=84818&streamencoding=mp31", 
+            "name": "Dialoghi"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=84819&streamencoding=mp31", 
+            "name": "Ad un indigeno che vende lampadine"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=84820&streamencoding=mp31", 
+            "name": "E' che vieni afferrato dal momento"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=84821&streamencoding=mp31", 
+            "name": "Tehom"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=84822&streamencoding=mp31", 
+            "name": "Ur"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7825"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Pendlarblues", 
+    "artist": "japersson", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106229&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902254&streamencoding=mp31", 
+            "name": "Pendlarblues"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902258&streamencoding=mp31", 
+            "name": "I f\u00f6rvirring"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902255&streamencoding=mp31", 
+            "name": "N\u00e4r jag var en liten p\u00e5g"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902256&streamencoding=mp31", 
+            "name": "Jag och mr Blues"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902260&streamencoding=mp31", 
+            "name": "How long"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902259&streamencoding=mp31", 
+            "name": "Letter to spain"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902257&streamencoding=mp31", 
+            "name": "Frihetens t\u00e5g"
+        }
+    ], 
+    "release": "2012", 
+    "id": "106229"
+}

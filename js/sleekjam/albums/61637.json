@@ -1,0 +1,69 @@
+{
+    "name": "You", 
+    "artist": "coldreavers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61637&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527810&streamencoding=mp31", 
+            "name": "Island In The Sky (Charli Baltimore vocal)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527816&streamencoding=mp31", 
+            "name": "Sax"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527818&streamencoding=mp31", 
+            "name": "Broken Things"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527813&streamencoding=mp31", 
+            "name": "I've Tried So Hard"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527815&streamencoding=mp31", 
+            "name": "Young Warrior"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527817&streamencoding=mp31", 
+            "name": "NTA"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527812&streamencoding=mp31", 
+            "name": "Guitar"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527819&streamencoding=mp31", 
+            "name": "With You"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527808&streamencoding=mp31", 
+            "name": "I Dont Want You To Love Me"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527811&streamencoding=mp31", 
+            "name": "Find Me"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527814&streamencoding=mp31", 
+            "name": "Snowflake"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527809&streamencoding=mp31", 
+            "name": "Journey To The Moon"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61637"
+}

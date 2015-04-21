@@ -1,0 +1,49 @@
+{
+    "name": "Estrela Minha ", 
+    "artist": "Juliano adam", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118685&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1008370&streamencoding=mp31", 
+            "name": "A CARA PRA BATER"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1008371&streamencoding=mp31", 
+            "name": "PEGA EU"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1008372&streamencoding=mp31", 
+            "name": "PEGADA VIOLENTA"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1008373&streamencoding=mp31", 
+            "name": "TO FORA"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1008374&streamencoding=mp31", 
+            "name": "OS OPOSTOS SE ATRAEM"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1008375&streamencoding=mp31", 
+            "name": "ETERNOS NAMORADOS"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1008376&streamencoding=mp31", 
+            "name": "JUNTO TEM BRIGA"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1008377&streamencoding=mp31", 
+            "name": "NAS ASAS DA PAIXAO"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118685"
+}

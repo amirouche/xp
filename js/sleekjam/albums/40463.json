@@ -1,0 +1,49 @@
+{
+    "name": "Le grand voyage", 
+    "artist": " ENIGMA63", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40463&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293790&streamencoding=mp31", 
+            "name": "01 les chemins de ta vie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293791&streamencoding=mp31", 
+            "name": "02 Hommage"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293685&streamencoding=mp31", 
+            "name": "03 Le grand voyage"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293792&streamencoding=mp31", 
+            "name": "04 La voie des anges"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293793&streamencoding=mp31", 
+            "name": "05 Danse avec les anges"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293686&streamencoding=mp31", 
+            "name": "06 Au revoir Papa"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293794&streamencoding=mp31", 
+            "name": "07 Le grand voyage (REMIX)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=293687&streamencoding=mp31", 
+            "name": "08 Le grand voyage(speed version remix)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40463"
+}

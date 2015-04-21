@@ -1,0 +1,44 @@
+{
+    "name": "Jazzymut\u00e9 - 1", 
+    "artist": "Jazzymut\u00e9", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79952&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686757&streamencoding=mp31", 
+            "name": "Zinedine Tzigane"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686752&streamencoding=mp31", 
+            "name": "La toupie"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686756&streamencoding=mp31", 
+            "name": "Agent double z\u00e9ro"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686758&streamencoding=mp31", 
+            "name": "Les aventuriers du ra\u00ef"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686857&streamencoding=mp31", 
+            "name": "Les b\u00e2tons dansants"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686755&streamencoding=mp31", 
+            "name": "Valses en salve"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686753&streamencoding=mp31", 
+            "name": "Arpette"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79952"
+}

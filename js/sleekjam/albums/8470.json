@@ -1,0 +1,64 @@
+{
+    "name": "Solar", 
+    "artist": "Crux", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8470&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88317&streamencoding=mp31", 
+            "name": "sun"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88459&streamencoding=mp31", 
+            "name": "mercury"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88468&streamencoding=mp31", 
+            "name": "venus"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88527&streamencoding=mp31", 
+            "name": "earth"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88354&streamencoding=mp31", 
+            "name": "mars"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88380&streamencoding=mp31", 
+            "name": "asteroids"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88392&streamencoding=mp31", 
+            "name": "jupiter"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88407&streamencoding=mp31", 
+            "name": "saturn"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88413&streamencoding=mp31", 
+            "name": "uranus"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88494&streamencoding=mp31", 
+            "name": "neptune"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88515&streamencoding=mp31", 
+            "name": "pluto"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8470"
+}

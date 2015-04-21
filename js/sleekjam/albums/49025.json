@@ -1,0 +1,59 @@
+{
+    "name": "L'Horta Ska", 
+    "artist": "Ki Sap", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49025&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388637&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388636&streamencoding=mp31", 
+            "name": "Galtada"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388644&streamencoding=mp31", 
+            "name": "Jo preferisc una cervesa"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388640&streamencoding=mp31", 
+            "name": "R que R"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388646&streamencoding=mp31", 
+            "name": "Dum durum dum dum"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388664&streamencoding=mp31", 
+            "name": "El man d'uns quants"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388666&streamencoding=mp31", 
+            "name": "El verd no \u00e9s el color de l'esperanza"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388665&streamencoding=mp31", 
+            "name": "Acci\u00f3 directa"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388639&streamencoding=mp31", 
+            "name": "Marihuana on estas"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388643&streamencoding=mp31", 
+            "name": "Ja ho deia matia"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49025"
+}

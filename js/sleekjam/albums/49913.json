@@ -1,0 +1,89 @@
+{
+    "name": "Kickass Ska", 
+    "artist": "EZZO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49913&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400373&streamencoding=mp31", 
+            "name": "I Won't Forget"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400366&streamencoding=mp31", 
+            "name": "Pressure Fart"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400375&streamencoding=mp31", 
+            "name": "Bad Date"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400377&streamencoding=mp31", 
+            "name": "New Day"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400367&streamencoding=mp31", 
+            "name": "Shame On You Mr.Bush"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400365&streamencoding=mp31", 
+            "name": "Das System"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400371&streamencoding=mp31", 
+            "name": "Girlshit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400372&streamencoding=mp31", 
+            "name": "Girlfriend"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400374&streamencoding=mp31", 
+            "name": "Better Fatter"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400368&streamencoding=mp31", 
+            "name": "Gina Wild"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400385&streamencoding=mp31", 
+            "name": "We Have Fun"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400370&streamencoding=mp31", 
+            "name": "Skabadabadu"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400379&streamencoding=mp31", 
+            "name": "Root Rock Reggae"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400369&streamencoding=mp31", 
+            "name": "Strike Back"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400376&streamencoding=mp31", 
+            "name": "Everybody Do The Ska"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400383&streamencoding=mp31", 
+            "name": "Stand Up"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49913"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "*New Demo \"\u7d05\u734f\"", 
+    "artist": "Nanten", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72656&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627591&streamencoding=mp31", 
+            "name": "\u7d05\u734f"
+        }
+    ], 
+    "release": "2010", 
+    "id": "72656"
+}

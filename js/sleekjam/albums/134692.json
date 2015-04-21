@@ -1,0 +1,29 @@
+{
+    "name": "Festival of international tone Biscuits vol1", 
+    "artist": "Conway Hambone", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134692&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125515&streamencoding=mp31", 
+            "name": "Lower East Shuffle"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125511&streamencoding=mp31", 
+            "name": "90 Degreeze of sleeze"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125514&streamencoding=mp31", 
+            "name": "The Melon Blender Stomp"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125513&streamencoding=mp31", 
+            "name": "Vocalplane Rider"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134692"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Vracun", 
+    "artist": "BlueDid - didier.merlateau", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35092&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241382&streamencoding=mp31", 
+            "name": "Andro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241391&streamencoding=mp31", 
+            "name": "Boogie de Porspoder"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241403&streamencoding=mp31", 
+            "name": "Circus"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241411&streamencoding=mp31", 
+            "name": "Gavotirl"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241417&streamencoding=mp31", 
+            "name": "J'ai perdu ma souris"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241428&streamencoding=mp31", 
+            "name": "Le blues de ma belle m\u00e8re"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241439&streamencoding=mp31", 
+            "name": "Porspodelectro"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241467&streamencoding=mp31", 
+            "name": "Pour toi"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35092"
+}

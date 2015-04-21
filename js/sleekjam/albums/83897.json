@@ -1,0 +1,59 @@
+{
+    "name": "Amour pour le monde", 
+    "artist": "don william", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83897&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718692&streamencoding=mp31", 
+            "name": "Afrique mon Afrique"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718700&streamencoding=mp31", 
+            "name": "Espab\u00edlate Amor"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718704&streamencoding=mp31", 
+            "name": "Secret D\u00b4amour"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718685&streamencoding=mp31", 
+            "name": "Adieux Max"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718699&streamencoding=mp31", 
+            "name": "Amor Perdido"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718812&streamencoding=mp31", 
+            "name": "N\u00b4nan Awa Yaa"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718705&streamencoding=mp31", 
+            "name": "Te Quiero"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718706&streamencoding=mp31", 
+            "name": "Violencia de Genero"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718703&streamencoding=mp31", 
+            "name": "No Al Racismo"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718701&streamencoding=mp31", 
+            "name": "Mon Soleil de Minuit"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83897"
+}

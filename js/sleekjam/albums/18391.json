@@ -1,0 +1,49 @@
+{
+    "name": "Country Gold", 
+    "artist": "Racecar", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18391&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129967&streamencoding=mp31", 
+            "name": "Mary Lou"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130374&streamencoding=mp31", 
+            "name": "Nashville"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129966&streamencoding=mp31", 
+            "name": "Leave Me Of Your Endearing Charms"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130376&streamencoding=mp31", 
+            "name": "She Dont Call Me Baby Till She Cries"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130375&streamencoding=mp31", 
+            "name": "Other Side Of Life"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129965&streamencoding=mp31", 
+            "name": "Brasstown Bald Revival"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130377&streamencoding=mp31", 
+            "name": "Sunshine Revisited"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130378&streamencoding=mp31", 
+            "name": "This Land Here Of The Free"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18391"
+}

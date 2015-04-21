@@ -1,0 +1,59 @@
+{
+    "name": "Lehn' Dich An", 
+    "artist": "Superflip", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58681&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501215&streamencoding=mp31", 
+            "name": "Kommt schon Leute"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501209&streamencoding=mp31", 
+            "name": "Es ist Zeit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501214&streamencoding=mp31", 
+            "name": "Lehn' Dich an"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501216&streamencoding=mp31", 
+            "name": "Bleib bei mir"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501212&streamencoding=mp31", 
+            "name": "Sonnenuntergang"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501213&streamencoding=mp31", 
+            "name": "Sternenstaub"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501211&streamencoding=mp31", 
+            "name": "Freunde"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501210&streamencoding=mp31", 
+            "name": "Schl\u00f6sser Bauen"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501217&streamencoding=mp31", 
+            "name": "Wenn ich was Vermiss"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501218&streamencoding=mp31", 
+            "name": "Danke"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58681"
+}

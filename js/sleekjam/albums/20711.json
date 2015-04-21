@@ -1,0 +1,44 @@
+{
+    "name": "L'Aventure", 
+    "artist": "Philippe Garcia-Ortuno", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20711&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145447&streamencoding=mp31", 
+            "name": "Dido"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145448&streamencoding=mp31", 
+            "name": "Isa"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145449&streamencoding=mp31", 
+            "name": "Salsa Lenta"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145452&streamencoding=mp31", 
+            "name": "Tonalite"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145453&streamencoding=mp31", 
+            "name": "Naissance d'une Fee"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145454&streamencoding=mp31", 
+            "name": "Easy"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145484&streamencoding=mp31", 
+            "name": "Laventure"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20711"
+}

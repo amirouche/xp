@@ -1,0 +1,44 @@
+{
+    "name": "Dziw Niesie Czuje", 
+    "artist": "Bielebny", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27900&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186292&streamencoding=mp31", 
+            "name": "Poorismo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186297&streamencoding=mp31", 
+            "name": "Fluorescent Chillout"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186304&streamencoding=mp31", 
+            "name": "Jazz Begin"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186319&streamencoding=mp31", 
+            "name": "Mc Falograf(skit)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186321&streamencoding=mp31", 
+            "name": "Kingst Size"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186328&streamencoding=mp31", 
+            "name": "Powrotna Bossanowa"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186342&streamencoding=mp31", 
+            "name": "Rozmowa"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27900"
+}

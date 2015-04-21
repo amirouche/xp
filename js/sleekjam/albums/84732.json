@@ -1,0 +1,14 @@
+{
+    "name": "Orange cold", 
+    "artist": "Rashpil", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84732&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=725329&streamencoding=mp31", 
+            "name": "Rashpil - cold"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84732"
+}

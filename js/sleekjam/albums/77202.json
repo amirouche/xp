@@ -1,0 +1,14 @@
+{
+    "name": "Stoneman", 
+    "artist": "Bruise In Blues", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77202&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661429&streamencoding=mp31", 
+            "name": "Stoneman"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77202"
+}

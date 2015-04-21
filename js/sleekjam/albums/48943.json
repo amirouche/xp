@@ -1,0 +1,84 @@
+{
+    "name": "Blues'n Sofa and Nature", 
+    "artist": "Lobo Loco", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48943&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387891&streamencoding=mp31", 
+            "name": "Song in your heart"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387856&streamencoding=mp31", 
+            "name": "Hot dry Rock"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387893&streamencoding=mp31", 
+            "name": "Good thoughts (instrumental)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387888&streamencoding=mp31", 
+            "name": "Rightway"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387865&streamencoding=mp31", 
+            "name": "Abge..."
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387887&streamencoding=mp31", 
+            "name": "Sofablues"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387900&streamencoding=mp31", 
+            "name": "Blue Mountains"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387882&streamencoding=mp31", 
+            "name": "Sofa Nature"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387894&streamencoding=mp31", 
+            "name": "Woke up this morning"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387883&streamencoding=mp31", 
+            "name": "Quakeblues"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387884&streamencoding=mp31", 
+            "name": "Sofasofa Trallala"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387901&streamencoding=mp31", 
+            "name": "Neongruenes Sofa"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387895&streamencoding=mp31", 
+            "name": "Der Wahnsinn"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387899&streamencoding=mp31", 
+            "name": "Heyhey Blues"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=387886&streamencoding=mp31", 
+            "name": "Alles wird super (Guitar)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48943"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "BLUES IN RED (FULL MASTERED ED. AVAILABLE)", 
+    "artist": "AZULES Blues Rock", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104693&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890094&streamencoding=mp31", 
+            "name": "AZULES BLUES TRIO - INTRO+BABY BORN BLUES"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890171&streamencoding=mp31", 
+            "name": "AZULES BLUES TRIO - WARMED BY THE DEVILS FIRE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890092&streamencoding=mp31", 
+            "name": "AZULES BLUES TRIO - DIRTY WOMAN STUFF"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890091&streamencoding=mp31", 
+            "name": "AZULES BLUES TRIO - FIRE HEELS"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890090&streamencoding=mp31", 
+            "name": "AZULES BLUES TRIO - KEEP YOUR MOTOR RUNNING"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890089&streamencoding=mp31", 
+            "name": "AZULES BLUES TRIO - RAINY SUNDAY"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890088&streamencoding=mp31", 
+            "name": "AZULES BLUES TRIO - YOU GONNA KILL ME"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890097&streamencoding=mp31", 
+            "name": "AZULES BLUES TRIO - THE CHAIN AND THE NECK"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890154&streamencoding=mp31", 
+            "name": "AZULES BLUES TRIO - ENDLESS DAYS"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890095&streamencoding=mp31", 
+            "name": "AZULES BLUES TRIO - VICTIM OF A LIFETIME"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890096&streamencoding=mp31", 
+            "name": "AZULES BLUES TRIO - OUTRO"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104693"
+}

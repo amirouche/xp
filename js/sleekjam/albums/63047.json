@@ -1,0 +1,69 @@
+{
+    "name": "Fassade", 
+    "artist": "Raphael Michaelis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63047&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540573&streamencoding=mp31", 
+            "name": "Stolze K\u00f6nigin"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540582&streamencoding=mp31", 
+            "name": "Abendlied"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540808&streamencoding=mp31", 
+            "name": "Scared & Young"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540578&streamencoding=mp31", 
+            "name": "Eigene Sicht"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540585&streamencoding=mp31", 
+            "name": "Mein Gott! Beides"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540575&streamencoding=mp31", 
+            "name": "bl\u00fche, bl\u00fche"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540581&streamencoding=mp31", 
+            "name": "Leises Lied"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540579&streamencoding=mp31", 
+            "name": "Flame/Love across borderlines"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540577&streamencoding=mp31", 
+            "name": "Wanderer der Sinne"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540583&streamencoding=mp31", 
+            "name": "prinzessin cool"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540574&streamencoding=mp31", 
+            "name": "Who is your Friend now"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540576&streamencoding=mp31", 
+            "name": "you don\u00b4t know"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63047"
+}

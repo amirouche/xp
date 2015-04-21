@@ -1,0 +1,14 @@
+{
+    "name": "Arnold Wohler: The Mountain's Ghost", 
+    "artist": "Amadeus", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58532&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499902&streamencoding=mp31", 
+            "name": "The Mountain's Ghost"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58532"
+}

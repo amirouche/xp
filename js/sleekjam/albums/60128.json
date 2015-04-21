@@ -1,0 +1,29 @@
+{
+    "name": "Unmemory of love", 
+    "artist": " E2U", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60128&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513699&streamencoding=mp31", 
+            "name": "unmemory of love"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513698&streamencoding=mp31", 
+            "name": "mr and mrs solitude"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513697&streamencoding=mp31", 
+            "name": "legends of the yeah yeah"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513696&streamencoding=mp31", 
+            "name": "funky theatre of tragedy"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60128"
+}

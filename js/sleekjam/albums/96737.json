@@ -1,0 +1,14 @@
+{
+    "name": "Estas en mi Mente", 
+    "artist": "Artaud", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96737&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827337&streamencoding=mp31", 
+            "name": "estas en  mi mente "
+        }
+    ], 
+    "release": "2011", 
+    "id": "96737"
+}

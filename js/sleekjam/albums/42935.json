@@ -1,0 +1,29 @@
+{
+    "name": "in isolation", 
+    "artist": "Arpee Ong", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42935&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317677&streamencoding=mp31", 
+            "name": "distract"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317683&streamencoding=mp31", 
+            "name": "recovering from coma"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317723&streamencoding=mp31", 
+            "name": "the preacher"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=317742&streamencoding=mp31", 
+            "name": "rainy tuesday afternoon"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42935"
+}

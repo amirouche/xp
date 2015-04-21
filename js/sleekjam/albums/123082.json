@@ -1,0 +1,19 @@
+{
+    "name": "RED MERCURY (Single)", 
+    "artist": "Adam CASTILLO \"Inventive Music Maker\"", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123082&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045118&streamencoding=mp31", 
+            "name": "Nice To Be In Orbit"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045119&streamencoding=mp31", 
+            "name": "Transfert To The BFS"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123082"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "LASCIVIA", 
+    "artist": "Dagon Lorai", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96532&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825564&streamencoding=mp31", 
+            "name": "Intro lascivo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825558&streamencoding=mp31", 
+            "name": "Terra infetta "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825555&streamencoding=mp31", 
+            "name": "Alla nullit\u00e0"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825559&streamencoding=mp31", 
+            "name": "Sotto zer0"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825563&streamencoding=mp31", 
+            "name": "Sotto zer0 (parte due)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825553&streamencoding=mp31", 
+            "name": "John Merrick"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825557&streamencoding=mp31", 
+            "name": "Pastello"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825561&streamencoding=mp31", 
+            "name": "Vitreo"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825565&streamencoding=mp31", 
+            "name": "Sed diabolus"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825554&streamencoding=mp31", 
+            "name": "Alcuno strillo"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825560&streamencoding=mp31", 
+            "name": "Simplegadi"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825566&streamencoding=mp31", 
+            "name": "Mnemonica"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825556&streamencoding=mp31", 
+            "name": "Vile e senile"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825562&streamencoding=mp31", 
+            "name": "..."
+        }
+    ], 
+    "release": "2011", 
+    "id": "96532"
+}

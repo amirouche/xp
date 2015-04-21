@@ -1,0 +1,94 @@
+{
+    "name": "Anitek Instrumentals Vol. 9", 
+    "artist": "Anitek", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105656&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897986&streamencoding=mp31", 
+            "name": "Dichotic listening"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897980&streamencoding=mp31", 
+            "name": "Recall"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897982&streamencoding=mp31", 
+            "name": "Refractory Period"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897992&streamencoding=mp31", 
+            "name": "Dream work"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897977&streamencoding=mp31", 
+            "name": "Pons"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897990&streamencoding=mp31", 
+            "name": "Soma"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897993&streamencoding=mp31", 
+            "name": "Shamanism"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897997&streamencoding=mp31", 
+            "name": "Acquisition"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897987&streamencoding=mp31", 
+            "name": "Possible selves"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897983&streamencoding=mp31", 
+            "name": "Catharsis"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897996&streamencoding=mp31", 
+            "name": "Photoreceptors"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897991&streamencoding=mp31", 
+            "name": "Lobotomy"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897985&streamencoding=mp31", 
+            "name": "Fixation"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897981&streamencoding=mp31", 
+            "name": "Volley Principle"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897994&streamencoding=mp31", 
+            "name": "Dendrites"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897988&streamencoding=mp31", 
+            "name": "Divergent thought"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=897989&streamencoding=mp31", 
+            "name": "Stressor"
+        }
+    ], 
+    "release": "2012", 
+    "id": "105656"
+}

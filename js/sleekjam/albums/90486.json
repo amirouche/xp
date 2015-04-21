@@ -1,0 +1,19 @@
+{
+    "name": "Michikusa", 
+    "artist": "Buffalomckee ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90486&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771833&streamencoding=mp31", 
+            "name": "Michikusa part1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771834&streamencoding=mp31", 
+            "name": "Michikusa part2"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90486"
+}

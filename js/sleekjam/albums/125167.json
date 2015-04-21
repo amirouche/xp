@@ -1,0 +1,74 @@
+{
+    "name": "Pig Based Economy", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125167&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060856&streamencoding=mp31", 
+            "name": "A Forest Ft Timberman"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060852&streamencoding=mp31", 
+            "name": "Nothing To Sell"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060850&streamencoding=mp31", 
+            "name": "Reality Denied (GUTT)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060848&streamencoding=mp31", 
+            "name": "Lucky Boy (Piero Peluche remix)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060853&streamencoding=mp31", 
+            "name": "What Am I ft MWIC + Donnie Ozone"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060849&streamencoding=mp31", 
+            "name": "I Am Music ft Debbizo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060854&streamencoding=mp31", 
+            "name": "Pheromones ft Kara Square"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060855&streamencoding=mp31", 
+            "name": "Swamp Trip (Gutt)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060858&streamencoding=mp31", 
+            "name": "Black Swan ft Kae Furious"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060857&streamencoding=mp31", 
+            "name": "Shotgun Harry (Gutt)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060851&streamencoding=mp31", 
+            "name": "Nothing To Sell (reprise) ft Scomber"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060859&streamencoding=mp31", 
+            "name": "Dollar"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060860&streamencoding=mp31", 
+            "name": "Krokodil Electric ft Abstract Audio + Bitcrusher"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125167"
+}

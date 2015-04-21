@@ -1,0 +1,49 @@
+{
+    "name": "Nesta Positive", 
+    "artist": "Nesta Positive", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=1539&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10369&streamencoding=mp31", 
+            "name": "Les faux hommes en bleu"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10370&streamencoding=mp31", 
+            "name": "D\u00e9barquement"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10371&streamencoding=mp31", 
+            "name": "Petit p\u00e8re des peuples du monde (feat Air1 and Mc Didi)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10372&streamencoding=mp31", 
+            "name": "Klandestin (feat Mc Didi)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10373&streamencoding=mp31", 
+            "name": "Camarade Bourgeois"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10374&streamencoding=mp31", 
+            "name": "4L pour Voler (feat Mc Didi)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10375&streamencoding=mp31", 
+            "name": "Laisser Aller"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=10376&streamencoding=mp31", 
+            "name": "Etat de Crise"
+        }
+    ], 
+    "release": "2006", 
+    "id": "1539"
+}

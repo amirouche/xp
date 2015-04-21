@@ -1,0 +1,14 @@
+{
+    "name": "We're The Party", 
+    "artist": "Rataxes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111271&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947100&streamencoding=mp31", 
+            "name": "We're The Party [no samples edit]"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111271"
+}

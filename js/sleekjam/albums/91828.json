@@ -1,0 +1,49 @@
+{
+    "name": "MAZE", 
+    "artist": "KRESoff", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91828&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783106&streamencoding=mp31", 
+            "name": "Circles on water"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783119&streamencoding=mp31", 
+            "name": "War in a sandbox"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783120&streamencoding=mp31", 
+            "name": "Another's planet"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783123&streamencoding=mp31", 
+            "name": "Island"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783124&streamencoding=mp31", 
+            "name": "Dry ice"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783125&streamencoding=mp31", 
+            "name": "Casual choice"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783126&streamencoding=mp31", 
+            "name": "Immersing"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783128&streamencoding=mp31", 
+            "name": "Open air"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91828"
+}

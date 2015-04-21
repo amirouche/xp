@@ -1,0 +1,44 @@
+{
+    "name": "Hellfire snake", 
+    "artist": "Hellfire Snake", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41453&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304513&streamencoding=mp31", 
+            "name": "Mystic Child"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304514&streamencoding=mp31", 
+            "name": "Hellfire Snake"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304515&streamencoding=mp31", 
+            "name": "Los Pistoleros"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304516&streamencoding=mp31", 
+            "name": "Let Love Diablo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304518&streamencoding=mp31", 
+            "name": "Forever Night"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304519&streamencoding=mp31", 
+            "name": "Orient"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304520&streamencoding=mp31", 
+            "name": "I Suffer Insomnia"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41453"
+}

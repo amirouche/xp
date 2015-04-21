@@ -1,0 +1,29 @@
+{
+    "name": "R\u00e1dio Pirata", 
+    "artist": "Landfill", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51201&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415668&streamencoding=mp31", 
+            "name": "Poesia De Um Mau Momento"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415669&streamencoding=mp31", 
+            "name": "A Chuva"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415675&streamencoding=mp31", 
+            "name": "O Deserto"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415694&streamencoding=mp31", 
+            "name": "Belzebu Badalo"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51201"
+}

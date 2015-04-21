@@ -1,0 +1,79 @@
+{
+    "name": "Subversion", 
+    "artist": "Braker", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61422&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525614&streamencoding=mp31", 
+            "name": "Bass Invaders"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525633&streamencoding=mp31", 
+            "name": "Trapped In A Haunted Church"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525624&streamencoding=mp31", 
+            "name": "Spartan Law"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525630&streamencoding=mp31", 
+            "name": "Anxiety"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525622&streamencoding=mp31", 
+            "name": "Schizophrenia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525623&streamencoding=mp31", 
+            "name": "Microgravity"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525627&streamencoding=mp31", 
+            "name": "Nuclear Fusion"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525631&streamencoding=mp31", 
+            "name": "Razor Edge"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525626&streamencoding=mp31", 
+            "name": "Where's Zeus"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525625&streamencoding=mp31", 
+            "name": "Overload"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525634&streamencoding=mp31", 
+            "name": "Terror"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525632&streamencoding=mp31", 
+            "name": "Winder"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525628&streamencoding=mp31", 
+            "name": "Korobeiniki"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525629&streamencoding=mp31", 
+            "name": "Down The Rabbit Hole"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61422"
+}

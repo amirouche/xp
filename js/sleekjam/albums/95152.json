@@ -1,0 +1,74 @@
+{
+    "name": "Retorno al Origen", 
+    "artist": "Yuanan", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95152&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814948&streamencoding=mp31", 
+            "name": " Dime"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814950&streamencoding=mp31", 
+            "name": " Revolucion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814953&streamencoding=mp31", 
+            "name": "Tu Frialdad (version Triana)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814944&streamencoding=mp31", 
+            "name": "Quisiera"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814947&streamencoding=mp31", 
+            "name": " Amanece"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814951&streamencoding=mp31", 
+            "name": "Yuanan - Miedo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814942&streamencoding=mp31", 
+            "name": " Lecciones de la vida"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814946&streamencoding=mp31", 
+            "name": "Donde estan"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814949&streamencoding=mp31", 
+            "name": "Caminando"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814943&streamencoding=mp31", 
+            "name": " Siento"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814945&streamencoding=mp31", 
+            "name": " Lucha"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814952&streamencoding=mp31", 
+            "name": "Truths & Rights (Dub version)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=814954&streamencoding=mp31", 
+            "name": "Lecciones de la vida (Spanish RMX)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95152"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Shoddy Heart EP", 
+    "artist": "The Nod", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64976&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559449&streamencoding=mp31", 
+            "name": "The States"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559450&streamencoding=mp31", 
+            "name": "Frustrating (The Shit Out of You)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559704&streamencoding=mp31", 
+            "name": "Shoddy Heart"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559446&streamencoding=mp31", 
+            "name": "Watering Hole"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559448&streamencoding=mp31", 
+            "name": "Talk in Code"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559447&streamencoding=mp31", 
+            "name": "Hometown Kid"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64976"
+}

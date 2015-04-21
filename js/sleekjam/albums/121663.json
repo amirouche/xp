@@ -1,0 +1,14 @@
+{
+    "name": "Rock The Moon (Single)", 
+    "artist": "PeerGynt Lobogris", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121663&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033504&streamencoding=mp31", 
+            "name": "Rock The Moon"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121663"
+}

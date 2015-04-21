@@ -1,0 +1,24 @@
+{
+    "name": "Black Afghan (EP)", 
+    "artist": "TLE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135790&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132336&streamencoding=mp31", 
+            "name": "The Swamp Machine"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132337&streamencoding=mp31", 
+            "name": "Silkroad (Black Afghan I) Remastered"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132338&streamencoding=mp31", 
+            "name": "Ambushinkandahar (Black Afghan II) Remastered"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135790"
+}

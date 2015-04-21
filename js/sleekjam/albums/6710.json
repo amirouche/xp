@@ -1,0 +1,84 @@
+{
+    "name": "Ballades de nulle part", 
+    "artist": "Fabrice Collette", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6710&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75192&streamencoding=mp31", 
+            "name": "Le m\u00e9tro nous appelle"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75193&streamencoding=mp31", 
+            "name": "Qu'est ce qui reste de nous ?"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75194&streamencoding=mp31", 
+            "name": "Au bar des \u00e9trangers"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75195&streamencoding=mp31", 
+            "name": "A l'heure du marchand d'glace"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75196&streamencoding=mp31", 
+            "name": "Tu venais m'voir"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75197&streamencoding=mp31", 
+            "name": "Le blues du vieil arrosoir"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75198&streamencoding=mp31", 
+            "name": "Voyageurs de nulle part"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75199&streamencoding=mp31", 
+            "name": "La maison du faubourg"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75200&streamencoding=mp31", 
+            "name": "Courir c'est pas facile"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75201&streamencoding=mp31", 
+            "name": "Presque fr\u00e8res"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75202&streamencoding=mp31", 
+            "name": "Mourir \u00e0 la guerre"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75203&streamencoding=mp31", 
+            "name": "Allo Marie-Th\u00e9r\u00e8se"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75204&streamencoding=mp31", 
+            "name": "Jeane, comme toujours"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75205&streamencoding=mp31", 
+            "name": "Fiesta"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75206&streamencoding=mp31", 
+            "name": "C'est pas plus qu'un dimanche"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6710"
+}

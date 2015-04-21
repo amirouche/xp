@@ -1,0 +1,74 @@
+{
+    "name": "Primitive Pulse", 
+    "artist": "The N.O. Miskatonic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113268&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963547&streamencoding=mp31", 
+            "name": "The last great taboo "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963557&streamencoding=mp31", 
+            "name": "Primitive pulse "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963548&streamencoding=mp31", 
+            "name": "Unmasked "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963555&streamencoding=mp31", 
+            "name": "Prime time carnage "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963550&streamencoding=mp31", 
+            "name": "A rumor rocks the market "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963549&streamencoding=mp31", 
+            "name": "Home is a soul garage "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963552&streamencoding=mp31", 
+            "name": "The deviants"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963554&streamencoding=mp31", 
+            "name": "Tantalising kiss"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963545&streamencoding=mp31", 
+            "name": "A maximum welsh"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963556&streamencoding=mp31", 
+            "name": "Touched by grace"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963551&streamencoding=mp31", 
+            "name": "Uncolored"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963546&streamencoding=mp31", 
+            "name": "Them"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963553&streamencoding=mp31", 
+            "name": "Pieces of heaven"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113268"
+}

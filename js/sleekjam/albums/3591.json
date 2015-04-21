@@ -1,0 +1,94 @@
+{
+    "name": "Nghzk!", 
+    "artist": "Jampy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3591&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26219&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26220&streamencoding=mp31", 
+            "name": "Noris"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26221&streamencoding=mp31", 
+            "name": "Vento da Nord (Oceano Mare Part One)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26222&streamencoding=mp31", 
+            "name": "Bossa For My Brother"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26223&streamencoding=mp31", 
+            "name": "Coldwater"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26224&streamencoding=mp31", 
+            "name": "Sottiletta Blues"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26225&streamencoding=mp31", 
+            "name": "Chi fa da S\u00e8..."
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26226&streamencoding=mp31", 
+            "name": "Trying to Play Some Jazzy Blues"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26227&streamencoding=mp31", 
+            "name": "Alychudno"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26228&streamencoding=mp31", 
+            "name": "Bride Destroy"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26229&streamencoding=mp31", 
+            "name": "Yzwoljdrah"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26230&streamencoding=mp31", 
+            "name": "Love In Freudian Dreams"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26231&streamencoding=mp31", 
+            "name": "Diego's Song"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26232&streamencoding=mp31", 
+            "name": "Strange Fellowship"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26233&streamencoding=mp31", 
+            "name": "Trash TV"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26234&streamencoding=mp31", 
+            "name": "On Lunch With Zalayeta"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26235&streamencoding=mp31", 
+            "name": "Tony (Outro)"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3591"
+}

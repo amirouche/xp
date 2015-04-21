@@ -1,0 +1,49 @@
+{
+    "name": "Refuse To Give Up", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94136&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804652&streamencoding=mp31", 
+            "name": "Look (ft 4nsic)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804653&streamencoding=mp31", 
+            "name": "Red Light (ft Helena J)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804654&streamencoding=mp31", 
+            "name": "Land Of The Dead"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804655&streamencoding=mp31", 
+            "name": "Where I Stand (ft Shannon Hurley)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804656&streamencoding=mp31", 
+            "name": "Headless Frog 4"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804657&streamencoding=mp31", 
+            "name": "Matter Of Time (ft Shannon Hurley)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804658&streamencoding=mp31", 
+            "name": "Refuse To Give Up (ft Donkey Horse Mule)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804659&streamencoding=mp31", 
+            "name": "Prescription For Real Love (ft Speck)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94136"
+}

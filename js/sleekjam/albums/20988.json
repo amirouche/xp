@@ -1,0 +1,54 @@
+{
+    "name": "Blues & Roll Club", 
+    "artist": "Vicente Mu\u00f1oz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20988&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146676&streamencoding=mp31", 
+            "name": "Aparcado en la Barra de un Bar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146689&streamencoding=mp31", 
+            "name": "De Barrio"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146974&streamencoding=mp31", 
+            "name": "Hot Blues"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146979&streamencoding=mp31", 
+            "name": "Club del Rock & Blues"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146987&streamencoding=mp31", 
+            "name": "Zumo de Ciudad"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146995&streamencoding=mp31", 
+            "name": "Una Rubia en una Harley"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147004&streamencoding=mp31", 
+            "name": "En mi silencio"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147015&streamencoding=mp31", 
+            "name": "Abrazado a una Botella de Jack Daniels"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147019&streamencoding=mp31", 
+            "name": "El Coraz\u00f3n de las Bicicletas"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20988"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "\"Green Ants\"", 
+    "artist": "ZMEIRADUGA ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94359&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807325&streamencoding=mp31", 
+            "name": "Exit from the past - \u0412\u044b\u0445\u043e\u0434 \u043e\u0442 \u043f\u0440\u043e\u0448\u043b\u043e\u0433\u043e"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807326&streamencoding=mp31", 
+            "name": "The general dreams- \u041e\u0431\u0449\u0438\u0435 \u0441\u043d\u044b"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807327&streamencoding=mp31", 
+            "name": "\u0421onversation- \u0420\u0430\u0437\u0433\u043e\u0432\u043e\u0440"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807328&streamencoding=mp31", 
+            "name": "They go! - \u041e\u043d\u0438 \u0438\u0434\u0443\u0442!"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807329&streamencoding=mp31", 
+            "name": "Wings grow- \u041a\u0440\u044b\u043b\u044c\u044f \u0440\u0430\u0441\u0442\u0443\u0442\ufeff"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94359"
+}

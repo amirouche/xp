@@ -1,0 +1,49 @@
+{
+    "name": "M\u00e9ditation", 
+    "artist": "Dealmantis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6546&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73821&streamencoding=mp31", 
+            "name": "Bells m\u00e9ditation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73822&streamencoding=mp31", 
+            "name": "Bells m\u00e9ditation 2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73823&streamencoding=mp31", 
+            "name": "Bells m\u00e9ditation 3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73824&streamencoding=mp31", 
+            "name": "China"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73825&streamencoding=mp31", 
+            "name": "China 2"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73826&streamencoding=mp31", 
+            "name": "Space"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73827&streamencoding=mp31", 
+            "name": "Cosmos"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73828&streamencoding=mp31", 
+            "name": "Cosmos 2"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6546"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "urbanitaet durch dichte", 
+    "artist": "dornschindler", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29355&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=199118&streamencoding=mp31", 
+            "name": "interlude"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=199121&streamencoding=mp31", 
+            "name": "komm her"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=199116&streamencoding=mp31", 
+            "name": "marzipan"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=199117&streamencoding=mp31", 
+            "name": "absolut"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=199119&streamencoding=mp31", 
+            "name": "dann und dann"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=199122&streamencoding=mp31", 
+            "name": "seit tagen"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=199120&streamencoding=mp31", 
+            "name": "weites feld"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29355"
+}

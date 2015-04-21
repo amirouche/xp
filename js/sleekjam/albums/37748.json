@@ -1,0 +1,159 @@
+{
+    "name": "366 Songs: April", 
+    "artist": "Mark Elliot Cullen", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37748&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264731&streamencoding=mp31", 
+            "name": "Tumbling Down"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264735&streamencoding=mp31", 
+            "name": "Awake"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264726&streamencoding=mp31", 
+            "name": "Lottery Card"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264744&streamencoding=mp31", 
+            "name": "Tramlines"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264728&streamencoding=mp31", 
+            "name": "Puddlepaste (Beetlebum)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264748&streamencoding=mp31", 
+            "name": "Karl Pilkington Has a Head Like a Fucking Orange"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264751&streamencoding=mp31", 
+            "name": "Little Elf"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264741&streamencoding=mp31", 
+            "name": "Canvas Guitar"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264743&streamencoding=mp31", 
+            "name": " Dead Apples"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264739&streamencoding=mp31", 
+            "name": " Monorail"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264724&streamencoding=mp31", 
+            "name": " Mean Spirit"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264736&streamencoding=mp31", 
+            "name": " Bucket of Chicken"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264730&streamencoding=mp31", 
+            "name": " Handsome Joe"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264732&streamencoding=mp31", 
+            "name": " Mobster Blues"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264753&streamencoding=mp31", 
+            "name": " Advertisement"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264740&streamencoding=mp31", 
+            "name": "The Sedan"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264750&streamencoding=mp31", 
+            "name": " Pick It Up Blues"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264733&streamencoding=mp31", 
+            "name": " Swampland"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264742&streamencoding=mp31", 
+            "name": " Wicked Melodies"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264747&streamencoding=mp31", 
+            "name": " Mark No Drink Orange Rum"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264727&streamencoding=mp31", 
+            "name": " I Will Walk Under the Archway"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264738&streamencoding=mp31", 
+            "name": " Guitarvalk"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264723&streamencoding=mp31", 
+            "name": " Fireman"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264752&streamencoding=mp31", 
+            "name": " Underkeeper Country"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264745&streamencoding=mp31", 
+            "name": " Bottle of Ink"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264729&streamencoding=mp31", 
+            "name": " Laila Laila"
+        }, 
+        {
+            "position": 27, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264746&streamencoding=mp31", 
+            "name": " Where I'll Be"
+        }, 
+        {
+            "position": 28, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264737&streamencoding=mp31", 
+            "name": " Missing Snow"
+        }, 
+        {
+            "position": 29, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264734&streamencoding=mp31", 
+            "name": " Liar's Cross"
+        }, 
+        {
+            "position": 30, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264749&streamencoding=mp31", 
+            "name": "Twenty First Floor"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37748"
+}

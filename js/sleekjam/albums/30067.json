@@ -1,0 +1,14 @@
+{
+    "name": "The sinking City", 
+    "artist": "softspace", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30067&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202382&streamencoding=mp31", 
+            "name": "Venice "
+        }
+    ], 
+    "release": "2008", 
+    "id": "30067"
+}

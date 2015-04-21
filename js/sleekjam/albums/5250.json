@@ -1,0 +1,69 @@
+{
+    "name": "Brut de d\u00e9coffrage", 
+    "artist": "soulriddim", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5250&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=43590&streamencoding=mp31", 
+            "name": "Radio Gr\u00e9sivaudan"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=43591&streamencoding=mp31", 
+            "name": "D\u00e9m\u00ealer"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=43592&streamencoding=mp31", 
+            "name": "Pieds Nus"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=43593&streamencoding=mp31", 
+            "name": "Encore un pas"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=43594&streamencoding=mp31", 
+            "name": "En exil"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=43595&streamencoding=mp31", 
+            "name": "C\u00f4t\u00e9 obscur"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=43596&streamencoding=mp31", 
+            "name": "Les Petits Habitants"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=43597&streamencoding=mp31", 
+            "name": "Douce M\u00e9lodie"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=43598&streamencoding=mp31", 
+            "name": "Le Lien"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=43599&streamencoding=mp31", 
+            "name": "Salut"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=43600&streamencoding=mp31", 
+            "name": "Coule Dub"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=43601&streamencoding=mp31", 
+            "name": "Donne"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5250"
+}

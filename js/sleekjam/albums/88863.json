@@ -1,0 +1,14 @@
+{
+    "name": "Desperado Alert", 
+    "artist": "DANIEL H", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88863&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759779&streamencoding=mp31", 
+            "name": "Desperado Alert"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88863"
+}

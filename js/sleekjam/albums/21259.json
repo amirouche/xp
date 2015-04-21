@@ -1,0 +1,14 @@
+{
+    "name": "Selection Dubplates", 
+    "artist": "Angata Sound", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21259&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148289&streamencoding=mp31", 
+            "name": " BURN DAT Station 98.2"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21259"
+}

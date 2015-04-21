@@ -1,0 +1,29 @@
+{
+    "name": "[EPH086]\u00c6theric - Back to the Roots ", 
+    "artist": "Ephedrina Netlabel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133774&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119499&streamencoding=mp31", 
+            "name": "Back to the childhood"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119500&streamencoding=mp31", 
+            "name": "Bankai"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119501&streamencoding=mp31", 
+            "name": "Circle of Life"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119502&streamencoding=mp31", 
+            "name": "Meditation"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133774"
+}

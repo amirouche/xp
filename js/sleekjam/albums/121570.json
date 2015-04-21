@@ -1,0 +1,44 @@
+{
+    "name": "Tales of Love & Indecision", 
+    "artist": "Noisy Neighbours", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121570&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032910&streamencoding=mp31", 
+            "name": "Rosie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032911&streamencoding=mp31", 
+            "name": "Admiral Hosier's Ghost"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032912&streamencoding=mp31", 
+            "name": "Tempest"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032913&streamencoding=mp31", 
+            "name": "Trucker Lassie Blues"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032914&streamencoding=mp31", 
+            "name": "Lonely Beer"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032908&streamencoding=mp31", 
+            "name": "Bitch"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032909&streamencoding=mp31", 
+            "name": "Satan In Love"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121570"
+}

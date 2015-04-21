@@ -1,0 +1,64 @@
+{
+    "name": "LIVE", 
+    "artist": "YAM", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20001&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139760&streamencoding=mp31", 
+            "name": "FAIRE FACE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139763&streamencoding=mp31", 
+            "name": "NOUS FAIRE CROIRE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139771&streamencoding=mp31", 
+            "name": "ON NE SAIT"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139773&streamencoding=mp31", 
+            "name": "HOW LONG (FEAT. HUMBLE I)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139775&streamencoding=mp31", 
+            "name": "PASSE LE CAP"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139794&streamencoding=mp31", 
+            "name": "SI TU N'AIMES PAS CA"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139796&streamencoding=mp31", 
+            "name": "RAISONNE (FEAT. HUMBLE I)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139799&streamencoding=mp31", 
+            "name": "SUBSISTANCE"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139801&streamencoding=mp31", 
+            "name": "BABYLONE"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139811&streamencoding=mp31", 
+            "name": "LA CHIMERE"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139814&streamencoding=mp31", 
+            "name": "OU QUE L'ON AILLE"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20001"
+}

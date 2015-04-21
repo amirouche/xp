@@ -1,0 +1,54 @@
+{
+    "name": "When Rock'n'Roll Was Not Business", 
+    "artist": "Tiresia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46523&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=356761&streamencoding=mp31", 
+            "name": "Burn the dancefloor"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=356762&streamencoding=mp31", 
+            "name": "RDB"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=356763&streamencoding=mp31", 
+            "name": "My Cloud"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=356764&streamencoding=mp31", 
+            "name": "River of war"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=356765&streamencoding=mp31", 
+            "name": "One man"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=356766&streamencoding=mp31", 
+            "name": "One man lies alone"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=356767&streamencoding=mp31", 
+            "name": "Love to die"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=356768&streamencoding=mp31", 
+            "name": "When rock'n'roll was not business (requiem for a post-modern dreamer)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=356769&streamencoding=mp31", 
+            "name": "Something for my friends"
+        }
+    ], 
+    "release": "2009", 
+    "id": "46523"
+}

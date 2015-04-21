@@ -1,0 +1,34 @@
+{
+    "name": "Camelot", 
+    "artist": "Camelot", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3681&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26871&streamencoding=mp31", 
+            "name": "T.A."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26872&streamencoding=mp31", 
+            "name": "Goodfellas"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26874&streamencoding=mp31", 
+            "name": "Camelot"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26877&streamencoding=mp31", 
+            "name": "Easier said than done"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26879&streamencoding=mp31", 
+            "name": "Leave this way"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3681"
+}

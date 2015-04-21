@@ -1,0 +1,69 @@
+{
+    "name": "VELOCIDAD", 
+    "artist": "Caroline Cruz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63206&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541614&streamencoding=mp31", 
+            "name": "Tu Sonido"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541656&streamencoding=mp31", 
+            "name": "Columpio"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541657&streamencoding=mp31", 
+            "name": "Esplendor En Miraflores"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541658&streamencoding=mp31", 
+            "name": "Cisne Negro"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541659&streamencoding=mp31", 
+            "name": "Zapatos Para Caminar En El Sol"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541660&streamencoding=mp31", 
+            "name": "\u00c1rbol De Las Palabras"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541661&streamencoding=mp31", 
+            "name": "Triste"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541945&streamencoding=mp31", 
+            "name": "Tu Voz"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541946&streamencoding=mp31", 
+            "name": "Exilio"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541947&streamencoding=mp31", 
+            "name": "Velocidad"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541948&streamencoding=mp31", 
+            "name": "Puente De Cabellos"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541949&streamencoding=mp31", 
+            "name": "Barbie"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63206"
+}

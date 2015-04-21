@@ -1,0 +1,49 @@
+{
+    "name": "Feelings Nature", 
+    "artist": "EIVISSA SALINAS feat. DJ HSERES", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88121&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753182&streamencoding=mp31", 
+            "name": "Cross My Heart"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753176&streamencoding=mp31", 
+            "name": "Feelings Nature"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753175&streamencoding=mp31", 
+            "name": "Lover Way"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753178&streamencoding=mp31", 
+            "name": "What Does Love To Me [D.Dark Heart Vocal Mix]"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753179&streamencoding=mp31", 
+            "name": "Close To you"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753180&streamencoding=mp31", 
+            "name": "Lounge Affair"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753177&streamencoding=mp31", 
+            "name": "What Does Love To Me [Instrumental Mix]"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753181&streamencoding=mp31", 
+            "name": "Human Emotions"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88121"
+}

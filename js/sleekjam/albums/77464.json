@@ -1,0 +1,64 @@
+{
+    "name": "Damaged and hurt", 
+    "artist": "butapren84 / division5 aka ZMM", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77464&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667519&streamencoding=mp31", 
+            "name": "q5 song of wave traveller II. The great battle and his song. He`s not an artist .He`s an operator ,fighter and preacher. Coming with his golden horse"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667520&streamencoding=mp31", 
+            "name": "q4 song of wave traveller I"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667518&streamencoding=mp31", 
+            "name": "q3 wave travel"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667516&streamencoding=mp31", 
+            "name": "q1 first damaged "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667524&streamencoding=mp31", 
+            "name": "q2 second damaged "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667526&streamencoding=mp31", 
+            "name": "q6 dom lalek (The dolls house)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667523&streamencoding=mp31", 
+            "name": "q uszk zodiac stereo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667522&streamencoding=mp31", 
+            "name": "q u2 zodiacus"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667525&streamencoding=mp31", 
+            "name": "q3 u throne of star"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667521&streamencoding=mp31", 
+            "name": "q4 u product exercise"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667517&streamencoding=mp31", 
+            "name": "q5u the sign of Vega and Canopus"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77464"
+}

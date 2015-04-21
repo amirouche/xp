@@ -1,0 +1,14 @@
+{
+    "name": "Carillon Dream", 
+    "artist": "Luciano Dessi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130378&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1093847&streamencoding=mp31", 
+            "name": "Carillon dream"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130378"
+}

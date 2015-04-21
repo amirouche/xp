@@ -1,0 +1,69 @@
+{
+    "name": "Net Ego", 
+    "artist": "Stray_D.G.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70313&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606473&streamencoding=mp31", 
+            "name": "Stray_D.G.___4dUBASS-RAVE__ABSTR_(BASE_2)."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606474&streamencoding=mp31", 
+            "name": "Stray_D.G___Jop-Poppa"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606475&streamencoding=mp31", 
+            "name": "Stray_D.G.___Hr_En_Scka"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606476&streamencoding=mp31", 
+            "name": "Stray_D.G.___Silsonsity 2   (slow version)."
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606477&streamencoding=mp31", 
+            "name": "Stray_D.G.___Horror track"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606478&streamencoding=mp31", 
+            "name": "Stray_D.G___Strange_beat_ (Acid_Punk_Edition _2 _)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606479&streamencoding=mp31", 
+            "name": "Stray_D.G.___ The RapphaH"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606480&streamencoding=mp31", 
+            "name": "Stray_D.G.___Hipa _Hop_track"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607428&streamencoding=mp31", 
+            "name": "Stray_D.G.___Mortis_&_Dj..  Depp_(Dead vers.)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607429&streamencoding=mp31", 
+            "name": "Stray_D.G.___Electrolowbzik (BreakBeat_rule_Hard_vers.)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607431&streamencoding=mp31", 
+            "name": "Stray_D.G.___Gav_No_(gAF_nO_Base_Edit.)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607432&streamencoding=mp31", 
+            "name": "Stray_D.G.___Mortis_&_Dj. Depp (Promo._vers.)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70313"
+}

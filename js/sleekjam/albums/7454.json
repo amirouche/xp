@@ -1,0 +1,54 @@
+{
+    "name": "Kokkalj\u00f3s Khronicles", 
+    "artist": "Kokkalj\u00f3s", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7454&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81326&streamencoding=mp31", 
+            "name": "Kar\u00f3k\u00ed Landskappa"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81327&streamencoding=mp31", 
+            "name": "\u00de\u00e9r lei\u00f0ist greinilega"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81328&streamencoding=mp31", 
+            "name": "Mygl"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81329&streamencoding=mp31", 
+            "name": "Framt\u00ed\u00f0 m\u00edn er sj\u00e1lfsmor\u00f0 =("
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81330&streamencoding=mp31", 
+            "name": "\u00cd huga m\u00ednum a\u00f0 skj\u00f3ta kan\u00ednur"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81331&streamencoding=mp31", 
+            "name": "Strimlarnir hafa \u00e1valt veri\u00f0 of langir"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81332&streamencoding=mp31", 
+            "name": "Gengi\u00f0 fr\u00e1 st\u00f3ru sk\u00f3num"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81333&streamencoding=mp31", 
+            "name": "Vi\u00f0 eigum okkur hauk \u00ed horni(feat. Tryggvi)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81334&streamencoding=mp31", 
+            "name": "Ra haha. Hattur, \u00c6"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7454"
+}

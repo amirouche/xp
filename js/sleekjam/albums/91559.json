@@ -1,0 +1,34 @@
+{
+    "name": "Mrs. X", 
+    "artist": "Aym Malahia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91559&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780685&streamencoding=mp31", 
+            "name": "Aym- I'm ready"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780740&streamencoding=mp31", 
+            "name": "Love music Box"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780741&streamencoding=mp31", 
+            "name": "Karma"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780742&streamencoding=mp31", 
+            "name": "I'm lost without you"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780743&streamencoding=mp31", 
+            "name": "Fresher than you wann"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91559"
+}

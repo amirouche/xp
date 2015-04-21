@@ -1,0 +1,44 @@
+{
+    "name": "SOUL FLIGHT", 
+    "artist": "J\u00fcrgen N\u00f6ding", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56704&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481124&streamencoding=mp31", 
+            "name": "Soul Flight-Soul Flight-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481125&streamencoding=mp31", 
+            "name": "Journey by Journey-Soul Flight-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481126&streamencoding=mp31", 
+            "name": "Joy of the spring-Soul Flight-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481127&streamencoding=mp31", 
+            "name": "Auf dem Jahrmarkt-Soul Flight-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481128&streamencoding=mp31", 
+            "name": "Steh wieder auf-Soul Flight-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481129&streamencoding=mp31", 
+            "name": "All these people-Soul Flight-(c)Copyright 2006 by Juergen Noeding"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481130&streamencoding=mp31", 
+            "name": "This nature will come-Soul Flight-(c)Copyright 2006 by Juergen Noeding"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56704"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "PHYLOXERA - A.I.D.A. (Chrysalis Demotape) - PHST08", 
+    "artist": "PHST RECORDS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74360&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=642172&streamencoding=mp31", 
+            "name": "Side A (II)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=642173&streamencoding=mp31", 
+            "name": "Side B (IV)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74360"
+}

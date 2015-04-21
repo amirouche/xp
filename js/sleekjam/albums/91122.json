@@ -1,0 +1,24 @@
+{
+    "name": "Dark Matter", 
+    "artist": "Black Whole", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91122&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777545&streamencoding=mp31", 
+            "name": "Catacombat"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777546&streamencoding=mp31", 
+            "name": "My World's Ending"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777547&streamencoding=mp31", 
+            "name": "Pictures of a City"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91122"
+}

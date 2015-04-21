@@ -1,0 +1,29 @@
+{
+    "name": "Show Me What You Got", 
+    "artist": "Ay - 14ice", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111863&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951449&streamencoding=mp31", 
+            "name": "Never Love Again"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951448&streamencoding=mp31", 
+            "name": "Show Me What You Got"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951447&streamencoding=mp31", 
+            "name": "Don't Follow Me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951446&streamencoding=mp31", 
+            "name": "Ham D's Style - Behind The Wall (Relax)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111863"
+}

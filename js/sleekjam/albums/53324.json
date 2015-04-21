@@ -1,0 +1,34 @@
+{
+    "name": "PiAnO opus session FiVe", 
+    "artist": "PHILIpPE bRaY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53324&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441314&streamencoding=mp31", 
+            "name": "One"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441324&streamencoding=mp31", 
+            "name": "Two"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441335&streamencoding=mp31", 
+            "name": "Three"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441709&streamencoding=mp31", 
+            "name": "Four"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441722&streamencoding=mp31", 
+            "name": "Five"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53324"
+}

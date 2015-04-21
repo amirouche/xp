@@ -1,0 +1,24 @@
+{
+    "name": "PHYLOXERA - s/t (Marketing Mix Contest) - PHLXR00", 
+    "artist": "PHST RECORDS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84869&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726372&streamencoding=mp31", 
+            "name": "Microsoft Sam"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726371&streamencoding=mp31", 
+            "name": "XVII I II III"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726370&streamencoding=mp31", 
+            "name": "IV V VI"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84869"
+}

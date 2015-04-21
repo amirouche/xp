@@ -1,0 +1,69 @@
+{
+    "name": "Smashed!", 
+    "artist": "Sean T Wright", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60418&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516209&streamencoding=mp31", 
+            "name": "Smashed"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516210&streamencoding=mp31", 
+            "name": "My Love Is Real"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516211&streamencoding=mp31", 
+            "name": "Ride With The Devil"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516213&streamencoding=mp31", 
+            "name": "Billy Ray's Circus Of Life"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516214&streamencoding=mp31", 
+            "name": "The Gambler"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516215&streamencoding=mp31", 
+            "name": "The Farm"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516216&streamencoding=mp31", 
+            "name": "Supersonic Groovy Guy"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516212&streamencoding=mp31", 
+            "name": "Another Angel"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516217&streamencoding=mp31", 
+            "name": "Star Shine"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516218&streamencoding=mp31", 
+            "name": "Rate Me"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516219&streamencoding=mp31", 
+            "name": "Forever More"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516220&streamencoding=mp31", 
+            "name": "Into The Sun"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60418"
+}

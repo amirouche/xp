@@ -1,0 +1,79 @@
+{
+    "name": "Changeover", 
+    "artist": "Sim Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74276&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641381&streamencoding=mp31", 
+            "name": "Somewhere It Has To Start"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641382&streamencoding=mp31", 
+            "name": "Listen To Me"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641383&streamencoding=mp31", 
+            "name": "Some Things Never Change"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641384&streamencoding=mp31", 
+            "name": "By-Product"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641389&streamencoding=mp31", 
+            "name": "Every Sunday"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641390&streamencoding=mp31", 
+            "name": "Look Back"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641391&streamencoding=mp31", 
+            "name": "Don't Know"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641393&streamencoding=mp31", 
+            "name": "Chill Out Carefully"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641394&streamencoding=mp31", 
+            "name": "My Reason To Stay"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641407&streamencoding=mp31", 
+            "name": "Disadvantage"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641408&streamencoding=mp31", 
+            "name": "Find The Groove"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641410&streamencoding=mp31", 
+            "name": "Changeover"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641415&streamencoding=mp31", 
+            "name": "What Do I Need More"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641436&streamencoding=mp31", 
+            "name": "That's It"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74276"
+}

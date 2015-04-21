@@ -1,0 +1,69 @@
+{
+    "name": "Winter tales", 
+    "artist": "MUZ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37888&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266172&streamencoding=mp31", 
+            "name": "snowflakes dance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266173&streamencoding=mp31", 
+            "name": "fir in fire"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266174&streamencoding=mp31", 
+            "name": "rooftops wanderer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266175&streamencoding=mp31", 
+            "name": "gifts are open"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266177&streamencoding=mp31", 
+            "name": "snowman 's serenade"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266179&streamencoding=mp31", 
+            "name": "winter trap"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266180&streamencoding=mp31", 
+            "name": "sky is grey"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266181&streamencoding=mp31", 
+            "name": "snowbound 's end"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266182&streamencoding=mp31", 
+            "name": "run snowball run"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266183&streamencoding=mp31", 
+            "name": "where ice meet water"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266184&streamencoding=mp31", 
+            "name": "snowman and the thaw"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266185&streamencoding=mp31", 
+            "name": "the melting"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37888"
+}

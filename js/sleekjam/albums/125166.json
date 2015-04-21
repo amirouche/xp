@@ -1,0 +1,14 @@
+{
+    "name": "Stones, Metal & Energy (Single Edition)", 
+    "artist": "VolXcult", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125166&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060898&streamencoding=mp31", 
+            "name": "Legend Blue"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125166"
+}

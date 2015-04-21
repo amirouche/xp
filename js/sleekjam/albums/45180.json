@@ -1,0 +1,39 @@
+{
+    "name": "Tranquillity", 
+    "artist": "Andrew Arnold", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45180&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342731&streamencoding=mp31", 
+            "name": "You've Got a Future"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342735&streamencoding=mp31", 
+            "name": "Show's Over"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342736&streamencoding=mp31", 
+            "name": "Inhibition"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342733&streamencoding=mp31", 
+            "name": "The Real Moon"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342734&streamencoding=mp31", 
+            "name": "A Dead Man's Tracks"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342732&streamencoding=mp31", 
+            "name": "No Matter How Much You Wanted To..."
+        }
+    ], 
+    "release": "2009", 
+    "id": "45180"
+}

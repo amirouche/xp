@@ -1,0 +1,19 @@
+{
+    "name": "1000Trees", 
+    "artist": "VisionespanoramiK", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85165&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713347&streamencoding=mp31", 
+            "name": "A - VisionespanoramiK & Impuls - 1000Trees (Vocal version)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713348&streamencoding=mp31", 
+            "name": "B - VisionespanoramiK & Impuls - 1000Trees (Instrumental version)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85165"
+}

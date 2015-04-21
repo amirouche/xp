@@ -1,0 +1,24 @@
+{
+    "name": "PLATERUENA", 
+    "artist": "DOCTOR BLUES", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57309&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488732&streamencoding=mp31", 
+            "name": "Botxo  Boogie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488321&streamencoding=mp31", 
+            "name": "D\u00b4nt Cray"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488646&streamencoding=mp31", 
+            "name": "Blod Wine"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57309"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "One Day of Brahma", 
+    "artist": "Santah", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22288&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155140&streamencoding=mp31", 
+            "name": "Santah - Gandharvaloka"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22288"
+}

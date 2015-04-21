@@ -1,0 +1,14 @@
+{
+    "name": "I Smoke Di Herb", 
+    "artist": "Za\u00efan", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102821&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875818&streamencoding=mp31", 
+            "name": "I Smoke Di Herb "
+        }
+    ], 
+    "release": "2011", 
+    "id": "102821"
+}

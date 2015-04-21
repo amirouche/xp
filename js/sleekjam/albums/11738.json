@@ -1,0 +1,44 @@
+{
+    "name": "Horizontal", 
+    "artist": "benjamin moreau", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11738&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103279&streamencoding=mp31", 
+            "name": "louis"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103280&streamencoding=mp31", 
+            "name": "Mouty"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103293&streamencoding=mp31", 
+            "name": "girl's name"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103295&streamencoding=mp31", 
+            "name": "karvelief"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103307&streamencoding=mp31", 
+            "name": "pallissandre"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103315&streamencoding=mp31", 
+            "name": "torflinn"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103304&streamencoding=mp31", 
+            "name": "palafandre"
+        }
+    ], 
+    "release": "2007", 
+    "id": "11738"
+}

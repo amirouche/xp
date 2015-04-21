@@ -1,0 +1,29 @@
+{
+    "name": "Various Artists - Melodica Time", 
+    "artist": "Angel Dust Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109916&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936459&streamencoding=mp31", 
+            "name": "Phoniandflore - Melodica Time (Original Prod)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936462&streamencoding=mp31", 
+            "name": "Shan-A-Shan - Melodica Time (Cut Session)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936461&streamencoding=mp31", 
+            "name": "Injham - Melodica Time (Remix)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936460&streamencoding=mp31", 
+            "name": "Jideh High - Melodica Time (Sound System Style)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109916"
+}

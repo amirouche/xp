@@ -1,0 +1,14 @@
+{
+    "name": "P'tit bonheur", 
+    "artist": "Serge CABON", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31551&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214404&streamencoding=mp31", 
+            "name": "P'tit bonheur - wave -"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31551"
+}

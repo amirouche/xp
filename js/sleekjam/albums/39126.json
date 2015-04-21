@@ -1,0 +1,59 @@
+{
+    "name": "In Ten City", 
+    "artist": "itsloudman", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39126&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=277384&streamencoding=mp31", 
+            "name": "Irish Cee"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=277387&streamencoding=mp31", 
+            "name": "Dream Search"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=277380&streamencoding=mp31", 
+            "name": "Space N Time"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=277386&streamencoding=mp31", 
+            "name": "Dry Time"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=277381&streamencoding=mp31", 
+            "name": "Soaring Through"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=277382&streamencoding=mp31", 
+            "name": "Shimmer"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=277379&streamencoding=mp31", 
+            "name": "Summer Melody"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=277388&streamencoding=mp31", 
+            "name": "Beverly Hills Morning"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=277385&streamencoding=mp31", 
+            "name": "In 10 City"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=277383&streamencoding=mp31", 
+            "name": "Late In The Night"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39126"
+}

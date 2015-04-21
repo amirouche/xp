@@ -1,0 +1,59 @@
+{
+    "name": "M\u00e5ns\u00f6te", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63185&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=542026&streamencoding=mp31", 
+            "name": "Ax"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=542027&streamencoding=mp31", 
+            "name": "Den stolte flygaren"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=542028&streamencoding=mp31", 
+            "name": "M\u00e5ns\u00f6te "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=542032&streamencoding=mp31", 
+            "name": "\u00d6ppna dig"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=542033&streamencoding=mp31", 
+            "name": "Gl\u00e4dje"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=542034&streamencoding=mp31", 
+            "name": "G\u00e4rdssmygar"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=542037&streamencoding=mp31", 
+            "name": "Grottekvarn"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=542039&streamencoding=mp31", 
+            "name": "K\u00e4rlekens blommor"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=542045&streamencoding=mp31", 
+            "name": "Natur"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=542060&streamencoding=mp31", 
+            "name": "\u00c4ngel "
+        }
+    ], 
+    "release": "2010", 
+    "id": "63185"
+}

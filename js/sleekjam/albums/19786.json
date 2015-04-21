@@ -1,0 +1,14 @@
+{
+    "name": "power illusion ", 
+    "artist": "jimiamrich", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19786&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138420&streamencoding=mp31", 
+            "name": "me and my ex girlfriend"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19786"
+}

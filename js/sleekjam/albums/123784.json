@@ -1,0 +1,44 @@
+{
+    "name": "Beautiful Dreamer", 
+    "artist": "Master Peo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123784&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051008&streamencoding=mp31", 
+            "name": "Beautiful Dreamer"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051009&streamencoding=mp31", 
+            "name": "Dreaming"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051010&streamencoding=mp31", 
+            "name": "Sweet as Honey"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051011&streamencoding=mp31", 
+            "name": "A Closer Walk with Thee"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051012&streamencoding=mp31", 
+            "name": "Softly"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051013&streamencoding=mp31", 
+            "name": "The Same Old Oldtime Story"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051014&streamencoding=mp31", 
+            "name": "Crying in Tune"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123784"
+}

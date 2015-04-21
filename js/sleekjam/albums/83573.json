@@ -1,0 +1,14 @@
+{
+    "name": "Blues Of White: (Transitional version 2)", 
+    "artist": "Bruise In Blues", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83573&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715373&streamencoding=mp31", 
+            "name": "BluesOfWhite: (Transitionsal version 2)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83573"
+}

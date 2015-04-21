@@ -1,0 +1,34 @@
+{
+    "name": "Fuck You Las Vegas", 
+    "artist": "The Nunchaks", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13720&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110685&streamencoding=mp31", 
+            "name": "01. Ten Dollars"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110686&streamencoding=mp31", 
+            "name": "02. Charleville M\u00e9zi\u00e8res"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110687&streamencoding=mp31", 
+            "name": "03. F\u00a4\u00a4\u00a4 You, Las Vegas"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110688&streamencoding=mp31", 
+            "name": "04. Cuz I Luv U, Loozer"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110689&streamencoding=mp31", 
+            "name": "05. Groupie Like You"
+        }
+    ], 
+    "release": "2007", 
+    "id": "13720"
+}

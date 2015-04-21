@@ -1,0 +1,24 @@
+{
+    "name": "dj-datavirus627", 
+    "artist": "dj-datavirus627", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126564&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069922&streamencoding=mp31", 
+            "name": "dj-datavirus627 The htc Theme"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069921&streamencoding=mp31", 
+            "name": "dj-datavirus627 The September Reng"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069923&streamencoding=mp31", 
+            "name": "dj-datavirus627 the  darkes of ages hardstyle"
+        }
+    ], 
+    "release": "2013", 
+    "id": "126564"
+}

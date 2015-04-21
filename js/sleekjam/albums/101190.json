@@ -1,0 +1,14 @@
+{
+    "name": "Sophie's Song", 
+    "artist": "Lena Selyanina", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101190&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863934&streamencoding=mp31", 
+            "name": "Sophie's Song"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101190"
+}

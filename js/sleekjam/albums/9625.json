@@ -1,0 +1,39 @@
+{
+    "name": "NO!", 
+    "artist": "KAMDER", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9625&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94795&streamencoding=mp31", 
+            "name": "le sorcier"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94797&streamencoding=mp31", 
+            "name": "coXcase"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94798&streamencoding=mp31", 
+            "name": "spirit loft"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94799&streamencoding=mp31", 
+            "name": "blip pleasure"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94806&streamencoding=mp31", 
+            "name": "nebula quartet"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94808&streamencoding=mp31", 
+            "name": "voodoo kat"
+        }
+    ], 
+    "release": "2007", 
+    "id": "9625"
+}

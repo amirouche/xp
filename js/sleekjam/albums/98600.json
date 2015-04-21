@@ -1,0 +1,29 @@
+{
+    "name": " minimal house Dj Ciruzz", 
+    "artist": "Dj Ciruzz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98600&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843569&streamencoding=mp31", 
+            "name": "Dj Ciruzz- Minimalism"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843571&streamencoding=mp31", 
+            "name": "Dj Ciruzz- Like it"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843572&streamencoding=mp31", 
+            "name": "Dj Ciruzz- Techno"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843573&streamencoding=mp31", 
+            "name": "Dj Ciruzz- Work"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98600"
+}

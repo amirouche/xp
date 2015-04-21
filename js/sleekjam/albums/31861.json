@@ -1,0 +1,29 @@
+{
+    "name": "[In]conscience dans le viseur", 
+    "artist": "MAJESTE FELINE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31861&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217045&streamencoding=mp31", 
+            "name": "Supersitions"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217017&streamencoding=mp31", 
+            "name": "Caf\u00e9 Brouillard "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217050&streamencoding=mp31", 
+            "name": "J'aime pas"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217068&streamencoding=mp31", 
+            "name": "Les guerres propres"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31861"
+}

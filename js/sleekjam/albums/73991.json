@@ -1,0 +1,14 @@
+{
+    "name": "Vibes ", 
+    "artist": "Luigi Aristi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73991&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638811&streamencoding=mp31", 
+            "name": "Vibes"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73991"
+}

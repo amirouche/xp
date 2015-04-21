@@ -1,0 +1,104 @@
+{
+    "name": "all the time alone", 
+    "artist": "Semantic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86396&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739386&streamencoding=mp31", 
+            "name": "semantic - \u043b\u044e\u0434\u0438 \u0432 \u043f\u0435\u0447\u0430\u043b\u0438"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739392&streamencoding=mp31", 
+            "name": "semantic - \u0436\u0430\u043b\u043a\u0438\u0439 \u043d\u0435\u0443\u0434\u0430\u0447\u043d\u0438\u043a"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739381&streamencoding=mp31", 
+            "name": "semantic - \u0440\u0435\u0448\u0435\u043d\u0438\u0435"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739376&streamencoding=mp31", 
+            "name": "semantic - \u0447\u0430\u0441\u0442\u044c \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0441\u0442\u0438"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739382&streamencoding=mp31", 
+            "name": "semantic - \u0431\u043e\u043b\u044c\u043d\u043e\u0435 \u043e\u0434\u0438\u043d\u043e\u0447\u0435\u0441\u0442\u0432\u043e"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739387&streamencoding=mp31", 
+            "name": "semantic - \u043a\u043e\u043c\u043d\u0430\u0442\u0430"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739375&streamencoding=mp31", 
+            "name": "semantic - \u043c\u0438\u0433\u0440\u0435\u043d\u0438"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739388&streamencoding=mp31", 
+            "name": "semantic - \u0442\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u044f"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739384&streamencoding=mp31", 
+            "name": "semantic - \u0440\u0443\u0431\u0430\u0448\u043a\u0430"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739374&streamencoding=mp31", 
+            "name": "semantic - \u044d\u0442\u043e \u043f\u043e\u0432\u043b\u0438\u044f\u043b\u043e \u043d\u0430 \u0432\u0441\u044e \u043c\u043e\u044e \u0436\u0438\u0437\u043d\u044c"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739389&streamencoding=mp31", 
+            "name": "semantic - \u043d\u0435\u0438\u0437\u0431\u0435\u0436\u043d\u043e\u0441\u0442\u044c"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739385&streamencoding=mp31", 
+            "name": "semantic - all the time alone"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739390&streamencoding=mp31", 
+            "name": "semantic - \u0442\u0440\u0430\u0433\u0435\u0434\u0438\u044f \u0434\u0435\u0442\u0441\u0442\u0432\u0430"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739391&streamencoding=mp31", 
+            "name": "semantic - \u0433\u043b\u0443\u0431\u0438\u043d\u0430 \u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0438\u0438"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739377&streamencoding=mp31", 
+            "name": "semantic - \u043f\u0441\u0438\u0445\u0438\u0430\u0442\u0440, \u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0438\u044f, \u0441\u0438\u043c\u043f\u0442\u043e\u043c\u044b \u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0438\u0438, \u043f\u0440\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0438\u0438 .."
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739379&streamencoding=mp31", 
+            "name": "semantic - \u0444\u0430\u0440\u043c\u0430\u0446\u0435\u0432\u0442\u0438\u043a\u0430,\u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0435,\u0430\u0431\u0441\u0442\u0440\u0430\u043a\u0442\u043d\u044b\u0435 \u0441\u0438\u043c\u043f\u0442\u043e\u043c\u044b"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739380&streamencoding=mp31", 
+            "name": "semantic - five minutes of life"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739383&streamencoding=mp31", 
+            "name": "semantic - c\u0442\u0435\u043d\u044b,\u043d\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0441\u0442\u044c,\u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0435 (Bonus Track)"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739378&streamencoding=mp31", 
+            "name": "semantic - \u043f\u0443\u0441\u0442\u043e\u0435 \u043d\u0435\u0431\u043e(Bonus Track)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86396"
+}

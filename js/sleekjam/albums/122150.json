@@ -1,0 +1,14 @@
+{
+    "name": "Colores en el viento", 
+    "artist": "40rugientes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122150&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036089&streamencoding=mp31", 
+            "name": "Colores en el Viento"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122150"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Hypnagogia", 
+    "artist": "KENE BUSMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59655&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509652&streamencoding=mp31", 
+            "name": "Dragon Rouge (Lyrix)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509647&streamencoding=mp31", 
+            "name": "Artefact"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509650&streamencoding=mp31", 
+            "name": "Jah Rules"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509653&streamencoding=mp31", 
+            "name": "Hemp Higher Dub"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509651&streamencoding=mp31", 
+            "name": "Nemboutsou"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509655&streamencoding=mp31", 
+            "name": "Abyssinian Dub"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509648&streamencoding=mp31", 
+            "name": "Hero"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509657&streamencoding=mp31", 
+            "name": "Rain Cha"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509656&streamencoding=mp31", 
+            "name": "Amsterdam"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509654&streamencoding=mp31", 
+            "name": "Dagga Rise"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509649&streamencoding=mp31", 
+            "name": "Brazil"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59655"
+}

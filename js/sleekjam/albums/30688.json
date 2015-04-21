@@ -1,0 +1,29 @@
+{
+    "name": "analg\u00e9sicos. 83", 
+    "artist": "analgesicos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30688&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=207269&streamencoding=mp31", 
+            "name": "el tren (FEVE)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=207250&streamencoding=mp31", 
+            "name": "no se porque"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=207251&streamencoding=mp31", 
+            "name": "nombres escritos...(un numero)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=207270&streamencoding=mp31", 
+            "name": "voy a matar a uno (directo)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30688"
+}

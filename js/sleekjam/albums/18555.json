@@ -1,0 +1,49 @@
+{
+    "name": " Light Beyond the Horizon ", 
+    "artist": "Hannu Kalevi Elo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18555&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131603&streamencoding=mp31", 
+            "name": "Bittersweet Joy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131604&streamencoding=mp31", 
+            "name": "The Omen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131605&streamencoding=mp31", 
+            "name": "The Grim Reaper"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131607&streamencoding=mp31", 
+            "name": "The Dead March"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131608&streamencoding=mp31", 
+            "name": "Catacombs"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131609&streamencoding=mp31", 
+            "name": "Reincarnation"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131625&streamencoding=mp31", 
+            "name": "Light Beyond The Horizon"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131611&streamencoding=mp31", 
+            "name": "Meditation"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18555"
+}

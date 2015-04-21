@@ -1,0 +1,44 @@
+{
+    "name": "ERIKBERTON", 
+    "artist": "erikberton", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63001&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537965&streamencoding=mp31", 
+            "name": "OH VIEJO GEORGE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=539199&streamencoding=mp31", 
+            "name": "EL CAMBIO CLIMATICO"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=539261&streamencoding=mp31", 
+            "name": "AGOSTO EN DINAMARCA"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540349&streamencoding=mp31", 
+            "name": "LA ANGUSTIA VITAL"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540338&streamencoding=mp31", 
+            "name": "LLUVIA"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540357&streamencoding=mp31", 
+            "name": "CUANDO MI FENDER LLORA"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540351&streamencoding=mp31", 
+            "name": "EL LIMBO DE LAS CANCIONES OLVIDADAS"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63001"
+}

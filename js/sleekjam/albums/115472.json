@@ -1,0 +1,54 @@
+{
+    "name": "King Kong Man", 
+    "artist": "MrJuan", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115472&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980593&streamencoding=mp31", 
+            "name": "Se\u00f1or Bomba"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980592&streamencoding=mp31", 
+            "name": "Rumbaluna"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980586&streamencoding=mp31", 
+            "name": "King Kong Man"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980590&streamencoding=mp31", 
+            "name": "Cumbia Chicana "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980588&streamencoding=mp31", 
+            "name": "Masterbrain"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980589&streamencoding=mp31", 
+            "name": "UFO Party"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980591&streamencoding=mp31", 
+            "name": "Muchacha Chacha"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980594&streamencoding=mp31", 
+            "name": "Est ce que \u00e7a vous plait ?"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980587&streamencoding=mp31", 
+            "name": "Ultra Swing"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115472"
+}

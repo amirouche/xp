@@ -1,0 +1,59 @@
+{
+    "name": "Journeys, Distance and Time", 
+    "artist": "Morris Masters", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128928&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082147&streamencoding=mp31", 
+            "name": "Closing the Distance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082148&streamencoding=mp31", 
+            "name": "All This Time"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082152&streamencoding=mp31", 
+            "name": "The Road That Leads Us Home"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082151&streamencoding=mp31", 
+            "name": "Room 39B"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082144&streamencoding=mp31", 
+            "name": "Daydreams and Lunar Clouds"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082146&streamencoding=mp31", 
+            "name": "Beside Myself"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082143&streamencoding=mp31", 
+            "name": "Walk On Down"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082149&streamencoding=mp31", 
+            "name": "Ends of Time"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082145&streamencoding=mp31", 
+            "name": "Approaching Journey's End"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082150&streamencoding=mp31", 
+            "name": "Last Buffalo on the Prerrie"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128928"
+}

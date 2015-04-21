@@ -1,0 +1,14 @@
+{
+    "name": "UNTIL DAWN  (single)", 
+    "artist": "C\u0152DES Pierre-Marie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36908&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=257460&streamencoding=mp31", 
+            "name": "UNTIL DAWN"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36908"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Fly", 
+    "artist": "green", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7378&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80613&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80614&streamencoding=mp31", 
+            "name": "Morning"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80615&streamencoding=mp31", 
+            "name": "Trash Sound"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80616&streamencoding=mp31", 
+            "name": "New Year Day"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80617&streamencoding=mp31", 
+            "name": "Jungle"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80618&streamencoding=mp31", 
+            "name": "Fly"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80619&streamencoding=mp31", 
+            "name": "L"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80620&streamencoding=mp31", 
+            "name": "New Year 2"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7378"
+}

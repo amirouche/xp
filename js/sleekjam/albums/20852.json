@@ -1,0 +1,39 @@
+{
+    "name": "nordic spirit EP", 
+    "artist": "caspa houser", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20852&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146121&streamencoding=mp31", 
+            "name": "when the light goes out"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146120&streamencoding=mp31", 
+            "name": "weather experience"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146110&streamencoding=mp31", 
+            "name": "breakkzzz"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146122&streamencoding=mp31", 
+            "name": "budenzauber"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146118&streamencoding=mp31", 
+            "name": "closing in"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146119&streamencoding=mp31", 
+            "name": "leaving greifswald"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20852"
+}

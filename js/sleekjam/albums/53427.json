@@ -1,0 +1,24 @@
+{
+    "name": "Extrait de Cuane", 
+    "artist": "La Compagnie Cuanol", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53427&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=442772&streamencoding=mp31", 
+            "name": "Aujourd'hui"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=442830&streamencoding=mp31", 
+            "name": "Maladroit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=442829&streamencoding=mp31", 
+            "name": "Crampe Dorsale"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53427"
+}

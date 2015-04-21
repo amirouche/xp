@@ -1,0 +1,139 @@
+{
+    "name": "cailloux avec un X", 
+    "artist": "Cailloux", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52351&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=418815&streamencoding=mp31", 
+            "name": "holdteck"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=418966&streamencoding=mp31", 
+            "name": "catorock"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419019&streamencoding=mp31", 
+            "name": "bateau"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419046&streamencoding=mp31", 
+            "name": "speedcore"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419068&streamencoding=mp31", 
+            "name": "redemption"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=426439&streamencoding=mp31", 
+            "name": "dark blood"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=428069&streamencoding=mp31", 
+            "name": "injustice enneigee"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423352&streamencoding=mp31", 
+            "name": "desespoir"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423408&streamencoding=mp31", 
+            "name": "joie de vivre"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423786&streamencoding=mp31", 
+            "name": "tempete hivernale"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425058&streamencoding=mp31", 
+            "name": "love sun and you"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424374&streamencoding=mp31", 
+            "name": "scream"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424433&streamencoding=mp31", 
+            "name": "desert"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424488&streamencoding=mp31", 
+            "name": "love dependance"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424499&streamencoding=mp31", 
+            "name": "black white"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425128&streamencoding=mp31", 
+            "name": "speedcore 2"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425181&streamencoding=mp31", 
+            "name": "home manager"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425210&streamencoding=mp31", 
+            "name": "holdteck 2"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425252&streamencoding=mp31", 
+            "name": "desert 2"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425367&streamencoding=mp31", 
+            "name": "scream 2"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425407&streamencoding=mp31", 
+            "name": "tetris"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425622&streamencoding=mp31", 
+            "name": "thought"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429751&streamencoding=mp31", 
+            "name": "injustice enneigee 2"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430197&streamencoding=mp31", 
+            "name": "kashayu"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429793&streamencoding=mp31", 
+            "name": "flocon de neige"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=430301&streamencoding=mp31", 
+            "name": "flocon de neige 2"
+        }
+    ], 
+    "release": "2009", 
+    "id": "52351"
+}

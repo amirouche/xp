@@ -1,0 +1,89 @@
+{
+    "name": "Preparations", 
+    "artist": "Heiko Sunfire", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102967&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876787&streamencoding=mp31", 
+            "name": "I wanna go to Zion"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876789&streamencoding=mp31", 
+            "name": "Cry"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876793&streamencoding=mp31", 
+            "name": "Cup of Tea"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876797&streamencoding=mp31", 
+            "name": "Babylon wird fallen"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876786&streamencoding=mp31", 
+            "name": "Judgement Time"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876791&streamencoding=mp31", 
+            "name": "You cannot Judge"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876795&streamencoding=mp31", 
+            "name": "You refuse my Love"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876800&streamencoding=mp31", 
+            "name": "Christ is Back"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876788&streamencoding=mp31", 
+            "name": "Brainsurfing"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876796&streamencoding=mp31", 
+            "name": "on and on"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876798&streamencoding=mp31", 
+            "name": "The Sense of Life"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876792&streamencoding=mp31", 
+            "name": "All my Sorrows passing by"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876794&streamencoding=mp31", 
+            "name": "Prayer for Paradise"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876801&streamencoding=mp31", 
+            "name": "Fire pon Dem"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876790&streamencoding=mp31", 
+            "name": "Paradise become True"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876799&streamencoding=mp31", 
+            "name": "I would die for You"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102967"
+}

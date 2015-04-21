@@ -1,0 +1,64 @@
+{
+    "name": "Kompozitsia V", 
+    "artist": "Avi Rosenfeld", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88080&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=752800&streamencoding=mp31", 
+            "name": "AviRosenfeld - Nahag Mirutsim (Race Driver)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=752794&streamencoding=mp31", 
+            "name": "AviRosenfeld - In My Winter Skies"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=752801&streamencoding=mp31", 
+            "name": "AviRosenfeld - Kaits Halom (Summer Dream)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=752795&streamencoding=mp31", 
+            "name": "AviRosenfeld - Tislech Li (Forgive Me)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=752802&streamencoding=mp31", 
+            "name": "AviRosenfeld - Go Tell Your Daddy"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=752797&streamencoding=mp31", 
+            "name": "AviRosenfeld - Ze Od Lo Meuhar (It's Not Too Late)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=752798&streamencoding=mp31", 
+            "name": "AviRosenfeld - Lev (Heart)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=752799&streamencoding=mp31", 
+            "name": "AviRosenfeld - Mechakim (Waiting)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=752793&streamencoding=mp31", 
+            "name": "AviRosenfeld - Like I Feel"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=752796&streamencoding=mp31", 
+            "name": "AviRosenfeld - Ay Caramba"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=752803&streamencoding=mp31", 
+            "name": "AviRosenfeld - Before The Battle"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88080"
+}

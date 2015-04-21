@@ -1,0 +1,89 @@
+{
+    "name": "Live 2007", 
+    "artist": "ZMEIRADUGA ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28834&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192984&streamencoding=mp31", 
+            "name": "A Steamer to the Sky"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192985&streamencoding=mp31", 
+            "name": "Coming onto the Land"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193130&streamencoding=mp31", 
+            "name": "DragonFly"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192987&streamencoding=mp31", 
+            "name": "FireCool"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192988&streamencoding=mp31", 
+            "name": "Gnomes Dance"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192989&streamencoding=mp31", 
+            "name": "Heavenly Cows"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193132&streamencoding=mp31", 
+            "name": "Lekkalasta"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193133&streamencoding=mp31", 
+            "name": "Music for Cinema - Trilogy"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193131&streamencoding=mp31", 
+            "name": "Kur-kur"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193136&streamencoding=mp31", 
+            "name": "Rukumulla"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193138&streamencoding=mp31", 
+            "name": "The Journey of the Ant"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193137&streamencoding=mp31", 
+            "name": "Spirit Helpers"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193139&streamencoding=mp31", 
+            "name": "The Spirits of Water"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193140&streamencoding=mp31", 
+            "name": "The Tree of Life"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193141&streamencoding=mp31", 
+            "name": "The World that Couldn't be"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193142&streamencoding=mp31", 
+            "name": "Toom-Hooh-Haah"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28834"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "1st step", 
+    "artist": "Human Gaps", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14888&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114226&streamencoding=mp31", 
+            "name": "Oka\u00efdi"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114246&streamencoding=mp31", 
+            "name": "Sunny love"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114254&streamencoding=mp31", 
+            "name": "Tearsaddict"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114339&streamencoding=mp31", 
+            "name": "I Can't Cos Tomorrow"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114340&streamencoding=mp31", 
+            "name": "C.D.L"
+        }
+    ], 
+    "release": "2008", 
+    "id": "14888"
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Order of Things A.D. - remastered", 
+    "artist": "Seal Seven", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107509&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908964&streamencoding=mp31", 
+            "name": "Em"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908962&streamencoding=mp31", 
+            "name": "All You've Got"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908961&streamencoding=mp31", 
+            "name": "Cause I"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908960&streamencoding=mp31", 
+            "name": "Highway"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908959&streamencoding=mp31", 
+            "name": "Just One More"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908958&streamencoding=mp31", 
+            "name": "Little Mary"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908957&streamencoding=mp31", 
+            "name": "Naughty Girl"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908956&streamencoding=mp31", 
+            "name": "Order of Things"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908955&streamencoding=mp31", 
+            "name": "Smokin (improv)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908952&streamencoding=mp31", 
+            "name": "To Die For (concept)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908950&streamencoding=mp31", 
+            "name": "Wonderful"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908963&streamencoding=mp31", 
+            "name": "Baby Doll"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908951&streamencoding=mp31", 
+            "name": "Vengeance"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908953&streamencoding=mp31", 
+            "name": "Farkle Pocket"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908954&streamencoding=mp31", 
+            "name": "Float Away"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107509"
+}

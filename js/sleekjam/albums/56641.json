@@ -1,0 +1,49 @@
+{
+    "name": "Homerecording", 
+    "artist": "Rebentisch", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56641&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480411&streamencoding=mp31", 
+            "name": "[T]Raum"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480412&streamencoding=mp31", 
+            "name": "Mein Blick ins Leere"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480413&streamencoding=mp31", 
+            "name": "Nordfriesland"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480414&streamencoding=mp31", 
+            "name": "Fernweh"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480415&streamencoding=mp31", 
+            "name": "Jede Sekunde"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480416&streamencoding=mp31", 
+            "name": "Ich sein"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480417&streamencoding=mp31", 
+            "name": "Suizid"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480418&streamencoding=mp31", 
+            "name": "Ab dem ersten Blick"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56641"
+}

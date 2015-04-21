@@ -1,0 +1,39 @@
+{
+    "name": "BLUE EYES", 
+    "artist": "JPMOUNIER", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42618&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=315119&streamencoding=mp31", 
+            "name": "SAVANA "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=315144&streamencoding=mp31", 
+            "name": "BAK BAK BAK 222 "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=315157&streamencoding=mp31", 
+            "name": "BARCAROLLE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=315161&streamencoding=mp31", 
+            "name": "NEW WAY  "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=315178&streamencoding=mp31", 
+            "name": "SEVILLE"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=315193&streamencoding=mp31", 
+            "name": "PIANO LINE "
+        }
+    ], 
+    "release": "2009", 
+    "id": "42618"
+}

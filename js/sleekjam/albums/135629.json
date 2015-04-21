@@ -1,0 +1,74 @@
+{
+    "name": "L'Oeuf ou la Poire", 
+    "artist": "Egg's Pear", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135629&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131302&streamencoding=mp31", 
+            "name": "La Taverne du diable"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131301&streamencoding=mp31", 
+            "name": "Pointilleux belliqueux"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131300&streamencoding=mp31", 
+            "name": "L'arm\u00e9e des pieds"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131298&streamencoding=mp31", 
+            "name": "Le frique \u00e9thique"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131297&streamencoding=mp31", 
+            "name": "Les grands tueurs d'imagineurs"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131296&streamencoding=mp31", 
+            "name": "J'prend l'bord du bar"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131295&streamencoding=mp31", 
+            "name": "Jus musical"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131307&streamencoding=mp31", 
+            "name": "Ti-Jean barre de fer"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131303&streamencoding=mp31", 
+            "name": "Les fondamentalistes"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131304&streamencoding=mp31", 
+            "name": "La fable du fort"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131305&streamencoding=mp31", 
+            "name": "Valeureux et niaiseux"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131299&streamencoding=mp31", 
+            "name": "Le clochard"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131306&streamencoding=mp31", 
+            "name": "Terre d'exil"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135629"
+}

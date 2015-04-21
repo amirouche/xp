@@ -1,0 +1,44 @@
+{
+    "name": "7 oldtime songs for mandolin", 
+    "artist": "deejoke", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50735&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=410232&streamencoding=mp31", 
+            "name": "blackberry blossom"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=410233&streamencoding=mp31", 
+            "name": "wildwood flower (slow)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=410273&streamencoding=mp31", 
+            "name": "billy in the lowgrownd"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=410274&streamencoding=mp31", 
+            "name": "eight of january (slow)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=410277&streamencoding=mp31", 
+            "name": "turkey in the straw"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=410278&streamencoding=mp31", 
+            "name": "red haired boy (slow)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=410280&streamencoding=mp31", 
+            "name": "whiskey before breakfast"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50735"
+}

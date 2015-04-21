@@ -1,0 +1,54 @@
+{
+    "name": "Fuera de Epoca", 
+    "artist": "AFRA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77965&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667795&streamencoding=mp31", 
+            "name": "Pon un poco de Swing"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667792&streamencoding=mp31", 
+            "name": "Todo de diez"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667791&streamencoding=mp31", 
+            "name": "Ayudame mi amor"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667794&streamencoding=mp31", 
+            "name": "Nena"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667790&streamencoding=mp31", 
+            "name": "Sin fronteras"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667787&streamencoding=mp31", 
+            "name": "Tiempo para.."
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667786&streamencoding=mp31", 
+            "name": "Baile en el cielo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667789&streamencoding=mp31", 
+            "name": "Mira adelante"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667788&streamencoding=mp31", 
+            "name": "Siempre Bailando"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77965"
+}

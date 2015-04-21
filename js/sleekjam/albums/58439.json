@@ -1,0 +1,14 @@
+{
+    "name": "Emerald Sky", 
+    "artist": "WMRI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58439&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498940&streamencoding=mp31", 
+            "name": "Emerald Sky"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58439"
+}

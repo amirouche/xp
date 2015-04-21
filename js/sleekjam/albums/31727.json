@@ -1,0 +1,14 @@
+{
+    "name": "C O M A", 
+    "artist": "NEox sound project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31727&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215594&streamencoding=mp31", 
+            "name": "Solitude"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31727"
+}

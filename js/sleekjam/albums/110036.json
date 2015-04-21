@@ -1,0 +1,79 @@
+{
+    "name": "Genesi", 
+    "artist": "Koni", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110036&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937448&streamencoding=mp31", 
+            "name": "A Cloud goes by "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937449&streamencoding=mp31", 
+            "name": "A New Dawn "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937450&streamencoding=mp31", 
+            "name": "Black Wings on a dead Sea"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937451&streamencoding=mp31", 
+            "name": "Blind Shore"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937452&streamencoding=mp31", 
+            "name": "Electric Dancer"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937453&streamencoding=mp31", 
+            "name": "Endlessly"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937454&streamencoding=mp31", 
+            "name": "Genesis"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937455&streamencoding=mp31", 
+            "name": "Emerald"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937456&streamencoding=mp31", 
+            "name": "I lost my Universe"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937457&streamencoding=mp31", 
+            "name": "Lord of the flies "
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937458&streamencoding=mp31", 
+            "name": "Spreeding the Seed "
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937459&streamencoding=mp31", 
+            "name": "The Ivory Tower "
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937460&streamencoding=mp31", 
+            "name": "Th\u00e9\u00e2tre du r\u00eave"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937461&streamencoding=mp31", 
+            "name": "Whale butcher "
+        }
+    ], 
+    "release": "2012", 
+    "id": "110036"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Nueva Era( t\u00faumben k\u2019iinil)", 
+    "artist": "BALAM", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57550&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490891&streamencoding=mp31", 
+            "name": "Monos"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490920&streamencoding=mp31", 
+            "name": "Nuevo amanecer-tumben k'iinil"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490918&streamencoding=mp31", 
+            "name": "Xe'keuel "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490917&streamencoding=mp31", 
+            "name": "Ataque Jaguar "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490916&streamencoding=mp31", 
+            "name": "Caverna "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490919&streamencoding=mp31", 
+            "name": "Viento"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490921&streamencoding=mp31", 
+            "name": "Bach - Bach"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57550"
+}

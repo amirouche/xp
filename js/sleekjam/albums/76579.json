@@ -1,0 +1,54 @@
+{
+    "name": "Pirogue", 
+    "artist": "Zebulon427", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76579&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=660135&streamencoding=mp31", 
+            "name": "Till_we_triumph"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=660137&streamencoding=mp31", 
+            "name": "Pirogue"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=660141&streamencoding=mp31", 
+            "name": "Life_In_A_Day"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=660138&streamencoding=mp31", 
+            "name": "Ma_Tipe_Original_Studio"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=660142&streamencoding=mp31", 
+            "name": "Impression"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=660139&streamencoding=mp31", 
+            "name": "Les_Lepreux_me_tendent_la_main"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=660134&streamencoding=mp31", 
+            "name": "Le_damier"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=660140&streamencoding=mp31", 
+            "name": "The_soul_proof_man"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=660136&streamencoding=mp31", 
+            "name": "High_Speed"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76579"
+}

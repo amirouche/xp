@@ -1,0 +1,114 @@
+{
+    "name": "Worte in Wind", 
+    "artist": "Thomas Stein", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65153&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562878&streamencoding=mp31", 
+            "name": "Wind (instrumental)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562856&streamencoding=mp31", 
+            "name": "Ich werfe Worte in den Wind"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562872&streamencoding=mp31", 
+            "name": "Nach der Radtour"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562876&streamencoding=mp31", 
+            "name": "Trau dich!"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562866&streamencoding=mp31", 
+            "name": "Die gruenen Fliegen"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562869&streamencoding=mp31", 
+            "name": "Gibt es ein Leben vor dem Tod?"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562859&streamencoding=mp31", 
+            "name": "Beginn"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562874&streamencoding=mp31", 
+            "name": "Nora"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562865&streamencoding=mp31", 
+            "name": "Flaschenpost"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562870&streamencoding=mp31", 
+            "name": "Hinweis in eigener Sache"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562864&streamencoding=mp31", 
+            "name": "Evolution"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562867&streamencoding=mp31", 
+            "name": "Flucht"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562857&streamencoding=mp31", 
+            "name": "Arbeit"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562868&streamencoding=mp31", 
+            "name": "Fremd"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562861&streamencoding=mp31", 
+            "name": "Boersen-Chrashkurs"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562875&streamencoding=mp31", 
+            "name": "Strandspaziergang"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562858&streamencoding=mp31", 
+            "name": "Auf jenen Laken"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562873&streamencoding=mp31", 
+            "name": "Nachmittag um vier"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562877&streamencoding=mp31", 
+            "name": "Wenn die Jahre kuerzer werden"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562871&streamencoding=mp31", 
+            "name": "Immer"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=562862&streamencoding=mp31", 
+            "name": "Das alte Jahr"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65153"
+}

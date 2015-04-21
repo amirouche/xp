@@ -1,0 +1,14 @@
+{
+    "name": "Lib\u00e9rate lev\u00e1ntate (DEMO)", 
+    "artist": "PARAGUAN\u00c1 ROOTS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85497&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731529&streamencoding=mp31", 
+            "name": "Lib\u00e9rate y Lev\u00e1ntate"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85497"
+}

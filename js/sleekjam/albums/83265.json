@@ -1,0 +1,39 @@
+{
+    "name": "Een", 
+    "artist": "Danie Nel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83265&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=680039&streamencoding=mp31", 
+            "name": "Danie Nel - Dankie Jesus"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708766&streamencoding=mp31", 
+            "name": "Danie Nel - Sing Saam"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713222&streamencoding=mp31", 
+            "name": "Danie Nel - U is die Een"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708762&streamencoding=mp31", 
+            "name": "Danie Nel - Ons Glo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678416&streamencoding=mp31", 
+            "name": "Danie Nel - Tot U op die Wolke Kom"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=669325&streamencoding=mp31", 
+            "name": "Danie Nel - 9-Dorp"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83265"
+}

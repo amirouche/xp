@@ -1,0 +1,114 @@
+{
+    "name": "Toda una vida (A whole life)", 
+    "artist": "dobroide", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70742&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611406&streamencoding=mp31", 
+            "name": "overtura"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611396&streamencoding=mp31", 
+            "name": "pasa un caballo"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611401&streamencoding=mp31", 
+            "name": "ciudad antigua"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611398&streamencoding=mp31", 
+            "name": "lago"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611394&streamencoding=mp31", 
+            "name": "ruise\u00f1or"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611399&streamencoding=mp31", 
+            "name": "corderos y cortijo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611402&streamencoding=mp31", 
+            "name": "el pajaro loco"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611400&streamencoding=mp31", 
+            "name": "Caballo golondrinas y gallinero"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611395&streamencoding=mp31", 
+            "name": "reloj reba\u00f1o de noche"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611397&streamencoding=mp31", 
+            "name": "chimenea"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611414&streamencoding=mp31", 
+            "name": "grillos de dia"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611405&streamencoding=mp31", 
+            "name": "arroyo y bosque"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611415&streamencoding=mp31", 
+            "name": "carboneros y viento en los pinos"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611404&streamencoding=mp31", 
+            "name": "campanas golondrinas rabilargos y oropendola"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611407&streamencoding=mp31", 
+            "name": "gatos hambrientos y tormenta"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611408&streamencoding=mp31", 
+            "name": "el pajaro loco ataca de nuevo"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611409&streamencoding=mp31", 
+            "name": "gansos"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611413&streamencoding=mp31", 
+            "name": "llamada misteriosa"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611410&streamencoding=mp31", 
+            "name": "avocetas y cigue\u00f1uelas"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611412&streamencoding=mp31", 
+            "name": "colonia de alcatraces"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611411&streamencoding=mp31", 
+            "name": "garza marisma ni\u00f1os jugando"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70742"
+}

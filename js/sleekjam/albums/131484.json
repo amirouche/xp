@@ -1,0 +1,59 @@
+{
+    "name": "When somebody loves you (52)", 
+    "artist": "Briovere Buffentis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131484&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101525&streamencoding=mp31", 
+            "name": "Gimme hope"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101530&streamencoding=mp31", 
+            "name": "Set my hearth free"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101526&streamencoding=mp31", 
+            "name": "Judge not"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101532&streamencoding=mp31", 
+            "name": "1 step forward 2 steps back"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101533&streamencoding=mp31", 
+            "name": "When somebody loves you"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101531&streamencoding=mp31", 
+            "name": "Superstar"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101534&streamencoding=mp31", 
+            "name": "Watch my groove"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101528&streamencoding=mp31", 
+            "name": "Trough the Pyrenees"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101529&streamencoding=mp31", 
+            "name": "Girly girl"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101527&streamencoding=mp31", 
+            "name": "On your shoulder"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131484"
+}

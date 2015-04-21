@@ -1,0 +1,49 @@
+{
+    "name": "Torsional Moments (2009)", 
+    "artist": "Cidulator", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50836&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411276&streamencoding=mp31", 
+            "name": "prelude-fractious mind"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411272&streamencoding=mp31", 
+            "name": "part1-introcated"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411277&streamencoding=mp31", 
+            "name": "part2-on versatile ways"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411278&streamencoding=mp31", 
+            "name": "part3-another turning point"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411273&streamencoding=mp31", 
+            "name": "part4-virtual grounds"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411275&streamencoding=mp31", 
+            "name": "part5-unfailing debris"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411274&streamencoding=mp31", 
+            "name": "part6-tenacious reprise"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411279&streamencoding=mp31", 
+            "name": "finale-grande outre"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50836"
+}

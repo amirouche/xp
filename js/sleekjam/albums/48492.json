@@ -1,0 +1,39 @@
+{
+    "name": "Tibi Festival 06", 
+    "artist": "Buskant", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48492&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=382228&streamencoding=mp31", 
+            "name": "Lluita de poble"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=382164&streamencoding=mp31", 
+            "name": "Gangsters"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=382597&streamencoding=mp31", 
+            "name": "Alcoi\u00e0"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=382226&streamencoding=mp31", 
+            "name": "Montserrat"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=382166&streamencoding=mp31", 
+            "name": "No hi ha vida"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=382227&streamencoding=mp31", 
+            "name": "L'estaca"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48492"
+}

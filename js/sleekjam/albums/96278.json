@@ -1,0 +1,64 @@
+{
+    "name": "De vuelta a la vida", 
+    "artist": "David.G", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96278&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823442&streamencoding=mp31", 
+            "name": "Lluvia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823434&streamencoding=mp31", 
+            "name": "Por ti"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823440&streamencoding=mp31", 
+            "name": "Bienvenida"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823435&streamencoding=mp31", 
+            "name": "Tienes magia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823441&streamencoding=mp31", 
+            "name": "Un gran ni\u00f1o"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823436&streamencoding=mp31", 
+            "name": "La historia de mi amor"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823443&streamencoding=mp31", 
+            "name": "Amigo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823438&streamencoding=mp31", 
+            "name": "Yo te sabr\u00e9 amar"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823433&streamencoding=mp31", 
+            "name": "Te vas hoy de mi"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823439&streamencoding=mp31", 
+            "name": "Que ha pasado contigo"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823437&streamencoding=mp31", 
+            "name": "De vuelta a la vida"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96278"
+}

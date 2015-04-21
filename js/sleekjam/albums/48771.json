@@ -1,0 +1,59 @@
+{
+    "name": "El CalmaNi\u00f1os", 
+    "artist": "Calmani\u00f1o", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48771&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=385925&streamencoding=mp31", 
+            "name": "01 - El CalmaNi\u00f1os"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=385851&streamencoding=mp31", 
+            "name": "02 - Martin Fierro"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=385891&streamencoding=mp31", 
+            "name": "03 - LatinoAmerica"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=385954&streamencoding=mp31", 
+            "name": "04 - Los Muertos"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=385970&streamencoding=mp31", 
+            "name": "05 - Regando Sangre"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=385999&streamencoding=mp31", 
+            "name": "06 - Resiste Alegre"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=386009&streamencoding=mp31", 
+            "name": "07 - Resistiendo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=386031&streamencoding=mp31", 
+            "name": "08 - I Love You Babe"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=386032&streamencoding=mp31", 
+            "name": "09 - Anarquia"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=386041&streamencoding=mp31", 
+            "name": "10 - Se"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48771"
+}

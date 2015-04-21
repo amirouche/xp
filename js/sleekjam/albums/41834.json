@@ -1,0 +1,74 @@
+{
+    "name": "Plus du monde", 
+    "artist": "SAPHYR", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41834&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306091&streamencoding=mp31", 
+            "name": "SES MAUVAIS REVES"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306136&streamencoding=mp31", 
+            "name": "PLUS DE MONDE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306265&streamencoding=mp31", 
+            "name": "CONDAMNE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306657&streamencoding=mp31", 
+            "name": "OSSI OSSIA"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306170&streamencoding=mp31", 
+            "name": "PHASE NOCTURNE"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306669&streamencoding=mp31", 
+            "name": "CHECK ME"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=307087&streamencoding=mp31", 
+            "name": "NOUS SANS PEUR"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=307384&streamencoding=mp31", 
+            "name": "SHADOWS SCENT"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=307555&streamencoding=mp31", 
+            "name": "TOI ENCORE"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=306199&streamencoding=mp31", 
+            "name": "JE SAIGNE"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=307877&streamencoding=mp31", 
+            "name": "CONCESSION"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=308005&streamencoding=mp31", 
+            "name": "PLEINE TERRE"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=308062&streamencoding=mp31", 
+            "name": "100 VIES"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41834"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Feiertag", 
+    "artist": "RayCording", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34459&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235574&streamencoding=mp31", 
+            "name": "So wundersch\u00f6n"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235576&streamencoding=mp31", 
+            "name": "Feiertag"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235577&streamencoding=mp31", 
+            "name": "Ein Schlager"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235578&streamencoding=mp31", 
+            "name": "Liebe ist Chemie"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235580&streamencoding=mp31", 
+            "name": "Nepper, Schlepper..."
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235617&streamencoding=mp31", 
+            "name": "M\u00e4rchen"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235656&streamencoding=mp31", 
+            "name": "Bolero de Ray"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235697&streamencoding=mp31", 
+            "name": "Club Amore"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235718&streamencoding=mp31", 
+            "name": "Super P\u00fcppi"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235736&streamencoding=mp31", 
+            "name": "Servicemann"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235767&streamencoding=mp31", 
+            "name": "Jo so is das"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34459"
+}

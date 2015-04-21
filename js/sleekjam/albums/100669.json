@@ -1,0 +1,49 @@
+{
+    "name": "Blowout Songs!", 
+    "artist": "Mo Sands PDj", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100669&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860017&streamencoding=mp31", 
+            "name": "Mo Sands - Into my heart"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860018&streamencoding=mp31", 
+            "name": "Mo Sands - Gansta Hip"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860019&streamencoding=mp31", 
+            "name": "Mo Sands - Empty session"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860020&streamencoding=mp31", 
+            "name": "Mo Sands - Tribute to swing"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860024&streamencoding=mp31", 
+            "name": "Mo Sands - Syncopated cumbia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860025&streamencoding=mp31", 
+            "name": "Mo Sands - Rgt latino"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860026&streamencoding=mp31", 
+            "name": "Mo Sands - On the ground"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860058&streamencoding=mp31", 
+            "name": "Mo Sands - To Miles"
+        }
+    ], 
+    "release": "2011", 
+    "id": "100669"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "ReTransmission [Demo 3]", 
+    "artist": "Project Nova", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120471&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024801&streamencoding=mp31", 
+            "name": "Elusive Boy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024802&streamencoding=mp31", 
+            "name": "Alpha Zone"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024803&streamencoding=mp31", 
+            "name": "Illusive Girl"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024806&streamencoding=mp31", 
+            "name": "Ethereal Unreal"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024805&streamencoding=mp31", 
+            "name": "Loven"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024807&streamencoding=mp31", 
+            "name": "The Moorland"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024804&streamencoding=mp31", 
+            "name": "The Transmission"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120471"
+}

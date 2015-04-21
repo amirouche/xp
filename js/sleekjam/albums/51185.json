@@ -1,0 +1,24 @@
+{
+    "name": "\u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u0440\u0430\u0441\u043f\u043b\u0430\u0442\u044b", 
+    "artist": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0410\u043a\u043a\u0435\u0440\u043c\u0430\u043d\u0441\u043a\u0438\u0439", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51185&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415403&streamencoding=mp31", 
+            "name": "Payment_expectation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415402&streamencoding=mp31", 
+            "name": "Demon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415404&streamencoding=mp31", 
+            "name": "We loved each other"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51185"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Freedom To Share", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89948&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767818&streamencoding=mp31", 
+            "name": "2012 (ft Snowflake)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767820&streamencoding=mp31", 
+            "name": "Sebastian (ft Forensic)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767816&streamencoding=mp31", 
+            "name": "Ricky & The Riffs"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767840&streamencoding=mp31", 
+            "name": "Freedom To Share (ft Copperhead)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767817&streamencoding=mp31", 
+            "name": "You're The Change (ft Admiral Bob)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767841&streamencoding=mp31", 
+            "name": "To This (ft Snowflake)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767819&streamencoding=mp31", 
+            "name": "Vicious (ft Highknowledge)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89948"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Falling To My Knees", 
+    "artist": "Art Owens", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109350&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923049&streamencoding=mp31", 
+            "name": "Soul Care"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923050&streamencoding=mp31", 
+            "name": "Finding Away Out"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923051&streamencoding=mp31", 
+            "name": "Talk To Me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923052&streamencoding=mp31", 
+            "name": "Falling To My Knees"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923053&streamencoding=mp31", 
+            "name": "Check Yourself"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923054&streamencoding=mp31", 
+            "name": "Frustration"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109350"
+}

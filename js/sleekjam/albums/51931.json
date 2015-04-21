@@ -1,0 +1,114 @@
+{
+    "name": "Radio Konstroy live, acoustic and crazy interview and session type thingy ", 
+    "artist": "Louis Lingg and the Bombs", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51931&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424467&streamencoding=mp31", 
+            "name": "Bonjour chez radio Konstroy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424473&streamencoding=mp31", 
+            "name": "Going nowhere fast acoustic"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424456&streamencoding=mp31", 
+            "name": "nom du groupe"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424464&streamencoding=mp31", 
+            "name": "qui sommes nous"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424462&streamencoding=mp31", 
+            "name": "Conspiracy (live radio version)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424463&streamencoding=mp31", 
+            "name": "le punk conscient"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424469&streamencoding=mp31", 
+            "name": "c'est toujours Radio KONSTROY"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424458&streamencoding=mp31", 
+            "name": "Princess mononoke unplugged and a little crazy"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424465&streamencoding=mp31", 
+            "name": "pourquoi louis lingg est notre hero"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424475&streamencoding=mp31", 
+            "name": "les anarchists de chicago"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424470&streamencoding=mp31", 
+            "name": "Chomsky changed my life unplugged"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424466&streamencoding=mp31", 
+            "name": "gilbertmuda"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424472&streamencoding=mp31", 
+            "name": "ENFOIRE"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424468&streamencoding=mp31", 
+            "name": "luv luv luv acoustic version"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424471&streamencoding=mp31", 
+            "name": "guitare de merde"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424455&streamencoding=mp31", 
+            "name": "louis lingg est conscient"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424459&streamencoding=mp31", 
+            "name": "The S and M Song (extremely Bonus Track)"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424474&streamencoding=mp31", 
+            "name": "des punks!"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424461&streamencoding=mp31", 
+            "name": "tant de cerises"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424457&streamencoding=mp31", 
+            "name": "Temps de cerises (Totally Bonus Track)"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424460&streamencoding=mp31", 
+            "name": "ZOMBI"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51931"
+}

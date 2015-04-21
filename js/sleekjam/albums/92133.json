@@ -1,0 +1,104 @@
+{
+    "name": "Folk & Acoustic", 
+    "artist": "L\u00f6hstana David", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92133&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785423&streamencoding=mp31", 
+            "name": "Demain je change de vie - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785426&streamencoding=mp31", 
+            "name": "Petit talib\u00e9 - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785413&streamencoding=mp31", 
+            "name": "Alexandra 03 - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785414&streamencoding=mp31", 
+            "name": "Bucolique Utopiste - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785422&streamencoding=mp31", 
+            "name": "D\u00e9j\u00e0 tout bu - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785420&streamencoding=mp31", 
+            "name": "Dans un petit verre d'eau - INSTRUMENTAL VERSION "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785424&streamencoding=mp31", 
+            "name": "La p\u00eache au thon - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785425&streamencoding=mp31", 
+            "name": "La rupture - INSTRUMENTAL VERSION "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785435&streamencoding=mp31", 
+            "name": "Secouez moi - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785415&streamencoding=mp31", 
+            "name": "Cerises - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785431&streamencoding=mp31", 
+            "name": "Petite chanson grivoise - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785434&streamencoding=mp31", 
+            "name": "Quand je serai grand - INSTRUMENTAL VERSION "
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785436&streamencoding=mp31", 
+            "name": "T'empailler toute nue - INSTRUMENTAL VERSION "
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785437&streamencoding=mp31", 
+            "name": "Combien - INSTRUMENTAL VERSION "
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785421&streamencoding=mp31", 
+            "name": "Des oursins dans l'oesophage - INSTRUMENTAL VERSION "
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785359&streamencoding=mp31", 
+            "name": "Acoustiblues - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785409&streamencoding=mp31", 
+            "name": "Jingle 01 - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785408&streamencoding=mp31", 
+            "name": "Jingle 02 - INSTRUMENTAL VERSION"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785361&streamencoding=mp31", 
+            "name": "Jingle 03 - INSTRUMENTAL VERSION"
+        }
+    ], 
+    "release": "2011", 
+    "id": "92133"
+}

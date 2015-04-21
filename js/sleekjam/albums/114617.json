@@ -1,0 +1,74 @@
+{
+    "name": "Open Skies (Cieli Aperti)", 
+    "artist": "Petru Bradu", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114617&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973449&streamencoding=mp31", 
+            "name": "Honor to You (Onore a Te)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973450&streamencoding=mp31", 
+            "name": "Dance with You (Danzo con Te)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973451&streamencoding=mp31", 
+            "name": "Lorencia"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973452&streamencoding=mp31", 
+            "name": "Pray (Preghiera)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973453&streamencoding=mp31", 
+            "name": "Rewind (Riavvolgere)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973454&streamencoding=mp31", 
+            "name": "Story (Racconto)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973455&streamencoding=mp31", 
+            "name": "Majesty (Maest\u00e0)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973456&streamencoding=mp31", 
+            "name": "No regret (Senza rimpianto)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973457&streamencoding=mp31", 
+            "name": "You are with me (Tu sei con me)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973458&streamencoding=mp31", 
+            "name": "Hope (Speranza)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973459&streamencoding=mp31", 
+            "name": "Alpha and Omega (Alfa e Omega)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973460&streamencoding=mp31", 
+            "name": "Nicole"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973461&streamencoding=mp31", 
+            "name": "The choice (La scelta)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114617"
+}

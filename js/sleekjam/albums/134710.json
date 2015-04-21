@@ -1,0 +1,59 @@
+{
+    "name": "Weltbild in Asche", 
+    "artist": "Evren Svren", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134710&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125906&streamencoding=mp31", 
+            "name": "Wenn ich gehen muss verteile ich mich im Regen"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125904&streamencoding=mp31", 
+            "name": "Der Tod soll mich verschwinden lassen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125909&streamencoding=mp31", 
+            "name": "Wir hassen und haben oft guten Grund"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125907&streamencoding=mp31", 
+            "name": "Weltbild in Asche"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125902&streamencoding=mp31", 
+            "name": "Alles scheint gegen mich verfeindet"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125903&streamencoding=mp31", 
+            "name": "Immer wieder"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125910&streamencoding=mp31", 
+            "name": "Ende gut, alles gut"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125911&streamencoding=mp31", 
+            "name": "Die Stille zerfrisst mich (Demo)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125908&streamencoding=mp31", 
+            "name": "Schwarze Leere (Demo)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125905&streamencoding=mp31", 
+            "name": "Das hast du dir zu verdanken (Demo)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134710"
+}

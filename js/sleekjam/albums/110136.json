@@ -1,0 +1,69 @@
+{
+    "name": "The Stories Without Words", 
+    "artist": "Aksenty Beskrovny", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110136&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938172&streamencoding=mp31", 
+            "name": "Prologue"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938175&streamencoding=mp31", 
+            "name": "Down the Wishes River"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938183&streamencoding=mp31", 
+            "name": "Journey with the Ravens"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938176&streamencoding=mp31", 
+            "name": "Rising with Roots"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938174&streamencoding=mp31", 
+            "name": "The Vortex Behind"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938182&streamencoding=mp31", 
+            "name": "Flow of Shadow"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938177&streamencoding=mp31", 
+            "name": "Song of Brass"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938178&streamencoding=mp31", 
+            "name": "Heart of the Wind"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938173&streamencoding=mp31", 
+            "name": "Dancing on the Taut String "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938179&streamencoding=mp31", 
+            "name": "Source of Music"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938181&streamencoding=mp31", 
+            "name": "Rite of Passage "
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938180&streamencoding=mp31", 
+            "name": "Epilogue"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110136"
+}

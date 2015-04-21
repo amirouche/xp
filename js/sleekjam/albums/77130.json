@@ -1,0 +1,44 @@
+{
+    "name": "Testament [Jamendo Edition]", 
+    "artist": "TAT", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77130&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664789&streamencoding=mp31", 
+            "name": "The warlike days are over [feat Le Chiffre]"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664786&streamencoding=mp31", 
+            "name": "La fin des temps [feat pagan & Le Chiffre]"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664790&streamencoding=mp31", 
+            "name": "Subtiliation : absolution [feat Le Chiffre]"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664787&streamencoding=mp31", 
+            "name": "Astrophobos [feat Le Chiffre]"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664791&streamencoding=mp31", 
+            "name": "La vierge qui dort [feat Esclarmonde]"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664788&streamencoding=mp31", 
+            "name": "Dost know how to love"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664792&streamencoding=mp31", 
+            "name": "Requiem [feat Le Chiffre & Horologium]"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77130"
+}

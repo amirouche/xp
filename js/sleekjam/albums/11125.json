@@ -1,0 +1,19 @@
+{
+    "name": "yoko.lennon metimos miedo", 
+    "artist": "yoko.lennon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11125&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100522&streamencoding=mp31", 
+            "name": "Beholding The Unholy Eternity From Satanic Winds"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100521&streamencoding=mp31", 
+            "name": "Battling For a Dark Forevermore Beneath Dark Flagellation"
+        }
+    ], 
+    "release": "2007", 
+    "id": "11125"
+}

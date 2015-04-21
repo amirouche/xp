@@ -1,0 +1,129 @@
+{
+    "name": "Immagine Rifletta (2007)", 
+    "artist": "Loungerie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63392&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544037&streamencoding=mp31", 
+            "name": "teresita rag"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544033&streamencoding=mp31", 
+            "name": "cubanga"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544035&streamencoding=mp31", 
+            "name": "presentazione"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544040&streamencoding=mp31", 
+            "name": "billie holiday"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544047&streamencoding=mp31", 
+            "name": "kappatango"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544048&streamencoding=mp31", 
+            "name": "maimai"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544044&streamencoding=mp31", 
+            "name": "rio"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544031&streamencoding=mp31", 
+            "name": "l'ut\u00e8ro"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544043&streamencoding=mp31", 
+            "name": "bernacca"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544038&streamencoding=mp31", 
+            "name": "buddha bar"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544025&streamencoding=mp31", 
+            "name": "fumo blu"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544028&streamencoding=mp31", 
+            "name": "divertissement"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544026&streamencoding=mp31", 
+            "name": "sofoclo"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544039&streamencoding=mp31", 
+            "name": "popolare"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544042&streamencoding=mp31", 
+            "name": "java del camembert"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544045&streamencoding=mp31", 
+            "name": "swimming pool"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544041&streamencoding=mp31", 
+            "name": "cocaina"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544029&streamencoding=mp31", 
+            "name": "peppina"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544034&streamencoding=mp31", 
+            "name": "samba"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544046&streamencoding=mp31", 
+            "name": "bollywood"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544030&streamencoding=mp31", 
+            "name": "postmoderno chachacha"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544036&streamencoding=mp31", 
+            "name": "sopravviver\u00f2"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544032&streamencoding=mp31", 
+            "name": "tartiflette"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544027&streamencoding=mp31", 
+            "name": "metanoia"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63392"
+}

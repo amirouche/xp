@@ -1,0 +1,44 @@
+{
+    "name": "be here slowly", 
+    "artist": "Dj Poke", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=10103&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97769&streamencoding=mp31", 
+            "name": "turbo time"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97771&streamencoding=mp31", 
+            "name": "live for life"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97776&streamencoding=mp31", 
+            "name": "emotions of time"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97778&streamencoding=mp31", 
+            "name": "my xanax"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97783&streamencoding=mp31", 
+            "name": "words are weapons"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97784&streamencoding=mp31", 
+            "name": "true system"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97787&streamencoding=mp31", 
+            "name": "be here slowly"
+        }
+    ], 
+    "release": "2007", 
+    "id": "10103"
+}

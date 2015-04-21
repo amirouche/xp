@@ -1,0 +1,124 @@
+{
+    "name": "S2", 
+    "artist": "JAM OUEST", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126200&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067754&streamencoding=mp31", 
+            "name": "Sauce Nanterre"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067751&streamencoding=mp31", 
+            "name": "Un truc"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067752&streamencoding=mp31", 
+            "name": "Maoni"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067753&streamencoding=mp31", 
+            "name": "Free"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067761&streamencoding=mp31", 
+            "name": "Salam"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067755&streamencoding=mp31", 
+            "name": "Zero"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067756&streamencoding=mp31", 
+            "name": "Wake Up"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067757&streamencoding=mp31", 
+            "name": "Bouyaga"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067759&streamencoding=mp31", 
+            "name": "La marmite"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067743&streamencoding=mp31", 
+            "name": "EuropAfrica"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067746&streamencoding=mp31", 
+            "name": "Fast Trap"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067749&streamencoding=mp31", 
+            "name": "Besoin de toi"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067742&streamencoding=mp31", 
+            "name": "Langue vivante"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067762&streamencoding=mp31", 
+            "name": "Singare"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067765&streamencoding=mp31", 
+            "name": "Prozac"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067750&streamencoding=mp31", 
+            "name": "Memory"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067745&streamencoding=mp31", 
+            "name": "Melodix de Choeur"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067764&streamencoding=mp31", 
+            "name": "Enfants de la lune"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067760&streamencoding=mp31", 
+            "name": "Evasion"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067763&streamencoding=mp31", 
+            "name": "Genesis"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067748&streamencoding=mp31", 
+            "name": "Etc"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067744&streamencoding=mp31", 
+            "name": "Ludo (r\u00e9mi)"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067747&streamencoding=mp31", 
+            "name": "N.U."
+        }
+    ], 
+    "release": "2013", 
+    "id": "126200"
+}

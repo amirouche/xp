@@ -1,0 +1,14 @@
+{
+    "name": "LULLABY (single)    ", 
+    "artist": "C\u0152DES Pierre-Marie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34585&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236892&streamencoding=mp31", 
+            "name": "Lullaby"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34585"
+}

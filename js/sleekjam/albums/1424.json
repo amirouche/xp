@@ -1,0 +1,69 @@
+{
+    "name": "Secrets", 
+    "artist": "All:my:faults", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=1424&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=9506&streamencoding=mp31", 
+            "name": "Douchuu"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=9507&streamencoding=mp31", 
+            "name": "All Forgotten In The Dark Light"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=9508&streamencoding=mp31", 
+            "name": "Decision"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=9509&streamencoding=mp31", 
+            "name": "Slaves"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=9510&streamencoding=mp31", 
+            "name": "A Night In Fall"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=9511&streamencoding=mp31", 
+            "name": "Misantrophy"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=9512&streamencoding=mp31", 
+            "name": "Mirrors"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=9513&streamencoding=mp31", 
+            "name": "Evidence"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=9514&streamencoding=mp31", 
+            "name": "Secrets"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=9515&streamencoding=mp31", 
+            "name": "In Your Diary"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=9516&streamencoding=mp31", 
+            "name": "Forget Me..."
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=9517&streamencoding=mp31", 
+            "name": "Words"
+        }
+    ], 
+    "release": "2006", 
+    "id": "1424"
+}

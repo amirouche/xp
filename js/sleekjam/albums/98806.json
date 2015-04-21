@@ -1,0 +1,34 @@
+{
+    "name": "Indefinido", 
+    "artist": "Gabriel Guimar\u00e3es", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98806&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845161&streamencoding=mp31", 
+            "name": "O Elefante"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845160&streamencoding=mp31", 
+            "name": "Matar ou Morrer"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845162&streamencoding=mp31", 
+            "name": "C\u00e9u"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845159&streamencoding=mp31", 
+            "name": "Democracia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=845163&streamencoding=mp31", 
+            "name": "Sem T\u00edtulo"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98806"
+}

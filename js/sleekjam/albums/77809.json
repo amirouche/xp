@@ -1,0 +1,14 @@
+{
+    "name": "zhivym", 
+    "artist": "Moresebya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77809&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670986&streamencoding=mp31", 
+            "name": "zhivym(semantic prod)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77809"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Mujmezonzite", 
+    "artist": "xikinkei", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47896&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=374957&streamencoding=mp31", 
+            "name": "- _xikinkei_-_Mujmezonzite"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=374958&streamencoding=mp31", 
+            "name": "- _xikinkei_-_Bidaia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=374959&streamencoding=mp31", 
+            "name": "-_xikinkei_-_Ezamodioa"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=374960&streamencoding=mp31", 
+            "name": "-_xikinkei_-_Etorkinak"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=374961&streamencoding=mp31", 
+            "name": "-_xikinkei_-_Ez_esan_gezurrik"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=374962&streamencoding=mp31", 
+            "name": "-_xikinkei_-_Paranoia"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=374963&streamencoding=mp31", 
+            "name": "-_xikinkei_-_Zain_zulatuak"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47896"
+}

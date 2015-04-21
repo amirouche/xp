@@ -1,0 +1,74 @@
+{
+    "name": "Green Vision", 
+    "artist": "#NarNaoud#", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4724&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38515&streamencoding=mp31", 
+            "name": "Introducing"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38516&streamencoding=mp31", 
+            "name": "Bongo Jazzy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38517&streamencoding=mp31", 
+            "name": "Tunner Vibes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38518&streamencoding=mp31", 
+            "name": "My Money"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38519&streamencoding=mp31", 
+            "name": "Oriental Standing"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38520&streamencoding=mp31", 
+            "name": "Magic Box"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38521&streamencoding=mp31", 
+            "name": "Midnight Tempus"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38522&streamencoding=mp31", 
+            "name": "Fuck You"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38523&streamencoding=mp31", 
+            "name": "Dubbing Rules"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38524&streamencoding=mp31", 
+            "name": "Here We're Just So High!"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38525&streamencoding=mp31", 
+            "name": "Save Tibet"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38526&streamencoding=mp31", 
+            "name": "Green Vision"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38527&streamencoding=mp31", 
+            "name": "Break'n'Fever"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4724"
+}

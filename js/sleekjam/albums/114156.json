@@ -1,0 +1,59 @@
+{
+    "name": "ChirurgiKal Dub", 
+    "artist": "DoktaZee", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114156&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970223&streamencoding=mp31", 
+            "name": "EndoSkopY"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970224&streamencoding=mp31", 
+            "name": "StetoSkank"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970219&streamencoding=mp31", 
+            "name": "Anesthezy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970220&streamencoding=mp31", 
+            "name": "DiagnosTafari"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970250&streamencoding=mp31", 
+            "name": "RastafarItes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970225&streamencoding=mp31", 
+            "name": "I-TalSkopy"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970222&streamencoding=mp31", 
+            "name": "Ablation"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970221&streamencoding=mp31", 
+            "name": "FibroSkopy"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970217&streamencoding=mp31", 
+            "name": "NeuroSkank"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970226&streamencoding=mp31", 
+            "name": "CardioBinghy"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114156"
+}

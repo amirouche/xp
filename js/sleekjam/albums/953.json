@@ -1,0 +1,44 @@
+{
+    "name": "Breathin' Again", 
+    "artist": "Antarhes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=953&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6177&streamencoding=mp31", 
+            "name": "Different Way"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6178&streamencoding=mp31", 
+            "name": "Still Fighting"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6179&streamencoding=mp31", 
+            "name": "Stay Away"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6180&streamencoding=mp31", 
+            "name": "Nowhere"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6181&streamencoding=mp31", 
+            "name": "Voodoo Dream"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6182&streamencoding=mp31", 
+            "name": "She Told me"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6183&streamencoding=mp31", 
+            "name": "Breathin' Again (d\u00e9mo version)"
+        }
+    ], 
+    "release": "2006", 
+    "id": "953"
+}

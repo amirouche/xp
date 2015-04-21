@@ -1,0 +1,49 @@
+{
+    "name": "Transformation of a Water-Lily", 
+    "artist": "michael wehr", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17676&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125842&streamencoding=mp31", 
+            "name": "Roses Melody"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125839&streamencoding=mp31", 
+            "name": "Light and Water"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125931&streamencoding=mp31", 
+            "name": "Turn to the world"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125932&streamencoding=mp31", 
+            "name": "Shakra Dancing"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125838&streamencoding=mp31", 
+            "name": "Inauguration"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125841&streamencoding=mp31", 
+            "name": "Quiet Place"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125840&streamencoding=mp31", 
+            "name": "Movement"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125843&streamencoding=mp31", 
+            "name": "Roses"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17676"
+}

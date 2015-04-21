@@ -1,0 +1,69 @@
+{
+    "name": "Vagos Permanentes", 
+    "artist": "Vagos Permanentes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28236&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188689&streamencoding=mp31", 
+            "name": "La valla de Melilla"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188695&streamencoding=mp31", 
+            "name": "Tiempo por dinero"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188574&streamencoding=mp31", 
+            "name": "La Benem\u00e9rita"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188479&streamencoding=mp31", 
+            "name": "Ay de ti"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188690&streamencoding=mp31", 
+            "name": "Las cinco de la tarde"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188691&streamencoding=mp31", 
+            "name": "Ram\u00f3n sin cobertura"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188505&streamencoding=mp31", 
+            "name": "Puta SGAE"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188688&streamencoding=mp31", 
+            "name": "Volver\u00e1n a ver el sol"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188480&streamencoding=mp31", 
+            "name": "Baile Atha Cliath"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188560&streamencoding=mp31", 
+            "name": "Juegos Prohibidos"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188693&streamencoding=mp31", 
+            "name": "Skam\u00f3txalo"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188692&streamencoding=mp31", 
+            "name": "Resaka Balompi\u00e9"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28236"
+}

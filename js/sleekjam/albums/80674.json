@@ -1,0 +1,14 @@
+{
+    "name": "unynie", 
+    "artist": "Moresebya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80674&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692251&streamencoding=mp31", 
+            "name": "unynie(semantic prod)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80674"
+}

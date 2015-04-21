@@ -1,0 +1,49 @@
+{
+    "name": "Lamentation (ep and unreleased tracks)", 
+    "artist": "Forkys", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58045&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495404&streamencoding=mp31", 
+            "name": "Tonight"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495407&streamencoding=mp31", 
+            "name": "Come back to Death"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495408&streamencoding=mp31", 
+            "name": "Lamentation"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495409&streamencoding=mp31", 
+            "name": "Bestrafung"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495410&streamencoding=mp31", 
+            "name": "Underworld part 1"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495411&streamencoding=mp31", 
+            "name": "Underworld part 2"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495412&streamencoding=mp31", 
+            "name": "Underworld part 3"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495419&streamencoding=mp31", 
+            "name": "To my lady I whisper"
+        }
+    ], 
+    "release": "2009", 
+    "id": "58045"
+}

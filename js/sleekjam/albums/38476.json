@@ -1,0 +1,14 @@
+{
+    "name": "FunkyGroove (single)", 
+    "artist": "The fixer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38476&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271472&streamencoding=mp31", 
+            "name": "funkygroove"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38476"
+}

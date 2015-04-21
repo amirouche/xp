@@ -1,0 +1,49 @@
+{
+    "name": "L'Envol du Phoenix", 
+    "artist": "Raemlam", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118507&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006731&streamencoding=mp31", 
+            "name": "Dans le coeur d'un pantin"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006752&streamencoding=mp31", 
+            "name": "Le r\u00eave na\u00eet puis s'\u00e9teint"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006753&streamencoding=mp31", 
+            "name": "Brisant alors ses cha\u00eenes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006754&streamencoding=mp31", 
+            "name": "Lib\u00e9r\u00e9 de ses peines"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006755&streamencoding=mp31", 
+            "name": "Il s'\u00e9lance au dehors"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006756&streamencoding=mp31", 
+            "name": "S'abandonne \u00e0 la mort"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006757&streamencoding=mp31", 
+            "name": "En un oiseau sans \u00e2ge"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006758&streamencoding=mp31", 
+            "name": "Et \u00e0 l'ardent plumage"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118507"
+}

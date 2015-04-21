@@ -1,0 +1,39 @@
+{
+    "name": "The Good", 
+    "artist": "Ryan Helinski", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7308&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79884&streamencoding=mp31", 
+            "name": "Espionage"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79885&streamencoding=mp31", 
+            "name": "The Biggest Shot in the West"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79886&streamencoding=mp31", 
+            "name": "Abandoned"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79887&streamencoding=mp31", 
+            "name": "Travel Through Time"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79888&streamencoding=mp31", 
+            "name": "Runnin' from the Fuzz"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79889&streamencoding=mp31", 
+            "name": "Inspiration"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7308"
+}

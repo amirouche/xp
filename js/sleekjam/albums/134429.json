@@ -1,0 +1,14 @@
+{
+    "name": "A Knight in Manhattan", 
+    "artist": "Pieresis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134429&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124156&streamencoding=mp31", 
+            "name": "A Knight in Manhattan"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134429"
+}

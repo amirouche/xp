@@ -1,0 +1,34 @@
+{
+    "name": "5 Songs", 
+    "artist": "Blutpumpe", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93263&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794840&streamencoding=mp31", 
+            "name": "WAKE UP"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794837&streamencoding=mp31", 
+            "name": "HIMMEL ALS DACH"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794838&streamencoding=mp31", 
+            "name": "MY LOVE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794839&streamencoding=mp31", 
+            "name": "COLD COUNTRY"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794841&streamencoding=mp31", 
+            "name": "DIE ZEIT"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93263"
+}

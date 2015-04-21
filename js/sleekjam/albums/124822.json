@@ -1,0 +1,14 @@
+{
+    "name": "Your love 2013", 
+    "artist": "Project Puuchica", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124822&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1058312&streamencoding=mp31", 
+            "name": "Your Love 2013"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124822"
+}

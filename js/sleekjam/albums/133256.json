@@ -1,0 +1,54 @@
+{
+    "name": "Wortgefieder", 
+    "artist": "The Soulbird", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133256&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115264&streamencoding=mp31", 
+            "name": "TSB"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115261&streamencoding=mp31", 
+            "name": "Madame Rousseau"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115262&streamencoding=mp31", 
+            "name": "Im Park"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115263&streamencoding=mp31", 
+            "name": "Gib mir den richtigen Spirit"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115269&streamencoding=mp31", 
+            "name": "Du bist da"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115265&streamencoding=mp31", 
+            "name": "Mit gegangen"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115266&streamencoding=mp31", 
+            "name": "F\u00fcr die Katz"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115267&streamencoding=mp31", 
+            "name": "Sag Adieu"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115268&streamencoding=mp31", 
+            "name": "Schlaf, meine S\u00fc\u00dfe"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133256"
+}

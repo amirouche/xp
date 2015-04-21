@@ -1,0 +1,49 @@
+{
+    "name": "M'Agrae", 
+    "artist": "Reggae Night Reunion", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85594&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732222&streamencoding=mp31", 
+            "name": "Termitas"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732224&streamencoding=mp31", 
+            "name": "M'agrae"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732220&streamencoding=mp31", 
+            "name": "Cabecita"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732225&streamencoding=mp31", 
+            "name": "Luxus"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732221&streamencoding=mp31", 
+            "name": "Colibri"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732226&streamencoding=mp31", 
+            "name": "Tranquilidad"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732223&streamencoding=mp31", 
+            "name": "Galletas"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732227&streamencoding=mp31", 
+            "name": "Africa"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85594"
+}

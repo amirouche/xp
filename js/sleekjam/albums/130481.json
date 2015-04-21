@@ -1,0 +1,94 @@
+{
+    "name": "Transformed", 
+    "artist": "Wayne Pascall Acappella", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130481&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094609&streamencoding=mp31", 
+            "name": "FRUIT OF THE SPIRIT (Galatians 5-22-23)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094610&streamencoding=mp31", 
+            "name": "LIKE RAIN"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094611&streamencoding=mp31", 
+            "name": "O HAPPY DAY (Classic Version)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094612&streamencoding=mp31", 
+            "name": "YESTERDAY, TODAY & FOREVER_Hebrews 13_8"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094613&streamencoding=mp31", 
+            "name": "PRAY (James 5:16)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094614&streamencoding=mp31", 
+            "name": "THE JOY OF THE LORD IS MY STRENGTH"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094615&streamencoding=mp31", 
+            "name": "JOHN 3:16 (Reloaded)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094616&streamencoding=mp31", 
+            "name": "MINE EYES HAVE SEEN THE GLORY"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094617&streamencoding=mp31", 
+            "name": "ANGELS WATCHING OVER ME MY LORD"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094618&streamencoding=mp31", 
+            "name": "JESUS I LOVE CALLING YOUR NAME"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094619&streamencoding=mp31", 
+            "name": "LET IT BE (Adaptation)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094620&streamencoding=mp31", 
+            "name": "LET IT RISE"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094621&streamencoding=mp31", 
+            "name": "LET THE WEAK SAY"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094622&streamencoding=mp31", 
+            "name": "I LOVE TO PRAISE HIM"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094623&streamencoding=mp31", 
+            "name": "WAR OF ARMAGEDDON RAP"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094624&streamencoding=mp31", 
+            "name": "TRANSFORMED"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1094625&streamencoding=mp31", 
+            "name": "EZEKIEL SAW THE WHEEL"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130481"
+}

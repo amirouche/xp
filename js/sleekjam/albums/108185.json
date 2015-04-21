@@ -1,0 +1,14 @@
+{
+    "name": "L'autre endroit | 4 Christ", 
+    "artist": "4 Christ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108185&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=914093&streamencoding=mp31", 
+            "name": "The Gospel Continues"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108185"
+}

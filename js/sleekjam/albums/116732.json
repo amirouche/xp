@@ -1,0 +1,69 @@
+{
+    "name": "Year of the Dragon", 
+    "artist": "Jugendfreund", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116732&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992167&streamencoding=mp31", 
+            "name": "DO NOT UNDERSTAND THIS WORLD"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992168&streamencoding=mp31", 
+            "name": "MILLIONS OF YEARS"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992169&streamencoding=mp31", 
+            "name": "I REMEMBER THAT NIGHT"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992170&streamencoding=mp31", 
+            "name": "LIFE SMILES"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992159&streamencoding=mp31", 
+            "name": "Tailwind"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992160&streamencoding=mp31", 
+            "name": "Snake Woman"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992161&streamencoding=mp31", 
+            "name": "Revival"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992162&streamencoding=mp31", 
+            "name": "I'm not asking for your Love"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992163&streamencoding=mp31", 
+            "name": "Conversation of two People"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992164&streamencoding=mp31", 
+            "name": "Merry Steps"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992165&streamencoding=mp31", 
+            "name": "The sun's Rays"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992166&streamencoding=mp31", 
+            "name": "Break"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116732"
+}

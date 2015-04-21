@@ -1,0 +1,39 @@
+{
+    "name": "Cabareggae", 
+    "artist": "Piccione e I Membri della GaG", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124352&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054931&streamencoding=mp31", 
+            "name": "Riskaldamento feat. Luca Di Nicola"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054932&streamencoding=mp31", 
+            "name": "Marmellata feat. Ruben Coco"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054934&streamencoding=mp31", 
+            "name": "Amore Amaro al Mare feat. Lorenzo Nunziato"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054935&streamencoding=mp31", 
+            "name": "Accattivant"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054936&streamencoding=mp31", 
+            "name": "Lallalalla feat. Il Ming"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054937&streamencoding=mp31", 
+            "name": "Come fai a comprare un CD da discoteca originale"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124352"
+}

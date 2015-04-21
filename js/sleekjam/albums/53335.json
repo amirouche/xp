@@ -1,0 +1,69 @@
+{
+    "name": "Meno uno", 
+    "artist": "Nu Weird Orchestra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53335&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437668&streamencoding=mp31", 
+            "name": "ambientati#uno"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437889&streamencoding=mp31", 
+            "name": "ambientati#2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437686&streamencoding=mp31", 
+            "name": "ambientati#2.7"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437690&streamencoding=mp31", 
+            "name": "ambientati#2.71"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437691&streamencoding=mp31", 
+            "name": "intermezzi#001"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437702&streamencoding=mp31", 
+            "name": "intermezzi#010"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437709&streamencoding=mp31", 
+            "name": "intermezzi#100"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437712&streamencoding=mp31", 
+            "name": "funerali#Ottobre"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437718&streamencoding=mp31", 
+            "name": "funerali#Novembre"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437716&streamencoding=mp31", 
+            "name": "funerali#Dicembre"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437717&streamencoding=mp31", 
+            "name": "funerali#Gennaio"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=437715&streamencoding=mp31", 
+            "name": "funerali#Febbraio"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53335"
+}

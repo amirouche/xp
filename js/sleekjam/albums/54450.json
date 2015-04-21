@@ -1,0 +1,24 @@
+{
+    "name": "Musique americaine", 
+    "artist": "stolen picassos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54450&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455288&streamencoding=mp31", 
+            "name": "Laisser le bon temps rouler"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455286&streamencoding=mp31", 
+            "name": "La boue du Mississippi"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455300&streamencoding=mp31", 
+            "name": "Je me sens tellement blues"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54450"
+}

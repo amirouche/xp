@@ -1,0 +1,64 @@
+{
+    "name": "SoulStar", 
+    "artist": "Antonio Torres Ruiz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112679&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958352&streamencoding=mp31", 
+            "name": "Rise"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958353&streamencoding=mp31", 
+            "name": "SOULSTAR"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958354&streamencoding=mp31", 
+            "name": "Mundo Del Infinito 2012"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958355&streamencoding=mp31", 
+            "name": "FRESH SUMMER 2012"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958356&streamencoding=mp31", 
+            "name": "BreakStation"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958357&streamencoding=mp31", 
+            "name": "bhudda Break Dance"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958358&streamencoding=mp31", 
+            "name": "Tierra magica"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958359&streamencoding=mp31", 
+            "name": "New Age Piano"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958360&streamencoding=mp31", 
+            "name": "Aura Del Infinito"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958361&streamencoding=mp31", 
+            "name": "Soliloquium Teme"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=958362&streamencoding=mp31", 
+            "name": "Sound Gregorian mix"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112679"
+}

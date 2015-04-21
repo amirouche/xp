@@ -1,0 +1,54 @@
+{
+    "name": "Schizoidalna Marcepanownia", 
+    "artist": "Bielebny", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27947&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186748&streamencoding=mp31", 
+            "name": "Conversation With The Past (2nd version)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186778&streamencoding=mp31", 
+            "name": "Holy Smoke"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186786&streamencoding=mp31", 
+            "name": "The Hopless is Near"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186792&streamencoding=mp31", 
+            "name": "- Onyxodium"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186794&streamencoding=mp31", 
+            "name": "- Winni"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186810&streamencoding=mp31", 
+            "name": "- Dancig Chan Chan"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186811&streamencoding=mp31", 
+            "name": "- Easy That Way"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186824&streamencoding=mp31", 
+            "name": "I Need A Doctor"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186827&streamencoding=mp31", 
+            "name": "Plastic Sweat"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27947"
+}

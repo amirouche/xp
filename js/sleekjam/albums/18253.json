@@ -1,0 +1,39 @@
+{
+    "name": "Eon", 
+    "artist": "txm", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18253&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129357&streamencoding=mp31", 
+            "name": "01-Despertar.1.1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129359&streamencoding=mp31", 
+            "name": "02-En marcha.1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129369&streamencoding=mp31", 
+            "name": "03-Mediodia.1.2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129370&streamencoding=mp31", 
+            "name": "04-Tarde"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129383&streamencoding=mp31", 
+            "name": "05-Noche.1"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129396&streamencoding=mp31", 
+            "name": "06-BonusTrack"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18253"
+}

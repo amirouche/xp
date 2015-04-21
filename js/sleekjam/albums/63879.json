@@ -1,0 +1,59 @@
+{
+    "name": "The Lakes", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63879&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548612&streamencoding=mp31", 
+            "name": "Cruel Twist Of Fate"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548613&streamencoding=mp31", 
+            "name": "4 Real"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548605&streamencoding=mp31", 
+            "name": "Forever And A Day"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548609&streamencoding=mp31", 
+            "name": "Absolute 2009"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548608&streamencoding=mp31", 
+            "name": "The Truth That No-One Wants To Hear"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548611&streamencoding=mp31", 
+            "name": "Insomnia"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548607&streamencoding=mp31", 
+            "name": "Obsessed (With Katie Price)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548604&streamencoding=mp31", 
+            "name": "Assisted Suicide Bomber"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548606&streamencoding=mp31", 
+            "name": "Who Needs Love (When You Can Watch It On Telly)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548610&streamencoding=mp31", 
+            "name": "Sorry"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63879"
+}

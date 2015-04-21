@@ -1,0 +1,64 @@
+{
+    "name": "Spaceflight Full Length Version", 
+    "artist": "D_Tom", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109646&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934371&streamencoding=mp31", 
+            "name": "This is the Rainbow Dance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934372&streamencoding=mp31", 
+            "name": "Light Latino Dance"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934373&streamencoding=mp31", 
+            "name": "If you don't forget about me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934374&streamencoding=mp31", 
+            "name": "Dance at Midnight"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934375&streamencoding=mp31", 
+            "name": "Send me a SOS"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934376&streamencoding=mp31", 
+            "name": "We Return to Gaia"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934377&streamencoding=mp31", 
+            "name": "Dance in the beautyful Night"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934378&streamencoding=mp31", 
+            "name": "Gambler Rock"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934379&streamencoding=mp31", 
+            "name": "Icedance"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934380&streamencoding=mp31", 
+            "name": "Nightshift"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934381&streamencoding=mp31", 
+            "name": "In Memory of the lonely Nights"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109646"
+}

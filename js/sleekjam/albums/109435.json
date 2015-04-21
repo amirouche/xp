@@ -1,0 +1,54 @@
+{
+    "name": "Calm & Collect Vol.1", 
+    "artist": "Anitek", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109435&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925415&streamencoding=mp31", 
+            "name": "Access"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925418&streamencoding=mp31", 
+            "name": "Broke Fashion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925419&streamencoding=mp31", 
+            "name": "Chewie"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925420&streamencoding=mp31", 
+            "name": "Dirt Rich"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925422&streamencoding=mp31", 
+            "name": "Mondays"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925423&streamencoding=mp31", 
+            "name": "Rainy Days"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925424&streamencoding=mp31", 
+            "name": "Treason"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925425&streamencoding=mp31", 
+            "name": "Under Twine"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925400&streamencoding=mp31", 
+            "name": "Vast Shutdown"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109435"
+}

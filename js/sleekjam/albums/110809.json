@@ -1,0 +1,24 @@
+{
+    "name": "Iluzja \u017cycia", 
+    "artist": "Mancy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110809&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943096&streamencoding=mp31", 
+            "name": "Echa dzieci\u0144stwa"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943098&streamencoding=mp31", 
+            "name": "Tu i teraz"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943097&streamencoding=mp31", 
+            "name": "Przysz\u0142o\u015b\u0107 z\u0142udze\u0144"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110809"
+}

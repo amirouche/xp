@@ -1,0 +1,19 @@
+{
+    "name": "          MAKETA - MOMENTOS", 
+    "artist": "FLAMENKITOS DE MADRID", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45415&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=345215&streamencoding=mp31", 
+            "name": "ESOS RATITOS"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=345288&streamencoding=mp31", 
+            "name": "MIRALE OTRA VEZ"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45415"
+}

@@ -1,0 +1,94 @@
+{
+    "name": "St. Range", 
+    "artist": "Friend Owl", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113063&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961816&streamencoding=mp31", 
+            "name": "Been There, Done That"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961817&streamencoding=mp31", 
+            "name": "Experiments With Failure I"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961818&streamencoding=mp31", 
+            "name": "Jerry"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961819&streamencoding=mp31", 
+            "name": "Experiments With Failure Il"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961820&streamencoding=mp31", 
+            "name": "Gentleman of Asphyxiants"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961821&streamencoding=mp31", 
+            "name": "Experiments With Failure Ill"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961822&streamencoding=mp31", 
+            "name": "Purple"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961823&streamencoding=mp31", 
+            "name": "Experiments With Failure IV"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961824&streamencoding=mp31", 
+            "name": "Cows"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961825&streamencoding=mp31", 
+            "name": "Experiments With Failure V"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961826&streamencoding=mp31", 
+            "name": "Reptilian Brain"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961827&streamencoding=mp31", 
+            "name": "Experiments With Failure VI"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961828&streamencoding=mp31", 
+            "name": "Home for the Funeral"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961829&streamencoding=mp31", 
+            "name": "Experiments with Failure VII"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961830&streamencoding=mp31", 
+            "name": "Strange"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961831&streamencoding=mp31", 
+            "name": "Experiments with Failure VIII"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=961832&streamencoding=mp31", 
+            "name": "Strikes and Gutters"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113063"
+}

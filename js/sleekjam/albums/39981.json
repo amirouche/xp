@@ -1,0 +1,34 @@
+{
+    "name": "Peter N. promotional EP", 
+    "artist": "Peter Neuendorffer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39981&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=287870&streamencoding=mp31", 
+            "name": "Overture"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=287866&streamencoding=mp31", 
+            "name": "Private School"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=287867&streamencoding=mp31", 
+            "name": "Improvisation"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=287868&streamencoding=mp31", 
+            "name": "Waiting"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=287892&streamencoding=mp31", 
+            "name": "Air Conditioning"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39981"
+}

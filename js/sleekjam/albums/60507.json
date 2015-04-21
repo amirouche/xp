@@ -1,0 +1,39 @@
+{
+    "name": "Alamantra By Turns (mini)", 
+    "artist": "Alamantra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60507&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517161&streamencoding=mp31", 
+            "name": "surfbabe"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512451&streamencoding=mp31", 
+            "name": "oldtrickster"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512453&streamencoding=mp31", 
+            "name": "marvel"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517159&streamencoding=mp31", 
+            "name": "mark of cain"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512452&streamencoding=mp31", 
+            "name": "unsettled"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517160&streamencoding=mp31", 
+            "name": "symphonette"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60507"
+}

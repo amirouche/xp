@@ -1,0 +1,24 @@
+{
+    "name": "Old", 
+    "artist": "Crosscut Saw", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27427&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=183157&streamencoding=mp31", 
+            "name": "Old"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=183168&streamencoding=mp31", 
+            "name": "Champagne & Reefer"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=183167&streamencoding=mp31", 
+            "name": "Come On In"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27427"
+}

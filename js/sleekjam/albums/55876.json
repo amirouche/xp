@@ -1,0 +1,59 @@
+{
+    "name": "96/98", 
+    "artist": "Jim Guittard", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55876&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472940&streamencoding=mp31", 
+            "name": "Here It Comes"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472941&streamencoding=mp31", 
+            "name": "Station"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472942&streamencoding=mp31", 
+            "name": "Once Around the Moon"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472943&streamencoding=mp31", 
+            "name": "Red Dress"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472944&streamencoding=mp31", 
+            "name": "Alternate Tuning Song"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472945&streamencoding=mp31", 
+            "name": "Chapatis"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472946&streamencoding=mp31", 
+            "name": "NaNaNaNaNa"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472947&streamencoding=mp31", 
+            "name": "Groovy"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472948&streamencoding=mp31", 
+            "name": "Haluva"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472949&streamencoding=mp31", 
+            "name": "Station Reprise"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55876"
+}

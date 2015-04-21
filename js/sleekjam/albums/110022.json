@@ -1,0 +1,34 @@
+{
+    "name": "Goodtime EP 2012", 
+    "artist": "Goodtime", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110022&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937196&streamencoding=mp31", 
+            "name": "SUMMER MEMORIES"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937216&streamencoding=mp31", 
+            "name": "FEELING THE SAME"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937233&streamencoding=mp31", 
+            "name": "HELEN"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937290&streamencoding=mp31", 
+            "name": "FOXY GENTLEMEN"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937293&streamencoding=mp31", 
+            "name": "ENI ANDAMA"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110022"
+}

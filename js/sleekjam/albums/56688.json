@@ -1,0 +1,64 @@
+{
+    "name": "Mental Straitjacket", 
+    "artist": "Camp Z", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56688&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480940&streamencoding=mp31", 
+            "name": "Intro/Section"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480941&streamencoding=mp31", 
+            "name": "No Reality"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480942&streamencoding=mp31", 
+            "name": "Schizophrenie"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480943&streamencoding=mp31", 
+            "name": "W.Hell.Come II"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480944&streamencoding=mp31", 
+            "name": "Unsound Voices"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480945&streamencoding=mp31", 
+            "name": "U-Bortched"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480946&streamencoding=mp31", 
+            "name": "Retroscopic"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480948&streamencoding=mp31", 
+            "name": "Obsolete Resistance"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480949&streamencoding=mp31", 
+            "name": "Further Schizo"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480950&streamencoding=mp31", 
+            "name": "Beyond The Fences Of  Reality"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480951&streamencoding=mp31", 
+            "name": "Conclusion"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56688"
+}

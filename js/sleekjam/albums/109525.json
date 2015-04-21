@@ -1,0 +1,29 @@
+{
+    "name": "Some tracks", 
+    "artist": "Koke N\u00fa\u00f1ez G\u00f3mez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109525&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926372&streamencoding=mp31", 
+            "name": "Divine Immortality"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926373&streamencoding=mp31", 
+            "name": "March for Rome"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926374&streamencoding=mp31", 
+            "name": "Hades' Rebellion"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926423&streamencoding=mp31", 
+            "name": "Game of Kings"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109525"
+}

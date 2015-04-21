@@ -1,0 +1,19 @@
+{
+    "name": "What you see, what you say", 
+    "artist": "Mob", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6806&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75940&streamencoding=mp31", 
+            "name": "What you see, what you say"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75976&streamencoding=mp31", 
+            "name": "Every day"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6806"
+}

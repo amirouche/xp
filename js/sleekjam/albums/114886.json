@@ -1,0 +1,54 @@
+{
+    "name": "Neotanzmusik", 
+    "artist": "Skabrot", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114886&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=975628&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=975625&streamencoding=mp31", 
+            "name": "Tanzen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=975624&streamencoding=mp31", 
+            "name": "Place where I belong"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=975623&streamencoding=mp31", 
+            "name": "Braun"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=975622&streamencoding=mp31", 
+            "name": "Gluecksrad"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=975627&streamencoding=mp31", 
+            "name": "Drop Drop"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=975626&streamencoding=mp31", 
+            "name": "What If"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=975621&streamencoding=mp31", 
+            "name": "Bored Reality"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=975620&streamencoding=mp31", 
+            "name": "Outro"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114886"
+}

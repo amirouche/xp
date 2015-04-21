@@ -1,0 +1,39 @@
+{
+    "name": "Why Rock when you can STEADY'N'ROLL?", 
+    "artist": "Dr.Jau", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58103&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495434&streamencoding=mp31", 
+            "name": "DONT FORET YOUR PORK PIE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495436&streamencoding=mp31", 
+            "name": "LIES HURT"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495442&streamencoding=mp31", 
+            "name": "BRAND NEW OLD GOALS"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495437&streamencoding=mp31", 
+            "name": "JAZZST4FRIENDS"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495444&streamencoding=mp31", 
+            "name": "A NEW ENGLAND"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=495440&streamencoding=mp31", 
+            "name": "TUNE DUB"
+        }
+    ], 
+    "release": "2009", 
+    "id": "58103"
+}

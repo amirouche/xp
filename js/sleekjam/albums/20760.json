@@ -1,0 +1,14 @@
+{
+    "name": "Mandala", 
+    "artist": "Mandala Meditation", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20760&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145855&streamencoding=mp31", 
+            "name": "Mandala Orient"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20760"
+}

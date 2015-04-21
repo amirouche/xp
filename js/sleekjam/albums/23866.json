@@ -1,0 +1,69 @@
+{
+    "name": "Manic Heart", 
+    "artist": "Richie Reinholdt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23866&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162871&streamencoding=mp31", 
+            "name": "Tabloid Queen"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162875&streamencoding=mp31", 
+            "name": "On The Inside"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162879&streamencoding=mp31", 
+            "name": "This Bottle"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162898&streamencoding=mp31", 
+            "name": "Movin' On"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162900&streamencoding=mp31", 
+            "name": "People Like Us"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162907&streamencoding=mp31", 
+            "name": "No X"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162912&streamencoding=mp31", 
+            "name": "Heroes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162925&streamencoding=mp31", 
+            "name": "Be The One "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162931&streamencoding=mp31", 
+            "name": "Random Accusations"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162936&streamencoding=mp31", 
+            "name": "Betty Lou"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162940&streamencoding=mp31", 
+            "name": "The Man"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162941&streamencoding=mp31", 
+            "name": "Blisters"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23866"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "slow-fi (2002)", 
+    "artist": "Muyolab", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18146&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128609&streamencoding=mp31", 
+            "name": "with the colour of the sky"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128603&streamencoding=mp31", 
+            "name": "following a lonely dog"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128601&streamencoding=mp31", 
+            "name": "crying for a cloud"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128602&streamencoding=mp31", 
+            "name": "fastidio"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128604&streamencoding=mp31", 
+            "name": "prog minute"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128605&streamencoding=mp31", 
+            "name": "rolling time"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128606&streamencoding=mp31", 
+            "name": "rural short song"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128608&streamencoding=mp31", 
+            "name": "toriton song"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128607&streamencoding=mp31", 
+            "name": "terzo crepuscolo"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18146"
+}

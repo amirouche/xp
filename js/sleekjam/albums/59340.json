@@ -1,0 +1,29 @@
+{
+    "name": "Evilcrosses Ep 2009", 
+    "artist": "Evilcrosses", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59340&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=506652&streamencoding=mp31", 
+            "name": "SHamANiK TOolS!?"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=506650&streamencoding=mp31", 
+            "name": "Raven's Heart"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=506651&streamencoding=mp31", 
+            "name": "White Widow"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=506644&streamencoding=mp31", 
+            "name": "Rusty Jesus"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59340"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "MUNDO HOSTIL", 
+    "artist": "GUSAZEKAS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107742&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910604&streamencoding=mp31", 
+            "name": "MUNDOHOSTIL"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910605&streamencoding=mp31", 
+            "name": "UNGOLPEDEROCK"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910606&streamencoding=mp31", 
+            "name": "VOS YASABES"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910607&streamencoding=mp31", 
+            "name": "KOMARKAS"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910608&streamencoding=mp31", 
+            "name": "SIMPLE"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910609&streamencoding=mp31", 
+            "name": "TENECESITO"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910612&streamencoding=mp31", 
+            "name": "TRISTE Y GRIS( CLAVO SOBRE CLAVO )"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107742"
+}

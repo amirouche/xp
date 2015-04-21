@@ -1,0 +1,54 @@
+{
+    "name": "minimalnoise", 
+    "artist": "Jacek Red\u017ako", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45752&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348595&streamencoding=mp31", 
+            "name": "winter has come"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348649&streamencoding=mp31", 
+            "name": "song for non-existing radiostation"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348592&streamencoding=mp31", 
+            "name": "confusion"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348596&streamencoding=mp31", 
+            "name": "radio fry europe"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348593&streamencoding=mp31", 
+            "name": "the gathering"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348594&streamencoding=mp31", 
+            "name": "rayblind"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348650&streamencoding=mp31", 
+            "name": "vulnerationis"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348597&streamencoding=mp31", 
+            "name": "necessary interlude"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348591&streamencoding=mp31", 
+            "name": "postsriptum (colegium vocale)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45752"
+}

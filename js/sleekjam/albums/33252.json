@@ -1,0 +1,89 @@
+{
+    "name": "Recopilatori Valencia Ska", 
+    "artist": "Val\u00e8ncia Ska", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33252&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224405&streamencoding=mp31", 
+            "name": "The Skafeinats - Capit\u00e0 Peskanova"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224406&streamencoding=mp31", 
+            "name": "Semeneska - Balla balla balla"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224407&streamencoding=mp31", 
+            "name": "Buskant - Alcoi\u00e0"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224408&streamencoding=mp31", 
+            "name": "The shake it up's - Run for cover"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224409&streamencoding=mp31", 
+            "name": "The Skartats - Just Tonigh"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224410&streamencoding=mp31", 
+            "name": "Contratempo - Skinhead Revolt"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224411&streamencoding=mp31", 
+            "name": "Ki Sap - Palestina"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224412&streamencoding=mp31", 
+            "name": "Skalissai - Dins de tu"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224413&streamencoding=mp31", 
+            "name": "Odi - Esperan\u00e7a rebel"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224414&streamencoding=mp31", 
+            "name": "Desgavell - Fem Via"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224415&streamencoding=mp31", 
+            "name": "Aspencat - A passes de gegant"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224416&streamencoding=mp31", 
+            "name": "Low Moscow - Pinotxo"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224417&streamencoding=mp31", 
+            "name": "Anguiles de Camal - El joc de la vida"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224418&streamencoding=mp31", 
+            "name": "Malagana Ska - Ona Dissident"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224419&streamencoding=mp31", 
+            "name": "Ra\u00e7a Borda - Lladres amb sotana"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224404&streamencoding=mp31", 
+            "name": "Orxata Sound System -Abor\u00edgens 2207"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33252"
+}

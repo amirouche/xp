@@ -1,0 +1,34 @@
+{
+    "name": "Bombs Do Not Choose//They Will Hit Everything", 
+    "artist": "Male Enhancement", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63942&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549097&streamencoding=mp31", 
+            "name": "Condemned to Repeat It//Legends of the People's Temple"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549095&streamencoding=mp31", 
+            "name": "Christmas On Other Planets//Mouse Princess Hit By Two Trains"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549096&streamencoding=mp31", 
+            "name": "They Worship Rattlesnakes Don't They?//When I Got That Feeling, I Need Appalachian Faith Healing"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549099&streamencoding=mp31", 
+            "name": "Living Alone//Dying Alone"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549094&streamencoding=mp31", 
+            "name": "Family Secrets/Don't Tell Mama"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63942"
+}

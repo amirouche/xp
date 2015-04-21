@@ -1,0 +1,29 @@
+{
+    "name": "Acoustic Lounge (Live)", 
+    "artist": "DO-UP", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5589&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46432&streamencoding=mp31", 
+            "name": "be free"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46433&streamencoding=mp31", 
+            "name": "desert road"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46434&streamencoding=mp31", 
+            "name": "feel me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46435&streamencoding=mp31", 
+            "name": "moody"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5589"
+}

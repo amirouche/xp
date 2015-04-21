@@ -1,0 +1,39 @@
+{
+    "name": "Logic Bomb", 
+    "artist": "Kagnee", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61364&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525098&streamencoding=mp31", 
+            "name": "Off A Wall"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525105&streamencoding=mp31", 
+            "name": "The Horse & Cart"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525125&streamencoding=mp31", 
+            "name": "Loose Cannon"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525137&streamencoding=mp31", 
+            "name": "Ropey"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525143&streamencoding=mp31", 
+            "name": "In It 4 Tha Money"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525145&streamencoding=mp31", 
+            "name": "Vibraslap"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61364"
+}

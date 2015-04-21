@@ -1,0 +1,14 @@
+{
+    "name": "JEANS ELASTIK'S SONG (Single)", 
+    "artist": "Guy Berrier", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40803&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297537&streamencoding=mp31", 
+            "name": "JEANS ELASTIK'S SONG"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40803"
+}

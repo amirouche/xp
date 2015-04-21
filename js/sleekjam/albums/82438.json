@@ -1,0 +1,19 @@
+{
+    "name": "NOVIEMBRE", 
+    "artist": "Carmelo S\u00e1nchez ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82438&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706780&streamencoding=mp31", 
+            "name": "Noviembre I"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706781&streamencoding=mp31", 
+            "name": "Noviembre II"
+        }
+    ], 
+    "release": "2010", 
+    "id": "82438"
+}

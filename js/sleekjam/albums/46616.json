@@ -1,0 +1,34 @@
+{
+    "name": "tAmC 1st Session - At Afternoon night with carlestor and cousins 1 & 2", 
+    "artist": "tAmC?", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46616&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=358497&streamencoding=mp31", 
+            "name": "tAmC - Intro y wea"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=358491&streamencoding=mp31", 
+            "name": "tAmC - Jorge gitans dance"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=358492&streamencoding=mp31", 
+            "name": "tAmC - Cueca enfermita tecno postmoderna"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=358493&streamencoding=mp31", 
+            "name": "tAmC - Tutorial de Vi en 10 minutos"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=358494&streamencoding=mp31", 
+            "name": "tAmC - En la granja 2000 super choriflai"
+        }
+    ], 
+    "release": "2009", 
+    "id": "46616"
+}

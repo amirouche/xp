@@ -1,0 +1,14 @@
+{
+    "name": "Legend of the Dragonsland", 
+    "artist": "D_Tom", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109596&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933991&streamencoding=mp31", 
+            "name": "Legend_of_the_Dragonsland"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109596"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "FRENCH FUNKY TIME", 
+    "artist": "MARC SEHN", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22489&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=156443&streamencoding=mp31", 
+            "name": "FRENCH FUNKY TIME"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22489"
+}

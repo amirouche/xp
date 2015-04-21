@@ -1,0 +1,14 @@
+{
+    "name": "Parasitic Sleep", 
+    "artist": "Larry Crowell", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129275&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1085054&streamencoding=mp31", 
+            "name": "Parasitic Sleep"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129275"
+}

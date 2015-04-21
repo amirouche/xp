@@ -1,0 +1,44 @@
+{
+    "name": "Mes Ann\u00e9es Lyc\u00e9e 2009", 
+    "artist": "J\u00e9r\u00e9my Peiti", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54108&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451555&streamencoding=mp31", 
+            "name": "Le Sourire"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451639&streamencoding=mp31", 
+            "name": "L'\u00e9toile de nos souvenirs !"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451558&streamencoding=mp31", 
+            "name": "Quand les paroles s'envolent !"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451557&streamencoding=mp31", 
+            "name": "La Rose"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451561&streamencoding=mp31", 
+            "name": "Le temps des vacances"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451559&streamencoding=mp31", 
+            "name": "Quand le doute s'installe !"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451556&streamencoding=mp31", 
+            "name": "Le Chocolat et Toi"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54108"
+}

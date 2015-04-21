@@ -1,0 +1,49 @@
+{
+    "name": "Derivas so\u00f1adoras", 
+    "artist": ".\u00b7\u00b4\u00b4\u00af`\u00b7\u00b7.Otoshi\u00b7\u00b4\u00b4\u00af`\u00b7\u00b7.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7213&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79188&streamencoding=mp31", 
+            "name": "PneumOto"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79189&streamencoding=mp31", 
+            "name": "Le roi et l'oiselle"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79190&streamencoding=mp31", 
+            "name": "Dans ton Do"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79191&streamencoding=mp31", 
+            "name": "Oeil de mer"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79192&streamencoding=mp31", 
+            "name": "Oleo de 3 mujeres y piedras"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79193&streamencoding=mp31", 
+            "name": "Karoline"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79194&streamencoding=mp31", 
+            "name": "Hommage aux conos de l'immodium"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79195&streamencoding=mp31", 
+            "name": "15 ao\u00fbt"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7213"
+}

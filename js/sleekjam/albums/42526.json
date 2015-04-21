@@ -1,0 +1,99 @@
+{
+    "name": "4 Track Recordings", 
+    "artist": "The Sacred Datura", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42526&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314386&streamencoding=mp31", 
+            "name": "Bird Migration"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314385&streamencoding=mp31", 
+            "name": "Playground Injuries"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314381&streamencoding=mp31", 
+            "name": "Dead Garden Haiku"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314379&streamencoding=mp31", 
+            "name": "Fish Head Man"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314380&streamencoding=mp31", 
+            "name": "Plastic Prophet"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314383&streamencoding=mp31", 
+            "name": "Belly Dancer Struggle"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314384&streamencoding=mp31", 
+            "name": "Dizzy & Drowzy Dunce"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=313933&streamencoding=mp31", 
+            "name": "Bayou Boogie"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=313934&streamencoding=mp31", 
+            "name": "Take a Bow, Suave King"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314378&streamencoding=mp31", 
+            "name": "cosmofukk"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=313935&streamencoding=mp31", 
+            "name": "Mustard Gas Masquerade"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314393&streamencoding=mp31", 
+            "name": "Growing (w)Hole"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314382&streamencoding=mp31", 
+            "name": "Meaningless Prayers"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314394&streamencoding=mp31", 
+            "name": "The Vultures Circling Over Sand Dune Paradise"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314395&streamencoding=mp31", 
+            "name": "Insect Revenge"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314396&streamencoding=mp31", 
+            "name": "Pig Skeleton"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314398&streamencoding=mp31", 
+            "name": "Swine Carcass"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314397&streamencoding=mp31", 
+            "name": "Trash Can Blues"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42526"
+}

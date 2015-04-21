@@ -1,0 +1,34 @@
+{
+    "name": "MESH M18  \"LIVE @ Ty Pen' Art \" (2005) ", 
+    "artist": "Mesh m18", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=10147&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97949&streamencoding=mp31", 
+            "name": "Funky riddim"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97950&streamencoding=mp31", 
+            "name": "World Jam riddim"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97951&streamencoding=mp31", 
+            "name": "2004 riddim"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97952&streamencoding=mp31", 
+            "name": "Rah Rah riddim"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97953&streamencoding=mp31", 
+            "name": "Dougla Soca riddim"
+        }
+    ], 
+    "release": "2007", 
+    "id": "10147"
+}

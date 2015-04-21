@@ -1,0 +1,59 @@
+{
+    "name": "Babies (Side A)", 
+    "artist": "Davy Long", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66658&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577989&streamencoding=mp31", 
+            "name": "Babies"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578000&streamencoding=mp31", 
+            "name": "Queen Psychic"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578004&streamencoding=mp31", 
+            "name": "Ghost Child #23"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578005&streamencoding=mp31", 
+            "name": "No Fun"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578006&streamencoding=mp31", 
+            "name": "I Don't Considerate"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578007&streamencoding=mp31", 
+            "name": "Jenny"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578008&streamencoding=mp31", 
+            "name": "Gigantic Thomas"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578009&streamencoding=mp31", 
+            "name": "Dopamine"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578010&streamencoding=mp31", 
+            "name": "The Scariest Thing That I Have Ever Seen"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578011&streamencoding=mp31", 
+            "name": "John Has a Lisp"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66658"
+}

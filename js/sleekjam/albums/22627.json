@@ -1,0 +1,14 @@
+{
+    "name": "AFFONDA", 
+    "artist": "ANDREA PARDI \"GIUGGI\"", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22627&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=157456&streamencoding=mp31", 
+            "name": "AFFONDA"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22627"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Fuck art let's play with computer", 
+    "artist": "Dr. Esc", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112336&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955452&streamencoding=mp31", 
+            "name": "Fuck computer, lets play synthesiser"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955453&streamencoding=mp31", 
+            "name": "/vali/ehk/kasuta.v6imalust"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955454&streamencoding=mp31", 
+            "name": "C:\\\\GAMES\\\\GPX> GPX.EXE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955455&streamencoding=mp31", 
+            "name": "Brick~Game"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955456&streamencoding=mp31", 
+            "name": "D:\\\\FreeVSTi\\\\ymVST.dll"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955460&streamencoding=mp31", 
+            "name": "Fuck art let's play with computer (with Nils)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955461&streamencoding=mp31", 
+            "name": "Tahax olla muru (with M1hk3L)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955462&streamencoding=mp31", 
+            "name": "K\u00c4\u00e4R_2010-6-13_ (with Nils)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112336"
+}

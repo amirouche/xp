@@ -1,0 +1,74 @@
+{
+    "name": "C\u00f3gelo!", 
+    "artist": "Sundayers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62611&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537126&streamencoding=mp31", 
+            "name": "Si Mueves..."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537124&streamencoding=mp31", 
+            "name": "\u00a1Que Paciencia!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537121&streamencoding=mp31", 
+            "name": "No Nos Pertenece"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537120&streamencoding=mp31", 
+            "name": "En La Calma"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537117&streamencoding=mp31", 
+            "name": "\u00a1C\u00f3gelo!"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537118&streamencoding=mp31", 
+            "name": "No Lo Comprendo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537127&streamencoding=mp31", 
+            "name": "La Otra Historia"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537116&streamencoding=mp31", 
+            "name": "Dentro De Mi"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537125&streamencoding=mp31", 
+            "name": "Intentando Destacar"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537119&streamencoding=mp31", 
+            "name": "Oh My Cat!"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537123&streamencoding=mp31", 
+            "name": "\u00bfQui\u00e9n Debe a Qui\u00e9n?"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537128&streamencoding=mp31", 
+            "name": "Sundayers"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537122&streamencoding=mp31", 
+            "name": "Agarra Tu Suerte"
+        }
+    ], 
+    "release": "2010", 
+    "id": "62611"
+}

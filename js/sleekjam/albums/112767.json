@@ -1,0 +1,34 @@
+{
+    "name": "Fangs", 
+    "artist": "The Kiss That Took A Trip", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112767&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959080&streamencoding=mp31", 
+            "name": "Fangs"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959085&streamencoding=mp31", 
+            "name": "Stock footage"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959086&streamencoding=mp31", 
+            "name": "Fangs (carpathian chill out mix)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959087&streamencoding=mp31", 
+            "name": "Fangs (kick the bucket mix)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959088&streamencoding=mp31", 
+            "name": "Fangs (video edit)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112767"
+}

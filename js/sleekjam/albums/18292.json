@@ -1,0 +1,59 @@
+{
+    "name": "Plourin'Bluesi", 
+    "artist": "BlueDid - didier.merlateau", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18292&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129747&streamencoding=mp31", 
+            "name": "Estelle blues"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129796&streamencoding=mp31", 
+            "name": "Bloumounin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129800&streamencoding=mp31", 
+            "name": "Dynablues"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129816&streamencoding=mp31", 
+            "name": "Lette maille"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129823&streamencoding=mp31", 
+            "name": "Funkd06"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129832&streamencoding=mp31", 
+            "name": "Blueszeroun"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129841&streamencoding=mp31", 
+            "name": "Nobodivar1"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129842&streamencoding=mp31", 
+            "name": "St james infirmary"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129851&streamencoding=mp31", 
+            "name": "Bluedidjks"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129860&streamencoding=mp31", 
+            "name": "Oceanblues"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18292"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Echoes of tomorrow that never comes", 
+    "artist": "Silvergate", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63629&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546126&streamencoding=mp31", 
+            "name": "intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546127&streamencoding=mp31", 
+            "name": "when we fell demo version"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546128&streamencoding=mp31", 
+            "name": "the secret of an old man demo version"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546224&streamencoding=mp31", 
+            "name": "everything flows demo version"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546225&streamencoding=mp31", 
+            "name": "behind a colour demo version"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63629"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Needless tiny Melodies", 
+    "artist": "Marius Heil", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32737&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222316&streamencoding=mp31", 
+            "name": "melody fneuf"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222315&streamencoding=mp31", 
+            "name": "melody ierd"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222314&streamencoding=mp31", 
+            "name": "melody iewz"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222309&streamencoding=mp31", 
+            "name": "melody shces"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222311&streamencoding=mp31", 
+            "name": "melody reiv"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222303&streamencoding=mp31", 
+            "name": "melody nebeis"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222307&streamencoding=mp31", 
+            "name": "melody snie"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32737"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "TRUBEL", 
+    "artist": "Apijamm", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103680&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882130&streamencoding=mp31", 
+            "name": "Tru "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882131&streamencoding=mp31", 
+            "name": "tanz"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882145&streamencoding=mp31", 
+            "name": "Trubel "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882132&streamencoding=mp31", 
+            "name": "Tr\u00fcbel "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882133&streamencoding=mp31", 
+            "name": "tr\u00fcbels se"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882134&streamencoding=mp31", 
+            "name": "Vorsichtrub"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882144&streamencoding=mp31", 
+            "name": "stanztanz"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882170&streamencoding=mp31", 
+            "name": "endtrub"
+        }
+    ], 
+    "release": "2011", 
+    "id": "103680"
+}

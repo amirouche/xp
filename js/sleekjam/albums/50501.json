@@ -1,0 +1,59 @@
+{
+    "name": "Four Lives", 
+    "artist": "PORT JACKSON", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50501&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=406016&streamencoding=mp31", 
+            "name": "Mind Revolution"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=406018&streamencoding=mp31", 
+            "name": "Life must go on"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=406024&streamencoding=mp31", 
+            "name": "Believe in you"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=406022&streamencoding=mp31", 
+            "name": "Coming for blood"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=406015&streamencoding=mp31", 
+            "name": "Wounded heart"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=406017&streamencoding=mp31", 
+            "name": "Somebody"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=406025&streamencoding=mp31", 
+            "name": "Ride under the sky"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=406019&streamencoding=mp31", 
+            "name": "Forgive and Forget"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=406023&streamencoding=mp31", 
+            "name": "I wanna come home"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=406021&streamencoding=mp31", 
+            "name": "Find your freedom"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50501"
+}

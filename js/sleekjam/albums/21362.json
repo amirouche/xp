@@ -1,0 +1,49 @@
+{
+    "name": "The Suicide King", 
+    "artist": "Luke Tan", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21362&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148975&streamencoding=mp31", 
+            "name": "I want to make you happy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148976&streamencoding=mp31", 
+            "name": "mary jane"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148977&streamencoding=mp31", 
+            "name": "hypochristian"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148978&streamencoding=mp31", 
+            "name": "same old same old"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148979&streamencoding=mp31", 
+            "name": "frankie machine (the suicide king)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148980&streamencoding=mp31", 
+            "name": "truth I can't deny"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148981&streamencoding=mp31", 
+            "name": "live and learn"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148982&streamencoding=mp31", 
+            "name": "let it burn"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21362"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Renovaxion ", 
+    "artist": "Trasfondo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100000&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=855148&streamencoding=mp31", 
+            "name": "AMANECI"
+        }
+    ], 
+    "release": "2011", 
+    "id": "100000"
+}

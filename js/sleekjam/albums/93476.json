@@ -1,0 +1,49 @@
+{
+    "name": "Saw Jams III", 
+    "artist": "The Happy Royal Cats", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93476&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796311&streamencoding=mp31", 
+            "name": "Mace"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796315&streamencoding=mp31", 
+            "name": "Radio 0"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796314&streamencoding=mp31", 
+            "name": "Pierdo el control"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796312&streamencoding=mp31", 
+            "name": "Mifundo Karanku"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796302&streamencoding=mp31", 
+            "name": "El Viaje"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796307&streamencoding=mp31", 
+            "name": "Hombre pollo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796289&streamencoding=mp31", 
+            "name": "Misterioso mal"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796291&streamencoding=mp31", 
+            "name": "Espalda tendida"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93476"
+}

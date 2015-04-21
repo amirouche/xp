@@ -1,0 +1,14 @@
+{
+    "name": "le po\u00e8me", 
+    "artist": "Fran\u00e7oislucas", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25646&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173628&streamencoding=mp31", 
+            "name": "le po\u00e8me"
+        }
+    ], 
+    "release": "2008", 
+    "id": "25646"
+}

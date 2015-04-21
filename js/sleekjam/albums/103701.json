@@ -1,0 +1,19 @@
+{
+    "name": "Bhairav Sadhana - 9", 
+    "artist": "Vibhavaree Gargeya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103701&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882292&streamencoding=mp31", 
+            "name": "PracticeBhairav9_Alap"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882293&streamencoding=mp31", 
+            "name": "PracticeBhairav9_Allahoo"
+        }
+    ], 
+    "release": "2011", 
+    "id": "103701"
+}

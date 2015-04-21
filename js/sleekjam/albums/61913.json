@@ -1,0 +1,69 @@
+{
+    "name": "Les temps sont compt\u00e9s", 
+    "artist": "CANETON", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61913&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530354&streamencoding=mp31", 
+            "name": "Like a culture of a song"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530357&streamencoding=mp31", 
+            "name": "Main form"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530361&streamencoding=mp31", 
+            "name": "Feinted hat"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530495&streamencoding=mp31", 
+            "name": "Murder game"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530505&streamencoding=mp31", 
+            "name": "Home spying"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530506&streamencoding=mp31", 
+            "name": "Cromozone"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530511&streamencoding=mp31", 
+            "name": "Math scrap qui peut"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530535&streamencoding=mp31", 
+            "name": "Whisper in a tone"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530536&streamencoding=mp31", 
+            "name": "Next butcher has to come"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530538&streamencoding=mp31", 
+            "name": "Private joke"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530541&streamencoding=mp31", 
+            "name": "Kilimanjaro"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530544&streamencoding=mp31", 
+            "name": "Irascible"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61913"
+}

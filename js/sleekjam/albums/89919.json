@@ -1,0 +1,39 @@
+{
+    "name": "MagiE InDiennE", 
+    "artist": "PHILIpPE bRaY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89919&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767610&streamencoding=mp31", 
+            "name": "Ombre et lumi\u00e8re"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767614&streamencoding=mp31", 
+            "name": "Magie indienne"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767616&streamencoding=mp31", 
+            "name": "Le monde est sourd"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767617&streamencoding=mp31", 
+            "name": "Nos ain\u00e9s"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767627&streamencoding=mp31", 
+            "name": "Vie aquatique"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767630&streamencoding=mp31", 
+            "name": "Rocamadour"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89919"
+}

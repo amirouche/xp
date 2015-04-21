@@ -1,0 +1,79 @@
+{
+    "name": "ZwischenWelt", 
+    "artist": "Soul in Sadness", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47691&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372167&streamencoding=mp31", 
+            "name": "Prolog"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372152&streamencoding=mp31", 
+            "name": "Zwischen Hier und Leben"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372147&streamencoding=mp31", 
+            "name": "Silent Situation"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372157&streamencoding=mp31", 
+            "name": "3rd Eye Blind"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372148&streamencoding=mp31", 
+            "name": "Neues Leben"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372170&streamencoding=mp31", 
+            "name": "Deadnettlepan"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372160&streamencoding=mp31", 
+            "name": "Tote Seelen lieben nicht"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372163&streamencoding=mp31", 
+            "name": "Visions"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372150&streamencoding=mp31", 
+            "name": "Irritation"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372165&streamencoding=mp31", 
+            "name": "Die Menschmaschine"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372154&streamencoding=mp31", 
+            "name": "Childhood"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372171&streamencoding=mp31", 
+            "name": "Der zweite Weg"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372168&streamencoding=mp31", 
+            "name": "Immer Noch"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372169&streamencoding=mp31", 
+            "name": "Von Anfang an"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47691"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Velvet (demo)", 
+    "artist": "Mr Lajt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42513&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314138&streamencoding=mp31", 
+            "name": "Pani sn\u00f3w"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314139&streamencoding=mp31", 
+            "name": "Wolny"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314140&streamencoding=mp31", 
+            "name": "Wyjd\u017a kiedy pada deszcz"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314142&streamencoding=mp31", 
+            "name": "Przelotna znajomo\u015b\u0107"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314143&streamencoding=mp31", 
+            "name": "Nie mog\u0119"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314144&streamencoding=mp31", 
+            "name": "Velvet"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314145&streamencoding=mp31", 
+            "name": "Cofn\u0105\u0107 czas"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314146&streamencoding=mp31", 
+            "name": "Walcz"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314147&streamencoding=mp31", 
+            "name": "Spacer po linie"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314149&streamencoding=mp31", 
+            "name": "To by\u0142a noc"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42513"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Meu Brasil - continua\u00e7\u00e3o", 
+    "artist": "Beto Campos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61502&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526388&streamencoding=mp31", 
+            "name": "Meu brasil"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526384&streamencoding=mp31", 
+            "name": "Vida de caminhoneiro"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526379&streamencoding=mp31", 
+            "name": "Tudo era amor"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526380&streamencoding=mp31", 
+            "name": "Tudo que sonhei"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526386&streamencoding=mp31", 
+            "name": "Brigas de casal"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526385&streamencoding=mp31", 
+            "name": "Amor com p\u00e3o e mel"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526383&streamencoding=mp31", 
+            "name": "Gar\u00e7a cidade luz"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61502"
+}

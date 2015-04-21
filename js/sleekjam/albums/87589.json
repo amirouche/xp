@@ -1,0 +1,59 @@
+{
+    "name": "Behold The Chaos", 
+    "artist": "Advent of Bedlam", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87589&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749087&streamencoding=mp31", 
+            "name": "Ifrit Awakens"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749088&streamencoding=mp31", 
+            "name": "Enligthenment of the Forsaken"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749181&streamencoding=mp31", 
+            "name": "The Stench of Your Faith"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749090&streamencoding=mp31", 
+            "name": "Awaiting for Chaos"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749091&streamencoding=mp31", 
+            "name": "Chronicles of a Bedlamite"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749092&streamencoding=mp31", 
+            "name": "The Darkest Alliance"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749093&streamencoding=mp31", 
+            "name": "Harp of Ruin"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749094&streamencoding=mp31", 
+            "name": "Dogmatic Apprehensions"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749095&streamencoding=mp31", 
+            "name": "Vessels of Sin"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749096&streamencoding=mp31", 
+            "name": "The Alabaster Corpse - Consequences"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87589"
+}

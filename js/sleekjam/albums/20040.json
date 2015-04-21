@@ -1,0 +1,44 @@
+{
+    "name": "CHRYSALID", 
+    "artist": "CHRYSALID", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20040&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140287&streamencoding=mp31", 
+            "name": "Love Catalogue"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140712&streamencoding=mp31", 
+            "name": "The Sundowner"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140732&streamencoding=mp31", 
+            "name": "Ocean My Highway"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140791&streamencoding=mp31", 
+            "name": "La Chrysalide"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140808&streamencoding=mp31", 
+            "name": "My Pop Head"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140811&streamencoding=mp31", 
+            "name": "The Soul Bride"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140813&streamencoding=mp31", 
+            "name": "Le Declencheur"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20040"
+}

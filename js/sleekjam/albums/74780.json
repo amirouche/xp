@@ -1,0 +1,59 @@
+{
+    "name": "Visiting Trinity", 
+    "artist": "Dreamers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74780&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645393&streamencoding=mp31", 
+            "name": "Something To Late"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645406&streamencoding=mp31", 
+            "name": "Spark In Owens Eyes "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645419&streamencoding=mp31", 
+            "name": "Welcome To Trinity"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645421&streamencoding=mp31", 
+            "name": "Freedom"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645422&streamencoding=mp31", 
+            "name": "Forever"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645430&streamencoding=mp31", 
+            "name": "Trinity Hill"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645439&streamencoding=mp31", 
+            "name": "Soldiers Mistake"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645448&streamencoding=mp31", 
+            "name": "The Night Glows At Trinity"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645449&streamencoding=mp31", 
+            "name": "Secret Place"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645450&streamencoding=mp31", 
+            "name": "The End Of Trinity"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74780"
+}

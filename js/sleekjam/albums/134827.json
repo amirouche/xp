@@ -1,0 +1,54 @@
+{
+    "name": "Awakening", 
+    "artist": "Trans Atlantic Rage", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134827&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126607&streamencoding=mp31", 
+            "name": "REIKI"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126574&streamencoding=mp31", 
+            "name": "PROTECTION IN WARMTH"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126615&streamencoding=mp31", 
+            "name": "A FUTURISTIC UNQUANTIZED UTOPIAN SOCIETY"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126612&streamencoding=mp31", 
+            "name": "A BIRTH OF A PEACEFUL INTERNAL RENIASSANCE"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126576&streamencoding=mp31", 
+            "name": "SIMPLICITY"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126613&streamencoding=mp31", 
+            "name": "GENTLE STARDUST DESCENT"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126575&streamencoding=mp31", 
+            "name": "UNIVERSAL HARMONIC GIDDINESS"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126614&streamencoding=mp31", 
+            "name": "A STEADY CALM DURING INDEFINITE UNCERTAINTIES"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126600&streamencoding=mp31", 
+            "name": "TULIP"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134827"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "strawberry hair", 
+    "artist": "Moresebya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90856&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775312&streamencoding=mp31", 
+            "name": "strawberry hair"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775314&streamencoding=mp31", 
+            "name": "vesennij son"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=775313&streamencoding=mp31", 
+            "name": "idealnaya lyubov"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90856"
+}

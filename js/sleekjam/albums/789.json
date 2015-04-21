@@ -1,0 +1,24 @@
+{
+    "name": "I GO TO BLED", 
+    "artist": "Athman", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=789&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=5114&streamencoding=mp31", 
+            "name": "RA\u00cfMAN"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=5115&streamencoding=mp31", 
+            "name": "I GO TO BLED"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=5116&streamencoding=mp31", 
+            "name": "DJ LA-BAS"
+        }
+    ], 
+    "release": "2005", 
+    "id": "789"
+}

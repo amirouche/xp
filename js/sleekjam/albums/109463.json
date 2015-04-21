@@ -1,0 +1,24 @@
+{
+    "name": "Sorrowind - Ep", 
+    "artist": "That Was Yesterday", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109463&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925739&streamencoding=mp31", 
+            "name": "Leave me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925698&streamencoding=mp31", 
+            "name": "Dream again"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925699&streamencoding=mp31", 
+            "name": "That was yesterday"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109463"
+}

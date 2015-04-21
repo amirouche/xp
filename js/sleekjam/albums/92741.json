@@ -1,0 +1,19 @@
+{
+    "name": "Freedom (single)", 
+    "artist": "O.Z.O.N.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92741&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=790381&streamencoding=mp31", 
+            "name": "Freedom"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=790382&streamencoding=mp31", 
+            "name": "Sunrise"
+        }
+    ], 
+    "release": "2011", 
+    "id": "92741"
+}

@@ -1,0 +1,89 @@
+{
+    "name": "PRAY", 
+    "artist": "Jaimina Johnston", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75960&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655894&streamencoding=mp31", 
+            "name": "Vienen con alegr\u00eda"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655900&streamencoding=mp31", 
+            "name": "Buenos d\u00edas, Se\u00f1or"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655905&streamencoding=mp31", 
+            "name": "Cristo te necesita para amar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655902&streamencoding=mp31", 
+            "name": "El vi\u00f1ador"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655906&streamencoding=mp31", 
+            "name": "Santo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655895&streamencoding=mp31", 
+            "name": "Gozo en el alma / Tu Palabra me da vida"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655901&streamencoding=mp31", 
+            "name": "Gloria a Dios en el cielo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655896&streamencoding=mp31", 
+            "name": "Si yo no tengo amor"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655892&streamencoding=mp31", 
+            "name": "Madre, \u00f3yeme"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655903&streamencoding=mp31", 
+            "name": "Te presentamos el Vino y el Pan"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655893&streamencoding=mp31", 
+            "name": "Pater Noster"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655897&streamencoding=mp31", 
+            "name": "Cordero de Dios"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655904&streamencoding=mp31", 
+            "name": "La paz est\u00e9 con nosotros"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655899&streamencoding=mp31", 
+            "name": "Pescador de hombres"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655907&streamencoding=mp31", 
+            "name": "Victoria"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655898&streamencoding=mp31", 
+            "name": "Ven con nosotros"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75960"
+}

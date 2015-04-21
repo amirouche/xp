@@ -1,0 +1,14 @@
+{
+    "name": "Dead Drummer", 
+    "artist": "Soul TakeR", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120408&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024322&streamencoding=mp31", 
+            "name": "Dead Drummer"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120408"
+}

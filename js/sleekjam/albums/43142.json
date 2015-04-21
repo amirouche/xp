@@ -1,0 +1,44 @@
+{
+    "name": "POP", 
+    "artist": "Sur Non", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43142&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319614&streamencoding=mp31", 
+            "name": "Papa dance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319616&streamencoding=mp31", 
+            "name": "Na Wawel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319618&streamencoding=mp31", 
+            "name": "\u015awiadectwo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319619&streamencoding=mp31", 
+            "name": "Mi\u0142ujcie si\u0119"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319622&streamencoding=mp31", 
+            "name": "Cywilizacja \u015a"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319621&streamencoding=mp31", 
+            "name": "Ja Jan"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319617&streamencoding=mp31", 
+            "name": "Ojciec odchodzi"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43142"
+}

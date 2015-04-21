@@ -1,0 +1,19 @@
+{
+    "name": "the Willie Bobo sessions ", 
+    "artist": "Cocoared Fam", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84968&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727039&streamencoding=mp31", 
+            "name": "sweetmelo bobomix"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727068&streamencoding=mp31", 
+            "name": "kroozin feat RobinFranz and Cocoared"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84968"
+}

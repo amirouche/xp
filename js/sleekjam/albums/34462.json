@@ -1,0 +1,59 @@
+{
+    "name": "Is not Our Fault...", 
+    "artist": "The Wookies", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34462&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235651&streamencoding=mp31", 
+            "name": "50's Life"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235662&streamencoding=mp31", 
+            "name": "I Want the Best of You"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235689&streamencoding=mp31", 
+            "name": "Easy to Tell"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235707&streamencoding=mp31", 
+            "name": "Jeany's Dance"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235724&streamencoding=mp31", 
+            "name": "The Wookies"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235738&streamencoding=mp31", 
+            "name": "True Love"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235749&streamencoding=mp31", 
+            "name": "You (With Me)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235759&streamencoding=mp31", 
+            "name": "When"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235771&streamencoding=mp31", 
+            "name": "Is not My Fault"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235787&streamencoding=mp31", 
+            "name": "Good Sound !!"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34462"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Distant Frontier", 
+    "artist": "Synthaurion", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75359&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649991&streamencoding=mp31", 
+            "name": "Winds Of Past Era"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649986&streamencoding=mp31", 
+            "name": "On The Edge Of The Universe"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649982&streamencoding=mp31", 
+            "name": "The Rise Of The New Sun"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649983&streamencoding=mp31", 
+            "name": "The Fount Of Oblivion"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649992&streamencoding=mp31", 
+            "name": "In The Well Of Fate"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649987&streamencoding=mp31", 
+            "name": "Towards The Star Of Hope"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649989&streamencoding=mp31", 
+            "name": "New Life"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649985&streamencoding=mp31", 
+            "name": "Dawn Of Ancient Tribes"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649981&streamencoding=mp31", 
+            "name": "Endless Adventurer"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649988&streamencoding=mp31", 
+            "name": "Distant Frontier"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649984&streamencoding=mp31", 
+            "name": "Ocean Of Unknown"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649990&streamencoding=mp31", 
+            "name": "Forgotten Civilization"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75359"
+}

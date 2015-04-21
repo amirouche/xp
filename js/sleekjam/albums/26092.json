@@ -1,0 +1,59 @@
+{
+    "name": "Cizinec ve m\u011bst\u011b / Stranger in the town", 
+    "artist": "Ji\u0159\u00ed M\u00ed\u017ea", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26092&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176064&streamencoding=mp31", 
+            "name": "M\u011bsto / Town"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176065&streamencoding=mp31", 
+            "name": "Vle\u010dka / Track"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176066&streamencoding=mp31", 
+            "name": "Je to v dur / It's in dur"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176067&streamencoding=mp31", 
+            "name": "Struttin' rag / Struttin' rag"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176069&streamencoding=mp31", 
+            "name": "Posledn\u00ed n\u00e1v\u0161t\u011bva u doktora / Last time at the doctor"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176071&streamencoding=mp31", 
+            "name": "Miluji temn\u011b / Dark loving"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176073&streamencoding=mp31", 
+            "name": "Cihly v pol\u0161t\u00e1\u0159i / Bricks in my pillow"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176074&streamencoding=mp31", 
+            "name": "Blues pro tebe / Blues for you"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176099&streamencoding=mp31", 
+            "name": "Vestapol / Vestapol"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176101&streamencoding=mp31", 
+            "name": "Cizinec ve m\u011bst\u011b / Stranger in the town"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26092"
+}

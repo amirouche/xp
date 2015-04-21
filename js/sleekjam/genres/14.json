@@ -1,0 +1,593 @@
+{
+    "albums": [
+        {
+            "release": "2012", 
+            "artist": "Basilio Montes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110843&imagesize=100", 
+            "id": "110843", 
+            "name": "Nomada (Camello de Sue\u00f1os)"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Basilio Montes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48463&imagesize=100", 
+            "id": "48463", 
+            "name": "La Ira de Dios"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Basilio Montes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48192&imagesize=100", 
+            "id": "48192", 
+            "name": "Adios Mu\u00f1eca"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "TH", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101030&imagesize=100", 
+            "id": "101030", 
+            "name": "Accroc \u00e0 votre jeu"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Mthymusik", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108055&imagesize=100", 
+            "id": "108055", 
+            "name": "Singel...bang bang"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Brik Tearz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119083&imagesize=100", 
+            "id": "119083", 
+            "name": "Falling in Love "
+        }, 
+        {
+            "release": "2011", 
+            "artist": "EIVISSA SALINAS feat. DJ HSERES", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88121&imagesize=100", 
+            "id": "88121", 
+            "name": "Feelings Nature"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "roberto rubicondi", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14208&imagesize=100", 
+            "id": "14208", 
+            "name": "talk about love"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Dawid Dyga", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134102&imagesize=100", 
+            "id": "134102", 
+            "name": "The Inner Silence"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Dan Gschwind", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135245&imagesize=100", 
+            "id": "135245", 
+            "name": "Feel the sky"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Bacco Baccanels", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114876&imagesize=100", 
+            "id": "114876", 
+            "name": "Disperato"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Nichelle Colvin", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123567&imagesize=100", 
+            "id": "123567", 
+            "name": "Soulfully Yours, Nichelle"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Peppe Cirino AKA Juself", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20314&imagesize=100", 
+            "id": "20314", 
+            "name": "IL MIO MONDO"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "N\u00e9lliana", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69632&imagesize=100", 
+            "id": "69632", 
+            "name": "Reviens moi"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Prinss", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58510&imagesize=100", 
+            "id": "58510", 
+            "name": "Mind, Body & Soul"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Prinss", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80130&imagesize=100", 
+            "id": "80130", 
+            "name": "Mind, Body & Soul: Heart Cleaning"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "wolf5dc", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83289&imagesize=100", 
+            "id": "83289", 
+            "name": "Extra Vol Social "
+        }, 
+        {
+            "release": "2011", 
+            "artist": "wolf5dc", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83882&imagesize=100", 
+            "id": "83882", 
+            "name": "wolf rythmes vol 1"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "MoralesLp", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135630&imagesize=100", 
+            "id": "135630", 
+            "name": "Hay mas que ayer"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "JoosTVD", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76763&imagesize=100", 
+            "id": "76763", 
+            "name": "Volumed 10 [2007]"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "JoosTVD", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73787&imagesize=100", 
+            "id": "73787", 
+            "name": "The Vanished Dutchman [2010]"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "JoosTVD", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76749&imagesize=100", 
+            "id": "76749", 
+            "name": "Gift Shot [2005]"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "JoosTVD", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76812&imagesize=100", 
+            "id": "76812", 
+            "name": "Hey Jos\u00e9 [2008]"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "JoosTVD", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76814&imagesize=100", 
+            "id": "76814", 
+            "name": "You Know Your Dad [2009]"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "JoosTVD", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76823&imagesize=100", 
+            "id": "76823", 
+            "name": "When The Left Foot Fits The Right Shoe [2009]"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Jay Ax aka VodkaStr8", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58172&imagesize=100", 
+            "id": "58172", 
+            "name": "She Riding"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Sound System", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132018&imagesize=100", 
+            "id": "132018", 
+            "name": "Zur richtigen Zeit"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Txman", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137154&imagesize=100", 
+            "id": "137154", 
+            "name": "Ma cherie feat Marion prod"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Smash Addams", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83177&imagesize=100", 
+            "id": "83177", 
+            "name": "MAYBE IT'S ME/MAYBE IT'S YOU"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "MTHY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50845&imagesize=100", 
+            "id": "50845", 
+            "name": "MTHY-ET-NIEGEL"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "\u0433\u0440\u0443\u043f\u043f\u0430 Syndrome", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71913&imagesize=100", 
+            "id": "71913", 
+            "name": "\u041b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u043e \u043e\u0442 \u0441\u043a\u0443\u043a\u0438 (\u041f\u043e\u043b\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f 2004-2009)"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Mob", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14517&imagesize=100", 
+            "id": "14517", 
+            "name": "Mummy said"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Vana\u00a7", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70869&imagesize=100", 
+            "id": "70869", 
+            "name": "Brut II Coeur"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "LadyRo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32598&imagesize=100", 
+            "id": "32598", 
+            "name": "LadyRo"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "M AND N", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53515&imagesize=100", 
+            "id": "53515", 
+            "name": "    LOYAL LION"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Slavamira", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71861&imagesize=100", 
+            "id": "71861", 
+            "name": "Rhythm of life"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "LyRone Ganga-lee", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99689&imagesize=100", 
+            "id": "99689", 
+            "name": "Je t'En Veux Pas (Single)"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Ray Of Lightss", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126003&imagesize=100", 
+            "id": "126003", 
+            "name": "Ray Of Lightss Healing Love Music"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "3-1-3", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46660&imagesize=100", 
+            "id": "46660", 
+            "name": "Doping"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "diatty-boy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43294&imagesize=100", 
+            "id": "43294", 
+            "name": "MISS FREE"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Sebasto PAUL", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117263&imagesize=100", 
+            "id": "117263", 
+            "name": "LIVE AT HOME"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "J-Nyu", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84397&imagesize=100", 
+            "id": "84397", 
+            "name": "World Of Love"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "D\u00e9mon Sonore", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28794&imagesize=100", 
+            "id": "28794", 
+            "name": "Shuffle"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "\u041a\u0438\u0441\u043a\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131838&imagesize=100", 
+            "id": "131838", 
+            "name": "La Liberte des Aventures"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "\u041a\u0438\u0441\u043a\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118080&imagesize=100", 
+            "id": "118080", 
+            "name": "\u041c\u0430\u0445\u0442\u043e\u043f\u043a\u0438 \u0421\u043f\u0430\u0441\u0435\u043d\u0438\u0435 Part2"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "\u041a\u0438\u0441\u043a\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128834&imagesize=100", 
+            "id": "128834", 
+            "name": "FineFIVE!"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "\u041a\u0438\u0441\u043a\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135791&imagesize=100", 
+            "id": "135791", 
+            "name": "Concert on the Beach"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "smiley 73", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94354&imagesize=100", 
+            "id": "94354", 
+            "name": "My heart speaks to you"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Leo Bowers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135491&imagesize=100", 
+            "id": "135491", 
+            "name": "I'm Sorry"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Leo Bowers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123489&imagesize=100", 
+            "id": "123489", 
+            "name": "*Please Come Home Today"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Leo Bowers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128179&imagesize=100", 
+            "id": "128179", 
+            "name": "She Dug A Hole"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "AmmyP", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93200&imagesize=100", 
+            "id": "93200", 
+            "name": "Ammy's Compilation"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Marty", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50169&imagesize=100", 
+            "id": "50169", 
+            "name": "Off the top Ep"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "skouz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37249&imagesize=100", 
+            "id": "37249", 
+            "name": "chaussette "
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Ay - 14ice", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129551&imagesize=100", 
+            "id": "129551", 
+            "name": "Ay14ice - Nobody Is Here"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "raygie west", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57362&imagesize=100", 
+            "id": "57362", 
+            "name": "Raygie West"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "JJ LlombArt", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84904&imagesize=100", 
+            "id": "84904", 
+            "name": "Long road to the honest"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Mike Jerkins", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134012&imagesize=100", 
+            "id": "134012", 
+            "name": "RUPTURE (D\u00e9mo)"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Lollita", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131648&imagesize=100", 
+            "id": "131648", 
+            "name": "Don't Let Me Go"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "JAcK FiDo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115024&imagesize=100", 
+            "id": "115024", 
+            "name": "Espera lo Proximo"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "JAcK FiDo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64387&imagesize=100", 
+            "id": "64387", 
+            "name": "The First"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "King Hitz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121627&imagesize=100", 
+            "id": "121627", 
+            "name": "Pillow (Single)"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "King Hitz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135884&imagesize=100", 
+            "id": "135884", 
+            "name": "T. R. A. P. Music"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "King Hitz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87159&imagesize=100", 
+            "id": "87159", 
+            "name": "Almost Famous"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "King Hitz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131891&imagesize=100", 
+            "id": "131891", 
+            "name": "Sex In the Morning"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "King Hitz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129842&imagesize=100", 
+            "id": "129842", 
+            "name": "Right Now (Single)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Asaf Productions", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95294&imagesize=100", 
+            "id": "95294", 
+            "name": "Asaf Productions Vol 3"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Dr. Saylermorph", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95802&imagesize=100", 
+            "id": "95802", 
+            "name": "The Dark Age"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Imparballe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30282&imagesize=100", 
+            "id": "30282", 
+            "name": "Imparballe "
+        }, 
+        {
+            "release": "2010", 
+            "artist": "JORGE ABEL", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73102&imagesize=100", 
+            "id": "73102", 
+            "name": "Derniere chance"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Tchoi", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7134&imagesize=100", 
+            "id": "7134", 
+            "name": "Music Box"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Jaumesv", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93153&imagesize=100", 
+            "id": "93153", 
+            "name": "The World (Part2)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "ENRIKE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102447&imagesize=100", 
+            "id": "102447", 
+            "name": "NO HAY NADIE COMO TU"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Mthymusik", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104045&imagesize=100", 
+            "id": "104045", 
+            "name": "Thysong"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Titan Murphy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74588&imagesize=100", 
+            "id": "74588", 
+            "name": "Georgia Boy"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "David Krystal", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129080&imagesize=100", 
+            "id": "129080", 
+            "name": "David Krystal Live"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "David Krystal", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129078&imagesize=100", 
+            "id": "129078", 
+            "name": "View From The Inside"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "David Krystal", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129082&imagesize=100", 
+            "id": "129082", 
+            "name": "She Sings To Me"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "SIRUS Francky", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104360&imagesize=100", 
+            "id": "104360", 
+            "name": "Si peu"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "LAWRENCE EL MORO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87825&imagesize=100", 
+            "id": "87825", 
+            "name": "EL MORO"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Dj Talo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76796&imagesize=100", 
+            "id": "76796", 
+            "name": "DJ TALO - Ogni cosa al suo tempo"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Aries 4Rce BeatZ (Aries4Rce) [Composer, Producer, Fl Studio Team Member]", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81269&imagesize=100", 
+            "id": "81269", 
+            "name": "J-Estilo & Kristian feat. Aries 4Rce - S.E.X.O (prod. Aries 4Rce BeatZ)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Aries 4Rce BeatZ (Aries4Rce) [Composer, Producer, Fl Studio Team Member]", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80250&imagesize=100", 
+            "id": "80250", 
+            "name": "Dark Dust feat. Aries 4Rce BeatZ"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "David\u00b4s Blue", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41242&imagesize=100", 
+            "id": "41242", 
+            "name": "Walking on the beach"
+        }
+    ], 
+    "name": "R&B"
+}

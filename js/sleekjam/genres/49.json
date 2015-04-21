@@ -1,0 +1,733 @@
+{
+    "albums": [
+        {
+            "release": "2010", 
+            "artist": "Adversus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79820&imagesize=100", 
+            "id": "79820", 
+            "name": "Ein Ding im Spiegel (Single)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Viy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37219&imagesize=100", 
+            "id": "37219", 
+            "name": "Hata Skrayu Sela (The Edge House At The  Village)"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Viy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37806&imagesize=100", 
+            "id": "37806", 
+            "name": "Chorna Rillia (The Black Ground)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Blind Blood", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90963&imagesize=100", 
+            "id": "90963", 
+            "name": "Blind Blood"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Eternal Blaze", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36211&imagesize=100", 
+            "id": "36211", 
+            "name": "The Key"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Dj Poke", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39190&imagesize=100", 
+            "id": "39190", 
+            "name": "Calls"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Distimia (Espa\u00f1a)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20727&imagesize=100", 
+            "id": "20727", 
+            "name": "En face du miroir"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Distimia (Espa\u00f1a)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8246&imagesize=100", 
+            "id": "8246", 
+            "name": "Escenas de la vida g\u00f3tica"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Distimia (Espa\u00f1a)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5020&imagesize=100", 
+            "id": "5020", 
+            "name": "Sinfon\u00eda de Pandemonium"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Distimia (Espa\u00f1a)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6529&imagesize=100", 
+            "id": "6529", 
+            "name": "Soledad"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Link Nightmare", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31016&imagesize=100", 
+            "id": "31016", 
+            "name": "Dias Oscuros"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Marcus Rasseli", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19729&imagesize=100", 
+            "id": "19729", 
+            "name": "DIGITAL MIRROR"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Soul in Sadness", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112275&imagesize=100", 
+            "id": "112275", 
+            "name": "Hier und am Leben"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Soul in Sadness", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47691&imagesize=100", 
+            "id": "47691", 
+            "name": "ZwischenWelt"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Soul in Sadness", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110531&imagesize=100", 
+            "id": "110531", 
+            "name": "Auf Sehnsucht folgt Ern\u00fcchterung"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Soul in Sadness", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108658&imagesize=100", 
+            "id": "108658", 
+            "name": "Sehnsucht nach dem Licht"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Psycherotique", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22035&imagesize=100", 
+            "id": "22035", 
+            "name": "Sklavenkarussell Sehnsucht"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Evren Svren", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134710&imagesize=100", 
+            "id": "134710", 
+            "name": "Weltbild in Asche"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Evren Svren", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128464&imagesize=100", 
+            "id": "128464", 
+            "name": "Seni d\u00fcs\u00fcnen Bosluk EP"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Projekt Dunkle Lichter", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98731&imagesize=100", 
+            "id": "98731", 
+            "name": "necRomantic Morbidity"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Silvergate", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72621&imagesize=100", 
+            "id": "72621", 
+            "name": "Letters from the past"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0425\u043b\u0430\u043d\u044c", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132319&imagesize=100", 
+            "id": "132319", 
+            "name": "\u041c\u0435\u043b\u0430\u043d\u0445\u043e\u043b\u0438\u044f"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "K Republic", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110868&imagesize=100", 
+            "id": "110868", 
+            "name": "All Those Things I Left Behind"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Plastique Noir", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50110&imagesize=100", 
+            "id": "50110", 
+            "name": "The Early Grave"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Plastique Noir", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24357&imagesize=100", 
+            "id": "24357", 
+            "name": "Urban Requiems (Extended)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Deicida 69", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75184&imagesize=100", 
+            "id": "75184", 
+            "name": "Angalas (Ep)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Dom Cud\u00f3w", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111765&imagesize=100", 
+            "id": "111765", 
+            "name": "Okruchy Czasu"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "/'angstalt/", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112613&imagesize=100", 
+            "id": "112613", 
+            "name": "Beschwiegen probleme von unermesslicher unbedeutsamkeit -- live@TIDE, hamburg, 16.VI.2012"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Bellum Gothicum Orchestra", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94197&imagesize=100", 
+            "id": "94197", 
+            "name": "Tales from the Forest of Oblivion"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "That Was Yesterday", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91054&imagesize=100", 
+            "id": "91054", 
+            "name": "Memories of tomorrow"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "That Was Yesterday", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109463&imagesize=100", 
+            "id": "109463", 
+            "name": "Sorrowind - Ep"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Von Gott", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80832&imagesize=100", 
+            "id": "80832", 
+            "name": "Requiem Du Damn\u00e9"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Cultes des Goules", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114933&imagesize=100", 
+            "id": "114933", 
+            "name": "The House at the Water"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Mister M", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27872&imagesize=100", 
+            "id": "27872", 
+            "name": "Crysalide"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Olga Szewranska", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87878&imagesize=100", 
+            "id": "87878", 
+            "name": "Ja\u015bminowa Zas\u0142ona"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Varicourt", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135665&imagesize=100", 
+            "id": "135665", 
+            "name": "LONELY ROSE OF ANDOVER"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "djdanyxx", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35259&imagesize=100", 
+            "id": "35259", 
+            "name": "rave-o-tik 2008"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Dreamerion", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29757&imagesize=100", 
+            "id": "29757", 
+            "name": "Death Hurts Only A Moment"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Abel Quintero (TheQman)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115656&imagesize=100", 
+            "id": "115656", 
+            "name": "Darker Than Dark"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "K.G.B.", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52211&imagesize=100", 
+            "id": "52211", 
+            "name": "The Very Early Demos"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "Phalaenopsis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2322&imagesize=100", 
+            "id": "2322", 
+            "name": "Phalaenopsis Demo"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "RiMorG", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52374&imagesize=100", 
+            "id": "52374", 
+            "name": "Wenn Tr\u00e4ume wahr werden"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "CHASMA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133662&imagesize=100", 
+            "id": "133662", 
+            "name": "Geometri"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Devil-M", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93616&imagesize=100", 
+            "id": "93616", 
+            "name": "Kannst Du sterben"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "LA REINE MARGOT (PHR\u00dcNXE)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31640&imagesize=100", 
+            "id": "31640", 
+            "name": "A&A"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "TAT", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77130&imagesize=100", 
+            "id": "77130", 
+            "name": "Testament [Jamendo Edition]"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Bitter Darwin", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84864&imagesize=100", 
+            "id": "84864", 
+            "name": "Agoraphobia"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Gasher G.14", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23965&imagesize=100", 
+            "id": "23965", 
+            "name": "Narrkose"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Gasher G.14", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44350&imagesize=100", 
+            "id": "44350", 
+            "name": "Sukzession (mit Pedi Vathor)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Chronique", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25912&imagesize=100", 
+            "id": "25912", 
+            "name": "A Gate To All Secrets"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Zero-project", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112424&imagesize=100", 
+            "id": "112424", 
+            "name": "To the end of the world"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Zero-project", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73562&imagesize=100", 
+            "id": "73562", 
+            "name": "Darkness falls"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Lullaby & The Bats", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114447&imagesize=100", 
+            "id": "114447", 
+            "name": "6 Goth Songs To Hell"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Various Ukrainian Artists - VIY Band Tibute ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38374&imagesize=100", 
+            "id": "38374", 
+            "name": "OCHI VIDMY - Pisni Grupy VIY u Vykonanni Ukrayinskih Muzykantiv (Tribute VIY Band)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "ELEGANT FORM", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103984&imagesize=100", 
+            "id": "103984", 
+            "name": "Endzeit"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Silence Industry", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66978&imagesize=100", 
+            "id": "66978", 
+            "name": "The Teeth Of Tomorrow"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Silence Industry", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66975&imagesize=100", 
+            "id": "66975", 
+            "name": "The Edge Of Illusion"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "The Silence Industry", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113677&imagesize=100", 
+            "id": "113677", 
+            "name": "The Maw Of Sleep"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "The Silence Industry", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87986&imagesize=100", 
+            "id": "87986", 
+            "name": "Permanent Crisis"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "The Descenters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130817&imagesize=100", 
+            "id": "130817", 
+            "name": "Dust Remains"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "The Descenters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130822&imagesize=100", 
+            "id": "130822", 
+            "name": "Transcendence"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Forkys", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58045&imagesize=100", 
+            "id": "58045", 
+            "name": "Lamentation (ep and unreleased tracks)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Forkys", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77515&imagesize=100", 
+            "id": "77515", 
+            "name": "Phaethon's Coming"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Forkys", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110481&imagesize=100", 
+            "id": "110481", 
+            "name": "Dying Is An Art"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Voyvoda", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106230&imagesize=100", 
+            "id": "106230", 
+            "name": "\u0418\u0437\u0442\u043e\u043a (Iztok)"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "Cynicism", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=1979&imagesize=100", 
+            "id": "1979", 
+            "name": "The Path of Self-Sacrificing Destruction"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The Chadderandom Abyss", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29506&imagesize=100", 
+            "id": "29506", 
+            "name": "The Horse That Laid The Egg of Fire"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Crux", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8470&imagesize=100", 
+            "id": "8470", 
+            "name": "Solar"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Prospekt", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82935&imagesize=100", 
+            "id": "82935", 
+            "name": "Prospectus(demo mini single) "
+        }, 
+        {
+            "release": "2011", 
+            "artist": "LisaWars", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94097&imagesize=100", 
+            "id": "94097", 
+            "name": "Trashwave -live-"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Les Connards Boiteux", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=10134&imagesize=100", 
+            "id": "10134", 
+            "name": "Halloween (Special)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Glasklinge Sampler", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29251&imagesize=100", 
+            "id": "29251", 
+            "name": "Glasklinge Sampler Vol. 1."
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Glasklinge Sampler", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29293&imagesize=100", 
+            "id": "29293", 
+            "name": "Glasklinge Sampler Vol. 2"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "CHARLOTTE'S SHADOW", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27738&imagesize=100", 
+            "id": "27738", 
+            "name": "ETERNAL SLEEP"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "One Dice", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54796&imagesize=100", 
+            "id": "54796", 
+            "name": "Gone with the Storm"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "One Dice", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54805&imagesize=100", 
+            "id": "54805", 
+            "name": "I close my Eyes"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "One Dice", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103519&imagesize=100", 
+            "id": "103519", 
+            "name": "Heartbroken"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "KLINIKA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63927&imagesize=100", 
+            "id": "63927", 
+            "name": "\u0411\u0435\u0437\u0433\u043b\u0443\u0437\u0434\u0430 \u043e\u043f\u043e\u0440\u0430 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u043a\u0456\u0432 \u0421\u043e\u043d\u0446\u044f"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Spinefish", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31430&imagesize=100", 
+            "id": "31430", 
+            "name": "Fool's Paradise Revisited"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Gorthaur", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31506&imagesize=100", 
+            "id": "31506", 
+            "name": "New Better Existence"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Alex.G.", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74117&imagesize=100", 
+            "id": "74117", 
+            "name": "Sad Piano"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Grey In Between", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62680&imagesize=100", 
+            "id": "62680", 
+            "name": "A Frozen Poem"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "BLOOD ANGEL", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65768&imagesize=100", 
+            "id": "65768", 
+            "name": "For Love"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "CORIN-Music", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97502&imagesize=100", 
+            "id": "97502", 
+            "name": "Darkness against Light"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "My Silent Land", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82859&imagesize=100", 
+            "id": "82859", 
+            "name": "My Silent Land"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Crimson Blue", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98500&imagesize=100", 
+            "id": "98500", 
+            "name": "Road To Oblivion (Single)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Les Modules Etranges", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20339&imagesize=100", 
+            "id": "20339", 
+            "name": "Les Modules Etranges"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Puppet Lane", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111198&imagesize=100", 
+            "id": "111198", 
+            "name": "Myths"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Eyes Tribe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101961&imagesize=100", 
+            "id": "101961", 
+            "name": ":Complex:Life:"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Eyes Tribe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100551&imagesize=100", 
+            "id": "100551", 
+            "name": "Native Sessions"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Tetania", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64979&imagesize=100", 
+            "id": "64979", 
+            "name": "DEWILDICATION"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Dust Trial", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114988&imagesize=100", 
+            "id": "114988", 
+            "name": "Transsubstantiation (The Angel Of Death Anthem)"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Shino", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55644&imagesize=100", 
+            "id": "55644", 
+            "name": "Winter Solstice"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Shino", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85865&imagesize=100", 
+            "id": "85865", 
+            "name": "Transition"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Shino", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32361&imagesize=100", 
+            "id": "32361", 
+            "name": "Best Of"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Shino", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37578&imagesize=100", 
+            "id": "37578", 
+            "name": "Bloody Salvation"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Shino", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71258&imagesize=100", 
+            "id": "71258", 
+            "name": "My Mistress (Single)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Wolfuneral", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69672&imagesize=100", 
+            "id": "69672", 
+            "name": "Night's Symphonies"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Wolfuneral", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105762&imagesize=100", 
+            "id": "105762", 
+            "name": "The Path"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Zyklus :N:", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58772&imagesize=100", 
+            "id": "58772", 
+            "name": "GEISTESgift"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Sad Darkness of thy Love", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72650&imagesize=100", 
+            "id": "72650", 
+            "name": "Last Dance for a Slow Decay..."
+        }, 
+        {
+            "release": "2008", 
+            "artist": "\u0414\u044c\u044f\u0432\u043e\u043b \u0420\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u041e \u0427\u0435\u043c-\u0442\u043e \u041a\u0430\u0436\u0443\u0449\u0435\u043c\u0441\u044f \u0410\u0431\u0441\u0442\u0440\u0430\u043a\u0442\u043d\u044b\u043c", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34356&imagesize=100", 
+            "id": "34356", 
+            "name": "\u041d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u043e\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0439 \u0442\u0440\u0430\u043c\u0432\u0430\u0439"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "RDSK", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83986&imagesize=100", 
+            "id": "83986", 
+            "name": "Apocalypse of Mind"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "catanius", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=16278&imagesize=100", 
+            "id": "16278", 
+            "name": "codex gigas"
+        }
+    ], 
+    "name": "Gothic"
+}

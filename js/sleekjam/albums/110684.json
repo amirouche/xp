@@ -1,0 +1,14 @@
+{
+    "name": "Slow down the excitement", 
+    "artist": "Minimax Dadamax Experiment", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110684&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=942121&streamencoding=mp31", 
+            "name": "Slow down the excitement"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110684"
+}

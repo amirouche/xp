@@ -1,0 +1,54 @@
+{
+    "name": "Convic\u00e7\u00e3o Trio", 
+    "artist": "Convic\u00e7\u00e3o Trio", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26038&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163763&streamencoding=mp31", 
+            "name": "Jesus Cristo \u00e9 Minha Vida"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163764&streamencoding=mp31", 
+            "name": "Escolhi Jesus"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175714&streamencoding=mp31", 
+            "name": "N\u00e3o Negarei Jesus"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175728&streamencoding=mp31", 
+            "name": "Pai"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175743&streamencoding=mp31", 
+            "name": "Cristo \u00e9 Minha Convic\u00e7\u00e3o"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175754&streamencoding=mp31", 
+            "name": "Na Presen\u00e7a de Deus"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175759&streamencoding=mp31", 
+            "name": "Imenso Amor"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175760&streamencoding=mp31", 
+            "name": "A Hist\u00f3ria de Sans\u00e3o"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175761&streamencoding=mp31", 
+            "name": "Abrace a Cruz"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26038"
+}

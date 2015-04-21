@@ -1,0 +1,44 @@
+{
+    "name": "DMD", 
+    "artist": "OFACTT", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29033&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194255&streamencoding=mp31", 
+            "name": "INTRO"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194256&streamencoding=mp31", 
+            "name": "XAM_I"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194273&streamencoding=mp31", 
+            "name": "XAM_II"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194258&streamencoding=mp31", 
+            "name": "XAM_III"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194274&streamencoding=mp31", 
+            "name": "SSUM"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194272&streamencoding=mp31", 
+            "name": "OCIN"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194254&streamencoding=mp31", 
+            "name": "YPORHTNASIM"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29033"
+}

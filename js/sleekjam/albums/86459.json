@@ -1,0 +1,24 @@
+{
+    "name": "NosTalGia", 
+    "artist": "PHILIpPE bRaY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86459&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739978&streamencoding=mp31", 
+            "name": "Chartres"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739983&streamencoding=mp31", 
+            "name": "Nostalgia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739997&streamencoding=mp31", 
+            "name": "Quand les touristes seront partis"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86459"
+}

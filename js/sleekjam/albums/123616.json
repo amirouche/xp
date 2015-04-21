@@ -1,0 +1,14 @@
+{
+    "name": "Les amuses gueule d'El mousikas \"I Dream Again\"", 
+    "artist": "El mousikas", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123616&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1049585&streamencoding=mp31", 
+            "name": "i dream again"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123616"
+}

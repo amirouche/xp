@@ -1,0 +1,49 @@
+{
+    "name": "depaso", 
+    "artist": "D'callaos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27978&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184529&streamencoding=mp31", 
+            "name": "el tiempo "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184776&streamencoding=mp31", 
+            "name": "los pajaros "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184812&streamencoding=mp31", 
+            "name": "hasta que salga el sol"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184806&streamencoding=mp31", 
+            "name": "como dos gotas "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186637&streamencoding=mp31", 
+            "name": "se fue la luz"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186638&streamencoding=mp31", 
+            "name": "besos de cristal"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187142&streamencoding=mp31", 
+            "name": "son"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187162&streamencoding=mp31", 
+            "name": "dicen"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27978"
+}

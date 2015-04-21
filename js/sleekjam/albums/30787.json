@@ -1,0 +1,59 @@
+{
+    "name": "need a change", 
+    "artist": "the jolly rogers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30787&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208170&streamencoding=mp31", 
+            "name": "happy dance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208173&streamencoding=mp31", 
+            "name": "need a change"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208174&streamencoding=mp31", 
+            "name": "life expectancy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208176&streamencoding=mp31", 
+            "name": "seasons"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208177&streamencoding=mp31", 
+            "name": "dynamite in my pants"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208181&streamencoding=mp31", 
+            "name": "designated driver"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208182&streamencoding=mp31", 
+            "name": "in my speedo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208195&streamencoding=mp31", 
+            "name": "mechanical bull"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208196&streamencoding=mp31", 
+            "name": "five years too late"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208197&streamencoding=mp31", 
+            "name": "if only you were dead, i could be happy"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30787"
+}

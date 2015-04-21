@@ -1,0 +1,49 @@
+{
+    "name": "21 Juan d'anna gramme", 
+    "artist": "SAN GO DROP", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47734&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372813&streamencoding=mp31", 
+            "name": "21 Juan"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373017&streamencoding=mp31", 
+            "name": "Le breton arme"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372815&streamencoding=mp31", 
+            "name": "Bouse arccochonne"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372817&streamencoding=mp31", 
+            "name": "Bouse arccochonne 2"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372819&streamencoding=mp31", 
+            "name": "Breton arme"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372816&streamencoding=mp31", 
+            "name": "Bouse arccochonne vb"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372814&streamencoding=mp31", 
+            "name": "Joingnes toi a nous"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=372818&streamencoding=mp31", 
+            "name": "Arcochonne vbmix"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47734"
+}

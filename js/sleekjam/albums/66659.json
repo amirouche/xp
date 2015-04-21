@@ -1,0 +1,34 @@
+{
+    "name": "Systmprtn\u00b4s Waterworld", 
+    "artist": "Aggi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66659&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578027&streamencoding=mp31", 
+            "name": "deep sea"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578031&streamencoding=mp31", 
+            "name": "Waterworld"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578029&streamencoding=mp31", 
+            "name": "no water in space"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578030&streamencoding=mp31", 
+            "name": "Waterpipe DUB"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=578028&streamencoding=mp31", 
+            "name": "el sonido de las olas"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66659"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "INSTANT FUNK", 
+    "artist": "Angus", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125777&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064719&streamencoding=mp31", 
+            "name": "a quickly supersonic funky"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064721&streamencoding=mp31", 
+            "name": "fantastic chinese world"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064724&streamencoding=mp31", 
+            "name": "feel the force now"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064727&streamencoding=mp31", 
+            "name": "icebeat"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064728&streamencoding=mp31", 
+            "name": "instant funk"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064736&streamencoding=mp31", 
+            "name": "me & my friends (Peppi and Turi)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064737&streamencoding=mp31", 
+            "name": "psicotic war rap"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064739&streamencoding=mp31", 
+            "name": "small psicotic war rap"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064740&streamencoding=mp31", 
+            "name": "syncopated life"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064741&streamencoding=mp31", 
+            "name": "the dark side of ourselves"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064742&streamencoding=mp31", 
+            "name": "tomorrow"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125777"
+}

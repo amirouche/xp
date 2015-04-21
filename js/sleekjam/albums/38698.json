@@ -1,0 +1,69 @@
+{
+    "name": "Mix A Dub", 
+    "artist": "Dubamix", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38698&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273605&streamencoding=mp31", 
+            "name": "Acting Dub"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273606&streamencoding=mp31", 
+            "name": "Tango"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273613&streamencoding=mp31", 
+            "name": "DHG (Destruction Horaire Globale)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273612&streamencoding=mp31", 
+            "name": "Dvordub"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273610&streamencoding=mp31", 
+            "name": "Haydub"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273614&streamencoding=mp31", 
+            "name": "CESECA"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273608&streamencoding=mp31", 
+            "name": "Rap in Dub"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273619&streamencoding=mp31", 
+            "name": "Manipub"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273616&streamencoding=mp31", 
+            "name": "CPE (Chirac Parisot Emerveill\u00e9s)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273617&streamencoding=mp31", 
+            "name": "Flashing Taser"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273615&streamencoding=mp31", 
+            "name": "Untitled"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273618&streamencoding=mp31", 
+            "name": "Acting Dub (LRU remix)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38698"
+}

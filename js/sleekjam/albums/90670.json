@@ -1,0 +1,34 @@
+{
+    "name": "ECHELMEYER - PREMIUM", 
+    "artist": "Thomas Echelmeyer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90670&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773553&streamencoding=mp31", 
+            "name": "Sex on the Beach"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773555&streamencoding=mp31", 
+            "name": "Ich hab geh\u00f6rt da is ne Party"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773556&streamencoding=mp31", 
+            "name": "\u00dcberbewertet"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773557&streamencoding=mp31", 
+            "name": "Echelmeyer auf Ibiza"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773554&streamencoding=mp31", 
+            "name": "Raven gehn"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90670"
+}

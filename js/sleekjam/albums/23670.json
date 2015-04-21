@@ -1,0 +1,49 @@
+{
+    "name": "sundaceltic", 
+    "artist": "sind3ntosca", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23670&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161610&streamencoding=mp31", 
+            "name": "Tag Along (5 Mei 2006)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161614&streamencoding=mp31", 
+            "name": "Sunda Opu (4 Juli 2005)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161619&streamencoding=mp31", 
+            "name": "Dayang (7 September 2006)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161650&streamencoding=mp31", 
+            "name": "Dayun (16 Agustus 2003)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161665&streamencoding=mp31", 
+            "name": "Ikutaku (8 Juli 2006)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161673&streamencoding=mp31", 
+            "name": "Find Tomorrow (14 Februari 2007)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161718&streamencoding=mp31", 
+            "name": "Pase (5 Februari 2006)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161690&streamencoding=mp31", 
+            "name": "Sinkayo (17 Oktober 2006)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23670"
+}

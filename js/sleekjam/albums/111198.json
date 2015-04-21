@@ -1,0 +1,54 @@
+{
+    "name": "Myths", 
+    "artist": "Puppet Lane", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111198&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946473&streamencoding=mp31", 
+            "name": "Bones"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946475&streamencoding=mp31", 
+            "name": "Time"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946474&streamencoding=mp31", 
+            "name": " Young Living Dead"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946468&streamencoding=mp31", 
+            "name": "The Name"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946472&streamencoding=mp31", 
+            "name": "Silence"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946471&streamencoding=mp31", 
+            "name": "Clowns"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946469&streamencoding=mp31", 
+            "name": "Down the city"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946470&streamencoding=mp31", 
+            "name": "Inner worlds"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946477&streamencoding=mp31", 
+            "name": "Silence rmx by The Nightchild"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111198"
+}

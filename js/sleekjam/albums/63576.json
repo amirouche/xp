@@ -1,0 +1,29 @@
+{
+    "name": "dirty works", 
+    "artist": "Batard Tronique", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63576&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545874&streamencoding=mp31", 
+            "name": "post mortem"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545875&streamencoding=mp31", 
+            "name": "nowhere (brutal mix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545880&streamencoding=mp31", 
+            "name": "sacrifice"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545882&streamencoding=mp31", 
+            "name": "voodoo march"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63576"
+}

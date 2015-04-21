@@ -1,0 +1,54 @@
+{
+    "name": "Dffrnt!", 
+    "artist": "Makena Monk", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30116&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202803&streamencoding=mp31", 
+            "name": "Closer"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202805&streamencoding=mp31", 
+            "name": "Creepy Feelings"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202808&streamencoding=mp31", 
+            "name": "More Then We Need"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202806&streamencoding=mp31", 
+            "name": " Lalalalalalalalah"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202810&streamencoding=mp31", 
+            "name": "o0o No0o No0o"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202802&streamencoding=mp31", 
+            "name": "Ascolti Me"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202807&streamencoding=mp31", 
+            "name": "Liebe"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202809&streamencoding=mp31", 
+            "name": "Most Things Are Not"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202804&streamencoding=mp31", 
+            "name": "Travel -old radio mix"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30116"
+}

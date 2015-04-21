@@ -1,0 +1,14 @@
+{
+    "name": "Astral visit", 
+    "artist": "P.a.p.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134787&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126335&streamencoding=mp31", 
+            "name": "Astral visit"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134787"
+}

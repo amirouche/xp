@@ -1,0 +1,69 @@
+{
+    "name": "Coldest Memories", 
+    "artist": "LR-60 & Mr. Moods", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129022&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083241&streamencoding=mp31", 
+            "name": "Silently"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083242&streamencoding=mp31", 
+            "name": "DeCollage"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083243&streamencoding=mp31", 
+            "name": "Hal & Dave"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083286&streamencoding=mp31", 
+            "name": "Word Problem"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083287&streamencoding=mp31", 
+            "name": "Out of the Pod"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083288&streamencoding=mp31", 
+            "name": "Groove Modulation"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083289&streamencoding=mp31", 
+            "name": "Mirage"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083290&streamencoding=mp31", 
+            "name": "Costa Rica Dream"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083291&streamencoding=mp31", 
+            "name": "Summer Came Early"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083292&streamencoding=mp31", 
+            "name": "The Moon"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083293&streamencoding=mp31", 
+            "name": "Bad Gift"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083294&streamencoding=mp31", 
+            "name": "Tamas"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129022"
+}

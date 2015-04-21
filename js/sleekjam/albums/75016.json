@@ -1,0 +1,14 @@
+{
+    "name": "Demo-tracks", 
+    "artist": "b_side", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75016&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647294&streamencoding=mp31", 
+            "name": "akijany"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75016"
+}

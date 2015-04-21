@@ -1,0 +1,24 @@
+{
+    "name": "spasmatek 02", 
+    "artist": "Spasmatek", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92942&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792156&streamencoding=mp31", 
+            "name": "drum"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792158&streamencoding=mp31", 
+            "name": "spasmatek 01 bis"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792157&streamencoding=mp31", 
+            "name": "spasmatek 01 ter"
+        }
+    ], 
+    "release": "2011", 
+    "id": "92942"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "De Fil en Aiguille", 
+    "artist": "FONKADELIK", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15777&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116500&streamencoding=mp31", 
+            "name": "1-NOUNOURS"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116509&streamencoding=mp31", 
+            "name": "2-LA BO\u00ceTE A MUSIQUE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116513&streamencoding=mp31", 
+            "name": "3- LES PETITS SOLDATS DE PLOMB"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=117508&streamencoding=mp31", 
+            "name": "4-LA CLAQUETTE"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=117510&streamencoding=mp31", 
+            "name": "5-POUP\u00c9E CORPS PORCELAINE"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=117515&streamencoding=mp31", 
+            "name": "6-LE TRAIN ELECTRIQUE"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=117518&streamencoding=mp31", 
+            "name": "7-LE PANTIN EMMEL\u00c9"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=117521&streamencoding=mp31", 
+            "name": "8-HORLOGE"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=117533&streamencoding=mp31", 
+            "name": "9-L'\u00c9NIGME DU VIEUX MONSIEUR"
+        }
+    ], 
+    "release": "2007", 
+    "id": "15777"
+}

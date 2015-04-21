@@ -1,0 +1,94 @@
+{
+    "name": "hut", 
+    "artist": "stefano brilli", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27711&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185009&streamencoding=mp31", 
+            "name": "reik"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185028&streamencoding=mp31", 
+            "name": "raum"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185037&streamencoding=mp31", 
+            "name": "nuziaj"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185059&streamencoding=mp31", 
+            "name": "parte"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185060&streamencoding=mp31", 
+            "name": "nidio"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185074&streamencoding=mp31", 
+            "name": "flaar"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185075&streamencoding=mp31", 
+            "name": "stolt"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185076&streamencoding=mp31", 
+            "name": "ovan"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185083&streamencoding=mp31", 
+            "name": "noch"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185084&streamencoding=mp31", 
+            "name": "logo"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185086&streamencoding=mp31", 
+            "name": "unt_"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185087&streamencoding=mp31", 
+            "name": "logn"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185088&streamencoding=mp31", 
+            "name": "mas"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185089&streamencoding=mp31", 
+            "name": "rodjam"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185090&streamencoding=mp31", 
+            "name": "arl_"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185092&streamencoding=mp31", 
+            "name": "litt"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185093&streamencoding=mp31", 
+            "name": "feno"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27711"
+}

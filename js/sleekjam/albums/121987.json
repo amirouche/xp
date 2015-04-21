@@ -1,0 +1,54 @@
+{
+    "name": "A Blue Shadow", 
+    "artist": "Bruno Susio", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121987&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036045&streamencoding=mp31", 
+            "name": "I look at You"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036047&streamencoding=mp31", 
+            "name": "Saw your face"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036050&streamencoding=mp31", 
+            "name": "Funk the DJ"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036054&streamencoding=mp31", 
+            "name": "Heaven"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036058&streamencoding=mp31", 
+            "name": "You're gonna make the music"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036083&streamencoding=mp31", 
+            "name": "The nite"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036084&streamencoding=mp31", 
+            "name": "Place Clichy"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036087&streamencoding=mp31", 
+            "name": "Wiccan Song"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036090&streamencoding=mp31", 
+            "name": "Get on the dance floor"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121987"
+}

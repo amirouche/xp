@@ -1,0 +1,74 @@
+{
+    "name": "Ufo Ebani Su Bologna", 
+    "artist": "EffeBros Fattanza Brothers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122060&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036843&streamencoding=mp31", 
+            "name": "Intro Spestico"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036834&streamencoding=mp31", 
+            "name": "Pezzo Nostro"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036842&streamencoding=mp31", 
+            "name": "Commodore C64 Eliminator"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036833&streamencoding=mp31", 
+            "name": "Ufo Ebani Su Bologna"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036832&streamencoding=mp31", 
+            "name": "Cabina Telefonica"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036831&streamencoding=mp31", 
+            "name": "A me mi piace la figa"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036840&streamencoding=mp31", 
+            "name": "Me ne vado a puttane"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036839&streamencoding=mp31", 
+            "name": "Rocco e' in Carcere"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036841&streamencoding=mp31", 
+            "name": "Il ventisette ics"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036837&streamencoding=mp31", 
+            "name": "Il blues del Pastaio"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036835&streamencoding=mp31", 
+            "name": "Everybody Like 'la figa'"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036836&streamencoding=mp31", 
+            "name": "Passera' la passera"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036838&streamencoding=mp31", 
+            "name": "Arrivederci"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122060"
+}

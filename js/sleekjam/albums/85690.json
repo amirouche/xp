@@ -1,0 +1,84 @@
+{
+    "name": "Wisdom Of Panda(Live)", 
+    "artist": "Panda Nation", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85690&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733032&streamencoding=mp31", 
+            "name": "Annexation By Love"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733036&streamencoding=mp31", 
+            "name": "Crazy Bee"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733038&streamencoding=mp31", 
+            "name": "Just A Music,Just A Soul"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733039&streamencoding=mp31", 
+            "name": "Brothers"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733037&streamencoding=mp31", 
+            "name": "My Melancholy Blues"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733033&streamencoding=mp31", 
+            "name": "Mr.Skill"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733040&streamencoding=mp31", 
+            "name": "Without Me"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733035&streamencoding=mp31", 
+            "name": "That's What You're Feeling"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733034&streamencoding=mp31", 
+            "name": "For You"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733042&streamencoding=mp31", 
+            "name": "Present Day"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733044&streamencoding=mp31", 
+            "name": "Sunny Side Of Life"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733043&streamencoding=mp31", 
+            "name": "Feel Flying"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733041&streamencoding=mp31", 
+            "name": "Holding Together"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733047&streamencoding=mp31", 
+            "name": "Simple Feelings"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733046&streamencoding=mp31", 
+            "name": "D.A.D."
+        }
+    ], 
+    "release": "2011", 
+    "id": "85690"
+}

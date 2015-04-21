@@ -1,0 +1,54 @@
+{
+    "name": "Powerful Water Dub (2005)", 
+    "artist": "DUBSYNATICX", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60451&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516643&streamencoding=mp31", 
+            "name": "Massa I Dub"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516639&streamencoding=mp31", 
+            "name": "Powerful Water Dub"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516646&streamencoding=mp31", 
+            "name": "70s Rock Dub"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516642&streamencoding=mp31", 
+            "name": "Trip To Africa Dub"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516644&streamencoding=mp31", 
+            "name": "Come Together Dub"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516641&streamencoding=mp31", 
+            "name": "Loving Dub"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516645&streamencoding=mp31", 
+            "name": "Withe Widow Dub"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516640&streamencoding=mp31", 
+            "name": "Good Old Days feat Formula"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516647&streamencoding=mp31", 
+            "name": "Steppa Dub [Extra]"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60451"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Nightflight", 
+    "artist": "SoundCell", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43425&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322750&streamencoding=mp31", 
+            "name": "Nightflight(ChilloutMix)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322751&streamencoding=mp31", 
+            "name": "Nightflight(DanceRemix)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43425"
+}

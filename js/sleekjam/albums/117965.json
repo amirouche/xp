@@ -1,0 +1,64 @@
+{
+    "name": "Slow Motion", 
+    "artist": "Instantperson", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117965&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002400&streamencoding=mp31", 
+            "name": "In Vain - I"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002399&streamencoding=mp31", 
+            "name": "400 years"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002401&streamencoding=mp31", 
+            "name": "Falling"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002402&streamencoding=mp31", 
+            "name": "Deep Inside"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002403&streamencoding=mp31", 
+            "name": "Meditations"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002404&streamencoding=mp31", 
+            "name": "AJ beat"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002405&streamencoding=mp31", 
+            "name": "Follow the dream"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002406&streamencoding=mp31", 
+            "name": "Smooth"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002407&streamencoding=mp31", 
+            "name": "Slow Vibrations"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002408&streamencoding=mp31", 
+            "name": "It's so Sad"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002409&streamencoding=mp31", 
+            "name": "Wandering in the Darkness"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117965"
+}

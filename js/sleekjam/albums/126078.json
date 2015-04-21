@@ -1,0 +1,69 @@
+{
+    "name": "Un poco de suerte", 
+    "artist": "LOS PENULTIMOS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126078&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066759&streamencoding=mp31", 
+            "name": "Soy un hombre / I\u00b4m a man"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066753&streamencoding=mp31", 
+            "name": "Abejita de miel / Honeybee"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066757&streamencoding=mp31", 
+            "name": "El Amor de Mercedes / Mercedes\u00b4 love"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066758&streamencoding=mp31", 
+            "name": "Aj\u00e1 / Aha"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066748&streamencoding=mp31", 
+            "name": "Cuando somos m\u00e1s de dos / When there is more than the two of us"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066749&streamencoding=mp31", 
+            "name": "Calles de Abril / April\u00b4s streets"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066750&streamencoding=mp31", 
+            "name": "Piel de toro / Bull skin"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066751&streamencoding=mp31", 
+            "name": "Iceberg"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066752&streamencoding=mp31", 
+            "name": "Si quieres ser mi chica pop / If you want to be my pop girl"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066755&streamencoding=mp31", 
+            "name": "Int\u00e9ntalo / Give it a try"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066754&streamencoding=mp31", 
+            "name": "\u00bfQu\u00e9 sabe nadie? / What does anybody know?"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066756&streamencoding=mp31", 
+            "name": "Abejita de miel (versi\u00f3n Vocalion) / Honeybee (Vocalion version)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "126078"
+}

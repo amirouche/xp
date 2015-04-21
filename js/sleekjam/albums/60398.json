@@ -1,0 +1,19 @@
+{
+    "name": "Jambreaker - No.1", 
+    "artist": "Fresh Glue", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60398&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516186&streamencoding=mp31", 
+            "name": "Ubarico"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516188&streamencoding=mp31", 
+            "name": "Winners"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60398"
+}

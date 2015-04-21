@@ -1,0 +1,64 @@
+{
+    "name": "ShowTime", 
+    "artist": "Desgavell", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57662&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491984&streamencoding=mp31", 
+            "name": "Desgavell ShowTime"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491654&streamencoding=mp31", 
+            "name": "Boig"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491660&streamencoding=mp31", 
+            "name": "Bull de r\u00e0bia"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491986&streamencoding=mp31", 
+            "name": "Abans de ser esclau"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491658&streamencoding=mp31", 
+            "name": "Tot s'hi val"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491659&streamencoding=mp31", 
+            "name": "Pe\u00e7a perduda"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491656&streamencoding=mp31", 
+            "name": "Obrim els ulls"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491657&streamencoding=mp31", 
+            "name": "Pels carrers (amb La Ra\u00edz)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491985&streamencoding=mp31", 
+            "name": "Viure"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491987&streamencoding=mp31", 
+            "name": "Una gota m\u00e9s"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491655&streamencoding=mp31", 
+            "name": "Tot all\u00f2 que vull"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57662"
+}

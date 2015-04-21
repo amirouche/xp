@@ -1,0 +1,19 @@
+{
+    "name": "Heart", 
+    "artist": "Pfaff C\u00e4si", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104843&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891447&streamencoding=mp31", 
+            "name": "Street Groove"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891465&streamencoding=mp31", 
+            "name": "Hello Mr. Jones"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104843"
+}

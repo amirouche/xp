@@ -1,0 +1,44 @@
+{
+    "name": "revolucionaria", 
+    "artist": "voolooo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42711&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316056&streamencoding=mp31", 
+            "name": "no-se-sabe-exactamente"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316059&streamencoding=mp31", 
+            "name": "comandanta_hortensia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316107&streamencoding=mp31", 
+            "name": "revolucionaria"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316109&streamencoding=mp31", 
+            "name": "spc_001"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316079&streamencoding=mp31", 
+            "name": "unodostres"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316077&streamencoding=mp31", 
+            "name": "untitulo-pa-problema_dirty"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316082&streamencoding=mp31", 
+            "name": "el_fin_del_mundo_se_acerca_ya"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42711"
+}

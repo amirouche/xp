@@ -1,0 +1,24 @@
+{
+    "name": "End Of The Begining", 
+    "artist": ".", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28253&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188671&streamencoding=mp31", 
+            "name": "Orgasmic Interludes"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188696&streamencoding=mp31", 
+            "name": "Timeless"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188700&streamencoding=mp31", 
+            "name": "Variations in action"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28253"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "En el Teatro Jos\u00e9 Tamayo...", 
+    "artist": "VisionespanoramiK", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81958&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702694&streamencoding=mp31", 
+            "name": "Obertura en Estampida"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702746&streamencoding=mp31", 
+            "name": "Ancestros"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702697&streamencoding=mp31", 
+            "name": "Mundos"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702698&streamencoding=mp31", 
+            "name": "Fecundo Gases"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702699&streamencoding=mp31", 
+            "name": "Apartamentes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702695&streamencoding=mp31", 
+            "name": "Muerte"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702747&streamencoding=mp31", 
+            "name": "Vapores"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702696&streamencoding=mp31", 
+            "name": "Leve"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81958"
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Port Angeles", 
+    "artist": "Alex Bailey", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6700&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75095&streamencoding=mp31", 
+            "name": "Waiting on You"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75096&streamencoding=mp31", 
+            "name": "Traveling Song"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75097&streamencoding=mp31", 
+            "name": "Tidal Wave"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75098&streamencoding=mp31", 
+            "name": "Those Images"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75099&streamencoding=mp31", 
+            "name": "Swing to the Sun"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75100&streamencoding=mp31", 
+            "name": "Oh Lord"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75101&streamencoding=mp31", 
+            "name": "Hey Baby Hey"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75102&streamencoding=mp31", 
+            "name": "Grab the Men"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75103&streamencoding=mp31", 
+            "name": "God Damn Shame"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75104&streamencoding=mp31", 
+            "name": "Further In"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75105&streamencoding=mp31", 
+            "name": "Port Angeles"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75106&streamencoding=mp31", 
+            "name": "Dream Girl"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75107&streamencoding=mp31", 
+            "name": "Blue Skies"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75108&streamencoding=mp31", 
+            "name": "Belly of the Whale"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75109&streamencoding=mp31", 
+            "name": "9th Grade"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6700"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "GuitarDreams", 
+    "artist": "Cando", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17162&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123169&streamencoding=mp31", 
+            "name": "Pianto autunnale"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123152&streamencoding=mp31", 
+            "name": "Ilaria"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123177&streamencoding=mp31", 
+            "name": "Improvvising in the Mansarda"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17162"
+}

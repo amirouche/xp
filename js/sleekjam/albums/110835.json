@@ -1,0 +1,59 @@
+{
+    "name": "Road of Shadows II Legacy of Agraelon", 
+    "artist": "Unidentified Chaos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110835&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943362&streamencoding=mp31", 
+            "name": "Overture 1426"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943363&streamencoding=mp31", 
+            "name": "Agraelon's Dream"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943364&streamencoding=mp31", 
+            "name": "Dream Break"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943365&streamencoding=mp31", 
+            "name": "Lucidian"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943366&streamencoding=mp31", 
+            "name": "New Hope"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943367&streamencoding=mp31", 
+            "name": "Funeral"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943368&streamencoding=mp31", 
+            "name": "Darkness all around"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943369&streamencoding=mp31", 
+            "name": "Return"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943370&streamencoding=mp31", 
+            "name": "Revenge"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943371&streamencoding=mp31", 
+            "name": "Sleep of no wake"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110835"
+}

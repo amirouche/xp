@@ -1,0 +1,54 @@
+{
+    "name": "Rotamagus", 
+    "artist": "Diexeo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78817&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678374&streamencoding=mp31", 
+            "name": "Le monde est calme"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678377&streamencoding=mp31", 
+            "name": "Toutes ces forces"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678376&streamencoding=mp31", 
+            "name": "Toutes ces forces (en live)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678378&streamencoding=mp31", 
+            "name": "L'envie"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678379&streamencoding=mp31", 
+            "name": "Le botaniste"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678380&streamencoding=mp31", 
+            "name": "Tr\u00e9sor"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678381&streamencoding=mp31", 
+            "name": "Cependant"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678375&streamencoding=mp31", 
+            "name": "Diexeo"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678382&streamencoding=mp31", 
+            "name": "Les temps ont chang\u00e9"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78817"
+}

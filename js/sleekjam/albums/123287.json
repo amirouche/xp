@@ -1,0 +1,24 @@
+{
+    "name": "Promis demain j'arr\u00eate", 
+    "artist": "Skarah-B", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123287&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046428&streamencoding=mp31", 
+            "name": "Poder"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046429&streamencoding=mp31", 
+            "name": "Skango"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046430&streamencoding=mp31", 
+            "name": "Gadget"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123287"
+}

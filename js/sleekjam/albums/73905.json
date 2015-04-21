@@ -1,0 +1,79 @@
+{
+    "name": "4 Weeks At Home", 
+    "artist": "Sim Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73905&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=581556&streamencoding=mp31", 
+            "name": "A-Blues"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=581591&streamencoding=mp31", 
+            "name": "A-Moll"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=581594&streamencoding=mp31", 
+            "name": "Capo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638133&streamencoding=mp31", 
+            "name": "C-Blues"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638146&streamencoding=mp31", 
+            "name": "C-Moll"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638160&streamencoding=mp31", 
+            "name": "Cool A"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638162&streamencoding=mp31", 
+            "name": "Dark A"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638163&streamencoding=mp31", 
+            "name": "E-Blues"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638164&streamencoding=mp31", 
+            "name": "E-Swing"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638177&streamencoding=mp31", 
+            "name": "Fuzzy"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638178&streamencoding=mp31", 
+            "name": "G-Dur"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638193&streamencoding=mp31", 
+            "name": "Gis-Moll02"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638196&streamencoding=mp31", 
+            "name": "Rolling E"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638197&streamencoding=mp31", 
+            "name": "Western"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73905"
+}

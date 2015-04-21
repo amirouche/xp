@@ -1,0 +1,64 @@
+{
+    "name": "L'inguine di Daphne - i danni del desiderio", 
+    "artist": "L'inguine di Daphne", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135263&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128662&streamencoding=mp31", 
+            "name": "Viva Per Sempre"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128667&streamencoding=mp31", 
+            "name": "Creta"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128671&streamencoding=mp31", 
+            "name": "Nel Viaggio"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128664&streamencoding=mp31", 
+            "name": "Soventi Venti"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128669&streamencoding=mp31", 
+            "name": "L'estensione del bene"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128672&streamencoding=mp31", 
+            "name": "i danni del desiderio"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128666&streamencoding=mp31", 
+            "name": "l'ultima cosa"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128670&streamencoding=mp31", 
+            "name": "Ara Rossa"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128663&streamencoding=mp31", 
+            "name": "SIRENA"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128668&streamencoding=mp31", 
+            "name": "non m'\u00e8 permesso"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128665&streamencoding=mp31", 
+            "name": "Piangi Pioggia"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135263"
+}

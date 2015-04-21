@@ -1,0 +1,14 @@
+{
+    "name": "Fill the Floor (Ladies Night)", 
+    "artist": "Vvsmusic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124643&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1057012&streamencoding=mp31", 
+            "name": "Fill the Floor (Ladies Night)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124643"
+}

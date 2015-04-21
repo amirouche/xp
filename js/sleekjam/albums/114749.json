@@ -1,0 +1,14 @@
+{
+    "name": "Annoying (single)", 
+    "artist": "Den is Abnormal", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114749&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=974387&streamencoding=mp31", 
+            "name": "Annoying"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114749"
+}

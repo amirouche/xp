@@ -1,0 +1,59 @@
+{
+    "name": "Downtown Distorsions", 
+    "artist": "DIY-note", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133307&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115764&streamencoding=mp31", 
+            "name": "introductions"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115758&streamencoding=mp31", 
+            "name": "Greensleeves Part1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115757&streamencoding=mp31", 
+            "name": "greensleeves part2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115756&streamencoding=mp31", 
+            "name": "Greensleeves part3"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115760&streamencoding=mp31", 
+            "name": "urbanite"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115762&streamencoding=mp31", 
+            "name": "Les traines"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115755&streamencoding=mp31", 
+            "name": "Chewing a lemming"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115759&streamencoding=mp31", 
+            "name": "Interlude"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115763&streamencoding=mp31", 
+            "name": "Invasions"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1115761&streamencoding=mp31", 
+            "name": "Swallowed in the crowd"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133307"
+}

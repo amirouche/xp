@@ -1,0 +1,34 @@
+{
+    "name": "Who touched my bones? EP", 
+    "artist": "Richard There", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66822&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579436&streamencoding=mp31", 
+            "name": "Cat in my head"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579433&streamencoding=mp31", 
+            "name": "Empty Bed"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579437&streamencoding=mp31", 
+            "name": "You should go on"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579435&streamencoding=mp31", 
+            "name": "Wesley Willis"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579434&streamencoding=mp31", 
+            "name": "In my dreams"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66822"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "teeth for eyes ep", 
+    "artist": "smoking frog and rabbit", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24421&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166537&streamencoding=mp31", 
+            "name": "capitol streets"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166532&streamencoding=mp31", 
+            "name": "so ignant"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166533&streamencoding=mp31", 
+            "name": "canya"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166536&streamencoding=mp31", 
+            "name": "italian on the liffey"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166534&streamencoding=mp31", 
+            "name": "543"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166535&streamencoding=mp31", 
+            "name": "shes gonna die"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24421"
+}

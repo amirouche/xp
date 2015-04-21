@@ -1,0 +1,29 @@
+{
+    "name": "A Savage Piglet - England's World Cup Hopes Crushed", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70004&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=605288&streamencoding=mp31", 
+            "name": "A Savage Piglet"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=605287&streamencoding=mp31", 
+            "name": "Pigs Might Fly"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=605289&streamencoding=mp31", 
+            "name": "Return of The Savage Piglet"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=605286&streamencoding=mp31", 
+            "name": "Vuvuzela"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70004"
+}

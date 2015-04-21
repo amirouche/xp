@@ -1,0 +1,54 @@
+{
+    "name": "Hard Bones - 415 state ballad", 
+    "artist": "Emanuele Mandelli", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102876&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875967&streamencoding=mp31", 
+            "name": "7.12  - Pale morning"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875966&streamencoding=mp31", 
+            "name": " 12.02  - Murder in the sun"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875965&streamencoding=mp31", 
+            "name": "13.12  - Traffic and clouds"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875964&streamencoding=mp31", 
+            "name": "17.36  - Breathing small"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875963&streamencoding=mp31", 
+            "name": "19.41  - Sunset on the road"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875962&streamencoding=mp31", 
+            "name": "21.21  - Move faster"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875961&streamencoding=mp31", 
+            "name": "23.30  - Night bustle"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875960&streamencoding=mp31", 
+            "name": "00.41 - New futile days"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875959&streamencoding=mp31", 
+            "name": "4.19 - Lonely"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102876"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Off Road Remete", 
+    "artist": "Ur Knall", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27649&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184421&streamencoding=mp31", 
+            "name": "Off_Road_Remete"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27649"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Complicada", 
+    "artist": "El imparable", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115574&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981217&streamencoding=mp31", 
+            "name": "Complicada - El imparable"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981219&streamencoding=mp31", 
+            "name": "Que le pazo a tu coraz\u00f3n - El imparable"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981221&streamencoding=mp31", 
+            "name": "Aplicando la formula - El imparable"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981225&streamencoding=mp31", 
+            "name": "Que te enamore - El imparable"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981222&streamencoding=mp31", 
+            "name": "Feliz navidad - El imparable"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981218&streamencoding=mp31", 
+            "name": "No llores m\u00e1s - El imparable"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981220&streamencoding=mp31", 
+            "name": "Esa tipa ta - El imparable"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981224&streamencoding=mp31", 
+            "name": "Tu y yo - El imparable"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981223&streamencoding=mp31", 
+            "name": "Momentos la trallectoria  - El imparable By el Sonido Record"
+        }
+    ], 
+    "release": "2013", 
+    "id": "115574"
+}

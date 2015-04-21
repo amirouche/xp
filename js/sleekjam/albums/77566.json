@@ -1,0 +1,39 @@
+{
+    "name": "In movimento", 
+    "artist": "Hyaena Reading", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77566&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668546&streamencoding=mp31", 
+            "name": "Sinestesia resistente"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668547&streamencoding=mp31", 
+            "name": "In movimento"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668548&streamencoding=mp31", 
+            "name": "Acciaio"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668549&streamencoding=mp31", 
+            "name": "Atto d'amore"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668550&streamencoding=mp31", 
+            "name": "Al mattino"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668551&streamencoding=mp31", 
+            "name": "Nel calore dell'alba"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77566"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "The Awakening", 
+    "artist": "Disorder #45", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125048&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060063&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060062&streamencoding=mp31", 
+            "name": "Falling Into Oblivion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060108&streamencoding=mp31", 
+            "name": "Farewell"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060060&streamencoding=mp31", 
+            "name": "Tools of Imagination"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060061&streamencoding=mp31", 
+            "name": "Neverland"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060059&streamencoding=mp31", 
+            "name": "Sweetness of Silence (SoS)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060064&streamencoding=mp31", 
+            "name": "Gods of Red Sky"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060058&streamencoding=mp31", 
+            "name": "Nightmare"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125048"
+}

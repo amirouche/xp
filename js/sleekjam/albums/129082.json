@@ -1,0 +1,59 @@
+{
+    "name": "She Sings To Me", 
+    "artist": "David Krystal", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129082&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083180&streamencoding=mp31", 
+            "name": "All Or Nothing"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083181&streamencoding=mp31", 
+            "name": "She Sings To Me"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083182&streamencoding=mp31", 
+            "name": "Serene Grace"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083183&streamencoding=mp31", 
+            "name": "One More Dance"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083184&streamencoding=mp31", 
+            "name": "On And On"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083185&streamencoding=mp31", 
+            "name": "Love Isn't Wasted"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083186&streamencoding=mp31", 
+            "name": "It's Time To Go"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083187&streamencoding=mp31", 
+            "name": "It's Been a Long Day"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083188&streamencoding=mp31", 
+            "name": "Into The Dream"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083189&streamencoding=mp31", 
+            "name": "Cover Me (album version)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129082"
+}

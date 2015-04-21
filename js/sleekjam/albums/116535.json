@@ -1,0 +1,49 @@
+{
+    "name": "The Stockholm session", 
+    "artist": "Ben5bass", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116535&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990561&streamencoding=mp31", 
+            "name": "Just a fairy tale"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990558&streamencoding=mp31", 
+            "name": "Mon olympiade"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990556&streamencoding=mp31", 
+            "name": "Life gonna tell us"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990559&streamencoding=mp31", 
+            "name": "Ch\u00e9rie"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990555&streamencoding=mp31", 
+            "name": "L'aube nouvelle"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990562&streamencoding=mp31", 
+            "name": "Sweet love"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990623&streamencoding=mp31", 
+            "name": "Happy night"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990560&streamencoding=mp31", 
+            "name": "Tonight"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116535"
+}

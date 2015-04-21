@@ -1,0 +1,59 @@
+{
+    "name": "Ki sap at new rockers studios", 
+    "artist": "Ki Sap", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49137&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=390060&streamencoding=mp31", 
+            "name": "Todos quieren ganar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=390059&streamencoding=mp31", 
+            "name": "Con mi spliff"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=390052&streamencoding=mp31", 
+            "name": "Dance with me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=390057&streamencoding=mp31", 
+            "name": "Siento el reggae"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=390056&streamencoding=mp31", 
+            "name": "S\u00e9 el que est\u00e0 passant"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=390061&streamencoding=mp31", 
+            "name": "Si quieren guerra"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=390053&streamencoding=mp31", 
+            "name": "Badman bizzniz feat.Julian son"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=390058&streamencoding=mp31", 
+            "name": "Tiempos de revoluci\u00f3n"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=390054&streamencoding=mp31", 
+            "name": "D\u00e9jame vivir"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=390055&streamencoding=mp31", 
+            "name": "Rompe"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49137"
+}

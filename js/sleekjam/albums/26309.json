@@ -1,0 +1,24 @@
+{
+    "name": "PIANO SAYING", 
+    "artist": "KOMY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26309&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177854&streamencoding=mp31", 
+            "name": "tragic beauty"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177855&streamencoding=mp31", 
+            "name": "place no one known"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177856&streamencoding=mp31", 
+            "name": "combination"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26309"
+}

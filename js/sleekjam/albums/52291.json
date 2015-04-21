@@ -1,0 +1,59 @@
+{
+    "name": "Antelope.", 
+    "artist": "Friend Owl", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52291&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429502&streamencoding=mp31", 
+            "name": "Fortune Favours the Bold"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429506&streamencoding=mp31", 
+            "name": "Iron Sulfide"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429503&streamencoding=mp31", 
+            "name": "Go Kart Song"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429508&streamencoding=mp31", 
+            "name": "Leathery Instrumental"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429509&streamencoding=mp31", 
+            "name": "Strawberry Jam"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429500&streamencoding=mp31", 
+            "name": "Apollo 11"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429501&streamencoding=mp31", 
+            "name": "Cloud Song"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429507&streamencoding=mp31", 
+            "name": "Jack Drives a Purple Taxi"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429504&streamencoding=mp31", 
+            "name": "Grocery Store Song"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429505&streamencoding=mp31", 
+            "name": "Head of the Nail"
+        }
+    ], 
+    "release": "2009", 
+    "id": "52291"
+}

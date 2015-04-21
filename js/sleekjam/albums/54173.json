@@ -1,0 +1,39 @@
+{
+    "name": "ASIMETRICO", 
+    "artist": "jorge manuel laso", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54173&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452268&streamencoding=mp31", 
+            "name": "RECUERDO Track01"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452260&streamencoding=mp31", 
+            "name": "ANOCHE,LIBERTAD Track02"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452281&streamencoding=mp31", 
+            "name": "CERCA DE TI Track03"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452295&streamencoding=mp31", 
+            "name": "AMOR MIO Track04"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452304&streamencoding=mp31", 
+            "name": "LA SOCIEDAD Track05"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452315&streamencoding=mp31", 
+            "name": "ELLA  Track06"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54173"
+}

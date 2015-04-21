@@ -1,0 +1,44 @@
+{
+    "name": "cry for help", 
+    "artist": "Semantic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87781&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750498&streamencoding=mp31", 
+            "name": "semantic - \u043e\u0431\u044b\u0447\u043d\u043e"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750500&streamencoding=mp31", 
+            "name": "semantic - \u043a\u0440\u0438\u043a \u043e \u043f\u043e\u043c\u043e\u0449\u0438"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750499&streamencoding=mp31", 
+            "name": "semantic - \u0441\u043e\u043d"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750503&streamencoding=mp31", 
+            "name": "semantic - not so dark"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750502&streamencoding=mp31", 
+            "name": "semantic - you take drugs(other version)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750497&streamencoding=mp31", 
+            "name": "semantic - sad dance semantic and lxs 7.56 a.m dream (Bonus Track)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750505&streamencoding=mp31", 
+            "name": "semantic - \u0441\u0442\u0440\u0430\u043d\u043d\u043e,\u043c\u0438\u0440,\u043f\u0430\u0440\u0430\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e (Bonus Track)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87781"
+}

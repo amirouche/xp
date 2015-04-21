@@ -1,0 +1,19 @@
+{
+    "name": "\u041f\u0430\u0440\u044c\u0430\u0445", 
+    "artist": "\u0424\u0430\u0442\u0430\u043b\u044c\u043d\u0430 \u0428\u0442\u043e\u043b\u044c\u043d\u044f", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68599&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=594087&streamencoding=mp31", 
+            "name": "\u0420\u043e\u0437\u0442\u0438\u043d \u043d\u0454\u043a\u0440\u043e\u0444\u0456\u043b\u0430"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=594088&streamencoding=mp31", 
+            "name": "\u041f\u0430\u0440\u044c\u0430\u0445"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68599"
+}

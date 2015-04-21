@@ -1,0 +1,34 @@
+{
+    "name": "The Remake", 
+    "artist": "Los Intokables del reggaeton", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95833&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820038&streamencoding=mp31", 
+            "name": "Remix Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820034&streamencoding=mp31", 
+            "name": "Mau ''El Blan Blan'' Ft. Los Intokables - Mami Dale"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820035&streamencoding=mp31", 
+            "name": "Los Intokables - Tiraera Remix By Dj Duck"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820036&streamencoding=mp31", 
+            "name": "Los Intokables Ft. Dj duck - Tus Besos (Reggaeton)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820037&streamencoding=mp31", 
+            "name": "Magnate Ft[1]. los intokables y Duck - Nuestro amor es asi (Offcial Remix)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95833"
+}

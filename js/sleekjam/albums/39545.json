@@ -1,0 +1,64 @@
+{
+    "name": "The shepherd hates us", 
+    "artist": "Boxing Fox", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39545&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=283137&streamencoding=mp31", 
+            "name": "Good Mood"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=283138&streamencoding=mp31", 
+            "name": "The sun is shining"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=283140&streamencoding=mp31", 
+            "name": "Do you life?"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=283141&streamencoding=mp31", 
+            "name": "Ocean Of Life"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=283142&streamencoding=mp31", 
+            "name": "Pirates"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=283148&streamencoding=mp31", 
+            "name": "The last I know"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=283149&streamencoding=mp31", 
+            "name": "Nicht zu zweit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=283155&streamencoding=mp31", 
+            "name": "Kids"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=283156&streamencoding=mp31", 
+            "name": "Friends for life"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=283159&streamencoding=mp31", 
+            "name": "Da dat da dat"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=283160&streamencoding=mp31", 
+            "name": "good lod times"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39545"
+}

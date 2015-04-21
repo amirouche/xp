@@ -1,0 +1,19 @@
+{
+    "name": "To the end of the world", 
+    "artist": "Zero-project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112424&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956029&streamencoding=mp31", 
+            "name": "Zero-project and Chris Kariotis feat. Dia Yiannopoulou - 01 - To the end of the world"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956030&streamencoding=mp31", 
+            "name": "Zero-project and Chris Kariotis feat. Dia Yiannopoulou - 02 - To the end of the world (short radio edit)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112424"
+}

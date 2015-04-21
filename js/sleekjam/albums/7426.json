@@ -1,0 +1,69 @@
+{
+    "name": "InVerso Troupe", 
+    "artist": "Stidiek", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7426&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81074&streamencoding=mp31", 
+            "name": "Exilio en la calle mayor"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81075&streamencoding=mp31", 
+            "name": "Pixel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81076&streamencoding=mp31", 
+            "name": "Piojoxepadas I"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81077&streamencoding=mp31", 
+            "name": "Piojoxepadas II"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81078&streamencoding=mp31", 
+            "name": "Circunstancias"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81079&streamencoding=mp31", 
+            "name": "\u00c1rboles"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81080&streamencoding=mp31", 
+            "name": "Les mouchoirs"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81081&streamencoding=mp31", 
+            "name": "Louis"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81082&streamencoding=mp31", 
+            "name": "En un bote de pintura"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81083&streamencoding=mp31", 
+            "name": "Manifiesto de Ombligos Unidos"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81084&streamencoding=mp31", 
+            "name": "Inspiraci\u00f3n"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81085&streamencoding=mp31", 
+            "name": "Premoniciones"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7426"
+}

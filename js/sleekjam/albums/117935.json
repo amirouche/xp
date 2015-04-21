@@ -1,0 +1,34 @@
+{
+    "name": "The path of the dark druid", 
+    "artist": "Lughum", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117935&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002279&streamencoding=mp31", 
+            "name": "The rise of the dark druid"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002277&streamencoding=mp31", 
+            "name": "Meigallo en Samhain"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002281&streamencoding=mp31", 
+            "name": "With sex we burn"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002280&streamencoding=mp31", 
+            "name": "Da lenda das donas"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002278&streamencoding=mp31", 
+            "name": "The victory of the druid"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117935"
+}

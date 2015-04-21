@@ -1,0 +1,39 @@
+{
+    "name": "N\u00e9s Funky", 
+    "artist": "Kiff'On", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=139&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851&streamencoding=mp31", 
+            "name": "La Kiffonisation est en marche"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852&streamencoding=mp31", 
+            "name": "N\u00e9 Funky"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=853&streamencoding=mp31", 
+            "name": "Kung-Fu Funk"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=854&streamencoding=mp31", 
+            "name": "Miss"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=855&streamencoding=mp31", 
+            "name": "Jet Set"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=856&streamencoding=mp31", 
+            "name": "Agathe"
+        }
+    ], 
+    "release": "2005", 
+    "id": "139"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Guitar dreams 1", 
+    "artist": "JonasD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120406&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024271&streamencoding=mp31", 
+            "name": "Walking in the Sun"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024272&streamencoding=mp31", 
+            "name": "Minehead"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120406"
+}

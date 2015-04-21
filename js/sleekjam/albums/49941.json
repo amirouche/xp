@@ -1,0 +1,99 @@
+{
+    "name": "go away", 
+    "artist": "the boring landmarks", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49941&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400787&streamencoding=mp31", 
+            "name": "toward home"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400789&streamencoding=mp31", 
+            "name": "insane"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400790&streamencoding=mp31", 
+            "name": "loveseat"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400791&streamencoding=mp31", 
+            "name": "you've go a car"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400792&streamencoding=mp31", 
+            "name": "fractured"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400793&streamencoding=mp31", 
+            "name": "asleep"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400794&streamencoding=mp31", 
+            "name": "crash octopus"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400795&streamencoding=mp31", 
+            "name": "china"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400796&streamencoding=mp31", 
+            "name": "homies"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400797&streamencoding=mp31", 
+            "name": "sand catcher"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400798&streamencoding=mp31", 
+            "name": "carnivore vs. herbivore"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400799&streamencoding=mp31", 
+            "name": "open"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400800&streamencoding=mp31", 
+            "name": "dirty switch"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400801&streamencoding=mp31", 
+            "name": "scatter you"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400802&streamencoding=mp31", 
+            "name": "waste"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400803&streamencoding=mp31", 
+            "name": "bike"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400804&streamencoding=mp31", 
+            "name": "invitation"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400805&streamencoding=mp31", 
+            "name": "doorknob"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49941"
+}

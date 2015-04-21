@@ -1,0 +1,64 @@
+{
+    "name": "On my own", 
+    "artist": "Unique project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128206&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1074829&streamencoding=mp31", 
+            "name": "On my own"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1074830&streamencoding=mp31", 
+            "name": "As you think you feel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1074831&streamencoding=mp31", 
+            "name": "My time is now"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1074832&streamencoding=mp31", 
+            "name": "We are not special in the world"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1074833&streamencoding=mp31", 
+            "name": "The music is a good therapi"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1074834&streamencoding=mp31", 
+            "name": "Open the door"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1074835&streamencoding=mp31", 
+            "name": "I don't want to go to bed"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1074836&streamencoding=mp31", 
+            "name": "My aphasia"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1074837&streamencoding=mp31", 
+            "name": "The latter is the first"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1074838&streamencoding=mp31", 
+            "name": "Epilogue"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1074839&streamencoding=mp31", 
+            "name": "Epilogue (piano solo)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128206"
+}

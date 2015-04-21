@@ -1,0 +1,14 @@
+{
+    "name": "Sex In the Morning", 
+    "artist": "King Hitz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131891&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104803&streamencoding=mp31", 
+            "name": "Sex In the Morning"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131891"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "ZAPACH PERFUM", 
+    "artist": "JAMA ROCK", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116792&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992740&streamencoding=mp31", 
+            "name": "zapach perfum janusz wargowski"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992741&streamencoding=mp31", 
+            "name": "jak dzban janusz wargowski"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992742&streamencoding=mp31", 
+            "name": "jeste\u015b z\u0142a janusz wargowski"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992743&streamencoding=mp31", 
+            "name": "\u017cycie janusz wargowski"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992744&streamencoding=mp31", 
+            "name": "czas ucieka janusz wargowski"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992745&streamencoding=mp31", 
+            "name": "bia\u0142a \u015bmier\u0107 janusz wargowski"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992746&streamencoding=mp31", 
+            "name": "historia o mnie janusz wargowski"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992747&streamencoding=mp31", 
+            "name": "m\u00f3wi\u0119 do ciebie janusz wargowski"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992748&streamencoding=mp31", 
+            "name": "b\u0119de czeka\u0142 janusz wargowski"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116792"
+}

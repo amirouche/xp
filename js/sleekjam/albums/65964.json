@@ -1,0 +1,19 @@
+{
+    "name": "Mondmeer / Dein Bild", 
+    "artist": "Wort-Ton", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65964&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=571399&streamencoding=mp31", 
+            "name": "Dein Bild"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=571398&streamencoding=mp31", 
+            "name": "Mondmeer"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65964"
+}

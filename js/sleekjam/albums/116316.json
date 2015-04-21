@@ -1,0 +1,49 @@
+{
+    "name": "Envole-toi", 
+    "artist": "Amaury Le Barde", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116316&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=988464&streamencoding=mp31", 
+            "name": "L'anniversaire de Bilbon"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=988473&streamencoding=mp31", 
+            "name": "Cauchemar r\u00e9current"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=988467&streamencoding=mp31", 
+            "name": "Un lutin dans la for\u00eat"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=988472&streamencoding=mp31", 
+            "name": "Le voleur de pommes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=988470&streamencoding=mp31", 
+            "name": "Amours complices"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=988468&streamencoding=mp31", 
+            "name": "La mule et le b\u00fbcheron"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=988469&streamencoding=mp31", 
+            "name": "Envole-toi"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=988471&streamencoding=mp31", 
+            "name": "Amazing grace"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116316"
+}

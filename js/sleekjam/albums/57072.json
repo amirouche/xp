@@ -1,0 +1,59 @@
+{
+    "name": "Weekend Sessions", 
+    "artist": "Dust Industry", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57072&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=485125&streamencoding=mp31", 
+            "name": "(The Orchestra Strikes Back In) The Streets"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=485119&streamencoding=mp31", 
+            "name": "De Nuit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=485124&streamencoding=mp31", 
+            "name": "Dubphonic Love Memory"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=485126&streamencoding=mp31", 
+            "name": "Bandicoot Jazz"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=485122&streamencoding=mp31", 
+            "name": "Space Intersection 101 (Part I)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=485123&streamencoding=mp31", 
+            "name": "Live & Uncut"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=485120&streamencoding=mp31", 
+            "name": "Space Intersection 101 (Part II)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=485121&streamencoding=mp31", 
+            "name": "The Collapse Symphony"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=485127&streamencoding=mp31", 
+            "name": "70's Shit"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=485128&streamencoding=mp31", 
+            "name": "Abyss"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57072"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Sensoria", 
+    "artist": "Adult Only", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49030&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388678&streamencoding=mp31", 
+            "name": "Sensoria"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49030"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "NEW WORLD", 
+    "artist": "C.A.M.P.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54157&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452060&streamencoding=mp31", 
+            "name": "A Hot Day's Refresh"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452041&streamencoding=mp31", 
+            "name": "Road to Hell"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452063&streamencoding=mp31", 
+            "name": "Foggy Blues"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452067&streamencoding=mp31", 
+            "name": "A Kind of Mind"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452061&streamencoding=mp31", 
+            "name": "Sweet Sunday"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452062&streamencoding=mp31", 
+            "name": "New Day"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452066&streamencoding=mp31", 
+            "name": "Handle with Care"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452068&streamencoding=mp31", 
+            "name": "Waterbubbles"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452064&streamencoding=mp31", 
+            "name": "January Blue"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452065&streamencoding=mp31", 
+            "name": "New Political Blues"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54157"
+}

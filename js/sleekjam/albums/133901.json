@@ -1,0 +1,74 @@
+{
+    "name": "Past, present & future", 
+    "artist": "DJPoonThang", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133901&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120715&streamencoding=mp31", 
+            "name": "Listen 2 Bob (feat Howard Menger)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120714&streamencoding=mp31", 
+            "name": "Heavy Loads Break Your Back (The Dubbermann Pincher session)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120716&streamencoding=mp31", 
+            "name": "Watch The Traffic Go Pass (The Dubbermann Pincher session)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120738&streamencoding=mp31", 
+            "name": "Love is strange (the deep throat edit)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120726&streamencoding=mp31", 
+            "name": "Sing my song (all day long)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120729&streamencoding=mp31", 
+            "name": "Insomnia (from the chemical nite session)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120725&streamencoding=mp31", 
+            "name": "Miami (move your body)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120720&streamencoding=mp31", 
+            "name": "Float like a butterfly &amp; Sting like a bee (feat Keleigh B)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120718&streamencoding=mp31", 
+            "name": "Area 51 (Dub)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120727&streamencoding=mp31", 
+            "name": "I take U 2 the sky"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120739&streamencoding=mp31", 
+            "name": "Faith"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120741&streamencoding=mp31", 
+            "name": "Spring Is here (the fluffy Emma Love edit)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1120742&streamencoding=mp31", 
+            "name": "Scream &amp; Shout (part 2 The Angry JWvH Guitar Edit)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133901"
+}

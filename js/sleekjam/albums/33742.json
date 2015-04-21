@@ -1,0 +1,14 @@
+{
+    "name": "archibald one / Album", 
+    "artist": "archibald one", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33742&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228677&streamencoding=mp31", 
+            "name": "Saisir ma chance Jam rock riddim"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33742"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Genesi EP", 
+    "artist": "Koni", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38121&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=268086&streamencoding=mp31", 
+            "name": "Reptile Mind"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=268090&streamencoding=mp31", 
+            "name": "Dance of Flowers"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=268105&streamencoding=mp31", 
+            "name": "Red Skull"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=268096&streamencoding=mp31", 
+            "name": "Arrogance kills"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38121"
+}

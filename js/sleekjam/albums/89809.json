@@ -1,0 +1,39 @@
+{
+    "name": "Sequel", 
+    "artist": "Leif Nelson", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89809&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766767&streamencoding=mp31", 
+            "name": "Accept your fate"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766768&streamencoding=mp31", 
+            "name": "Fast"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766771&streamencoding=mp31", 
+            "name": "Hype"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766772&streamencoding=mp31", 
+            "name": "Bach"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766773&streamencoding=mp31", 
+            "name": "News in 3 Parts"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766776&streamencoding=mp31", 
+            "name": "Chisel"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89809"
+}

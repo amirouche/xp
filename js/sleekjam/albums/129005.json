@@ -1,0 +1,84 @@
+{
+    "name": "Modern Life is a Journey by Car", 
+    "artist": "Moon Prototype", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129005&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083068&streamencoding=mp31", 
+            "name": "Introspection"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083085&streamencoding=mp31", 
+            "name": "Coal in my Eyes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083093&streamencoding=mp31", 
+            "name": "My Name Is The Lord"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083098&streamencoding=mp31", 
+            "name": "Keep Everyone Afraid"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083097&streamencoding=mp31", 
+            "name": "The Passage"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083091&streamencoding=mp31", 
+            "name": "Expression Of Bliss"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083092&streamencoding=mp31", 
+            "name": "Celebration"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083096&streamencoding=mp31", 
+            "name": "This Dream Is My World"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083094&streamencoding=mp31", 
+            "name": "The Sinner"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083095&streamencoding=mp31", 
+            "name": "It's Better To Burn Out Than To Fade Away"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083099&streamencoding=mp31", 
+            "name": "The Challenge"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083088&streamencoding=mp31", 
+            "name": "The Last Straight Line"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083089&streamencoding=mp31", 
+            "name": "Modern Life Is A Journey By Car"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083090&streamencoding=mp31", 
+            "name": "Staying In Motion"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083100&streamencoding=mp31", 
+            "name": "Dead Man"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129005"
+}

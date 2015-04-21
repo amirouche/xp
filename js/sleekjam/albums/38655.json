@@ -1,0 +1,19 @@
+{
+    "name": "Days", 
+    "artist": "Curious", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38655&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273269&streamencoding=mp31", 
+            "name": "Days (Single Version)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=273270&streamencoding=mp31", 
+            "name": "J. Mary "
+        }
+    ], 
+    "release": "2009", 
+    "id": "38655"
+}

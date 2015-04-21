@@ -1,0 +1,54 @@
+{
+    "name": "Involuci\u00f3", 
+    "artist": "King Kong Boy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113425&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964584&streamencoding=mp31", 
+            "name": "S'Obri El Tel\u00f3"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964583&streamencoding=mp31", 
+            "name": "King Kong Boy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964582&streamencoding=mp31", 
+            "name": "Pink Painrels"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964581&streamencoding=mp31", 
+            "name": "Levantino"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964580&streamencoding=mp31", 
+            "name": "Consulta del Doctor Shesheshe"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964579&streamencoding=mp31", 
+            "name": "Big City"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964577&streamencoding=mp31", 
+            "name": "Occidente"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964585&streamencoding=mp31", 
+            "name": "En El Cam\u00ed"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964578&streamencoding=mp31", 
+            "name": "Un Ball Etern"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113425"
+}

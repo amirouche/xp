@@ -1,0 +1,64 @@
+{
+    "name": "A Gate To All Secrets", 
+    "artist": "Chronique", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25912&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=174851&streamencoding=mp31", 
+            "name": "Superstar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=174863&streamencoding=mp31", 
+            "name": "Victims"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=174899&streamencoding=mp31", 
+            "name": "Du Schweigst"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=174900&streamencoding=mp31", 
+            "name": "A Gate To All Secrets"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=174901&streamencoding=mp31", 
+            "name": "Roter Sand"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=174902&streamencoding=mp31", 
+            "name": "Why don\u00b4t you"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=174903&streamencoding=mp31", 
+            "name": "The Guardian / Tales Of Burning Skies"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=174904&streamencoding=mp31", 
+            "name": "Movie Dream"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=174971&streamencoding=mp31", 
+            "name": "Andoria"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=174983&streamencoding=mp31", 
+            "name": "I\u00b4m Falling"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=174984&streamencoding=mp31", 
+            "name": "The Last Step"
+        }
+    ], 
+    "release": "2008", 
+    "id": "25912"
+}

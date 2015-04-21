@@ -1,0 +1,64 @@
+{
+    "name": "Echo Mike crashed and died burnt in horrible sufferings", 
+    "artist": "Arnoldsrecords", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83599&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715553&streamencoding=mp31", 
+            "name": "Another kind of silicone sadness"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715554&streamencoding=mp31", 
+            "name": "Eighty-four tears"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715555&streamencoding=mp31", 
+            "name": "Old pornography"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715557&streamencoding=mp31", 
+            "name": "A fine slice of emptiness"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715558&streamencoding=mp31", 
+            "name": "Bad morale in balmoral"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715559&streamencoding=mp31", 
+            "name": "Last night in SF"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715560&streamencoding=mp31", 
+            "name": "Wind of trouble"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715561&streamencoding=mp31", 
+            "name": "There's a hole, there's a wall"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715562&streamencoding=mp31", 
+            "name": "Unreal blue"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715563&streamencoding=mp31", 
+            "name": "Echo Mike crashed 4.1"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715564&streamencoding=mp31", 
+            "name": "The fall"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83599"
+}

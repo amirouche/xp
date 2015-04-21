@@ -1,0 +1,29 @@
+{
+    "name": "Kra!", 
+    "artist": "Suchtmaschine", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=12817&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=106750&streamencoding=mp31", 
+            "name": "Ich s\u00e4he ein Schlachtfeld"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=106872&streamencoding=mp31", 
+            "name": "Kumasi"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=106871&streamencoding=mp31", 
+            "name": "..."
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=106751&streamencoding=mp31", 
+            "name": "Kr\u00e4uterboy, Ahoy!"
+        }
+    ], 
+    "release": "2007", 
+    "id": "12817"
+}

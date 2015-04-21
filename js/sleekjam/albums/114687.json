@@ -1,0 +1,59 @@
+{
+    "name": "ExtraLocal", 
+    "artist": "Anitek", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114687&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973994&streamencoding=mp31", 
+            "name": "Square One"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973993&streamencoding=mp31", 
+            "name": "Outlandish"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973999&streamencoding=mp31", 
+            "name": "Natural Form"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973996&streamencoding=mp31", 
+            "name": "Float"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=974000&streamencoding=mp31", 
+            "name": "Seasons"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973995&streamencoding=mp31", 
+            "name": "Counterpart"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973998&streamencoding=mp31", 
+            "name": "Paudex"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973997&streamencoding=mp31", 
+            "name": "Kodocha"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973992&streamencoding=mp31", 
+            "name": "In Route"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=974001&streamencoding=mp31", 
+            "name": "Dobro Wax"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114687"
+}

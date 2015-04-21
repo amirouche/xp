@@ -1,0 +1,59 @@
+{
+    "name": "Cien A\u00f1os Despues", 
+    "artist": "Magnolia Chile", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23243&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159913&streamencoding=mp31", 
+            "name": "Algo en tu Piel"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159917&streamencoding=mp31", 
+            "name": "Me Provocas"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159920&streamencoding=mp31", 
+            "name": "Japanese Woman"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159922&streamencoding=mp31", 
+            "name": "Debo Reconocerlo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159940&streamencoding=mp31", 
+            "name": "Soomoamigo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159958&streamencoding=mp31", 
+            "name": "Fuimos"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159964&streamencoding=mp31", 
+            "name": "Tango en Soledad"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159966&streamencoding=mp31", 
+            "name": "Victor Jara"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159982&streamencoding=mp31", 
+            "name": "Declaracion Politica"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160007&streamencoding=mp31", 
+            "name": "Cien a\u00f1os despues"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23243"
+}

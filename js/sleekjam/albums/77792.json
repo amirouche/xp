@@ -1,0 +1,104 @@
+{
+    "name": "En directo \" Con un par de bemoles\".", 
+    "artist": "CHATARRA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77792&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670792&streamencoding=mp31", 
+            "name": "Cuando Perder Fue Ganar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670795&streamencoding=mp31", 
+            "name": "Las Ruinas"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670799&streamencoding=mp31", 
+            "name": "Estrella Fugaz"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670804&streamencoding=mp31", 
+            "name": "No Lo Cojo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670791&streamencoding=mp31", 
+            "name": "Movidas (Con Luichi De Diagn\u00f3stico Canalla)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670796&streamencoding=mp31", 
+            "name": "Bellvitge Rock Ciudad (Con Jos\u00e9 De El Pajarro Loco)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670801&streamencoding=mp31", 
+            "name": "El Sinverg\u00fcenza (Con Carlos De 7 Grillos)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670807&streamencoding=mp31", 
+            "name": "No Sabes Nada"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670794&streamencoding=mp31", 
+            "name": "Desnuda La Ma\u00f1ana"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670798&streamencoding=mp31", 
+            "name": "A Trav\u00e9s Del Olvido"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670805&streamencoding=mp31", 
+            "name": "Se\u00f1or Troncoso (Con Alberto De Ron Vud\u00fa)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670803&streamencoding=mp31", 
+            "name": "De Mentira"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670800&streamencoding=mp31", 
+            "name": "M\u00e1s All\u00e1"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670797&streamencoding=mp31", 
+            "name": "Todo Es M\u00e1s Sencillo (Con Tony Urbano De Le\u00f1o)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670793&streamencoding=mp31", 
+            "name": "Mejor As\u00ed (Con Silvia Y Lourdes)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670790&streamencoding=mp31", 
+            "name": "Barcelona"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670806&streamencoding=mp31", 
+            "name": "Si O No"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670802&streamencoding=mp31", 
+            "name": "El R\u00edo"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670808&streamencoding=mp31", 
+            "name": "Maneras De Vivir (Con Marcos Pae)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77792"
+}

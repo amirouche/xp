@@ -1,0 +1,99 @@
+{
+    "name": "The First", 
+    "artist": "JAcK FiDo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64387&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553255&streamencoding=mp31", 
+            "name": "INTRO- La Primera"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553256&streamencoding=mp31", 
+            "name": "Te necesito"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553258&streamencoding=mp31", 
+            "name": "My Love Shortie"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553245&streamencoding=mp31", 
+            "name": "Agradecido"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553254&streamencoding=mp31", 
+            "name": "Quiero amarte"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553249&streamencoding=mp31", 
+            "name": "Sentir tu presensia"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553246&streamencoding=mp31", 
+            "name": "Te pido perd\u00f3n"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553252&streamencoding=mp31", 
+            "name": "Reacciona"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553251&streamencoding=mp31", 
+            "name": "Modificando"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553089&streamencoding=mp31", 
+            "name": "Amar"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553253&streamencoding=mp31", 
+            "name": "Me enamore"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553091&streamencoding=mp31", 
+            "name": "Para ti mi amor"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553248&streamencoding=mp31", 
+            "name": "Tu"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553090&streamencoding=mp31", 
+            "name": "Gracias"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553092&streamencoding=mp31", 
+            "name": "Te Reto"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553250&streamencoding=mp31", 
+            "name": "Un Mundo Contigo"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553247&streamencoding=mp31", 
+            "name": "Placeres"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=553257&streamencoding=mp31", 
+            "name": "Maleanteo Divino"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64387"
+}

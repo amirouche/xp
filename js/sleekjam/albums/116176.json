@@ -1,0 +1,74 @@
+{
+    "name": "AL VIVO Y EN COLOR I", 
+    "artist": "jorge peres", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116176&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987012&streamencoding=mp31", 
+            "name": "INTRODUCION+TE QUIERO - jorge peres"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987002&streamencoding=mp31", 
+            "name": "EL MAGO - jorge peres"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987014&streamencoding=mp31", 
+            "name": "TU ACTIVIDAD - jorge peres"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987003&streamencoding=mp31", 
+            "name": "PLANE DE CORAZONES - jorge peres"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987013&streamencoding=mp31", 
+            "name": "TE JURO - jorge peres"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987009&streamencoding=mp31", 
+            "name": "TE ECHO DE MENOS - jorge peres"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987004&streamencoding=mp31", 
+            "name": "UN A\u00d1O MAS - jorge peres"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987005&streamencoding=mp31", 
+            "name": "LA MUERTE POR FUTURO - jorge peres"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987006&streamencoding=mp31", 
+            "name": "ME SIENTO ESTUPIDO - jorge peres"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987007&streamencoding=mp31", 
+            "name": "ODIO O AMOR - jorge peres"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987008&streamencoding=mp31", 
+            "name": "UN POCO DE AMOR - jorge peres"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987010&streamencoding=mp31", 
+            "name": "VIDA DE ILUSION - jorge peres"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987011&streamencoding=mp31", 
+            "name": "NO HAY PERDON - jorge peres"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116176"
+}

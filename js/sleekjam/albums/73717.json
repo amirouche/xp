@@ -1,0 +1,14 @@
+{
+    "name": "\u0437\u0430 \u043c\u0438\u0440 \u0432\u043e \u0432\u0441\u0435\u043c \u043c\u0438\u0440\u0435(Single)", 
+    "artist": "Moresebya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73717&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636801&streamencoding=mp31", 
+            "name": "za mir vo vsem mire(semantic prod)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73717"
+}

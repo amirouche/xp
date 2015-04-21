@@ -1,0 +1,69 @@
+{
+    "name": "\u0422\u043e\u0441\u043a\u0430 \u043f\u043e \u0447\u0443\u0434\u0435\u0441\u0430\u043c", 
+    "artist": "Golden Dream", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60566&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517968&streamencoding=mp31", 
+            "name": "\u041b\u0438\u043d\u0438\u0438 \u0434\u043e\u0440\u043e\u0433"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517969&streamencoding=mp31", 
+            "name": "\u0412\u0435\u0441\u0435\u043d\u043d\u0438\u0439 \u0432\u0435\u0438\u0435\u0440"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517970&streamencoding=mp31", 
+            "name": "\u041e\u0431\u043b\u0430\u043a\u0430"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517971&streamencoding=mp31", 
+            "name": "\u0428\u0430\u043c\u0430\u043d"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517972&streamencoding=mp31", 
+            "name": "\u0415\u0441\u043b\u0438 \u0431\u0443\u0434\u0435\u043c \u0432\u0434\u0432\u043e\u0435\u043c (\u0434\u043e\u043f. 2006 \u0433.)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517973&streamencoding=mp31", 
+            "name": "\u0412\u0442\u043e\u0440\u0430\u044f \u0441\u0442\u043e\u0440\u043e\u043d\u0430"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517974&streamencoding=mp31", 
+            "name": "\u0420\u0438\u0441\u0443\u043d\u043e\u043a"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517975&streamencoding=mp31", 
+            "name": "\u041d\u043e\u0432\u0430\u044f \u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0434\u0430 \u0447.1"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517976&streamencoding=mp31", 
+            "name": "\u041d\u043e\u0432\u0430\u044f \u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0434\u0430 \u0447.2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517977&streamencoding=mp31", 
+            "name": "\u0412\u044b\u0439\u0434\u0438 \u043f\u043e\u0434 \u0434\u043e\u0436\u0434\u044c"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517978&streamencoding=mp31", 
+            "name": "\u041f\u0438\u0441\u044c\u043c\u043e"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517979&streamencoding=mp31", 
+            "name": "2000-3000"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60566"
+}

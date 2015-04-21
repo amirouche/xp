@@ -1,0 +1,49 @@
+{
+    "name": "NOISE CONSORTIUM - PHST04", 
+    "artist": "PHST RECORDS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6754&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75521&streamencoding=mp31", 
+            "name": "Pamplemousse (Hydroponic Grape Fruit)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75522&streamencoding=mp31", 
+            "name": "Risk"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75523&streamencoding=mp31", 
+            "name": "Black Buzz"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75524&streamencoding=mp31", 
+            "name": "The Fall Of Trantor"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75525&streamencoding=mp31", 
+            "name": "Magnifico"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75526&streamencoding=mp31", 
+            "name": "Fantasy"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75527&streamencoding=mp31", 
+            "name": "Mother Bored"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75528&streamencoding=mp31", 
+            "name": "A.T. Field"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6754"
+}

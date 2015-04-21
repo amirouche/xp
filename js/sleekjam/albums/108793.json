@@ -1,0 +1,44 @@
+{
+    "name": "A night from other dimensions", 
+    "artist": "Minimax Dadamax Experiment", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108793&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918711&streamencoding=mp31", 
+            "name": "1st dimension"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918743&streamencoding=mp31", 
+            "name": "2nd dimension"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918744&streamencoding=mp31", 
+            "name": "3rd dimension"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918628&streamencoding=mp31", 
+            "name": "4th dimension"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918627&streamencoding=mp31", 
+            "name": "5th dimension"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918745&streamencoding=mp31", 
+            "name": "6th dimension"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918746&streamencoding=mp31", 
+            "name": "7th dimension"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108793"
+}

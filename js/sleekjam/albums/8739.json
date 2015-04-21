@@ -1,0 +1,39 @@
+{
+    "name": "WE&DEM \"Edici\u00f3n Digital\"", 
+    "artist": "WE&DEM", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8739&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90118&streamencoding=mp31", 
+            "name": "Let them grow"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90119&streamencoding=mp31", 
+            "name": "Largos D\u00edas"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90121&streamencoding=mp31", 
+            "name": "Killer Children"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90125&streamencoding=mp31", 
+            "name": "Yo me pregunto"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90131&streamencoding=mp31", 
+            "name": "Penitentiary"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90138&streamencoding=mp31", 
+            "name": "No More Conquest"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8739"
+}

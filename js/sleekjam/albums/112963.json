@@ -1,0 +1,49 @@
+{
+    "name": "Dreams", 
+    "artist": "Christine Rose", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112963&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960972&streamencoding=mp31", 
+            "name": "I wanna sing your praise"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960973&streamencoding=mp31", 
+            "name": "Dreams"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960974&streamencoding=mp31", 
+            "name": "I can feel you inside my life"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960975&streamencoding=mp31", 
+            "name": "I you need me"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960976&streamencoding=mp31", 
+            "name": "Gonna make you shine"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960977&streamencoding=mp31", 
+            "name": "Heaven"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960978&streamencoding=mp31", 
+            "name": "I don't wanna let you down"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960979&streamencoding=mp31", 
+            "name": "Don't go away"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112963"
+}

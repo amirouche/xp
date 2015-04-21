@@ -1,0 +1,54 @@
+{
+    "name": "Misterio Universal", 
+    "artist": "Utopia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111919&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951850&streamencoding=mp31", 
+            "name": "Misterio Universal"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951866&streamencoding=mp31", 
+            "name": "Cosmonautas del pasado"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951868&streamencoding=mp31", 
+            "name": "Profec\u00eda"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951875&streamencoding=mp31", 
+            "name": "Mitos antiguos"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951889&streamencoding=mp31", 
+            "name": "Estelar"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951891&streamencoding=mp31", 
+            "name": "Viaje Espacial"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951919&streamencoding=mp31", 
+            "name": "Depredadores Espaciales"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951923&streamencoding=mp31", 
+            "name": "Eterea"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951924&streamencoding=mp31", 
+            "name": "Viaje en el tiempo"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111919"
+}

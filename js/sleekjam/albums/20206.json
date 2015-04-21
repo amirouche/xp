@@ -1,0 +1,29 @@
+{
+    "name": "EXTRAMARCIANO", 
+    "artist": "NEOCORTEX", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20206&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141231&streamencoding=mp31", 
+            "name": "7 Labios"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141230&streamencoding=mp31", 
+            "name": "Perfect Song"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141232&streamencoding=mp31", 
+            "name": "El enderezador"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141233&streamencoding=mp31", 
+            "name": "Extramarciano"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20206"
+}

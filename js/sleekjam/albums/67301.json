@@ -1,0 +1,29 @@
+{
+    "name": "Jam Session #1", 
+    "artist": "M. Wag. Music feat. Will W.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67301&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=583482&streamencoding=mp31", 
+            "name": "Jam Part I.mp3"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=583483&streamencoding=mp31", 
+            "name": "Jam Part II.mp3"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=583484&streamencoding=mp31", 
+            "name": "Jam Part III.mp3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=583485&streamencoding=mp31", 
+            "name": "Jam Part IV (Intros & Banter).mp3"
+        }
+    ], 
+    "release": "2010", 
+    "id": "67301"
+}

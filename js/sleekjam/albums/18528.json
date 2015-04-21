@@ -1,0 +1,49 @@
+{
+    "name": "REMAKE I", 
+    "artist": "mc@b", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18528&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131448&streamencoding=mp31", 
+            "name": "REMAKE Part I.mix mc@b"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131449&streamencoding=mp31", 
+            "name": "Retro accoustique.mix mc@b"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131450&streamencoding=mp31", 
+            "name": "Every day.mix mc@b"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131451&streamencoding=mp31", 
+            "name": "Light nocturne.mix mc@b"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131452&streamencoding=mp31", 
+            "name": "WINTER song.mix mc@b"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131453&streamencoding=mp31", 
+            "name": "Brazil sun.mix mc@b"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131454&streamencoding=mp31", 
+            "name": "GIRONDE Estuary symphonic.mix mc@b"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131455&streamencoding=mp31", 
+            "name": "REMAKE Part II.mix mc@b"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18528"
+}

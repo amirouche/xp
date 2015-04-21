@@ -1,0 +1,64 @@
+{
+    "name": "Green Tea", 
+    "artist": "YARDS OF SILK", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55420&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467182&streamencoding=mp31", 
+            "name": "Friction"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467183&streamencoding=mp31", 
+            "name": "Fore"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467184&streamencoding=mp31", 
+            "name": "The Ride"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467185&streamencoding=mp31", 
+            "name": "Crimes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467181&streamencoding=mp31", 
+            "name": "The Dive"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467191&streamencoding=mp31", 
+            "name": "Dehors"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467193&streamencoding=mp31", 
+            "name": "Leaves"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467198&streamencoding=mp31", 
+            "name": "Routine/Animals"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467189&streamencoding=mp31", 
+            "name": "Weeds"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467199&streamencoding=mp31", 
+            "name": "Sinking"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467200&streamencoding=mp31", 
+            "name": "Up, Over"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55420"
+}

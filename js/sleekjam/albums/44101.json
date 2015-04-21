@@ -1,0 +1,19 @@
+{
+    "name": "CCK001", 
+    "artist": "Imprintz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44101&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=330242&streamencoding=mp31", 
+            "name": "CCK001 - A - Imprintz - Demens"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=330243&streamencoding=mp31", 
+            "name": "CCK001 - B - Imprintz - In the Limo"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44101"
+}

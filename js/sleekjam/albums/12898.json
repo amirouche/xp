@@ -1,0 +1,14 @@
+{
+    "name": "50 million year trip", 
+    "artist": "Gonzo Bizarro", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=12898&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=107258&streamencoding=mp31", 
+            "name": "the 50 million year trip"
+        }
+    ], 
+    "release": "2007", 
+    "id": "12898"
+}

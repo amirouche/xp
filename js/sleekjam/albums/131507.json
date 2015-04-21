@@ -1,0 +1,59 @@
+{
+    "name": "\u0426\u0432\u0435\u0442\u043d\u043e\u0439", 
+    "artist": "\u0421\u0435\u0437\u043e\u043d \u0417\u0430\u0433\u043e\u043d\u0430", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131507&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101976&streamencoding=mp31", 
+            "name": "\u0426\u0432\u0435\u0442\u043d\u0430\u044f (Colorfull)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101974&streamencoding=mp31", 
+            "name": "\u0424\u0440\u0430\u0433\u043c\u0435\u043d\u0442 \u0418\u044e\u043b\u044f (Detail of July)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101973&streamencoding=mp31", 
+            "name": "\u0421\u0432\u0435\u0442\u043e\u0444\u043e\u0440\u044b (Traffic lights) feat. \u0417\u0430\u0445\u0430\u0440 \u041c\u0430\u0439"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101972&streamencoding=mp31", 
+            "name": "\u041f\u0442\u0438\u0446\u0430 \u041b\u044e\u0431\u0432\u0438 (The Bird of Love) feat. \u0421\u0435\u0440\u0433\u0435\u0439 \u0411\u0430\u0431\u043a\u0438\u043d"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101971&streamencoding=mp31", 
+            "name": "\u041e\u0441\u0435\u043d\u044c \u0412 \u042f\u043d\u0442\u0430\u0440\u0435 (Autumn in Amber)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101970&streamencoding=mp31", 
+            "name": "\u0417\u0430\u0431\u043b\u0443\u043a\u0430\u043b\u0430 (Strayed)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101969&streamencoding=mp31", 
+            "name": "\u041f\u043e\u0441\u043ci\u0448\u043a\u0430 (Smile)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101968&streamencoding=mp31", 
+            "name": "\u0413\u0435\u0440\u043e\u0438\u043d\u044f \u0424\u0438\u043b\u044c\u043c\u0430 (The movie's heroine)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101975&streamencoding=mp31", 
+            "name": "\u0411\u043b\u044e\u0437 (Blues)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101967&streamencoding=mp31", 
+            "name": "A Poison Tree"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131507"
+}

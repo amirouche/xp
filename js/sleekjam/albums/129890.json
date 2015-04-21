@@ -1,0 +1,94 @@
+{
+    "name": "Space Night", 
+    "artist": "Antle", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129890&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089771&streamencoding=mp31", 
+            "name": "Orbital View"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089781&streamencoding=mp31", 
+            "name": "Contact"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089780&streamencoding=mp31", 
+            "name": "Feilong"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089776&streamencoding=mp31", 
+            "name": "Ad Astra"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089772&streamencoding=mp31", 
+            "name": "Corona"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089775&streamencoding=mp31", 
+            "name": "Dreaming"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089773&streamencoding=mp31", 
+            "name": "Mellow Dawn"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089774&streamencoding=mp31", 
+            "name": "Solar Flares"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089782&streamencoding=mp31", 
+            "name": "Neutrino Rock"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089779&streamencoding=mp31", 
+            "name": "Through Quasispace"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089786&streamencoding=mp31", 
+            "name": "Snowflakes In Space"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089783&streamencoding=mp31", 
+            "name": "Cosmic Karma"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089778&streamencoding=mp31", 
+            "name": "Beta Vorticon"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089785&streamencoding=mp31", 
+            "name": "Azure Spirit"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089787&streamencoding=mp31", 
+            "name": "Ancient Ruins"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089784&streamencoding=mp31", 
+            "name": "Solitude"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089777&streamencoding=mp31", 
+            "name": "Coming Home"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129890"
+}

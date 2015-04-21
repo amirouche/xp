@@ -1,0 +1,44 @@
+{
+    "name": "TOmOrROw", 
+    "artist": "PHILIpPE bRaY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78909&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679072&streamencoding=mp31", 
+            "name": "Nouvelle saison"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679073&streamencoding=mp31", 
+            "name": "Avril"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679074&streamencoding=mp31", 
+            "name": "Couleurs"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679075&streamencoding=mp31", 
+            "name": "Demain"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679076&streamencoding=mp31", 
+            "name": "Dimanche vingt cinq"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679077&streamencoding=mp31", 
+            "name": "Il siffle un air que je ne connais pas"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679078&streamencoding=mp31", 
+            "name": "L'hiver est d\u00e9j\u00e0 arriv\u00e9"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78909"
+}

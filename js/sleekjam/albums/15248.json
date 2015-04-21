@@ -1,0 +1,14 @@
+{
+    "name": "Lucky Number 7 (single) 2007", 
+    "artist": "SaReGaMa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15248&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114924&streamencoding=mp31", 
+            "name": "SaReGaMa & Hamelin B\u00e9ringnier - Lucky Number Seven"
+        }
+    ], 
+    "release": "2011", 
+    "id": "15248"
+}

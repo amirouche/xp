@@ -1,0 +1,14 @@
+{
+    "name": "KICK BASS SNARE", 
+    "artist": "MARSHALL AQUICCI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129316&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1085269&streamencoding=mp31", 
+            "name": "KICK BASS SNARE"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129316"
+}

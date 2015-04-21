@@ -1,0 +1,44 @@
+{
+    "name": "It's wonderful", 
+    "artist": "Marcos Alves", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106657&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=905366&streamencoding=mp31", 
+            "name": "A crazy night in Toyland"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=905367&streamencoding=mp31", 
+            "name": "It's wonderful"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=905397&streamencoding=mp31", 
+            "name": "Sands of storm"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=905398&streamencoding=mp31", 
+            "name": "Phantasy world"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=905418&streamencoding=mp31", 
+            "name": "Michelle"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=905435&streamencoding=mp31", 
+            "name": "Shining nights"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=905443&streamencoding=mp31", 
+            "name": "Cyber city"
+        }
+    ], 
+    "release": "2012", 
+    "id": "106657"
+}

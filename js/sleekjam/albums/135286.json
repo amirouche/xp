@@ -1,0 +1,54 @@
+{
+    "name": "Misc beats 2", 
+    "artist": "Climetree", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135286&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129131&streamencoding=mp31", 
+            "name": "I can see your eyes-Indian mix"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129138&streamencoding=mp31", 
+            "name": "I can see your eyes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129134&streamencoding=mp31", 
+            "name": "Indiantechno14 baul groove"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129136&streamencoding=mp31", 
+            "name": "Indianchill1 tum"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129132&streamencoding=mp31", 
+            "name": "Indiantechno10 mantra pop"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129130&streamencoding=mp31", 
+            "name": "Indiantechno8 halo shambhala"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129137&streamencoding=mp31", 
+            "name": "Bhangratechno1 jalamiyaa"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129133&streamencoding=mp31", 
+            "name": "Indiantechno13 mumbai street view"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1129135&streamencoding=mp31", 
+            "name": "Touching no mans land"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135286"
+}

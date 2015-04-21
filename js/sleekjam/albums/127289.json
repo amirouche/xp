@@ -1,0 +1,29 @@
+{
+    "name": "M\u00e4nniskoson", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=127289&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072566&streamencoding=mp31", 
+            "name": "M\u00e4nniskoson"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072567&streamencoding=mp31", 
+            "name": "K\u00e4rlekssol"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072568&streamencoding=mp31", 
+            "name": "K\u00e4rlekens Blommor"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072569&streamencoding=mp31", 
+            "name": "K\u00e4rleksflamman"
+        }
+    ], 
+    "release": "2013", 
+    "id": "127289"
+}

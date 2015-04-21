@@ -1,0 +1,19 @@
+{
+    "name": "Morning Chicks EP", 
+    "artist": "V.G.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76925&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663182&streamencoding=mp31", 
+            "name": "Morning_Chicks"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663183&streamencoding=mp31", 
+            "name": "Walking_Along_The_Railway"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76925"
+}

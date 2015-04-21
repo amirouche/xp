@@ -1,0 +1,44 @@
+{
+    "name": "Nomada (Camello de Sue\u00f1os)", 
+    "artist": "Basilio Montes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110843&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943412&streamencoding=mp31", 
+            "name": "Freedom"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943413&streamencoding=mp31", 
+            "name": "Al Fondo Del Corazon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943411&streamencoding=mp31", 
+            "name": "Trovador"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943414&streamencoding=mp31", 
+            "name": "Libertad"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943415&streamencoding=mp31", 
+            "name": "Camello De Suenos"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943416&streamencoding=mp31", 
+            "name": "Alli en Colombia"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943417&streamencoding=mp31", 
+            "name": "Piel De Cuero"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110843"
+}

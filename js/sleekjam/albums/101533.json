@@ -1,0 +1,79 @@
+{
+    "name": "Libert\u00e9 d'Aimer", 
+    "artist": "Phon'\u00e9thique", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101533&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866243&streamencoding=mp31", 
+            "name": "Electro-phon (remix)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866244&streamencoding=mp31", 
+            "name": "Libert\u00e9 d'Aimer (remasteris\u00e9)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866245&streamencoding=mp31", 
+            "name": "Phantoms of the paradise"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866246&streamencoding=mp31", 
+            "name": "Sur la peau du djemb\u00e9"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866358&streamencoding=mp31", 
+            "name": "M\u00e9ga-phon"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866247&streamencoding=mp31", 
+            "name": "Age"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866248&streamencoding=mp31", 
+            "name": "Monada"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866250&streamencoding=mp31", 
+            "name": "M\u00e9lody love (remasteris\u00e9)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866267&streamencoding=mp31", 
+            "name": "Ouf de Pouf"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866252&streamencoding=mp31", 
+            "name": "L' instinct"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866251&streamencoding=mp31", 
+            "name": "Chemin des.. (remix)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866323&streamencoding=mp31", 
+            "name": "Sweet Nana"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866340&streamencoding=mp31", 
+            "name": "Dans le vent"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866308&streamencoding=mp31", 
+            "name": "Petit grain de sable"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101533"
+}

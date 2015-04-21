@@ -1,0 +1,44 @@
+{
+    "name": "Moscow is Safe", 
+    "artist": "-message intercepted-", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81863&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701974&streamencoding=mp31", 
+            "name": "Hypothermia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701975&streamencoding=mp31", 
+            "name": "Gear Up"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701976&streamencoding=mp31", 
+            "name": "Drive-Thru Monastery"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701977&streamencoding=mp31", 
+            "name": "Moon Suits"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701973&streamencoding=mp31", 
+            "name": "Chinese Oatmeal"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701979&streamencoding=mp31", 
+            "name": "Remember the Time"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701978&streamencoding=mp31", 
+            "name": "Still Speaking"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81863"
+}

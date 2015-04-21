@@ -1,0 +1,29 @@
+{
+    "name": "d\u00e9mo", 
+    "artist": "PT44", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65319&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564733&streamencoding=mp31", 
+            "name": "Mars m'attack"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564734&streamencoding=mp31", 
+            "name": "Sexy little pig"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564735&streamencoding=mp31", 
+            "name": "A toi Betty"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564736&streamencoding=mp31", 
+            "name": "Le chant des stingers"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65319"
+}

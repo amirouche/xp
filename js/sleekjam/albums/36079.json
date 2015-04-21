@@ -1,0 +1,159 @@
+{
+    "name": "366 Songs: February", 
+    "artist": "Mark Elliot Cullen", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36079&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=230341&streamencoding=mp31", 
+            "name": "Open-D (I Know Who You Are)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=230383&streamencoding=mp31", 
+            "name": "Mosquito"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=230563&streamencoding=mp31", 
+            "name": "Love Haze"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=230534&streamencoding=mp31", 
+            "name": "European Well"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231125&streamencoding=mp31", 
+            "name": "Breaking the Law"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=231151&streamencoding=mp31", 
+            "name": "Fire Action"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250258&streamencoding=mp31", 
+            "name": "Du Du Du"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250163&streamencoding=mp31", 
+            "name": "Recollection"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250478&streamencoding=mp31", 
+            "name": "Cold Problem"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250466&streamencoding=mp31", 
+            "name": "Radio Radiation"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250471&streamencoding=mp31", 
+            "name": "Psycho"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250479&streamencoding=mp31", 
+            "name": "Down River"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250472&streamencoding=mp31", 
+            "name": "Belvadere's Blues"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250469&streamencoding=mp31", 
+            "name": "You've Been Wise"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250481&streamencoding=mp31", 
+            "name": "Henri Matisse"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250482&streamencoding=mp31", 
+            "name": "Goon"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250467&streamencoding=mp31", 
+            "name": "Doesn't Matter Blues"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250475&streamencoding=mp31", 
+            "name": "Sandra"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250468&streamencoding=mp31", 
+            "name": "Moses"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250483&streamencoding=mp31", 
+            "name": "Top Man"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250280&streamencoding=mp31", 
+            "name": "Sparrow Song"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250476&streamencoding=mp31", 
+            "name": "White Apples"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250294&streamencoding=mp31", 
+            "name": "Elevator Song"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250480&streamencoding=mp31", 
+            "name": "Mama's Drinking Turpentine"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250321&streamencoding=mp31", 
+            "name": "Wednesday Window"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250473&streamencoding=mp31", 
+            "name": "Second Son"
+        }, 
+        {
+            "position": 27, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250470&streamencoding=mp31", 
+            "name": "Sophie's Car"
+        }, 
+        {
+            "position": 28, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250477&streamencoding=mp31", 
+            "name": "Frankenstein's Son"
+        }, 
+        {
+            "position": 29, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250474&streamencoding=mp31", 
+            "name": "Stream"
+        }, 
+        {
+            "position": 30, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250313&streamencoding=mp31", 
+            "name": "What Has Changed?"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36079"
+}

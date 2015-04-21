@@ -1,0 +1,59 @@
+{
+    "name": "En Fa\u00eete", 
+    "artist": "Les Chapo-T", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11974&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=101743&streamencoding=mp31", 
+            "name": "La Balan\u00e7oire"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=102500&streamencoding=mp31", 
+            "name": "La Deudeuche"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=102522&streamencoding=mp31", 
+            "name": "Echec & Dames"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103163&streamencoding=mp31", 
+            "name": "Un Monde Presque Parfait"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103178&streamencoding=mp31", 
+            "name": "Les Morts"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103238&streamencoding=mp31", 
+            "name": "Les Restos Tuent-Coeur"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103245&streamencoding=mp31", 
+            "name": "Rencontre"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103305&streamencoding=mp31", 
+            "name": "Histoire FringUante"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103331&streamencoding=mp31", 
+            "name": "T\u00e9tris"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103396&streamencoding=mp31", 
+            "name": "Le Musicien"
+        }
+    ], 
+    "release": "2007", 
+    "id": "11974"
+}

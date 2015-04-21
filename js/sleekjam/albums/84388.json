@@ -1,0 +1,44 @@
+{
+    "name": "Slow Rotations", 
+    "artist": "softspace", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84388&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722634&streamencoding=mp31", 
+            "name": "Fairy Dance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722666&streamencoding=mp31", 
+            "name": "Non- Rhythmic Life"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722708&streamencoding=mp31", 
+            "name": "Light Touches"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722710&streamencoding=mp31", 
+            "name": "Movement"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722718&streamencoding=mp31", 
+            "name": "Slow Rotations"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722813&streamencoding=mp31", 
+            "name": "Looks Like Rain -Piano played by Lena Selyanina"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722820&streamencoding=mp31", 
+            "name": "Moorland"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84388"
+}

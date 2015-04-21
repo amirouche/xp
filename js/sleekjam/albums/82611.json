@@ -1,0 +1,49 @@
+{
+    "name": "Hope us Once - 1er aux puces", 
+    "artist": "Fizzyfeez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82611&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708394&streamencoding=mp31", 
+            "name": "Intro plein d'amour"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708391&streamencoding=mp31", 
+            "name": "Ass & Dick"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708387&streamencoding=mp31", 
+            "name": "Pyroninja vs l'empire du Kung-Fu"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708392&streamencoding=mp31", 
+            "name": "Golbutes & Mulets"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708388&streamencoding=mp31", 
+            "name": "Ghostbasterds"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708389&streamencoding=mp31", 
+            "name": "Introspection Full Metal"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708393&streamencoding=mp31", 
+            "name": "Christophe, ou les tribulations d'un illuminati sous crack"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708390&streamencoding=mp31", 
+            "name": "Proc\u00e8s d'outro (Boutros Ghali)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82611"
+}

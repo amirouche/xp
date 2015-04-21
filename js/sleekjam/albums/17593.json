@@ -1,0 +1,44 @@
+{
+    "name": "Pancake Ferret", 
+    "artist": "DOUG the Eagle", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17593&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125681&streamencoding=mp31", 
+            "name": "Operation Wendigo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125683&streamencoding=mp31", 
+            "name": "Apocalypse in 4:4"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125691&streamencoding=mp31", 
+            "name": "The Shadow Over Merthyr"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125700&streamencoding=mp31", 
+            "name": "The Musings of Jakob Pettersohn upon the time when he was once known as Johan Cross"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125707&streamencoding=mp31", 
+            "name": "My wicked life with the Hattifatteners"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125721&streamencoding=mp31", 
+            "name": "Sheep are Satanic"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125723&streamencoding=mp31", 
+            "name": "What did Daniel think he was?"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17593"
+}

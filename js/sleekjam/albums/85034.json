@@ -1,0 +1,29 @@
+{
+    "name": "The Beta-Hub II", 
+    "artist": "Eftos!rx", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85034&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727505&streamencoding=mp31", 
+            "name": "Nemesis the Warlock (PH2)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727506&streamencoding=mp31", 
+            "name": "Zoids (PH2)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727507&streamencoding=mp31", 
+            "name": "Delta (PH2)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727508&streamencoding=mp31", 
+            "name": "Sanxion (PH2)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85034"
+}

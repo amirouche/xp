@@ -1,0 +1,69 @@
+{
+    "name": "Invocations(Simple piano pieces and trhee songs (Invocaciones)", 
+    "artist": "JORGESTRADA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122517&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039853&streamencoding=mp31", 
+            "name": "Agua de luna (Watermoon) Jorge Estrada (feat Jos\u00e8 Oliva`s guitar) "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039858&streamencoding=mp31", 
+            "name": "In our hands Jorge Estrada"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039860&streamencoding=mp31", 
+            "name": "My name Jorge Estrada"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039854&streamencoding=mp31", 
+            "name": "Cada minuto que pasa (Every minute that goes) Jorge Estrada "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039857&streamencoding=mp31", 
+            "name": "Between two lines Jorge Estrada"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039855&streamencoding=mp31", 
+            "name": "En la Orilla (On the Edge) Jorge Estrada"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039859&streamencoding=mp31", 
+            "name": "Is in the sky Jorge Estrada"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039856&streamencoding=mp31", 
+            "name": "Enero (January) Jorge Estrada"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039861&streamencoding=mp31", 
+            "name": "Purificaci\u00f2n (Purification) Jorge Estrada"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039863&streamencoding=mp31", 
+            "name": "Rayos de Sol (Sumbeams) Jorge Estrada (feat Jos\u00e8 Oliva`s guitar)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039862&streamencoding=mp31", 
+            "name": "Quitando el polvo (Dusting)Jorge Estrada"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039864&streamencoding=mp31", 
+            "name": "To forgive (Perdonar) Jorge Estrada"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122517"
+}

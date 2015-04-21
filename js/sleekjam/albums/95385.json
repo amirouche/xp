@@ -1,0 +1,14 @@
+{
+    "name": "Because You Make Me Happy My Heart", 
+    "artist": "mirkoneum", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95385&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816680&streamencoding=mp31", 
+            "name": "Because you make me happy my heart"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95385"
+}

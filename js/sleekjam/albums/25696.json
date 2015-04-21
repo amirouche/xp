@@ -1,0 +1,14 @@
+{
+    "name": "Toca Paquito ", 
+    "artist": "TERAN AND CO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25696&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173844&streamencoding=mp31", 
+            "name": "ToCA paquito"
+        }
+    ], 
+    "release": "2008", 
+    "id": "25696"
+}

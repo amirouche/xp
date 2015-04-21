@@ -1,0 +1,14 @@
+{
+    "name": "No Reservations", 
+    "artist": "Farmertan", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57234&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488076&streamencoding=mp31", 
+            "name": "No Reservations"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57234"
+}

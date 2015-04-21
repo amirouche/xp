@@ -1,0 +1,64 @@
+{
+    "name": "Liederen uit waterland", 
+    "artist": "Pete Luck", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97380&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832817&streamencoding=mp31", 
+            "name": "als water"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832819&streamencoding=mp31", 
+            "name": "doe je ding"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832821&streamencoding=mp31", 
+            "name": "'t verzonken eiland"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832823&streamencoding=mp31", 
+            "name": "de ruimte"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832824&streamencoding=mp31", 
+            "name": "de oertoon"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832825&streamencoding=mp31", 
+            "name": "achterop de kavel"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832826&streamencoding=mp31", 
+            "name": "poldergevoel"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832827&streamencoding=mp31", 
+            "name": "de zaling"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832828&streamencoding=mp31", 
+            "name": "de tijd"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832829&streamencoding=mp31", 
+            "name": "t onzichtbare spoor"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832830&streamencoding=mp31", 
+            "name": "bak en stuurboord lichtjes"
+        }
+    ], 
+    "release": "2011", 
+    "id": "97380"
+}

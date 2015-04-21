@@ -1,0 +1,64 @@
+{
+    "name": "Andersrum", 
+    "artist": "Tobiatsch", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81959&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702853&streamencoding=mp31", 
+            "name": "Ich bin immer noch ich"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702857&streamencoding=mp31", 
+            "name": "Ich bin frei"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702858&streamencoding=mp31", 
+            "name": "Ich denke dein"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702837&streamencoding=mp31", 
+            "name": "Trennungslied"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702854&streamencoding=mp31", 
+            "name": "Der Tod in Dur"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702856&streamencoding=mp31", 
+            "name": "Der Tod in Moll"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702835&streamencoding=mp31", 
+            "name": "Lieber Papst"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702869&streamencoding=mp31", 
+            "name": "Hiob"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702870&streamencoding=mp31", 
+            "name": "Abschiedslied eines Teddys"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702836&streamencoding=mp31", 
+            "name": "Ihr Leben"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702838&streamencoding=mp31", 
+            "name": "In solchen Stunden"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81959"
+}

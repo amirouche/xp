@@ -1,0 +1,79 @@
+{
+    "name": "Up Close And Personal", 
+    "artist": "Fortadelis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132728&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111260&streamencoding=mp31", 
+            "name": "Empty Streets At 3AM"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111258&streamencoding=mp31", 
+            "name": "City Lights Flicker"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111265&streamencoding=mp31", 
+            "name": "Coastline Drive"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111259&streamencoding=mp31", 
+            "name": "A Simpler World"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111266&streamencoding=mp31", 
+            "name": "After Hours"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111261&streamencoding=mp31", 
+            "name": "Convergence"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111262&streamencoding=mp31", 
+            "name": "Mind Expansion"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111263&streamencoding=mp31", 
+            "name": "True Colors"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111264&streamencoding=mp31", 
+            "name": "Higher Perspective"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111267&streamencoding=mp31", 
+            "name": "Voice of Virtue"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111254&streamencoding=mp31", 
+            "name": "Funktional"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111255&streamencoding=mp31", 
+            "name": "Rush Hour"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111256&streamencoding=mp31", 
+            "name": "Manifested Chords [Fortadelis Remix]"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1111257&streamencoding=mp31", 
+            "name": "Suburban Dawn [Smooth Genestar Remix]"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132728"
+}

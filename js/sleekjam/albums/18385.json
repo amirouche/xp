@@ -1,0 +1,14 @@
+{
+    "name": "neWave Feat Electronic World", 
+    "artist": "dteix", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18385&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130307&streamencoding=mp31", 
+            "name": "dteix - neWave Feat Electronic World"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18385"
+}

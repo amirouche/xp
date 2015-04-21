@@ -1,0 +1,64 @@
+{
+    "name": "Today I Kill Tomorrow ill Die", 
+    "artist": "Dhalius", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58821&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501841&streamencoding=mp31", 
+            "name": "Brainwashed"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=502244&streamencoding=mp31", 
+            "name": "Everything is Gonna be Ok"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=502083&streamencoding=mp31", 
+            "name": "Today i Kill and Tomorrow ill Die"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501843&streamencoding=mp31", 
+            "name": "The Shoes of Mama"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=502082&streamencoding=mp31", 
+            "name": "She Used My Head"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501844&streamencoding=mp31", 
+            "name": "Bulldozer"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501842&streamencoding=mp31", 
+            "name": "One Strange moment in Life"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=502245&streamencoding=mp31", 
+            "name": "Klone"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=502081&streamencoding=mp31", 
+            "name": "Borrow"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501845&streamencoding=mp31", 
+            "name": "Origamy"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501846&streamencoding=mp31", 
+            "name": "Death Silence Overture End"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58821"
+}

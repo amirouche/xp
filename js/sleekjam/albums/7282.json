@@ -1,0 +1,64 @@
+{
+    "name": "La bo\u00eete \u00e0 images", 
+    "artist": "J-M Dauphy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7282&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79689&streamencoding=mp31", 
+            "name": "Molly"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79690&streamencoding=mp31", 
+            "name": "Photographe"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79691&streamencoding=mp31", 
+            "name": "Slow"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79692&streamencoding=mp31", 
+            "name": "Lolly Dolly"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79693&streamencoding=mp31", 
+            "name": "Si grande"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79694&streamencoding=mp31", 
+            "name": "Le livre d'image"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79695&streamencoding=mp31", 
+            "name": "La ran\u00e7on"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79696&streamencoding=mp31", 
+            "name": "Les deux clodos"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79697&streamencoding=mp31", 
+            "name": "Po\u00e8te"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79698&streamencoding=mp31", 
+            "name": "Moscou"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79699&streamencoding=mp31", 
+            "name": "La bo\u00eete \u00e0 secrets"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7282"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Clean", 
+    "artist": "O.Z.O.N.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92127&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785464&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785465&streamencoding=mp31", 
+            "name": "Spark"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785479&streamencoding=mp31", 
+            "name": "Freedom"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785491&streamencoding=mp31", 
+            "name": "Angelic"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785492&streamencoding=mp31", 
+            "name": "BT"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785493&streamencoding=mp31", 
+            "name": "Trackdown"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785494&streamencoding=mp31", 
+            "name": "Interlude"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785505&streamencoding=mp31", 
+            "name": "Abyss"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785497&streamencoding=mp31", 
+            "name": "Pressure"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785498&streamencoding=mp31", 
+            "name": "Relax"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785499&streamencoding=mp31", 
+            "name": "Cleanliness"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785500&streamencoding=mp31", 
+            "name": "Flow"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785525&streamencoding=mp31", 
+            "name": "Elation"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=785502&streamencoding=mp31", 
+            "name": "Gloss of Black Hole(Remix)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "92127"
+}

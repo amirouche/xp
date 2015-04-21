@@ -1,0 +1,74 @@
+{
+    "name": "Relax", 
+    "artist": "Sole Symphony", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18018&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127609&streamencoding=mp31", 
+            "name": "Relax"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127555&streamencoding=mp31", 
+            "name": "Graceful Exit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127610&streamencoding=mp31", 
+            "name": "Ruin the things you Love"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127586&streamencoding=mp31", 
+            "name": "Final Hour"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127568&streamencoding=mp31", 
+            "name": "Movie Life"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127562&streamencoding=mp31", 
+            "name": "Jazzalee"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127600&streamencoding=mp31", 
+            "name": "Overture"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127564&streamencoding=mp31", 
+            "name": "Lateral Thinking"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127546&streamencoding=mp31", 
+            "name": "8 hours"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127558&streamencoding=mp31", 
+            "name": "Brain hurricane"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127622&streamencoding=mp31", 
+            "name": "what a trill"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127544&streamencoding=mp31", 
+            "name": "Ahh The Memorys"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127559&streamencoding=mp31", 
+            "name": "Go Out"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18018"
+}

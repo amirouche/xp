@@ -1,0 +1,64 @@
+{
+    "name": "Ruins", 
+    "artist": "The Seventh Alchemy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56835&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481861&streamencoding=mp31", 
+            "name": "Birdy's Last Flight"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481862&streamencoding=mp31", 
+            "name": "The Mirror"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482262&streamencoding=mp31", 
+            "name": "Violet Pills"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482263&streamencoding=mp31", 
+            "name": "Don't Care Anymore"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482264&streamencoding=mp31", 
+            "name": "The Rush"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482265&streamencoding=mp31", 
+            "name": "Lipstick And Black Powder"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482266&streamencoding=mp31", 
+            "name": "Hydromel"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482267&streamencoding=mp31", 
+            "name": "Ruins"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482273&streamencoding=mp31", 
+            "name": "Fucked Up With Guitar"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482274&streamencoding=mp31", 
+            "name": "One Last Coin"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482275&streamencoding=mp31", 
+            "name": "We're All Alone"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56835"
+}

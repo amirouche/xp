@@ -1,0 +1,29 @@
+{
+    "name": "HomeMade", 
+    "artist": "Soulelec", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3307&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23943&streamencoding=mp31", 
+            "name": "aDubBeat"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24170&streamencoding=mp31", 
+            "name": "French Dub"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24171&streamencoding=mp31", 
+            "name": "Trip Dub"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24172&streamencoding=mp31", 
+            "name": "Reggae Drums"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3307"
+}

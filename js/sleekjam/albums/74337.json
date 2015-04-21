@@ -1,0 +1,54 @@
+{
+    "name": "One Day In Spring", 
+    "artist": "Dominique B", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74337&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641633&streamencoding=mp31", 
+            "name": "Black Sun"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641637&streamencoding=mp31", 
+            "name": "By The Swimming Pool"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641638&streamencoding=mp31", 
+            "name": "Krystall Eye"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641630&streamencoding=mp31", 
+            "name": "Over The Sea"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641634&streamencoding=mp31", 
+            "name": "Dawn of World"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641636&streamencoding=mp31", 
+            "name": "The Messenger"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641635&streamencoding=mp31", 
+            "name": "Lorie's Breakfast"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641631&streamencoding=mp31", 
+            "name": "Beach Blues"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641632&streamencoding=mp31", 
+            "name": "This Is The End"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74337"
+}

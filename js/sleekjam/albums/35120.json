@@ -1,0 +1,59 @@
+{
+    "name": "8-beat", 
+    "artist": "Fr\u00eamito", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35120&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241847&streamencoding=mp31", 
+            "name": "IntroX"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241789&streamencoding=mp31", 
+            "name": "ACN 8bit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241792&streamencoding=mp31", 
+            "name": "Adeus, cassette 8bit"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241798&streamencoding=mp31", 
+            "name": "AndarilhoX"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241818&streamencoding=mp31", 
+            "name": "Chuva 8bit"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241839&streamencoding=mp31", 
+            "name": "Dia dos mortos na rua m\u00e9xico 8bit"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241848&streamencoding=mp31", 
+            "name": "Nem choro nem vela 8bit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241852&streamencoding=mp31", 
+            "name": "Pe\u00e7a a Pe\u00e7a 8bit"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241855&streamencoding=mp31", 
+            "name": "Qualquer dire\u00e7\u00e3o 8bit"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241824&streamencoding=mp31", 
+            "name": "Cruz-Cr\u00e9dito 8bit"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35120"
+}

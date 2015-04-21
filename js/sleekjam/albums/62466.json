@@ -1,0 +1,24 @@
+{
+    "name": "Omnia 2009", 
+    "artist": "Peter Loved", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62466&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=535754&streamencoding=mp31", 
+            "name": "Meet yourself"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=535755&streamencoding=mp31", 
+            "name": "Don't be alone"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=535762&streamencoding=mp31", 
+            "name": "Rondo "
+        }
+    ], 
+    "release": "2010", 
+    "id": "62466"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "\u0438\u043c\u0430\u0433\u043e", 
+    "artist": "\u0411\u0430\u0431\u043a\u0438\u043d \u0414\u043e\u043c\u042a", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70764&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611500&streamencoding=mp31", 
+            "name": "imago install"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611501&streamencoding=mp31", 
+            "name": "\u0441\u0431\u0435\u0436\u0430\u0442\u044c"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611502&streamencoding=mp31", 
+            "name": "\u0432 \u043b\u0435\u0441\u0430\u0445"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611503&streamencoding=mp31", 
+            "name": "\u0447\u0443\u0436\u043e\u0439"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611504&streamencoding=mp31", 
+            "name": "\u0447\u0443\u0434\u043e"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611505&streamencoding=mp31", 
+            "name": "\u0434\u0440\u0443\u0433"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611506&streamencoding=mp31", 
+            "name": "\u043b\u043e\u0448\u0430\u0434\u044c \u043c\u0451\u0440\u0437\u043d\u0435\u0442"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611507&streamencoding=mp31", 
+            "name": "\u0447\u0435\u0440\u043d\u043e\u0435"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611508&streamencoding=mp31", 
+            "name": "\u0432\u0435\u0447\u043d\u043e\u0435 \u0441\u0438\u044f\u043d\u0438\u0435"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611509&streamencoding=mp31", 
+            "name": "\u043d\u0435\u0431\u043e \u0432\u043e\u0441\u0435\u043c\u044c"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611510&streamencoding=mp31", 
+            "name": "\u043f\u043e\u043c\u043e\u043b\u044e\u0441\u044c \u043e\u0442 \u0441\u043a\u0443\u043a\u0438"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611511&streamencoding=mp31", 
+            "name": "\u043f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u043f\u0435\u0441\u043d\u044f"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611512&streamencoding=mp31", 
+            "name": "imago uninstall"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70764"
+}

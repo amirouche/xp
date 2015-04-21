@@ -1,0 +1,69 @@
+{
+    "name": "Out of the shadows  ", 
+    "artist": "Jugendfreund", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116875&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993659&streamencoding=mp31", 
+            "name": "Green Forest"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993648&streamencoding=mp31", 
+            "name": "June Sun"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993649&streamencoding=mp31", 
+            "name": "July Rain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993650&streamencoding=mp31", 
+            "name": "Escape from the Shadows"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993651&streamencoding=mp31", 
+            "name": "Sorrow"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993652&streamencoding=mp31", 
+            "name": "Climbing the Mount"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993653&streamencoding=mp31", 
+            "name": "The November Calm"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993654&streamencoding=mp31", 
+            "name": "The December Anxiety"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993655&streamencoding=mp31", 
+            "name": "Steps in the Snow"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993656&streamencoding=mp31", 
+            "name": "Snowstorm"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993657&streamencoding=mp31", 
+            "name": "Awakening"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993658&streamencoding=mp31", 
+            "name": "Hymn of Spring"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116875"
+}

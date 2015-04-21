@@ -1,0 +1,114 @@
+{
+    "name": "Debut", 
+    "artist": "A STAGE KINDLY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35502&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244694&streamencoding=mp31", 
+            "name": "I Can Sing - Ruthie Stephens - By Paul Katz & Michael Colby - from TALES OF TINSELTOWN"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244695&streamencoding=mp31", 
+            "name": "How Do You Make Magic? - Scott Armstrong - By Jack Urbont & Michael Colby - from MRS MCTHING"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244699&streamencoding=mp31", 
+            "name": "Fluttering - Elise Bowd - by Noel Katz - from THE CHRISTMAS BRIDE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244701&streamencoding=mp31", 
+            "name": "Marry Me - Ruthie Stephens and Scott Armstrong - By Noel Katz - from THE COMPANY OF WOMEN"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244703&streamencoding=mp31", 
+            "name": "When You're In Love - Nicola Henderson - By David Reiser - from BALLET RUSSES"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244706&streamencoding=mp31", 
+            "name": "Angel Delight - Scott Armstrong - By Giles Howe and  Katy Lipson - from TURKISH DELIGHT THE OPERA"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244895&streamencoding=mp31", 
+            "name": "Upon The Table - Elise Bowd - By Michael Gordon Shapiro - from THE CHARMED LIFE"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244921&streamencoding=mp31", 
+            "name": "That Time Has Passed Now - Nicola Henderson - By Giles Howe"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244908&streamencoding=mp31", 
+            "name": "I'm Happiest At Christmas - By Noel Katz - THE CHRISTMAS BRIDE"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244720&streamencoding=mp31", 
+            "name": "Slasher Movie - Scott Armstrong - By Paul Katz & Michael Colby - from SLAY IT WITH MUSIC"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244721&streamencoding=mp31", 
+            "name": "You and I - Nicola Henderson - By Graham Brown & Geoff Meads - from JOINED AT THE HEART"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244724&streamencoding=mp31", 
+            "name": "It's Not How I Thought It Would Be - Elise Bowd - By David Reider - from ALL ABOUT LOVE"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244726&streamencoding=mp31", 
+            "name": "The Clock Slows Down - Ruthie Stephens - By Tony Osborne and Jonathan Posner - from A FINE TIME FOR WINE"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244734&streamencoding=mp31", 
+            "name": "A Revelation - Scott Armstrong - By David Reiser - from BALLET RUSSES"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244736&streamencoding=mp31", 
+            "name": "Every Rose (Has A Thorn In Your Side) - written and performed by Giles Howe with backing vocals by Ruthie Stephens"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244739&streamencoding=mp31", 
+            "name": "Am I Self Indulgent? - Scott Armstrong and Elise Bowd - By Giles Howe"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244743&streamencoding=mp31", 
+            "name": "Crazy - Katy Lipson and Giles Howe - By Jack Urbont and Michael Colby - from MRS MCTHING"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244753&streamencoding=mp31", 
+            "name": "Jeremiad - Written and performed by Katy Lipson - from TURKISH DELIGHT THE OPERA"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244758&streamencoding=mp31", 
+            "name": "Now That He Has Gone - Ruthie Stephens - By David Reiser - from ALL ABOUT LOVE"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244759&streamencoding=mp31", 
+            "name": "Maybe He Wouldn't Have Left Me - Elise Bowd and Nicola Henderson - By Noel Katz - from THE COMPANY OF WOMEN"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244765&streamencoding=mp31", 
+            "name": "Stars In My Eyes - Ensemble - by Paul Katz and Michael Colby - from TALES OF TINSELTOWN"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35502"
+}

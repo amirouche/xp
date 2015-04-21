@@ -1,0 +1,39 @@
+{
+    "name": "La Boulette Russe : Pas cher !", 
+    "artist": "La boulette russe", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21316&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148672&streamencoding=mp31", 
+            "name": "L\u00e9o"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148674&streamencoding=mp31", 
+            "name": "Les M\u00e9chants"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148675&streamencoding=mp31", 
+            "name": "California Dream"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148679&streamencoding=mp31", 
+            "name": "Les Crapauds"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148681&streamencoding=mp31", 
+            "name": "Karabane Ska"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148683&streamencoding=mp31", 
+            "name": "Vivre en Paix"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21316"
+}

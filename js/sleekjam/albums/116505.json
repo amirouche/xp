@@ -1,0 +1,59 @@
+{
+    "name": "Bitte legen Sie nach!", 
+    "artist": "funkbuffet", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116505&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990303&streamencoding=mp31", 
+            "name": "Fahrstuhldiplomatie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990304&streamencoding=mp31", 
+            "name": "Cumulonismus"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990347&streamencoding=mp31", 
+            "name": "Allgemeiner Blick"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990354&streamencoding=mp31", 
+            "name": "Friss-B"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990355&streamencoding=mp31", 
+            "name": "Seitenstrahlaggrobatik"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990368&streamencoding=mp31", 
+            "name": "Sesselphantasien"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990369&streamencoding=mp31", 
+            "name": "D.I.P."
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990370&streamencoding=mp31", 
+            "name": "Am\u00f6boid"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990371&streamencoding=mp31", 
+            "name": "YangKehr"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990373&streamencoding=mp31", 
+            "name": "Drei Runden sp\u00e4ter"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116505"
+}

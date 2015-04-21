@@ -1,0 +1,44 @@
+{
+    "name": "Halloween (Special)", 
+    "artist": "Les Connards Boiteux", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=10134&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97873&streamencoding=mp31", 
+            "name": "We Are Back"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97842&streamencoding=mp31", 
+            "name": "Goth=Existentialisme (Intro 2)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97846&streamencoding=mp31", 
+            "name": "Le Con Formiste (Feat Slim666 From Scoldt)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97847&streamencoding=mp31", 
+            "name": "Homage Aux Gothiks Anarchistes De Satan"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97841&streamencoding=mp31", 
+            "name": "Poemes Gothiques"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97874&streamencoding=mp31", 
+            "name": "Sur La Route De Dijon (Punished Bondage Mix)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=97844&streamencoding=mp31", 
+            "name": "Guerilla Radio Part2"
+        }
+    ], 
+    "release": "2007", 
+    "id": "10134"
+}

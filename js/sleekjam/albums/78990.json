@@ -1,0 +1,14 @@
+{
+    "name": "Chemistry", 
+    "artist": "Anju Genius", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78990&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679778&streamencoding=mp31", 
+            "name": "ANJU GENIUS"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78990"
+}

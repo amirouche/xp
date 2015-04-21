@@ -1,0 +1,54 @@
+{
+    "name": "Wasting Bandwidth", 
+    "artist": "Smaxman", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84048&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720333&streamencoding=mp31", 
+            "name": "The Static Experiment"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720335&streamencoding=mp31", 
+            "name": "Adjust The Radio"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720338&streamencoding=mp31", 
+            "name": "Crawl"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720334&streamencoding=mp31", 
+            "name": "Anxiety"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720336&streamencoding=mp31", 
+            "name": "Rhythmic Damage"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720340&streamencoding=mp31", 
+            "name": "Orchid"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720337&streamencoding=mp31", 
+            "name": "Soft Cricuit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720339&streamencoding=mp31", 
+            "name": "Easy/Hollow"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720341&streamencoding=mp31", 
+            "name": "Slippery"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84048"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Fantasy Tracks", 
+    "artist": "Koke N\u00fa\u00f1ez G\u00f3mez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109523&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926355&streamencoding=mp31", 
+            "name": "The Wizard"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926358&streamencoding=mp31", 
+            "name": "An Ancient God"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926363&streamencoding=mp31", 
+            "name": "Princess"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=926364&streamencoding=mp31", 
+            "name": "Druids Battle"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109523"
+}

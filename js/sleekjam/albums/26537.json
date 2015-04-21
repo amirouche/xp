@@ -1,0 +1,44 @@
+{
+    "name": "Bouboule", 
+    "artist": "Nem", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26537&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178351&streamencoding=mp31", 
+            "name": "la plus jolie fille au monde"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178352&streamencoding=mp31", 
+            "name": "Casque sans fil"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178354&streamencoding=mp31", 
+            "name": "Le travail c'est un truc pour les chevaux"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178355&streamencoding=mp31", 
+            "name": "Je suis pour le Sida"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178356&streamencoding=mp31", 
+            "name": "Sos Racisme"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178357&streamencoding=mp31", 
+            "name": "Foetus"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178358&streamencoding=mp31", 
+            "name": "Le bras cass\u00e9"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26537"
+}

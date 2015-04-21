@@ -1,0 +1,54 @@
+{
+    "name": "PLURIEL", 
+    "artist": "Blue Millenium", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40483&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=294015&streamencoding=mp31", 
+            "name": "Blue Millenium"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=294014&streamencoding=mp31", 
+            "name": "Vita Mea"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=294020&streamencoding=mp31", 
+            "name": "Ola k\u00e9tal "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=294013&streamencoding=mp31", 
+            "name": "Houston"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=294012&streamencoding=mp31", 
+            "name": "Adieu"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=294016&streamencoding=mp31", 
+            "name": "Free me"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=294019&streamencoding=mp31", 
+            "name": "Changer sa vie "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=294017&streamencoding=mp31", 
+            "name": "La flamme des souvenirs"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=294018&streamencoding=mp31", 
+            "name": "Little Big Horn"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40483"
+}

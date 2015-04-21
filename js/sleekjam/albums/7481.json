@@ -1,0 +1,79 @@
+{
+    "name": "electro sound", 
+    "artist": "mr. jeey x", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7481&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81552&streamencoding=mp31", 
+            "name": "suffering"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81553&streamencoding=mp31", 
+            "name": "the living"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81554&streamencoding=mp31", 
+            "name": "distraught"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81555&streamencoding=mp31", 
+            "name": "intr to go mad"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81556&streamencoding=mp31", 
+            "name": "cry like a woman"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81557&streamencoding=mp31", 
+            "name": "death penalty"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81558&streamencoding=mp31", 
+            "name": "killer mercilles"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81559&streamencoding=mp31", 
+            "name": "cruelty"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81560&streamencoding=mp31", 
+            "name": "death penalty 2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81561&streamencoding=mp31", 
+            "name": "with the passing of time"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81562&streamencoding=mp31", 
+            "name": "comunication"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81563&streamencoding=mp31", 
+            "name": "beyond the fears"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81564&streamencoding=mp31", 
+            "name": "alien funk"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81565&streamencoding=mp31", 
+            "name": "lighing bolt"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7481"
+}

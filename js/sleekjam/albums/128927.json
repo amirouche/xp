@@ -1,0 +1,39 @@
+{
+    "name": "SoulJah Experience", 
+    "artist": "Dub Liners", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128927&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082218&streamencoding=mp31", 
+            "name": "DubLiners - Born In Babylon"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082221&streamencoding=mp31", 
+            "name": "DubLiners - Jah No Dead"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082222&streamencoding=mp31", 
+            "name": "DubLiners - I-Man Message [skit]"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082217&streamencoding=mp31", 
+            "name": "DubLiners - Resistance"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082220&streamencoding=mp31", 
+            "name": "DubLiners - Civil Riot"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082219&streamencoding=mp31", 
+            "name": "DubLiners - I A Dub Souljah"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128927"
+}

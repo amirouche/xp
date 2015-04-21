@@ -1,0 +1,14 @@
+{
+    "name": "Music And The Movies 2", 
+    "artist": "GingerTom", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120715&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026811&streamencoding=mp31", 
+            "name": "Nothing Ever Happens Around Here"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120715"
+}

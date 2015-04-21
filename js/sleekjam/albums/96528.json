@@ -1,0 +1,44 @@
+{
+    "name": "Summer 2011 EP", 
+    "artist": "Industrial Kaapitalizm", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96528&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825624&streamencoding=mp31", 
+            "name": "Haunting Spirits in a Forest Mist"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825625&streamencoding=mp31", 
+            "name": "Job 41"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825629&streamencoding=mp31", 
+            "name": "Slowing Down Is a Death Sentence"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825627&streamencoding=mp31", 
+            "name": "We Couldn't Make Money Off of This, But We Wouldn't If We Could"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825628&streamencoding=mp31", 
+            "name": "Going Broke Is Now on Sale"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825623&streamencoding=mp31", 
+            "name": "The Bells of Your Conscience Rebelling Against Your Own Mind"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825626&streamencoding=mp31", 
+            "name": "The Calm Before the Storm"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96528"
+}

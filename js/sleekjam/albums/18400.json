@@ -1,0 +1,24 @@
+{
+    "name": "From the Abyss", 
+    "artist": "Fallschirmj\u00e4ger", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18400&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130523&streamencoding=mp31", 
+            "name": "From the Abyss"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130544&streamencoding=mp31", 
+            "name": "Drowned in Dirt"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130548&streamencoding=mp31", 
+            "name": "Deathcrush (Drone Doom Assault)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18400"
+}

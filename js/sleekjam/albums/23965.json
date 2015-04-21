@@ -1,0 +1,79 @@
+{
+    "name": "Narrkose", 
+    "artist": "Gasher G.14", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23965&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163340&streamencoding=mp31", 
+            "name": "Vorstellung"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163356&streamencoding=mp31", 
+            "name": "Je suis la vie"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163363&streamencoding=mp31", 
+            "name": "Geschenkt"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163364&streamencoding=mp31", 
+            "name": "Vulkanischer Reigen"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163366&streamencoding=mp31", 
+            "name": "Zufrieden"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163392&streamencoding=mp31", 
+            "name": "Unterleben"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163396&streamencoding=mp31", 
+            "name": "Schein und Staub"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163427&streamencoding=mp31", 
+            "name": "Das Schwarze Schaf"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163433&streamencoding=mp31", 
+            "name": "Te hominem esse memento - Teil 1"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163499&streamencoding=mp31", 
+            "name": "Te hominem esse memento - Teil 2"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163500&streamencoding=mp31", 
+            "name": "Jenseits der Illusionen"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163502&streamencoding=mp31", 
+            "name": "Die Welt ist schlecht"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163528&streamencoding=mp31", 
+            "name": "Der Ehre Dornenpfad"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163538&streamencoding=mp31", 
+            "name": "Der alte Mann"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23965"
+}

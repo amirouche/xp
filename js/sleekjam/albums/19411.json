@@ -1,0 +1,44 @@
+{
+    "name": "03 03 L'installation Part D", 
+    "artist": "Grego Mondo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19411&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136040&streamencoding=mp31", 
+            "name": "A Faite vos Jeux"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136041&streamencoding=mp31", 
+            "name": "B Encore un petit Coup ?"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136044&streamencoding=mp31", 
+            "name": "C La Machine Ronronne"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136055&streamencoding=mp31", 
+            "name": "D Theremin au ciseaux"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136065&streamencoding=mp31", 
+            "name": "E L'oiseau se d\u00e9bat"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136074&streamencoding=mp31", 
+            "name": "F Le Briquet"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136123&streamencoding=mp31", 
+            "name": "G La Sortie en boite"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19411"
+}

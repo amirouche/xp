@@ -1,0 +1,14 @@
+{
+    "name": "Never compromise - Single", 
+    "artist": "Comfort Farmers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90445&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771554&streamencoding=mp31", 
+            "name": "Never compromise - Demo"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90445"
+}

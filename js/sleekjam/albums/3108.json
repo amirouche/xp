@@ -1,0 +1,69 @@
+{
+    "name": "Des Marques d'Amour", 
+    "artist": "AMarie.C", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3108&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=22308&streamencoding=mp31", 
+            "name": "La Qu\u00eate du Charmant prince"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=22309&streamencoding=mp31", 
+            "name": "N\u00e9opr\u00e8ne"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=22310&streamencoding=mp31", 
+            "name": "Transports"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=22311&streamencoding=mp31", 
+            "name": "C'est beaucoup mieux"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=22312&streamencoding=mp31", 
+            "name": "L'Amoureuse"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=22313&streamencoding=mp31", 
+            "name": "Et puis le temps viendra"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=22314&streamencoding=mp31", 
+            "name": "O\u00f9 sont les hommes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=22315&streamencoding=mp31", 
+            "name": "Statu Quo"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=22316&streamencoding=mp31", 
+            "name": "Aspiration"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=22317&streamencoding=mp31", 
+            "name": "Epanchements"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=22318&streamencoding=mp31", 
+            "name": "Volupt\u00e9"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=22319&streamencoding=mp31", 
+            "name": "M\u00e8re Lune"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3108"
+}

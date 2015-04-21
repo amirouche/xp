@@ -1,0 +1,84 @@
+{
+    "name": "GEISTESgift", 
+    "artist": "Zyklus :N:", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58772&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501892&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501885&streamencoding=mp31", 
+            "name": "Childhunter"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501888&streamencoding=mp31", 
+            "name": "Seele_brennt"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501882&streamencoding=mp31", 
+            "name": "Hopeless"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501893&streamencoding=mp31", 
+            "name": "Schmerz"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501887&streamencoding=mp31", 
+            "name": "Dunkelheit"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501883&streamencoding=mp31", 
+            "name": "Positive"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501886&streamencoding=mp31", 
+            "name": "Storyteller"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501889&streamencoding=mp31", 
+            "name": "Fallen_Angel"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501881&streamencoding=mp31", 
+            "name": "Was_du_traeumst"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501891&streamencoding=mp31", 
+            "name": "Seele_brennt_SISadness_Remix"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501879&streamencoding=mp31", 
+            "name": "Childhunter_blutzukker_Remix"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501880&streamencoding=mp31", 
+            "name": "Fallen_Angel_gefaehrte_Remix"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501884&streamencoding=mp31", 
+            "name": "Und_Eins_Live"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501890&streamencoding=mp31", 
+            "name": "Childhunter_Club_Mix"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58772"
+}

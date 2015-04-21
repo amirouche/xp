@@ -1,0 +1,19 @@
+{
+    "name": "Karylion", 
+    "artist": "GOTARD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54361&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=454373&streamencoding=mp31", 
+            "name": "Tuba Dei "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=454419&streamencoding=mp31", 
+            "name": "Thorn"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54361"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Galaxy", 
+    "artist": "Just' in Space", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5172&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42761&streamencoding=mp31", 
+            "name": "Remember"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42762&streamencoding=mp31", 
+            "name": "Transit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42763&streamencoding=mp31", 
+            "name": "Rave"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42764&streamencoding=mp31", 
+            "name": "On the Road"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42765&streamencoding=mp31", 
+            "name": "Galaxy"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42766&streamencoding=mp31", 
+            "name": "Discovery"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42767&streamencoding=mp31", 
+            "name": "Sparkling"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42768&streamencoding=mp31", 
+            "name": "Zen"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5172"
+}

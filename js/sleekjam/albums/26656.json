@@ -1,0 +1,64 @@
+{
+    "name": "INDIRECTO", 
+    "artist": "Schizzofunk", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26656&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179249&streamencoding=mp31", 
+            "name": "Danza Pelvica Asesina"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179250&streamencoding=mp31", 
+            "name": "Dont worry be funky"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179251&streamencoding=mp31", 
+            "name": "El guateque de Peter Sellers"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179252&streamencoding=mp31", 
+            "name": "El ataque de la cobra"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179253&streamencoding=mp31", 
+            "name": "El tiempo era su obsesion"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179254&streamencoding=mp31", 
+            "name": "Zorokotroko"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179255&streamencoding=mp31", 
+            "name": "El polvete de Starsky"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179256&streamencoding=mp31", 
+            "name": "El cigarrito de despues"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179257&streamencoding=mp31", 
+            "name": "Schizocosa Malitiosa"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179258&streamencoding=mp31", 
+            "name": "Los Lunes me vengo abajo"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179259&streamencoding=mp31", 
+            "name": "Rapido pero lento"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26656"
+}

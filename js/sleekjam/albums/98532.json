@@ -1,0 +1,59 @@
+{
+    "name": "Lugares Magicos", 
+    "artist": "ololeli", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98532&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843091&streamencoding=mp31", 
+            "name": "Perfidia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843094&streamencoding=mp31", 
+            "name": "Agua de beber"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843089&streamencoding=mp31", 
+            "name": "Porque"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843095&streamencoding=mp31", 
+            "name": "Campesino"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843090&streamencoding=mp31", 
+            "name": "Polvo en el viento"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843225&streamencoding=mp31", 
+            "name": "Lugares m\u00e1gicos"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843092&streamencoding=mp31", 
+            "name": "Raquel"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843227&streamencoding=mp31", 
+            "name": "Free jam"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843093&streamencoding=mp31", 
+            "name": "Azul"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843230&streamencoding=mp31", 
+            "name": "Bonus track"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98532"
+}

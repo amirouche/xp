@@ -1,0 +1,134 @@
+{
+    "name": "The Magical Hippopotamus Cave", 
+    "artist": "The Magnetic Button", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83809&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718463&streamencoding=mp31", 
+            "name": "The Magical Hippopotamus Cave"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718444&streamencoding=mp31", 
+            "name": "The Magnetic Symphony"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718451&streamencoding=mp31", 
+            "name": "We Are on the Way"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718459&streamencoding=mp31", 
+            "name": "2.0"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718464&streamencoding=mp31", 
+            "name": "LSD Trip"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718448&streamencoding=mp31", 
+            "name": "It's Just Kyle"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718455&streamencoding=mp31", 
+            "name": "Once Upon a Time"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718462&streamencoding=mp31", 
+            "name": "Jeg Ka' Li' Pop"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718443&streamencoding=mp31", 
+            "name": "Rikke (Re-Recorded Version)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718453&streamencoding=mp31", 
+            "name": "I'm Evil"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718450&streamencoding=mp31", 
+            "name": "George"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718460&streamencoding=mp31", 
+            "name": "Throw It All Away"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718441&streamencoding=mp31", 
+            "name": "\u00c5bner \u00d8jnene (Den N\u00f8gne Sandhed)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718447&streamencoding=mp31", 
+            "name": "Manden fra Australien"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718457&streamencoding=mp31", 
+            "name": "Klamme Ejner"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718454&streamencoding=mp31", 
+            "name": "Tam Kat Blues"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718449&streamencoding=mp31", 
+            "name": "Yellow Coloured Pipe"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718456&streamencoding=mp31", 
+            "name": "Sofie (Re-Recorded Version)"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718458&streamencoding=mp31", 
+            "name": "On the Run"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718465&streamencoding=mp31", 
+            "name": "Private Jim"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718461&streamencoding=mp31", 
+            "name": "My Good Friend Law"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718442&streamencoding=mp31", 
+            "name": "T.I.N.A.S."
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718452&streamencoding=mp31", 
+            "name": "Coffee Club"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718445&streamencoding=mp31", 
+            "name": "A Song for Raven"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718446&streamencoding=mp31", 
+            "name": "Super Svend (Re-Recorded Version)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83809"
+}

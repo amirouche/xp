@@ -1,0 +1,79 @@
+{
+    "name": "Campain Sound Vol 1", 
+    "artist": "Tino Panama", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53608&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444975&streamencoding=mp31", 
+            "name": "Panama Day feat Laurie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444962&streamencoding=mp31", 
+            "name": "Faraway feat Unk Ray, Phreek, Desmond"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444963&streamencoding=mp31", 
+            "name": "Cocaine 09"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444964&streamencoding=mp31", 
+            "name": "Crazy"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444965&streamencoding=mp31", 
+            "name": "Gangsta 09 Acc feat Norell and Laurie"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444969&streamencoding=mp31", 
+            "name": "Invasion"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444966&streamencoding=mp31", 
+            "name": "Gangsta 09 Sheff Mix"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444972&streamencoding=mp31", 
+            "name": "Marque feat Jada, Unk Ray, Sheff"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444973&streamencoding=mp31", 
+            "name": "Outro"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444976&streamencoding=mp31", 
+            "name": "Peace feat Mahdi Allah"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444978&streamencoding=mp31", 
+            "name": "Stash That"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444979&streamencoding=mp31", 
+            "name": "Sunglasses feat Colito"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444980&streamencoding=mp31", 
+            "name": "The Most Interesting Man in the World"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444981&streamencoding=mp31", 
+            "name": "Touch feat TT, 7, Desmond"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53608"
+}

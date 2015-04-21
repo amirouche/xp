@@ -1,0 +1,24 @@
+{
+    "name": "Schmaeh Ep", 
+    "artist": "Denk-mal", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110561&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941141&streamencoding=mp31", 
+            "name": "schmaeh"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941142&streamencoding=mp31", 
+            "name": "lausig"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941143&streamencoding=mp31", 
+            "name": "NDW"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110561"
+}

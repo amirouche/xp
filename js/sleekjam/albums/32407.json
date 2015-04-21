@@ -1,0 +1,34 @@
+{
+    "name": "Ghosts In The Flophouse", 
+    "artist": "Luke Tan", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32407&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219481&streamencoding=mp31", 
+            "name": "Warning Signs"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219482&streamencoding=mp31", 
+            "name": "Ghosts In The Flophouse"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219483&streamencoding=mp31", 
+            "name": "Mother Less Child"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219484&streamencoding=mp31", 
+            "name": "The Ghost Of Uncle Joad"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219485&streamencoding=mp31", 
+            "name": "Old New Love"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32407"
+}

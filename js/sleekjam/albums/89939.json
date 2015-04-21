@@ -1,0 +1,44 @@
+{
+    "name": "Ignition Forest Weasels", 
+    "artist": "SLiver0ne", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89939&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767526&streamencoding=mp31", 
+            "name": "Expansionist Theory Part I"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767527&streamencoding=mp31", 
+            "name": "Gratings of Artificial Periodic Structure"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767528&streamencoding=mp31", 
+            "name": "Integral Defraction"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767529&streamencoding=mp31", 
+            "name": "Flexible Stretched String of Linear Density"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767568&streamencoding=mp31", 
+            "name": "Transverse Longitudinal Freedom"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767569&streamencoding=mp31", 
+            "name": "Expansionist Theory Part II"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767759&streamencoding=mp31", 
+            "name": "Dyadic F"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89939"
+}

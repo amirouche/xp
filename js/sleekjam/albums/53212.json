@@ -1,0 +1,24 @@
+{
+    "name": "Space.Craft.Ers.", 
+    "artist": "Spacecrafters", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53212&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440520&streamencoding=mp31", 
+            "name": "Space"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440519&streamencoding=mp31", 
+            "name": "Craft"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440518&streamencoding=mp31", 
+            "name": "Ers"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53212"
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Eating Shit", 
+    "artist": "Eating Shit", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64257&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552035&streamencoding=mp31", 
+            "name": "Punk 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552029&streamencoding=mp31", 
+            "name": "Punk 2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552040&streamencoding=mp31", 
+            "name": "Bethl\u00e9em"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552036&streamencoding=mp31", 
+            "name": "N\u00b02"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552042&streamencoding=mp31", 
+            "name": "Machine fucker"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552038&streamencoding=mp31", 
+            "name": "Are you?"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552039&streamencoding=mp31", 
+            "name": "Cowboy"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552033&streamencoding=mp31", 
+            "name": "A la tienne"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552034&streamencoding=mp31", 
+            "name": "Strapping"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552043&streamencoding=mp31", 
+            "name": "Minus"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552030&streamencoding=mp31", 
+            "name": "Petite"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552041&streamencoding=mp31", 
+            "name": "First Shit"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552037&streamencoding=mp31", 
+            "name": "Eating Shit"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552032&streamencoding=mp31", 
+            "name": "Pouet - Pouet (bonus)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=552031&streamencoding=mp31", 
+            "name": "Love song (bonus) + First shit"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64257"
+}

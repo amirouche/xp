@@ -1,0 +1,49 @@
+{
+    "name": "Chrouk Achark", 
+    "artist": "Numydia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22369&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155604&streamencoding=mp31", 
+            "name": "Numydia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155641&streamencoding=mp31", 
+            "name": "Kannadi"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155643&streamencoding=mp31", 
+            "name": "Had errih"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155817&streamencoding=mp31", 
+            "name": "Chrouk Achark"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155831&streamencoding=mp31", 
+            "name": "Mchate Lebaid"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155845&streamencoding=mp31", 
+            "name": "Chamaa alkadar"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155859&streamencoding=mp31", 
+            "name": "Tmannite"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155862&streamencoding=mp31", 
+            "name": "Elborj"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22369"
+}

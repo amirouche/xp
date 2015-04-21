@@ -1,0 +1,19 @@
+{
+    "name": "Al Tio Modes", 
+    "artist": "El Perez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38120&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=268127&streamencoding=mp31", 
+            "name": "Al Tio Modes"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=268125&streamencoding=mp31", 
+            "name": "Monturque"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38120"
+}

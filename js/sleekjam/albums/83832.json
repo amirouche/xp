@@ -1,0 +1,74 @@
+{
+    "name": "The Dummy Family", 
+    "artist": "The Kiss That Took A Trip", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83832&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718156&streamencoding=mp31", 
+            "name": "The condition of greed [no rant mix]"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718158&streamencoding=mp31", 
+            "name": "Wounded naked woman"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718521&streamencoding=mp31", 
+            "name": "House of the scantily clad"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718526&streamencoding=mp31", 
+            "name": "Pillars of creation"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718528&streamencoding=mp31", 
+            "name": "Son of fireworks"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718532&streamencoding=mp31", 
+            "name": "La dee da (...we sing as they crush us)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718548&streamencoding=mp31", 
+            "name": "The chatter"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718559&streamencoding=mp31", 
+            "name": "The Geneve fires"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718593&streamencoding=mp31", 
+            "name": "Birth and death of Jonah Two"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718640&streamencoding=mp31", 
+            "name": "White cells and other pains"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718652&streamencoding=mp31", 
+            "name": "This place is dead"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718654&streamencoding=mp31", 
+            "name": "Too little too late"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718667&streamencoding=mp31", 
+            "name": "Burning chariot down a hill"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83832"
+}

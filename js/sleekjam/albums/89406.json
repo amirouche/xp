@@ -1,0 +1,49 @@
+{
+    "name": "Chaos Theory", 
+    "artist": "Andrey Avkhimovich", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89406&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763657&streamencoding=mp31", 
+            "name": "Begin"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763658&streamencoding=mp31", 
+            "name": "Time Paradox"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763659&streamencoding=mp31", 
+            "name": "Tunnel"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763660&streamencoding=mp31", 
+            "name": "In My Head"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763661&streamencoding=mp31", 
+            "name": "Neuro"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763662&streamencoding=mp31", 
+            "name": "Signal"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763663&streamencoding=mp31", 
+            "name": "Core"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763664&streamencoding=mp31", 
+            "name": "End"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89406"
+}

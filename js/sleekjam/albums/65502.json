@@ -1,0 +1,19 @@
+{
+    "name": "Hab\u00eda una vez... Nostalgias", 
+    "artist": "Obdulio Macagno (Lulo)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65502&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564250&streamencoding=mp31", 
+            "name": "Amaneces - Obdulio Macagno (Lulo)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=564375&streamencoding=mp31", 
+            "name": "Peque\u00f1a mujer - Fernando Stocco (Voz Lulo)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65502"
+}

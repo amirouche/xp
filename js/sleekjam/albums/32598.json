@@ -1,0 +1,24 @@
+{
+    "name": "LadyRo", 
+    "artist": "LadyRo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32598&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221255&streamencoding=mp31", 
+            "name": "lovin' thing"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221256&streamencoding=mp31", 
+            "name": "never leave feat Phraze"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221257&streamencoding=mp31", 
+            "name": "Big Spender(cover)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32598"
+}

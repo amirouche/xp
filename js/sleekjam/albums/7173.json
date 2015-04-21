@@ -1,0 +1,79 @@
+{
+    "name": "Bazar Singulier (2007)", 
+    "artist": "The Octave Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7173&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78776&streamencoding=mp31", 
+            "name": "Guardians of Time"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78777&streamencoding=mp31", 
+            "name": "Boring Girl"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78778&streamencoding=mp31", 
+            "name": "Runaway"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78779&streamencoding=mp31", 
+            "name": "Awakening Kiss"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78780&streamencoding=mp31", 
+            "name": "Gabysex"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78781&streamencoding=mp31", 
+            "name": "On My Tree"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78782&streamencoding=mp31", 
+            "name": "Falling Day"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78783&streamencoding=mp31", 
+            "name": "Far West Country"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78784&streamencoding=mp31", 
+            "name": "Inside Insanity"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78785&streamencoding=mp31", 
+            "name": "Runaway (reprise)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78786&streamencoding=mp31", 
+            "name": "Lost Moon"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78787&streamencoding=mp31", 
+            "name": "Nightmares & Dreams"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78788&streamencoding=mp31", 
+            "name": "Unlucky Boy"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78789&streamencoding=mp31", 
+            "name": "The Departure"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7173"
+}

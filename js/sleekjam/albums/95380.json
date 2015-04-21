@@ -1,0 +1,69 @@
+{
+    "name": "Welcome to the Bank", 
+    "artist": "Mr Crispy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95380&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816633&streamencoding=mp31", 
+            "name": "The Ring of Steel"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816624&streamencoding=mp31", 
+            "name": "Greedy Eadie"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816631&streamencoding=mp31", 
+            "name": "Rocky"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816626&streamencoding=mp31", 
+            "name": "Glass House"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816632&streamencoding=mp31", 
+            "name": "Funky Monkey"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816627&streamencoding=mp31", 
+            "name": "Speckled Hen"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816634&streamencoding=mp31", 
+            "name": "Hickory Dickory"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816629&streamencoding=mp31", 
+            "name": "Soggy Ground"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816635&streamencoding=mp31", 
+            "name": "RIP Lee"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816630&streamencoding=mp31", 
+            "name": "Harry's Diner"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816628&streamencoding=mp31", 
+            "name": "Simply Palmero"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=816625&streamencoding=mp31", 
+            "name": "Wind"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95380"
+}

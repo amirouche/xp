@@ -1,0 +1,59 @@
+{
+    "name": "10 Tone", 
+    "artist": "Ki Sap", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49079&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389220&streamencoding=mp31", 
+            "name": "10 Tone"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389226&streamencoding=mp31", 
+            "name": "Where you go"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389218&streamencoding=mp31", 
+            "name": "Respeto"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389335&streamencoding=mp31", 
+            "name": "Ni\u00f1@s soldados"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389290&streamencoding=mp31", 
+            "name": "Stop Represi\u00f3n (parte 1)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389224&streamencoding=mp31", 
+            "name": "La dolce vita"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389225&streamencoding=mp31", 
+            "name": "Hazme caso"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389291&streamencoding=mp31", 
+            "name": "Muerte en el paraiso"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389217&streamencoding=mp31", 
+            "name": "Una nit a Kingston"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389221&streamencoding=mp31", 
+            "name": "Rub a Dub soldiers"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49079"
+}

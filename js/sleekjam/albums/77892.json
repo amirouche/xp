@@ -1,0 +1,29 @@
+{
+    "name": "Crowd In The Rain", 
+    "artist": "C.S.W Studio", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77892&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671546&streamencoding=mp31", 
+            "name": "Entering The Crowd"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671547&streamencoding=mp31", 
+            "name": "The Crowd part1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671545&streamencoding=mp31", 
+            "name": "The Crowd part2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671548&streamencoding=mp31", 
+            "name": "The Night After"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77892"
+}

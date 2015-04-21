@@ -1,0 +1,59 @@
+{
+    "name": "Bad Attitude", 
+    "artist": "Phil Harmonic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95298&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=815974&streamencoding=mp31", 
+            "name": "Bad Attitude"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=815976&streamencoding=mp31", 
+            "name": "Contact"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=815979&streamencoding=mp31", 
+            "name": "Numbers"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=815972&streamencoding=mp31", 
+            "name": "Dangerous Love"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=815981&streamencoding=mp31", 
+            "name": "The Pleasure and the Pain"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=815971&streamencoding=mp31", 
+            "name": "Companion"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=815975&streamencoding=mp31", 
+            "name": "Sometimes good guys don't wear white"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=815973&streamencoding=mp31", 
+            "name": "It's not Enough"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=815977&streamencoding=mp31", 
+            "name": "Gotta Gettaway"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=815978&streamencoding=mp31", 
+            "name": "Love Lights"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95298"
+}

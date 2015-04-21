@@ -1,0 +1,59 @@
+{
+    "name": "The Only Reason I'm Here Is That The Creator Got Me Here Against My Will", 
+    "artist": "Frrrok", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129606&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087200&streamencoding=mp31", 
+            "name": "Frozen Gugelhupf"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087201&streamencoding=mp31", 
+            "name": "Dirty Water Dream"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087202&streamencoding=mp31", 
+            "name": "Happy Birthday Motherfucker"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087203&streamencoding=mp31", 
+            "name": "Not For You"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087204&streamencoding=mp31", 
+            "name": "The Spinster"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087205&streamencoding=mp31", 
+            "name": "Domino"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087206&streamencoding=mp31", 
+            "name": "Monsieur Katzinger"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087207&streamencoding=mp31", 
+            "name": "Halux"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087208&streamencoding=mp31", 
+            "name": "Fuck The Suck"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087209&streamencoding=mp31", 
+            "name": "Lipstick Eater"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129606"
+}

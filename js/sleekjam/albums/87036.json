@@ -1,0 +1,29 @@
+{
+    "name": "Toylet Alyens", 
+    "artist": "somnyfera", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87036&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=744665&streamencoding=mp31", 
+            "name": "Somnyfera - 01 Benci Rasa Stroberi!!xx"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=744668&streamencoding=mp31", 
+            "name": "Somnyfera - 02 Mekardanlaiu!!xx"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=744670&streamencoding=mp31", 
+            "name": "Somnyfera - 03 Hydupsury!!xx"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=744671&streamencoding=mp31", 
+            "name": "Somnyfera - 04 Ajournei27thspace!!xx"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87036"
+}

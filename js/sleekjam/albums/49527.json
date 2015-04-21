@@ -1,0 +1,29 @@
+{
+    "name": "reggae and unity", 
+    "artist": "Jahmac", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49527&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=394811&streamencoding=mp31", 
+            "name": "Reggae&Unity"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=394812&streamencoding=mp31", 
+            "name": "Man fe Move"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=394813&streamencoding=mp31", 
+            "name": "Girl you mistaking"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=394814&streamencoding=mp31", 
+            "name": "Remix Reggae&Unity"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49527"
+}

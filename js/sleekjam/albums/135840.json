@@ -1,0 +1,14 @@
+{
+    "name": "The only tragedy (extended)", 
+    "artist": "D27m", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135840&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132661&streamencoding=mp31", 
+            "name": "the only tragedy (extended version)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135840"
+}

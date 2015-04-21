@@ -1,0 +1,24 @@
+{
+    "name": "Stand In Your Way", 
+    "artist": "Nelson Jenstad", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84118&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721005&streamencoding=mp31", 
+            "name": "Stand In Your Way"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721006&streamencoding=mp31", 
+            "name": "Tight Little Pig"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721007&streamencoding=mp31", 
+            "name": "Larry the Star Fish"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84118"
+}

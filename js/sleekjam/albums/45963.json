@@ -1,0 +1,44 @@
+{
+    "name": "She wants to rock on Super Star Planet", 
+    "artist": "Superstar Planet", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45963&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350613&streamencoding=mp31", 
+            "name": "(She wants to) rock on Super Star Planet"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350614&streamencoding=mp31", 
+            "name": "Out of Phase"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350611&streamencoding=mp31", 
+            "name": "The most useless Thing"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350612&streamencoding=mp31", 
+            "name": "Kontinuum"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350617&streamencoding=mp31", 
+            "name": "Bananas in my Hair"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350616&streamencoding=mp31", 
+            "name": "Alone together"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350615&streamencoding=mp31", 
+            "name": "Journey to the Moon"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45963"
+}

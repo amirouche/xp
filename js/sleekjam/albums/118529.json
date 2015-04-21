@@ -1,0 +1,14 @@
+{
+    "name": "Il saggio, il giusto e il profeta", 
+    "artist": "Franco Uda Sankara", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118529&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1007178&streamencoding=mp31", 
+            "name": "Il saggio, il giusto e il profeta"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118529"
+}

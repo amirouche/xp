@@ -1,0 +1,54 @@
+{
+    "name": "BRJ Ska Sounds", 
+    "artist": "Contratempo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48584&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383640&streamencoding=mp31", 
+            "name": "No Hi Ha Qui Ho Pari"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383638&streamencoding=mp31", 
+            "name": "Dispara"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383649&streamencoding=mp31", 
+            "name": "NY City"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383643&streamencoding=mp31", 
+            "name": "Sense Tu"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383642&streamencoding=mp31", 
+            "name": "Pumpkin Seeds"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383641&streamencoding=mp31", 
+            "name": "Freedom"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383648&streamencoding=mp31", 
+            "name": "Go To Kingston"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383644&streamencoding=mp31", 
+            "name": "Working Hard"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383639&streamencoding=mp31", 
+            "name": "Drinking Man"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48584"
+}

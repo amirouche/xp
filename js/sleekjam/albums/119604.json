@@ -1,0 +1,64 @@
+{
+    "name": "Mythological Deviance", 
+    "artist": "Splice", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119604&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015583&streamencoding=mp31", 
+            "name": "Splice - 01 - Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015584&streamencoding=mp31", 
+            "name": "Splice - 02 - Fangs of The Viper"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015586&streamencoding=mp31", 
+            "name": "Splice - 03 - The Infernal Kali"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015609&streamencoding=mp31", 
+            "name": "Splice - 04 - When the Moon's Blood Colors the Sand"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015610&streamencoding=mp31", 
+            "name": "Splice - 05 - Perversion in Pompeii"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015588&streamencoding=mp31", 
+            "name": "Splice - 06 - Under the Sign of Celestial Legends"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015592&streamencoding=mp31", 
+            "name": "Splice - 07 - Necromantic Druid"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015591&streamencoding=mp31", 
+            "name": "Splice - 08 - Uku Pacha Rising"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015589&streamencoding=mp31", 
+            "name": "Splice - 09 - Amazonia River Of Blood"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015590&streamencoding=mp31", 
+            "name": "Splice - 10 - Zhong Zui King of Ghosts"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015585&streamencoding=mp31", 
+            "name": "Splice - 11 - The Soul of Ayer's Rock"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119604"
+}

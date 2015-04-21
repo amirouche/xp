@@ -1,0 +1,59 @@
+{
+    "name": "en balade", 
+    "artist": "pepefolks J.M. Granier", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38832&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275160&streamencoding=mp31", 
+            "name": "saint nicolas CLVH"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275168&streamencoding=mp31", 
+            "name": "la balan\u00e7oire CLV3"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275212&streamencoding=mp31", 
+            "name": "souvenirs en particule CLV"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275269&streamencoding=mp31", 
+            "name": "on n'oublie jamais CLVH"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275342&streamencoding=mp31", 
+            "name": "L'Ancien CLV"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275346&streamencoding=mp31", 
+            "name": "Nero CLV"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275355&streamencoding=mp31", 
+            "name": "papillon sur mon \u00e9paule CL"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275359&streamencoding=mp31", 
+            "name": "bye bye CLV"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275361&streamencoding=mp31", 
+            "name": "envie CLV"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275386&streamencoding=mp31", 
+            "name": "canis lupus CLVH"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38832"
+}

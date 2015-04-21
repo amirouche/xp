@@ -1,0 +1,79 @@
+{
+    "name": "Project:Rentgen", 
+    "artist": "PURPLE FOG SIDE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62101&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532332&streamencoding=mp31", 
+            "name": "Sun Spots"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532333&streamencoding=mp31", 
+            "name": "Photographs"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532334&streamencoding=mp31", 
+            "name": "Psychomorph / We Feel Naked"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532335&streamencoding=mp31", 
+            "name": "My Secret Friend"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532336&streamencoding=mp31", 
+            "name": "Something Wrong"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532337&streamencoding=mp31", 
+            "name": "Crystal Castle"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532338&streamencoding=mp31", 
+            "name": "Solar Paranoid"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532339&streamencoding=mp31", 
+            "name": "Lost And Found"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532340&streamencoding=mp31", 
+            "name": "PVC Slut"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532341&streamencoding=mp31", 
+            "name": "Fuel"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532342&streamencoding=mp31", 
+            "name": "\u041c\u043e\u0439 \u0422\u0430\u0439\u043d\u044b\u0439 \u0414\u0440\u0443\u0433 (Radio Version)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532343&streamencoding=mp31", 
+            "name": "Psychomorph / We Feel Naked (Alpha Point Remix)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532344&streamencoding=mp31", 
+            "name": "Something Wrong (X-ti Remix)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532345&streamencoding=mp31", 
+            "name": "Psychomorph / We Feel Naked (\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0435 \u041e\u0431\u043b\u0430\u043a\u043e Remix)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "62101"
+}

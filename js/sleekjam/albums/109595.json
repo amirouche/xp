@@ -1,0 +1,69 @@
+{
+    "name": "Galaxy Trip", 
+    "artist": "WMRI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109595&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933933&streamencoding=mp31", 
+            "name": "Comet from Depth"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933936&streamencoding=mp31", 
+            "name": "Endless Space"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933935&streamencoding=mp31", 
+            "name": "Eternity"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933934&streamencoding=mp31", 
+            "name": "Vacuum"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933938&streamencoding=mp31", 
+            "name": "Uninhabited Planet"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933950&streamencoding=mp31", 
+            "name": "Cosmic Hymn"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933949&streamencoding=mp31", 
+            "name": "Cave Part I"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933951&streamencoding=mp31", 
+            "name": "Cave Part II"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933939&streamencoding=mp31", 
+            "name": "Atmosphere"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933946&streamencoding=mp31", 
+            "name": "Dreamplace"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933941&streamencoding=mp31", 
+            "name": "Galaxy Trip"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=933937&streamencoding=mp31", 
+            "name": "Nospace Harmony"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109595"
+}

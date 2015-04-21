@@ -1,0 +1,29 @@
+{
+    "name": "Upcoming Project 2", 
+    "artist": "Swave", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67108&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=581831&streamencoding=mp31", 
+            "name": "Rebirth"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=581832&streamencoding=mp31", 
+            "name": "Heartbeat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=581833&streamencoding=mp31", 
+            "name": "Horizon & More"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=581834&streamencoding=mp31", 
+            "name": "TWIB"
+        }
+    ], 
+    "release": "2010", 
+    "id": "67108"
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Locataire de ton pieu", 
+    "artist": "GASNOPROD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25572&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173280&streamencoding=mp31", 
+            "name": "Q1T1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173281&streamencoding=mp31", 
+            "name": "Bissexture vox"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173301&streamencoding=mp31", 
+            "name": "Ca scie les ronds dans lo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173303&streamencoding=mp31", 
+            "name": "Founkdagasnoprod"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173302&streamencoding=mp31", 
+            "name": "Dstagweul 2y2k8 v2"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173338&streamencoding=mp31", 
+            "name": "Anne nie aimer les sucettes"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173304&streamencoding=mp31", 
+            "name": "Full trip full v2.2"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173305&streamencoding=mp31", 
+            "name": "Greuouvev1C"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173300&streamencoding=mp31", 
+            "name": "Bonannee"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173306&streamencoding=mp31", 
+            "name": "Kmaille"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173307&streamencoding=mp31", 
+            "name": "KNUFafter"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173308&streamencoding=mp31", 
+            "name": "LatineuH"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173309&streamencoding=mp31", 
+            "name": "Nuit de sept"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173312&streamencoding=mp31", 
+            "name": "Puzzle"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173314&streamencoding=mp31", 
+            "name": "Saw vache"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173310&streamencoding=mp31", 
+            "name": "Pompier novembre 2004"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173315&streamencoding=mp31", 
+            "name": "Zo wat 2 rmX"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173299&streamencoding=mp31", 
+            "name": "Aisetek"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173311&streamencoding=mp31", 
+            "name": "PreskalavankaNss"
+        }
+    ], 
+    "release": "2008", 
+    "id": "25572"
+}

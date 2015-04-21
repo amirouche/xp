@@ -1,0 +1,34 @@
+{
+    "name": "Dein \u00c4ndern leben", 
+    "artist": "Kopf hoch.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112874&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960025&streamencoding=mp31", 
+            "name": "Kopf hoch. - Dein +\u00e4ndern leben. - 01 Wege.mp3"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960028&streamencoding=mp31", 
+            "name": "Kopf hoch. - Dein +\u00e4ndern leben. - 02 Fata Morgana.mp3"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960027&streamencoding=mp31", 
+            "name": "Kopf hoch. - Dein +\u00e4ndern leben. - 03 Kilimanjaro.mp3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960026&streamencoding=mp31", 
+            "name": "Kopf hoch. - Dein +\u00e4ndern leben. - 04 Kleines Wunder.mp3"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960024&streamencoding=mp31", 
+            "name": "Kopf hoch. - Dein +\u00e4ndern leben. - 05 Schicksal.mp3"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112874"
+}

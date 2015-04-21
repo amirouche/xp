@@ -1,0 +1,24 @@
+{
+    "name": "Little band sample", 
+    "artist": "Little Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53522&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=443992&streamencoding=mp31", 
+            "name": "American Feeling"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=443993&streamencoding=mp31", 
+            "name": "Blue Bossa"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=443995&streamencoding=mp31", 
+            "name": "Izotope"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53522"
+}

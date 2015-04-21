@@ -1,0 +1,14 @@
+{
+    "name": "(the) cleft & (the) kessl", 
+    "artist": "mr&mrsBrian", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84052&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720408&streamencoding=mp31", 
+            "name": "(the) cleft & (the) kessl"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84052"
+}

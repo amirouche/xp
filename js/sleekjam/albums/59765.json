@@ -1,0 +1,39 @@
+{
+    "name": "City Lights", 
+    "artist": "Frank", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59765&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508758&streamencoding=mp31", 
+            "name": "City Lights"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508759&streamencoding=mp31", 
+            "name": "Body Nights"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508761&streamencoding=mp31", 
+            "name": "Before you lie"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508760&streamencoding=mp31", 
+            "name": "Talk Talk"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508757&streamencoding=mp31", 
+            "name": "Sing in L.A."
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508762&streamencoding=mp31", 
+            "name": "Jaguar"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59765"
+}

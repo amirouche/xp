@@ -1,0 +1,719 @@
+{
+    "albums": [
+        {
+            "release": "2010", 
+            "artist": "TSF", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73447&imagesize=100", 
+            "id": "73447", 
+            "name": "Mystic Opus"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "MAD IN SKA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73448&imagesize=100", 
+            "id": "73448", 
+            "name": "G8, j'ai rien"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Calmani\u00f1o", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48771&imagesize=100", 
+            "id": "48771", 
+            "name": "El CalmaNi\u00f1os"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Calmani\u00f1o", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75804&imagesize=100", 
+            "id": "75804", 
+            "name": "Los Duendes"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Ivan Ivanovich & The Kreml Krauts", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24153&imagesize=100", 
+            "id": "24153", 
+            "name": "Deutsches Essen"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Skankshot", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105389&imagesize=100", 
+            "id": "105389", 
+            "name": "One of the Millions of Robots"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Skankshot", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86981&imagesize=100", 
+            "id": "86981", 
+            "name": "Boom! EP"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Skabrot", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136436&imagesize=100", 
+            "id": "136436", 
+            "name": "No Ska Today"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Skabrot", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114886&imagesize=100", 
+            "id": "114886", 
+            "name": "Neotanzmusik"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Boxing Fox", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39545&imagesize=100", 
+            "id": "39545", 
+            "name": "The shepherd hates us"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "100PydOFF", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55727&imagesize=100", 
+            "id": "55727", 
+            "name": "100% Conzza"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "La Tarrancha", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60495&imagesize=100", 
+            "id": "60495", 
+            "name": "\u00f6 3 3 (otrestres)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "the jolly rogers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30787&imagesize=100", 
+            "id": "30787", 
+            "name": "need a change"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Munnizza", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89553&imagesize=100", 
+            "id": "89553", 
+            "name": "Una Settimana Ancora"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Theskarnivals", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117006&imagesize=100", 
+            "id": "117006", 
+            "name": "The Skarnivals - Torsi\u00f3n Mundial"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Theskarnivals", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110689&imagesize=100", 
+            "id": "110689", 
+            "name": "The Skarnivals - Skakeo"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Andere Koek!", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45699&imagesize=100", 
+            "id": "45699", 
+            "name": "Van Ska Naar Beter"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Andere Koek!", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88836&imagesize=100", 
+            "id": "88836", 
+            "name": "Dat Ding Slaat Op Hol"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Franco Uda Sankara", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118529&imagesize=100", 
+            "id": "118529", 
+            "name": "Il saggio, il giusto e il profeta"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Green Tea Monkeys", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59979&imagesize=100", 
+            "id": "59979", 
+            "name": "**: Euphoria/Mania"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "\u0428\u041b\u042e\u0417", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87093&imagesize=100", 
+            "id": "87093", 
+            "name": "\u0428\u041b\u042e\u0417"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Skarah-B", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123425&imagesize=100", 
+            "id": "123425", 
+            "name": "XY12"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Skarah-B", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123287&imagesize=100", 
+            "id": "123287", 
+            "name": "Promis demain j'arr\u00eate"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Sounds Like Chicken", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26853&imagesize=100", 
+            "id": "26853", 
+            "name": "...Like a Cannonball to the Ocean Floor"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Sounds Like Chicken", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26858&imagesize=100", 
+            "id": "26858", 
+            "name": "Take a Bullet to the Grave Single"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Sounds Like Chicken", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26826&imagesize=100", 
+            "id": "26826", 
+            "name": "I Am Gibbon, Hear Me Roar"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Sounds Like Chicken", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26785&imagesize=100", 
+            "id": "26785", 
+            "name": "Global Domination Single"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Vagos Permanentes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28236&imagesize=100", 
+            "id": "28236", 
+            "name": "Vagos Permanentes"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Vagos Permanentes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122625&imagesize=100", 
+            "id": "122625", 
+            "name": "Regreso al pan duro"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Vagos Permanentes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84461&imagesize=100", 
+            "id": "84461", 
+            "name": "Montando la comedia"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "WEPYS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113775&imagesize=100", 
+            "id": "113775", 
+            "name": "WE Play You Skank"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Sovereigns", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59703&imagesize=100", 
+            "id": "59703", 
+            "name": "Pick It Up!"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Buskant", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48492&imagesize=100", 
+            "id": "48492", 
+            "name": "Tibi Festival 06"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Buskant", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48498&imagesize=100", 
+            "id": "48498", 
+            "name": "Recopilatori"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Loudog", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77452&imagesize=100", 
+            "id": "77452", 
+            "name": "Kito"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Loudog", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34022&imagesize=100", 
+            "id": "34022", 
+            "name": "Party Thieves"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Loudog", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37526&imagesize=100", 
+            "id": "37526", 
+            "name": "Waste Your Time"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "ODI", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37736&imagesize=100", 
+            "id": "37736", 
+            "name": "ODI - La terra dels origens"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Distemper", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31234&imagesize=100", 
+            "id": "31234", 
+            "name": "\"The World is yours\" "
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Distemper", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77242&imagesize=100", 
+            "id": "77242", 
+            "name": "My Underground"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Distemper", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51731&imagesize=100", 
+            "id": "51731", 
+            "name": "Ska Punk Moscow"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Desgavell", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57662&imagesize=100", 
+            "id": "57662", 
+            "name": "ShowTime"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Desgavell", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51429&imagesize=100", 
+            "id": "51429", 
+            "name": "Matant el temps"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Paradile", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114105&imagesize=100", 
+            "id": "114105", 
+            "name": "Monigotes"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Fantomas Ketchup", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18814&imagesize=100", 
+            "id": "18814", 
+            "name": "Du bonheur dans les bronches"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "Dario", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=1570&imagesize=100", 
+            "id": "1570", 
+            "name": "Au reveil (album complet)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Val\u00e8ncia Ska", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33252&imagesize=100", 
+            "id": "33252", 
+            "name": "Recopilatori Valencia Ska"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Contratempo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48430&imagesize=100", 
+            "id": "48430", 
+            "name": "Lonely"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Contratempo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48584&imagesize=100", 
+            "id": "48584", 
+            "name": "BRJ Ska Sounds"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Contratempo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58138&imagesize=100", 
+            "id": "58138", 
+            "name": "Psychotropikal"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "\u0414\u0456\u0442\u0438 \u0412\u0435\u043b\u0438\u043a\u043e\u0433\u043e \u041c\u0456\u0441\u0442\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82909&imagesize=100", 
+            "id": "82909", 
+            "name": "\u0421\u043a\u0430 \u043d\u0430 \u0445\u043e\u043b\u043e\u0434\u043d\u043e\u043c \u0441\u043d\u0435\u0433\u0443 (Ska On The Cold Snow)"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "ZamalSka", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57299&imagesize=100", 
+            "id": "57299", 
+            "name": "d\u00e9mo"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Perif\u00e8rics", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120982&imagesize=100", 
+            "id": "120982", 
+            "name": "Sempre lluitant, sempre endavant"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Men in Route", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19517&imagesize=100", 
+            "id": "19517", 
+            "name": "'Ndemo!"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Minimal Damage", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75614&imagesize=100", 
+            "id": "75614", 
+            "name": "Erase The Default"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Ki Sap", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49137&imagesize=100", 
+            "id": "49137", 
+            "name": "Ki sap at new rockers studios"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Ki Sap", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49131&imagesize=100", 
+            "id": "49131", 
+            "name": " Ki Sap meets Val\u00e8ncia All Stars"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Ki Sap", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49079&imagesize=100", 
+            "id": "49079", 
+            "name": "10 Tone"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Ki Sap", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49025&imagesize=100", 
+            "id": "49025", 
+            "name": "L'Horta Ska"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Ki Sap", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49094&imagesize=100", 
+            "id": "49094", 
+            "name": "The shake it up's"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Ki Sap", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49032&imagesize=100", 
+            "id": "49032", 
+            "name": "Ki Sap"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Ki Sap", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49065&imagesize=100", 
+            "id": "49065", 
+            "name": "Rural Style"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Meltin' Kolcha", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77447&imagesize=100", 
+            "id": "77447", 
+            "name": "EP2K9"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Meltin' Kolcha", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105343&imagesize=100", 
+            "id": "105343", 
+            "name": "FAYA MAKET VOL.II"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "l'ondes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102412&imagesize=100", 
+            "id": "102412", 
+            "name": "CINESI"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "l'ondes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50660&imagesize=100", 
+            "id": "50660", 
+            "name": "t\u00f2t i d\u00e8"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Tashkenti", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51173&imagesize=100", 
+            "id": "51173", 
+            "name": "Tashkenti"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "INTI", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15397&imagesize=100", 
+            "id": "15397", 
+            "name": "Kasane!"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Sistema Sonoro Skartel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18448&imagesize=100", 
+            "id": "18448", 
+            "name": "Manifiesto proletario dub internacional"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Unjerks", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80103&imagesize=100", 
+            "id": "80103", 
+            "name": "Showview"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Shatner's Revenge", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81740&imagesize=100", 
+            "id": "81740", 
+            "name": "Nowhere's Ark"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Patatraa", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84402&imagesize=100", 
+            "id": "84402", 
+            "name": "Fuite des Sens"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Aspencat", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59224&imagesize=100", 
+            "id": "59224", 
+            "name": "La festa est\u00e0 servida"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Aspencat", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59217&imagesize=100", 
+            "id": "59217", 
+            "name": "Obri la Llauna"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Skastation", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34638&imagesize=100", 
+            "id": "34638", 
+            "name": "L'onde des mots"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Kagnee", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61364&imagesize=100", 
+            "id": "61364", 
+            "name": "Logic Bomb"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The Anti-Biotics", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24507&imagesize=100", 
+            "id": "24507", 
+            "name": "The Anti-Biotics"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Marasma General", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34095&imagesize=100", 
+            "id": "34095", 
+            "name": "GreatesT hITS"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Limando", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111224&imagesize=100", 
+            "id": "111224", 
+            "name": "Toti toti"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "La boulette russe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21316&imagesize=100", 
+            "id": "21316", 
+            "name": "La Boulette Russe : Pas cher !"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Equipo ska", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49717&imagesize=100", 
+            "id": "49717", 
+            "name": "Massarock'03"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Chewbaska", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28044&imagesize=100", 
+            "id": "28044", 
+            "name": "Chewbaska - The Shape of Ska to come"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Les Chapo-T", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11974&imagesize=100", 
+            "id": "11974", 
+            "name": "En Fa\u00eete"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "EZZO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49913&imagesize=100", 
+            "id": "49913", 
+            "name": "Kickass Ska"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Sklatasangs", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59359&imagesize=100", 
+            "id": "59359", 
+            "name": "Sklatasangs"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "G\u00e9n\u00e9ral Fiasco", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35970&imagesize=100", 
+            "id": "35970", 
+            "name": "Live 28 novembre 2008"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Arnaud Tranquil", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120236&imagesize=100", 
+            "id": "120236", 
+            "name": "Viva Ska !"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "BLS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96729&imagesize=100", 
+            "id": "96729", 
+            "name": "Azzyjiro"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Ska Band Malajun\u00e7a", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61481&imagesize=100", 
+            "id": "61481", 
+            "name": "2n Congr\u00e9s De Figures Mundials"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Gramoxone Ska Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61473&imagesize=100", 
+            "id": "61473", 
+            "name": "1er Congr\u00e9s De Figures Mundials"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Skapolits", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49532&imagesize=100", 
+            "id": "49532", 
+            "name": "Desig"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "KoGiTo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68261&imagesize=100", 
+            "id": "68261", 
+            "name": "auT\u00f3MaTaS"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Maitips", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91156&imagesize=100", 
+            "id": "91156", 
+            "name": "Maqueta"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Dr.Jau", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58103&imagesize=100", 
+            "id": "58103", 
+            "name": "Why Rock when you can STEADY'N'ROLL?"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Agraviats", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57693&imagesize=100", 
+            "id": "57693", 
+            "name": "Qu\u00e8 m\u00e9s d\u00f3na?"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Agraviats", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57800&imagesize=100", 
+            "id": "57800", 
+            "name": "Mira Endavant"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "WHISKYBABA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22419&imagesize=100", 
+            "id": "22419", 
+            "name": "Le Petit Paris-Berlin 57 Minutes...Et Vous?"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Akaskarla", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117916&imagesize=100", 
+            "id": "117916", 
+            "name": "Akaskarla"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Tabaska", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25632&imagesize=100", 
+            "id": "25632", 
+            "name": "Tabaska"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Hemplicitt'", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24583&imagesize=100", 
+            "id": "24583", 
+            "name": "hemplicitt demo"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "La Compagnie Cuanol", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89762&imagesize=100", 
+            "id": "89762", 
+            "name": "Luna TicTac"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "La Compagnie Cuanol", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53427&imagesize=100", 
+            "id": "53427", 
+            "name": "Extrait de Cuane"
+        }
+    ], 
+    "name": "Ska"
+}

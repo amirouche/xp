@@ -1,0 +1,69 @@
+{
+    "name": "Welcome 2 My World (Demo Draft Version 2002)", 
+    "artist": "Smithsoni@que", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18259&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129434&streamencoding=mp31", 
+            "name": "Dick-The-Duck"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129435&streamencoding=mp31", 
+            "name": "My-World"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129436&streamencoding=mp31", 
+            "name": "Garden-of-Despair"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129437&streamencoding=mp31", 
+            "name": "Heavens-Gate"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129438&streamencoding=mp31", 
+            "name": "The-Cry-of-the-Fading-Rosebuds"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129514&streamencoding=mp31", 
+            "name": "I-Beg-U-A-Pardon"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129515&streamencoding=mp31", 
+            "name": "Disgust"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129516&streamencoding=mp31", 
+            "name": "Construction-Site-Fever"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129517&streamencoding=mp31", 
+            "name": "Why"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129518&streamencoding=mp31", 
+            "name": "Der-Weg-zur-Mitte"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129519&streamencoding=mp31", 
+            "name": "PsychoDome"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=129520&streamencoding=mp31", 
+            "name": "Such-Is-Life"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18259"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "On My Way", 
+    "artist": "SoundCell", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95088&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=813970&streamencoding=mp31", 
+            "name": "Follow Me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=813971&streamencoding=mp31", 
+            "name": "Inside My Brain"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=813973&streamencoding=mp31", 
+            "name": "Between The Lines"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=813974&streamencoding=mp31", 
+            "name": "Soul Diver"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=813972&streamencoding=mp31", 
+            "name": "Episode"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=813975&streamencoding=mp31", 
+            "name": "Nightflight(ChilloutMix)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=813976&streamencoding=mp31", 
+            "name": "Nightflight(DanceRemix)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=813977&streamencoding=mp31", 
+            "name": "Loneliness"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=813978&streamencoding=mp31", 
+            "name": "Farewell"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95088"
+}

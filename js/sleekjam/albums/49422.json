@@ -1,0 +1,29 @@
+{
+    "name": "First Night In Heaven", 
+    "artist": "Screenplay", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49422&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=393573&streamencoding=mp31", 
+            "name": "SLEEPINGHEAD"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=393574&streamencoding=mp31", 
+            "name": "THAT'S ONE SECRET SHE NEVER BE ABLY TO KEEP"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=393575&streamencoding=mp31", 
+            "name": "1 NIGHT IN HEAVEN"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=393576&streamencoding=mp31", 
+            "name": "GET'RICH...OR DIE TRYING"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49422"
+}

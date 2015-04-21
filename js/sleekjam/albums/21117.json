@@ -1,0 +1,49 @@
+{
+    "name": "INTROX", 
+    "artist": "Pascal SER'JACOBS  ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21117&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147247&streamencoding=mp31", 
+            "name": "EXTRAPOLE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147250&streamencoding=mp31", 
+            "name": "Trancelax"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147252&streamencoding=mp31", 
+            "name": "XIRTAM"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147249&streamencoding=mp31", 
+            "name": "NEWYORK"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147245&streamencoding=mp31", 
+            "name": "Astr\u00e9roide"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147251&streamencoding=mp31", 
+            "name": "Two life"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147248&streamencoding=mp31", 
+            "name": "I feel the beat"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147246&streamencoding=mp31", 
+            "name": "CRAZY LOOP"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21117"
+}

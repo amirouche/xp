@@ -1,0 +1,29 @@
+{
+    "name": "abdelali doukali", 
+    "artist": "abdelali doukali", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20771&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145877&streamencoding=mp31", 
+            "name": "abdelali doukali 01"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145880&streamencoding=mp31", 
+            "name": "abdelali doukali 02"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145899&streamencoding=mp31", 
+            "name": "abdelali doukali 03"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145911&streamencoding=mp31", 
+            "name": "abdelali doukali 04"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20771"
+}

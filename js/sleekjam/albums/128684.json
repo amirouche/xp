@@ -1,0 +1,59 @@
+{
+    "name": "\u0418\u0435\u0440\u043e\u043d\u0438\u043c \u0411\u043e\u0441\u0445", 
+    "artist": "\u0425\u043e\u043c\u0435\u043d\u043a\u043e", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128684&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080228&streamencoding=mp31", 
+            "name": "Ieronim Bosh"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080232&streamencoding=mp31", 
+            "name": "Samba Jayne"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080226&streamencoding=mp31", 
+            "name": "Marathon"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080229&streamencoding=mp31", 
+            "name": "Spring"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080230&streamencoding=mp31", 
+            "name": "Old fort"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080231&streamencoding=mp31", 
+            "name": "Penguins"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080233&streamencoding=mp31", 
+            "name": "Samurai"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080234&streamencoding=mp31", 
+            "name": "Seven days"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080278&streamencoding=mp31", 
+            "name": "Message to Sirius"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080335&streamencoding=mp31", 
+            "name": "Legend"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128684"
+}

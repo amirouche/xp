@@ -1,0 +1,89 @@
+{
+    "name": "Select clean works", 
+    "artist": "Se\u00f1or B", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116209&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987103&streamencoding=mp31", 
+            "name": "Se\u00f1or B presents"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987104&streamencoding=mp31", 
+            "name": "Who is he"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987105&streamencoding=mp31", 
+            "name": "Special Fino"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987106&streamencoding=mp31", 
+            "name": "Hodo (feat El Forajido de Grindleford)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987107&streamencoding=mp31", 
+            "name": "Walker Fino"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987108&streamencoding=mp31", 
+            "name": "Finos flag"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987109&streamencoding=mp31", 
+            "name": "Fino destroyer"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987110&streamencoding=mp31", 
+            "name": "Unplugged Fino"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987111&streamencoding=mp31", 
+            "name": "You & me (feat El Forajido de Grindleford)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987113&streamencoding=mp31", 
+            "name": "Fino Dancer"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987114&streamencoding=mp31", 
+            "name": "World of Fino"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987116&streamencoding=mp31", 
+            "name": "Running Fino"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987117&streamencoding=mp31", 
+            "name": "Fino water burn"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987118&streamencoding=mp31", 
+            "name": "Fino cosmos"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987119&streamencoding=mp31", 
+            "name": "United Fino"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987120&streamencoding=mp31", 
+            "name": "Deep session"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116209"
+}

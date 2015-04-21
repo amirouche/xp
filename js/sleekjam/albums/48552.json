@@ -1,0 +1,49 @@
+{
+    "name": "Fire love (Demo album)", 
+    "artist": "AZZAF", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48552&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383014&streamencoding=mp31", 
+            "name": "Symphonia  (Demo version)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378155&streamencoding=mp31", 
+            "name": "Time arrives  (Live recording)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383019&streamencoding=mp31", 
+            "name": "Tingama  (Demo version)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383009&streamencoding=mp31", 
+            "name": "Higher  (Live recording)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373554&streamencoding=mp31", 
+            "name": "Fire love  (Live recording)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383011&streamencoding=mp31", 
+            "name": "I wanna  (Demo version)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383022&streamencoding=mp31", 
+            "name": "Where is the love in this world  (Demo version)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383315&streamencoding=mp31", 
+            "name": "Jesus loves  (Instrumental demo version)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48552"
+}

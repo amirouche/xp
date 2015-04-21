@@ -1,0 +1,39 @@
+{
+    "name": "worship08-09", 
+    "artist": "Graphite412", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56398&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478113&streamencoding=mp31", 
+            "name": "Love Of The Father- graphite412 remix"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478114&streamencoding=mp31", 
+            "name": "Real Love"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478115&streamencoding=mp31", 
+            "name": "Unfailing Love"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478116&streamencoding=mp31", 
+            "name": "Jealousy"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478117&streamencoding=mp31", 
+            "name": "Holy Ghost Master"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478147&streamencoding=mp31", 
+            "name": "Do You Know the Love of the Father"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56398"
+}

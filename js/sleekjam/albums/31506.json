@@ -1,0 +1,84 @@
+{
+    "name": "New Better Existence", 
+    "artist": "Gorthaur", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31506&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213867&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213868&streamencoding=mp31", 
+            "name": "Universe"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213869&streamencoding=mp31", 
+            "name": "Otwieram Drzwi"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213870&streamencoding=mp31", 
+            "name": "Somewhere In Future"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213871&streamencoding=mp31", 
+            "name": "2003"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213872&streamencoding=mp31", 
+            "name": "Czasami nie warto"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213873&streamencoding=mp31", 
+            "name": "New Better Existence"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213874&streamencoding=mp31", 
+            "name": "Space"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213875&streamencoding=mp31", 
+            "name": "Prophecy"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213876&streamencoding=mp31", 
+            "name": "TCP"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213877&streamencoding=mp31", 
+            "name": "Abel"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213878&streamencoding=mp31", 
+            "name": "To Become One Of Them"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213879&streamencoding=mp31", 
+            "name": "Photographic"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213880&streamencoding=mp31", 
+            "name": "Christ Mass"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213866&streamencoding=mp31", 
+            "name": "Escape"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31506"
+}

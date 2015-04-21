@@ -1,0 +1,29 @@
+{
+    "name": "Generation Why? - A Critical Enquiry Into Fatcha's Yoof", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54236&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453054&streamencoding=mp31", 
+            "name": "Britpop Is Just Another National Moron Front"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453056&streamencoding=mp31", 
+            "name": "Who Needs Love (When You Can Watch It On Telly)?"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453055&streamencoding=mp31", 
+            "name": "Don't Go - The Traumatic Birth Of Shanna Sims"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453053&streamencoding=mp31", 
+            "name": "Lisa - Good Things May Yet  Come From It"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54236"
+}

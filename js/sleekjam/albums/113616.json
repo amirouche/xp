@@ -1,0 +1,14 @@
+{
+    "name": "Final Solitude", 
+    "artist": "WMRI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113616&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=966068&streamencoding=mp31", 
+            "name": "Final Solitude"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113616"
+}

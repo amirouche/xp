@@ -1,0 +1,54 @@
+{
+    "name": "Can Not Escape", 
+    "artist": "Cui Bono", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73683&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636392&streamencoding=mp31", 
+            "name": "Can`t Escape"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636389&streamencoding=mp31", 
+            "name": "Heaven Call"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636384&streamencoding=mp31", 
+            "name": "The boy in the wood"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636390&streamencoding=mp31", 
+            "name": "Would it be"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636385&streamencoding=mp31", 
+            "name": "Freedom"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636391&streamencoding=mp31", 
+            "name": "Fight"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636386&streamencoding=mp31", 
+            "name": "Depressed"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636387&streamencoding=mp31", 
+            "name": "Im a lier"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636388&streamencoding=mp31", 
+            "name": "A Long Way To Go"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73683"
+}

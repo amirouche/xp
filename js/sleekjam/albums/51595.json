@@ -1,0 +1,39 @@
+{
+    "name": "chop and suey", 
+    "artist": "Sugar Mama Blues", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51595&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420422&streamencoding=mp31", 
+            "name": "ESPERAR AL SOL"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420421&streamencoding=mp31", 
+            "name": "LA CHICA DE LA CURVA"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420474&streamencoding=mp31", 
+            "name": "LA DERROTA"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420423&streamencoding=mp31", 
+            "name": "PURA ELECTRICIDAD"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420475&streamencoding=mp31", 
+            "name": "OTRA REVOLUCION"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420477&streamencoding=mp31", 
+            "name": "ANEMICA"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51595"
+}

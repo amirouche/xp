@@ -1,0 +1,14 @@
+{
+    "name": "Y.G.T.", 
+    "artist": "Your Gold Teeth", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85118&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728144&streamencoding=mp31", 
+            "name": "masterpiecemaster"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85118"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Say My Name", 
+    "artist": "Leo Bowers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123706&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1050629&streamencoding=mp31", 
+            "name": "Say My Name"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123706"
+}

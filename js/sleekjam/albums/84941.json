@@ -1,0 +1,149 @@
+{
+    "name": "Peter Pan Musical", 
+    "artist": "Peter Pan am Gymnasium Geretsried", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84941&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726502&streamencoding=mp31", 
+            "name": "Uhrschlagen"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726499&streamencoding=mp31", 
+            "name": "Galopp!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726492&streamencoding=mp31", 
+            "name": "Klavierwalzer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726496&streamencoding=mp31", 
+            "name": "Durch alle Sterne"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726497&streamencoding=mp31", 
+            "name": "Urwald / Nimmerland"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726501&streamencoding=mp31", 
+            "name": "Elfentanz"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726493&streamencoding=mp31", 
+            "name": "Our Dying Day"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726490&streamencoding=mp31", 
+            "name": "Fragt nicht!"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726504&streamencoding=mp31", 
+            "name": "Nimmerland"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726483&streamencoding=mp31", 
+            "name": "Hausbau-Kanon"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726484&streamencoding=mp31", 
+            "name": "Alles kann sein und werden"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726498&streamencoding=mp31", 
+            "name": "Tanz und Gesang der Meerjungfrauen"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726495&streamencoding=mp31", 
+            "name": "Time To Change"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726489&streamencoding=mp31", 
+            "name": "Das macht Mami traurig"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726485&streamencoding=mp31", 
+            "name": "Anschwellendes Wasser"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726505&streamencoding=mp31", 
+            "name": "Es war einmal (Wendy's M\u00e4rchenerz\u00e4hlung)"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726486&streamencoding=mp31", 
+            "name": "Gegen alle Macht der Welt"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726488&streamencoding=mp31", 
+            "name": "\u00dcberfall der Piraten"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726503&streamencoding=mp31", 
+            "name": "Tink's Song"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726487&streamencoding=mp31", 
+            "name": "Schiffsmusik"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726494&streamencoding=mp31", 
+            "name": "A Hymn To The Plank"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726480&streamencoding=mp31", 
+            "name": "Finale (Hook oder Pan)"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726500&streamencoding=mp31", 
+            "name": "Duett der Eltern"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726491&streamencoding=mp31", 
+            "name": "Fragt nicht! (alternative Quelle)"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726506&streamencoding=mp31", 
+            "name": "Nimmerland (alternative Quelle)"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726481&streamencoding=mp31", 
+            "name": "Alles kann sein und werden (alternative Quelle)"
+        }, 
+        {
+            "position": 27, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726482&streamencoding=mp31", 
+            "name": "Gegen alle Macht der Welt (alternative Quelle)"
+        }, 
+        {
+            "position": 28, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726507&streamencoding=mp31", 
+            "name": "Tink's Song (alternative Quelle)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84941"
+}

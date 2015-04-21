@@ -1,0 +1,14 @@
+{
+    "name": "Zeroes", 
+    "artist": "DJ Ghozt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37124&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259185&streamencoding=mp31", 
+            "name": "Zeroes"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37124"
+}

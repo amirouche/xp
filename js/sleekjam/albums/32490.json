@@ -1,0 +1,24 @@
+{
+    "name": "Ilunabarra", 
+    "artist": "Joxean Koret", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32490&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220178&streamencoding=mp31", 
+            "name": "Ilunabar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220189&streamencoding=mp31", 
+            "name": "Into the Dark Palace"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220227&streamencoding=mp31", 
+            "name": "Stupid Mankind"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32490"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "\"Orgullo Caribe\"", 
+    "artist": "Zone PereKe", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29007&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194068&streamencoding=mp31", 
+            "name": "ZonepereKe- Cofre De Sorpresas "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194073&streamencoding=mp31", 
+            "name": "ZonePereke- Te encontrare"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29007"
+}

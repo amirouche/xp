@@ -1,0 +1,39 @@
+{
+    "name": "The Black Swan", 
+    "artist": "Donato Cafarelli", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120945&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1028890&streamencoding=mp31", 
+            "name": "The Black Swan"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1028886&streamencoding=mp31", 
+            "name": "Deja-V\u00f9"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1028891&streamencoding=mp31", 
+            "name": "Imperfetto"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1028888&streamencoding=mp31", 
+            "name": "Luz"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1028889&streamencoding=mp31", 
+            "name": "Butterfly"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1028887&streamencoding=mp31", 
+            "name": "Rainy Day"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120945"
+}

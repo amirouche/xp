@@ -1,0 +1,49 @@
+{
+    "name": "Nemeth", 
+    "artist": "Lughum", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90051&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768706&streamencoding=mp31", 
+            "name": "Kalaikoi"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768712&streamencoding=mp31", 
+            "name": "Magik Sex &amp; Power"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768709&streamencoding=mp31", 
+            "name": "Crevando co vento"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768707&streamencoding=mp31", 
+            "name": "Bloody moon"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768710&streamencoding=mp31", 
+            "name": "Nas mestas fragas"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768711&streamencoding=mp31", 
+            "name": "Pagan Rise"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768708&streamencoding=mp31", 
+            "name": "Unholy Brutal Reggae"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768705&streamencoding=mp31", 
+            "name": "Drums of war (At the altar of Lugh)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90051"
+}

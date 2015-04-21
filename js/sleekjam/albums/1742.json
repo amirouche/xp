@@ -1,0 +1,94 @@
+{
+    "name": "BiBoPoF", 
+    "artist": "Bibopof", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=1742&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11752&streamencoding=mp31", 
+            "name": "Qu'il \u00e9tait temps"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11754&streamencoding=mp31", 
+            "name": "La berg\u00e8re"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11755&streamencoding=mp31", 
+            "name": "Recette de chanson"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11757&streamencoding=mp31", 
+            "name": "Chanson au kazoo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11758&streamencoding=mp31", 
+            "name": "La ville chelou"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11759&streamencoding=mp31", 
+            "name": "La maison du fou"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11761&streamencoding=mp31", 
+            "name": "La chanson des ruskofs"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11763&streamencoding=mp31", 
+            "name": "Le cin\u00e9, c'est nul"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11764&streamencoding=mp31", 
+            "name": "La colo"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11766&streamencoding=mp31", 
+            "name": "Mariage Tyty et V\u00e9ro"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11768&streamencoding=mp31", 
+            "name": "L'agrafe a chu"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11769&streamencoding=mp31", 
+            "name": "Ghislaine"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11770&streamencoding=mp31", 
+            "name": "lwkcxjvmljvc !"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11772&streamencoding=mp31", 
+            "name": "Supernamme"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11774&streamencoding=mp31", 
+            "name": "Le train"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11775&streamencoding=mp31", 
+            "name": "Babi & Biba"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11776&streamencoding=mp31", 
+            "name": "Monsieur Binet"
+        }
+    ], 
+    "release": "2006", 
+    "id": "1742"
+}

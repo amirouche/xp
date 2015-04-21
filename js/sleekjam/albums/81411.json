@@ -1,0 +1,84 @@
+{
+    "name": "ALBUM \"MARCHONS DONC ENSEMBLES\" PREMIERE VERSION", 
+    "artist": "Jean-Christophe Morin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81411&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697944&streamencoding=mp31", 
+            "name": "REGARDE (1)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697945&streamencoding=mp31", 
+            "name": "ORDRE BLEU"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697946&streamencoding=mp31", 
+            "name": "D\u00c9CADENCE (1)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697947&streamencoding=mp31", 
+            "name": "QUAND GOUTERAS-TU ?"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697948&streamencoding=mp31", 
+            "name": "MARCHONS DONC ENSEMBLES (1)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697949&streamencoding=mp31", 
+            "name": "EXIL D'ELIXYR (1)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697962&streamencoding=mp31", 
+            "name": "DANS NOS PAYS DIT D\u00c9VELOPP\u00c9S (1)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697963&streamencoding=mp31", 
+            "name": "D\u00c9LIVRANCE (1)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697964&streamencoding=mp31", 
+            "name": "MORT VIVANT (1)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697965&streamencoding=mp31", 
+            "name": "B\u00c9TON (1)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697966&streamencoding=mp31", 
+            "name": "FRATERNIT\u00c9 (1)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697967&streamencoding=mp31", 
+            "name": "NUITS D'ENFER (1)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697974&streamencoding=mp31", 
+            "name": "A L'OMBRE D'UN BAR (1)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697975&streamencoding=mp31", 
+            "name": "SEUL (1)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697976&streamencoding=mp31", 
+            "name": "ON S'AIME-S'AIME-T'ON... (1)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81411"
+}

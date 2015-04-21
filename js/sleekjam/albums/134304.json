@@ -1,0 +1,44 @@
+{
+    "name": "Instrumentalismus pt.I", 
+    "artist": "James Sainark", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134304&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1123500&streamencoding=mp31", 
+            "name": "Olivetress & applebees"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1123501&streamencoding=mp31", 
+            "name": "Coahyli"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1123502&streamencoding=mp31", 
+            "name": "The thing (instrumental version)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1123503&streamencoding=mp31", 
+            "name": "Sunshine"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1123504&streamencoding=mp31", 
+            "name": "55"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1123505&streamencoding=mp31", 
+            "name": "Electric ride"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1123506&streamencoding=mp31", 
+            "name": "In a desert land"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134304"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Hopeful Dub", 
+    "artist": "Muflon Dub Sound System", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133052&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1113961&streamencoding=mp31", 
+            "name": "Onegetherness"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1113966&streamencoding=mp31", 
+            "name": "Hopeful Dub"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1113959&streamencoding=mp31", 
+            "name": "Train To Homeland"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1113960&streamencoding=mp31", 
+            "name": "Root Of King David"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1113962&streamencoding=mp31", 
+            "name": "Dream"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1113963&streamencoding=mp31", 
+            "name": "Nothing Really Matters"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1113964&streamencoding=mp31", 
+            "name": "Out Of The Shadows Dub"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1113965&streamencoding=mp31", 
+            "name": "Onegetherness In Dub"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133052"
+}

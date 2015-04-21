@@ -1,0 +1,84 @@
+{
+    "name": "Le Droit chemin", 
+    "artist": "Mohamed Ahmed", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132025&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105701&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- Mourir en paix"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105713&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- Lettre au proph\u00e8te"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105703&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- Bienvenue au Paradis"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105704&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- Maman et Papa ft Zain Bhikha"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105702&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- Mais o\u00f9 est notre Crainte!"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105705&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- Mon Proph\u00e8te m'a enseign\u00e9"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105706&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- Ca aurait pu \u00eatre Toi! ft Mohammed Boona"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105707&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- De l'ombre \u00e0 la Lumi\u00e8re"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105708&streamencoding=mp31", 
+            "name": "Mohamed Ahmed - Ce Dounia"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105709&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- Etranger [Ghuraba]"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105710&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- Etre soumis \u00e0 Allah"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105711&streamencoding=mp31", 
+            "name": "Mohamed Ahmed feat Muhammad Benammi- Glorifie Allah"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105712&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- La Fin des temps"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105714&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- Eprouver"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105715&streamencoding=mp31", 
+            "name": "Mohamed Ahmed- L'Unicit\u00e9 d'Allah (Tawhid) ft Khalil Ismail"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132025"
+}

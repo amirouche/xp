@@ -1,0 +1,109 @@
+{
+    "name": "BEWARE OF THE GOD", 
+    "artist": "S\u00e9bastien GRAMOND", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14957&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111851&streamencoding=mp31", 
+            "name": "The Evil Pilgrimage - I"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111852&streamencoding=mp31", 
+            "name": "The Evil Pilgrimage - II"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111854&streamencoding=mp31", 
+            "name": "The evil Pilgrimage - III"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111859&streamencoding=mp31", 
+            "name": "The Evil Pilgrimage - IV"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111861&streamencoding=mp31", 
+            "name": "The Evil Pilgrimage - V"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111864&streamencoding=mp31", 
+            "name": "Surrounded by Spiritual Forces - I"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111866&streamencoding=mp31", 
+            "name": "Surrounded by Spiritual Forces - II"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111867&streamencoding=mp31", 
+            "name": "Surrounded by Spiritual Forces - III"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111868&streamencoding=mp31", 
+            "name": "Surrounded by Spiritual Forces - IV"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111869&streamencoding=mp31", 
+            "name": "Surrounded by Spiritual Forces - V"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111871&streamencoding=mp31", 
+            "name": "Mother Nature Strikes Off - I"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111872&streamencoding=mp31", 
+            "name": "Mother Nature Strikes Off - II"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111876&streamencoding=mp31", 
+            "name": "Mother Nature Strikes Off - III"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111879&streamencoding=mp31", 
+            "name": "Mother Nature Strikes Off - IV"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111881&streamencoding=mp31", 
+            "name": "Mother Nature Strikes Off - V"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111885&streamencoding=mp31", 
+            "name": "After All, I Am - I"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111889&streamencoding=mp31", 
+            "name": "After All, I Am - II"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111896&streamencoding=mp31", 
+            "name": "After All, I Am - III"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111898&streamencoding=mp31", 
+            "name": "After All, I Am - IV"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111900&streamencoding=mp31", 
+            "name": "After All, I Am - V"
+        }
+    ], 
+    "release": "2007", 
+    "id": "14957"
+}

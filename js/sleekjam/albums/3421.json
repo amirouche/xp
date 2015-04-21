@@ -1,0 +1,29 @@
+{
+    "name": "D\u00e9mo", 
+    "artist": "YAM", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3421&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24808&streamencoding=mp31", 
+            "name": "Subsistance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24809&streamencoding=mp31", 
+            "name": "On ne sait"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24810&streamencoding=mp31", 
+            "name": "Raisonne"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24811&streamencoding=mp31", 
+            "name": "Solidaire"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3421"
+}

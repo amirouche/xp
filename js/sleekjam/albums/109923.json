@@ -1,0 +1,44 @@
+{
+    "name": "Agartha", 
+    "artist": "Subterrestrial", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109923&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936540&streamencoding=mp31", 
+            "name": "Agartha"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936536&streamencoding=mp31", 
+            "name": "Ascended Masters"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936541&streamencoding=mp31", 
+            "name": "Shambhala"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936537&streamencoding=mp31", 
+            "name": "Children of Atlantis"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936542&streamencoding=mp31", 
+            "name": "Posid"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936539&streamencoding=mp31", 
+            "name": "Solara Maru"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936538&streamencoding=mp31", 
+            "name": "Telos"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109923"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "The Demons Come Again", 
+    "artist": "Cryogenic Implosion", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57434&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490056&streamencoding=mp31", 
+            "name": "When Dull Degradation Prospers..."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490057&streamencoding=mp31", 
+            "name": "To Eat From Within"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490058&streamencoding=mp31", 
+            "name": "The Demons Come Again"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57434"
+}

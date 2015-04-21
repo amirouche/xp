@@ -1,0 +1,14 @@
+{
+    "name": "odin son na voih", 
+    "artist": "Moresebya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79880&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686159&streamencoding=mp31", 
+            "name": "odin son na dvoih(semantic prod)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79880"
+}

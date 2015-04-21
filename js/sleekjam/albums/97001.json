@@ -1,0 +1,29 @@
+{
+    "name": "4st\u00fcckchen", 
+    "artist": "Nicky Rigg", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97001&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829222&streamencoding=mp31", 
+            "name": "filmchen2"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829223&streamencoding=mp31", 
+            "name": "filmchen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829224&streamencoding=mp31", 
+            "name": "reproduce"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829225&streamencoding=mp31", 
+            "name": "f\u00fcrdiekinder"
+        }
+    ], 
+    "release": "2011", 
+    "id": "97001"
+}

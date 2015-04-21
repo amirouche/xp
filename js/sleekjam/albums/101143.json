@@ -1,0 +1,34 @@
+{
+    "name": "Slayers Online - Halloween 2011 (Mp3 adapt\u00e9s des midis)", 
+    "artist": "Kiwi manchot", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101143&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863572&streamencoding=mp31", 
+            "name": "Manoir"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863573&streamencoding=mp31", 
+            "name": "Orchestre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863574&streamencoding=mp31", 
+            "name": "Manoir -Perturbation"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863575&streamencoding=mp31", 
+            "name": "Sc\u00e8ne de meurtre"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863576&streamencoding=mp31", 
+            "name": "Hurry"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101143"
+}

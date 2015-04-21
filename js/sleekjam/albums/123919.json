@@ -1,0 +1,14 @@
+{
+    "name": "Famous Music Vol.3", 
+    "artist": "Famous", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123919&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1052230&streamencoding=mp31", 
+            "name": "3Boys - Nocturne 'Secret'"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123919"
+}

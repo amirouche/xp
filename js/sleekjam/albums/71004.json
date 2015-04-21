@@ -1,0 +1,39 @@
+{
+    "name": "glubinatebya(EP)", 
+    "artist": "Moresebya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71004&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613601&streamencoding=mp31", 
+            "name": "ty hochesh dozhd"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613602&streamencoding=mp31", 
+            "name": "tkan"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613603&streamencoding=mp31", 
+            "name": "naedine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613604&streamencoding=mp31", 
+            "name": "vtebeigra"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613605&streamencoding=mp31", 
+            "name": "vetki"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613606&streamencoding=mp31", 
+            "name": "tishina"
+        }
+    ], 
+    "release": "2010", 
+    "id": "71004"
+}

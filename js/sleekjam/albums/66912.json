@@ -1,0 +1,74 @@
+{
+    "name": "Reflections", 
+    "artist": "Sconce", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66912&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580323&streamencoding=mp31", 
+            "name": "01 - Contemplate"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580335&streamencoding=mp31", 
+            "name": "02 - Butterfly Net (Industrial Death Mix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580328&streamencoding=mp31", 
+            "name": "03 - Death of a Gunslinger"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580332&streamencoding=mp31", 
+            "name": "04 - Half-Glazed"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580334&streamencoding=mp31", 
+            "name": "05 - Discord"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580325&streamencoding=mp31", 
+            "name": "06 - Ooh La La"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580327&streamencoding=mp31", 
+            "name": "07 - Shutdown Chill"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580329&streamencoding=mp31", 
+            "name": "08 - Can't Save You"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580330&streamencoding=mp31", 
+            "name": "09 - Bad Medicine"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580333&streamencoding=mp31", 
+            "name": "10 -  Restrained"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580324&streamencoding=mp31", 
+            "name": " 11 -  Eyesore"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580331&streamencoding=mp31", 
+            "name": "12 - Rest"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=580326&streamencoding=mp31", 
+            "name": "13 - Internal Compass"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66912"
+}

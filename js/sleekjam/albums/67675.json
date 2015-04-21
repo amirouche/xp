@@ -1,0 +1,29 @@
+{
+    "name": "The Age of Kali Yoghurt", 
+    "artist": "MumBai Mafia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67675&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587032&streamencoding=mp31", 
+            "name": "Warfare Mantra"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587033&streamencoding=mp31", 
+            "name": "Jay Jay Hanuman"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587039&streamencoding=mp31", 
+            "name": "Milkman Dub"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587040&streamencoding=mp31", 
+            "name": " Dial P"
+        }
+    ], 
+    "release": "2010", 
+    "id": "67675"
+}

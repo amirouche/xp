@@ -1,0 +1,44 @@
+{
+    "name": "Cycla", 
+    "artist": "Eftos-Trilogie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101546&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866486&streamencoding=mp31", 
+            "name": "Cycla I"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866485&streamencoding=mp31", 
+            "name": "Cycla II"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866484&streamencoding=mp31", 
+            "name": "Cycla III"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866483&streamencoding=mp31", 
+            "name": "Cycla IV"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866482&streamencoding=mp31", 
+            "name": "Cycla V"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866481&streamencoding=mp31", 
+            "name": "Cycla VI"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866480&streamencoding=mp31", 
+            "name": "Cycla X"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101546"
+}

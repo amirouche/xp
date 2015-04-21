@@ -1,0 +1,54 @@
+{
+    "name": "En face du miroir", 
+    "artist": "Distimia (Espa\u00f1a)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20727&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145626&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145627&streamencoding=mp31", 
+            "name": "Fard \u00e0 paupi\u00e8res"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145628&streamencoding=mp31", 
+            "name": "Alunissage"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145629&streamencoding=mp31", 
+            "name": "What`s wrong with me"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145630&streamencoding=mp31", 
+            "name": "Teodoris goes to the beach"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145631&streamencoding=mp31", 
+            "name": "En face du miroir"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145632&streamencoding=mp31", 
+            "name": "Perdus dans l'avenue"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145633&streamencoding=mp31", 
+            "name": "Waiting for the Rain"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145634&streamencoding=mp31", 
+            "name": "Torquemada"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20727"
+}

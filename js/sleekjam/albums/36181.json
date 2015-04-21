@@ -1,0 +1,44 @@
+{
+    "name": "Enter", 
+    "artist": "MAV", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36181&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251262&streamencoding=mp31", 
+            "name": "Akynetik"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251284&streamencoding=mp31", 
+            "name": "Lamento"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251354&streamencoding=mp31", 
+            "name": "Il crepuscolo della coscienza"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251416&streamencoding=mp31", 
+            "name": "Vuoto"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251460&streamencoding=mp31", 
+            "name": "Insana Insonnia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251465&streamencoding=mp31", 
+            "name": "In my brain"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251470&streamencoding=mp31", 
+            "name": "Diane's dream"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36181"
+}

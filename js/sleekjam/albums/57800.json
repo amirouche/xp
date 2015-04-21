@@ -1,0 +1,39 @@
+{
+    "name": "Mira Endavant", 
+    "artist": "Agraviats", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57800&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492904&streamencoding=mp31", 
+            "name": "Somnis"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492922&streamencoding=mp31", 
+            "name": "Al\u00e7ar-se de nou"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492903&streamencoding=mp31", 
+            "name": "Mentides"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492905&streamencoding=mp31", 
+            "name": "K-reggae"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492906&streamencoding=mp31", 
+            "name": "Mira Endavant"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492907&streamencoding=mp31", 
+            "name": "No lligues amb mi"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57800"
+}

@@ -1,0 +1,84 @@
+{
+    "name": "The Moth", 
+    "artist": "DeadBunny Laura", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115030&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976547&streamencoding=mp31", 
+            "name": "Black Sea"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976564&streamencoding=mp31", 
+            "name": "French Mustard"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976565&streamencoding=mp31", 
+            "name": "The Moth"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976566&streamencoding=mp31", 
+            "name": "Fleurs de oranger"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976601&streamencoding=mp31", 
+            "name": "The Moth 2"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976602&streamencoding=mp31", 
+            "name": "Murphy and guys"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976608&streamencoding=mp31", 
+            "name": "Columbine"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976609&streamencoding=mp31", 
+            "name": "La tortuga"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976610&streamencoding=mp31", 
+            "name": "La bimba"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976611&streamencoding=mp31", 
+            "name": "Amore impossibile II"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976612&streamencoding=mp31", 
+            "name": "Edens Corner"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976613&streamencoding=mp31", 
+            "name": "The Ragamuffin"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976614&streamencoding=mp31", 
+            "name": "Trash And Rumble"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976615&streamencoding=mp31", 
+            "name": "The promise"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976627&streamencoding=mp31", 
+            "name": "Arlequin"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115030"
+}

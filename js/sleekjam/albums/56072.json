@@ -1,0 +1,14 @@
+{
+    "name": "Le dala\u00ef lama sous k\u00e9ta", 
+    "artist": "les cheper", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56072&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=475380&streamencoding=mp31", 
+            "name": "Le dala\u00ef lama sous k\u00e9ta"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56072"
+}

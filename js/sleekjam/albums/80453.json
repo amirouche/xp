@@ -1,0 +1,14 @@
+{
+    "name": "PASO LENTOS", 
+    "artist": "RT RAMON SALAZAR RT", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80453&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=690637&streamencoding=mp31", 
+            "name": "Artist - Ramon Salazar (RT) (te quiero)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80453"
+}

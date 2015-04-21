@@ -1,0 +1,99 @@
+{
+    "name": "\u00c0 La Revolution!", 
+    "artist": "ROCKEN FACTORY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134844&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126372&streamencoding=mp31", 
+            "name": "The Tailor"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126366&streamencoding=mp31", 
+            "name": "Les Sans-Cravates On The Street"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126363&streamencoding=mp31", 
+            "name": "Master Of Laces"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126362&streamencoding=mp31", 
+            "name": "Panta Rei"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126374&streamencoding=mp31", 
+            "name": "\u00c0 La Revolution!"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126361&streamencoding=mp31", 
+            "name": "Divertissement"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126368&streamencoding=mp31", 
+            "name": "How Many Times"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126359&streamencoding=mp31", 
+            "name": "I Am Louis The Nineteenth"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126367&streamencoding=mp31", 
+            "name": "Sewing For Love"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126373&streamencoding=mp31", 
+            "name": "Money Can't Build This World"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126369&streamencoding=mp31", 
+            "name": "King Size"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126360&streamencoding=mp31", 
+            "name": "Last Love Song"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126365&streamencoding=mp31", 
+            "name": "In The Season Of The Light"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126371&streamencoding=mp31", 
+            "name": "What Are You Waiting For?"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126358&streamencoding=mp31", 
+            "name": "Versailles' March"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126364&streamencoding=mp31", 
+            "name": "Kill The King"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126375&streamencoding=mp31", 
+            "name": "Death Of A Tailor"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1126370&streamencoding=mp31", 
+            "name": "Louis XIX Is Still Alive"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134844"
+}

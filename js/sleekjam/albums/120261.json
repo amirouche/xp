@@ -1,0 +1,69 @@
+{
+    "name": "Eloquently Violent", 
+    "artist": "Illustrial", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120261&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022663&streamencoding=mp31", 
+            "name": "Xciter"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022655&streamencoding=mp31", 
+            "name": "Heartbeat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022662&streamencoding=mp31", 
+            "name": "Eloquently Violent"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022656&streamencoding=mp31", 
+            "name": "Dark Night of the Soul"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022654&streamencoding=mp31", 
+            "name": "Breeze"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022657&streamencoding=mp31", 
+            "name": "The day we killed our love"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022661&streamencoding=mp31", 
+            "name": "Gothic Fantasy"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022658&streamencoding=mp31", 
+            "name": "Reap what you sow"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022660&streamencoding=mp31", 
+            "name": "My Distortion"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022659&streamencoding=mp31", 
+            "name": "The Silence"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022653&streamencoding=mp31", 
+            "name": "Horrorgasm"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022664&streamencoding=mp31", 
+            "name": "Politics of Partnership"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120261"
+}

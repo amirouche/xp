@@ -1,0 +1,14 @@
+{
+    "name": "You can touch me (mama said)", 
+    "artist": "antmax", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96885&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828445&streamencoding=mp31", 
+            "name": "You can touch me (mama said)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96885"
+}

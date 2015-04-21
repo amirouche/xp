@@ -1,0 +1,29 @@
+{
+    "name": "Coin coin", 
+    "artist": "Antiforfora", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24542&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167200&streamencoding=mp31", 
+            "name": "Bottled"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167198&streamencoding=mp31", 
+            "name": "Blackout"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167204&streamencoding=mp31", 
+            "name": "Riot"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167202&streamencoding=mp31", 
+            "name": "Good Boy"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24542"
+}

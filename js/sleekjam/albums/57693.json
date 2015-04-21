@@ -1,0 +1,54 @@
+{
+    "name": "Qu\u00e8 m\u00e9s d\u00f3na?", 
+    "artist": "Agraviats", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57693&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492055&streamencoding=mp31", 
+            "name": "Armeu-vos d'ignor\u00e0ncia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492054&streamencoding=mp31", 
+            "name": "Cuba"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492050&streamencoding=mp31", 
+            "name": "La veu del poble"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492053&streamencoding=mp31", 
+            "name": "Fills del sol"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492049&streamencoding=mp31", 
+            "name": "Collita ska"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492057&streamencoding=mp31", 
+            "name": "Qu\u00e8 m\u00e9s d\u00f3na?"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492051&streamencoding=mp31", 
+            "name": " Primer Mon"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492052&streamencoding=mp31", 
+            "name": "Euskaldun Ska"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492056&streamencoding=mp31", 
+            "name": " Dona lluita"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57693"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Concert on the Beach", 
+    "artist": "\u041a\u0438\u0441\u043a\u0430", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135791&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132351&streamencoding=mp31", 
+            "name": "\u041a\u043e\u043d\u0446\u0435\u0440\u0442 \u043d\u0430 \u043f\u043b\u044f\u0436\u0435(Albom Version Summer Hit)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132352&streamencoding=mp31", 
+            "name": "\u041a\u043e\u043d\u0446\u0435\u0440\u0442 \u043d\u0430 \u043f\u043b\u044f\u0436\u0435(Radio Edit Summer Hit)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135791"
+}

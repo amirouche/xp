@@ -1,0 +1,44 @@
+{
+    "name": "Kiddy Stuff", 
+    "artist": "Cyberdread", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5950&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=49012&streamencoding=mp31", 
+            "name": "Kiddy Stuff"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=49013&streamencoding=mp31", 
+            "name": "Jazz is so free"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=49014&streamencoding=mp31", 
+            "name": "Martina"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=49015&streamencoding=mp31", 
+            "name": "Welcome to the club"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=49016&streamencoding=mp31", 
+            "name": "Kitty kom"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=49017&streamencoding=mp31", 
+            "name": "Afrokumina"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=49018&streamencoding=mp31", 
+            "name": "Tere tere"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5950"
+}

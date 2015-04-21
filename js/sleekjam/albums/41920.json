@@ -1,0 +1,39 @@
+{
+    "name": "One Way", 
+    "artist": "Jareed", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41920&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=309129&streamencoding=mp31", 
+            "name": "Free tonight"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=309130&streamencoding=mp31", 
+            "name": "Happy hour"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=309126&streamencoding=mp31", 
+            "name": "Nightmare"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=309128&streamencoding=mp31", 
+            "name": "One Way"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=309131&streamencoding=mp31", 
+            "name": "Secret mission"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=309127&streamencoding=mp31", 
+            "name": "Yellow cab"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41920"
+}

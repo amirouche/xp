@@ -1,0 +1,54 @@
+{
+    "name": "Nicolas Falcon", 
+    "artist": "Nicolas Falcon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63726&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547238&streamencoding=mp31", 
+            "name": "Reliable Source"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547234&streamencoding=mp31", 
+            "name": "Tall Oak Tree"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547237&streamencoding=mp31", 
+            "name": "A Thousand Times"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547233&streamencoding=mp31", 
+            "name": "Cyanide Surprise"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547232&streamencoding=mp31", 
+            "name": "I Promise"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547235&streamencoding=mp31", 
+            "name": "Greek Life"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547236&streamencoding=mp31", 
+            "name": "Don't Apologize"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547270&streamencoding=mp31", 
+            "name": "Reality to Me"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547271&streamencoding=mp31", 
+            "name": "What I Know About You"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63726"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "an utopian dream", 
+    "artist": "Signs of silence", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14869&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114076&streamencoding=mp31", 
+            "name": "01  dogma (master)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114077&streamencoding=mp31", 
+            "name": "02 so quiet (master)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114078&streamencoding=mp31", 
+            "name": "03 this world (master)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114079&streamencoding=mp31", 
+            "name": "04 strangers (master)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114080&streamencoding=mp31", 
+            "name": "05 nevermind (master)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114081&streamencoding=mp31", 
+            "name": "06 from now i'm not alone (master)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114082&streamencoding=mp31", 
+            "name": "07 one year is over (master)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114083&streamencoding=mp31", 
+            "name": "08 like the first day (master)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114084&streamencoding=mp31", 
+            "name": "09 ...finally (master)"
+        }
+    ], 
+    "release": "2007", 
+    "id": "14869"
+}

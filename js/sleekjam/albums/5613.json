@@ -1,0 +1,109 @@
+{
+    "name": "alterlabel sampler vol2", 
+    "artist": "Alterlabel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5613&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46559&streamencoding=mp31", 
+            "name": "SUNRUHE - Have a nice dinner"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46560&streamencoding=mp31", 
+            "name": "MISTER FRITES - The boy who never talks"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46561&streamencoding=mp31", 
+            "name": "KID CHARLEMAGNE - Natural born smoker"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46562&streamencoding=mp31", 
+            "name": "FEAT THE VIBE - Com unity"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46563&streamencoding=mp31", 
+            "name": "SUNRUHE - Machination"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46564&streamencoding=mp31", 
+            "name": "KID CHARLEMAGNE - Ticket for brain"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46565&streamencoding=mp31", 
+            "name": "FEAT THE VIBE - The dream that you wanted"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46566&streamencoding=mp31", 
+            "name": "ABELCOAST - No man's land"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46567&streamencoding=mp31", 
+            "name": "DRIXA - The day i saw you"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46568&streamencoding=mp31", 
+            "name": "KID CHARLEMAGNE - Retro futurist transmission _ I can't sleep"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46569&streamencoding=mp31", 
+            "name": "MISTER FRITES - Star system"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46570&streamencoding=mp31", 
+            "name": "MICA - Rosa Alejandria (part1)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46571&streamencoding=mp31", 
+            "name": "ABELCOAST - Sky meandering"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46572&streamencoding=mp31", 
+            "name": "FEAT THE VIBE - Blue spirit"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46573&streamencoding=mp31", 
+            "name": "MICA - Rosa Alejandria (part2)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46574&streamencoding=mp31", 
+            "name": "ABELCOAST - Sampling glory"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46575&streamencoding=mp31", 
+            "name": "MACROABSTRACT - Fell in macro"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46576&streamencoding=mp31", 
+            "name": "DRIXA - Landscape"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46577&streamencoding=mp31", 
+            "name": "KRANK - Already dead"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=46578&streamencoding=mp31", 
+            "name": "MISTER FRITES - E part"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5613"
+}

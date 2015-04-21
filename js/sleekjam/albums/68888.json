@@ -1,0 +1,34 @@
+{
+    "name": "A donde quieras t\u00fa", 
+    "artist": "La Sombra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68888&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=596007&streamencoding=mp31", 
+            "name": "V\u00edbora"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=596028&streamencoding=mp31", 
+            "name": "Ni un segundo m\u00e1s"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=596030&streamencoding=mp31", 
+            "name": "Felicidad"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=596029&streamencoding=mp31", 
+            "name": "A donde quieras t\u00fa"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=596006&streamencoding=mp31", 
+            "name": "Hoy no"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68888"
+}

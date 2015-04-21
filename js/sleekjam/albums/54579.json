@@ -1,0 +1,89 @@
+{
+    "name": "Journey from West to East", 
+    "artist": "Aksenty Beskrovny", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54579&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456888&streamencoding=mp31", 
+            "name": "Journey from West to East"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456883&streamencoding=mp31", 
+            "name": "Spirit of a flame"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456879&streamencoding=mp31", 
+            "name": "The violent West"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456889&streamencoding=mp31", 
+            "name": "A southern wind"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456880&streamencoding=mp31", 
+            "name": "Northern storm"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456885&streamencoding=mp31", 
+            "name": "Dance of leaves"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456881&streamencoding=mp31", 
+            "name": "For the leader of the bird\u2019s flight"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456890&streamencoding=mp31", 
+            "name": "Journey from West to East II"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456886&streamencoding=mp31", 
+            "name": "A southern wind II"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456894&streamencoding=mp31", 
+            "name": "Songs of winter"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456892&streamencoding=mp31", 
+            "name": "A bear cub"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456893&streamencoding=mp31", 
+            "name": "A downpour over lake"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456882&streamencoding=mp31", 
+            "name": "The violent West II"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456887&streamencoding=mp31", 
+            "name": "Twilight before a thunder-storm"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456884&streamencoding=mp31", 
+            "name": "Dark heavens"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456891&streamencoding=mp31", 
+            "name": "Journey from West to East III"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54579"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "MAIS 69?", 
+    "artist": "FOOL DADAZ FIRE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=973&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6344&streamencoding=mp31", 
+            "name": "La v\u00e9rit\u00e9 (part one)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6345&streamencoding=mp31", 
+            "name": "Le Boxeur"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6346&streamencoding=mp31", 
+            "name": "Gagalou (gare au loup)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6347&streamencoding=mp31", 
+            "name": "La Faille"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6348&streamencoding=mp31", 
+            "name": "La Chute"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6349&streamencoding=mp31", 
+            "name": "L.A Funk"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6350&streamencoding=mp31", 
+            "name": "Tour de France"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6351&streamencoding=mp31", 
+            "name": "Le Discours"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6352&streamencoding=mp31", 
+            "name": "A Bout de Souffle"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6353&streamencoding=mp31", 
+            "name": "Trombone"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6354&streamencoding=mp31", 
+            "name": "La v\u00e9rit\u00e9 (part two(ze))"
+        }
+    ], 
+    "release": "2006", 
+    "id": "973"
+}

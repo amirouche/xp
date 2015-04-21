@@ -1,0 +1,59 @@
+{
+    "name": "Impulsos", 
+    "artist": "Sundayers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119528&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014956&streamencoding=mp31", 
+            "name": "The Carousel"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014955&streamencoding=mp31", 
+            "name": "El Sonido Del Mar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014960&streamencoding=mp31", 
+            "name": "Trovadores"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014957&streamencoding=mp31", 
+            "name": "Para M\u00ed"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014961&streamencoding=mp31", 
+            "name": "Agua"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014962&streamencoding=mp31", 
+            "name": "No Te Dejes"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014963&streamencoding=mp31", 
+            "name": "Never We\u00b4ll Be In"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014958&streamencoding=mp31", 
+            "name": "Moscas"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014954&streamencoding=mp31", 
+            "name": "Qu\u00e9 Pas\u00f3"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014959&streamencoding=mp31", 
+            "name": "Menudo Cuento"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119528"
+}

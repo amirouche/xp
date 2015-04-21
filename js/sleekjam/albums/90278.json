@@ -1,0 +1,59 @@
+{
+    "name": "Blue Suede Through", 
+    "artist": "Blue Suede Through", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90278&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770323&streamencoding=mp31", 
+            "name": "Traffic Life"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770325&streamencoding=mp31", 
+            "name": "Puddle Hoppin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770324&streamencoding=mp31", 
+            "name": "Operator"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770330&streamencoding=mp31", 
+            "name": "Taxicab Sunsets"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770322&streamencoding=mp31", 
+            "name": "Meal Ticket"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770326&streamencoding=mp31", 
+            "name": "Ballad of Desert Dialectics"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770327&streamencoding=mp31", 
+            "name": "The Boss o'Nova"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770329&streamencoding=mp31", 
+            "name": "Suckerpunched Drunk Strides"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770328&streamencoding=mp31", 
+            "name": "North Country"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770331&streamencoding=mp31", 
+            "name": "Talifeather"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90278"
+}

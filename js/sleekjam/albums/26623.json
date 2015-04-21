@@ -1,0 +1,44 @@
+{
+    "name": "04/07", 
+    "artist": "Noctiflora", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26623&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178917&streamencoding=mp31", 
+            "name": "Ogham"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178912&streamencoding=mp31", 
+            "name": "Pan"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178913&streamencoding=mp31", 
+            "name": "Neorama"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178914&streamencoding=mp31", 
+            "name": "Violet"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178915&streamencoding=mp31", 
+            "name": "Magnolia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178916&streamencoding=mp31", 
+            "name": "Nevischio"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178911&streamencoding=mp31", 
+            "name": "Notti"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26623"
+}

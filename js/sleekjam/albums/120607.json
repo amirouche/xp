@@ -1,0 +1,14 @@
+{
+    "name": "Break Out", 
+    "artist": "D_Tom", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120607&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1025927&streamencoding=mp31", 
+            "name": "Break Out"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120607"
+}

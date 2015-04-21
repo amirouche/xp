@@ -1,0 +1,59 @@
+{
+    "name": "IL MIO MONDO", 
+    "artist": "Peppe Cirino AKA Juself", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20314&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142269&streamencoding=mp31", 
+            "name": "FUNKY TOWN  Feat. Marvena - Al basso A. Firmani"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142270&streamencoding=mp31", 
+            "name": "NON SONO PERFETTO  Feat. Trama"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142271&streamencoding=mp31", 
+            "name": "NON FINISCO COME TE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142272&streamencoding=mp31", 
+            "name": "IL MIO MONDO"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142273&streamencoding=mp31", 
+            "name": "INTERLUDIO - Al basso A. Firmani"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142274&streamencoding=mp31", 
+            "name": "NON PASSA MAI"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142296&streamencoding=mp31", 
+            "name": "CAROGNA"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142297&streamencoding=mp31", 
+            "name": "UNA TRA TANTE"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142298&streamencoding=mp31", 
+            "name": "AMOR MIO"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142307&streamencoding=mp31", 
+            "name": "Skit - RadaMan -"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20314"
+}

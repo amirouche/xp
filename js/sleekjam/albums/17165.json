@@ -1,0 +1,24 @@
+{
+    "name": "F#%k on Druqs", 
+    "artist": "Ganjibiri", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17165&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123110&streamencoding=mp31", 
+            "name": "L\u00f8pende lovl\u00f8s"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123068&streamencoding=mp31", 
+            "name": "A jam"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123178&streamencoding=mp31", 
+            "name": "R\u00f8d tom-e"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17165"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "haunting me", 
+    "artist": "Disappearance of Anna", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39467&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=282375&streamencoding=mp31", 
+            "name": "haunting me (album version)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=282357&streamencoding=mp31", 
+            "name": "The Night I Vanished (spoken dub)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=282369&streamencoding=mp31", 
+            "name": "haunting me (i need you)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=282374&streamencoding=mp31", 
+            "name": "collectively silent (haunting me mix)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=282372&streamencoding=mp31", 
+            "name": "haunting me (bamboo and blood mix)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39467"
+}

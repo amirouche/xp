@@ -1,0 +1,59 @@
+{
+    "name": "New Worlds", 
+    "artist": "Freestyle Percussion Magik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107917&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911666&streamencoding=mp31", 
+            "name": "Jungle Tribe"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911683&streamencoding=mp31", 
+            "name": "Birth of a Bird"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911674&streamencoding=mp31", 
+            "name": "Speedy Spider"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911676&streamencoding=mp31", 
+            "name": "Tibetan Beat"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911680&streamencoding=mp31", 
+            "name": "Happy Hammock"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911677&streamencoding=mp31", 
+            "name": "Funky Fish "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911678&streamencoding=mp31", 
+            "name": "Ay que bonito"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911682&streamencoding=mp31", 
+            "name": "Vapor vibes"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911675&streamencoding=mp31", 
+            "name": "Hanging Garden"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911679&streamencoding=mp31", 
+            "name": "Misty Bowl"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107917"
+}

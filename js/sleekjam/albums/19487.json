@@ -1,0 +1,139 @@
+{
+    "name": "03 08 L'Etage", 
+    "artist": "Grego Mondo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19487&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136699&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 11 a"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136705&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 11 b"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136706&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 11 c"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136707&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 11 d"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136708&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 11 e"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136709&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 11 f"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136710&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 11 g"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136713&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 11 h"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136714&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 11 i"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136715&streamencoding=mp31", 
+            "name": "Table \u00e0 jeux 11 a"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136716&streamencoding=mp31", 
+            "name": "Table \u00e0 jeux 11 b"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136718&streamencoding=mp31", 
+            "name": "Table \u00e0 jeux 11 c"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136719&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 20 a"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136720&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 20 b"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136721&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 20 c"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136724&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 20 d"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136729&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 20 e"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136732&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 20 f"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136733&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 20 g"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136735&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 20 h"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136738&streamencoding=mp31", 
+            "name": "Boite \u00e0 musique 20 i"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136741&streamencoding=mp31", 
+            "name": "Mecanisme 21 b"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136743&streamencoding=mp31", 
+            "name": "table kit 21 a"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136754&streamencoding=mp31", 
+            "name": "table kit 21 d"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136788&streamencoding=mp31", 
+            "name": "loop drum 21"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136747&streamencoding=mp31", 
+            "name": "table kit 21 b"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19487"
+}

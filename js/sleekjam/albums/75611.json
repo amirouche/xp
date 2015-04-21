@@ -1,0 +1,84 @@
+{
+    "name": "Next Level For Two Devil", 
+    "artist": "Bang Bong", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75611&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652752&streamencoding=mp31", 
+            "name": "Introduction To Mass Destruction"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652751&streamencoding=mp31", 
+            "name": "Just Try It Be Quiet"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652763&streamencoding=mp31", 
+            "name": "Resonance To Romance (feat. Tears of Technology)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652766&streamencoding=mp31", 
+            "name": "Hardcore To The Floor"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652765&streamencoding=mp31", 
+            "name": "Noise For The Boys"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652769&streamencoding=mp31", 
+            "name": "Rave To The Grave"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652771&streamencoding=mp31", 
+            "name": "Gain To Pain"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652772&streamencoding=mp31", 
+            "name": "Chill On Tha Hill (feat. Shannonsongs)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652774&streamencoding=mp31", 
+            "name": "Rock Your Cock"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652783&streamencoding=mp31", 
+            "name": "Supreme Extreme"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652786&streamencoding=mp31", 
+            "name": "Late Night Damn Right"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652788&streamencoding=mp31", 
+            "name": "Minimal Criminal"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652790&streamencoding=mp31", 
+            "name": "Discum Vobiscum"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652789&streamencoding=mp31", 
+            "name": "Never Leave Always Believe (feat. 4nsic)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=652791&streamencoding=mp31", 
+            "name": "Party Hardly"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75611"
+}

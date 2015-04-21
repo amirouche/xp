@@ -1,0 +1,14 @@
+{
+    "name": "Ay14ice - Nobody Is Here", 
+    "artist": "Ay - 14ice", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129551&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086780&streamencoding=mp31", 
+            "name": "Ay14ice - Nobody Is Here"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129551"
+}

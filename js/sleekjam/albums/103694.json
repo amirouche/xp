@@ -1,0 +1,54 @@
+{
+    "name": "Uomo Occidentale (demo)", 
+    "artist": "La Corte Dei Folli", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103694&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882085&streamencoding=mp31", 
+            "name": "intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882083&streamencoding=mp31", 
+            "name": "Il paese delle meraviglie"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882084&streamencoding=mp31", 
+            "name": "Altra Resistenza"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882086&streamencoding=mp31", 
+            "name": "Soviet\u00e0"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882087&streamencoding=mp31", 
+            "name": "Guerriglia Urbana (morte apparente)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882250&streamencoding=mp31", 
+            "name": "UOmo OCcidentaLE"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882088&streamencoding=mp31", 
+            "name": "Folkletti"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882089&streamencoding=mp31", 
+            "name": "Come sabbia tra le mani"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882090&streamencoding=mp31", 
+            "name": "IL RE degli STOLTI"
+        }
+    ], 
+    "release": "2011", 
+    "id": "103694"
+}

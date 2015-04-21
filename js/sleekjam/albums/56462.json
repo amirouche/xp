@@ -1,0 +1,64 @@
+{
+    "name": "Midlife Blues", 
+    "artist": "Lobo Loco", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56462&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478763&streamencoding=mp31", 
+            "name": "black jack"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478359&streamencoding=mp31", 
+            "name": "hoffnung"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478361&streamencoding=mp31", 
+            "name": "flug nach meringo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478800&streamencoding=mp31", 
+            "name": "here some sounds"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478360&streamencoding=mp31", 
+            "name": "big big bang"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478825&streamencoding=mp31", 
+            "name": "against chaos"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478365&streamencoding=mp31", 
+            "name": "walking blues"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478362&streamencoding=mp31", 
+            "name": "wunder zu erz\u00e4hlen"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478801&streamencoding=mp31", 
+            "name": "haben haben es"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478363&streamencoding=mp31", 
+            "name": "night has come"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=478364&streamencoding=mp31", 
+            "name": "Hobo Lobo Instrumental"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56462"
+}

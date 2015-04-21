@@ -1,0 +1,69 @@
+{
+    "name": "Fabrication artisanale", 
+    "artist": "LN et L\u00e9a", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6376&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=70746&streamencoding=mp31", 
+            "name": "O de Lourdes V.D.Q.S."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=70747&streamencoding=mp31", 
+            "name": "La Java du pont "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=70748&streamencoding=mp31", 
+            "name": "M\u00e9m\u00e9 swingue"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=70749&streamencoding=mp31", 
+            "name": "Le punk de bonne famille"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=70750&streamencoding=mp31", 
+            "name": "Chanson courte"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=70751&streamencoding=mp31", 
+            "name": "La tristesse a..."
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=70752&streamencoding=mp31", 
+            "name": "Blues en Bb"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=70753&streamencoding=mp31", 
+            "name": "Le critique"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=70754&streamencoding=mp31", 
+            "name": "Fin de partie"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=70755&streamencoding=mp31", 
+            "name": "Assedic Andro"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=70756&streamencoding=mp31", 
+            "name": "Brennus"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=70757&streamencoding=mp31", 
+            "name": "Ifoanga"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6376"
+}

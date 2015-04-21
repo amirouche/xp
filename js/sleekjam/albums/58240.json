@@ -1,0 +1,24 @@
+{
+    "name": "Stargrave's Compositions", 
+    "artist": "Stargrave", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58240&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497310&streamencoding=mp31", 
+            "name": "Farsiharsh - Intro + 5 tracks"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497317&streamencoding=mp31", 
+            "name": "Liebelieden - 14 tracks"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497335&streamencoding=mp31", 
+            "name": "Krieghalten - 8 tracks"
+        }
+    ], 
+    "release": "2009", 
+    "id": "58240"
+}

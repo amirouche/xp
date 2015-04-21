@@ -1,0 +1,44 @@
+{
+    "name": "None", 
+    "artist": "WMRI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109466&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925726&streamencoding=mp31", 
+            "name": "Hope"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925725&streamencoding=mp31", 
+            "name": "Sad"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925724&streamencoding=mp31", 
+            "name": "Space Flight"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925723&streamencoding=mp31", 
+            "name": "Miracle"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925722&streamencoding=mp31", 
+            "name": "Meeting Sunrise"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925721&streamencoding=mp31", 
+            "name": "Synthez"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925720&streamencoding=mp31", 
+            "name": "None"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109466"
+}

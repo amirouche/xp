@@ -1,0 +1,34 @@
+{
+    "name": "Full", 
+    "artist": "Teleflorists", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23573&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161153&streamencoding=mp31", 
+            "name": "Our Trismos"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161164&streamencoding=mp31", 
+            "name": "Pharmakon Wells"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161172&streamencoding=mp31", 
+            "name": "Eight Lines"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161174&streamencoding=mp31", 
+            "name": "(i) Irreverent"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161180&streamencoding=mp31", 
+            "name": "Serial Live"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23573"
+}

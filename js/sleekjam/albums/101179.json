@@ -1,0 +1,44 @@
+{
+    "name": "DJ Death", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101179&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863880&streamencoding=mp31", 
+            "name": "Wake Up America ft spinningmerkaba"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863881&streamencoding=mp31", 
+            "name": "Laughing At Cripples"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863882&streamencoding=mp31", 
+            "name": "Grow ft mykleanthony"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863886&streamencoding=mp31", 
+            "name": "Sun High ft septahelix  + 4nsic"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863887&streamencoding=mp31", 
+            "name": "Had A Vision ft 4nsic"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863888&streamencoding=mp31", 
+            "name": "Caffeine Love Affair ft mindmapthat"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=863889&streamencoding=mp31", 
+            "name": "DJ Death"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101179"
+}

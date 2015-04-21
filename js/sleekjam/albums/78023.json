@@ -1,0 +1,74 @@
+{
+    "name": "THE CHIP OF SUMMER", 
+    "artist": "Toshinori Murashima", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78023&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672417&streamencoding=mp31", 
+            "name": "apple"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672415&streamencoding=mp31", 
+            "name": "Edo Beats"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672425&streamencoding=mp31", 
+            "name": "Edo Beats 2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672416&streamencoding=mp31", 
+            "name": "8-bitter"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672422&streamencoding=mp31", 
+            "name": "1,2,3,4"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672419&streamencoding=mp31", 
+            "name": "ez"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672423&streamencoding=mp31", 
+            "name": "Like A Star Wish To Be"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672426&streamencoding=mp31", 
+            "name": "Opti"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672418&streamencoding=mp31", 
+            "name": "Peach"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672420&streamencoding=mp31", 
+            "name": "AIN'T NO CRY"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672424&streamencoding=mp31", 
+            "name": "South"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672414&streamencoding=mp31", 
+            "name": "THE CHIP OF SUMMER"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672421&streamencoding=mp31", 
+            "name": "Edo Beats 2 160"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78023"
+}

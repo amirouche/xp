@@ -1,0 +1,54 @@
+{
+    "name": "In This Small Space", 
+    "artist": "Urtzi Azkue", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89394&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763422&streamencoding=mp31", 
+            "name": "Fall Again"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763420&streamencoding=mp31", 
+            "name": "Ecstasy Of Sound"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763421&streamencoding=mp31", 
+            "name": "The Meaning"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763425&streamencoding=mp31", 
+            "name": "Something Different"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763423&streamencoding=mp31", 
+            "name": "Listen To Me"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763424&streamencoding=mp31", 
+            "name": "Share This World"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763428&streamencoding=mp31", 
+            "name": "In This Small Space"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763427&streamencoding=mp31", 
+            "name": "For Something"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763426&streamencoding=mp31", 
+            "name": "Find a Message"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89394"
+}

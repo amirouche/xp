@@ -1,0 +1,29 @@
+{
+    "name": "PRISCILLE92", 
+    "artist": "AraKsas", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9467&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93563&streamencoding=mp31", 
+            "name": "priscille92"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93564&streamencoding=mp31", 
+            "name": "aliusemine"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93618&streamencoding=mp31", 
+            "name": "austeriamanedeux"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93628&streamencoding=mp31", 
+            "name": "genese"
+        }
+    ], 
+    "release": "2007", 
+    "id": "9467"
+}

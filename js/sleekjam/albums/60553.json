@@ -1,0 +1,49 @@
+{
+    "name": "M\u00e9di\u00e9vale R\u00eave", 
+    "artist": "Pakaypa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60553&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517838&streamencoding=mp31", 
+            "name": "agincourt carol ( UK early 15th century)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517841&streamencoding=mp31", 
+            "name": "douce dame joile( France early 14th century)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517835&streamencoding=mp31", 
+            "name": "sumer is icumen(UK early 14th century)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517834&streamencoding=mp31", 
+            "name": "angelus ad virginem( France early 14th century)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517837&streamencoding=mp31", 
+            "name": "l homme armee(France early 15th century)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517839&streamencoding=mp31", 
+            "name": "brid one brer( Unknow)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517836&streamencoding=mp31", 
+            "name": "edi beo thu (UK early 13th Century)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517840&streamencoding=mp31", 
+            "name": "palastinalied(Germany early 12th century)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60553"
+}

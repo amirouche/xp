@@ -1,0 +1,14 @@
+{
+    "name": "Anxiety (\u0411\u0435\u0441\u043f\u043e\u043a\u043e\u0439\u0441\u0442\u0432\u043e)", 
+    "artist": "Igor Aleksandriuk (\u0418\u0433\u043e\u0440\u044c \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u044e\u043a)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28890&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=193293&streamencoding=mp31", 
+            "name": "Anxiety (\u0411\u0435\u0441\u043f\u043e\u043a\u043e\u0439\u0441\u0442\u0432\u043e)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28890"
+}

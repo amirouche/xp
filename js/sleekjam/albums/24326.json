@@ -1,0 +1,74 @@
+{
+    "name": "Intimit\u00e4t", 
+    "artist": "Rebentisch", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24326&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165770&streamencoding=mp31", 
+            "name": "Single"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165899&streamencoding=mp31", 
+            "name": "Der Biss"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165788&streamencoding=mp31", 
+            "name": "Ich sp\u00fcr' den Tod"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165900&streamencoding=mp31", 
+            "name": "Keine Zukunft"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165790&streamencoding=mp31", 
+            "name": "An Deiner Seite"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165901&streamencoding=mp31", 
+            "name": "Durch Dich"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165792&streamencoding=mp31", 
+            "name": "Hirntot"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165793&streamencoding=mp31", 
+            "name": "Kindertotenlied"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165825&streamencoding=mp31", 
+            "name": "Kurze Story"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165902&streamencoding=mp31", 
+            "name": "Die by echoes (Rebentisch feat. Darkun)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165796&streamencoding=mp31", 
+            "name": "Versprechen verbluten (RMX by Jan_Solo)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165903&streamencoding=mp31", 
+            "name": "An Deiner Seite (RMX by THE DARK UNSPOKEN)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165904&streamencoding=mp31", 
+            "name": "Single (Analog RMX by Jan_Solo)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24326"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Source De Couleurs", 
+    "artist": "Green Friends", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104299&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=886930&streamencoding=mp31", 
+            "name": "Pollution (feat SAM)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=886954&streamencoding=mp31", 
+            "name": "Back To The Roots"
+        }
+    ], 
+    "release": "2011", 
+    "id": "104299"
+}

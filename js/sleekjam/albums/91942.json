@@ -1,0 +1,19 @@
+{
+    "name": "MIXEDLINES", 
+    "artist": "Guy Berrier", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91942&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783926&streamencoding=mp31", 
+            "name": "MULTILINES"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783927&streamencoding=mp31", 
+            "name": "TENDERLINE"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91942"
+}

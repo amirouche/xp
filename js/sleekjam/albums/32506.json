@@ -1,0 +1,49 @@
+{
+    "name": "Tears", 
+    "artist": "Agentorange", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32506&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220374&streamencoding=mp31", 
+            "name": "Tears "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220481&streamencoding=mp31", 
+            "name": "Everything is silent"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220421&streamencoding=mp31", 
+            "name": "Phoner "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220364&streamencoding=mp31", 
+            "name": "Losing"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220433&streamencoding=mp31", 
+            "name": "I protect you"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220454&streamencoding=mp31", 
+            "name": "Distant Cries"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220453&streamencoding=mp31", 
+            "name": "Homecoming"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220412&streamencoding=mp31", 
+            "name": "Creatures"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32506"
+}

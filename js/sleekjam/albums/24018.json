@@ -1,0 +1,34 @@
+{
+    "name": "Unipluriel", 
+    "artist": "Xavier Sansac", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24018&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163973&streamencoding=mp31", 
+            "name": "Moments"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163974&streamencoding=mp31", 
+            "name": "My enveloped harmonics"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163975&streamencoding=mp31", 
+            "name": "A Little Joy (to Raist)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163976&streamencoding=mp31", 
+            "name": "Back to Another Ocupation (Interlude)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163977&streamencoding=mp31", 
+            "name": "This Love"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24018"
+}

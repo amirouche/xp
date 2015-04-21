@@ -1,0 +1,59 @@
+{
+    "name": "Loz\u00e8re jazz festival", 
+    "artist": "Ben5bass", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77582&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668793&streamencoding=mp31", 
+            "name": "Valse pour Ninon"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668787&streamencoding=mp31", 
+            "name": "Immortel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668788&streamencoding=mp31", 
+            "name": "Lower East Side"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668790&streamencoding=mp31", 
+            "name": "De rires et de larmes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668789&streamencoding=mp31", 
+            "name": "Six fois dix"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668791&streamencoding=mp31", 
+            "name": "La samba de Bertrand le \u00e9lan"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668795&streamencoding=mp31", 
+            "name": "Avril"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668799&streamencoding=mp31", 
+            "name": "Le pongiste"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668794&streamencoding=mp31", 
+            "name": "Valse pour Timon"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668792&streamencoding=mp31", 
+            "name": "Vai poema"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77582"
+}

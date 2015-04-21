@@ -1,0 +1,64 @@
+{
+    "name": "Revenge of the 303", 
+    "artist": "Mischapex", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23600&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161288&streamencoding=mp31", 
+            "name": "A 303 theory "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161305&streamencoding=mp31", 
+            "name": "Dark site of the 303"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161311&streamencoding=mp31", 
+            "name": "303 proof"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161322&streamencoding=mp31", 
+            "name": "The supreme power of the 303"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161326&streamencoding=mp31", 
+            "name": "Afx 303"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161336&streamencoding=mp31", 
+            "name": "Maximum 303"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161344&streamencoding=mp31", 
+            "name": "Symfony 303"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161341&streamencoding=mp31", 
+            "name": "I remember you 303"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161348&streamencoding=mp31", 
+            "name": "Au 303"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161353&streamencoding=mp31", 
+            "name": "303 flavours"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161355&streamencoding=mp31", 
+            "name": "Counterstrike 303"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23600"
+}

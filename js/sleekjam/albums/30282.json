@@ -1,0 +1,49 @@
+{
+    "name": "Imparballe ", 
+    "artist": "Imparballe", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30282&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=203753&streamencoding=mp31", 
+            "name": "Avant de Partir.."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=203756&streamencoding=mp31", 
+            "name": "Trop Technique."
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=203774&streamencoding=mp31", 
+            "name": "On croque le rap a pleine dent"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=203775&streamencoding=mp31", 
+            "name": "La tombe"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=203788&streamencoding=mp31", 
+            "name": "I love.."
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=203790&streamencoding=mp31", 
+            "name": "Pourquoi C'est comme \u00e7a.."
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=203792&streamencoding=mp31", 
+            "name": "Inspecteur Alex"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=203797&streamencoding=mp31", 
+            "name": "C'est pas c'qu'on crois."
+        }
+    ], 
+    "release": "2008", 
+    "id": "30282"
+}

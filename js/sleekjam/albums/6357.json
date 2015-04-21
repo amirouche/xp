@@ -1,0 +1,54 @@
+{
+    "name": "Drop Alive", 
+    "artist": "DROP ALIVE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6357&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=68460&streamencoding=mp31", 
+            "name": "Never Happy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=68461&streamencoding=mp31", 
+            "name": "Give Me Hell"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=68462&streamencoding=mp31", 
+            "name": "Holy Song"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=68463&streamencoding=mp31", 
+            "name": "Anything Will Do"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=68464&streamencoding=mp31", 
+            "name": "Painted In A Corner"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=68465&streamencoding=mp31", 
+            "name": "Try Another Way"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=68466&streamencoding=mp31", 
+            "name": "Riot Or Rot"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=68467&streamencoding=mp31", 
+            "name": "Poser Loser"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=68470&streamencoding=mp31", 
+            "name": "Out Of My Way"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6357"
+}

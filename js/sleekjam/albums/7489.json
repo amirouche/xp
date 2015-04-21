@@ -1,0 +1,34 @@
+{
+    "name": "Cellardoor EP", 
+    "artist": "Cellardoor [2007]", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7489&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81631&streamencoding=mp31", 
+            "name": "Idols are made to delude you"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81632&streamencoding=mp31", 
+            "name": "Guns"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81633&streamencoding=mp31", 
+            "name": "Hypernothing"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81634&streamencoding=mp31", 
+            "name": "Rebel state of weakness"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81635&streamencoding=mp31", 
+            "name": "Losing grip"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7489"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "guarrocanroll", 
+    "artist": "titular mads", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78413&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675410&streamencoding=mp31", 
+            "name": "no nos juzges"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675411&streamencoding=mp31", 
+            "name": "lluvia de pu\u00f1os"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675394&streamencoding=mp31", 
+            "name": "Presa del vicio"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675388&streamencoding=mp31", 
+            "name": "1, 3"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675407&streamencoding=mp31", 
+            "name": "cansados de esperar"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675389&streamencoding=mp31", 
+            "name": "piezas redondas"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675390&streamencoding=mp31", 
+            "name": "1 razon"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675391&streamencoding=mp31", 
+            "name": "sonabitch"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675392&streamencoding=mp31", 
+            "name": "chica microhondas"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675393&streamencoding=mp31", 
+            "name": "algo de accion"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675408&streamencoding=mp31", 
+            "name": "la calle"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675395&streamencoding=mp31", 
+            "name": "guarrocanroll"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675409&streamencoding=mp31", 
+            "name": "sensual dreams"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78413"
+}

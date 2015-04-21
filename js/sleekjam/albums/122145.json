@@ -1,0 +1,24 @@
+{
+    "name": "Your time is now :-)", 
+    "artist": "Dajte Grammy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122145&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1037433&streamencoding=mp31", 
+            "name": "Dajte Grammy \u2013 Elenberg Family"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1037434&streamencoding=mp31", 
+            "name": "Dajte Grammy \u2013 Your time is now"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1037435&streamencoding=mp31", 
+            "name": "Dajte Grammy \u2013 Magic WOW"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122145"
+}

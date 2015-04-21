@@ -1,0 +1,44 @@
+{
+    "name": "Matant el temps", 
+    "artist": "Desgavell", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51429&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=418352&streamencoding=mp31", 
+            "name": "L'immigrant"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=418347&streamencoding=mp31", 
+            "name": "Tremola!!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=418351&streamencoding=mp31", 
+            "name": "Matant el temps"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=418353&streamencoding=mp31", 
+            "name": "Fem via"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=418349&streamencoding=mp31", 
+            "name": "LRAU"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=418350&streamencoding=mp31", 
+            "name": "Ombres al carrer"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=418348&streamencoding=mp31", 
+            "name": "Samaruc"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51429"
+}

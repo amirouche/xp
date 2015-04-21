@@ -1,0 +1,39 @@
+{
+    "name": "Misc beats", 
+    "artist": "Climetree", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121381&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031545&streamencoding=mp31", 
+            "name": "indiantechno4"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031546&streamencoding=mp31", 
+            "name": "indiantechno5"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031544&streamencoding=mp31", 
+            "name": "bollywoodtechno1"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031462&streamencoding=mp31", 
+            "name": "barelyindiantechno2"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031463&streamencoding=mp31", 
+            "name": "jazztechno1"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031464&streamencoding=mp31", 
+            "name": "jazzbarelytechno1"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121381"
+}

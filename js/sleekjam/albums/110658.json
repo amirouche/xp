@@ -1,0 +1,74 @@
+{
+    "name": "Telekom", 
+    "artist": "Ivan Samshit", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110658&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941938&streamencoding=mp31", 
+            "name": "Eta nezhnaja pesnja"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941926&streamencoding=mp31", 
+            "name": "Margin of error"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941934&streamencoding=mp31", 
+            "name": "Galo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941935&streamencoding=mp31", 
+            "name": "Insha tysha"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941929&streamencoding=mp31", 
+            "name": "Memory station"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941928&streamencoding=mp31", 
+            "name": "Moj nezhnyj drug"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941937&streamencoding=mp31", 
+            "name": "Kraftvektor"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941930&streamencoding=mp31", 
+            "name": "Aviator"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941927&streamencoding=mp31", 
+            "name": "Shemaid"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941932&streamencoding=mp31", 
+            "name": "Cyborgspace"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941933&streamencoding=mp31", 
+            "name": "Lunnyj korabl'"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941931&streamencoding=mp31", 
+            "name": "Net net net"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941936&streamencoding=mp31", 
+            "name": "Lezvazo"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110658"
+}

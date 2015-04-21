@@ -1,0 +1,39 @@
+{
+    "name": "History Of Happiness", 
+    "artist": "LesBalls", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20422&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=143258&streamencoding=mp31", 
+            "name": "Telephone"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=143254&streamencoding=mp31", 
+            "name": "Dare"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=143255&streamencoding=mp31", 
+            "name": "The Shit"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=143253&streamencoding=mp31", 
+            "name": "Without shoes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=143256&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=143257&streamencoding=mp31", 
+            "name": "Flowers"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20422"
+}

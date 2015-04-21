@@ -1,0 +1,29 @@
+{
+    "name": "Blue Route", 
+    "artist": "Blue Root", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128742&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080811&streamencoding=mp31", 
+            "name": "Just Words"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080812&streamencoding=mp31", 
+            "name": "Drix"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080833&streamencoding=mp31", 
+            "name": "Pierrot"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080834&streamencoding=mp31", 
+            "name": "Blue Route To Gan"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128742"
+}

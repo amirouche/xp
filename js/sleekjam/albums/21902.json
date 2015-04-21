@@ -1,0 +1,34 @@
+{
+    "name": "Miss France", 
+    "artist": "Kiff'On", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21902&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153519&streamencoding=mp31", 
+            "name": "Miss France"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153520&streamencoding=mp31", 
+            "name": "Docteur Funk"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153522&streamencoding=mp31", 
+            "name": "Funky Teuf"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153527&streamencoding=mp31", 
+            "name": "Si tu sais pas danser"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153529&streamencoding=mp31", 
+            "name": "Presse People"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21902"
+}

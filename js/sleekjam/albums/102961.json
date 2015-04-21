@@ -1,0 +1,29 @@
+{
+    "name": "Elixir for Blind Girls", 
+    "artist": "Mojo Pills", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102961&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=877014&streamencoding=mp31", 
+            "name": "01 - Business as Usual"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=877013&streamencoding=mp31", 
+            "name": "02 - Y Generation"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=877012&streamencoding=mp31", 
+            "name": "03 - Mind the Naiads"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=877015&streamencoding=mp31", 
+            "name": "04 - Tale of the Funkousins"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102961"
+}

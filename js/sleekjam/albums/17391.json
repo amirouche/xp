@@ -1,0 +1,14 @@
+{
+    "name": "Pas De Sens", 
+    "artist": "KaOS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17391&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124476&streamencoding=mp31", 
+            "name": "Pas De Sens"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17391"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "P\u00eache aux moules/ \u041f\u0435\u0448\u043e\u043c\u0443\u043b\u044c", 
+    "artist": "The Racoons", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54187&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452509&streamencoding=mp31", 
+            "name": "Dans Plinn/Ton Simple"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451120&streamencoding=mp31", 
+            "name": "Gavotte/ Horse Branle   "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451137&streamencoding=mp31", 
+            "name": "J`ai promis \u00e0 ma ch\u00e8re amie"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451140&streamencoding=mp31", 
+            "name": "Malurone-Malurette"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451148&streamencoding=mp31", 
+            "name": "Forzh/ Larid\u00e9"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451170&streamencoding=mp31", 
+            "name": "Sur l`Pont d`Morlaix   "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451172&streamencoding=mp31", 
+            "name": "Svenska Polka   "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451191&streamencoding=mp31", 
+            "name": "Cuckoo\u2019s Nest etc. "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451206&streamencoding=mp31", 
+            "name": "Augustin   "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451220&streamencoding=mp31", 
+            "name": "Tirvan Polkka   "
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451245&streamencoding=mp31", 
+            "name": "Melnik"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54187"
+}

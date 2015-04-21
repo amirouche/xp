@@ -1,0 +1,14 @@
+{
+    "name": "The Only Girl at the Bar feat. The Public Domain", 
+    "artist": "Melange Promenade", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8721&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90023&streamencoding=mp31", 
+            "name": "The Only Girl At The Bar (feat. The Dorsey Shaw Experience)"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8721"
+}

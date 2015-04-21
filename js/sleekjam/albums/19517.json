@@ -1,0 +1,29 @@
+{
+    "name": "'Ndemo!", 
+    "artist": "Men in Route", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19517&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137000&streamencoding=mp31", 
+            "name": "23 maggio"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137006&streamencoding=mp31", 
+            "name": "Born to shine"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137026&streamencoding=mp31", 
+            "name": "Night beat"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137084&streamencoding=mp31", 
+            "name": "To a Friend in his climb"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19517"
+}

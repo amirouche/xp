@@ -1,0 +1,74 @@
+{
+    "name": "Caf\u00e9 Cigare", 
+    "artist": "Jean-Albert MALATY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83590&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715591&streamencoding=mp31", 
+            "name": "cafe chaud"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715529&streamencoding=mp31", 
+            "name": "Sopha"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715535&streamencoding=mp31", 
+            "name": "Electro Cuba"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715527&streamencoding=mp31", 
+            "name": "nuages"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715534&streamencoding=mp31", 
+            "name": "epicurien"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715539&streamencoding=mp31", 
+            "name": "B\u00e9luga"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715528&streamencoding=mp31", 
+            "name": "Am\u00e9lie"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715533&streamencoding=mp31", 
+            "name": "Plate solitude"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715531&streamencoding=mp31", 
+            "name": "Laissez moi r\u00e9ver que"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715532&streamencoding=mp31", 
+            "name": "chinatown"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715536&streamencoding=mp31", 
+            "name": "Retour"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715537&streamencoding=mp31", 
+            "name": "Finalement"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715538&streamencoding=mp31", 
+            "name": "my home"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83590"
+}

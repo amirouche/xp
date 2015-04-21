@@ -1,0 +1,29 @@
+{
+    "name": "Boom! EP", 
+    "artist": "Skankshot", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86981&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=744490&streamencoding=mp31", 
+            "name": "Reclaim the Streets"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=744486&streamencoding=mp31", 
+            "name": "Rat Race"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=744487&streamencoding=mp31", 
+            "name": "Alaska Ska"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=744489&streamencoding=mp31", 
+            "name": "Riot! Riot! Riot!"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86981"
+}

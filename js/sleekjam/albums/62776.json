@@ -1,0 +1,14 @@
+{
+    "name": "\u0412\u0435\u0441\u043d\u0430 - Spring", 
+    "artist": "\u041c\u0430\u043a\u0441\u0438\u043c \u0415\u0433\u043e\u0440\u043e\u0432 / Maxim EGOROV", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62776&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=538559&streamencoding=mp31", 
+            "name": "\u0412\u0435\u0441\u043d\u0430 - Spring"
+        }
+    ], 
+    "release": "2010", 
+    "id": "62776"
+}

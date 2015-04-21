@@ -1,0 +1,54 @@
+{
+    "name": "Regroupement familial (beta!)", 
+    "artist": "Grre en famille", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33368&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225409&streamencoding=mp31", 
+            "name": "Roots culture"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225410&streamencoding=mp31", 
+            "name": "Espoir"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225411&streamencoding=mp31", 
+            "name": "Multiculture"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225412&streamencoding=mp31", 
+            "name": "Relaxez"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225413&streamencoding=mp31", 
+            "name": "la_vie_qui_va_qui_vient_"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225414&streamencoding=mp31", 
+            "name": "Jah love"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225415&streamencoding=mp31", 
+            "name": "Bat toi"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225416&streamencoding=mp31", 
+            "name": "Orgie clandestine"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225417&streamencoding=mp31", 
+            "name": "Close our eyes"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33368"
+}

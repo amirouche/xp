@@ -1,0 +1,39 @@
+{
+    "name": "Leseb\u00fchnen.Jam CD1", 
+    "artist": "Das Schieszhaus Jamsession Orchester", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91111&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776986&streamencoding=mp31", 
+            "name": "Praeludium"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777382&streamencoding=mp31", 
+            "name": "Milwaukee Deep"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776985&streamencoding=mp31", 
+            "name": "Auf der Maur"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776987&streamencoding=mp31", 
+            "name": "Incredible Machine"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776983&streamencoding=mp31", 
+            "name": "Doors of Perception"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776988&streamencoding=mp31", 
+            "name": "El lobo estepario"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91111"
+}

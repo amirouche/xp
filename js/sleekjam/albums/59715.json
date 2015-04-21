@@ -1,0 +1,74 @@
+{
+    "name": "Systematic Breakdown", 
+    "artist": "The System/Addicts", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59715&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509925&streamencoding=mp31", 
+            "name": "Systematic breakdown"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509940&streamencoding=mp31", 
+            "name": "Checking in/Checking out"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509962&streamencoding=mp31", 
+            "name": "Succubus cry"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509967&streamencoding=mp31", 
+            "name": "Gameboy Ska"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509969&streamencoding=mp31", 
+            "name": "Burrrn"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509971&streamencoding=mp31", 
+            "name": "Algorithims of the habits of human beings"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509987&streamencoding=mp31", 
+            "name": "Narco time"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509993&streamencoding=mp31", 
+            "name": "8 bit disaster"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510007&streamencoding=mp31", 
+            "name": "Meltdown"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510009&streamencoding=mp31", 
+            "name": "Gag and guillotine"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510012&streamencoding=mp31", 
+            "name": "The land where I was born"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510025&streamencoding=mp31", 
+            "name": "Crash and burn"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510032&streamencoding=mp31", 
+            "name": "Addicted"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59715"
+}

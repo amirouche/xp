@@ -1,0 +1,59 @@
+{
+    "name": "Legegabeen Kondairak (2012 RELOAD)", 
+    "artist": "Deiedra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111571&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948708&streamencoding=mp31", 
+            "name": "Zeltiar Bihotz Taupada"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948704&streamencoding=mp31", 
+            "name": "El Bosque y el Mar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948710&streamencoding=mp31", 
+            "name": "Outlaw Bluegrass"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948707&streamencoding=mp31", 
+            "name": "Al Borde del Abismo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948709&streamencoding=mp31", 
+            "name": "Acariciando el Silencio"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948703&streamencoding=mp31", 
+            "name": "Farewell to Ronnie & Banks"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948705&streamencoding=mp31", 
+            "name": "Dulce y Amargo Como un Bourbon"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948701&streamencoding=mp31", 
+            "name": "Fue un 29 de Junio"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948706&streamencoding=mp31", 
+            "name": "Azken Agurraren Beldur"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948702&streamencoding=mp31", 
+            "name": "Potajearen (Pub Version)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111571"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Darker Than Dark", 
+    "artist": "Abel Quintero (TheQman)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115656&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982033&streamencoding=mp31", 
+            "name": "Demons  vs Vampires"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982034&streamencoding=mp31", 
+            "name": "The devils Song"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982036&streamencoding=mp31", 
+            "name": "Drive For Your Life-final"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115656"
+}

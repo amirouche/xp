@@ -1,0 +1,44 @@
+{
+    "name": "We Kill Children EP", 
+    "artist": "EINHEIT", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99620&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852490&streamencoding=mp31", 
+            "name": "Einheit - 01 - A New Era"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852492&streamencoding=mp31", 
+            "name": "Einheit - 02 - We Kill Children"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852493&streamencoding=mp31", 
+            "name": "Einheit - 03 - United"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852494&streamencoding=mp31", 
+            "name": "Einheit - 04 - Slaves Of The Six String Masters"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852495&streamencoding=mp31", 
+            "name": "Einheit - 05 - Einheit Anthem(feat. Hardcore Hansen)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852496&streamencoding=mp31", 
+            "name": "Einheit - 06 - The Truth"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852497&streamencoding=mp31", 
+            "name": "Einheit - 07 - The Doom Of Einheit(The Division)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99620"
+}

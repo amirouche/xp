@@ -1,0 +1,24 @@
+{
+    "name": "Tsumugi (feat. Seimo Yamaguchi) [Dark Matter Remix]", 
+    "artist": "DJ Gami.K", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137150&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143941&streamencoding=mp31", 
+            "name": "Tsumugi (feat. Seimo Yamaguchi) [Dark Matter Remix]"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143939&streamencoding=mp31", 
+            "name": "Tsumugi (feat. Seimo Yamaguchi) [Dark Matter Remix] (Shakuhachi)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143940&streamencoding=mp31", 
+            "name": "Tsumugi (feat. Seimo Yamaguchi) [Dark Matter Remix] (Instrumental)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "137150"
+}

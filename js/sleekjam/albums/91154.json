@@ -1,0 +1,59 @@
+{
+    "name": "Leseb\u00fchnen.Jam CD 2", 
+    "artist": "Das Schieszhaus Jamsession Orchester", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91154&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777460&streamencoding=mp31", 
+            "name": "Weltraumbahnhof"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777459&streamencoding=mp31", 
+            "name": "Bluuues"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777464&streamencoding=mp31", 
+            "name": "Auf der Laur"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777461&streamencoding=mp31", 
+            "name": "Sounds like ..."
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777465&streamencoding=mp31", 
+            "name": "Relax!"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777466&streamencoding=mp31", 
+            "name": "Drum Solo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777467&streamencoding=mp31", 
+            "name": "Monsterf\u00fctterung"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777462&streamencoding=mp31", 
+            "name": "Kraftfeld"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777458&streamencoding=mp31", 
+            "name": "Schlaf, Kindlein, schlaf"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777463&streamencoding=mp31", 
+            "name": "Auslass"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91154"
+}

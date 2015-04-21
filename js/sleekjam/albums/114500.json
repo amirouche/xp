@@ -1,0 +1,59 @@
+{
+    "name": "Verbatim", 
+    "artist": "Mindless Hope", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114500&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952351&streamencoding=mp31", 
+            "name": "Trepidation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952347&streamencoding=mp31", 
+            "name": "The Hornets' Revenge"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952325&streamencoding=mp31", 
+            "name": "The Antikythera Mechanism"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952327&streamencoding=mp31", 
+            "name": "Mindless Hope"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952348&streamencoding=mp31", 
+            "name": "The Weeping Souls"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952349&streamencoding=mp31", 
+            "name": "An Amazing Night "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952328&streamencoding=mp31", 
+            "name": "No Pressure"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952350&streamencoding=mp31", 
+            "name": "What's Left"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952329&streamencoding=mp31", 
+            "name": "Tetraphobia"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952326&streamencoding=mp31", 
+            "name": "I'm Sorry for Believing"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114500"
+}

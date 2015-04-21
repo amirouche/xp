@@ -1,0 +1,44 @@
+{
+    "name": "Funkdafucap", 
+    "artist": "Bielebny", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27928&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186499&streamencoding=mp31", 
+            "name": "Good funk bouncing 4 the good beginning !"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186553&streamencoding=mp31", 
+            "name": "Got a Get it"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186556&streamencoding=mp31", 
+            "name": "skit 1"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186559&streamencoding=mp31", 
+            "name": "Best Thing"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186574&streamencoding=mp31", 
+            "name": " skit 2"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186577&streamencoding=mp31", 
+            "name": "Fungita"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186580&streamencoding=mp31", 
+            "name": "outro"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27928"
+}

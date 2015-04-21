@@ -1,0 +1,79 @@
+{
+    "name": "R\u00e9confort", 
+    "artist": "R\u00e9my", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56770&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=443051&streamencoding=mp31", 
+            "name": "Vers l'est"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=443075&streamencoding=mp31", 
+            "name": "Temps et torrent"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=443094&streamencoding=mp31", 
+            "name": "Temps modernes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444759&streamencoding=mp31", 
+            "name": "Ailleurs"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=444777&streamencoding=mp31", 
+            "name": "Vers la pop song"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=450353&streamencoding=mp31", 
+            "name": "Sur le lac"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=450379&streamencoding=mp31", 
+            "name": "Rebelle"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=450402&streamencoding=mp31", 
+            "name": "Rythm'n colors"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=450403&streamencoding=mp31", 
+            "name": "Logement subi"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481675&streamencoding=mp31", 
+            "name": "Bossa for LOL"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481678&streamencoding=mp31", 
+            "name": "Doigt de sable"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481706&streamencoding=mp31", 
+            "name": "Agit\u00e9"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481714&streamencoding=mp31", 
+            "name": "Evasion"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481730&streamencoding=mp31", 
+            "name": "Variation"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56770"
+}

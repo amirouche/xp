@@ -1,0 +1,59 @@
+{
+    "name": "ineditos", 
+    "artist": "Peli-set", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93498&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796532&streamencoding=mp31", 
+            "name": "1-peli-el predicador"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796537&streamencoding=mp31", 
+            "name": "2-peli-no me digas"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796534&streamencoding=mp31", 
+            "name": "3-peli-sincronizando"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796535&streamencoding=mp31", 
+            "name": "4-peli-si aqui estoy con un par de idiotas"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796536&streamencoding=mp31", 
+            "name": "peli-laboratorio de calamidades"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796629&streamencoding=mp31", 
+            "name": "6-1-peli.setcaptainpower-bonasera"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796539&streamencoding=mp31", 
+            "name": "7-2-peli-setfeatboricua-electroflow"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796542&streamencoding=mp31", 
+            "name": "8-3-peli-set-los unos los otros los nadie"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796538&streamencoding=mp31", 
+            "name": "9-4-peli-set-pasaje a drums and bass"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796541&streamencoding=mp31", 
+            "name": "10-5-peli.set-covers 2minutos.novedades"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93498"
+}

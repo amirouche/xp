@@ -1,0 +1,89 @@
+{
+    "name": "Dernier concert", 
+    "artist": "Dario", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90689&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773672&streamencoding=mp31", 
+            "name": "Collection"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773674&streamencoding=mp31", 
+            "name": "Le Courage des raseurs de cr\u00e2nes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773678&streamencoding=mp31", 
+            "name": "Imagines"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773682&streamencoding=mp31", 
+            "name": "T\u00eate de vainqueur"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773671&streamencoding=mp31", 
+            "name": "Les Affinit\u00e9s \u00e9lectives"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773676&streamencoding=mp31", 
+            "name": "Cassandra"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773680&streamencoding=mp31", 
+            "name": "Comme un ver"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773685&streamencoding=mp31", 
+            "name": "Miasmo"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773673&streamencoding=mp31", 
+            "name": "Tes grands chevaux"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773681&streamencoding=mp31", 
+            "name": "Zo\u00e9"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773683&streamencoding=mp31", 
+            "name": "Ce soir"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773677&streamencoding=mp31", 
+            "name": "Manger un clown"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773679&streamencoding=mp31", 
+            "name": "Les Suppositoires"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773686&streamencoding=mp31", 
+            "name": "Disponible"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773684&streamencoding=mp31", 
+            "name": "Trop \u00e9troit"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773675&streamencoding=mp31", 
+            "name": "Un autre dormeur"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90689"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Informatica 2", 
+    "artist": "Dayana", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115736&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=982552&streamencoding=mp31", 
+            "name": "Inform\u00e1tica a aprender "
+        }
+    ], 
+    "release": "2013", 
+    "id": "115736"
+}

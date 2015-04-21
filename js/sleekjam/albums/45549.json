@@ -1,0 +1,59 @@
+{
+    "name": "melodia", 
+    "artist": "Noblemo \"piano,sountrack,lounge\"", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45549&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=346251&streamencoding=mp31", 
+            "name": "no_war"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=346250&streamencoding=mp31", 
+            "name": "crystal"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=346254&streamencoding=mp31", 
+            "name": "melodia"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=346267&streamencoding=mp31", 
+            "name": "fly melodia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=346269&streamencoding=mp31", 
+            "name": "no limite"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=346272&streamencoding=mp31", 
+            "name": "noelia"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=346278&streamencoding=mp31", 
+            "name": "planete nature"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=346287&streamencoding=mp31", 
+            "name": "sans_retour"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=346288&streamencoding=mp31", 
+            "name": "the good dream"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=346315&streamencoding=mp31", 
+            "name": "envoout\u00e9"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45549"
+}

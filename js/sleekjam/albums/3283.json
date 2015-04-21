@@ -1,0 +1,64 @@
+{
+    "name": "CAEROU", 
+    "artist": "CAEROU", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3283&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23766&streamencoding=mp31", 
+            "name": "Anthem"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23767&streamencoding=mp31", 
+            "name": "Eden"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23768&streamencoding=mp31", 
+            "name": "Fiat Lux !"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23769&streamencoding=mp31", 
+            "name": "Jhada"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23770&streamencoding=mp31", 
+            "name": "Moonsoon"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23771&streamencoding=mp31", 
+            "name": "New World"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23772&streamencoding=mp31", 
+            "name": "Rarefaction "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23773&streamencoding=mp31", 
+            "name": "Raven"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23774&streamencoding=mp31", 
+            "name": "R\u00eave de Lune    "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23775&streamencoding=mp31", 
+            "name": "Shiva"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23776&streamencoding=mp31", 
+            "name": "Wires"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3283"
+}

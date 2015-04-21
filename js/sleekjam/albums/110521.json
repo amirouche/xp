@@ -1,0 +1,59 @@
+{
+    "name": "Lctrolord-lctrolord", 
+    "artist": "Lctrolord", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110521&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940858&streamencoding=mp31", 
+            "name": "xaezs"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940860&streamencoding=mp31", 
+            "name": "chxz"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940859&streamencoding=mp31", 
+            "name": "upqdnes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940855&streamencoding=mp31", 
+            "name": "irnrtlxl"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940857&streamencoding=mp31", 
+            "name": "zmrzbe"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940854&streamencoding=mp31", 
+            "name": "upqdnes vs2"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940861&streamencoding=mp31", 
+            "name": "fmnkfahth pt1"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940856&streamencoding=mp31", 
+            "name": "rorrddnq"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940862&streamencoding=mp31", 
+            "name": "whomfow"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940863&streamencoding=mp31", 
+            "name": "fmnkfahth pt2"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110521"
+}

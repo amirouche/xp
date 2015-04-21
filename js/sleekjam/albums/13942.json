@@ -1,0 +1,39 @@
+{
+    "name": "Ukulele Noir - East Boston Make Out Club Band", 
+    "artist": "ARTSomerville", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13942&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111131&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111132&streamencoding=mp31", 
+            "name": "You Can't be a Stalker Without Binoculars"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111133&streamencoding=mp31", 
+            "name": "My Fat Dad"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111134&streamencoding=mp31", 
+            "name": "The Dirtest Song I Could Possibly Write on My Ukulele Dedicated to My Mom"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111135&streamencoding=mp31", 
+            "name": "You'll be a Good Wife in Ten Years"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111136&streamencoding=mp31", 
+            "name": "Better"
+        }
+    ], 
+    "release": "2007", 
+    "id": "13942"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Translucent Ghost", 
+    "artist": "Bleak Fiction", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112089&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953345&streamencoding=mp31", 
+            "name": "Desolation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953344&streamencoding=mp31", 
+            "name": "Occult Sun"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953343&streamencoding=mp31", 
+            "name": "Halcyon"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953340&streamencoding=mp31", 
+            "name": "Translucent Ghost"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953341&streamencoding=mp31", 
+            "name": "Frail"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953342&streamencoding=mp31", 
+            "name": "Innocent Eyes"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953338&streamencoding=mp31", 
+            "name": "Dusk Passage"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953339&streamencoding=mp31", 
+            "name": "Childhood"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112089"
+}

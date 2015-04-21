@@ -1,0 +1,69 @@
+{
+    "name": "Breaking Obsession", 
+    "artist": "Heidi Sierra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74294&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641428&streamencoding=mp31", 
+            "name": "Unhappy Ending"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641430&streamencoding=mp31", 
+            "name": "You Damaged This Soul"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641426&streamencoding=mp31", 
+            "name": "Beautiful Creatures"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641427&streamencoding=mp31", 
+            "name": "In the Night"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641422&streamencoding=mp31", 
+            "name": "Borderline "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641424&streamencoding=mp31", 
+            "name": "Winter Love "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641425&streamencoding=mp31", 
+            "name": "Forbidden Love"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641434&streamencoding=mp31", 
+            "name": "Forever"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641432&streamencoding=mp31", 
+            "name": "Prisoner"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641423&streamencoding=mp31", 
+            "name": "In The Shadows"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641429&streamencoding=mp31", 
+            "name": "Love's Recollection"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=641431&streamencoding=mp31", 
+            "name": "Goodbye Twilight (Outro)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74294"
+}

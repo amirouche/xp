@@ -1,0 +1,54 @@
+{
+    "name": "Astreaux World: In Memory Of Rick Woll", 
+    "artist": "Out Of Orion (Ox3)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122868&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043423&streamencoding=mp31", 
+            "name": "Passing Through Empty Space"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043424&streamencoding=mp31", 
+            "name": "The Oceans Of Pluto"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043417&streamencoding=mp31", 
+            "name": "Mining The Moon"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043421&streamencoding=mp31", 
+            "name": "Warned Off"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043425&streamencoding=mp31", 
+            "name": "Tiangong"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043418&streamencoding=mp31", 
+            "name": "Cold Fusion Propulsion"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043419&streamencoding=mp31", 
+            "name": "EMP Doomsday"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043420&streamencoding=mp31", 
+            "name": "Lunar Artifacts"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043422&streamencoding=mp31", 
+            "name": "Otherworldly Sprites"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122868"
+}

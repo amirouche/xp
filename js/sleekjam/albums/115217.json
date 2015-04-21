@@ -1,0 +1,64 @@
+{
+    "name": "Turkey", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115217&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978309&streamencoding=mp31", 
+            "name": "Amy Winehouse Blues"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978311&streamencoding=mp31", 
+            "name": "Jah ReCCreate ft Numeron"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978312&streamencoding=mp31", 
+            "name": "Concept Of Love"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978313&streamencoding=mp31", 
+            "name": "Laughing At Cripples"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978315&streamencoding=mp31", 
+            "name": "Female Hero"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978314&streamencoding=mp31", 
+            "name": "3 Pin Din Plug"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978316&streamencoding=mp31", 
+            "name": "When Love Comes Back To The Dancefloor"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978307&streamencoding=mp31", 
+            "name": "Pieces ft Jacob Nowak"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978306&streamencoding=mp31", 
+            "name": "Music Biz Today ft Alex"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978310&streamencoding=mp31", 
+            "name": "Best Christmas Yet"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978317&streamencoding=mp31", 
+            "name": "turkey, security and death"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115217"
+}

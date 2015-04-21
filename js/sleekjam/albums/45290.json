@@ -1,0 +1,19 @@
+{
+    "name": "thesacredbugman: live 1", 
+    "artist": "The Sacred Datura", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45290&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343647&streamencoding=mp31", 
+            "name": "01"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343648&streamencoding=mp31", 
+            "name": "SACREDBUGMAN 02"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45290"
+}

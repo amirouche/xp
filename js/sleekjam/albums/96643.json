@@ -1,0 +1,84 @@
+{
+    "name": "Nuclear Boogie", 
+    "artist": "Franck Camu", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96643&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826465&streamencoding=mp31", 
+            "name": "In The Mood For Love"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826466&streamencoding=mp31", 
+            "name": "Glowin' In The Night"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826467&streamencoding=mp31", 
+            "name": "Rock'N'Roll All Night Long"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826468&streamencoding=mp31", 
+            "name": "GDB #2532"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826469&streamencoding=mp31", 
+            "name": "I'm Back"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826470&streamencoding=mp31", 
+            "name": "Plus Vite Chauffeur"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826471&streamencoding=mp31", 
+            "name": "Le Diable Et l'Irradi\u00e9"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826472&streamencoding=mp31", 
+            "name": "C'te Donzelle"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826473&streamencoding=mp31", 
+            "name": "Bop 138"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826474&streamencoding=mp31", 
+            "name": "Les Canards"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826475&streamencoding=mp31", 
+            "name": "Big Boss"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826476&streamencoding=mp31", 
+            "name": "Compte Douze Blues"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826477&streamencoding=mp31", 
+            "name": "Abandonn\u00e9"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826478&streamencoding=mp31", 
+            "name": "Tranche De Vie"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=826479&streamencoding=mp31", 
+            "name": "Bop 195"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96643"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "\u042d\u043c\u0430\u043d\u0446\u044b\u043f\u0430\u0446\u0438\u044f", 
+    "artist": "\u0411\u0430\u043b\u0442\u0438\u043a\u0430", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75701&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653390&streamencoding=mp31", 
+            "name": "\u0411\u0430\u043b\u0422\u0438\u041a\u0430 - \u042d\u043c\u0430\u043d\u0446\u044b\u043f\u0430\u0446\u0438\u044f"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653389&streamencoding=mp31", 
+            "name": "\u0411\u0430\u043b\u0422\u0438\u041a\u0430 - \u0422\u0435\u043d\u0438"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653391&streamencoding=mp31", 
+            "name": "\u0411\u0430\u043b\u0422\u0438\u041a\u0430 - \u0414\u044b\u043c \u043d\u0430\u0434 \u0421\u0442\u043e\u043b\u0438\u0446\u0435\u0439"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653392&streamencoding=mp31", 
+            "name": "\u0411\u0430\u043b\u0422\u0438\u041a\u0430 - \u0420\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653495&streamencoding=mp31", 
+            "name": "\u0411\u0430\u043b\u0422\u0438\u041a\u0430 - \u0411\u0435\u0441\u0441\u0435\u0440\u0434\u0435\u0447\u043d\u0430\u044f"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653557&streamencoding=mp31", 
+            "name": "unknown 5 - Track 5"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75701"
+}

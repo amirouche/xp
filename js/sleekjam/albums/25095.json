@@ -1,0 +1,39 @@
+{
+    "name": "GREATES ONES", 
+    "artist": "smokingband", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25095&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170702&streamencoding=mp31", 
+            "name": "quiero mas"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170703&streamencoding=mp31", 
+            "name": "tinta y sangre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170705&streamencoding=mp31", 
+            "name": "hijo de la musica"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170701&streamencoding=mp31", 
+            "name": "q.f.d."
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170704&streamencoding=mp31", 
+            "name": "farscape"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170700&streamencoding=mp31", 
+            "name": "la perdicion (tu sigue asi)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "25095"
+}

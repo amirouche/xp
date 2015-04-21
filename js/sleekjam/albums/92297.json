@@ -1,0 +1,19 @@
+{
+    "name": "\u0412\u043e\u043b\u0433\u0430", 
+    "artist": "C\u043a\u0440\u0435\u0436\u0435\u0442", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92297&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787101&streamencoding=mp31", 
+            "name": "- \u0412\u043e\u043b\u0433\u0430"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=787105&streamencoding=mp31", 
+            "name": "- \u041f\u043e\u043f\u044b\u0442\u043a\u0430 \u0441\u0432\u044f\u0437\u0430\u0442\u044c\u0441\u044f"
+        }
+    ], 
+    "release": "2011", 
+    "id": "92297"
+}

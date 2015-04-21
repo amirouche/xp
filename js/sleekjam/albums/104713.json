@@ -1,0 +1,54 @@
+{
+    "name": "I breathe - I speak - I breathe", 
+    "artist": "ZMEIRADUGA ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104713&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890289&streamencoding=mp31", 
+            "name": "Travel on the fifth party _ \u041f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0435 \u043d\u0430 \u043f\u044f\u0442\u043e\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u0435"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890290&streamencoding=mp31", 
+            "name": "Udu dance _ \u0422\u0430\u043d\u0435\u0446 \u0423\u0434\u0443"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890291&streamencoding=mp31", 
+            "name": "Quickly ran - loudly spoke _ \u0411\u044b\u0441\u0442\u0440\u043e \u0431\u0435\u0436\u0430\u043b - \u0433\u0440\u043e\u043c\u043a\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u043b"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890292&streamencoding=mp31", 
+            "name": "Iron birdie _ \u0416\u0435\u043b\u0435\u0437\u043d\u0430\u044f \u043f\u0442\u0438\u0447\u043a\u0430"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890293&streamencoding=mp31", 
+            "name": "Dance of a bee _ \u0422\u0430\u043d\u0435\u0446 \u043f\u0447\u0435\u043b\u044b"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890294&streamencoding=mp31", 
+            "name": "Dance of a wooden foot _ \u0422\u0430\u043d\u0435\u0446 \u0434\u0435\u0440\u0435\u0432\u044f\u043d\u043d\u043e\u0439 \u043d\u043e\u0433\u0438.mp3"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890295&streamencoding=mp31", 
+            "name": "In a bottle _  \u0412\u043d\u0443\u0442\u0440\u0438 \u0431\u0443\u0442\u044b\u043b\u043a\u0438"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890296&streamencoding=mp31", 
+            "name": "Dance on that party of tone _  \u0422\u0430\u043d\u0435\u0446 \u043d\u0430 \u0442\u043e\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u0435 \u0442\u043e\u043d\u0430"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890297&streamencoding=mp31", 
+            "name": "The beginning _ \u041d\u0430\u0447\u0430\u043b\u043e"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104713"
+}

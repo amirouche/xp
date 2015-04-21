@@ -1,0 +1,69 @@
+{
+    "name": "Omens", 
+    "artist": "Mortal Plague", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93639&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=798753&streamencoding=mp31", 
+            "name": "House of the Vengeful Spirits"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=798758&streamencoding=mp31", 
+            "name": "Misanthropic Enlightenment"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=798679&streamencoding=mp31", 
+            "name": "I, Destructor"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=798677&streamencoding=mp31", 
+            "name": "Winter Is Neverending"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=798680&streamencoding=mp31", 
+            "name": "Visage"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=798757&streamencoding=mp31", 
+            "name": "Cult of the Mourning Sun"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=798678&streamencoding=mp31", 
+            "name": "Forged for Destruction"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=798676&streamencoding=mp31", 
+            "name": "Crushing Ignorance"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=798756&streamencoding=mp31", 
+            "name": "Reflections of a Dying Soul"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=798755&streamencoding=mp31", 
+            "name": "Bringer of Plagues"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=798754&streamencoding=mp31", 
+            "name": "Northern Demise"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=798759&streamencoding=mp31", 
+            "name": "Omens"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93639"
+}

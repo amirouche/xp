@@ -1,0 +1,39 @@
+{
+    "name": "Infiltration", 
+    "artist": "Strange Republik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20260&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141709&streamencoding=mp31", 
+            "name": "Stolen"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141710&streamencoding=mp31", 
+            "name": "Damage"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141711&streamencoding=mp31", 
+            "name": "Infiltration"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141712&streamencoding=mp31", 
+            "name": "Cage"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141713&streamencoding=mp31", 
+            "name": "Mirrors"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141714&streamencoding=mp31", 
+            "name": "Crash"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20260"
+}

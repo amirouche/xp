@@ -1,0 +1,19 @@
+{
+    "name": "Dedicado", 
+    "artist": "David Gomez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60295&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=515198&streamencoding=mp31", 
+            "name": "Entre el cielo y la tierra"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=515199&streamencoding=mp31", 
+            "name": "Previo"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60295"
+}

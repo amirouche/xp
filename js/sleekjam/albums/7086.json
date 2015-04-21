@@ -1,0 +1,84 @@
+{
+    "name": "RAIBEL UNIVERSITY", 
+    "artist": "RA\u00cfBEL", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7086&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78175&streamencoding=mp31", 
+            "name": "Track 1 Andi (inst maketa)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78176&streamencoding=mp31", 
+            "name": "Track 2 Ask of people live n u-zona-reggae)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78177&streamencoding=mp31", 
+            "name": "Track 3 Ask of people (inst maketa)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78179&streamencoding=mp31", 
+            "name": "Track 5  Blawi mix (inst maketa)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78180&streamencoding=mp31", 
+            "name": "Track 6 Chaleureux (live n Mallorca)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78181&streamencoding=mp31", 
+            "name": "Track 7  flamen'Ra\u00ef (live n Mallorca)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78182&streamencoding=mp31", 
+            "name": "Track 8  house of jah (u-zona-reggae)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78183&streamencoding=mp31", 
+            "name": "Track 9  I love you (maketa)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78184&streamencoding=mp31", 
+            "name": "Track 10  Kayen Rabi (live n Palma)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78185&streamencoding=mp31", 
+            "name": "Track 11  Nebghik (u-zona-reggae)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78186&streamencoding=mp31", 
+            "name": "Track 12  Original (maketa)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78188&streamencoding=mp31", 
+            "name": "Track 14 Rabia (inst)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78189&streamencoding=mp31", 
+            "name": "Track 15  Ra\u00ef beldi (u-zona-reggae)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78190&streamencoding=mp31", 
+            "name": "Track 16 Reggae-Ra\u00ef (maketa)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78191&streamencoding=mp31", 
+            "name": "Track 17  Rogui-riguo (u-zona-reggae)"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7086"
+}

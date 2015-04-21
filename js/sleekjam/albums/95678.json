@@ -1,0 +1,69 @@
+{
+    "name": "Dreaming Of A World With Colours", 
+    "artist": "Luxlucis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95678&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818632&streamencoding=mp31", 
+            "name": "Introduction"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818633&streamencoding=mp31", 
+            "name": "Documention Track"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818634&streamencoding=mp31", 
+            "name": "Ouster"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818635&streamencoding=mp31", 
+            "name": "Torpidity"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818636&streamencoding=mp31", 
+            "name": "Solace"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818637&streamencoding=mp31", 
+            "name": "Happiness"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818638&streamencoding=mp31", 
+            "name": "Famous Replication"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818639&streamencoding=mp31", 
+            "name": "Bias"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818640&streamencoding=mp31", 
+            "name": "Classic"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818642&streamencoding=mp31", 
+            "name": "Beyond The Mill"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818679&streamencoding=mp31", 
+            "name": "Back To The Roots"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818680&streamencoding=mp31", 
+            "name": "Drama"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95678"
+}

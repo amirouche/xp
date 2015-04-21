@@ -1,0 +1,54 @@
+{
+    "name": "This Is Not This", 
+    "artist": "Pharmacopia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125397&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062085&streamencoding=mp31", 
+            "name": "Sanctuary"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062110&streamencoding=mp31", 
+            "name": "I Need More Affection Than You Know"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062087&streamencoding=mp31", 
+            "name": "This Is Not This"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062088&streamencoding=mp31", 
+            "name": "The Morning In You"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062089&streamencoding=mp31", 
+            "name": "Superstition"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062090&streamencoding=mp31", 
+            "name": "Q+A"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062091&streamencoding=mp31", 
+            "name": "Beat 04-01"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062092&streamencoding=mp31", 
+            "name": "Samba Out"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062109&streamencoding=mp31", 
+            "name": "Henniger Herzog"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125397"
+}

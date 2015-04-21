@@ -1,0 +1,44 @@
+{
+    "name": "graphiqsgroove2010", 
+    "artist": "Graphiqsgroove", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82903&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710448&streamencoding=mp31", 
+            "name": "burntsienna"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710449&streamencoding=mp31", 
+            "name": "echoblue"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710450&streamencoding=mp31", 
+            "name": "pearlwhite"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710451&streamencoding=mp31", 
+            "name": "rosewood"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710452&streamencoding=mp31", 
+            "name": "ivygreen"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710453&streamencoding=mp31", 
+            "name": "daydream"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710454&streamencoding=mp31", 
+            "name": "wistaria"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82903"
+}

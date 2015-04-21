@@ -1,0 +1,59 @@
+{
+    "name": "FAYA MAKET VOL.II", 
+    "artist": "Meltin' Kolcha", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105343&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=895263&streamencoding=mp31", 
+            "name": "Meltin' Debarque"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=895264&streamencoding=mp31", 
+            "name": "Good Vibes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=895265&streamencoding=mp31", 
+            "name": "Politricks"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=895266&streamencoding=mp31", 
+            "name": "L'Humanit\u00e9"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=895267&streamencoding=mp31", 
+            "name": "Laska"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=895268&streamencoding=mp31", 
+            "name": "Policeman Ska"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=895269&streamencoding=mp31", 
+            "name": "Ton Esprit Feat. D-Nom"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=895270&streamencoding=mp31", 
+            "name": "Dez A Sound"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=895271&streamencoding=mp31", 
+            "name": "I Am Crazy"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=895272&streamencoding=mp31", 
+            "name": "Kickt It Again"
+        }
+    ], 
+    "release": "2012", 
+    "id": "105343"
+}

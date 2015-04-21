@@ -1,0 +1,29 @@
+{
+    "name": "A Face Obscena da Humanidade -  FACE I: PESTILENTIA", 
+    "artist": "Dios Incandescente / Abismo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76203&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=657547&streamencoding=mp31", 
+            "name": "Dios Incandescente - About The Light of Darkness..."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=657483&streamencoding=mp31", 
+            "name": "Dios Incandescente - ...Des Ombres n'existent pas sans Lumi\u00e8re"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=657534&streamencoding=mp31", 
+            "name": "Abismo - The humanity's obscene face"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=657481&streamencoding=mp31", 
+            "name": "Dios Incandescente - Voces del olvido"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76203"
+}

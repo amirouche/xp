@@ -1,0 +1,29 @@
+{
+    "name": "Tabaska", 
+    "artist": "Tabaska", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25632&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173518&streamencoding=mp31", 
+            "name": "Eponyme"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173520&streamencoding=mp31", 
+            "name": "La Gohardia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173524&streamencoding=mp31", 
+            "name": "Vas-y bouge"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173535&streamencoding=mp31", 
+            "name": "Viva america"
+        }
+    ], 
+    "release": "2008", 
+    "id": "25632"
+}

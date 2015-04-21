@@ -1,0 +1,159 @@
+{
+    "name": "Don romance (Vol.1)", 
+    "artist": "Various artists", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22373&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155876&streamencoding=mp31", 
+            "name": "Intro (Korova Na Trave)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155903&streamencoding=mp31", 
+            "name": "The Wind (Oleg Tolstolutsky)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155889&streamencoding=mp31", 
+            "name": "Do Not Forget (Oleg Tolstolutsky)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155873&streamencoding=mp31", 
+            "name": "Freedom (Hleb-Sol)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155877&streamencoding=mp31", 
+            "name": "Lullaby (Korova Na Trave)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155879&streamencoding=mp31", 
+            "name": "Our Friends Are Trees (Korova Na Trave)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155880&streamencoding=mp31", 
+            "name": "Autumnal Rain (Korova Na Trave)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155895&streamencoding=mp31", 
+            "name": "Body (Oleg Tolstolutsky)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155902&streamencoding=mp31", 
+            "name": "Serezhka\u2019s Memorial Evening (Oleg Tolstolutsky)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155868&streamencoding=mp31", 
+            "name": "Two Ravens (Hleb-Sol)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155881&streamencoding=mp31", 
+            "name": "Broken Felicity (Korova Na Trave)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155904&streamencoding=mp31", 
+            "name": "Path (Oleg Tolstolutsky)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155875&streamencoding=mp31", 
+            "name": "Homeless (Korova Na Trave)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155891&streamencoding=mp31", 
+            "name": "Wanderer (Oleg Tolstolutsky)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155870&streamencoding=mp31", 
+            "name": "Under The Sky Of Lienz (Hleb-Sol)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155882&streamencoding=mp31", 
+            "name": "A Waltz Of  Parting Summer (Korova Na Trave)"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155883&streamencoding=mp31", 
+            "name": "When Eyes (Novocherkasskye Bomzhi)"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155887&streamencoding=mp31", 
+            "name": "It Covers (Novocherkasskye Bomzhi)"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155888&streamencoding=mp31", 
+            "name": "Horde (Oleg Tolstolutsky)"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155872&streamencoding=mp31", 
+            "name": "Poetry (Hleb-Sol)"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155874&streamencoding=mp31", 
+            "name": "12th Track (Korova Na Trave)"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155871&streamencoding=mp31", 
+            "name": "A Sea Song About Fidelity (Hleb-Sol)"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155884&streamencoding=mp31", 
+            "name": "Again (Novocherkasskye Bomzhi)"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155885&streamencoding=mp31", 
+            "name": "Injection (Novocherkasskye Bomzhi)"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155898&streamencoding=mp31", 
+            "name": "Corpse (Oleg Tolstolutsky)"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155867&streamencoding=mp31", 
+            "name": "Awake, My Soul (Hleb-Sol)"
+        }, 
+        {
+            "position": 27, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155886&streamencoding=mp31", 
+            "name": "The Charmed (Novocherkasskye Bomzhi)"
+        }, 
+        {
+            "position": 28, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155890&streamencoding=mp31", 
+            "name": "Monday (Oleg Tolstolutsky)"
+        }, 
+        {
+            "position": 29, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155869&streamencoding=mp31", 
+            "name": "Don\u2019t Grieve, Don\u2019t Sadden, Belle (Hleb-Sol) "
+        }, 
+        {
+            "position": 30, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155878&streamencoding=mp31", 
+            "name": "Dream (Korova Na Trave)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22373"
+}

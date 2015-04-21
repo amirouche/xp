@@ -1,0 +1,29 @@
+{
+    "name": "rekviem po analogovomu signalu", 
+    "artist": "Sokpb Avabodha", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57433&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490064&streamencoding=mp31", 
+            "name": "sokpb avabodha - pre pre pre"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490065&streamencoding=mp31", 
+            "name": "sokpb avabodha - pre pre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490066&streamencoding=mp31", 
+            "name": "sokpb avabodha - pre"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490071&streamencoding=mp31", 
+            "name": "sokpb avabodha - rekviem po analogovomu signalu (pt.1-5)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "57433"
+}

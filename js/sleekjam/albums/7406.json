@@ -1,0 +1,54 @@
+{
+    "name": "Samadhi", 
+    "artist": "SaReGaMa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7406&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80884&streamencoding=mp31", 
+            "name": "Samadhi"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80885&streamencoding=mp31", 
+            "name": "One Thousand And One Nights (featuring Hamelin B\u00e9rengnier) "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80886&streamencoding=mp31", 
+            "name": "Amani"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80887&streamencoding=mp31", 
+            "name": "Three 4 Ten (with Nikila and Hamelin B\u00e9rengnier)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80888&streamencoding=mp31", 
+            "name": "Urban Lullaby (Metallophone Solo)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80889&streamencoding=mp31", 
+            "name": "Lotem"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80890&streamencoding=mp31", 
+            "name": "Seven Eleven"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80891&streamencoding=mp31", 
+            "name": "Desert Sunset (Flute Solo)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80892&streamencoding=mp31", 
+            "name": "Ruins of Bethel (Flute Solo)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "7406"
+}

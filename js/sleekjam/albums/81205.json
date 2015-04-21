@@ -1,0 +1,14 @@
+{
+    "name": "SKIES TO FLY - remix", 
+    "artist": "Bruno Susio", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81205&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=696488&streamencoding=mp31", 
+            "name": "sky master - Uscita - Stereo Out"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81205"
+}

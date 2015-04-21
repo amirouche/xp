@@ -1,0 +1,14 @@
+{
+    "name": "One Two Three", 
+    "artist": "Ilona Akimova / Juice Big City", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118281&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1004899&streamencoding=mp31", 
+            "name": "One Two Three - Juice Big City"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118281"
+}

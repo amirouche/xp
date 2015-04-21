@@ -1,0 +1,34 @@
+{
+    "name": "RUE BOULARD - PHST05", 
+    "artist": "PHST RECORDS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15109&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114744&streamencoding=mp31", 
+            "name": "Desert Session"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114747&streamencoding=mp31", 
+            "name": "Silly Pop & love Tunes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114745&streamencoding=mp31", 
+            "name": "Machin"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114746&streamencoding=mp31", 
+            "name": "Pumpkin"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114743&streamencoding=mp31", 
+            "name": "Unnamed"
+        }
+    ], 
+    "release": "2007", 
+    "id": "15109"
+}

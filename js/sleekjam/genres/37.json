@@ -1,0 +1,103 @@
+{
+    "albums": [
+        {
+            "release": "2008", 
+            "artist": "Marius Heil", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32737&imagesize=100", 
+            "id": "32737", 
+            "name": "Needless tiny Melodies"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Diaenoxe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75152&imagesize=100", 
+            "id": "75152", 
+            "name": "Le Train passe 3 fois"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Ephedrina Netlabel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129905&imagesize=100", 
+            "id": "129905", 
+            "name": "[EPH081] MARTINO BERNASCONI With MAS&DELAYER - Carne"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Traumedary", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58718&imagesize=100", 
+            "id": "58718", 
+            "name": "HOMF"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "-=ush=-", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63351&imagesize=100", 
+            "id": "63351", 
+            "name": "O'Haras en France"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Peter Schneider", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115020&imagesize=100", 
+            "id": "115020", 
+            "name": "SchneiderSound Work"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "dj ARTI", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100850&imagesize=100", 
+            "id": "100850", 
+            "name": "dj arti vol.1"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Whiteyes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33515&imagesize=100", 
+            "id": "33515", 
+            "name": "Child of Africa"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "BOO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96978&imagesize=100", 
+            "id": "96978", 
+            "name": "Sounds and Frames"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Stf", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21266&imagesize=100", 
+            "id": "21266", 
+            "name": "Intorno a me"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "CJ Shaman", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134033&imagesize=100", 
+            "id": "134033", 
+            "name": "Epic Announcements"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "dobroide", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70742&imagesize=100", 
+            "id": "70742", 
+            "name": "Toda una vida (A whole life)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Nikila", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87634&imagesize=100", 
+            "id": "87634", 
+            "name": "Short Tracks"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "The Flattest Land", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116022&imagesize=100", 
+            "id": "116022", 
+            "name": "Scenes Vol.1"
+        }
+    ], 
+    "name": "Sound Clip"
+}

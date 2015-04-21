@@ -1,0 +1,54 @@
+{
+    "name": "71 Miles", 
+    "artist": "The Chadderandom Abyss", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31646&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214871&streamencoding=mp31", 
+            "name": "71 Miles"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214872&streamencoding=mp31", 
+            "name": "The Bleeding Never Stopped"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214873&streamencoding=mp31", 
+            "name": "Calico Alley"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214874&streamencoding=mp31", 
+            "name": "Small Town Bar Talk"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214875&streamencoding=mp31", 
+            "name": "Cryptic Comment"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214876&streamencoding=mp31", 
+            "name": "Hoodie Strings Not Snakes"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214877&streamencoding=mp31", 
+            "name": "The Helen Reddy Rob Van Winkle Mash Up"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214878&streamencoding=mp31", 
+            "name": "A Man With A Bloody Bride"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=214879&streamencoding=mp31", 
+            "name": "Burning Like Autumn Leaves in an Open Wound"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31646"
+}

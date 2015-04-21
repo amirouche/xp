@@ -1,0 +1,245 @@
+@import "glyphicons";
+
+$lightblue3: #F3F8FA;
+$lightblue2: #ECF2F5;
+$lightblue: #C8CED6;
+$darkblue2: #53606F;
+$darkblue: #485766;
+
+$pureblue: #00BFF5;
+$greenblue: #00BFF5;
+
+$border: #DDD;
+
+#brand h1 {
+    font-weight: 700;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+}
+
+.paper {
+    box-shadow: -0px 1px 1px rgba(0,0,0,0.2), 0px 0px 1px rgba(0,0,0,0.2);
+}
+
+.open-actions-box {
+    display: inline-block;
+    font-size: 24px;
+    line-height: 1em;
+    margin-left: 5px;
+    padding: 0px 10px;
+    text-align: right;
+}
+
+.base-unread-count {
+    background: rgba(0, 0, 0, 0.3);
+    color: black;
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 4px;
+    position: relative;
+    top: -5px;
+    flex-shrink: 0;
+}
+
+
+#inbox {
+
+    .box {
+	padding: 10px;
+	background: white;
+	border-bottom: 1px solid $border;
+
+	cursor: pointer;
+
+	&.open {
+	    margin: 10px 0px;
+	    cursor: default;
+	}
+
+	&.open:first-child {
+	    margin-top: 0px;
+	    margin-bottom: 10px;
+	}
+
+	&.unread > div.header {
+	    font-weight: bold;
+	}
+
+	> div.header {
+
+	    display: flex;
+
+	    > .actions {
+		display: none;
+		color: rgba(0, 0, 0, .4);
+		margin-top: 3px;
+	    }
+
+	    &:hover .actions {
+		@extend .open-actions-box;
+	    }
+
+
+	    > .avatar {
+		padding: 0px 15px;
+
+		img {
+		    height: 30px;
+		    width: 30px;
+		    border-radius: 100%;
+		}
+
+		> span.envelope {
+		    @extend .glyphicon;
+		    @extend .glyphicon-envelope;
+		}
+	    }
+
+	    > .name {
+		width: 200px;
+		padding-top: 4px;
+	    }
+
+	    > .overview  {
+		display: flex;
+		padding-top: 4px;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		￼word-wrap: break-word;
+		flex: 1;
+
+		> span {
+		    overflow: hidden;
+		    text-overflow: ellipsis;
+		    white-space: nowrap;
+		    ￼word-wrap: break-word;
+
+		    &.unread-count {
+			@extend .base-unread-count;
+
+			& ~ span:last-child {
+			    color: black;
+			    /* shrink first ie. before previous siblings */
+			    flex-basis: 0%;
+			    flex-grow: 1;
+			    flex-shrink: 2;
+			}
+		    }
+
+		}
+	    }
+	}
+    }
+
+    .bundle {
+	@extend .box;
+	cursor: pointer;
+
+	&.open {
+	    background: $lightblue;
+	    margin-left: -10px;
+	    margin-right: -10px;
+	    border-bottom: 0px solid white;
+
+	    > h2:first-child {
+		margin-top: 0px;
+	    }
+	}
+    }
+
+    .thread {
+        @extend .box;
+
+        > div.header > .overview > span.preview {
+            color: #999 !important;
+	    flex: 1;
+	    
+            &:before {
+                content: "–";
+                margin: 0px 5px;
+            }
+        }
+
+	&.open {
+
+	    padding: 0px;
+	    
+            > div.mails {
+		div.separator {
+		    border-top: 1px solid #999;
+		    border-bottom: 1px solid #999;
+		    background: #CCC;
+		    margin: 20px 0px;
+		    height: 5px;
+		    cursor: pointer;
+
+		    &:hover {
+			background: #DDD;
+		    }
+		}
+
+		div.from {
+		    display: flex;
+
+		    padding-top: 15px;
+		    padding-bottom: 10px;
+		    padding-left: 5px;
+		    border-bottom: 1px solid #DDD;
+		    border-top: 1px solid #DDD;
+
+
+		    
+		    .avatar {
+			margin: 0px 15px;
+			height: 30px;
+			width: 30px;
+			border-radius: 100%;
+		    }
+
+		    /* > .name, > .subject, > .date { */
+		    /* 	padding-top: 5px; */
+		    /* } */
+		    
+		    .name {
+			width: 200px;
+		    }
+
+		    .unread-count {
+			@extend .base-unread-count;
+		    }
+
+		    .subject {
+			flex-basis: 0%;
+			flex-grow: 1;
+			flex-shrink: 2;
+		    }
+
+		    .date {
+			padding-right: 15px;
+		    }
+		}
+
+		div.mail:first-child div.from {
+		    border-top: 0px solid #DDD;
+		    cursor: pointer;
+		}
+
+
+
+		div.body {
+		    padding-left: 55px;
+
+		    .quote {
+			background: #DDD;
+			padding: 10px;
+			border-radius: 5px;
+		    }
+		}
+	    }
+	}
+    }
+
+}

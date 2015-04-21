@@ -1,0 +1,34 @@
+{
+    "name": "Pre-EP", 
+    "artist": "while they were sleeping", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32577&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221035&streamencoding=mp31", 
+            "name": "Prequel"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221036&streamencoding=mp31", 
+            "name": "The Only Easy Day Was Yesterday"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221037&streamencoding=mp31", 
+            "name": "We Don't Sleep on the Beach Anymore"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221038&streamencoding=mp31", 
+            "name": "Quell the Guilty Heart"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221039&streamencoding=mp31", 
+            "name": "A Friend Across the Margin"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32577"
+}

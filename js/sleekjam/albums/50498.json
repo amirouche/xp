@@ -1,0 +1,49 @@
+{
+    "name": "Shithouse Explodes", 
+    "artist": "Michael Bergmann", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50498&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407354&streamencoding=mp31", 
+            "name": "Funky Egghead"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407360&streamencoding=mp31", 
+            "name": "Min Leevsten Rocks"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407373&streamencoding=mp31", 
+            "name": "Cocaine Gets U Nuts"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407375&streamencoding=mp31", 
+            "name": "Scarborough Rock"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407467&streamencoding=mp31", 
+            "name": "I'm A Man"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407470&streamencoding=mp31", 
+            "name": "Shithouse Explodes"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407357&streamencoding=mp31", 
+            "name": "Funky Egghead reloaded live"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407471&streamencoding=mp31", 
+            "name": "Scream!"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50498"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "2n Congr\u00e9s De Figures Mundials", 
+    "artist": "Ska Band Malajun\u00e7a", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61481&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526257&streamencoding=mp31", 
+            "name": "Dibuixos Animats"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526256&streamencoding=mp31", 
+            "name": "El Cant Dels Pirates"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526253&streamencoding=mp31", 
+            "name": "Nascut Per A Estar Begut"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526259&streamencoding=mp31", 
+            "name": "Ara Com Et Sents?"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526258&streamencoding=mp31", 
+            "name": "Oi Galiza!!"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526255&streamencoding=mp31", 
+            "name": "N.T.N"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526254&streamencoding=mp31", 
+            "name": "Tan De Bo No Torne D\u00e9u"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526252&streamencoding=mp31", 
+            "name": "Insttal"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61481"
+}

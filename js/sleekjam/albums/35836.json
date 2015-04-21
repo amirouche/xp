@@ -1,0 +1,54 @@
+{
+    "name": "Maya Meditation 2012: The 13 Sacred  Tones", 
+    "artist": "Quetzalbwattio", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35836&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248016&streamencoding=mp31", 
+            "name": "MatizMagnetico"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248010&streamencoding=mp31", 
+            "name": "MatizLunar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248012&streamencoding=mp31", 
+            "name": "MatizEl\u00e9ctrico"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248011&streamencoding=mp31", 
+            "name": "MatizAutoexistente"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248009&streamencoding=mp31", 
+            "name": "MatizEntonado "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248008&streamencoding=mp31", 
+            "name": "Pulsar1aDimension.Vida"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248015&streamencoding=mp31", 
+            "name": "PulsarMaya2aDimension.Senti"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248014&streamencoding=mp31", 
+            "name": "Pulsar3aDim,Espacio"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248013&streamencoding=mp31", 
+            "name": "Pulsar4aDim.Tiempo"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35836"
+}

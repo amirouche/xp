@@ -1,0 +1,49 @@
+{
+    "name": "Between Earth & Hell", 
+    "artist": "deied", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17323&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123974&streamencoding=mp31", 
+            "name": "Deied - Between Earth & Hell - 01 - Lugosi\u00b4s Reality"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123983&streamencoding=mp31", 
+            "name": "Deied - Between Earth & Hell - 02 - Affected in time"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123988&streamencoding=mp31", 
+            "name": "Deied - Between Earth & Hell - 03 - Faster"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123964&streamencoding=mp31", 
+            "name": "Deied - Between Earth & Hell - 04 - Transformer"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123984&streamencoding=mp31", 
+            "name": "Deied - Between Earth & Hell - 05 - Rebirth"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123985&streamencoding=mp31", 
+            "name": "Deied - Between Earth & Hell - 06 - Get out of my head"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123986&streamencoding=mp31", 
+            "name": "Deied - Between Earth & Hell - 07 - Atheist"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=123982&streamencoding=mp31", 
+            "name": "Deied - Between Earth & Hell - 08 - Lugosi\u00b4s Dream"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17323"
+}

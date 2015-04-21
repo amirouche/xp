@@ -1,0 +1,59 @@
+{
+    "name": "Prise de son", 
+    "artist": "Rakoon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69612&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602019&streamencoding=mp31", 
+            "name": "Dub Play"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602023&streamencoding=mp31", 
+            "name": "Babylon System"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602020&streamencoding=mp31", 
+            "name": "Honte"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602021&streamencoding=mp31", 
+            "name": "Way of music feat. Dirty Sanchez"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602026&streamencoding=mp31", 
+            "name": "Weed in my pocket"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602022&streamencoding=mp31", 
+            "name": "Away"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602043&streamencoding=mp31", 
+            "name": "Utopia"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602024&streamencoding=mp31", 
+            "name": "Feeling Good"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602025&streamencoding=mp31", 
+            "name": "Down da riva"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602027&streamencoding=mp31", 
+            "name": "Chien d'tal (d\u00e9lire)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "69612"
+}

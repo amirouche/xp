@@ -1,0 +1,49 @@
+{
+    "name": "Por un pu\u00f1ado de canciones", 
+    "artist": "Cipri gonzalez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99444&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850425&streamencoding=mp31", 
+            "name": "Polvareda"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=849968&streamencoding=mp31", 
+            "name": "Heroes anonimos"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850421&streamencoding=mp31", 
+            "name": "Guayira"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850426&streamencoding=mp31", 
+            "name": "Por un trocito de cielo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850422&streamencoding=mp31", 
+            "name": "Nudos"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850427&streamencoding=mp31", 
+            "name": "Una sola estrella"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850424&streamencoding=mp31", 
+            "name": "Adela"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=850423&streamencoding=mp31", 
+            "name": "A tu salud"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99444"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "my friend loves circles", 
+    "artist": "Under The Table", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26648&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179134&streamencoding=mp31", 
+            "name": "across the ocean"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179152&streamencoding=mp31", 
+            "name": "purple turtle"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179162&streamencoding=mp31", 
+            "name": "grandfather"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179163&streamencoding=mp31", 
+            "name": "rakow"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179164&streamencoding=mp31", 
+            "name": "the hanging man"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179168&streamencoding=mp31", 
+            "name": "on a new road of life"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179178&streamencoding=mp31", 
+            "name": "red moon"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179200&streamencoding=mp31", 
+            "name": "zalamanie swiatla"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179203&streamencoding=mp31", 
+            "name": "on your grave"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179207&streamencoding=mp31", 
+            "name": "little babies"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179212&streamencoding=mp31", 
+            "name": "shit into roses"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26648"
+}

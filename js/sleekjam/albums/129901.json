@@ -1,0 +1,24 @@
+{
+    "name": "[EPH080] MAS&DELAYER - Urban Dub", 
+    "artist": "Ephedrina Netlabel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129901&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089881&streamencoding=mp31", 
+            "name": "Mas&Delayer - Rabba"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089882&streamencoding=mp31", 
+            "name": "Mas&Delayer- Instandub"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089883&streamencoding=mp31", 
+            "name": "Mas&Delayer - D_Urban"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129901"
+}

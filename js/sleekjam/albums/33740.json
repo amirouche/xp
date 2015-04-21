@@ -1,0 +1,39 @@
+{
+    "name": "M\u00faspel [CD2]", 
+    "artist": "V\u00e9gtam V\u00e1ltam", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33740&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225349&streamencoding=mp31", 
+            "name": "Fractal"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225637&streamencoding=mp31", 
+            "name": "391"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225752&streamencoding=mp31", 
+            "name": "Segunda Contrucci\u00f3n"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=226382&streamencoding=mp31", 
+            "name": "La China de la Mazorca"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=226395&streamencoding=mp31", 
+            "name": "Grande"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=226912&streamencoding=mp31", 
+            "name": "Kin\u00e9tica"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33740"
+}

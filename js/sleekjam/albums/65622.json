@@ -1,0 +1,54 @@
+{
+    "name": "Titanic 2010", 
+    "artist": "R\u00fcdiger Miller", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65622&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=567944&streamencoding=mp31", 
+            "name": "Titanic 2010 "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=567941&streamencoding=mp31", 
+            "name": "Herzen schlagen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=567945&streamencoding=mp31", 
+            "name": "Dein Vaterland braucht dich"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=567943&streamencoding=mp31", 
+            "name": "Schlaflied f\u00fcr Deutschland"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=567940&streamencoding=mp31", 
+            "name": "Freiheit "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=567942&streamencoding=mp31", 
+            "name": "Die Lunde meiner Wut"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=567947&streamencoding=mp31", 
+            "name": "Heisse Luft "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=567939&streamencoding=mp31", 
+            "name": "Mr. Pimp"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=567946&streamencoding=mp31", 
+            "name": "Wahnsinn"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65622"
+}

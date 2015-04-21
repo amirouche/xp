@@ -1,0 +1,29 @@
+{
+    "name": "Texas Bulldozer", 
+    "artist": "Austin Deathtrip", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114226&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970671&streamencoding=mp31", 
+            "name": "Austin Deathtrip - A Hypocrite's Manifest"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970675&streamencoding=mp31", 
+            "name": "Austin Deathtrip - Cain"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970676&streamencoding=mp31", 
+            "name": "Austin Deathtrip - Butt Spanker"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=970677&streamencoding=mp31", 
+            "name": "Austin Deathtrip - Terence Hills Have Ice"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114226"
+}

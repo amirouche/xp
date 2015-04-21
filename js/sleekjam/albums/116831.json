@@ -1,0 +1,44 @@
+{
+    "name": "Useless fossil", 
+    "artist": "Dajte Grammy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116831&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993128&streamencoding=mp31", 
+            "name": "Top view"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993130&streamencoding=mp31", 
+            "name": "My east"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993129&streamencoding=mp31", 
+            "name": "Guitar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993131&streamencoding=mp31", 
+            "name": "Sealing"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993132&streamencoding=mp31", 
+            "name": "Behind closed doors intro"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993133&streamencoding=mp31", 
+            "name": "Under the hood"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993134&streamencoding=mp31", 
+            "name": "Useless fossil"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116831"
+}

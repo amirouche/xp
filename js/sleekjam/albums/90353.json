@@ -1,0 +1,39 @@
+{
+    "name": "SWA", 
+    "artist": "SWA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90353&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770849&streamencoding=mp31", 
+            "name": "SWA #8-9"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770847&streamencoding=mp31", 
+            "name": "SWA #6"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770846&streamencoding=mp31", 
+            "name": "SWA #12"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770848&streamencoding=mp31", 
+            "name": "PUNTARELLO"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770845&streamencoding=mp31", 
+            "name": "SWA #4"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=770850&streamencoding=mp31", 
+            "name": "SWA #13"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90353"
+}

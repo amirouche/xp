@@ -1,0 +1,119 @@
+{
+    "name": "It's raining stars", 
+    "artist": "Project System 12", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101678&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867311&streamencoding=mp31", 
+            "name": "Project System 12 - Brave Souls"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867312&streamencoding=mp31", 
+            "name": "Project System 12 - Voices"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867313&streamencoding=mp31", 
+            "name": "Project System 12 - It's raining Stars"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867314&streamencoding=mp31", 
+            "name": "Project System 12 - Blue"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867315&streamencoding=mp31", 
+            "name": "Project System 12 - Driving by"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867316&streamencoding=mp31", 
+            "name": "Project System 12 - Forgotten"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867317&streamencoding=mp31", 
+            "name": "Project System 12 - Still in Love with You"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867318&streamencoding=mp31", 
+            "name": "Project System 12 - Abraxa President's Theme 2"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867319&streamencoding=mp31", 
+            "name": "Project System 12 - Selegna Sol"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867320&streamencoding=mp31", 
+            "name": "Project System 12 - Haunted Island"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867321&streamencoding=mp31", 
+            "name": "Project System 12 - The Gates are open"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867322&streamencoding=mp31", 
+            "name": "Project System 12 - Nothing bothers"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867323&streamencoding=mp31", 
+            "name": "Project System 12 - Empty Diary"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867324&streamencoding=mp31", 
+            "name": "Project System 12 - Evening Glory"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867325&streamencoding=mp31", 
+            "name": "Project System 12 - Ethernal"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867326&streamencoding=mp31", 
+            "name": "Project System 12 - Novalis"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867327&streamencoding=mp31", 
+            "name": "Project System 12 - Swiss Mountains"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867328&streamencoding=mp31", 
+            "name": "Project System 12 - Illusions"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867329&streamencoding=mp31", 
+            "name": "Project System 12 - Cry"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867330&streamencoding=mp31", 
+            "name": "Project System 12 - Fading in a Winterstorm"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867331&streamencoding=mp31", 
+            "name": "Project System 12 - Dark Toast"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867332&streamencoding=mp31", 
+            "name": "Project System 12 - Walzing Mathilda (Bonus)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101678"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Estamos Lejos", 
+    "artist": "Menos Uno", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24698&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168164&streamencoding=mp31", 
+            "name": "Vasos"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168170&streamencoding=mp31", 
+            "name": "Lo Mismo de Siempre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168175&streamencoding=mp31", 
+            "name": "Puedo Volar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168168&streamencoding=mp31", 
+            "name": "Cierra los Ojos"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168166&streamencoding=mp31", 
+            "name": "Asegurate"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168167&streamencoding=mp31", 
+            "name": "Caos"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168172&streamencoding=mp31", 
+            "name": "Momento Cero"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168173&streamencoding=mp31", 
+            "name": "Nubes"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168165&streamencoding=mp31", 
+            "name": "Angel sin Alas"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168171&streamencoding=mp31", 
+            "name": "Mendigar"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168174&streamencoding=mp31", 
+            "name": "Paralisis"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168169&streamencoding=mp31", 
+            "name": "Estamos Lejos"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24698"
+}

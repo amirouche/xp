@@ -1,0 +1,34 @@
+{
+    "name": "H-21", 
+    "artist": "Subterrestrial", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76503&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659380&streamencoding=mp31", 
+            "name": "H-21 I"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659381&streamencoding=mp31", 
+            "name": "H-21 II"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659382&streamencoding=mp31", 
+            "name": "H-21 III"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659383&streamencoding=mp31", 
+            "name": "H-21 IV"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659384&streamencoding=mp31", 
+            "name": "H-21 V"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76503"
+}

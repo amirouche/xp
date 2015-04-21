@@ -1,0 +1,49 @@
+{
+    "name": "Constellation Of Sadness", 
+    "artist": "Igor Yurin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130709&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095719&streamencoding=mp31", 
+            "name": "Flight Above The Earth"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095720&streamencoding=mp31", 
+            "name": "Autumn Comes Again"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095721&streamencoding=mp31", 
+            "name": "In The Lifeless Desert"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095722&streamencoding=mp31", 
+            "name": "Constellation Of Sadness"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095723&streamencoding=mp31", 
+            "name": "Road To Eternity"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095724&streamencoding=mp31", 
+            "name": "Against The Wind"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095725&streamencoding=mp31", 
+            "name": "Eternal Cold Of Cities"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095726&streamencoding=mp31", 
+            "name": "Distant Galaxy"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130709"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Piano unforgettable", 
+    "artist": "Alban Lepsy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119852&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017831&streamencoding=mp31", 
+            "name": "L'automne de la vie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017827&streamencoding=mp31", 
+            "name": "L'indif\u00e9rence"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017823&streamencoding=mp31", 
+            "name": "Si Tu Savais..."
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017832&streamencoding=mp31", 
+            "name": "L'espace d'un Instant"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017824&streamencoding=mp31", 
+            "name": "L'Hiver"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017825&streamencoding=mp31", 
+            "name": "Letter for My Love"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017826&streamencoding=mp31", 
+            "name": "Charmes d'une Femme"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017828&streamencoding=mp31", 
+            "name": "Theme"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017829&streamencoding=mp31", 
+            "name": "Si Loin"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017830&streamencoding=mp31", 
+            "name": "La Boite \u00e0 Musique "
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017833&streamencoding=mp31", 
+            "name": "Douceur de printemps"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017834&streamencoding=mp31", 
+            "name": "Contemporain Impro"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119852"
+}

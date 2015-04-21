@@ -1,0 +1,74 @@
+{
+    "name": "Turkish Delight the Opera - Studio Recording 2009", 
+    "artist": "Turkish Delight The Opera", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48276&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378424&streamencoding=mp31", 
+            "name": "Folly Of Youth"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378423&streamencoding=mp31", 
+            "name": "Passports // Window // Soaring"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378414&streamencoding=mp31", 
+            "name": "Argument"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378415&streamencoding=mp31", 
+            "name": "Angel Delight"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378426&streamencoding=mp31", 
+            "name": "Allegory"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378419&streamencoding=mp31", 
+            "name": "Can We Go Dancing?"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378425&streamencoding=mp31", 
+            "name": "Believe"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378421&streamencoding=mp31", 
+            "name": "Who The Hell Are You?"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378422&streamencoding=mp31", 
+            "name": "Turkish Delight"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378416&streamencoding=mp31", 
+            "name": "Infinite Sadness"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378420&streamencoding=mp31", 
+            "name": "Then It All Stopped"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378417&streamencoding=mp31", 
+            "name": "Over You"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378418&streamencoding=mp31", 
+            "name": "Through The Years"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48276"
+}

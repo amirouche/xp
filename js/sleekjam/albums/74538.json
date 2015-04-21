@@ -1,0 +1,59 @@
+{
+    "name": "Lost my soul", 
+    "artist": "TONIGHT WE FLY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74538&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643650&streamencoding=mp31", 
+            "name": "LOST MY SOUL"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643651&streamencoding=mp31", 
+            "name": "DEAR BROTHER"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643656&streamencoding=mp31", 
+            "name": "ONE I M WAITING FOR"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643658&streamencoding=mp31", 
+            "name": "GOOD BYE (I)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643659&streamencoding=mp31", 
+            "name": "HOPE AND DESPAIR"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643662&streamencoding=mp31", 
+            "name": "EVERY SECOND COUNTS"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643663&streamencoding=mp31", 
+            "name": "BACK TO THE OLD HOUSE"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643664&streamencoding=mp31", 
+            "name": "KIDS RUNAWAY (featuring Noise Control)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643666&streamencoding=mp31", 
+            "name": "TRIBUTE"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=643667&streamencoding=mp31", 
+            "name": "GOOD BYE (II)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74538"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Paminas weblog - Mozart in a mirror", 
+    "artist": "fex", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4285&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=35214&streamencoding=mp31", 
+            "name": "Dein weblog"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=35215&streamencoding=mp31", 
+            "name": "fatze-fitze-skizze"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4285"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "SnaylWarden", 
+    "artist": "SnaylWarden", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82017&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703393&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703424&streamencoding=mp31", 
+            "name": "I wanna be free instrumental"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703426&streamencoding=mp31", 
+            "name": "endless song"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703354&streamencoding=mp31", 
+            "name": "alenky zvet"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703429&streamencoding=mp31", 
+            "name": "space travel"
+        }
+    ], 
+    "release": "2010", 
+    "id": "82017"
+}

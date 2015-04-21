@@ -1,0 +1,39 @@
+{
+    "name": "Espera lo Proximo", 
+    "artist": "JAcK FiDo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115024&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976914&streamencoding=mp31", 
+            "name": "Mix Mario Bros - JAcKFiDo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976872&streamencoding=mp31", 
+            "name": "Deja Que Se Escuche"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976873&streamencoding=mp31", 
+            "name": "Ilusion"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976874&streamencoding=mp31", 
+            "name": "Te Necesito"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976875&streamencoding=mp31", 
+            "name": "Tu Amor"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=976876&streamencoding=mp31", 
+            "name": "Deja Que Se Escuche (Unofficial Beat)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115024"
+}

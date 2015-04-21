@@ -1,0 +1,109 @@
+{
+    "name": "Words And Music By McCartney and Lennon (deceased)", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24854&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169044&streamencoding=mp31", 
+            "name": "A Little Bit Of Elvis In Me!"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169045&streamencoding=mp31", 
+            "name": "Iraqi Pie"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169046&streamencoding=mp31", 
+            "name": "Bring The Good Time Back"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169047&streamencoding=mp31", 
+            "name": "Running Out Of Soul"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169048&streamencoding=mp31", 
+            "name": "Toot Hill"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169049&streamencoding=mp31", 
+            "name": "Swivelchair"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169050&streamencoding=mp31", 
+            "name": "(They Won't Let Me Grow) My Favourite Tree"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169051&streamencoding=mp31", 
+            "name": "America's Outside Toilet"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169052&streamencoding=mp31", 
+            "name": "Just A Ride"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169053&streamencoding=mp31", 
+            "name": "The Price Of Peace"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169054&streamencoding=mp31", 
+            "name": "Get Our Shit Together"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169055&streamencoding=mp31", 
+            "name": "Boot Rally"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169056&streamencoding=mp31", 
+            "name": "Free Mark Chapman"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169057&streamencoding=mp31", 
+            "name": "Dummy"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169059&streamencoding=mp31", 
+            "name": "When Viz Was Funny"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169060&streamencoding=mp31", 
+            "name": "MDMA"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169061&streamencoding=mp31", 
+            "name": "Gardening Is The New Rock And Roll"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169062&streamencoding=mp31", 
+            "name": "Ooh The Baby Jesus 2004"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169063&streamencoding=mp31", 
+            "name": "Rock God"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169228&streamencoding=mp31", 
+            "name": "Grill With George"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24854"
+}

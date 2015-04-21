@@ -1,0 +1,14 @@
+{
+    "name": "Tulpen aus Hamsterdam", 
+    "artist": "KangaRez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24763&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168576&streamencoding=mp31", 
+            "name": "Tulpen aus Hamsterdam"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24763"
+}

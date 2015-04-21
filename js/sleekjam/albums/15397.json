@@ -1,0 +1,54 @@
+{
+    "name": "Kasane!", 
+    "artist": "INTI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15397&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115562&streamencoding=mp31", 
+            "name": "01-Kasane"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115563&streamencoding=mp31", 
+            "name": "02-Ils sont fous"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115567&streamencoding=mp31", 
+            "name": "03-Le carre"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115568&streamencoding=mp31", 
+            "name": "04-Pachamama"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115569&streamencoding=mp31", 
+            "name": "05-Pauvre Buffalo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115574&streamencoding=mp31", 
+            "name": "06-Revolucion"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115576&streamencoding=mp31", 
+            "name": "07-La grande machoire"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115580&streamencoding=mp31", 
+            "name": "08-Brouillard"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115584&streamencoding=mp31", 
+            "name": "09-Reventon"
+        }
+    ], 
+    "release": "2007", 
+    "id": "15397"
+}

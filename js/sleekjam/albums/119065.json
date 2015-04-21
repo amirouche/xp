@@ -1,0 +1,74 @@
+{
+    "name": "Inane and Serene", 
+    "artist": "Exempt From Gravity", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119065&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011320&streamencoding=mp31", 
+            "name": "Animus Girl"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011321&streamencoding=mp31", 
+            "name": "Jeg slukker gadelamper"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011309&streamencoding=mp31", 
+            "name": "a straight line of resignation"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011310&streamencoding=mp31", 
+            "name": "R.U.R."
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011311&streamencoding=mp31", 
+            "name": "Evading My Resurrection"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011312&streamencoding=mp31", 
+            "name": "Birthday Party in the Backyard"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011313&streamencoding=mp31", 
+            "name": "Inane and Vast"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011314&streamencoding=mp31", 
+            "name": "Diekema"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011315&streamencoding=mp31", 
+            "name": "Stealth-Geek"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011316&streamencoding=mp31", 
+            "name": "Serene and Snide"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011317&streamencoding=mp31", 
+            "name": "Momentum of Mediocrity"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011318&streamencoding=mp31", 
+            "name": "Cacophony"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1011319&streamencoding=mp31", 
+            "name": "Amiable Boy"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119065"
+}

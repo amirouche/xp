@@ -1,0 +1,49 @@
+{
+    "name": "Nowhere's Ark", 
+    "artist": "Shatner's Revenge", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81740&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700936&streamencoding=mp31", 
+            "name": "Memory Is No Fun"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700933&streamencoding=mp31", 
+            "name": "Ghosts"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700937&streamencoding=mp31", 
+            "name": "Shawwty (Or Hip-Hop Called, He Sounded Mad)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700934&streamencoding=mp31", 
+            "name": "Nowhere's Ark"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700938&streamencoding=mp31", 
+            "name": "BRAIN!!!"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700935&streamencoding=mp31", 
+            "name": "'Dear Boz'"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700931&streamencoding=mp31", 
+            "name": "Sherlock"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700932&streamencoding=mp31", 
+            "name": "Shat's Last Stand"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81740"
+}

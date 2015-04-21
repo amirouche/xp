@@ -1,0 +1,54 @@
+{
+    "name": "Longing", 
+    "artist": "One Nasty Ego", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28790&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192571&streamencoding=mp31", 
+            "name": "Longing"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192584&streamencoding=mp31", 
+            "name": "Torn Apart"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192589&streamencoding=mp31", 
+            "name": "Blood Of An Angel"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192631&streamencoding=mp31", 
+            "name": "Longing II"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192638&streamencoding=mp31", 
+            "name": "Lost In A Dream"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192658&streamencoding=mp31", 
+            "name": "Dancing Shadows"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192676&streamencoding=mp31", 
+            "name": "Longing III"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192682&streamencoding=mp31", 
+            "name": "Neon Storm"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192704&streamencoding=mp31", 
+            "name": "The Final Longing"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28790"
+}

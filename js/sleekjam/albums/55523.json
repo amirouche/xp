@@ -1,0 +1,14 @@
+{
+    "name": "singolo- live@ SA TERRA MIA", 
+    "artist": "Mamavibe  Reggae Vibration", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55523&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468062&streamencoding=mp31", 
+            "name": "sa terra mia"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55523"
+}

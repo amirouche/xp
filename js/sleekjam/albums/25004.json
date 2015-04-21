@@ -1,0 +1,54 @@
+{
+    "name": "The Time of Life", 
+    "artist": "General Union", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25004&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170000&streamencoding=mp31", 
+            "name": "Basse Dance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170001&streamencoding=mp31", 
+            "name": "Beerdrinker - Lock the door"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170002&streamencoding=mp31", 
+            "name": "Doubt "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170003&streamencoding=mp31", 
+            "name": "East West Boogie "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170004&streamencoding=mp31", 
+            "name": "Journey "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170007&streamencoding=mp31", 
+            "name": "Phantom of Delight "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170008&streamencoding=mp31", 
+            "name": "Stuffing the elephant "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170009&streamencoding=mp31", 
+            "name": "Tell me ma - Hunting the hare"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170010&streamencoding=mp31", 
+            "name": "The time of life "
+        }
+    ], 
+    "release": "2008", 
+    "id": "25004"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Novus mea", 
+    "artist": "Eftos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90418&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771345&streamencoding=mp31", 
+            "name": "Novus mea I"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771342&streamencoding=mp31", 
+            "name": "Novus mea II"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771343&streamencoding=mp31", 
+            "name": "Novus mea III"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771344&streamencoding=mp31", 
+            "name": "Novus mea IV"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771346&streamencoding=mp31", 
+            "name": "Novus mea V"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771347&streamencoding=mp31", 
+            "name": "Novus mea VI"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771348&streamencoding=mp31", 
+            "name": "Novus mea VII"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=771349&streamencoding=mp31", 
+            "name": "Novus mea VIII"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90418"
+}

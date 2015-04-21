@@ -1,0 +1,54 @@
+{
+    "name": "Warnach 2007", 
+    "artist": "Musiciens de Surface", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17579&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125506&streamencoding=mp31", 
+            "name": "Le premier jour de May (XVIe s.)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125507&streamencoding=mp31", 
+            "name": "Le marchand de sable (L. Jouret)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125508&streamencoding=mp31", 
+            "name": "Plaisir d'amour"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125511&streamencoding=mp31", 
+            "name": "J'entends le loup (Pays de Caux)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125512&streamencoding=mp31", 
+            "name": "Kyrie des moines (A. Bruant)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125527&streamencoding=mp31", 
+            "name": "Ma Normandie (F. B\u00e9rat, 1836)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125513&streamencoding=mp31", 
+            "name": "La chanson des Canuts (A. Bruant)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125528&streamencoding=mp31", 
+            "name": "Mon p\u00e8re m'a donn\u00e9 un mari (Traditionnel)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125529&streamencoding=mp31", 
+            "name": "Introduction \u00e0 \"Malbrough s'en va t'en guerre\""
+        }
+    ], 
+    "release": "2008", 
+    "id": "17579"
+}

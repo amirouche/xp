@@ -1,0 +1,24 @@
+{
+    "name": "Trilogy in C Minor", 
+    "artist": "Mr Crispy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88960&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760566&streamencoding=mp31", 
+            "name": "Cm Part I"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760567&streamencoding=mp31", 
+            "name": "Cm Part II"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760568&streamencoding=mp31", 
+            "name": "Cm Part III"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88960"
+}

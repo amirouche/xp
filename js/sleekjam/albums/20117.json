@@ -1,0 +1,44 @@
+{
+    "name": "04 BXL / St Seb : R\u00e9cr\u00e9ations", 
+    "artist": "Grego Mondo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20117&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140809&streamencoding=mp31", 
+            "name": "Hangar de terre"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140817&streamencoding=mp31", 
+            "name": "Hangar des air"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140824&streamencoding=mp31", 
+            "name": "L'escalier"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140828&streamencoding=mp31", 
+            "name": "Le n\u00e9on sur les rails"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140834&streamencoding=mp31", 
+            "name": "Assis sur une chaise"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140850&streamencoding=mp31", 
+            "name": "Au sol"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140855&streamencoding=mp31", 
+            "name": "La brume se dissipe"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20117"
+}

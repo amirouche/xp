@@ -1,0 +1,69 @@
+{
+    "name": "Ambience", 
+    "artist": "Music4Games", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91891&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783236&streamencoding=mp31", 
+            "name": "Carsten Jessen-Endless Horizon"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783232&streamencoding=mp31", 
+            "name": "Carsten Jessen-Under Siege"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783508&streamencoding=mp31", 
+            "name": "Carsten Jessen-Indigo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783503&streamencoding=mp31", 
+            "name": "Carsten Jessen-Azure Cosmos"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783258&streamencoding=mp31", 
+            "name": "Carsten Jessen-To Live in Silence"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783227&streamencoding=mp31", 
+            "name": "Carsten Jessen-Water"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783234&streamencoding=mp31", 
+            "name": "Carsten Jessen-Remember"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783229&streamencoding=mp31", 
+            "name": "Carsten Jessen-Step Into Paradise"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783250&streamencoding=mp31", 
+            "name": "Carsten Jessen-Traveler"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783235&streamencoding=mp31", 
+            "name": "Carsten Jessen-Temple Ritual"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783230&streamencoding=mp31", 
+            "name": "Carsten Jessen-The Final Step"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=783509&streamencoding=mp31", 
+            "name": "Carsten Jessen-Falling Snow"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91891"
+}

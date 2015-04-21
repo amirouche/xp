@@ -1,0 +1,29 @@
+{
+    "name": "Sleepless EP", 
+    "artist": "Sleepless", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70850&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612227&streamencoding=mp31", 
+            "name": "Machines"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612228&streamencoding=mp31", 
+            "name": "Lost Number"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612226&streamencoding=mp31", 
+            "name": "Valentine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612229&streamencoding=mp31", 
+            "name": "Burning Bridges"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70850"
+}

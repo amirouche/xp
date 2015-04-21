@@ -1,0 +1,64 @@
+{
+    "name": "Los Heraldos Del Rey- Vuelve a Jesus-", 
+    "artist": "LOS HERALDOS DEL REY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88144&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750649&streamencoding=mp31", 
+            "name": "Vuelve a Jesus."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750650&streamencoding=mp31", 
+            "name": "Bartimeo."
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750535&streamencoding=mp31", 
+            "name": "Primer Amor."
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750651&streamencoding=mp31", 
+            "name": "Vamos a Festejar."
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750532&streamencoding=mp31", 
+            "name": "El Pozo de Jacob."
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750533&streamencoding=mp31", 
+            "name": "El Dia Del Se\u00f1or."
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750536&streamencoding=mp31", 
+            "name": "El Avivamiento."
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750530&streamencoding=mp31", 
+            "name": "El Rio de Dios."
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750652&streamencoding=mp31", 
+            "name": "El Corrido."
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750653&streamencoding=mp31", 
+            "name": "Llegar a Dios."
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750529&streamencoding=mp31", 
+            "name": "El Espiritu de Dios."
+        }
+    ], 
+    "release": "2011", 
+    "id": "88144"
+}

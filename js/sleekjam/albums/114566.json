@@ -1,0 +1,14 @@
+{
+    "name": "BassMatina'zzz", 
+    "artist": "Enrico Sartini", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114566&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973187&streamencoding=mp31", 
+            "name": "Bassmattina'zzz choco"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114566"
+}

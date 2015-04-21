@@ -1,0 +1,24 @@
+{
+    "name": "Laid Out My Seed", 
+    "artist": "Blind John O'Gunn", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125133&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060676&streamencoding=mp31", 
+            "name": "Laid Out My Seed"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060677&streamencoding=mp31", 
+            "name": "Comin' Home To Mali"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060678&streamencoding=mp31", 
+            "name": "Baby Got No Love"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125133"
+}

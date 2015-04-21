@@ -1,0 +1,39 @@
+{
+    "name": "Becoming the horror", 
+    "artist": "Mass Murder Machine", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43407&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322359&streamencoding=mp31", 
+            "name": "My Companion Part 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322355&streamencoding=mp31", 
+            "name": "Good day to die remastered"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322358&streamencoding=mp31", 
+            "name": "Aggressor"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322356&streamencoding=mp31", 
+            "name": "Becoming the horror"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322360&streamencoding=mp31", 
+            "name": "World Slavery"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322357&streamencoding=mp31", 
+            "name": "Deadline"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43407"
+}

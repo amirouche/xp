@@ -1,0 +1,49 @@
+{
+    "name": "SUNT", 
+    "artist": "Peter Loved", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62556&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536603&streamencoding=mp31", 
+            "name": "DON'T BE ALONE(remake)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536620&streamencoding=mp31", 
+            "name": "CENTRAL"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536621&streamencoding=mp31", 
+            "name": "DESERT CARAVAN"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536622&streamencoding=mp31", 
+            "name": "SFUSION"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536623&streamencoding=mp31", 
+            "name": "PIERODREAM"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536629&streamencoding=mp31", 
+            "name": "HAMJAZZ"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536625&streamencoding=mp31", 
+            "name": "RONDO "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536626&streamencoding=mp31", 
+            "name": "MEET YOURSELF"
+        }
+    ], 
+    "release": "2010", 
+    "id": "62556"
+}

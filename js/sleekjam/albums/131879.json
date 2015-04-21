@@ -1,0 +1,69 @@
+{
+    "name": "Mezilling\u00fces", 
+    "artist": "La Tarrancha", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131879&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104673&streamencoding=mp31", 
+            "name": "Okerreko bidetik"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104672&streamencoding=mp31", 
+            "name": "La nueite que t\u00b4alcontre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104667&streamencoding=mp31", 
+            "name": "Cambio"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104669&streamencoding=mp31", 
+            "name": "Cantar X"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104671&streamencoding=mp31", 
+            "name": "Hasta a llua"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104668&streamencoding=mp31", 
+            "name": "Canta\u00b4m"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104677&streamencoding=mp31", 
+            "name": "Acompanha-me"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104675&streamencoding=mp31", 
+            "name": "Semos"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104674&streamencoding=mp31", 
+            "name": "Okupar"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104666&streamencoding=mp31", 
+            "name": "Quei fazer"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104676&streamencoding=mp31", 
+            "name": "Qltiando"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104670&streamencoding=mp31", 
+            "name": "De Tazones a Candas"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131879"
+}

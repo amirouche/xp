@@ -1,0 +1,39 @@
+{
+    "name": "EVANESCENCE", 
+    "artist": "Yoyocreations", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122184&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1037696&streamencoding=mp31", 
+            "name": "PLONGEE ABYSSALE..ABYSSAL DIVING"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1037700&streamencoding=mp31", 
+            "name": "EVOLUTION"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1037701&streamencoding=mp31", 
+            "name": "AILLEURS..ELSEWHERE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1037702&streamencoding=mp31", 
+            "name": "MARIE-GALANTE"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1037710&streamencoding=mp31", 
+            "name": "EVANESCENCE"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1037713&streamencoding=mp31", 
+            "name": "REVE ULTIME..ULTIMATE DREAM"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122184"
+}

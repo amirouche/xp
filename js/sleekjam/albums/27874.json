@@ -1,0 +1,29 @@
+{
+    "name": "The free E.P.", 
+    "artist": "Ferox", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27874&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186267&streamencoding=mp31", 
+            "name": " Greed"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186251&streamencoding=mp31", 
+            "name": " 3oh3"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186272&streamencoding=mp31", 
+            "name": " Brainless emission"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186287&streamencoding=mp31", 
+            "name": " S.E.M."
+        }
+    ], 
+    "release": "2008", 
+    "id": "27874"
+}

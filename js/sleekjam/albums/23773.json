@@ -1,0 +1,64 @@
+{
+    "name": "Eclectic Tramp (the premix)", 
+    "artist": "The Homeless Bones", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23773&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162079&streamencoding=mp31", 
+            "name": "Daisies might be wrong"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162081&streamencoding=mp31", 
+            "name": "Keep your smile (to Simo our MySpace girl)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162086&streamencoding=mp31", 
+            "name": "Europe's Scream"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162089&streamencoding=mp31", 
+            "name": "A Ticket to the End"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162093&streamencoding=mp31", 
+            "name": "Perspectives"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162095&streamencoding=mp31", 
+            "name": "Wake Up"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162099&streamencoding=mp31", 
+            "name": "Back to the Bubble"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162101&streamencoding=mp31", 
+            "name": "Sucubus"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162105&streamencoding=mp31", 
+            "name": "Carolina"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162122&streamencoding=mp31", 
+            "name": "Crystal Ball"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162124&streamencoding=mp31", 
+            "name": "Lucky Man"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23773"
+}

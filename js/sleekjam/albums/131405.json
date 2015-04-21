@@ -1,0 +1,34 @@
+{
+    "name": "Junkie Relics", 
+    "artist": "Cosoid 3.5", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131405&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101203&streamencoding=mp31", 
+            "name": "Fear & desire"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101257&streamencoding=mp31", 
+            "name": "shake that thing"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101258&streamencoding=mp31", 
+            "name": "Devon & Eva"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101259&streamencoding=mp31", 
+            "name": "Weeping willow"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101260&streamencoding=mp31", 
+            "name": "Junkie relics blues - mix"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131405"
+}

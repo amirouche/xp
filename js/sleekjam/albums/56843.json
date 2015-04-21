@@ -1,0 +1,14 @@
+{
+    "name": "Tu Sei", 
+    "artist": "Mett-A", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56843&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482320&streamencoding=mp31", 
+            "name": " tu sei"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56843"
+}

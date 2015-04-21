@@ -1,0 +1,74 @@
+{
+    "name": "The Long Walk Home", 
+    "artist": "Kev Moore", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55546&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468598&streamencoding=mp31", 
+            "name": "Ring the Changes"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468599&streamencoding=mp31", 
+            "name": "A Cat called Caramel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468600&streamencoding=mp31", 
+            "name": "We All Fall Down"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468601&streamencoding=mp31", 
+            "name": "Funkktion"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468602&streamencoding=mp31", 
+            "name": "Rape of the Heart"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468603&streamencoding=mp31", 
+            "name": "Little Miss Understanding"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468604&streamencoding=mp31", 
+            "name": "Why"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468605&streamencoding=mp31", 
+            "name": "Violently Miss Me"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468606&streamencoding=mp31", 
+            "name": "You Don't Own Me"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468608&streamencoding=mp31", 
+            "name": "The Heretic's Song"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468609&streamencoding=mp31", 
+            "name": "Strawberry House"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468611&streamencoding=mp31", 
+            "name": "The Long Walk Home"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468612&streamencoding=mp31", 
+            "name": "Solo Un Recuerdo"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55546"
+}

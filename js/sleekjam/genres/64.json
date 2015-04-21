@@ -1,0 +1,33 @@
+{
+    "albums": [
+        {
+            "release": "2010", 
+            "artist": "Zero-project", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78477&imagesize=100", 
+            "id": "78477", 
+            "name": "Indian spirit (Jamendo edition)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Leo Bowers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106060&imagesize=100", 
+            "id": "106060", 
+            "name": "It's Alright"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Leo Bowers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113832&imagesize=100", 
+            "id": "113832", 
+            "name": "Wolf "
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Sean T Wright", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69514&imagesize=100", 
+            "id": "69514", 
+            "name": "You're Calling Mgesso Watsowsen"
+        }
+    ], 
+    "name": "Native American"
+}

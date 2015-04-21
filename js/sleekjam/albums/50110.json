@@ -1,0 +1,64 @@
+{
+    "name": "The Early Grave", 
+    "artist": "Plastique Noir", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50110&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402745&streamencoding=mp31", 
+            "name": "Fireworks (Unleashed Demo)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402746&streamencoding=mp31", 
+            "name": "Those Who Walk by the Night (Live at DoSol Festival 2008)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402750&streamencoding=mp31", 
+            "name": "Inconstancy (Loser Shoegaze Version)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402751&streamencoding=mp31", 
+            "name": "Inconstancy (Holidays in the Gulag Version)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402752&streamencoding=mp31", 
+            "name": "Inconstancy (Blood Wave Version)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402774&streamencoding=mp31", 
+            "name": "Desire or Disease (M\u00e4zela Mix)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402754&streamencoding=mp31", 
+            "name": "Six Feet Under (Demo)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402755&streamencoding=mp31", 
+            "name": "Phantom in my Stereo (Transcommunication) (Demo)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402756&streamencoding=mp31", 
+            "name": "Waves of Satan (Live Tribute to Red Run)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402757&streamencoding=mp31", 
+            "name": "Nihil (Demo)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402758&streamencoding=mp31", 
+            "name": "Genebra (Harry Tribute)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50110"
+}

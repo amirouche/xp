@@ -1,0 +1,69 @@
+{
+    "name": "Les Modules Etranges", 
+    "artist": "Les Modules Etranges", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20339&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=138706&streamencoding=mp31", 
+            "name": "A Song to Lunacy (new voice)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142326&streamencoding=mp31", 
+            "name": "Eve (new voice)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142329&streamencoding=mp31", 
+            "name": " End (Who are are you to decide wherever I Should live or die)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142341&streamencoding=mp31", 
+            "name": "Fragile flesh TST remix"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142344&streamencoding=mp31", 
+            "name": "distress"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142346&streamencoding=mp31", 
+            "name": "Alienation"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142359&streamencoding=mp31", 
+            "name": "Shelter"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142364&streamencoding=mp31", 
+            "name": "out of mind"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142366&streamencoding=mp31", 
+            "name": "into the abyss"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142395&streamencoding=mp31", 
+            "name": "i don't have the nerves"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142414&streamencoding=mp31", 
+            "name": "fragile flesh"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142428&streamencoding=mp31", 
+            "name": "ad vitam aeternam"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20339"
+}

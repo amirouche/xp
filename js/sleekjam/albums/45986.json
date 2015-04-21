@@ -1,0 +1,54 @@
+{
+    "name": "...Patient No. 158 did not react conventionally to the prescribed medication. It appears the symptoms are getting worse...", 
+    "artist": "The System/Addicts", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45986&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350438&streamencoding=mp31", 
+            "name": "stage 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350481&streamencoding=mp31", 
+            "name": "stage 2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350544&streamencoding=mp31", 
+            "name": "stage 3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350550&streamencoding=mp31", 
+            "name": "stage 4"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350564&streamencoding=mp31", 
+            "name": "stage 5"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350583&streamencoding=mp31", 
+            "name": "stage 6"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350618&streamencoding=mp31", 
+            "name": "stage 7"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350645&streamencoding=mp31", 
+            "name": "stage 8"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=350762&streamencoding=mp31", 
+            "name": "stage 9"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45986"
+}

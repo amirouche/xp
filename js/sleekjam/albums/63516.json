@@ -1,0 +1,89 @@
+{
+    "name": "Citiri Live (2005)", 
+    "artist": "Loungerie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63516&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545128&streamencoding=mp31", 
+            "name": "Cubanga"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545123&streamencoding=mp31", 
+            "name": "Billie Holiday"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545119&streamencoding=mp31", 
+            "name": "Morte a Venezia"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545129&streamencoding=mp31", 
+            "name": "Kappatango"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545120&streamencoding=mp31", 
+            "name": "Moliendo Caf\u00e8"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545125&streamencoding=mp31", 
+            "name": "Rio"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545121&streamencoding=mp31", 
+            "name": "Buddha Bar"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545130&streamencoding=mp31", 
+            "name": "Tarattattat\u00e0"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545126&streamencoding=mp31", 
+            "name": "Popolare"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545134&streamencoding=mp31", 
+            "name": "Mai Mai"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545132&streamencoding=mp31", 
+            "name": "Divertissement Letterario"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545133&streamencoding=mp31", 
+            "name": "Dove Sei (Espresso Version)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545122&streamencoding=mp31", 
+            "name": "Bernacca"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545127&streamencoding=mp31", 
+            "name": "Il Caff\u00e8 della Peppina"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545124&streamencoding=mp31", 
+            "name": "Il Fattore dell'amore_feat. Valerio Michelucci"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545131&streamencoding=mp31", 
+            "name": "Tartiflette"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63516"
+}

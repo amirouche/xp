@@ -1,0 +1,49 @@
+{
+    "name": "VogelhausJazz", 
+    "artist": "Stck&Stn", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21538&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150423&streamencoding=mp31", 
+            "name": "introy\u00b4i"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150469&streamencoding=mp31", 
+            "name": "sitzen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150473&streamencoding=mp31", 
+            "name": "sitzen gern"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150475&streamencoding=mp31", 
+            "name": "flaschenhalttzz"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150477&streamencoding=mp31", 
+            "name": "glassgookell3"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150478&streamencoding=mp31", 
+            "name": "s\u00fchtzen "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150479&streamencoding=mp31", 
+            "name": "s\u00fchtzen gern"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150480&streamencoding=mp31", 
+            "name": "s\u00fcdsee?da kant ich mal eynen"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21538"
+}

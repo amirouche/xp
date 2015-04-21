@@ -1,0 +1,44 @@
+{
+    "name": "[EPH044] Instabile pt2 (when active as a wave)", 
+    "artist": "Ephedrina Netlabel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116368&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989149&streamencoding=mp31", 
+            "name": "PENTOTHAL - Intro (ritratto di un'artista instabile)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989150&streamencoding=mp31", 
+            "name": "PENTOTHAL - Cyborg"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989151&streamencoding=mp31", 
+            "name": "PENTOTHAL - Camere Vuote Rimbombano (ft. Mauras & 7di9)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989152&streamencoding=mp31", 
+            "name": "PENTOTHAL - LFB (low fi boy)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989153&streamencoding=mp31", 
+            "name": "PENTOTHAL - Around The fur"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989154&streamencoding=mp31", 
+            "name": "PENTOTHAL - NeurOverdrive ft 7di9 (report 7 for feeding)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989155&streamencoding=mp31", 
+            "name": "PENTOTHAL - MariPosa"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116368"
+}

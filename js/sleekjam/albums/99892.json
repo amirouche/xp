@@ -1,0 +1,14 @@
+{
+    "name": "You're My Life", 
+    "artist": "NEHTRUSH", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99892&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=854458&streamencoding=mp31", 
+            "name": "You're my life"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99892"
+}

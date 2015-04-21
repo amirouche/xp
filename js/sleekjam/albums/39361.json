@@ -1,0 +1,64 @@
+{
+    "name": "Bababaspliff", 
+    "artist": "Glandul 2", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39361&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280943&streamencoding=mp31", 
+            "name": "Colin"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280946&streamencoding=mp31", 
+            "name": "Le PACS"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280947&streamencoding=mp31", 
+            "name": "Bababaspliff"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280949&streamencoding=mp31", 
+            "name": "Mocassins fourr\u00e9s"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280953&streamencoding=mp31", 
+            "name": "Mode d'emploi blues"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280951&streamencoding=mp31", 
+            "name": "Lolita"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280952&streamencoding=mp31", 
+            "name": "Tout nu et tout bronz\u00e9"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280955&streamencoding=mp31", 
+            "name": "T'es moins rock"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280969&streamencoding=mp31", 
+            "name": "Soci\u00e9t\u00e9 de papier"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280971&streamencoding=mp31", 
+            "name": "Somnipan blues"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280964&streamencoding=mp31", 
+            "name": "Train de minuit"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39361"
+}

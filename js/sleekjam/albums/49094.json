@@ -1,0 +1,69 @@
+{
+    "name": "The shake it up's", 
+    "artist": "Ki Sap", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49094&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389373&streamencoding=mp31", 
+            "name": "A2"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389378&streamencoding=mp31", 
+            "name": "BLANC I NEGRE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389380&streamencoding=mp31", 
+            "name": "SAUDADE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389375&streamencoding=mp31", 
+            "name": "ULTRAMAN vs. Dr.JAU"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389377&streamencoding=mp31", 
+            "name": "RUN FOR COVER"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389379&streamencoding=mp31", 
+            "name": "SHAKE IT UP"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389374&streamencoding=mp31", 
+            "name": "AUTOBEAT"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389381&streamencoding=mp31", 
+            "name": "NUDILLO ESTERNON"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389370&streamencoding=mp31", 
+            "name": "SKA4FRIENDS"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389372&streamencoding=mp31", 
+            "name": "ARE YOU READY FOR THE BUGALOO"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389376&streamencoding=mp31", 
+            "name": "ASKO FALTA ALDA, PAU"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389371&streamencoding=mp31", 
+            "name": "DUB 125"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49094"
+}

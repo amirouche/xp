@@ -1,0 +1,64 @@
+{
+    "name": "Val de Nerfs", 
+    "artist": "GASNOPROD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37504&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262574&streamencoding=mp31", 
+            "name": "Interlude en effets"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262575&streamencoding=mp31", 
+            "name": "Toure dOttO"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262598&streamencoding=mp31", 
+            "name": "Les colle legs"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262599&streamencoding=mp31", 
+            "name": "Around dream nos"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262613&streamencoding=mp31", 
+            "name": "Nain ambient"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262624&streamencoding=mp31", 
+            "name": "Crying Tibet"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262631&streamencoding=mp31", 
+            "name": "RocA pUtA v250808"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262763&streamencoding=mp31", 
+            "name": "TortlE fakE of lakE"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262765&streamencoding=mp31", 
+            "name": "Vase zajJ"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262841&streamencoding=mp31", 
+            "name": "Lion de Riom"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262785&streamencoding=mp31", 
+            "name": "NugAs no DrOp"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37504"
+}

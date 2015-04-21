@@ -1,0 +1,89 @@
+{
+    "name": "Ambitus", 
+    "artist": "Bielebny", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72562&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626411&streamencoding=mp31", 
+            "name": "Open"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626407&streamencoding=mp31", 
+            "name": "Garni zone"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626409&streamencoding=mp31", 
+            "name": "Participatio"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626410&streamencoding=mp31", 
+            "name": "Am no.1"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626405&streamencoding=mp31", 
+            "name": "Bathbox"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626401&streamencoding=mp31", 
+            "name": "Makaloney"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626406&streamencoding=mp31", 
+            "name": "I`ll Be Back In One Piece"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626414&streamencoding=mp31", 
+            "name": "In Your Face"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626400&streamencoding=mp31", 
+            "name": "Bitus"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626404&streamencoding=mp31", 
+            "name": "Fatiga"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626413&streamencoding=mp31", 
+            "name": "Ether"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626402&streamencoding=mp31", 
+            "name": "Am no.2"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626408&streamencoding=mp31", 
+            "name": "Air after raining"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626415&streamencoding=mp31", 
+            "name": "Am no.3"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626412&streamencoding=mp31", 
+            "name": "Unknown Flight"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=626403&streamencoding=mp31", 
+            "name": "My personal..."
+        }
+    ], 
+    "release": "2010", 
+    "id": "72562"
+}

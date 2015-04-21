@@ -1,0 +1,109 @@
+{
+    "name": "Letters From Home", 
+    "artist": "Fonogeri", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49948&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400855&streamencoding=mp31", 
+            "name": "Intro To Innerland"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400867&streamencoding=mp31", 
+            "name": "Pannon Lank\u00e1k"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400874&streamencoding=mp31", 
+            "name": "Easy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400859&streamencoding=mp31", 
+            "name": "Tough Song"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400866&streamencoding=mp31", 
+            "name": "Night 2 AM"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400860&streamencoding=mp31", 
+            "name": "Offshore (interlude)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400854&streamencoding=mp31", 
+            "name": "When She Walks"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400873&streamencoding=mp31", 
+            "name": "Balaton Night Groove"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400865&streamencoding=mp31", 
+            "name": "Under Whispering Trees"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400861&streamencoding=mp31", 
+            "name": "Dreams"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400863&streamencoding=mp31", 
+            "name": "Way Down The Road"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400857&streamencoding=mp31", 
+            "name": "Late November In Nagyerd\u0151"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400862&streamencoding=mp31", 
+            "name": "Thumb A Ride"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400871&streamencoding=mp31", 
+            "name": "Black Volga Stops (interlude)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400872&streamencoding=mp31", 
+            "name": "Forgatagban"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400868&streamencoding=mp31", 
+            "name": "Felh\u0151j\u00e1r\u00f3"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400870&streamencoding=mp31", 
+            "name": "Lakeshore In Moonlight"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400856&streamencoding=mp31", 
+            "name": "Ny\u00e1rut\u00f3"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400864&streamencoding=mp31", 
+            "name": "A T\u00f3n\u00e1l"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400858&streamencoding=mp31", 
+            "name": "Will We Meet Again"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49948"
+}

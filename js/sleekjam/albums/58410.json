@@ -1,0 +1,44 @@
+{
+    "name": "Speedball - Promo Album", 
+    "artist": "Scarlet Dust", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58410&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497883&streamencoding=mp31", 
+            "name": "By the Flame"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497969&streamencoding=mp31", 
+            "name": "Living Dead"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498098&streamencoding=mp31", 
+            "name": "Voices"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498408&streamencoding=mp31", 
+            "name": "Bright Light"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498736&streamencoding=mp31", 
+            "name": "Storm"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498792&streamencoding=mp31", 
+            "name": "I Think About"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498828&streamencoding=mp31", 
+            "name": "Born With the Sin"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58410"
+}

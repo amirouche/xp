@@ -1,0 +1,14 @@
+{
+    "name": "Secret Magouille (single)", 
+    "artist": "Franck Camu", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84431&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723192&streamencoding=mp31", 
+            "name": "Secret Magouille"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84431"
+}

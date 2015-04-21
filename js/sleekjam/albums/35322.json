@@ -1,0 +1,19 @@
+{
+    "name": "Bennson 2008", 
+    "artist": "Bennson", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35322&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243851&streamencoding=mp31", 
+            "name": "Weg"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243854&streamencoding=mp31", 
+            "name": "Mach dich nicht verr\u00fcckt"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35322"
+}

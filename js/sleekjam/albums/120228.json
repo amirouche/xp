@@ -1,0 +1,39 @@
+{
+    "name": "8 Bit and 1 Bit More", 
+    "artist": "Rene Sens", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120228&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022442&streamencoding=mp31", 
+            "name": "When the Smoke is Going Down (Rene Sens vs Scorpions Speed Up Remix)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022440&streamencoding=mp31", 
+            "name": "Chateau Margo (Rene Sens vs Splin Minus Remix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022445&streamencoding=mp31", 
+            "name": "Hurry"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022443&streamencoding=mp31", 
+            "name": "Demostyle"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022441&streamencoding=mp31", 
+            "name": "One Way Ticket (Rene Sens vs Boney M Slow Down Remix)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022444&streamencoding=mp31", 
+            "name": "Here and There"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120228"
+}

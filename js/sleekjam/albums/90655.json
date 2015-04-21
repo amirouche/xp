@@ -1,0 +1,34 @@
+{
+    "name": "forgive and forget", 
+    "artist": "Vermillia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90655&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773419&streamencoding=mp31", 
+            "name": "forgive and forget"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773422&streamencoding=mp31", 
+            "name": "life is not fair"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773421&streamencoding=mp31", 
+            "name": "grave of past"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773420&streamencoding=mp31", 
+            "name": "re-purify"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773423&streamencoding=mp31", 
+            "name": "counting tears part 2 (rat in the cage)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90655"
+}

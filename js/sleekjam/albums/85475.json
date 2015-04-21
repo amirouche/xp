@@ -1,0 +1,64 @@
+{
+    "name": "Ignacio Ouzande", 
+    "artist": "Ignacio Ouzande", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85475&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=730821&streamencoding=mp31", 
+            "name": "Lo que viene"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=730868&streamencoding=mp31", 
+            "name": "Un 24 de noviembre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=730897&streamencoding=mp31", 
+            "name": "Mmm uau"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=730931&streamencoding=mp31", 
+            "name": "Bipolar"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=730963&streamencoding=mp31", 
+            "name": "Reflexi\u00f3n"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=730977&streamencoding=mp31", 
+            "name": "Ansiosito"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731010&streamencoding=mp31", 
+            "name": "Sacumbide"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731018&streamencoding=mp31", 
+            "name": "El cortito"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731020&streamencoding=mp31", 
+            "name": "Nachos tune"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731025&streamencoding=mp31", 
+            "name": "Shazz-an"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731301&streamencoding=mp31", 
+            "name": "De chiripa"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85475"
+}

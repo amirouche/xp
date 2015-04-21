@@ -1,0 +1,104 @@
+{
+    "name": "Hubba-Bubba", 
+    "artist": "Bubbamusic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48239&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377490&streamencoding=mp31", 
+            "name": "Humpty-Dumpty"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377496&streamencoding=mp31", 
+            "name": "Push"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377532&streamencoding=mp31", 
+            "name": "You Belong To Me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377537&streamencoding=mp31", 
+            "name": "Funkdance"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377540&streamencoding=mp31", 
+            "name": "Never Stop"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377542&streamencoding=mp31", 
+            "name": "Love Lifted Me"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377543&streamencoding=mp31", 
+            "name": "Party"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377544&streamencoding=mp31", 
+            "name": "Pretty Lady"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377545&streamencoding=mp31", 
+            "name": "Radio"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377547&streamencoding=mp31", 
+            "name": "Go This Way"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377558&streamencoding=mp31", 
+            "name": "Secrets"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377568&streamencoding=mp31", 
+            "name": "Surrender"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377572&streamencoding=mp31", 
+            "name": "Talk About It"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377576&streamencoding=mp31", 
+            "name": "You've Got To Love Me"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378026&streamencoding=mp31", 
+            "name": "Freedom"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378027&streamencoding=mp31", 
+            "name": "House Down"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378039&streamencoding=mp31", 
+            "name": "Love My Baby"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378056&streamencoding=mp31", 
+            "name": "Say Girl"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=378079&streamencoding=mp31", 
+            "name": "Touch Me"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48239"
+}

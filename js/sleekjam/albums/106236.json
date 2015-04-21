@@ -1,0 +1,39 @@
+{
+    "name": "Short Tracks", 
+    "artist": "Bounce Sugar", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106236&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902281&streamencoding=mp31", 
+            "name": "Come & get ya"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902282&streamencoding=mp31", 
+            "name": "Music Box"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902283&streamencoding=mp31", 
+            "name": "Jazz Selecta"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902284&streamencoding=mp31", 
+            "name": "The Beast is ..."
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902285&streamencoding=mp31", 
+            "name": "Disco Disease"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902293&streamencoding=mp31", 
+            "name": "Sunday groove"
+        }
+    ], 
+    "release": "2012", 
+    "id": "106236"
+}

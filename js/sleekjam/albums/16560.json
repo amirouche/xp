@@ -1,0 +1,29 @@
+{
+    "name": "Sunsets", 
+    "artist": "Parallel Dream", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=16560&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120373&streamencoding=mp31", 
+            "name": "Every lovely morning"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120375&streamencoding=mp31", 
+            "name": "Sand of time"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120378&streamencoding=mp31", 
+            "name": "Everyone will leave"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120379&streamencoding=mp31", 
+            "name": "10 o'clock"
+        }
+    ], 
+    "release": "2008", 
+    "id": "16560"
+}

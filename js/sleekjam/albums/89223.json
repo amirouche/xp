@@ -1,0 +1,14 @@
+{
+    "name": "Games", 
+    "artist": "clonboy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89223&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762313&streamencoding=mp31", 
+            "name": "games"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89223"
+}

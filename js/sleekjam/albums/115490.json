@@ -1,0 +1,39 @@
+{
+    "name": "Deep In Winter", 
+    "artist": "Out Of Orion (Ox3)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115490&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980733&streamencoding=mp31", 
+            "name": "Candlelight Carol"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980734&streamencoding=mp31", 
+            "name": "The Starving Moon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980735&streamencoding=mp31", 
+            "name": "Winter Hymn"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980736&streamencoding=mp31", 
+            "name": "One Snowy Midnight"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980737&streamencoding=mp31", 
+            "name": "Winter Snow"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=980738&streamencoding=mp31", 
+            "name": "The Forest In Winter"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115490"
+}

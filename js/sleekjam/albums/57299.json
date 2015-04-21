@@ -1,0 +1,44 @@
+{
+    "name": "d\u00e9mo", 
+    "artist": "ZamalSka", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57299&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488291&streamencoding=mp31", 
+            "name": "dance cleopatra"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488317&streamencoding=mp31", 
+            "name": "catching the sun"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488400&streamencoding=mp31", 
+            "name": "germans are coming"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488493&streamencoding=mp31", 
+            "name": "dance cleopatra vinyl"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488512&streamencoding=mp31", 
+            "name": "catching the sun vinyl"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488524&streamencoding=mp31", 
+            "name": "pandemie ska vinyl"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488540&streamencoding=mp31", 
+            "name": "germans are coming vinyl"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57299"
+}

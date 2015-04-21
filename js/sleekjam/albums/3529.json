@@ -1,0 +1,24 @@
+{
+    "name": "See U", 
+    "artist": "Antony Raijekov", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3529&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25706&streamencoding=mp31", 
+            "name": "When Waves Trying to Catch a Marvel"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25707&streamencoding=mp31", 
+            "name": "Be Brave (feat. Norine Braun)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25708&streamencoding=mp31", 
+            "name": "Lightin"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3529"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Good Morning Berlin", 
+    "artist": "Alexander Frost", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77889&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671490&streamencoding=mp31", 
+            "name": "Alexander Frost - Good Morning Berlin"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671491&streamencoding=mp31", 
+            "name": "Alexander Frost - Night Club"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671492&streamencoding=mp31", 
+            "name": "Alexander Frost - April"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671493&streamencoding=mp31", 
+            "name": "Alexander Frost feat. Frost Fox - Not Frost Session"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671494&streamencoding=mp31", 
+            "name": "Alexander Frost - Danmark Jeg elsker Dig"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671495&streamencoding=mp31", 
+            "name": "Alexander Frost - Havanna"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671496&streamencoding=mp31", 
+            "name": "Alexander Frost - Saturday Night"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671497&streamencoding=mp31", 
+            "name": "Alexander Frost - Sunday Morning"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671498&streamencoding=mp31", 
+            "name": "Alexander Frost - Willy was not here"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671499&streamencoding=mp31", 
+            "name": "Alexander Frost - Berlin 31"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77889"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "The Bell", 
+    "artist": "Rataxes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133602&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1117949&streamencoding=mp31", 
+            "name": "The Bell"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133602"
+}

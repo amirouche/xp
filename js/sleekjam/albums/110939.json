@@ -1,0 +1,89 @@
+{
+    "name": "Love Time", 
+    "artist": "Peter Staaden", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110939&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944499&streamencoding=mp31", 
+            "name": "Ich Zeige Dir Mein Herz"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944503&streamencoding=mp31", 
+            "name": "Joghurt"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944507&streamencoding=mp31", 
+            "name": "Segelboot"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944472&streamencoding=mp31", 
+            "name": "Baum Des Lebens"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944495&streamencoding=mp31", 
+            "name": "Godzilla"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944474&streamencoding=mp31", 
+            "name": "Die Zwei"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944473&streamencoding=mp31", 
+            "name": "Fuge"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944471&streamencoding=mp31", 
+            "name": "Gleich Sein"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944494&streamencoding=mp31", 
+            "name": "Funky"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944506&streamencoding=mp31", 
+            "name": "Roses"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944505&streamencoding=mp31", 
+            "name": "Nichts Neues"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944500&streamencoding=mp31", 
+            "name": "Im Kreis"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944504&streamencoding=mp31", 
+            "name": "Nach Vorne"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944509&streamencoding=mp31", 
+            "name": "Shamati"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944508&streamencoding=mp31", 
+            "name": "Sieben S\u00e4ulen"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944501&streamencoding=mp31", 
+            "name": "Into The Wild"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110939"
+}

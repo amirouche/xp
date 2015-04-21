@@ -1,0 +1,69 @@
+{
+    "name": "Noise Consortium Feat. Zuzule -\"Hallamass 1.0\" (demotape) - PHST01", 
+    "artist": "PHST RECORDS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6742&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75418&streamencoding=mp31", 
+            "name": "Inside You"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75419&streamencoding=mp31", 
+            "name": "A.T."
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75420&streamencoding=mp31", 
+            "name": "Boozoo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75421&streamencoding=mp31", 
+            "name": "Oussama"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75422&streamencoding=mp31", 
+            "name": "Mystic Bullshit Blues"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75423&streamencoding=mp31", 
+            "name": "Flow"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75424&streamencoding=mp31", 
+            "name": "Serial Killer"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75425&streamencoding=mp31", 
+            "name": "Babylone"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75426&streamencoding=mp31", 
+            "name": "Draz"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75427&streamencoding=mp31", 
+            "name": "Risk"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75428&streamencoding=mp31", 
+            "name": "Clash"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75429&streamencoding=mp31", 
+            "name": "Oussama (The Tube Of U.S.A. Remix)"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6742"
+}

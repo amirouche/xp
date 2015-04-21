@@ -1,0 +1,19 @@
+{
+    "name": "Tempesta d'inverno", 
+    "artist": "Boh\u00e9mi\u00e8n Skyzzoyd Orchestrers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88505&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=756781&streamencoding=mp31", 
+            "name": "Tempesta d'inverno (integral)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=756783&streamencoding=mp31", 
+            "name": "Tempesta d'inverno (Short)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88505"
+}

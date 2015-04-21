@@ -1,0 +1,14 @@
+{
+    "name": "4am - singiel", 
+    "artist": "department of distortions", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76795&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661975&streamencoding=mp31", 
+            "name": "4am"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76795"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Guided By A Dream (single)", 
+    "artist": "Matrix Error", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107372&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=907994&streamencoding=mp31", 
+            "name": "Guided By A Dream "
+        }
+    ], 
+    "release": "2012", 
+    "id": "107372"
+}

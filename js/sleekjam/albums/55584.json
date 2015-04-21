@@ -1,0 +1,24 @@
+{
+    "name": "MAMAVIBE -VIVERE-", 
+    "artist": "Mamavibe  Reggae Vibration", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55584&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468865&streamencoding=mp31", 
+            "name": "VIVERE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=469274&streamencoding=mp31", 
+            "name": "POLITICO"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=469499&streamencoding=mp31", 
+            "name": "AMERICAN FRIEND"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55584"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Cityscapes", 
+    "artist": "Fortadelis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58757&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501674&streamencoding=mp31", 
+            "name": "Empty Streets At 3AM"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501672&streamencoding=mp31", 
+            "name": "Suburban Dawn"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501670&streamencoding=mp31", 
+            "name": "Heading Downtown"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501671&streamencoding=mp31", 
+            "name": "Rush Hour"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501673&streamencoding=mp31", 
+            "name": "City Lights Flicker"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58757"
+}

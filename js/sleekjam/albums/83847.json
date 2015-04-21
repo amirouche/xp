@@ -1,0 +1,14 @@
+{
+    "name": "?.", 
+    "artist": "DJ \u0421\u042d\u0420", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83847&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718811&streamencoding=mp31", 
+            "name": "DJ \u0421\u042d\u0420 - \u0422\u0435\u0431\u0435, \u0423\u0442\u0440\u0438\u0448! (gribnoy mix)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83847"
+}

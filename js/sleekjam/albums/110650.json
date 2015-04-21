@@ -1,0 +1,54 @@
+{
+    "name": "Samshit Ne Sahar", 
+    "artist": "Ivan Samshit", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110650&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941871&streamencoding=mp31", 
+            "name": "Track-01"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941864&streamencoding=mp31", 
+            "name": "Track-02"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941868&streamencoding=mp31", 
+            "name": "Track-03"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941865&streamencoding=mp31", 
+            "name": "Track-04"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941869&streamencoding=mp31", 
+            "name": "Track-05"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941863&streamencoding=mp31", 
+            "name": "Bombardirovshchiki"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941866&streamencoding=mp31", 
+            "name": "Track-07"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941870&streamencoding=mp31", 
+            "name": "Track-08"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=941867&streamencoding=mp31", 
+            "name": "Track-09"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110650"
+}

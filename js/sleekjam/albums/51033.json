@@ -1,0 +1,64 @@
+{
+    "name": "Chasing Rabbits", 
+    "artist": "Tab", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51033&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=413823&streamencoding=mp31", 
+            "name": "Down the Rabbit Hole"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=413827&streamencoding=mp31", 
+            "name": "Scrapbook"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=413828&streamencoding=mp31", 
+            "name": "Vitamin Shoppe"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=413829&streamencoding=mp31", 
+            "name": "House of the Rising Son"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=413830&streamencoding=mp31", 
+            "name": "Cheap Disguise"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=413831&streamencoding=mp31", 
+            "name": "Here Comes the Rain"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=413832&streamencoding=mp31", 
+            "name": "Charades {feat. Shape}"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=413833&streamencoding=mp31", 
+            "name": "Last Call"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=413834&streamencoding=mp31", 
+            "name": "Manipulated Living"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=413835&streamencoding=mp31", 
+            "name": "{Bonus Track} Ballad of the Man that Never Made It"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=413836&streamencoding=mp31", 
+            "name": "{Bonus Track} Elmer Fudd Theory {feat. Tone Liv}"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51033"
+}

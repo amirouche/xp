@@ -1,0 +1,14 @@
+{
+    "name": "Mon Debut", 
+    "artist": "\u041a\u0438\u0441\u043a\u0430", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102149&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=870768&streamencoding=mp31", 
+            "name": "\u0424\u0435\u0441\u0442\u0435\u0432\u0430\u043b\u044c \u0432 \u043b\u0443\u0447\u0430\u0445 \u0438 \u0431\u0435\u0437!"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102149"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "The Night Plagiator EP", 
+    "artist": "Undo Tribe", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40760&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297159&streamencoding=mp31", 
+            "name": "The Night Plagiator"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297174&streamencoding=mp31", 
+            "name": "No Place To Run"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40760"
+}

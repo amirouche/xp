@@ -1,0 +1,54 @@
+{
+    "name": "White blood extravaganza", 
+    "artist": "Blukaos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110338&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939599&streamencoding=mp31", 
+            "name": "Melt the milt"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939602&streamencoding=mp31", 
+            "name": "Mothoneon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939601&streamencoding=mp31", 
+            "name": "Invoke against a broken jesus"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939604&streamencoding=mp31", 
+            "name": "Caterpillars surrendered"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939603&streamencoding=mp31", 
+            "name": "Gently irritate your ear"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939598&streamencoding=mp31", 
+            "name": "Light was flash"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939596&streamencoding=mp31", 
+            "name": "AftHervenom"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939600&streamencoding=mp31", 
+            "name": "Dense red on white dew"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939597&streamencoding=mp31", 
+            "name": "It will heavily rain for a billion years"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110338"
+}

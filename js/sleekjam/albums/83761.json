@@ -1,0 +1,69 @@
+{
+    "name": "Theory Of Everything", 
+    "artist": "The Long Now", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83761&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718059&streamencoding=mp31", 
+            "name": "Future Monks"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718060&streamencoding=mp31", 
+            "name": "Jellylegs"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718051&streamencoding=mp31", 
+            "name": "Asleep On My Feet"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718058&streamencoding=mp31", 
+            "name": "My Eagle"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718053&streamencoding=mp31", 
+            "name": "Arrows"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718049&streamencoding=mp31", 
+            "name": "Fashion Fits"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718054&streamencoding=mp31", 
+            "name": "Loveless"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718050&streamencoding=mp31", 
+            "name": "Complacency No Vacancy"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718055&streamencoding=mp31", 
+            "name": "Speed Of Sound"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718052&streamencoding=mp31", 
+            "name": "Inventions"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718056&streamencoding=mp31", 
+            "name": "Into The Sky With Ivy"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718057&streamencoding=mp31", 
+            "name": "Seven Forks"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83761"
+}

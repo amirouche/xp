@@ -1,0 +1,64 @@
+{
+    "name": "Harder times", 
+    "artist": "et_", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33649&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=227784&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=227785&streamencoding=mp31", 
+            "name": "Do not relax in traffic"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=227786&streamencoding=mp31", 
+            "name": "Black"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=227787&streamencoding=mp31", 
+            "name": "Cosmo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=227788&streamencoding=mp31", 
+            "name": "Nothing's changed"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=227789&streamencoding=mp31", 
+            "name": "Tweed"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=227790&streamencoding=mp31", 
+            "name": "Harder times , Crater"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=227791&streamencoding=mp31", 
+            "name": "Tunnel"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=227792&streamencoding=mp31", 
+            "name": "Memory fades"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=227793&streamencoding=mp31", 
+            "name": "No!"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=227794&streamencoding=mp31", 
+            "name": "Still"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33649"
+}

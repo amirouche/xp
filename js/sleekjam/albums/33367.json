@@ -1,0 +1,44 @@
+{
+    "name": "Demo  \"one day\"", 
+    "artist": "SYNAPTIC ORCHESTRA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33367&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225392&streamencoding=mp31", 
+            "name": "Extrapolation crash"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225393&streamencoding=mp31", 
+            "name": "Ultimate numbers"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225394&streamencoding=mp31", 
+            "name": "La math"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225408&streamencoding=mp31", 
+            "name": "Synaptic orchestra"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225421&streamencoding=mp31", 
+            "name": "Cut away"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225424&streamencoding=mp31", 
+            "name": "Enterprise"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225428&streamencoding=mp31", 
+            "name": "La Doom"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33367"
+}

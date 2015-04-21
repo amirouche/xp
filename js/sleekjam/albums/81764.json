@@ -1,0 +1,34 @@
+{
+    "name": "Western Melodies", 
+    "artist": "Aledjones_music", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81764&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697818&streamencoding=mp31", 
+            "name": "Romance for ever"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700995&streamencoding=mp31", 
+            "name": "News at 6"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700997&streamencoding=mp31", 
+            "name": "The legend of terror"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700996&streamencoding=mp31", 
+            "name": "Monomental"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700998&streamencoding=mp31", 
+            "name": "Western-Time"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81764"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Black hole ego", 
+    "artist": "[dK]", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4792&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39052&streamencoding=mp31", 
+            "name": "Black champagne"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39053&streamencoding=mp31", 
+            "name": "Brilliant white of a distant sun"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39054&streamencoding=mp31", 
+            "name": "H.e.art"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39055&streamencoding=mp31", 
+            "name": "Angelslave"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39056&streamencoding=mp31", 
+            "name": "The best place to take the best photos from"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39057&streamencoding=mp31", 
+            "name": "Holy joy"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39058&streamencoding=mp31", 
+            "name": "Spora"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39059&streamencoding=mp31", 
+            "name": "Primary state"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39060&streamencoding=mp31", 
+            "name": "Hadamar"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39061&streamencoding=mp31", 
+            "name": "The arrogant ones"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39062&streamencoding=mp31", 
+            "name": "Ultimatum to Poland: last days before the war"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39063&streamencoding=mp31", 
+            "name": "Denial"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39064&streamencoding=mp31", 
+            "name": "In those years Poland heard the demon singing "
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39065&streamencoding=mp31", 
+            "name": "Electricity of pain"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4792"
+}

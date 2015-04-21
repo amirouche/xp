@@ -1,0 +1,114 @@
+{
+    "name": "Galaxy Train", 
+    "artist": "DJ Gami.K", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136587&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137244&streamencoding=mp31", 
+            "name": "Cosmic Illusion"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137243&streamencoding=mp31", 
+            "name": "Diamond City"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137247&streamencoding=mp31", 
+            "name": "Black Hole Down"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137248&streamencoding=mp31", 
+            "name": "Tsumugi (feat. Seimo Yamaguchi) [Dark Matter Remix]"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137249&streamencoding=mp31", 
+            "name": "Unexpected Warp"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137250&streamencoding=mp31", 
+            "name": "Toys Factor X"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137251&streamencoding=mp31", 
+            "name": "Adrenaline Spark"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137252&streamencoding=mp31", 
+            "name": "Digital Alien"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137232&streamencoding=mp31", 
+            "name": "Galaxy Train"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137233&streamencoding=mp31", 
+            "name": "Naked Soul (feat. Syusi & Lilli) [Brilliant Star Remix]"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137236&streamencoding=mp31", 
+            "name": "Innocence"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137239&streamencoding=mp31", 
+            "name": "Natural Moment (Skit)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137241&streamencoding=mp31", 
+            "name": "Toki no Tobira - The door to the future"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137246&streamencoding=mp31", 
+            "name": "Rinne - Reincarnation"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137245&streamencoding=mp31", 
+            "name": "Sanctuary Drive"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137240&streamencoding=mp31", 
+            "name": "The World of Prayer"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137242&streamencoding=mp31", 
+            "name": "Peaceful Morning"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137235&streamencoding=mp31", 
+            "name": "Tsumugi (feat. Seimo Yamaguchi) [Dark Matter Remix] (Instrumental)"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137238&streamencoding=mp31", 
+            "name": "Naked Soul (feat. Syusi & Lilli) [Brilliant Star Remix] (Instrumental)"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137234&streamencoding=mp31", 
+            "name": "Tsumugi (feat. Seimo Yamaguchi) [Dark Matter Remix] (Shakuhachi)"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137237&streamencoding=mp31", 
+            "name": "Naked Soul (feat. Syusi & Lilli) [Brilliant Star Remix] (Acappella)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136587"
+}

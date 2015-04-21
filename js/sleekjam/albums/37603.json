@@ -1,0 +1,79 @@
+{
+    "name": "Chapter3", 
+    "artist": "King Dubby", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37603&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262802&streamencoding=mp31", 
+            "name": "dub with a view"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=263385&streamencoding=mp31", 
+            "name": "dubcool"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262632&streamencoding=mp31", 
+            "name": "dub it"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262577&streamencoding=mp31", 
+            "name": "a reason to dub"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262623&streamencoding=mp31", 
+            "name": "cowboydub"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262610&streamencoding=mp31", 
+            "name": "cowboydub2"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=263690&streamencoding=mp31", 
+            "name": "slavemaster"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262824&streamencoding=mp31", 
+            "name": "dubby's dub"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=263660&streamencoding=mp31", 
+            "name": "trippydub"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262798&streamencoding=mp31", 
+            "name": "don't trouble dub"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262561&streamencoding=mp31", 
+            "name": "a love i can feel version"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=263674&streamencoding=mp31", 
+            "name": "trippydub2"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=263387&streamencoding=mp31", 
+            "name": "herbie hancock'sDub"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=263695&streamencoding=mp31", 
+            "name": "samba&dub"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37603"
+}

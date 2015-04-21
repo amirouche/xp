@@ -1,0 +1,14 @@
+{
+    "name": "The basement vol.1", 
+    "artist": "The basement", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21876&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153354&streamencoding=mp31", 
+            "name": "boogie della bile ner"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21876"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Nevermind", 
+    "artist": "Mister M", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5471&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45605&streamencoding=mp31", 
+            "name": "L'hiver"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45606&streamencoding=mp31", 
+            "name": "M\u00e9lancholique"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45607&streamencoding=mp31", 
+            "name": "The Sady Man"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5471"
+}

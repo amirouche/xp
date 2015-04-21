@@ -1,0 +1,74 @@
+{
+    "name": "Comunicazione", 
+    "artist": "Adamaximus", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104033&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884812&streamencoding=mp31", 
+            "name": "Ganesha"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884813&streamencoding=mp31", 
+            "name": "Meditazione"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884814&streamencoding=mp31", 
+            "name": "Rugiada del mattino"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884815&streamencoding=mp31", 
+            "name": "Vento del deserto"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884816&streamencoding=mp31", 
+            "name": "Scala"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884817&streamencoding=mp31", 
+            "name": "mandala"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884818&streamencoding=mp31", 
+            "name": "La caverna"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884819&streamencoding=mp31", 
+            "name": "foresta"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884820&streamencoding=mp31", 
+            "name": "Gocce colorate"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884821&streamencoding=mp31", 
+            "name": "aborigena"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884822&streamencoding=mp31", 
+            "name": "Armonia delle sfere"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884823&streamencoding=mp31", 
+            "name": "apocalisse sonora"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=884824&streamencoding=mp31", 
+            "name": "al Sacro"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104033"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Wakedown", 
+    "artist": "The Balding Hippies", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57888&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493974&streamencoding=mp31", 
+            "name": "Wakedown"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493987&streamencoding=mp31", 
+            "name": "The Mountain Song"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57888"
+}

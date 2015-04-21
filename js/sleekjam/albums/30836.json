@@ -1,0 +1,14 @@
+{
+    "name": "Awaken", 
+    "artist": "DigitalSin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30836&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208481&streamencoding=mp31", 
+            "name": "Awaken (d-alternative remod)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30836"
+}

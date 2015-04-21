@@ -1,0 +1,64 @@
+{
+    "name": "Dusk Gazing", 
+    "artist": "Missing Host Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20579&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144434&streamencoding=mp31", 
+            "name": "confused"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144435&streamencoding=mp31", 
+            "name": "weary or resigned"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144432&streamencoding=mp31", 
+            "name": "cumbination"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144425&streamencoding=mp31", 
+            "name": "toufic"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144433&streamencoding=mp31", 
+            "name": "the message"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144426&streamencoding=mp31", 
+            "name": "swoel"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144430&streamencoding=mp31", 
+            "name": "retour"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144436&streamencoding=mp31", 
+            "name": "easy to popular"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144428&streamencoding=mp31", 
+            "name": "nichel"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144429&streamencoding=mp31", 
+            "name": "contemplative"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144431&streamencoding=mp31", 
+            "name": "travers\u00e9e"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20579"
+}

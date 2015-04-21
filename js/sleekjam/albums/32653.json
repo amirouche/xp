@@ -1,0 +1,29 @@
+{
+    "name": "The Machine Stops", 
+    "artist": "Infocalypse", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32653&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219557&streamencoding=mp31", 
+            "name": "2012 overture"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221771&streamencoding=mp31", 
+            "name": "Ersatz Bird Learning to Fly"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221773&streamencoding=mp31", 
+            "name": "The Age of Authenticity"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221774&streamencoding=mp31", 
+            "name": "The Rational Anthem"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32653"
+}

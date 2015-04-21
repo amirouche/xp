@@ -1,0 +1,64 @@
+{
+    "name": "Mind, Body & Soul", 
+    "artist": "Prinss", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58510&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499047&streamencoding=mp31", 
+            "name": "Me Enamor\u00e9 - Prin$$ ft JAcK FiDo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499053&streamencoding=mp31", 
+            "name": "Heart Control - Prin$$"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499055&streamencoding=mp31", 
+            "name": "Nuestra Historia - Prin$$"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499051&streamencoding=mp31", 
+            "name": "The Last Chance - Prin$$"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499052&streamencoding=mp31", 
+            "name": "Like I Do, Siempre - Prin$$"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499049&streamencoding=mp31", 
+            "name": "Suprman - Prin$$"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499050&streamencoding=mp31", 
+            "name": "Necesito De Ti - Prin$$"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499056&streamencoding=mp31", 
+            "name": "Shortie - Prin$$ ft Maryou"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499057&streamencoding=mp31", 
+            "name": "Love To My Girl - Prin$$"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499048&streamencoding=mp31", 
+            "name": "Birthday - Prin$$"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499054&streamencoding=mp31", 
+            "name": "Tus Besos - Prin$$"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58510"
+}

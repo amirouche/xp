@@ -1,0 +1,24 @@
+{
+    "name": "On corridors in uncertainty", 
+    "artist": "\u0421\u043a\u0440\u0435\u0436\u0435\u0442", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97602&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=834447&streamencoding=mp31", 
+            "name": "On corridors in uncertainty (Part 1)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=834446&streamencoding=mp31", 
+            "name": "On corridors in uncertainty (Part 2)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=834445&streamencoding=mp31", 
+            "name": "On corridors in uncertainty (Part 3)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "97602"
+}

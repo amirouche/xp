@@ -1,0 +1,109 @@
+{
+    "name": "PLUIE DE NOMS", 
+    "artist": "REBECCA BEHAR  - R\u00e9sidus plasmiques", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91771&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782664&streamencoding=mp31", 
+            "name": "Amour fantasme"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782668&streamencoding=mp31", 
+            "name": "Pluie de noms"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782685&streamencoding=mp31", 
+            "name": "Le Clown"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782688&streamencoding=mp31", 
+            "name": "L Amoureux"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782693&streamencoding=mp31", 
+            "name": "La Neige"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782707&streamencoding=mp31", 
+            "name": "Persans et fourrures"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782711&streamencoding=mp31", 
+            "name": "Rendez-vous des sorcieres"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782718&streamencoding=mp31", 
+            "name": "Eveil"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782729&streamencoding=mp31", 
+            "name": "Exil"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782742&streamencoding=mp31", 
+            "name": "Danseuses antiques"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782743&streamencoding=mp31", 
+            "name": "Correspondance"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782745&streamencoding=mp31", 
+            "name": "La tentation du box office"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782748&streamencoding=mp31", 
+            "name": "Belleza"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782750&streamencoding=mp31", 
+            "name": "A la radio"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782751&streamencoding=mp31", 
+            "name": "R\u00e9sonnances extraterrestres"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782752&streamencoding=mp31", 
+            "name": "Turner - les tableaux v\u00e9nitiens"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782768&streamencoding=mp31", 
+            "name": "Nocturne"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782780&streamencoding=mp31", 
+            "name": "Versailles sous la pluie"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782783&streamencoding=mp31", 
+            "name": "Ein Feshkha"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782784&streamencoding=mp31", 
+            "name": "Limnologie"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91771"
+}

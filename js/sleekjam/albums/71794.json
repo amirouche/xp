@@ -1,0 +1,44 @@
+{
+    "name": "After DPF (I miss live so much!)", 
+    "artist": "Zebulon427", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71794&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=620145&streamencoding=mp31", 
+            "name": "conakry_original_studio1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=620151&streamencoding=mp31", 
+            "name": "after_dpf"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=620165&streamencoding=mp31", 
+            "name": "first_dub"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=620170&streamencoding=mp31", 
+            "name": "dpf_time1"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=620178&streamencoding=mp31", 
+            "name": "indecis"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=620182&streamencoding=mp31", 
+            "name": "tremplin_vers_le_R_B"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=620183&streamencoding=mp31", 
+            "name": "second_dub"
+        }
+    ], 
+    "release": "2010", 
+    "id": "71794"
+}

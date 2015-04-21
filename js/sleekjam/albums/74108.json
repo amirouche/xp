@@ -1,0 +1,14 @@
+{
+    "name": "Bremen-Mosambik", 
+    "artist": "In Die Fabrik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74108&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=635899&streamencoding=mp31", 
+            "name": "Bremen-Mosambik"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74108"
+}

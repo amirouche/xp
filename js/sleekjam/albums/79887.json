@@ -1,0 +1,49 @@
+{
+    "name": "FRIGIDARIUM", 
+    "artist": "Dagon Lorai", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79887&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686117&streamencoding=mp31", 
+            "name": "FRIGIDARIUM"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686124&streamencoding=mp31", 
+            "name": "TEPIDARIUM"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686120&streamencoding=mp31", 
+            "name": "CALIDARIUM"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686121&streamencoding=mp31", 
+            "name": "L'ORIGINE DEL MALE"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686118&streamencoding=mp31", 
+            "name": "IL CLUB FEMMINILE DEGLI OMICIDI"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686122&streamencoding=mp31", 
+            "name": "ESOSTOSI AURICOLARE"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686123&streamencoding=mp31", 
+            "name": "VESERI"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686119&streamencoding=mp31", 
+            "name": "Notturno (da un testo inedito di Fabrizio De Andr\u00e8)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79887"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Olocumbias", 
+    "artist": "Remixeros De La Cumbia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122660&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041311&streamencoding=mp31", 
+            "name": "La Recuerdo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041312&streamencoding=mp31", 
+            "name": "Ilusi\u00f3n De Continuar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041313&streamencoding=mp31", 
+            "name": "Ni\u00f1a, Mujer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041314&streamencoding=mp31", 
+            "name": "Cumbia Ajena"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041315&streamencoding=mp31", 
+            "name": "Recordaras"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041316&streamencoding=mp31", 
+            "name": "Tus Ojos"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041317&streamencoding=mp31", 
+            "name": "Ojos Coquetos"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041320&streamencoding=mp31", 
+            "name": "Gracias"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041319&streamencoding=mp31", 
+            "name": "Y Tu No Estas"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041324&streamencoding=mp31", 
+            "name": "Se"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041321&streamencoding=mp31", 
+            "name": "Adi\u00f3s"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122660"
+}

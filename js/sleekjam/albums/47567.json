@@ -1,0 +1,19 @@
+{
+    "name": "aambei_reetpulse", 
+    "artist": "robert peetgarden", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47567&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370581&streamencoding=mp31", 
+            "name": "aambei_REET2_part1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370592&streamencoding=mp31", 
+            "name": "aambei_REET2_part2"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47567"
+}

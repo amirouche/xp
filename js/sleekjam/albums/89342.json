@@ -1,0 +1,14 @@
+{
+    "name": "Sebastian : Sound Of Spring", 
+    "artist": "Stellar Art Wars Free License", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89342&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763131&streamencoding=mp31", 
+            "name": "Sebastian : Sound Of Spring"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89342"
+}

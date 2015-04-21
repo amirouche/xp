@@ -1,0 +1,84 @@
+{
+    "name": "La Saga delle Follie", 
+    "artist": "ORB MC", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95531&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817409&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817410&streamencoding=mp31", 
+            "name": "Quello che fa la testa"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817411&streamencoding=mp31", 
+            "name": "Conflitti mentali"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817412&streamencoding=mp31", 
+            "name": "Skit"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817413&streamencoding=mp31", 
+            "name": "Effetti speciali"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817414&streamencoding=mp31", 
+            "name": "Se mi lasci fare"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817415&streamencoding=mp31", 
+            "name": "Questa \u00e8 la saga delle follie"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817416&streamencoding=mp31", 
+            "name": "Skit2"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817417&streamencoding=mp31", 
+            "name": "Anke se non vuoi"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817431&streamencoding=mp31", 
+            "name": "Scabroso"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817432&streamencoding=mp31", 
+            "name": "Ripensando"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817433&streamencoding=mp31", 
+            "name": "Skit3"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817434&streamencoding=mp31", 
+            "name": "Questa \u00e8 per chi va a scuola"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817435&streamencoding=mp31", 
+            "name": "Quello che non si dice"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817436&streamencoding=mp31", 
+            "name": "Non mi conoscete (Outro)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95531"
+}

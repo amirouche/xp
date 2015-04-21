@@ -1,0 +1,44 @@
+{
+    "name": "Singularidad de un sue\u00f1o", 
+    "artist": "Miguel \u00c1ngel Gallardo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115645&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981890&streamencoding=mp31", 
+            "name": "Esta canci\u00f3n"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981891&streamencoding=mp31", 
+            "name": "M\u00e1s all\u00e1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981894&streamencoding=mp31", 
+            "name": "Sin t\u00ed"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981892&streamencoding=mp31", 
+            "name": "Muy lejos de aqu\u00ed"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981893&streamencoding=mp31", 
+            "name": "No tengo miedo a perder"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981895&streamencoding=mp31", 
+            "name": "Sue\u00f1o"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981889&streamencoding=mp31", 
+            "name": "Atr\u00e1s"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115645"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Cheese Ball", 
+    "artist": "BC13", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=1654&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11157&streamencoding=mp31", 
+            "name": "Cheese Ball"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11158&streamencoding=mp31", 
+            "name": "I Tow the Line"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11159&streamencoding=mp31", 
+            "name": "Not Enough"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11160&streamencoding=mp31", 
+            "name": "Variations in Still Life"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11161&streamencoding=mp31", 
+            "name": "You Shook Me Cold"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11162&streamencoding=mp31", 
+            "name": "Shame"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11163&streamencoding=mp31", 
+            "name": "So, This is the End"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=11164&streamencoding=mp31", 
+            "name": "Shat Up!"
+        }
+    ], 
+    "release": "2006", 
+    "id": "1654"
+}

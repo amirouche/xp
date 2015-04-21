@@ -1,0 +1,44 @@
+{
+    "name": "CEDA EL VASO \" MAKETA\"", 
+    "artist": "CEDA EL VASO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121317&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031185&streamencoding=mp31", 
+            "name": "He Vuelto A Nacer"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031182&streamencoding=mp31", 
+            "name": "Ser LIbre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031183&streamencoding=mp31", 
+            "name": "Mal Trago"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031186&streamencoding=mp31", 
+            "name": "No Me He Vuelto Loco"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031184&streamencoding=mp31", 
+            "name": "Al Perder"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031174&streamencoding=mp31", 
+            "name": "Dulce Locura"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031181&streamencoding=mp31", 
+            "name": "No Callaremos"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121317"
+}

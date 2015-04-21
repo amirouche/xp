@@ -1,0 +1,29 @@
+{
+    "name": "Theme Musiq", 
+    "artist": "Aremr", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86083&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736621&streamencoding=mp31", 
+            "name": "Theme X"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736622&streamencoding=mp31", 
+            "name": "Dezyre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736623&streamencoding=mp31", 
+            "name": "Road to Vegas"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736624&streamencoding=mp31", 
+            "name": "Medteq"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86083"
+}

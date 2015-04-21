@@ -1,0 +1,24 @@
+{
+    "name": "Jo (d\u00e9mo)", 
+    "artist": "Jo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13082&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108288&streamencoding=mp31", 
+            "name": "Dance over the rules of evils"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108289&streamencoding=mp31", 
+            "name": "Kingdom of the Lord"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108290&streamencoding=mp31", 
+            "name": "Saint microphone"
+        }
+    ], 
+    "release": "2008", 
+    "id": "13082"
+}

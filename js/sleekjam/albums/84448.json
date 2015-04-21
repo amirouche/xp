@@ -1,0 +1,34 @@
+{
+    "name": "pikingsyl", 
+    "artist": "contusion", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84448&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723095&streamencoding=mp31", 
+            "name": "le fou"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723209&streamencoding=mp31", 
+            "name": "very nice"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723267&streamencoding=mp31", 
+            "name": "paul et jacqueline"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723272&streamencoding=mp31", 
+            "name": "le clown"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723285&streamencoding=mp31", 
+            "name": "intellos"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84448"
+}

@@ -1,0 +1,129 @@
+{
+    "name": "Hoc Erat In Votis", 
+    "artist": "l'arbre vert", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56429&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477771&streamencoding=mp31", 
+            "name": "Magical River"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477765&streamencoding=mp31", 
+            "name": "swing shot 2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477768&streamencoding=mp31", 
+            "name": "Nage Libre 2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477766&streamencoding=mp31", 
+            "name": "Ball Race 2"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477774&streamencoding=mp31", 
+            "name": "sunday morning 2"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477764&streamencoding=mp31", 
+            "name": "douce tranquilit\u00e9"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477937&streamencoding=mp31", 
+            "name": "Couleurs 2"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477938&streamencoding=mp31", 
+            "name": "orient express"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477769&streamencoding=mp31", 
+            "name": "Oliver Story"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477770&streamencoding=mp31", 
+            "name": "Lambs Bread 2"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477776&streamencoding=mp31", 
+            "name": "Pr\u00e9viens Les Part 2.2"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477773&streamencoding=mp31", 
+            "name": "Groove"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477775&streamencoding=mp31", 
+            "name": "glycine"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477777&streamencoding=mp31", 
+            "name": "Strange 2"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477763&streamencoding=mp31", 
+            "name": "foliac\u00e9"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477944&streamencoding=mp31", 
+            "name": "In Moonlight city"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477941&streamencoding=mp31", 
+            "name": "Chinoiserie"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477939&streamencoding=mp31", 
+            "name": "JAMAICA PALM 2"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477940&streamencoding=mp31", 
+            "name": "Jonglerie des Cara\u00eebes Dub"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477942&streamencoding=mp31", 
+            "name": "Fightin' Dub"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477943&streamencoding=mp31", 
+            "name": "One by one 2"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477767&streamencoding=mp31", 
+            "name": "Teachin'2"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477946&streamencoding=mp31", 
+            "name": "Space Time"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477945&streamencoding=mp31", 
+            "name": "Rebondissement 2"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56429"
+}

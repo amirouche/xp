@@ -1,0 +1,79 @@
+{
+    "name": "Silence", 
+    "artist": "SamDreadd", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57285&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488403&streamencoding=mp31", 
+            "name": "reboul"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488414&streamencoding=mp31", 
+            "name": "nossi b\u00e9"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488416&streamencoding=mp31", 
+            "name": "chaplain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488406&streamencoding=mp31", 
+            "name": "zagros"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488404&streamencoding=mp31", 
+            "name": "thysdrus"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488405&streamencoding=mp31", 
+            "name": "cnide"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488407&streamencoding=mp31", 
+            "name": "bellovaques"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488408&streamencoding=mp31", 
+            "name": "pisanello"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488410&streamencoding=mp31", 
+            "name": "wilson"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488409&streamencoding=mp31", 
+            "name": "vico"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488412&streamencoding=mp31", 
+            "name": "hybla"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488418&streamencoding=mp31", 
+            "name": "cortot"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488419&streamencoding=mp31", 
+            "name": "rostok"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488417&streamencoding=mp31", 
+            "name": "longus"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57285"
+}

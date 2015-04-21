@@ -1,0 +1,34 @@
+{
+    "name": "Afreecanxpress dkr bluez@ ALBUM REVOLUTION", 
+    "artist": "AfreecanXpress dkr bluez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45629&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347376&streamencoding=mp31", 
+            "name": "Revalution"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347377&streamencoding=mp31", 
+            "name": "Douma titt"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347378&streamencoding=mp31", 
+            "name": "Fashion"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347379&streamencoding=mp31", 
+            "name": "Final Fight"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347380&streamencoding=mp31", 
+            "name": "Rijall Rock"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45629"
+}

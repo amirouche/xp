@@ -1,0 +1,29 @@
+{
+    "name": "This Suffering", 
+    "artist": "Echidna", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54502&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455396&streamencoding=mp31", 
+            "name": "Downforce"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455576&streamencoding=mp31", 
+            "name": "Balance Preservation"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455667&streamencoding=mp31", 
+            "name": "Depleted"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455810&streamencoding=mp31", 
+            "name": "This Suffering"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54502"
+}

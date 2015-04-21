@@ -1,0 +1,24 @@
+{
+    "name": "HH Kadamba Kanana Swami - Nama-Sankirtana", 
+    "artist": "Gundica Bhajans", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43414&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=321610&streamencoding=mp31", 
+            "name": "nama-sankirtana"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=321351&streamencoding=mp31", 
+            "name": "maha-mantra (ruminative)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=321350&streamencoding=mp31", 
+            "name": "maha-mantra (jolly)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43414"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "BORN ALIVE DEAD", 
+    "artist": "BORN ALIVE DEAD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29107&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194919&streamencoding=mp31", 
+            "name": "Stop the progress"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194924&streamencoding=mp31", 
+            "name": "The environmental suicide"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194930&streamencoding=mp31", 
+            "name": "Final war"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194939&streamencoding=mp31", 
+            "name": "Saint evil"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194946&streamencoding=mp31", 
+            "name": "High game"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194949&streamencoding=mp31", 
+            "name": "Virtual world"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194957&streamencoding=mp31", 
+            "name": "Waiting for execution"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194970&streamencoding=mp31", 
+            "name": "Born alive dead"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29107"
+}

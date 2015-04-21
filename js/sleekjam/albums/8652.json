@@ -1,0 +1,49 @@
+{
+    "name": "Queda la Pasi\u00f3n", 
+    "artist": "CARLOS VARGAS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8652&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=89366&streamencoding=mp31", 
+            "name": "La se\u00f1ora de los astros                                                3:34"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=89489&streamencoding=mp31", 
+            "name": "Siempre encontrar\u00e1s lo mismo 4:09"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=89497&streamencoding=mp31", 
+            "name": "Camino abierto        4:20"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=89518&streamencoding=mp31", 
+            "name": "Queda la pasi\u00f3n   4:44"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=89533&streamencoding=mp31", 
+            "name": "Manantial      4:51"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=89552&streamencoding=mp31", 
+            "name": "Recuerdos    3:53"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=89555&streamencoding=mp31", 
+            "name": "Una noche cualquiera    4:58"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=89571&streamencoding=mp31", 
+            "name": "El ritmo    3:40"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8652"
+}

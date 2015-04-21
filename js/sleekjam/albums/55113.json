@@ -1,0 +1,39 @@
+{
+    "name": "ATROPHIED", 
+    "artist": "OXY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55113&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463031&streamencoding=mp31", 
+            "name": "burning underground"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463028&streamencoding=mp31", 
+            "name": "oath"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463032&streamencoding=mp31", 
+            "name": "can"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463027&streamencoding=mp31", 
+            "name": "nacho man"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463030&streamencoding=mp31", 
+            "name": "atrophied"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463029&streamencoding=mp31", 
+            "name": "the end"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55113"
+}

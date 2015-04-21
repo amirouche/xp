@@ -1,0 +1,69 @@
+{
+    "name": "Last Days Of Disco", 
+    "artist": "Fhernando", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110979&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944684&streamencoding=mp31", 
+            "name": "Funkylicious (Album Version)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944694&streamencoding=mp31", 
+            "name": "HeartBeat (Single Version)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944696&streamencoding=mp31", 
+            "name": "Last Days of Disco"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944721&streamencoding=mp31", 
+            "name": "Ride My Tempo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944880&streamencoding=mp31", 
+            "name": "The Sun Goes Down"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944881&streamencoding=mp31", 
+            "name": "Anthony Jones"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944884&streamencoding=mp31", 
+            "name": "Kiss Me Harder Boy"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944890&streamencoding=mp31", 
+            "name": "Crying at the Discoteque"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944891&streamencoding=mp31", 
+            "name": "Another Stupid Love Song"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944892&streamencoding=mp31", 
+            "name": "(I Need Ya) L.O.V.E"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944903&streamencoding=mp31", 
+            "name": "Love Story"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=944904&streamencoding=mp31", 
+            "name": "Pasadena Nights (Album Version)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110979"
+}

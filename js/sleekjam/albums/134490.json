@@ -1,0 +1,19 @@
+{
+    "name": "SIRTECHNOMAMAFUNKY", 
+    "artist": "OMA\u2022GASH ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134490&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124506&streamencoding=mp31", 
+            "name": "Sir Funky"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124513&streamencoding=mp31", 
+            "name": "Techno Mama"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134490"
+}

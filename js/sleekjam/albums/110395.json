@@ -1,0 +1,49 @@
+{
+    "name": "Hippie House Jam Band", 
+    "artist": "Hippie House Jam Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110395&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940040&streamencoding=mp31", 
+            "name": "Um die Ecke"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940047&streamencoding=mp31", 
+            "name": "Tanzen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940042&streamencoding=mp31", 
+            "name": "Sofa"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940043&streamencoding=mp31", 
+            "name": "Rausgehn"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940045&streamencoding=mp31", 
+            "name": "Disco"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940046&streamencoding=mp31", 
+            "name": "Affen Tanzen"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940044&streamencoding=mp31", 
+            "name": "Zeit verbraucht"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940041&streamencoding=mp31", 
+            "name": "Clooney"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110395"
+}

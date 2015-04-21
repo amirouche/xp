@@ -1,0 +1,49 @@
+{
+    "name": "Temple of Relaxation", 
+    "artist": "Matthias Stampa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72690&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627677&streamencoding=mp31", 
+            "name": "Harmonie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627686&streamencoding=mp31", 
+            "name": "Morning Red"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627687&streamencoding=mp31", 
+            "name": "Fiefbergen"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627688&streamencoding=mp31", 
+            "name": "Magic"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627689&streamencoding=mp31", 
+            "name": "Nature"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627690&streamencoding=mp31", 
+            "name": "Temple of Relaxation"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627691&streamencoding=mp31", 
+            "name": "Spirit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627692&streamencoding=mp31", 
+            "name": "Sun over the Beach"
+        }
+    ], 
+    "release": "2010", 
+    "id": "72690"
+}

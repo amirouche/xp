@@ -1,0 +1,54 @@
+{
+    "name": "Internal Error", 
+    "artist": "Mike Kaiso", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38229&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269169&streamencoding=mp31", 
+            "name": "Spektrum"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269190&streamencoding=mp31", 
+            "name": "Polycarbone"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269168&streamencoding=mp31", 
+            "name": "Mazout"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269189&streamencoding=mp31", 
+            "name": "Phase 4(Original)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269187&streamencoding=mp31", 
+            "name": "Cubix(Sideral mix)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269188&streamencoding=mp31", 
+            "name": "Rythmzz"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269186&streamencoding=mp31", 
+            "name": "Internal error"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269252&streamencoding=mp31", 
+            "name": "UnderFish"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269234&streamencoding=mp31", 
+            "name": "Utopia"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38229"
+}

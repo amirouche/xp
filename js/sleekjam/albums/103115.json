@@ -1,0 +1,29 @@
+{
+    "name": "Hardtek Tribe", 
+    "artist": "\u02d9\u00b7\u0660\u2022\u25cf\u266b\u0ad0\u266a Psy-M2 \u266a \u0ad0\u266b\u25cf\u2022\u0660\u00b7\u02d9", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103115&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=878043&streamencoding=mp31", 
+            "name": "Factory Desert _0"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=878044&streamencoding=mp31", 
+            "name": "Spectrum_2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=878045&streamencoding=mp31", 
+            "name": "Spiriual Adventure2_3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=878046&streamencoding=mp31", 
+            "name": "boiteArythm_1"
+        }
+    ], 
+    "release": "2011", 
+    "id": "103115"
+}

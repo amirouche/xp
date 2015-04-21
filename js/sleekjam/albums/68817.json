@@ -1,0 +1,29 @@
+{
+    "name": "Heritage EP", 
+    "artist": "Stan-X", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68817&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=595560&streamencoding=mp31", 
+            "name": "Prelude"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=595559&streamencoding=mp31", 
+            "name": "Delta"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=595557&streamencoding=mp31", 
+            "name": "Equateur"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=595558&streamencoding=mp31", 
+            "name": "Memory"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68817"
+}

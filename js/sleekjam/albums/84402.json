@@ -1,0 +1,64 @@
+{
+    "name": "Fuite des Sens", 
+    "artist": "Patatraa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84402&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722913&streamencoding=mp31", 
+            "name": "Marchons Ensemble"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722911&streamencoding=mp31", 
+            "name": "La Moutarde Au Nez"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722917&streamencoding=mp31", 
+            "name": "M\u00e9fies-Toi"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722912&streamencoding=mp31", 
+            "name": "Chanson Pour La Forme"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722918&streamencoding=mp31", 
+            "name": "La Marche De L'ours"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722914&streamencoding=mp31", 
+            "name": "La Boite \u00e0 Image"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722908&streamencoding=mp31", 
+            "name": "De La Musique"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722915&streamencoding=mp31", 
+            "name": "Le Monde Va Mal"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722909&streamencoding=mp31", 
+            "name": "Mitch"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722907&streamencoding=mp31", 
+            "name": "Va-L\u00e0"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722910&streamencoding=mp31", 
+            "name": "Glocken's Dub"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84402"
+}

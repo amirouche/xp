@@ -1,0 +1,14 @@
+{
+    "name": "Demo Demo Thing Thing", 
+    "artist": "Handsome Rob", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35071&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=241241&streamencoding=mp31", 
+            "name": "Iron Baby Grand"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35071"
+}

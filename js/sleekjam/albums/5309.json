@@ -1,0 +1,14 @@
+{
+    "name": "From the Forest to the Town", 
+    "artist": "Young Blood Undertakers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5309&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=44118&streamencoding=mp31", 
+            "name": "From the forest to the town"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5309"
+}

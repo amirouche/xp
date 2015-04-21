@@ -1,0 +1,54 @@
+{
+    "name": "It Was Already Broken", 
+    "artist": "Wilson's Head", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87307&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746724&streamencoding=mp31", 
+            "name": "Skit"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746721&streamencoding=mp31", 
+            "name": "Clown"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746725&streamencoding=mp31", 
+            "name": "G.R.N.G"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746722&streamencoding=mp31", 
+            "name": "Blad"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746726&streamencoding=mp31", 
+            "name": "Garden Hitler"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746723&streamencoding=mp31", 
+            "name": "Gniew"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746718&streamencoding=mp31", 
+            "name": "DIY"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746719&streamencoding=mp31", 
+            "name": "Widze"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746720&streamencoding=mp31", 
+            "name": "Nie Oddam"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87307"
+}

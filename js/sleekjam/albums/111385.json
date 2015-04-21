@@ -1,0 +1,69 @@
+{
+    "name": "Leto (Summer)", 
+    "artist": "Risha", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111385&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947880&streamencoding=mp31", 
+            "name": "Leto (Summer)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947878&streamencoding=mp31", 
+            "name": "Oi, Ladu"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947877&streamencoding=mp31", 
+            "name": "Golubka (Dove)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947876&streamencoding=mp31", 
+            "name": "Ptaha (Little Bird)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947875&streamencoding=mp31", 
+            "name": "Vodiza (Water)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947883&streamencoding=mp31", 
+            "name": "Uletaj Na Kryljah Vetra (Fly Away On the Wings Of the Wind)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947882&streamencoding=mp31", 
+            "name": "Manechka"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947879&streamencoding=mp31", 
+            "name": "Masleniza"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947885&streamencoding=mp31", 
+            "name": "Dozhdik / Lullaby feat. Lou"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947881&streamencoding=mp31", 
+            "name": "Kolyada"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947884&streamencoding=mp31", 
+            "name": "Golubka (Danoizz rmx)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947886&streamencoding=mp31", 
+            "name": "Oi, Ladu (Uhaft Muzak rmx)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111385"
+}

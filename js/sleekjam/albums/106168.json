@@ -1,0 +1,64 @@
+{
+    "name": "VOICE FROM HELL", 
+    "artist": "BAAL ANAMELECH", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106168&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=901766&streamencoding=mp31", 
+            "name": "SOLDIER'S HEART"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=901764&streamencoding=mp31", 
+            "name": "malevolent attack"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=901763&streamencoding=mp31", 
+            "name": "strategy at a given time"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=901762&streamencoding=mp31", 
+            "name": "conspiracy"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=901761&streamencoding=mp31", 
+            "name": "a well-earned rest"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=901760&streamencoding=mp31", 
+            "name": "time of war"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=901759&streamencoding=mp31", 
+            "name": "a beginning, a new day"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=901758&streamencoding=mp31", 
+            "name": "delivered into the hand of death"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=901768&streamencoding=mp31", 
+            "name": "despair at dusk"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=901767&streamencoding=mp31", 
+            "name": "a new hope to a tired heart"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=901765&streamencoding=mp31", 
+            "name": "the last song, a rest"
+        }
+    ], 
+    "release": "2012", 
+    "id": "106168"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "DJ TALO - Ogni cosa al suo tempo", 
+    "artist": "Dj Talo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76796&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661999&streamencoding=mp31", 
+            "name": "DjTalo-Ogni_cosa_al_suo_tempo"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76796"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "les infos de la cuigiene (saison 2)", 
+    "artist": "Cailloux", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49936&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400684&streamencoding=mp31", 
+            "name": "les infos de la cuigiene"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400686&streamencoding=mp31", 
+            "name": "theme"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400681&streamencoding=mp31", 
+            "name": "bateau pirate"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400682&streamencoding=mp31", 
+            "name": "explication"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400680&streamencoding=mp31", 
+            "name": "angry"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400685&streamencoding=mp31", 
+            "name": "mistere"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=400683&streamencoding=mp31", 
+            "name": "generique fin"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49936"
+}

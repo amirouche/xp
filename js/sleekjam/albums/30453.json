@@ -1,0 +1,14 @@
+{
+    "name": "Chaos", 
+    "artist": "ANAVRIN", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30453&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205125&streamencoding=mp31", 
+            "name": "So Sudden Suicide"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30453"
+}

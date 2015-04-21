@@ -1,0 +1,59 @@
+{
+    "name": "E.L.E. Zero Point B.E.", 
+    "artist": "Nelson Jenstad", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79223&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681429&streamencoding=mp31", 
+            "name": "Escape Velocity"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681430&streamencoding=mp31", 
+            "name": "Station A Repeater"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681431&streamencoding=mp31", 
+            "name": "January First"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681432&streamencoding=mp31", 
+            "name": "You Give Me Pause"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681433&streamencoding=mp31", 
+            "name": "My Lavendar Days"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681434&streamencoding=mp31", 
+            "name": "The Redeemer"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681435&streamencoding=mp31", 
+            "name": "Oh Look"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681436&streamencoding=mp31", 
+            "name": "Sky High"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681437&streamencoding=mp31", 
+            "name": "I Find It Strange"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681438&streamencoding=mp31", 
+            "name": "Ever In Joy Surrounding"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79223"
+}

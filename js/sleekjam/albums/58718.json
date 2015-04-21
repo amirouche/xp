@@ -1,0 +1,24 @@
+{
+    "name": "HOMF", 
+    "artist": "Traumedary", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58718&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501479&streamencoding=mp31", 
+            "name": "Fill That Hole"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501506&streamencoding=mp31", 
+            "name": "Strapped"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=501481&streamencoding=mp31", 
+            "name": "Internet Dating"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58718"
+}

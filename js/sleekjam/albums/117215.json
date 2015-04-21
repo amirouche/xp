@@ -1,0 +1,44 @@
+{
+    "name": "Sense", 
+    "artist": "80N35", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117215&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996522&streamencoding=mp31", 
+            "name": "A Blur"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996524&streamencoding=mp31", 
+            "name": "Mountain Ship"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996518&streamencoding=mp31", 
+            "name": "Banshee"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996521&streamencoding=mp31", 
+            "name": "Heather"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996517&streamencoding=mp31", 
+            "name": "Shoes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996523&streamencoding=mp31", 
+            "name": "On the Train"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996519&streamencoding=mp31", 
+            "name": "Hey You Now"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117215"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Kein Ausgang", 
+    "artist": "S\u00e5\u00f1a \u00d8lzk\u00e8 G\u00e6\u0161p\u00e4ns", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131616&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102738&streamencoding=mp31", 
+            "name": "Niemand sucht Liebe"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102735&streamencoding=mp31", 
+            "name": "Man muss weg laufen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102736&streamencoding=mp31", 
+            "name": "Der letzte Weg"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102737&streamencoding=mp31", 
+            "name": "Der m\u00f6gliche Selbstm\u00f6rder"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102744&streamencoding=mp31", 
+            "name": "Grausame Gedanken"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102739&streamencoding=mp31", 
+            "name": "Ein schwarzer Tanz"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102740&streamencoding=mp31", 
+            "name": "Eine Jungfrau"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102741&streamencoding=mp31", 
+            "name": "Die Tr\u00e4nen des Todeskampfes"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102742&streamencoding=mp31", 
+            "name": "Das Ende"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102743&streamencoding=mp31", 
+            "name": "P.S."
+        }
+    ], 
+    "release": "2014", 
+    "id": "131616"
+}

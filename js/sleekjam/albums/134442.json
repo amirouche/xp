@@ -1,0 +1,14 @@
+{
+    "name": "On The Rag", 
+    "artist": "Leo Bowers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134442&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124235&streamencoding=mp31", 
+            "name": "On The Rag"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134442"
+}

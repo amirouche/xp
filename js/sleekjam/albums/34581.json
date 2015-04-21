@@ -1,0 +1,39 @@
+{
+    "name": "Godot", 
+    "artist": "Margin of Safety", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34581&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236680&streamencoding=mp31", 
+            "name": "Vladimir's Hat"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236681&streamencoding=mp31", 
+            "name": "He'll Come Tomorrow"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236697&streamencoding=mp31", 
+            "name": "Still Waiting"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236703&streamencoding=mp31", 
+            "name": "Augustine's Aardvark Timing"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236712&streamencoding=mp31", 
+            "name": "Some Remain So"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236716&streamencoding=mp31", 
+            "name": "Estragon's Boots"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34581"
+}

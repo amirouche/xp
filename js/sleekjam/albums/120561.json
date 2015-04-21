@@ -1,0 +1,14 @@
+{
+    "name": "Nothing changes me (1988- version 2013)", 
+    "artist": "D27m", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120561&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1025584&streamencoding=mp31", 
+            "name": "nothing changes me (version 2013)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120561"
+}

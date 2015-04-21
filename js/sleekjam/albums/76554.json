@@ -1,0 +1,59 @@
+{
+    "name": "Ballades dans un voyage", 
+    "artist": "J-M Dauphy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76554&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659753&streamencoding=mp31", 
+            "name": "Madelon "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659805&streamencoding=mp31", 
+            "name": "Quartier Brassens"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659827&streamencoding=mp31", 
+            "name": "Clarisse(autodaf\u00e9) "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659841&streamencoding=mp31", 
+            "name": "L' aviateur"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659842&streamencoding=mp31", 
+            "name": "Pierrot des bords de Seine"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659844&streamencoding=mp31", 
+            "name": "Salut l'artiste  "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659845&streamencoding=mp31", 
+            "name": "Les ressorts Garnier "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659910&streamencoding=mp31", 
+            "name": "Hello Georges"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659911&streamencoding=mp31", 
+            "name": "Quand tu partiras"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659912&streamencoding=mp31", 
+            "name": "Tonton Alcide "
+        }
+    ], 
+    "release": "2010", 
+    "id": "76554"
+}

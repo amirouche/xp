@@ -1,0 +1,84 @@
+{
+    "name": "Metapop (2005)", 
+    "artist": "Loungerie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63429&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544590&streamencoding=mp31", 
+            "name": "Vademecum Musicale"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544591&streamencoding=mp31", 
+            "name": "La Bella Estate"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544592&streamencoding=mp31", 
+            "name": "Popolare"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544593&streamencoding=mp31", 
+            "name": "Acquaragia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544594&streamencoding=mp31", 
+            "name": "Divorzio All'Italiana"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544568&streamencoding=mp31", 
+            "name": "Postmoderno Cha Cha Cha"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544595&streamencoding=mp31", 
+            "name": "Buddhabar"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544596&streamencoding=mp31", 
+            "name": "Tumiblues"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544567&streamencoding=mp31", 
+            "name": "Il caff\u00e8 della Peppina"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544571&streamencoding=mp31", 
+            "name": "Bollywood"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544597&streamencoding=mp31", 
+            "name": "Mai Mai"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544569&streamencoding=mp31", 
+            "name": "Sopravviver\u00f2 (I will survive)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544598&streamencoding=mp31", 
+            "name": "L'Ut\u00e8ro"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544599&streamencoding=mp31", 
+            "name": "Tartiflette"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=544570&streamencoding=mp31", 
+            "name": "Ghost Track"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63429"
+}

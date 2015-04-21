@@ -1,0 +1,59 @@
+{
+    "name": "Talk To The Paw", 
+    "artist": "Richie Reinholdt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20785&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145997&streamencoding=mp31", 
+            "name": "Ready To Fly"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145999&streamencoding=mp31", 
+            "name": "Words"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146000&streamencoding=mp31", 
+            "name": "Tuff Girl"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146003&streamencoding=mp31", 
+            "name": "Empty Eyes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146005&streamencoding=mp31", 
+            "name": "Walk On"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146006&streamencoding=mp31", 
+            "name": "Reality Show"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146007&streamencoding=mp31", 
+            "name": "March"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146008&streamencoding=mp31", 
+            "name": "The Wages Of Love"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146010&streamencoding=mp31", 
+            "name": "Only A Dream"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146014&streamencoding=mp31", 
+            "name": "Gobbler Elephants"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20785"
+}

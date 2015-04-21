@@ -1,0 +1,59 @@
+{
+    "name": "Chesire Cat", 
+    "artist": "Axel Chesire", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119870&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017563&streamencoding=mp31", 
+            "name": "One night in Berlin ( Kill The Fuhrer )"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017558&streamencoding=mp31", 
+            "name": "Vonny Junk Party"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017559&streamencoding=mp31", 
+            "name": "Take This Out ( And the radio shocking )"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017560&streamencoding=mp31", 
+            "name": "Fear"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017562&streamencoding=mp31", 
+            "name": "Jesus Stress"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017564&streamencoding=mp31", 
+            "name": "Wallon World"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017565&streamencoding=mp31", 
+            "name": "80Th come back"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017566&streamencoding=mp31", 
+            "name": "Strated"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017567&streamencoding=mp31", 
+            "name": "One for the money"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017568&streamencoding=mp31", 
+            "name": "Walk On Moon"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119870"
+}

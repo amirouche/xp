@@ -1,0 +1,54 @@
+{
+    "name": "Agoraphobia", 
+    "artist": "Bitter Darwin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84864&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726379&streamencoding=mp31", 
+            "name": "The Wait"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726382&streamencoding=mp31", 
+            "name": "Powerpull"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726383&streamencoding=mp31", 
+            "name": "Run Down"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726385&streamencoding=mp31", 
+            "name": "Opaque"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726377&streamencoding=mp31", 
+            "name": "Rodeo Star"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726381&streamencoding=mp31", 
+            "name": "Obsessive"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726378&streamencoding=mp31", 
+            "name": "Motherk"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726380&streamencoding=mp31", 
+            "name": "Go Outside"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726384&streamencoding=mp31", 
+            "name": "Neon Knife"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84864"
+}

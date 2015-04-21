@@ -1,0 +1,34 @@
+{
+    "name": "It's Almost Over...", 
+    "artist": "Melange Promenade", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19418&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136338&streamencoding=mp31", 
+            "name": "Middle of the Night"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136335&streamencoding=mp31", 
+            "name": "Garden Rules"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136329&streamencoding=mp31", 
+            "name": "Die Bold"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136341&streamencoding=mp31", 
+            "name": "Only Time You Living"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=136319&streamencoding=mp31", 
+            "name": "\u00aeEvolution"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19418"
+}

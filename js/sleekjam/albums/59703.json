@@ -1,0 +1,54 @@
+{
+    "name": "Pick It Up!", 
+    "artist": "The Sovereigns", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59703&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510011&streamencoding=mp31", 
+            "name": "Pick It Up! (...And Run)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510013&streamencoding=mp31", 
+            "name": "Got To Get Away"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510076&streamencoding=mp31", 
+            "name": "Sex & Modern Drugs"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510077&streamencoding=mp31", 
+            "name": "Jump!"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510078&streamencoding=mp31", 
+            "name": "Pirate Mutiny"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510079&streamencoding=mp31", 
+            "name": "Let's Go!"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510080&streamencoding=mp31", 
+            "name": "No One Can Win This Fight"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510081&streamencoding=mp31", 
+            "name": "Sunday Jam"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510083&streamencoding=mp31", 
+            "name": "Alerta Antifascista"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59703"
+}

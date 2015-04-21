@@ -1,0 +1,14 @@
+{
+    "name": "Upside Down (Single)", 
+    "artist": "David Fink", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83219&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712974&streamencoding=mp31", 
+            "name": "Upside Down"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83219"
+}

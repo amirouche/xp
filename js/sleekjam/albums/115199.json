@@ -1,0 +1,69 @@
+{
+    "name": "Wings", 
+    "artist": "PERSSON", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115199&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978196&streamencoding=mp31", 
+            "name": "Oh yeah"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978198&streamencoding=mp31", 
+            "name": "79th Street blues"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978206&streamencoding=mp31", 
+            "name": "Last train home"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978205&streamencoding=mp31", 
+            "name": "Wings"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978204&streamencoding=mp31", 
+            "name": "Who are you"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978203&streamencoding=mp31", 
+            "name": "Isabelle"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978202&streamencoding=mp31", 
+            "name": "I say yeah"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978201&streamencoding=mp31", 
+            "name": "The hill"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978200&streamencoding=mp31", 
+            "name": "It's time to go home"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978199&streamencoding=mp31", 
+            "name": "One dance in the moonlight"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978197&streamencoding=mp31", 
+            "name": "Shine"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978195&streamencoding=mp31", 
+            "name": "Pleasant journey"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115199"
+}

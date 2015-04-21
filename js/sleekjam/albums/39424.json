@@ -1,0 +1,49 @@
+{
+    "name": "the end", 
+    "artist": "deied", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39424&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=281860&streamencoding=mp31", 
+            "name": "Fuego"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=281864&streamencoding=mp31", 
+            "name": "Hard Stuff"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=281875&streamencoding=mp31", 
+            "name": "She Master"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=281877&streamencoding=mp31", 
+            "name": "Hope"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=281888&streamencoding=mp31", 
+            "name": "Monster"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=281905&streamencoding=mp31", 
+            "name": "Wilder Wind"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=281906&streamencoding=mp31", 
+            "name": "Liar"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=281918&streamencoding=mp31", 
+            "name": "Far From Home"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39424"
+}

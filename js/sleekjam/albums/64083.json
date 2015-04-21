@@ -1,0 +1,49 @@
+{
+    "name": "50 \u0434\u0438\u0441\u043a", 
+    "artist": " Viacheslav ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64083&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550363&streamencoding=mp31", 
+            "name": "\u041f\u0430\u0440\u0430\u0434\u043e\u043a\u0441\u044b"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550366&streamencoding=mp31", 
+            "name": "\u041f\u0440\u043e\u0432\u0430\u043b\u044b \u0432 \u043f\u0430\u043c\u044f\u0442\u0438"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550367&streamencoding=mp31", 
+            "name": "\u041f\u043e \u0440\u0430\u0437\u043d\u044b\u043c \u0430\u0434\u0440\u0435\u0441\u0430\u043c, \u043f\u043e \u0440\u0430\u0437\u043d\u044b\u043c \u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u044f\u043c"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550369&streamencoding=mp31", 
+            "name": "\u0423\u0445\u043e\u0434\u044f, \u0433\u0430\u0441\u0438\u0442\u0435 \u0441\u0432\u0435\u0442 !"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550371&streamencoding=mp31", 
+            "name": "\u0427\u0435\u0440\u0435\u0437 \u0440\u0435\u0447\u043a\u0443, \u043f\u043e \u043c\u043e\u0441\u0442\u0438\u043a\u0443 ( \u041d\u0438\u0447\u0435\u0439 )"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550378&streamencoding=mp31", 
+            "name": "\u0422\u043e\u043c\u0430 \u0438\u0437 \u043f\u0435\u0440\u0435\u043f\u0438\u0441\u043a\u0438 \u043d\u0430\u0448\u0435\u0439 ( \u043c\u0438\u0441\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f )"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550379&streamencoding=mp31", 
+            "name": "\u0420\u043e\u0441\u0441\u0438\u044f. \u041a\u043e\u043d\u0435\u0446 \u0438 \u043d\u0430\u0447\u0430\u043b\u043e \u0432\u0435\u043a\u0430"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=550396&streamencoding=mp31", 
+            "name": "\u041c\u0447\u0430\u0442\u0441\u044f \u043a\u043e\u043d\u0438 ( 2010 )"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64083"
+}

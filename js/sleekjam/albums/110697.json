@@ -1,0 +1,19 @@
+{
+    "name": "What It Means To Me", 
+    "artist": "Fukked Up", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110697&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=942256&streamencoding=mp31", 
+            "name": "What It Means To Me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=942255&streamencoding=mp31", 
+            "name": "Big Mouths"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110697"
+}

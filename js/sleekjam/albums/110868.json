@@ -1,0 +1,59 @@
+{
+    "name": "All Those Things I Left Behind", 
+    "artist": "K Republic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110868&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943796&streamencoding=mp31", 
+            "name": "Speed"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943798&streamencoding=mp31", 
+            "name": "Last Resort"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943797&streamencoding=mp31", 
+            "name": "Nobody (Life and Death)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943793&streamencoding=mp31", 
+            "name": "Clear Days"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943794&streamencoding=mp31", 
+            "name": "Hometown"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943792&streamencoding=mp31", 
+            "name": "My Highway"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943799&streamencoding=mp31", 
+            "name": "Tell Me"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943800&streamencoding=mp31", 
+            "name": "SOS"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943795&streamencoding=mp31", 
+            "name": "Annie's Song"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=943801&streamencoding=mp31", 
+            "name": "Vertical"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110868"
+}

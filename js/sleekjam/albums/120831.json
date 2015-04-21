@@ -1,0 +1,54 @@
+{
+    "name": "You Have Dysentery", 
+    "artist": "Friend Owl", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120831&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027549&streamencoding=mp31", 
+            "name": "Hex Key"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027550&streamencoding=mp31", 
+            "name": "Caulk the Wagon and Float It"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027551&streamencoding=mp31", 
+            "name": "Aunt Eater"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027552&streamencoding=mp31", 
+            "name": "Squirrel Suit Blues"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027553&streamencoding=mp31", 
+            "name": "G'Mork"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027554&streamencoding=mp31", 
+            "name": "Apostrophe Man"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027555&streamencoding=mp31", 
+            "name": "Female Adapter"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027556&streamencoding=mp31", 
+            "name": "No Soap, Radio!"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027557&streamencoding=mp31", 
+            "name": "Shadows"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120831"
+}

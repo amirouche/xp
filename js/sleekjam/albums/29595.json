@@ -1,0 +1,64 @@
+{
+    "name": "Brennende Sportliche Chinesen", 
+    "artist": "Das Heuchelbacherquintete", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29595&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=198973&streamencoding=mp31", 
+            "name": "MaO"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=198974&streamencoding=mp31", 
+            "name": "K\u00f6rpergarten"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=198975&streamencoding=mp31", 
+            "name": "piekh\u00e4rtzchje"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=199084&streamencoding=mp31", 
+            "name": "Mao(mAo edit)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=199083&streamencoding=mp31", 
+            "name": "totraumtreter"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=198978&streamencoding=mp31", 
+            "name": "MaO(you.tubemix)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=198979&streamencoding=mp31", 
+            "name": "st\u00fctzstroumpfgesicht"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=198980&streamencoding=mp31", 
+            "name": "b0hrk0ppwuntkinnt"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=198976&streamencoding=mp31", 
+            "name": "MaO"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=198993&streamencoding=mp31", 
+            "name": "diypolyzystet"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=198994&streamencoding=mp31", 
+            "name": "mao"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29595"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Seul", 
+    "artist": "Orelie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132991&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1113615&streamencoding=mp31", 
+            "name": "I stand alone"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1113616&streamencoding=mp31", 
+            "name": "derriere mes reves"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132991"
+}

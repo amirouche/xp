@@ -1,0 +1,59 @@
+{
+    "name": "Walter C. Icecream", 
+    "artist": "Le Bruit Marron", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108604&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917027&streamencoding=mp31", 
+            "name": "Miguel"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917028&streamencoding=mp31", 
+            "name": "Pingouins"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917029&streamencoding=mp31", 
+            "name": "Shake Your Body"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917030&streamencoding=mp31", 
+            "name": "La Femme est un Loup pour l'Homme"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917031&streamencoding=mp31", 
+            "name": "Hip Hop"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917033&streamencoding=mp31", 
+            "name": "Walter Closet"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917034&streamencoding=mp31", 
+            "name": "Le Faon El\u00e9phant"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917035&streamencoding=mp31", 
+            "name": "La Love Song"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917036&streamencoding=mp31", 
+            "name": "La Machine"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=917037&streamencoding=mp31", 
+            "name": "Je Sais Pas"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108604"
+}

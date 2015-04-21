@@ -1,0 +1,34 @@
+{
+    "name": "Ties, Cardigans & Other Cool Stuff EP", 
+    "artist": "RETROSONIC", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87365&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747229&streamencoding=mp31", 
+            "name": "Until The End"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747231&streamencoding=mp31", 
+            "name": "Smoked And Stoned"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747233&streamencoding=mp31", 
+            "name": "Rock N' Roll Riff"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747230&streamencoding=mp31", 
+            "name": "Silent Prison"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747232&streamencoding=mp31", 
+            "name": "The Hipster Song"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87365"
+}

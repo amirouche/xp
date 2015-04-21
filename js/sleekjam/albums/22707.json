@@ -1,0 +1,34 @@
+{
+    "name": "Polaris", 
+    "artist": "Polaris", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22707&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=157650&streamencoding=mp31", 
+            "name": "Stranger Interface"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=157662&streamencoding=mp31", 
+            "name": "Final Words"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=157713&streamencoding=mp31", 
+            "name": "Sleep"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=157717&streamencoding=mp31", 
+            "name": "Diana"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=157718&streamencoding=mp31", 
+            "name": "From Black To Green"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22707"
+}

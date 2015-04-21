@@ -1,0 +1,29 @@
+{
+    "name": "negative attitude", 
+    "artist": "Psykoxxx", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77614&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668977&streamencoding=mp31", 
+            "name": "kriminal beatz"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668980&streamencoding=mp31", 
+            "name": "physias"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668993&streamencoding=mp31", 
+            "name": "fuck U punk !"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=669010&streamencoding=mp31", 
+            "name": "disfunction"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77614"
+}

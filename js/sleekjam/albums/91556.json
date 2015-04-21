@@ -1,0 +1,54 @@
+{
+    "name": "Self-Mutilation", 
+    "artist": "Cerebral | Dementia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91556&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781232&streamencoding=mp31", 
+            "name": "Tragedy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781233&streamencoding=mp31", 
+            "name": "Torment"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781234&streamencoding=mp31", 
+            "name": "Torture"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781235&streamencoding=mp31", 
+            "name": "Intimidation"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781236&streamencoding=mp31", 
+            "name": "Self-Destruktion"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781237&streamencoding=mp31", 
+            "name": "Misery"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781238&streamencoding=mp31", 
+            "name": "Martyrdom"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781239&streamencoding=mp31", 
+            "name": "Punishment"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781240&streamencoding=mp31", 
+            "name": "Disaster"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91556"
+}

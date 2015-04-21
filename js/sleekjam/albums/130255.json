@@ -1,0 +1,24 @@
+{
+    "name": "Revolution Avoided", 
+    "artist": "Anthropomorphic_Spirit", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130255&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1092748&streamencoding=mp31", 
+            "name": "Revolution Avoided (ft. Revolution Void, Snowflake, projectQUESTION, Donnie Ozone)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1092746&streamencoding=mp31", 
+            "name": "Racing to be Human (ft. Snowflake)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1092747&streamencoding=mp31", 
+            "name": "Rocky Groove (ft. Revolution Void)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130255"
+}

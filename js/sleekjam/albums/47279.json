@@ -1,0 +1,34 @@
+{
+    "name": "JUSTE MOI", 
+    "artist": "DCRMLAVIE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47279&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=366913&streamencoding=mp31", 
+            "name": "EMMENE-MOI"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=366914&streamencoding=mp31", 
+            "name": "\u00d4BOSSO ( DEVANT )"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=366915&streamencoding=mp31", 
+            "name": "PARLER AVEC LA LUNE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=366916&streamencoding=mp31", 
+            "name": "TETAIS "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=366917&streamencoding=mp31", 
+            "name": "MOULEMA MOUN ( MON COEUR )"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47279"
+}

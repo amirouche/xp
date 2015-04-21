@@ -1,0 +1,14 @@
+{
+    "name": "La Vita \u00e8 Ora (EP)", 
+    "artist": "David Voltage", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114295&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971210&streamencoding=mp31", 
+            "name": "La Vita \u00e8 Ora"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114295"
+}

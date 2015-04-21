@@ -1,0 +1,39 @@
+{
+    "name": "Music For Mars Missions", 
+    "artist": "Joost Egelie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56578&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479364&streamencoding=mp31", 
+            "name": "Embark"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479620&streamencoding=mp31", 
+            "name": "Behind the Moon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479627&streamencoding=mp31", 
+            "name": "Slingshot"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479683&streamencoding=mp31", 
+            "name": "Stasis"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479692&streamencoding=mp31", 
+            "name": "Landing Site"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479693&streamencoding=mp31", 
+            "name": "Remember The Rovers"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56578"
+}

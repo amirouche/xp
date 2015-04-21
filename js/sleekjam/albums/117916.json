@@ -1,0 +1,59 @@
+{
+    "name": "Akaskarla", 
+    "artist": "Akaskarla", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117916&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002025&streamencoding=mp31", 
+            "name": "Tenian Razon"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002041&streamencoding=mp31", 
+            "name": "Criticar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002042&streamencoding=mp31", 
+            "name": "Recalificacion"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002043&streamencoding=mp31", 
+            "name": "Amnistia y Libertad"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002044&streamencoding=mp31", 
+            "name": "Hijos del Pueblo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002045&streamencoding=mp31", 
+            "name": "Ireki Bidea"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002046&streamencoding=mp31", 
+            "name": "Otra Noche Mas"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002047&streamencoding=mp31", 
+            "name": "Pastillas de Sueno"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002069&streamencoding=mp31", 
+            "name": "Una Vida Entera"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002072&streamencoding=mp31", 
+            "name": "Aire Acondicionado"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117916"
+}

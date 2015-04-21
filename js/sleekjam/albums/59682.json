@@ -1,0 +1,54 @@
+{
+    "name": "Vremeplov (Timeline)", 
+    "artist": "Georgije Malj", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59682&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509864&streamencoding=mp31", 
+            "name": "Vremeplov (Timeline) - Georgije Malj"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509865&streamencoding=mp31", 
+            "name": "Bumbuli (Hummingbirds) - Georgije Malj"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509862&streamencoding=mp31", 
+            "name": "Potkapica (Undercap) - Georgije Malj"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509859&streamencoding=mp31", 
+            "name": "Podbadanje (Pricking) - Georgije Malj"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509866&streamencoding=mp31", 
+            "name": "Sutrasnica (Tomorrow) - Georgije Malj"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509867&streamencoding=mp31", 
+            "name": "Orozi slute (Roosters suspect) - Georgije Malj"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509861&streamencoding=mp31", 
+            "name": "Evo me opet (Here I am again) - Georgije Malj"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509863&streamencoding=mp31", 
+            "name": "Blazenstvo (Bliss) - Georgije Malj"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509860&streamencoding=mp31", 
+            "name": "Jos malo (Just a little more) - Georgije Malj"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59682"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Last Dance for a Slow Decay...", 
+    "artist": "The Sad Darkness of thy Love", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72650&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627514&streamencoding=mp31", 
+            "name": "God is happy when..."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627516&streamencoding=mp31", 
+            "name": "The Lover's Negation"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627519&streamencoding=mp31", 
+            "name": "Tears of a Man"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627517&streamencoding=mp31", 
+            "name": "The End of the Laughters"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627518&streamencoding=mp31", 
+            "name": "A Sad Reflection"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627513&streamencoding=mp31", 
+            "name": "GOD & the LOVER's"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627515&streamencoding=mp31", 
+            "name": "Last Dance for a Slow Decay..."
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627520&streamencoding=mp31", 
+            "name": "GOD & the LOVER's (Live)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "72650"
+}

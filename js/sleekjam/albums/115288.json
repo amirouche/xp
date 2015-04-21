@@ -1,0 +1,44 @@
+{
+    "name": "Lethargic Philophony", 
+    "artist": "Exempt From Gravity", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115288&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978818&streamencoding=mp31", 
+            "name": "Artless Repose"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978819&streamencoding=mp31", 
+            "name": "The Self-Saboteur"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978820&streamencoding=mp31", 
+            "name": "Vicarious Lover"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978821&streamencoding=mp31", 
+            "name": "Blossomest Blossom (pt. III)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978822&streamencoding=mp31", 
+            "name": "Multiplicative Proclivities"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978823&streamencoding=mp31", 
+            "name": "Nothing exists save empty space and me."
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=978824&streamencoding=mp31", 
+            "name": "Entasis"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115288"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Sklatasangs", 
+    "artist": "Sklatasangs", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59359&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=506535&streamencoding=mp31", 
+            "name": "Ska, ska, ska... Sklatasangs!"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=506534&streamencoding=mp31", 
+            "name": "Gavinot"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=506821&streamencoding=mp31", 
+            "name": "Divendres de Festa"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=506822&streamencoding=mp31", 
+            "name": "Canal Camps"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59359"
+}

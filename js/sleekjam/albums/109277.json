@@ -1,0 +1,59 @@
+{
+    "name": "Wish To Born Yesterday (version 2)", 
+    "artist": "SUNRISE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109277&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922470&streamencoding=mp31", 
+            "name": "Fat Man"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922472&streamencoding=mp31", 
+            "name": "Is This Love"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922469&streamencoding=mp31", 
+            "name": "Lonely Lady"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922468&streamencoding=mp31", 
+            "name": "Say, Say"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922467&streamencoding=mp31", 
+            "name": "What Do You Whant, Baby"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922471&streamencoding=mp31", 
+            "name": "All The Time"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922466&streamencoding=mp31", 
+            "name": "I Wanna Speed My Life With You"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922473&streamencoding=mp31", 
+            "name": "Sky Can Never Be Clear"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922474&streamencoding=mp31", 
+            "name": "Moon Light"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922475&streamencoding=mp31", 
+            "name": "Wish To Born Yesterday"
+        }
+    ], 
+    "release": "2013", 
+    "id": "109277"
+}

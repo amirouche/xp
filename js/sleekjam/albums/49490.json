@@ -1,0 +1,69 @@
+{
+    "name": "Hacking in the System", 
+    "artist": "Lobo Loco", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49490&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=391699&streamencoding=mp31", 
+            "name": "Beautiful Looser"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=394323&streamencoding=mp31", 
+            "name": "Temp Memory"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=394310&streamencoding=mp31", 
+            "name": "Irieisys"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=391798&streamencoding=mp31", 
+            "name": "Proud DAU"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=394316&streamencoding=mp31", 
+            "name": "No Hardware"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=394298&streamencoding=mp31", 
+            "name": "Menschenwahn"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=393671&streamencoding=mp31", 
+            "name": "Root to the boot"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=393670&streamencoding=mp31", 
+            "name": "Bluefish"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=394292&streamencoding=mp31", 
+            "name": "PC Rock (Inst)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=394322&streamencoding=mp31", 
+            "name": "Coolaa (Inst)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=394179&streamencoding=mp31", 
+            "name": "Maul und Klauen"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=393668&streamencoding=mp31", 
+            "name": "Jetzt get 'r wieder"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49490"
+}

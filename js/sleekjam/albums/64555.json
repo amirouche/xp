@@ -1,0 +1,84 @@
+{
+    "name": "ieatpants", 
+    "artist": "ieatpants", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64555&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555123&streamencoding=mp31", 
+            "name": "i'm dead"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555125&streamencoding=mp31", 
+            "name": "you do what you like"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555126&streamencoding=mp31", 
+            "name": "starlight"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555121&streamencoding=mp31", 
+            "name": "what's the world gonna say when you're gone"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555117&streamencoding=mp31", 
+            "name": "curiosity"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555122&streamencoding=mp31", 
+            "name": "you'll never see me again, promise"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555130&streamencoding=mp31", 
+            "name": "my energy, my direction"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555116&streamencoding=mp31", 
+            "name": "peace on earth"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555120&streamencoding=mp31", 
+            "name": "piano fuck up"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555129&streamencoding=mp31", 
+            "name": "let's drink until our hearts stop"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555118&streamencoding=mp31", 
+            "name": "that wasn't cocaine after all"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555124&streamencoding=mp31", 
+            "name": "the opposite of optimism is not pessimism"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555128&streamencoding=mp31", 
+            "name": "failure is what we're made of"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555119&streamencoding=mp31", 
+            "name": "are you sleepy"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555127&streamencoding=mp31", 
+            "name": "fill my brain with fancy cheeses"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64555"
+}

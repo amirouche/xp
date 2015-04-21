@@ -1,0 +1,64 @@
+{
+    "name": "Reconnoiter", 
+    "artist": "Friend Owl", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94451&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808261&streamencoding=mp31", 
+            "name": "Minor Miracles"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808263&streamencoding=mp31", 
+            "name": "One Trick Pony"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808248&streamencoding=mp31", 
+            "name": "Tribute to Moths"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808247&streamencoding=mp31", 
+            "name": "Next Tuesday"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808266&streamencoding=mp31", 
+            "name": "The Robert Beltran Dance Explosion"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808294&streamencoding=mp31", 
+            "name": "Khick's Boat Song"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808246&streamencoding=mp31", 
+            "name": "Iron Sulfide (Alternate)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808262&streamencoding=mp31", 
+            "name": "Pinfeather"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808267&streamencoding=mp31", 
+            "name": "Something With Glass"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808264&streamencoding=mp31", 
+            "name": "Folklore"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808265&streamencoding=mp31", 
+            "name": "Reconnoiter"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94451"
+}

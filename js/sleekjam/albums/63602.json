@@ -1,0 +1,54 @@
+{
+    "name": "Sodomy Angels", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63602&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546092&streamencoding=mp31", 
+            "name": "Sodomy Angels "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546094&streamencoding=mp31", 
+            "name": "Cainsmarsh"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546107&streamencoding=mp31", 
+            "name": "Serial Killer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546096&streamencoding=mp31", 
+            "name": "Circus John "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546108&streamencoding=mp31", 
+            "name": "Red River"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546125&streamencoding=mp31", 
+            "name": "Hebefrenic Twister "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546131&streamencoding=mp31", 
+            "name": "Dark Rain"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546135&streamencoding=mp31", 
+            "name": "God Shave the Queens "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546142&streamencoding=mp31", 
+            "name": "Trailer Queen "
+        }
+    ], 
+    "release": "2010", 
+    "id": "63602"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Full Faya Orchestra", 
+    "artist": "FUll Faya Orchestra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25593&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=173487&streamencoding=mp31", 
+            "name": "Faya Dub"
+        }
+    ], 
+    "release": "2008", 
+    "id": "25593"
+}

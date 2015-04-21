@@ -1,0 +1,59 @@
+{
+    "name": "DELA", 
+    "artist": "Q ' s a l i v a", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=10384&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98266&streamencoding=mp31", 
+            "name": "Terra Inteira"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98134&streamencoding=mp31", 
+            "name": "Loop Lampi\u00e3o"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98139&streamencoding=mp31", 
+            "name": "Variou"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98137&streamencoding=mp31", 
+            "name": "Vinheta"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98135&streamencoding=mp31", 
+            "name": "Caboclo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98140&streamencoding=mp31", 
+            "name": "Anita"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98299&streamencoding=mp31", 
+            "name": "Teodora Dobradera"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98133&streamencoding=mp31", 
+            "name": "Bela Vista"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98138&streamencoding=mp31", 
+            "name": "Voz E Melodia"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98136&streamencoding=mp31", 
+            "name": "Casemiro"
+        }
+    ], 
+    "release": "2007", 
+    "id": "10384"
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Air Drying", 
+    "artist": "Gloovis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79780&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685356&streamencoding=mp31", 
+            "name": "funktional"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685353&streamencoding=mp31", 
+            "name": "exposure"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685357&streamencoding=mp31", 
+            "name": "nostalgia"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685361&streamencoding=mp31", 
+            "name": "star control"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685351&streamencoding=mp31", 
+            "name": "jeremiah"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685355&streamencoding=mp31", 
+            "name": "military flow"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685359&streamencoding=mp31", 
+            "name": "torchfire"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685364&streamencoding=mp31", 
+            "name": "poliblits"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685352&streamencoding=mp31", 
+            "name": "broom"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685358&streamencoding=mp31", 
+            "name": "bassline"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685365&streamencoding=mp31", 
+            "name": "well known"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685354&streamencoding=mp31", 
+            "name": "subDuers"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685360&streamencoding=mp31", 
+            "name": "jingles"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685363&streamencoding=mp31", 
+            "name": "slinkey"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685362&streamencoding=mp31", 
+            "name": "on stage"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79780"
+}

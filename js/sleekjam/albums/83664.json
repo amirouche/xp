@@ -1,0 +1,69 @@
+{
+    "name": "Analog Mystic", 
+    "artist": "A Flipping  Budjunky", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83664&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716767&streamencoding=mp31", 
+            "name": "A Dream of Ganja"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716764&streamencoding=mp31", 
+            "name": "Hot Summer Mountains"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716757&streamencoding=mp31", 
+            "name": "Lough Flash"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716765&streamencoding=mp31", 
+            "name": "Just Slaves"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716758&streamencoding=mp31", 
+            "name": " Icebell"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=717195&streamencoding=mp31", 
+            "name": " Double Dutch"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716760&streamencoding=mp31", 
+            "name": "Jello Shot"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716761&streamencoding=mp31", 
+            "name": "Analog Mystic"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716762&streamencoding=mp31", 
+            "name": "North Wind"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716768&streamencoding=mp31", 
+            "name": "Electric Smog"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716759&streamencoding=mp31", 
+            "name": "Shake that Bong"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716763&streamencoding=mp31", 
+            "name": "Valley Bud Walk"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83664"
+}

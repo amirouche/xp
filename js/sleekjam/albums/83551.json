@@ -1,0 +1,49 @@
+{
+    "name": "Mix Mirroboland", 
+    "artist": "Gergovi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83551&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715204&streamencoding=mp31", 
+            "name": "Et sa recomence!!!!!!!!!!"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715205&streamencoding=mp31", 
+            "name": "Mirroboland 1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715206&streamencoding=mp31", 
+            "name": "Mirroboland 2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715207&streamencoding=mp31", 
+            "name": "Mirroboland 3"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715208&streamencoding=mp31", 
+            "name": "Mirroboland 4"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715209&streamencoding=mp31", 
+            "name": "Mirroboland 5"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715210&streamencoding=mp31", 
+            "name": "Mirroboland 6"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715211&streamencoding=mp31", 
+            "name": "Mirroboland 7"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83551"
+}

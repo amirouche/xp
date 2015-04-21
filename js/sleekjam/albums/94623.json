@@ -1,0 +1,19 @@
+{
+    "name": "Le Crash", 
+    "artist": "Theta-Sound", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94623&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810013&streamencoding=mp31", 
+            "name": "Le crash ThetaSound feat JAC"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810003&streamencoding=mp31", 
+            "name": "Le crash instrumental ThetaSound feat JAC"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94623"
+}

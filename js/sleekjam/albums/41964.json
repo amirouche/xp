@@ -1,0 +1,14 @@
+{
+    "name": "Nelson Mandela", 
+    "artist": "Mob", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41964&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=309518&streamencoding=mp31", 
+            "name": "Nelson Mandela"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41964"
+}

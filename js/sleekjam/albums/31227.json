@@ -1,0 +1,14 @@
+{
+    "name": "do what i can SAM CLANTON demo", 
+    "artist": "Sam Clanton", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31227&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211452&streamencoding=mp31", 
+            "name": "Do What I Can"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31227"
+}

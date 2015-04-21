@@ -1,0 +1,49 @@
+{
+    "name": "Anitek - Calm & Collect Vol.3", 
+    "artist": "Anitek", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113145&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=962588&streamencoding=mp31", 
+            "name": "Rooftop Serenade"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=962582&streamencoding=mp31", 
+            "name": "Moonstruck"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=962586&streamencoding=mp31", 
+            "name": "Semantics"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=962583&streamencoding=mp31", 
+            "name": "The Formless"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=962587&streamencoding=mp31", 
+            "name": "Cynical Being"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=962584&streamencoding=mp31", 
+            "name": "Chamomile"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=962591&streamencoding=mp31", 
+            "name": "Learning Curve"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=962585&streamencoding=mp31", 
+            "name": "Dogma"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113145"
+}

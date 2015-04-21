@@ -1,0 +1,74 @@
+{
+    "name": "Dust Remains", 
+    "artist": "The Descenters", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130817&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096798&streamencoding=mp31", 
+            "name": "The Descenters - Break Free From Time"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096793&streamencoding=mp31", 
+            "name": "The Descenters - Pitch Black Wings"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096792&streamencoding=mp31", 
+            "name": "The Descenters - Beautiful Self Destruction"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096799&streamencoding=mp31", 
+            "name": "The Descenters - Misfire"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096791&streamencoding=mp31", 
+            "name": "The Descenters - Doubt & Resolve"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096797&streamencoding=mp31", 
+            "name": "The Descenters - I'll Be Happier In England"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096796&streamencoding=mp31", 
+            "name": "The Descenters - Live Inside A Lie"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096789&streamencoding=mp31", 
+            "name": "The Descenters - December"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096795&streamencoding=mp31", 
+            "name": "The Descenters - Sea of White"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096800&streamencoding=mp31", 
+            "name": "The Descenters - Sorry"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096794&streamencoding=mp31", 
+            "name": "The Descenters - Parasite"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096788&streamencoding=mp31", 
+            "name": "The Descenters - All is Nothing"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096790&streamencoding=mp31", 
+            "name": "The Descenters - Touch"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130817"
+}

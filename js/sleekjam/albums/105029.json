@@ -1,0 +1,64 @@
+{
+    "name": "Live in Xanthi ", 
+    "artist": "Forkys", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105029&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892833&streamencoding=mp31", 
+            "name": "6th"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892836&streamencoding=mp31", 
+            "name": "Harpies Are Waiting"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892831&streamencoding=mp31", 
+            "name": "Attack Of Insanity"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892837&streamencoding=mp31", 
+            "name": "The Way Of The Soul"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892832&streamencoding=mp31", 
+            "name": "Womb"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892838&streamencoding=mp31", 
+            "name": "Cold In The Earth"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892834&streamencoding=mp31", 
+            "name": "Colors"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892829&streamencoding=mp31", 
+            "name": "My Spirit Freed At Last"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892835&streamencoding=mp31", 
+            "name": "Incantation"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892830&streamencoding=mp31", 
+            "name": "Steps Of Thy Spirit"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892839&streamencoding=mp31", 
+            "name": "Psyche"
+        }
+    ], 
+    "release": "2012", 
+    "id": "105029"
+}

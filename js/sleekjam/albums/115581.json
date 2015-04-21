@@ -1,0 +1,49 @@
+{
+    "name": "Giorgios Scratch & Dub - Los Rusos en la Luna", 
+    "artist": "Giorgios Scratch", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115581&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981347&streamencoding=mp31", 
+            "name": "Gula Sampler"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981348&streamencoding=mp31", 
+            "name": "Wake Up Gagarin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981349&streamencoding=mp31", 
+            "name": "Superman Arenga"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981350&streamencoding=mp31", 
+            "name": "Conteiner Dub"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981351&streamencoding=mp31", 
+            "name": "Gagar\u00edn Dub"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981352&streamencoding=mp31", 
+            "name": "Bujarin  Dub"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981353&streamencoding=mp31", 
+            "name": "El sombrero de Yuri Gagarin"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=981354&streamencoding=mp31", 
+            "name": "Ultimas Reflexiones de Laica sobre el espacio"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115581"
+}

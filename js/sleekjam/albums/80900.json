@@ -1,0 +1,39 @@
+{
+    "name": "FIDELIA", 
+    "artist": "Noblemo \"piano,sountrack,lounge\"", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80900&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694120&streamencoding=mp31", 
+            "name": "YELENA"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694121&streamencoding=mp31", 
+            "name": "HELENOA"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694122&streamencoding=mp31", 
+            "name": "KRISTINA"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694123&streamencoding=mp31", 
+            "name": "ORTANCE"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694124&streamencoding=mp31", 
+            "name": "CONEA"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694125&streamencoding=mp31", 
+            "name": "LOANA"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80900"
+}

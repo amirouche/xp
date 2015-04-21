@@ -1,0 +1,24 @@
+{
+    "name": "A Bavarian Symphony", 
+    "artist": "Dee-yun Kaj ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131177&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1099516&streamencoding=mp31", 
+            "name": "A Musi"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1099517&streamencoding=mp31", 
+            "name": "A Ruh"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1099518&streamencoding=mp31", 
+            "name": "A Gaudi"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131177"
+}

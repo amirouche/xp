@@ -1,0 +1,14 @@
+{
+    "name": "some kinda magic - single", 
+    "artist": "Detlef Bard", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93660&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=799066&streamencoding=mp31", 
+            "name": "some kinda magic"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93660"
+}

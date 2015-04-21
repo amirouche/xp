@@ -1,0 +1,84 @@
+{
+    "name": "dias perros", 
+    "artist": "necesitados", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64807&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557765&streamencoding=mp31", 
+            "name": "marilin"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557828&streamencoding=mp31", 
+            "name": "no te incrimines"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557855&streamencoding=mp31", 
+            "name": "mas trabajo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557856&streamencoding=mp31", 
+            "name": "una foto en la pared"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557859&streamencoding=mp31", 
+            "name": "el pueblo al poder"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557870&streamencoding=mp31", 
+            "name": "recuerdo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557890&streamencoding=mp31", 
+            "name": "sois para mi"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557895&streamencoding=mp31", 
+            "name": "veneno"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557904&streamencoding=mp31", 
+            "name": "adrenalina"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557906&streamencoding=mp31", 
+            "name": "africa"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557937&streamencoding=mp31", 
+            "name": "blus"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557938&streamencoding=mp31", 
+            "name": "cartel"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557949&streamencoding=mp31", 
+            "name": "dinero"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557950&streamencoding=mp31", 
+            "name": "ringo"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=557956&streamencoding=mp31", 
+            "name": "la moto"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64807"
+}

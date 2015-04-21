@@ -1,0 +1,29 @@
+{
+    "name": "\"Por la patilla...\"", 
+    "artist": "CHATARRA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99267&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=849647&streamencoding=mp31", 
+            "name": "M\u00edmame"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=849649&streamencoding=mp31", 
+            "name": "En mis cabales"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=849650&streamencoding=mp31", 
+            "name": "El r\u00edo (versi\u00f3n 2011)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=849648&streamencoding=mp31", 
+            "name": "El r\u00edo \"Bonus track\" (Colaboraci\u00f3n especial de Oscar y Juanal de \u00danico Testigo)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99267"
+}

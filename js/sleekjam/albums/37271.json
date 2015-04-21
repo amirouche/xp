@@ -1,0 +1,39 @@
+{
+    "name": "2", 
+    "artist": "Melophon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37271&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=260295&streamencoding=mp31", 
+            "name": "Eleven"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=260300&streamencoding=mp31", 
+            "name": "Twelve"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=260302&streamencoding=mp31", 
+            "name": "Drum Down"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=260307&streamencoding=mp31", 
+            "name": "Quiet Discussion"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=260311&streamencoding=mp31", 
+            "name": "Hesitating Stranger"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=260447&streamencoding=mp31", 
+            "name": "Home at the Reef"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37271"
+}

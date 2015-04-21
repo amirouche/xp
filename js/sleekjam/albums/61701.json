@@ -1,0 +1,49 @@
+{
+    "name": "ResigNation", 
+    "artist": "Der \u00c4sthetische Einzelk\u00e4mpfer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61701&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=528210&streamencoding=mp31", 
+            "name": "Nehmt euch eure Freiheit"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=528214&streamencoding=mp31", 
+            "name": "Isolation"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=528211&streamencoding=mp31", 
+            "name": "Das Chaotische Prinzip"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=528213&streamencoding=mp31", 
+            "name": "Was ist Sache?"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=528212&streamencoding=mp31", 
+            "name": "Der Angriff der Killerkarnickel"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=528215&streamencoding=mp31", 
+            "name": "Schnelles Leben"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=528217&streamencoding=mp31", 
+            "name": "Sie ist fort"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=528216&streamencoding=mp31", 
+            "name": "T\u00f6ten"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61701"
+}

@@ -1,0 +1,117 @@
+{
+    "albums": [
+        {
+            "release": "2010", 
+            "artist": "Psykoxxx", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77614&imagesize=100", 
+            "id": "77614", 
+            "name": "negative attitude"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Resistance Fezes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35218&imagesize=100", 
+            "id": "35218", 
+            "name": "Cursed Teenage Dissidents"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Saintbrix", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81613&imagesize=100", 
+            "id": "81613", 
+            "name": "Everything VS Nothing"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "DJ NUUN", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65463&imagesize=100", 
+            "id": "65463", 
+            "name": "DJ NUUN"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Ariel Jireh Viracocha Mora", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115606&imagesize=100", 
+            "id": "115606", 
+            "name": "She Twenti"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "SA GANGA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75799&imagesize=100", 
+            "id": "75799", 
+            "name": "SA GANGA - iL presidente gangsta (single)"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "HOMICIDZ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43456&imagesize=100", 
+            "id": "43456", 
+            "name": "Beatmaking 1"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Betamax DC", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109353&imagesize=100", 
+            "id": "109353", 
+            "name": "Basically I Know What I'm Doing"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Page 14", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90690&imagesize=100", 
+            "id": "90690", 
+            "name": "structurAmbient"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Pete Luck", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112216&imagesize=100", 
+            "id": "112216", 
+            "name": "Songs from the bushman"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Kingsound", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61779&imagesize=100", 
+            "id": "61779", 
+            "name": "4 x 4"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Koenikz Muzik", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44548&imagesize=100", 
+            "id": "44548", 
+            "name": "Katana"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "JOHNNY JOHN /DJNUUN", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65338&imagesize=100", 
+            "id": "65338", 
+            "name": "F"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "StiLL G", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78711&imagesize=100", 
+            "id": "78711", 
+            "name": "THA STILL G EP"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "\"Knife\" Sotelo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135196&imagesize=100", 
+            "id": "135196", 
+            "name": "Proclamation Of The Beast [BOOTLEG]"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "\"Knife\" Sotelo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130694&imagesize=100", 
+            "id": "130694", 
+            "name": "The Wonder Years"
+        }
+    ], 
+    "name": "Gangsta"
+}

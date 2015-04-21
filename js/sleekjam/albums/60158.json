@@ -1,0 +1,14 @@
+{
+    "name": "ryoryot", 
+    "artist": "Roberto Daglio", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60158&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=514000&streamencoding=mp31", 
+            "name": "ryoryot"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60158"
+}

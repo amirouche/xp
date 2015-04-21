@@ -1,0 +1,124 @@
+{
+    "name": "Howly Night", 
+    "artist": "afmusic (Compilation)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95550&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817590&streamencoding=mp31", 
+            "name": "Dorcel - Dead End"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817595&streamencoding=mp31", 
+            "name": "(((S))) - Ghost In The Snow"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817579&streamencoding=mp31", 
+            "name": "Curious - Days (Single Version)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817586&streamencoding=mp31", 
+            "name": "Les Modules Etranges - Shelter II"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817592&streamencoding=mp31", 
+            "name": "Camp Z - Schizophr\u00e9nie"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817599&streamencoding=mp31", 
+            "name": "The SlimP - A Hundred Thousand Faces"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817583&streamencoding=mp31", 
+            "name": "Plastique Noir - Phantom In My Stereo (Transcommunication)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817589&streamencoding=mp31", 
+            "name": "Place4Tears - Septembers Breath"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817577&streamencoding=mp31", 
+            "name": "The Search - We Fell Asleep In Each Others Arms And Never Woke Up Again"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817581&streamencoding=mp31", 
+            "name": "Sleazy Romance - Song About Love"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817594&streamencoding=mp31", 
+            "name": "Monozid - Let's Shake Hands And Wonder"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817598&streamencoding=mp31", 
+            "name": "Emerald Park - For Tomorrow"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817584&streamencoding=mp31", 
+            "name": "Noctiflora - Drone01"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817582&streamencoding=mp31", 
+            "name": "Reptyle - Black Snow"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817591&streamencoding=mp31", 
+            "name": "The Forced Oscillations - Ice (live)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817587&streamencoding=mp31", 
+            "name": "Spinefish - Daydream Diary"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817585&streamencoding=mp31", 
+            "name": "The Transisters - Ultraviolet On You"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817593&streamencoding=mp31", 
+            "name": "The Red Crayon Aristocrat Club - Another One"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817578&streamencoding=mp31", 
+            "name": "Peibol - Sectarios"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817588&streamencoding=mp31", 
+            "name": "Unfactory - Change The Fairy Tales"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817580&streamencoding=mp31", 
+            "name": "The Trespass - Just Can't Save Myself"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817596&streamencoding=mp31", 
+            "name": "Notes From Underground - Game"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817597&streamencoding=mp31", 
+            "name": "On Wave - Promoted And Sold"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95550"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "EP Witness of shipwreck II", 
+    "artist": "Clem Right", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120114&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1021485&streamencoding=mp31", 
+            "name": "Little Alien Tiger"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1021489&streamencoding=mp31", 
+            "name": "Here and now"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1021490&streamencoding=mp31", 
+            "name": "Believe in something else"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1021491&streamencoding=mp31", 
+            "name": "Reminding gravity laws"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1021492&streamencoding=mp31", 
+            "name": "Star Crossed Bellyseed"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120114"
+}

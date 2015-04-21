@@ -1,0 +1,79 @@
+{
+    "name": "Don't think twice", 
+    "artist": "et_", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33741&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228180&streamencoding=mp31", 
+            "name": "Don't think twice"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228181&streamencoding=mp31", 
+            "name": "Trip 3"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228219&streamencoding=mp31", 
+            "name": "Avenue bar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228514&streamencoding=mp31", 
+            "name": "Chain splendour"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228515&streamencoding=mp31", 
+            "name": "An orchestra behind my window"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228516&streamencoding=mp31", 
+            "name": "Suburbs"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228517&streamencoding=mp31", 
+            "name": "Another butterfly wings"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228518&streamencoding=mp31", 
+            "name": "A winner"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228519&streamencoding=mp31", 
+            "name": "A song of sadness"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228457&streamencoding=mp31", 
+            "name": "Geography"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228459&streamencoding=mp31", 
+            "name": "Don't think twice (reprise)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228460&streamencoding=mp31", 
+            "name": "Joy & Emptiness"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228461&streamencoding=mp31", 
+            "name": "City"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=228463&streamencoding=mp31", 
+            "name": "Chain splendour (Band version)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33741"
+}

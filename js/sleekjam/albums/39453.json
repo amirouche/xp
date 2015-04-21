@@ -1,0 +1,29 @@
+{
+    "name": "Synth\u00e9sic Vocal vol 2", 
+    "artist": "SYNTHESIC", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39453&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=281982&streamencoding=mp31", 
+            "name": "Ce jour promis "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=281983&streamencoding=mp31", 
+            "name": "La cle de mon coeur"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=281984&streamencoding=mp31", 
+            "name": "Les yeux "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=281985&streamencoding=mp31", 
+            "name": "Lib\u00e9ration "
+        }
+    ], 
+    "release": "2009", 
+    "id": "39453"
+}

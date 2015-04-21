@@ -1,0 +1,124 @@
+{
+    "name": "Pour les \u00e2mes conjointes", 
+    "artist": "St\u00e9phane Bataillon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59597&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509134&streamencoding=mp31", 
+            "name": "D\u00e9crire"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509152&streamencoding=mp31", 
+            "name": "Joindre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509151&streamencoding=mp31", 
+            "name": "Patience"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509137&streamencoding=mp31", 
+            "name": "La plus belle conqu\u00eate"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509154&streamencoding=mp31", 
+            "name": "Les vagues ne roulent plus"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509150&streamencoding=mp31", 
+            "name": "Je ne te citerai"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509146&streamencoding=mp31", 
+            "name": "Lorsque les pluies s'abattent"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509148&streamencoding=mp31", 
+            "name": "Ce serait une goutte"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509153&streamencoding=mp31", 
+            "name": "Nous aurons juste besoin"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509143&streamencoding=mp31", 
+            "name": "Les mots d'apr\u00e8s"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509141&streamencoding=mp31", 
+            "name": "L'estuaire contient les cris"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509144&streamencoding=mp31", 
+            "name": "\u00c9crire"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509149&streamencoding=mp31", 
+            "name": "Monast\u00e8re"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509155&streamencoding=mp31", 
+            "name": "J'imagine"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509147&streamencoding=mp31", 
+            "name": "Un mot \u00e0 inventer"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509136&streamencoding=mp31", 
+            "name": "Flocon"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509145&streamencoding=mp31", 
+            "name": "Programme"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509139&streamencoding=mp31", 
+            "name": "Il existe un village"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509135&streamencoding=mp31", 
+            "name": "Sonder"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509138&streamencoding=mp31", 
+            "name": "Substitution"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509140&streamencoding=mp31", 
+            "name": "Alchimiste"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509133&streamencoding=mp31", 
+            "name": "Don"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509142&streamencoding=mp31", 
+            "name": "Guider"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59597"
+}

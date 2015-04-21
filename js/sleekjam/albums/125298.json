@@ -1,0 +1,54 @@
+{
+    "name": "Data-Pop", 
+    "artist": "Eftos-Trilogie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125298&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061545&streamencoding=mp31", 
+            "name": "EFTOS_Recursion"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061546&streamencoding=mp31", 
+            "name": "EFTOS_Sub query"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061547&streamencoding=mp31", 
+            "name": "EFTOS_Iteration"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061548&streamencoding=mp31", 
+            "name": "EFTOS_Selection"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061549&streamencoding=mp31", 
+            "name": "EFTOS_Sequence"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061550&streamencoding=mp31", 
+            "name": "EFTOS_Dimensioning"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061551&streamencoding=mp31", 
+            "name": "EFTOS_Stack overflow"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061552&streamencoding=mp31", 
+            "name": "EFTOS_Out of Data"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061553&streamencoding=mp31", 
+            "name": "EFTOS_Data-Pop"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125298"
+}

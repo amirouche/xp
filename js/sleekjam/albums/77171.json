@@ -1,0 +1,19 @@
+{
+    "name": "Terminate", 
+    "artist": "Braincutter", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77171&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664951&streamencoding=mp31", 
+            "name": "Requiem for Hardcore (180 BPM)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664946&streamencoding=mp31", 
+            "name": "Terminate (160 BPM)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77171"
+}

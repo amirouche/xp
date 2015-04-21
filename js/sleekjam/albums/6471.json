@@ -1,0 +1,29 @@
+{
+    "name": "Honky Fonky (EP)", 
+    "artist": "SaReGaMa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6471&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73209&streamencoding=mp31", 
+            "name": "SaReGaMa & Hamelin B\u00e9rengnier - Honky Fonky (2007)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73210&streamencoding=mp31", 
+            "name": "SaReGaMa - Oh No, Babe (2007)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73211&streamencoding=mp31", 
+            "name": "SaReGaMa - Fonky S (2004)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=73212&streamencoding=mp31", 
+            "name": "SaReGaMa - Hip Hop 4 Alex (2006)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "6471"
+}

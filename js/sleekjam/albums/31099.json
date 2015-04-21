@@ -1,0 +1,99 @@
+{
+    "name": "Haben Haben", 
+    "artist": "Prinz K\u00f6nig", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31099&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210353&streamencoding=mp31", 
+            "name": "Auf dein Wohl"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210354&streamencoding=mp31", 
+            "name": "Wenn wir unsre Lieder singen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210355&streamencoding=mp31", 
+            "name": "Vogel sing"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210356&streamencoding=mp31", 
+            "name": "Suchen alles"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210357&streamencoding=mp31", 
+            "name": "Wenn du noch Fragen hast"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210358&streamencoding=mp31", 
+            "name": "Auf einer flachen Ebene"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210359&streamencoding=mp31", 
+            "name": "Wenn ich so den Abend"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210360&streamencoding=mp31", 
+            "name": "Und als einst der Fr\u00fchling"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210386&streamencoding=mp31", 
+            "name": "Suchst du noch nach einem Sinn"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210387&streamencoding=mp31", 
+            "name": "Heut geh ich zum Wellenk\u00f6nig"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210388&streamencoding=mp31", 
+            "name": "Man sagt"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210389&streamencoding=mp31", 
+            "name": "Wenn ich an dich denke"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210390&streamencoding=mp31", 
+            "name": "Einst auf dem Weg"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210391&streamencoding=mp31", 
+            "name": "Was ich euch zu sagen h\u00e4tte"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210392&streamencoding=mp31", 
+            "name": "Wir haben alle einen wundersch\u00f6nen Fr\u00fchling"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210393&streamencoding=mp31", 
+            "name": "Fragt man mich"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210385&streamencoding=mp31", 
+            "name": "Ich bin ganz krank"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210352&streamencoding=mp31", 
+            "name": "Sind denn wirklich"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31099"
+}

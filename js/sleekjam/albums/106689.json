@@ -1,0 +1,24 @@
+{
+    "name": "BANG BANG", 
+    "artist": "Mthymusik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106689&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=905852&streamencoding=mp31", 
+            "name": "belle malatresse"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=905854&streamencoding=mp31", 
+            "name": "bang bang"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=905853&streamencoding=mp31", 
+            "name": "lagent"
+        }
+    ], 
+    "release": "2012", 
+    "id": "106689"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Urban Requiems (Extended)", 
+    "artist": "Plastique Noir", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24357&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166024&streamencoding=mp31", 
+            "name": "Shadowrun"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166027&streamencoding=mp31", 
+            "name": "Creep Show"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166085&streamencoding=mp31", 
+            "name": "Desire or Disease"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166086&streamencoding=mp31", 
+            "name": "Six Feet Under"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166087&streamencoding=mp31", 
+            "name": "Killdergarten"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166088&streamencoding=mp31", 
+            "name": "Silent Shout"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166148&streamencoding=mp31", 
+            "name": "Empty Streets"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166149&streamencoding=mp31", 
+            "name": "In Thorns and Blades"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24357"
+}

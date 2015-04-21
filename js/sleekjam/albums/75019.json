@@ -1,0 +1,14 @@
+{
+    "name": "Internet Love - V1", 
+    "artist": "Michigan Lyricist", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75019&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647298&streamencoding=mp31", 
+            "name": "Internet Love - Final"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75019"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Early recordings (1998-2005)", 
+    "artist": "PTAH", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52071&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425800&streamencoding=mp31", 
+            "name": "Skip intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425802&streamencoding=mp31", 
+            "name": "Dog eat dog"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425803&streamencoding=mp31", 
+            "name": "Valium"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425804&streamencoding=mp31", 
+            "name": "Meat"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425805&streamencoding=mp31", 
+            "name": "Donut"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425806&streamencoding=mp31", 
+            "name": "Faster"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425807&streamencoding=mp31", 
+            "name": "Actors"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425808&streamencoding=mp31", 
+            "name": "7h01"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425809&streamencoding=mp31", 
+            "name": "Pink & white"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425810&streamencoding=mp31", 
+            "name": "Mechanical"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425811&streamencoding=mp31", 
+            "name": "Cotton"
+        }
+    ], 
+    "release": "2009", 
+    "id": "52071"
+}

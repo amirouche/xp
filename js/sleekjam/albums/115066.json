@@ -1,0 +1,44 @@
+{
+    "name": "[EPH041] AAVV - Hluboko Collective Gate 3", 
+    "artist": "Ephedrina Netlabel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115066&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977206&streamencoding=mp31", 
+            "name": "VYTIS - Ascend"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977207&streamencoding=mp31", 
+            "name": "LANTERI - Latch"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977208&streamencoding=mp31", 
+            "name": "BASSHEADS -  1 bass 1 drum skank"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977209&streamencoding=mp31", 
+            "name": "URBAN TROPIX - Roundabout"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977210&streamencoding=mp31", 
+            "name": "MKMN99 - Fever"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977211&streamencoding=mp31", 
+            "name": "MAXOMYTOSIS - Sarah"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977212&streamencoding=mp31", 
+            "name": "BASSHEADS -  oh yehhhhhhhhhhh rubberdub"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115066"
+}

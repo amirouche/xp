@@ -1,0 +1,64 @@
+{
+    "name": "1er Congr\u00e9s De Figures Mundials", 
+    "artist": "Gramoxone Ska Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61473&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525463&streamencoding=mp31", 
+            "name": "Va De Bo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525461&streamencoding=mp31", 
+            "name": "La Targeta Del -Paro-"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525456&streamencoding=mp31", 
+            "name": "No Puc Dormir"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525462&streamencoding=mp31", 
+            "name": "La Marijuana"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525457&streamencoding=mp31", 
+            "name": "Usakia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526230&streamencoding=mp31", 
+            "name": "Canal Bou"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525464&streamencoding=mp31", 
+            "name": "N.T.N."
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525458&streamencoding=mp31", 
+            "name": "Escacs"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525460&streamencoding=mp31", 
+            "name": "Pere L'arbre"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525455&streamencoding=mp31", 
+            "name": "1973"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=525459&streamencoding=mp31", 
+            "name": "Pista Extra"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61473"
+}

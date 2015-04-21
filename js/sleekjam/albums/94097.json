@@ -1,0 +1,64 @@
+{
+    "name": "Trashwave -live-", 
+    "artist": "LisaWars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94097&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804183&streamencoding=mp31", 
+            "name": "\u00dcber kurz oder lang"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804186&streamencoding=mp31", 
+            "name": "Lisa wars!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804181&streamencoding=mp31", 
+            "name": "Biotonne"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804187&streamencoding=mp31", 
+            "name": "Geistig nackt"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804182&streamencoding=mp31", 
+            "name": "Wertstoffcontainer"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804177&streamencoding=mp31", 
+            "name": "Warten"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804184&streamencoding=mp31", 
+            "name": "Nicole im Schatten"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804179&streamencoding=mp31", 
+            "name": "Limmritzer Zombies"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804185&streamencoding=mp31", 
+            "name": "Oststadttr\u00e4ume"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804180&streamencoding=mp31", 
+            "name": "Aufgewacht"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804178&streamencoding=mp31", 
+            "name": "98746"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94097"
+}

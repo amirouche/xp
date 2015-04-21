@@ -1,0 +1,59 @@
+{
+    "name": "Emotions", 
+    "artist": "Alexander Permyakov", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85529&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731616&streamencoding=mp31", 
+            "name": "Evolution"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731623&streamencoding=mp31", 
+            "name": "In a captivity at passion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731618&streamencoding=mp31", 
+            "name": "Nightmare"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731614&streamencoding=mp31", 
+            "name": "Game in the God"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731619&streamencoding=mp31", 
+            "name": "Welcome in my world"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731615&streamencoding=mp31", 
+            "name": "Sins and repentance"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731620&streamencoding=mp31", 
+            "name": "Eternal movement"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731621&streamencoding=mp31", 
+            "name": "The closed pages of my soul"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731622&streamencoding=mp31", 
+            "name": "My music for you"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731617&streamencoding=mp31", 
+            "name": "Hot night"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85529"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Collapse Into Chaos", 
+    "artist": "The Stemp", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119757&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1016783&streamencoding=mp31", 
+            "name": "Destruction"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1016784&streamencoding=mp31", 
+            "name": "Brain Dead"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1016785&streamencoding=mp31", 
+            "name": "Warfare"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1016786&streamencoding=mp31", 
+            "name": "Sound Torture"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1016787&streamencoding=mp31", 
+            "name": "Life Support"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1016790&streamencoding=mp31", 
+            "name": "Gray Goo Part 1, The Lab"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1016791&streamencoding=mp31", 
+            "name": "Gray Goo Part 2, The World"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1016792&streamencoding=mp31", 
+            "name": "Gray Goo Part 3, The Universe"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1016793&streamencoding=mp31", 
+            "name": "Alarm"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1016861&streamencoding=mp31", 
+            "name": "The End"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119757"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Contines morbides pour enfants perturb\u00e9s", 
+    "artist": "Bertrand DEJEAN", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31717&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215426&streamencoding=mp31", 
+            "name": "Notice de s\u00e9curit\u00e9"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215420&streamencoding=mp31", 
+            "name": "Sombre paisiblement"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215421&streamencoding=mp31", 
+            "name": "Le cauchemar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215422&streamencoding=mp31", 
+            "name": "Funeste Pr\u00e9sage"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215423&streamencoding=mp31", 
+            "name": "La peluche faite de chair"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215424&streamencoding=mp31", 
+            "name": "Un autre monde"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215425&streamencoding=mp31", 
+            "name": "Pas de retour possible"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31717"
+}

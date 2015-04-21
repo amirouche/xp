@@ -1,0 +1,64 @@
+{
+    "name": "PTAH", 
+    "artist": "PTAH", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52038&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425726&streamencoding=mp31", 
+            "name": "J.F.K."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425728&streamencoding=mp31", 
+            "name": "Supersonic"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425729&streamencoding=mp31", 
+            "name": "Aston Martin"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425730&streamencoding=mp31", 
+            "name": "Pensar feat. Guardagujas"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425731&streamencoding=mp31", 
+            "name": "Go"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425732&streamencoding=mp31", 
+            "name": "Apollo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425733&streamencoding=mp31", 
+            "name": "Once"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425734&streamencoding=mp31", 
+            "name": "Brick"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425735&streamencoding=mp31", 
+            "name": "Freeze"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425736&streamencoding=mp31", 
+            "name": "Same me"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425737&streamencoding=mp31", 
+            "name": "Appointment"
+        }
+    ], 
+    "release": "2009", 
+    "id": "52038"
+}

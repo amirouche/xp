@@ -1,0 +1,33 @@
+{
+    "albums": [
+        {
+            "release": "2010", 
+            "artist": "Los Carivasos & LEsGlobe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60498&imagesize=100", 
+            "id": "60498", 
+            "name": "Capaz que le moleste al norte"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Thorben Rohling", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29119&imagesize=100", 
+            "id": "29119", 
+            "name": "united spots of puberty"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "ARTSomerville", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42516&imagesize=100", 
+            "id": "42516", 
+            "name": "Goatstock 4:  Astro Al"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "PHST RECORDS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7296&imagesize=100", 
+            "id": "7296", 
+            "name": "PHYLOXERA - Forty Minutes & Fifty-One Seconds Light-Years From Earth (Maggot Demotape) - PHST02"
+        }
+    ], 
+    "name": "Pranks"
+}

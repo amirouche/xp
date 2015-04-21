@@ -1,0 +1,54 @@
+{
+    "name": "V.O.Y.A.G.E.R", 
+    "artist": "Just' in Space", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17135&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=122799&streamencoding=mp31", 
+            "name": "01 Universe"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=122810&streamencoding=mp31", 
+            "name": "02 Luminescence"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=122819&streamencoding=mp31", 
+            "name": "03 Mystery"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=122837&streamencoding=mp31", 
+            "name": "04 Voyager"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=122844&streamencoding=mp31", 
+            "name": "05 Great Space"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=122859&streamencoding=mp31", 
+            "name": "06 Softness"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=122863&streamencoding=mp31", 
+            "name": "07 Sax in Space"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=122873&streamencoding=mp31", 
+            "name": "08 The Return"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=122891&streamencoding=mp31", 
+            "name": "Bonus Track : Remember Mix"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17135"
+}

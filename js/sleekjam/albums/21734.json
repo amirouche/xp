@@ -1,0 +1,34 @@
+{
+    "name": "Echo War", 
+    "artist": "Igon Strane", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21734&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=152462&streamencoding=mp31", 
+            "name": "Balder"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=152456&streamencoding=mp31", 
+            "name": "Echo War, Part 1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=152466&streamencoding=mp31", 
+            "name": "Bug"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=152448&streamencoding=mp31", 
+            "name": "Echo War, Part 2"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=152471&streamencoding=mp31", 
+            "name": "Celestial"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21734"
+}

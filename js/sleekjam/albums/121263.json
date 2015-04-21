@@ -1,0 +1,14 @@
+{
+    "name": "THIS IS MY NIGHT", 
+    "artist": "Dj HaYaBuSa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121263&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1030876&streamencoding=mp31", 
+            "name": "Dj HaYaBuSa-THIS IS MY NIGHT"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121263"
+}

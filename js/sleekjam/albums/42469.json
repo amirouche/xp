@@ -1,0 +1,29 @@
+{
+    "name": "Sect\u00f6r", 
+    "artist": "T.S.F.O.D.C.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42469&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=313789&streamencoding=mp31", 
+            "name": "Sect\u00f6r Entrance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=313791&streamencoding=mp31", 
+            "name": "Sect\u00f6r (Part I)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=313795&streamencoding=mp31", 
+            "name": "Sect\u00f6r (Part II)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=313790&streamencoding=mp31", 
+            "name": "Sect\u00f6r... End "
+        }
+    ], 
+    "release": "2009", 
+    "id": "42469"
+}

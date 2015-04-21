@@ -1,0 +1,49 @@
+{
+    "name": "FLAMENCORE", 
+    "artist": "RODILLAZO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109998&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937057&streamencoding=mp31", 
+            "name": "SOLEDAD"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937063&streamencoding=mp31", 
+            "name": "LA_COSECHA"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937062&streamencoding=mp31", 
+            "name": "PASATIEMPOS"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937061&streamencoding=mp31", 
+            "name": "I_WANT_TO_BUY"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937064&streamencoding=mp31", 
+            "name": "VIENEN_A_POR_TI"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937060&streamencoding=mp31", 
+            "name": "LA_ABUELA"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937058&streamencoding=mp31", 
+            "name": "LA_NINA_DE_MIS_OJOS"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=937059&streamencoding=mp31", 
+            "name": "RODILLAZO_A_LA_VIDA"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109998"
+}

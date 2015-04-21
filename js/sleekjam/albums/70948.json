@@ -1,0 +1,79 @@
+{
+    "name": "Arte nel rumorE VOL II", 
+    "artist": "Arte nel rumorE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70948&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613206&streamencoding=mp31", 
+            "name": "Ruvido by elisa luu"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612714&streamencoding=mp31", 
+            "name": "metallic heart wave by un vortice di bassa pressione"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613205&streamencoding=mp31", 
+            "name": "Monster by Artcore Machine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612715&streamencoding=mp31", 
+            "name": "Backstage Noise Off-Simone Fratti"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613204&streamencoding=mp31", 
+            "name": "TEDIO by M.Croce"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612710&streamencoding=mp31", 
+            "name": "INDIAN NIGHTS'67 by Francesco Lenzi"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612713&streamencoding=mp31", 
+            "name": "u_n_o by GUN"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612717&streamencoding=mp31", 
+            "name": "Predikkt by Krupnik -"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612708&streamencoding=mp31", 
+            "name": "My guitar wants to kiss your mama by Torba"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612711&streamencoding=mp31", 
+            "name": "Last experience, il volo by Marco Lucchi"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612716&streamencoding=mp31", 
+            "name": "Candriai by Difondo"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612709&streamencoding=mp31", 
+            "name": "Insano by Nembrot"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612712&streamencoding=mp31", 
+            "name": "Tic by Isteronproject"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612718&streamencoding=mp31", 
+            "name": "ZARATA by gigi masin"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70948"
+}

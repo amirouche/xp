@@ -1,0 +1,44 @@
+{
+    "name": "FUNHOUSE", 
+    "artist": "Wilson's Head", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89827&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766960&streamencoding=mp31", 
+            "name": "Next Door Funhouse"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766879&streamencoding=mp31", 
+            "name": "Someday"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766883&streamencoding=mp31", 
+            "name": "Masa r\u0105k"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766961&streamencoding=mp31", 
+            "name": "Satan Rock"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766963&streamencoding=mp31", 
+            "name": "\u015awit"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766881&streamencoding=mp31", 
+            "name": "Some kind of fear"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766878&streamencoding=mp31", 
+            "name": "Pearl Head"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89827"
+}

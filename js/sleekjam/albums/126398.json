@@ -1,0 +1,39 @@
+{
+    "name": "ZEN 2", 
+    "artist": "Noblemo \"piano,sountrack,lounge\"", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126398&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068991&streamencoding=mp31", 
+            "name": "\u00e9va"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068993&streamencoding=mp31", 
+            "name": "pl\u00e9a"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068992&streamencoding=mp31", 
+            "name": "itaine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068990&streamencoding=mp31", 
+            "name": "s\u00e9ltia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068994&streamencoding=mp31", 
+            "name": "aur\u00e9lia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1068995&streamencoding=mp31", 
+            "name": "z\u00e9ia"
+        }
+    ], 
+    "release": "2013", 
+    "id": "126398"
+}

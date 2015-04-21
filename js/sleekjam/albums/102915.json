@@ -1,0 +1,54 @@
+{
+    "name": "The Breath Of The Great Spirit", 
+    "artist": "Out Of Orion (Ox3)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102915&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876602&streamencoding=mp31", 
+            "name": "The Last Indian"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876601&streamencoding=mp31", 
+            "name": "Maiden Upon The Shore"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876600&streamencoding=mp31", 
+            "name": "A Good Day To Die"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876599&streamencoding=mp31", 
+            "name": "Lone Wolf"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876597&streamencoding=mp31", 
+            "name": "Tears Of The Ancestors"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876595&streamencoding=mp31", 
+            "name": "Cibola"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876598&streamencoding=mp31", 
+            "name": "Breath Of The Great Spirit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876596&streamencoding=mp31", 
+            "name": "Blest Wind"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=876603&streamencoding=mp31", 
+            "name": "We Will Rise Again"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102915"
+}

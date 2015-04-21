@@ -1,0 +1,49 @@
+{
+    "name": "Humor de madre", 
+    "artist": "Mitrofan y la burbuja inmobiliaria", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101278&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864294&streamencoding=mp31", 
+            "name": "De la verdad y otras mentiras"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864344&streamencoding=mp31", 
+            "name": "El m\u00e9todo hist\u00f3rico"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864406&streamencoding=mp31", 
+            "name": "El toma-vinos"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864408&streamencoding=mp31", 
+            "name": "Cocido"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864411&streamencoding=mp31", 
+            "name": "Humor de Madre"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864413&streamencoding=mp31", 
+            "name": "Deconstrucci\u00f3n de la Hostia"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864414&streamencoding=mp31", 
+            "name": "Bertolt Brecht"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864562&streamencoding=mp31", 
+            "name": "El rocanrol de cuando me multaron por posesi\u00f3n de estupefacientes"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101278"
+}

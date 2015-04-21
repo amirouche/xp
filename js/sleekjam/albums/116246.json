@@ -1,0 +1,59 @@
+{
+    "name": "Antes del fin del mundo", 
+    "artist": "Yisus & El Sagrado Coraz\u00f3n", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116246&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987590&streamencoding=mp31", 
+            "name": "Pepe el Toro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987585&streamencoding=mp31", 
+            "name": "El fin del mundo"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987587&streamencoding=mp31", 
+            "name": "3 deseos"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987583&streamencoding=mp31", 
+            "name": "Juay de presidenteishon"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987586&streamencoding=mp31", 
+            "name": "Hilda"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987588&streamencoding=mp31", 
+            "name": "La balada de Espaiderm\u00e1n"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987584&streamencoding=mp31", 
+            "name": "Blues de tristeza y soledad"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987591&streamencoding=mp31", 
+            "name": "Pinto mi calavera"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987592&streamencoding=mp31", 
+            "name": "Tienes el coraz\u00f3n de cemento"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987589&streamencoding=mp31", 
+            "name": "La cruda"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116246"
+}

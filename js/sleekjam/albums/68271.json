@@ -1,0 +1,54 @@
+{
+    "name": "Happy Just 2 B With U", 
+    "artist": "Stellar Art Wars Free License", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68271&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591739&streamencoding=mp31", 
+            "name": "Happy Just 2 B with U"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591740&streamencoding=mp31", 
+            "name": "drumz"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591741&streamencoding=mp31", 
+            "name": "acc guit"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591742&streamencoding=mp31", 
+            "name": "happy vocal"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591743&streamencoding=mp31", 
+            "name": "bassline"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591744&streamencoding=mp31", 
+            "name": "dodgy backup vocal"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591745&streamencoding=mp31", 
+            "name": "elect guit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591746&streamencoding=mp31", 
+            "name": "happy keys"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591747&streamencoding=mp31", 
+            "name": "piano"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68271"
+}

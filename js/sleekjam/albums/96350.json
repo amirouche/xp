@@ -1,0 +1,39 @@
+{
+    "name": "La naturaleza del alacr\u00e1n", 
+    "artist": "CUESTABAJO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96350&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823994&streamencoding=mp31", 
+            "name": "- Que le follen al nuevo d\u00eda"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823992&streamencoding=mp31", 
+            "name": "- Las 2 y media"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823993&streamencoding=mp31", 
+            "name": "- Te siguen los problemas"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823989&streamencoding=mp31", 
+            "name": "- Luna"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823991&streamencoding=mp31", 
+            "name": "- Devu\u00e9lveme las noches"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=823990&streamencoding=mp31", 
+            "name": "- No soy tu bandera"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96350"
+}

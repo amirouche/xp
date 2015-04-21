@@ -1,0 +1,39 @@
+{
+    "name": "Before Christ... After Death", 
+    "artist": "Religio Mortis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52271&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429218&streamencoding=mp31", 
+            "name": "Malomori Quam Fedari"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429227&streamencoding=mp31", 
+            "name": "Cosmogonic Disharmony"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429237&streamencoding=mp31", 
+            "name": "I Morti E Le Pietre"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429243&streamencoding=mp31", 
+            "name": "Blood Of The Tyrants"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429249&streamencoding=mp31", 
+            "name": "Morticula Rex"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=429268&streamencoding=mp31", 
+            "name": "Coronation Of A Dead God"
+        }
+    ], 
+    "release": "2009", 
+    "id": "52271"
+}

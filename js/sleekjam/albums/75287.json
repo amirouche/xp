@@ -1,0 +1,14 @@
+{
+    "name": "Rondo", 
+    "artist": "Doc", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75287&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=649516&streamencoding=mp31", 
+            "name": "Rondo"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75287"
+}

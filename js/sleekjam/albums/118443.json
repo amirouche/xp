@@ -1,0 +1,19 @@
+{
+    "name": "\u0422\u0438\u0445\u0438\u0435 \u0417\u0430\u043f\u043e\u043d\u043a\u0438", 
+    "artist": "\u041a\u0438\u0441\u043a\u0430", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118443&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006304&streamencoding=mp31", 
+            "name": "\u041c\u0430\u0445\u0442\u043e\u043f\u043a\u0430 \u0438 \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u044f Official"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006305&streamencoding=mp31", 
+            "name": "\u041c\u0430\u0445\u0442\u043e\u043f\u043a\u0430 \u0438 \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u044f Vocal"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118443"
+}

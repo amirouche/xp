@@ -1,0 +1,79 @@
+{
+    "name": "OCHI VIDMY - Pisni Grupy VIY u Vykonanni Ukrayinskih Muzykantiv (Tribute VIY Band)", 
+    "artist": "Various Ukrainian Artists - VIY Band Tibute ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38374&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270061&streamencoding=mp31", 
+            "name": "Ochi Vidmy - perf. VOROJDEN "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270078&streamencoding=mp31", 
+            "name": "Foxtrot \"Liotchik\" - perf. LIKUVANNIA KULBABKAMY"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270162&streamencoding=mp31", 
+            "name": "Ne Dala Zemlia - perf. AUDI SILE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270094&streamencoding=mp31", 
+            "name": "U Peredchutti Kataklizmu - perf. SAMI SVOYI"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270239&streamencoding=mp31", 
+            "name": "Polit Korshaka - perf. ORKESTR YANKI KOZYR"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270257&streamencoding=mp31", 
+            "name": "Hata Skrayu Sela - perf. ARACHNOPHOBIA"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270283&streamencoding=mp31", 
+            "name": "Rizdviana Balada - perf.LESIA ROY  feat. BOLNO DALEKO"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270313&streamencoding=mp31", 
+            "name": "Zmiya - perf. PROPALA GRAMOTA"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270330&streamencoding=mp31", 
+            "name": "Bisova Syla - perf. BRAM STOKER"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270354&streamencoding=mp31", 
+            "name": "Yak Letily Bugayi - perf. PERKALABA"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270368&streamencoding=mp31", 
+            "name": "Zakrutylo Nebo Kolesom - perf. VINKI"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270398&streamencoding=mp31", 
+            "name": "Tuman - perf. POLYNOVE POLE & ZAMKOVA TIN"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270447&streamencoding=mp31", 
+            "name": "Sered Tiney - perf. KOMU VNIZ"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=270474&streamencoding=mp31", 
+            "name": "Ochi Vidmy - perf. PIKARDIYSKA TERTSIYA"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38374"
+}

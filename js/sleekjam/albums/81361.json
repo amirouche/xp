@@ -1,0 +1,79 @@
+{
+    "name": "Instru-mental (18)", 
+    "artist": "Briovere Buffentis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81361&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697659&streamencoding=mp31", 
+            "name": "Yet another morning"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697664&streamencoding=mp31", 
+            "name": "Sonnige Autobahn"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697660&streamencoding=mp31", 
+            "name": "Heat wave"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697665&streamencoding=mp31", 
+            "name": "Jock"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697662&streamencoding=mp31", 
+            "name": "Don't stop"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697654&streamencoding=mp31", 
+            "name": "Old child"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697655&streamencoding=mp31", 
+            "name": "Harpsichord rock"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697657&streamencoding=mp31", 
+            "name": "Soft spleen"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697658&streamencoding=mp31", 
+            "name": "Queen's theme"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697661&streamencoding=mp31", 
+            "name": "Idle period"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697663&streamencoding=mp31", 
+            "name": "Scotish electric company"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697666&streamencoding=mp31", 
+            "name": "Soft march"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697667&streamencoding=mp31", 
+            "name": "Trance dance"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697656&streamencoding=mp31", 
+            "name": "Heaven"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81361"
+}

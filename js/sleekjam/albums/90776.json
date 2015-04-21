@@ -1,0 +1,39 @@
+{
+    "name": "Elzeveri", 
+    "artist": "Unenth\u00fcllte", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90776&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774730&streamencoding=mp31", 
+            "name": "Le dernier combat"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774728&streamencoding=mp31", 
+            "name": "Iago"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774727&streamencoding=mp31", 
+            "name": "Le livre sur l'"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774729&streamencoding=mp31", 
+            "name": "Le chien vide"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774726&streamencoding=mp31", 
+            "name": "Le K"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774731&streamencoding=mp31", 
+            "name": "Partir"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90776"
+}

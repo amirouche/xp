@@ -1,0 +1,49 @@
+{
+    "name": "revelations", 
+    "artist": "deied", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26205&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177149&streamencoding=mp31", 
+            "name": "Revelations"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177150&streamencoding=mp31", 
+            "name": "Happy Hour"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177211&streamencoding=mp31", 
+            "name": "Secret"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177212&streamencoding=mp31", 
+            "name": "Anangel"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177153&streamencoding=mp31", 
+            "name": "Feuriger Wind"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177213&streamencoding=mp31", 
+            "name": "Goathe"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177214&streamencoding=mp31", 
+            "name": "Outrospective"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177210&streamencoding=mp31", 
+            "name": "(bonus) not alone"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26205"
+}

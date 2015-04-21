@@ -1,0 +1,69 @@
+{
+    "name": "Trip Back", 
+    "artist": "El Marecky", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128979&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082647&streamencoding=mp31", 
+            "name": "el Marecky - Tank (feat. Plazmatikon)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082644&streamencoding=mp31", 
+            "name": "el Marecky - Sound All Around Us"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082652&streamencoding=mp31", 
+            "name": "el Marecky - Rosebud"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082648&streamencoding=mp31", 
+            "name": "el Marecky - Sleep Tight"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082645&streamencoding=mp31", 
+            "name": "el Marecky - Fun With Electricity"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082653&streamencoding=mp31", 
+            "name": "el Marecky - Sample Criminal"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082650&streamencoding=mp31", 
+            "name": "el Marecky - Trip Back Interlude"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082646&streamencoding=mp31", 
+            "name": "el Marecky - Noah"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082642&streamencoding=mp31", 
+            "name": "el Marecky - Africa"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082651&streamencoding=mp31", 
+            "name": "el Marecky - Pay Attention"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082649&streamencoding=mp31", 
+            "name": "el Marecky - Dirty Funk"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1082643&streamencoding=mp31", 
+            "name": "el Marecky - Holy C-rap"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128979"
+}

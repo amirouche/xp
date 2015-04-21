@@ -1,0 +1,39 @@
+{
+    "name": "Fly Away", 
+    "artist": "DreamZ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4419&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36172&streamencoding=mp31", 
+            "name": "Dream Xperience"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36173&streamencoding=mp31", 
+            "name": "Find Your Way"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36174&streamencoding=mp31", 
+            "name": "Boost'Ed Memory III"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36175&streamencoding=mp31", 
+            "name": "Boost'Ed Memory II"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36176&streamencoding=mp31", 
+            "name": "Boost'Ed Memory I"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36177&streamencoding=mp31", 
+            "name": "Space Dream"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4419"
+}

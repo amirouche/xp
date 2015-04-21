@@ -1,0 +1,69 @@
+{
+    "name": "Adoption (Workshop)", 
+    "artist": "Stellar Art Wars Free License", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66604&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577539&streamencoding=mp31", 
+            "name": "adoption mixdown electric (master)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577541&streamencoding=mp31", 
+            "name": "lead vocal"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577540&streamencoding=mp31", 
+            "name": "acc guit"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577542&streamencoding=mp31", 
+            "name": "synth"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577543&streamencoding=mp31", 
+            "name": "drums"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577544&streamencoding=mp31", 
+            "name": "electric g 2"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577545&streamencoding=mp31", 
+            "name": "bass"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577546&streamencoding=mp31", 
+            "name": "electric g 1"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577547&streamencoding=mp31", 
+            "name": "piano"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577548&streamencoding=mp31", 
+            "name": "oohs"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577549&streamencoding=mp31", 
+            "name": "backup vocal"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=577550&streamencoding=mp31", 
+            "name": "organ"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66604"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Tutoriel de @2smacks : Gameplay style Resident Evil 1", 
+    "artist": "Kiwi manchot", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101599&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866806&streamencoding=mp31", 
+            "name": "An unconfortable place (Sans fond sonore)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866818&streamencoding=mp31", 
+            "name": "Fond sonore"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101599"
+}

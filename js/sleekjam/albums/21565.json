@@ -1,0 +1,59 @@
+{
+    "name": "Radio FM", 
+    "artist": "B3", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21565&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150717&streamencoding=mp31", 
+            "name": "RadioFM"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150713&streamencoding=mp31", 
+            "name": "DirtySleep"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150710&streamencoding=mp31", 
+            "name": "AfricanDoll"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150711&streamencoding=mp31", 
+            "name": "AhAh"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150712&streamencoding=mp31", 
+            "name": "BestWishes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150714&streamencoding=mp31", 
+            "name": "Eurk"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150715&streamencoding=mp31", 
+            "name": "March_21_2008"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150716&streamencoding=mp31", 
+            "name": "QuiVaPiano"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150765&streamencoding=mp31", 
+            "name": "TribalPursuit"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150764&streamencoding=mp31", 
+            "name": "Tagada"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21565"
+}

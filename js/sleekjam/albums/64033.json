@@ -1,0 +1,14 @@
+{
+    "name": "La tendre \u00e2me douce", 
+    "artist": "Amniotik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64033&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549886&streamencoding=mp31", 
+            "name": "La tendre \u00e2me douce"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64033"
+}

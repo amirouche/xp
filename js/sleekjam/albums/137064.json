@@ -1,0 +1,14 @@
+{
+    "name": "See U Again", 
+    "artist": "ONE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137064&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143071&streamencoding=mp31", 
+            "name": "See U Again-final"
+        }
+    ], 
+    "release": "2014", 
+    "id": "137064"
+}

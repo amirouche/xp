@@ -1,0 +1,29 @@
+{
+    "name": "Tortured Minds", 
+    "artist": "Frank Clayton", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62692&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537809&streamencoding=mp31", 
+            "name": "Tortured Minds"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537807&streamencoding=mp31", 
+            "name": "Domino"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537808&streamencoding=mp31", 
+            "name": "Spirit"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=537810&streamencoding=mp31", 
+            "name": "The Acid Drop"
+        }
+    ], 
+    "release": "2010", 
+    "id": "62692"
+}

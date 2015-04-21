@@ -1,0 +1,19 @@
+{
+    "name": "ultimate FdaS volume1", 
+    "artist": "FdaS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63591&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545985&streamencoding=mp31", 
+            "name": "beat x versus series"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=546018&streamencoding=mp31", 
+            "name": "sacred coran series"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63591"
+}

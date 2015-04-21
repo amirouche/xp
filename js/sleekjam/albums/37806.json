@@ -1,0 +1,64 @@
+{
+    "name": "Chorna Rillia (The Black Ground)", 
+    "artist": "Viy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37806&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=265313&streamencoding=mp31", 
+            "name": "Zmiya (The Snake)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=265315&streamencoding=mp31", 
+            "name": "U Peredchutti Kataklizmu (To Be Kataklizm)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=265327&streamencoding=mp31", 
+            "name": "Ochi Vidmy (The Witches Eyes)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=265414&streamencoding=mp31", 
+            "name": "Polit Korshaka (El Hawk Pasa)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=265417&streamencoding=mp31", 
+            "name": "Sered Polia Navesni (In The Field, In Springtime)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=265525&streamencoding=mp31", 
+            "name": "Tuman (The Fog)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=265331&streamencoding=mp31", 
+            "name": "Menuet "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=265588&streamencoding=mp31", 
+            "name": "Zakrutylo Nebo Kolesom ( The Skywheel Breakdown)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=265419&streamencoding=mp31", 
+            "name": "Rizdviana Balada (The Christmas Ballade)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=265575&streamencoding=mp31", 
+            "name": "Bisova Syla ( The Demons Force) - (single 1999) - bonus"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=265421&streamencoding=mp31", 
+            "name": "Mij Zemleyu I Nebom (Between The Ground And The Air) - (Single 2003) - bonus"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37806"
+}

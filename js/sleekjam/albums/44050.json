@@ -1,0 +1,54 @@
+{
+    "name": "RADIOW\u00d3Z", 
+    "artist": "Proszek na muchy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44050&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=329587&streamencoding=mp31", 
+            "name": "Story"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=329580&streamencoding=mp31", 
+            "name": "Zajazzd"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=329583&streamencoding=mp31", 
+            "name": "Much era"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=329581&streamencoding=mp31", 
+            "name": "Trombo Szaman"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=329582&streamencoding=mp31", 
+            "name": "Radio stacjone"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=329584&streamencoding=mp31", 
+            "name": "Sam bat"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=329586&streamencoding=mp31", 
+            "name": "Double treble  bass"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=329588&streamencoding=mp31", 
+            "name": "Cosmix R"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=329589&streamencoding=mp31", 
+            "name": "Skojazzenia"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44050"
+}

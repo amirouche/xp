@@ -1,0 +1,69 @@
+{
+    "name": "Le gars des villes", 
+    "artist": "Marc ANDR\u00c9", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7720&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83631&streamencoding=mp31", 
+            "name": "Vienne un jour"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83632&streamencoding=mp31", 
+            "name": "Le gars des villes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83633&streamencoding=mp31", 
+            "name": "Chez Peugeot"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83634&streamencoding=mp31", 
+            "name": "A petit feu"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83635&streamencoding=mp31", 
+            "name": "Cauchemar"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83636&streamencoding=mp31", 
+            "name": "Remballez vos affaires !"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83637&streamencoding=mp31", 
+            "name": "Aux oubliettes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83638&streamencoding=mp31", 
+            "name": "La morphopsychologie"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83639&streamencoding=mp31", 
+            "name": "Donnez-nous des sous !"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83640&streamencoding=mp31", 
+            "name": "A la maison"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83641&streamencoding=mp31", 
+            "name": "Panurge"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83642&streamencoding=mp31", 
+            "name": "Quoi j'y vois"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7720"
+}

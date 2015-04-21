@@ -1,0 +1,19 @@
+{
+    "name": "Arnold Wohler: Where Will The Ducks Go?", 
+    "artist": "Amadeus", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57833&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493429&streamencoding=mp31", 
+            "name": "Where Will The Ducks Go?"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493430&streamencoding=mp31", 
+            "name": "When Will They Return?"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57833"
+}

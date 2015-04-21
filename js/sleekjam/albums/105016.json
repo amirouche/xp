@@ -1,0 +1,14 @@
+{
+    "name": "Musica 2012 [ NEW SINGLE]", 
+    "artist": "Terron Rebel Sound", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105016&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=892828&streamencoding=mp31", 
+            "name": "Musica 2012"
+        }
+    ], 
+    "release": "2013", 
+    "id": "105016"
+}

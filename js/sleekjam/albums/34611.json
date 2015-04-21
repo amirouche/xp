@@ -1,0 +1,34 @@
+{
+    "name": "kontre\u00b2", 
+    "artist": "Kontre\u00b2", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34611&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=237124&streamencoding=mp31", 
+            "name": "On baisse pas les bras"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=237126&streamencoding=mp31", 
+            "name": "Faut que \u00e7a p\u00e8te!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=237123&streamencoding=mp31", 
+            "name": "Jack"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=237125&streamencoding=mp31", 
+            "name": "Silence"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=237127&streamencoding=mp31", 
+            "name": "Gravit\u00e9 urbaine"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34611"
+}

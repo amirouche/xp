@@ -1,0 +1,24 @@
+{
+    "name": "These slim talents EP", 
+    "artist": "Fireproof Babies", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7303&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79846&streamencoding=mp31", 
+            "name": "These slim talents"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79847&streamencoding=mp31", 
+            "name": "Space Blues"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79848&streamencoding=mp31", 
+            "name": "Pink Sky"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7303"
+}

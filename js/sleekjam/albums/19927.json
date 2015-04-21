@@ -1,0 +1,44 @@
+{
+    "name": "Electric Heart", 
+    "artist": "Robert PIECULEWICZ (Steve ALLEN)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19927&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139566&streamencoding=mp31", 
+            "name": "Toy Soldier"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139570&streamencoding=mp31", 
+            "name": "Rock n roll"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139573&streamencoding=mp31", 
+            "name": "Reggae"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139576&streamencoding=mp31", 
+            "name": "She"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139593&streamencoding=mp31", 
+            "name": "Charon"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139598&streamencoding=mp31", 
+            "name": "Shadow and dust"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139602&streamencoding=mp31", 
+            "name": "Stay away from the dark"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19927"
+}

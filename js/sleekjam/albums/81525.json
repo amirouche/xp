@@ -1,0 +1,44 @@
+{
+    "name": "Hardmodal - Collection", 
+    "artist": "Hardmodal", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81525&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699204&streamencoding=mp31", 
+            "name": "hardmodal - APOCALYPSE ALL OVER THE WORLD"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699205&streamencoding=mp31", 
+            "name": "hardmodal - DAWNING DEAD PERSON"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699206&streamencoding=mp31", 
+            "name": "hardmodal - MY LOVE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699207&streamencoding=mp31", 
+            "name": "hardmodal - SKY"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699208&streamencoding=mp31", 
+            "name": "hardmodal - \u0422\u0412\u041e\u0419 \u041f\u0423\u0422\u042c"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699209&streamencoding=mp31", 
+            "name": "harrdmodal - \u0411\u043e\u0435\u0446"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699212&streamencoding=mp31", 
+            "name": "hardmodal - TIME"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81525"
+}

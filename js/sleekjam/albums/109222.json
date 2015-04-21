@@ -1,0 +1,49 @@
+{
+    "name": "[EPH024] ALESSIO OISSELA - avant-garde jouets EP", 
+    "artist": "Ephedrina Netlabel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109222&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922002&streamencoding=mp31", 
+            "name": "ALESSIO OISSELA - 1603"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922003&streamencoding=mp31", 
+            "name": "ALESSIO OISSELA - saturn conspiracy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922004&streamencoding=mp31", 
+            "name": "ALESSIO OISSELA - violet sky instrumental version"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922005&streamencoding=mp31", 
+            "name": "ALESSIO OISSELA - violet sky vocal version"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922006&streamencoding=mp31", 
+            "name": "ALESSIO OISSELA - A21 macrossdub"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922007&streamencoding=mp31", 
+            "name": "ALESSIO OISSELA - fluorescent"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922008&streamencoding=mp31", 
+            "name": "ALESSIO OISSELA - space invader"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922009&streamencoding=mp31", 
+            "name": "ALESSIO OISSELA - heart rate"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109222"
+}

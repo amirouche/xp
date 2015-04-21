@@ -1,0 +1,54 @@
+{
+    "name": "...grey heaven fall", 
+    "artist": "Grey Heaven Fall", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136395&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135842&streamencoding=mp31", 
+            "name": "The Ressurected One"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135845&streamencoding=mp31", 
+            "name": "Swansong Of Your Dream"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135844&streamencoding=mp31", 
+            "name": "Derelict Of Untruthful Images Of Icons"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135841&streamencoding=mp31", 
+            "name": "Grey Heavens Of Autumn"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135838&streamencoding=mp31", 
+            "name": "Verses Of Fallen Destinies"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135843&streamencoding=mp31", 
+            "name": "Eternal Call Of Death"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135839&streamencoding=mp31", 
+            "name": "Grieving Souls In Tyrant's Castle"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135840&streamencoding=mp31", 
+            "name": "Curse Of The Memory"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135846&streamencoding=mp31", 
+            "name": "Immortal Flame"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136395"
+}

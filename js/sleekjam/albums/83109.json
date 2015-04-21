@@ -1,0 +1,24 @@
+{
+    "name": "Welcome to acid", 
+    "artist": "House squatt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83109&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712178&streamencoding=mp31", 
+            "name": "This is acid music"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712186&streamencoding=mp31", 
+            "name": "Some acid (hip-hop and New Beat touch)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=712188&streamencoding=mp31", 
+            "name": "Welcome to acid "
+        }
+    ], 
+    "release": "2011", 
+    "id": "83109"
+}

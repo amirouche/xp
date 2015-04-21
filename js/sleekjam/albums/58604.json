@@ -1,0 +1,19 @@
+{
+    "name": "Song for no one + No Way [D\u00e9mo]", 
+    "artist": "Excelsior", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58604&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500279&streamencoding=mp31", 
+            "name": "Song For No one"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500281&streamencoding=mp31", 
+            "name": "No Way"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58604"
+}

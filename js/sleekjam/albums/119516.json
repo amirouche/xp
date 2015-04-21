@@ -1,0 +1,39 @@
+{
+    "name": "Acid from now to future", 
+    "artist": "Toshihiromaki", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119516&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014988&streamencoding=mp31", 
+            "name": "<font><font>\u30c7\u30e2</font></font>"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015014&streamencoding=mp31", 
+            "name": "induction"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015015&streamencoding=mp31", 
+            "name": "control"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015016&streamencoding=mp31", 
+            "name": "the next morning"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015017&streamencoding=mp31", 
+            "name": "the one of dreamers"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015018&streamencoding=mp31", 
+            "name": "demo 2"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119516"
+}

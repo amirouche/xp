@@ -1,0 +1,34 @@
+{
+    "name": "Propaganda Powder (Remix-EP)", 
+    "artist": "Ingwer.Honig", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78240&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674220&streamencoding=mp31", 
+            "name": "Propaganda_Powder_001"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674222&streamencoding=mp31", 
+            "name": "Propaganda_Powder_01.1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674218&streamencoding=mp31", 
+            "name": "Propaganda_Powder_002"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674219&streamencoding=mp31", 
+            "name": "Propaganda_Powder_02.1"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674221&streamencoding=mp31", 
+            "name": "Propaganda_Powder_003"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78240"
+}

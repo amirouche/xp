@@ -1,0 +1,39 @@
+{
+    "name": "Live 5 juillet 2008", 
+    "artist": "Instant Jam Experience", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34484&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235998&streamencoding=mp31", 
+            "name": "De pudeur"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236040&streamencoding=mp31", 
+            "name": "La lumi\u00e8re est \u00e9teinte - shake your body"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235992&streamencoding=mp31", 
+            "name": "Au clair de la lune (version free jazz)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236062&streamencoding=mp31", 
+            "name": "This is not money"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=236000&streamencoding=mp31", 
+            "name": "Jean Pierre de la mer"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235999&streamencoding=mp31", 
+            "name": "Il marchait"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34484"
+}

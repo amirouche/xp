@@ -1,0 +1,34 @@
+{
+    "name": "no no no no not not again", 
+    "artist": "Brutal Death", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83886&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719172&streamencoding=mp31", 
+            "name": "no no no no not not again"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719175&streamencoding=mp31", 
+            "name": "albionized it's the horror !"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719171&streamencoding=mp31", 
+            "name": "the gorgon"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719170&streamencoding=mp31", 
+            "name": "funky muhammad"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719173&streamencoding=mp31", 
+            "name": "shiva dominance (remix destroyed by k ^ l l e)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83886"
+}

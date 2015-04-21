@@ -1,0 +1,14 @@
+{
+    "name": "The Lake Isle of Innisfree", 
+    "artist": "Tony Bardon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54321&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453994&streamencoding=mp31", 
+            "name": "The Lake Isle of Innisfree"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54321"
+}

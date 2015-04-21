@@ -1,0 +1,69 @@
+{
+    "name": "Second", 
+    "artist": "TONIGHT WE FLY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81831&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701571&streamencoding=mp31", 
+            "name": "The day before"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701568&streamencoding=mp31", 
+            "name": "Fall in love"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701559&streamencoding=mp31", 
+            "name": "Years after years"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701579&streamencoding=mp31", 
+            "name": "Song for my children"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701580&streamencoding=mp31", 
+            "name": "See you"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701591&streamencoding=mp31", 
+            "name": "Be your friend"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701590&streamencoding=mp31", 
+            "name": "If only we knows"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701586&streamencoding=mp31", 
+            "name": "Lost my soul (II)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701584&streamencoding=mp31", 
+            "name": "Nothing left to say"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701588&streamencoding=mp31", 
+            "name": "My love is over (feat Noise Control)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701589&streamencoding=mp31", 
+            "name": "Sometimes"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701592&streamencoding=mp31", 
+            "name": "Wake up"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81831"
+}

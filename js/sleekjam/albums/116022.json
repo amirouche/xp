@@ -1,0 +1,39 @@
+{
+    "name": "Scenes Vol.1", 
+    "artist": "The Flattest Land", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116022&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985536&streamencoding=mp31", 
+            "name": "The Rules Of The Game"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985534&streamencoding=mp31", 
+            "name": "Arctic Sigh"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985539&streamencoding=mp31", 
+            "name": "Bad Excuses_Original"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985535&streamencoding=mp31", 
+            "name": "Bad Excuses_Up"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985537&streamencoding=mp31", 
+            "name": "The Angel's Bones"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985538&streamencoding=mp31", 
+            "name": "Oracle"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116022"
+}

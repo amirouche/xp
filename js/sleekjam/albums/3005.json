@@ -1,0 +1,109 @@
+{
+    "name": "Scotland Yard", 
+    "artist": "Olga Scotland", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3005&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21491&streamencoding=mp31", 
+            "name": "Jump"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21492&streamencoding=mp31", 
+            "name": "Klein-Jiga"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21493&streamencoding=mp31", 
+            "name": "New Year Evening"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21494&streamencoding=mp31", 
+            "name": "Koshka-Garmoshka"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21495&streamencoding=mp31", 
+            "name": "Kissing Garden"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21496&streamencoding=mp31", 
+            "name": "Ksan"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21497&streamencoding=mp31", 
+            "name": "Medieval Adventure Game"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21498&streamencoding=mp31", 
+            "name": "Ptichka i Medved"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21499&streamencoding=mp31", 
+            "name": "Knight"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21500&streamencoding=mp31", 
+            "name": "Shotla"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21501&streamencoding=mp31", 
+            "name": "Trust"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21502&streamencoding=mp31", 
+            "name": "Unikum "
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21503&streamencoding=mp31", 
+            "name": "Cup of tea"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21504&streamencoding=mp31", 
+            "name": "White Horse"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21505&streamencoding=mp31", 
+            "name": "Hippie"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21506&streamencoding=mp31", 
+            "name": "Butterfly"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21507&streamencoding=mp31", 
+            "name": "What"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21508&streamencoding=mp31", 
+            "name": "Absolute"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21509&streamencoding=mp31", 
+            "name": "Ernst"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=21510&streamencoding=mp31", 
+            "name": "L-Micro"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3005"
+}

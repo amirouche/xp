@@ -1,0 +1,14 @@
+{
+    "name": "Be a Man (Single)", 
+    "artist": "Azgard", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130936&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097912&streamencoding=mp31", 
+            "name": "Be a Man"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130936"
+}

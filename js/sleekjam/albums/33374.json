@@ -1,0 +1,54 @@
+{
+    "name": "Sweet Addiction (Sampler)", 
+    "artist": "Fhernando", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33374&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225361&streamencoding=mp31", 
+            "name": "Sweet Addiction"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225362&streamencoding=mp31", 
+            "name": "Sexed Up! (Radio Edit)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225363&streamencoding=mp31", 
+            "name": "Hey DJ! (All Night Long)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225364&streamencoding=mp31", 
+            "name": "Don't Wake Me Up!"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225365&streamencoding=mp31", 
+            "name": "Can't Get Enough (Single Edit)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225366&streamencoding=mp31", 
+            "name": "Sweet Melody"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225666&streamencoding=mp31", 
+            "name": "Sexed Up! (5am Main Floor Mix) [Bonus Remix]"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225481&streamencoding=mp31", 
+            "name": "Disco Is Back (Snippet) [Bonus Track]"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225483&streamencoding=mp31", 
+            "name": "Sweet Addiction (Reprise) [Outro] {Bonus Track}"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33374"
+}

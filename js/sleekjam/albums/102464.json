@@ -1,0 +1,19 @@
+{
+    "name": "Angelines", 
+    "artist": "vinclam", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102464&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=873290&streamencoding=mp31", 
+            "name": "old woman"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=873334&streamencoding=mp31", 
+            "name": "meet the sky"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102464"
+}

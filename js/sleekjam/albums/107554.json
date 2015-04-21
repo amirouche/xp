@@ -1,0 +1,24 @@
+{
+    "name": "Murders TV", 
+    "artist": "Chemical Waves", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107554&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909364&streamencoding=mp31", 
+            "name": "Murders TV"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909365&streamencoding=mp31", 
+            "name": "A Sondless Echo"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=909366&streamencoding=mp31", 
+            "name": "Murders TV (Mind.Area vs Human Decay RMX)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107554"
+}

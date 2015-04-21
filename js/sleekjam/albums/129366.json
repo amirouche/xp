@@ -1,0 +1,59 @@
+{
+    "name": "Am I Young ? Am I Old ?", 
+    "artist": "MrJuan", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129366&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1085580&streamencoding=mp31", 
+            "name": "Am I Young ?"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1085578&streamencoding=mp31", 
+            "name": "Blue Horizon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1085577&streamencoding=mp31", 
+            "name": "Stereo in San Jose"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1085579&streamencoding=mp31", 
+            "name": "Bab Funky"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1085576&streamencoding=mp31", 
+            "name": "Join the Working Classe People"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1085581&streamencoding=mp31", 
+            "name": "Dont Fake Your Face"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1085574&streamencoding=mp31", 
+            "name": "I Hate Long Lyrics"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1085583&streamencoding=mp31", 
+            "name": "Shout Shake & Go"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1085582&streamencoding=mp31", 
+            "name": "I Like Rock-And-Roll"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1085575&streamencoding=mp31", 
+            "name": "Gumbayo"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129366"
+}

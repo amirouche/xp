@@ -1,0 +1,19 @@
+{
+    "name": "Ay-14ice I Don't Care", 
+    "artist": "Ay - 14ice", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80306&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=689543&streamencoding=mp31", 
+            "name": "Ay-14ice I Don't Care"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=689544&streamencoding=mp31", 
+            "name": "Ay-14ice Unfaithful To You"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80306"
+}

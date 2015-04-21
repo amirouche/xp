@@ -1,0 +1,79 @@
+{
+    "name": "El que canta ora dos veces", 
+    "artist": "Coro Israel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88225&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753748&streamencoding=mp31", 
+            "name": "Comunidad San Jos\u00e9 - 01 - La Comunidad"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753750&streamencoding=mp31", 
+            "name": "Gozo Y Esperanza - 02 - Ahora Es Tiempo"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753743&streamencoding=mp31", 
+            "name": "Coro Israel - 03 - No"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753740&streamencoding=mp31", 
+            "name": "Gozo Y Esperanza - 04 - Quiero Alabarte"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753742&streamencoding=mp31", 
+            "name": "Coro Homini Deo - 05 - Padre Nuestro"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753739&streamencoding=mp31", 
+            "name": "Coro Homini Deo - 06 - Yo Quisiera"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753747&streamencoding=mp31", 
+            "name": "Coro Israel - 07 - Podr\u00edan Ser Los Ni\u00f1os"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753746&streamencoding=mp31", 
+            "name": "Gozo Y Esperanza - 08 - En Momentos As\u00ed"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753737&streamencoding=mp31", 
+            "name": "Coro Israel - 09 - Porque Est\u00e1s T\u00fa"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753741&streamencoding=mp31", 
+            "name": "Coro Israel - 10 - Venimos A Cantar"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753745&streamencoding=mp31", 
+            "name": "Coro Israel - 11 - Resucit\u00f3"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753749&streamencoding=mp31", 
+            "name": "Coro Israel - 12 - Sigue Sus Pasos"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753738&streamencoding=mp31", 
+            "name": "Coro Israel - 13 - Te veo, Se\u00f1or (en vivo)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=753744&streamencoding=mp31", 
+            "name": "Coro Israel - 14 - Sigue Sus Pasos (Pista)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88225"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Rainy Day Songs", 
+    "artist": "Bridge Underwater", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43800&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326586&streamencoding=mp31", 
+            "name": "Rainy Day Song 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326589&streamencoding=mp31", 
+            "name": "Rainy Day Song 2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326590&streamencoding=mp31", 
+            "name": "Rainy Day Song 3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326591&streamencoding=mp31", 
+            "name": "Rainy Day Song 4"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326592&streamencoding=mp31", 
+            "name": "Rainy Day Song 5"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326593&streamencoding=mp31", 
+            "name": "Rainy Day Song 6"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43800"
+}

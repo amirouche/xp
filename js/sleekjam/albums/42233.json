@@ -1,0 +1,34 @@
+{
+    "name": "FOUR WHEEL DRIVE", 
+    "artist": "FOUR WHEEL DRIVE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42233&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=311968&streamencoding=mp31", 
+            "name": "She loves rock'n'roll"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=311969&streamencoding=mp31", 
+            "name": "Burning the highway"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=311970&streamencoding=mp31", 
+            "name": "Long way from Home"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=311971&streamencoding=mp31", 
+            "name": "Four Wheel Drive"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=311972&streamencoding=mp31", 
+            "name": "Go for it...girls are not so sweet"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42233"
+}

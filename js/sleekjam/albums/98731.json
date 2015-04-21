@@ -1,0 +1,59 @@
+{
+    "name": "necRomantic Morbidity", 
+    "artist": "Projekt Dunkle Lichter", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98731&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844770&streamencoding=mp31", 
+            "name": "WillKommen"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844772&streamencoding=mp31", 
+            "name": "Bannhaus"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844774&streamencoding=mp31", 
+            "name": "Dunkler Engel in der Nacht"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844775&streamencoding=mp31", 
+            "name": "Die Kreaturen der Nacht"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844796&streamencoding=mp31", 
+            "name": "Die Uhr"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844797&streamencoding=mp31", 
+            "name": "Drachenherz"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844798&streamencoding=mp31", 
+            "name": "D\u00e4mon meines Herzens"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844799&streamencoding=mp31", 
+            "name": "Schwarzes Herz"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844800&streamencoding=mp31", 
+            "name": "Sehnsucht v2010"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844801&streamencoding=mp31", 
+            "name": "Mitternacht"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98731"
+}

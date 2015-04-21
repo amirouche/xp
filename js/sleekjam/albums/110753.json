@@ -1,0 +1,19 @@
+{
+    "name": "Reflection", 
+    "artist": "Leo Bowers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110753&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=942647&streamencoding=mp31", 
+            "name": "Something Else (W)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=942648&streamencoding=mp31", 
+            "name": "Virginia Lee (W)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110753"
+}

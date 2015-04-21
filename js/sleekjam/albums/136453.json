@@ -1,0 +1,19 @@
+{
+    "name": "AGGRESSIVE WAVES", 
+    "artist": "Guy Berrier", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136453&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1136297&streamencoding=mp31", 
+            "name": "DIFFRACTION"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1136296&streamencoding=mp31", 
+            "name": "TRANSFERTHERMIK"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136453"
+}

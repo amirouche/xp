@@ -1,0 +1,74 @@
+{
+    "name": "End of Days", 
+    "artist": "Septic Underground", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56626&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480132&streamencoding=mp31", 
+            "name": "Breaking the Final Seal"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480133&streamencoding=mp31", 
+            "name": "Suicide"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480134&streamencoding=mp31", 
+            "name": "Mountain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480135&streamencoding=mp31", 
+            "name": "I'll Find You"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480136&streamencoding=mp31", 
+            "name": "De-Stroid"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480137&streamencoding=mp31", 
+            "name": "UR80897"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480138&streamencoding=mp31", 
+            "name": "Mental Breakdown (with Mono-poly)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480139&streamencoding=mp31", 
+            "name": "Acidmoon 88"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480140&streamencoding=mp31", 
+            "name": "You gotta Learn"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480141&streamencoding=mp31", 
+            "name": "Dikke drum"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480142&streamencoding=mp31", 
+            "name": "Uranus Division 97"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480143&streamencoding=mp31", 
+            "name": "Ancient Hornet"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480144&streamencoding=mp31", 
+            "name": "The Last Hour"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56626"
+}

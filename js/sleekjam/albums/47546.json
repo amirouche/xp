@@ -1,0 +1,14 @@
+{
+    "name": "ZorBuddha", 
+    "artist": "ZorBuddha", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47546&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370416&streamencoding=mp31", 
+            "name": "My Own Big Dream"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47546"
+}

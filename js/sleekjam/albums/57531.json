@@ -1,0 +1,94 @@
+{
+    "name": "Rudi Rudi", 
+    "artist": "Nova deViator", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57531&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490691&streamencoding=mp31", 
+            "name": "ill night vigilantes"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490697&streamencoding=mp31", 
+            "name": "enter the sound"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490743&streamencoding=mp31", 
+            "name": "extra neben tilten"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490746&streamencoding=mp31", 
+            "name": "ever volatile epidemics"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490752&streamencoding=mp31", 
+            "name": "exploding creeps rule"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490754&streamencoding=mp31", 
+            "name": "into real underground"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490781&streamencoding=mp31", 
+            "name": "exterminator needs time"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490800&streamencoding=mp31", 
+            "name": " dull incognito imposters"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490813&streamencoding=mp31", 
+            "name": "drop d'ebwola deal"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490819&streamencoding=mp31", 
+            "name": "gorey empire defence"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490820&streamencoding=mp31", 
+            "name": "immersive outline nickels"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490821&streamencoding=mp31", 
+            "name": "nitro alko nano"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490832&streamencoding=mp31", 
+            "name": "offer for slackers"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490833&streamencoding=mp31", 
+            "name": "retry underground development"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490834&streamencoding=mp31", 
+            "name": "elite punami asunder"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490836&streamencoding=mp31", 
+            "name": "supah anti norris"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490866&streamencoding=mp31", 
+            "name": "read true manor"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57531"
+}

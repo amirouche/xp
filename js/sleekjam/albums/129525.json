@@ -1,0 +1,14 @@
+{
+    "name": "African", 
+    "artist": "Akashic Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129525&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086601&streamencoding=mp31", 
+            "name": "African Mbira with Percussion"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129525"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "the best of me vol.2", 
+    "artist": "Angus", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32829&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223087&streamencoding=mp31", 
+            "name": "tribute to J.B"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223088&streamencoding=mp31", 
+            "name": "downtown"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223089&streamencoding=mp31", 
+            "name": "flying machine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223090&streamencoding=mp31", 
+            "name": "funk2love"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223092&streamencoding=mp31", 
+            "name": "i'm DJ"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223093&streamencoding=mp31", 
+            "name": "in the city of angels"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223094&streamencoding=mp31", 
+            "name": "skateniamoci"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223095&streamencoding=mp31", 
+            "name": "wake up"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32829"
+}

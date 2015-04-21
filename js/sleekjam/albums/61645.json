@@ -1,0 +1,14 @@
+{
+    "name": "The Irish Girl", 
+    "artist": "Dr. Pimp", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61645&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=527925&streamencoding=mp31", 
+            "name": "The Irish Girl"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61645"
+}

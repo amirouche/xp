@@ -1,0 +1,14 @@
+{
+    "name": "Absolutely", 
+    "artist": "Adult Only", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61895&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530461&streamencoding=mp31", 
+            "name": "Absolutely"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61895"
+}

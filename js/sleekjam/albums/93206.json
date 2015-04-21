@@ -1,0 +1,29 @@
+{
+    "name": "v holodnoj vode", 
+    "artist": "Moresebya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93206&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794422&streamencoding=mp31", 
+            "name": "derzhit za serdce(semantic prod)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794423&streamencoding=mp31", 
+            "name": "ryba, plyvushaya protiv techeniya(semantic prod)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794424&streamencoding=mp31", 
+            "name": "v holodnoj vode(semantic prod)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794421&streamencoding=mp31", 
+            "name": "anastasiya(semantic prod) preview"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93206"
+}

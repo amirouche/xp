@@ -1,0 +1,64 @@
+{
+    "name": "Dreamland", 
+    "artist": "Vanilla Ninja Music & Amour", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130015&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089795&streamencoding=mp31", 
+            "name": "Dj - Dreamland (Demo)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089796&streamencoding=mp31", 
+            "name": "Dj - Vision Of Love (Demo)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089808&streamencoding=mp31", 
+            "name": "Dj - Mysterious Of Time (Demo)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089809&streamencoding=mp31", 
+            "name": "Dj - Fast and Faster (Remix-Demo-Slow Flow)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089810&streamencoding=mp31", 
+            "name": "Dj - Fast and Faster (Remix-Hardcore Demo)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089812&streamencoding=mp31", 
+            "name": "Dj - Close My Eyes.(Demo)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089813&streamencoding=mp31", 
+            "name": "Dj - Ballad of Flowers (Demo)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089818&streamencoding=mp31", 
+            "name": "Dj - Fast and Faster (Remix-Small)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089819&streamencoding=mp31", 
+            "name": "Dj - Rockiets"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089827&streamencoding=mp31", 
+            "name": "Dj - Intro"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089829&streamencoding=mp31", 
+            "name": "Dj - Someone (Demo)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "130015"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Like a Spider", 
+    "artist": "Out Of Sphere", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136508&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1136632&streamencoding=mp31", 
+            "name": "Like a Spider"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136508"
+}

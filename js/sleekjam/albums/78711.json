@@ -1,0 +1,39 @@
+{
+    "name": "THA STILL G EP", 
+    "artist": "StiLL G", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78711&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=677667&streamencoding=mp31", 
+            "name": "StiLL G Intro: Tha EP"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=677669&streamencoding=mp31", 
+            "name": "Cos\u00ec Come Sono ( Fuck Haters )"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=677671&streamencoding=mp31", 
+            "name": "Dove Viviamo ( IL BEL PAESE ? )"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=677697&streamencoding=mp31", 
+            "name": "Summertime"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=677707&streamencoding=mp31", 
+            "name": "Sorry ( Baby Dedicated )"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=677709&streamencoding=mp31", 
+            "name": "Frammenti ( 2 My Homiez )"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78711"
+}

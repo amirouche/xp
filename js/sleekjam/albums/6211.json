@@ -1,0 +1,14 @@
+{
+    "name": "Three 4 Ten (Single)", 
+    "artist": "SaReGaMa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6211&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=57266&streamencoding=mp31", 
+            "name": "Nikila, SaReGaMa and Hamelin B\u00e9rengnier - Three 4 Ten"
+        }
+    ], 
+    "release": "2011", 
+    "id": "6211"
+}

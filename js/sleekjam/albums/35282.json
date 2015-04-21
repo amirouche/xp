@@ -1,0 +1,69 @@
+{
+    "name": "Of Consumption", 
+    "artist": "no ease", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35282&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243396&streamencoding=mp31", 
+            "name": "simple"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243400&streamencoding=mp31", 
+            "name": "Syn"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243440&streamencoding=mp31", 
+            "name": "J'aime bien"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243409&streamencoding=mp31", 
+            "name": "Deux D\u00e9lais et un oscillateur"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243375&streamencoding=mp31", 
+            "name": "En 3 parties"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243362&streamencoding=mp31", 
+            "name": "Avec guitare rouge"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243361&streamencoding=mp31", 
+            "name": "Avec batterie 3"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243327&streamencoding=mp31", 
+            "name": "Avec batterie 1"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243342&streamencoding=mp31", 
+            "name": "Avec batterie 2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243389&streamencoding=mp31", 
+            "name": "ppirf ot sknaht"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243385&streamencoding=mp31", 
+            "name": "Metaphysical"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243381&streamencoding=mp31", 
+            "name": "fin"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35282"
+}

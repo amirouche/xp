@@ -1,0 +1,64 @@
+{
+    "name": "Intensity", 
+    "artist": "Go Rand", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38454&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271085&streamencoding=mp31", 
+            "name": "Cosmic #03"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271087&streamencoding=mp31", 
+            "name": "Singrola"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271094&streamencoding=mp31", 
+            "name": "Modern Times"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271103&streamencoding=mp31", 
+            "name": "The Final"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271106&streamencoding=mp31", 
+            "name": "Roots music"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271111&streamencoding=mp31", 
+            "name": "Moments"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271267&streamencoding=mp31", 
+            "name": "The Flight #03"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271141&streamencoding=mp31", 
+            "name": "The Phase Lock"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271154&streamencoding=mp31", 
+            "name": "Spheres #01"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271261&streamencoding=mp31", 
+            "name": "The Flight #02 (Remix)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271262&streamencoding=mp31", 
+            "name": "Modern Times #03 (Remix)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38454"
+}

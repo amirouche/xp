@@ -1,0 +1,29 @@
+{
+    "name": "Gravity E.P.", 
+    "artist": "KINGCAESAR", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102696&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875061&streamencoding=mp31", 
+            "name": "The Gathering (Rough No Vox)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875062&streamencoding=mp31", 
+            "name": "Waters (Rough Teaser)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875063&streamencoding=mp31", 
+            "name": "II (Rough Teaser)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875064&streamencoding=mp31", 
+            "name": "Beyond The Event Horizon (Rough Teaser)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102696"
+}

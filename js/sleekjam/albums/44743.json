@@ -1,0 +1,44 @@
+{
+    "name": "Disco Rithm", 
+    "artist": "CJ Vlam Newman", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44743&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337290&streamencoding=mp31", 
+            "name": "CJ Vlam Newman - Android toys"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337293&streamencoding=mp31", 
+            "name": "CJ Vlam Newman - Disko Ritm part I"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337297&streamencoding=mp31", 
+            "name": "CJ Vlam Newman - Disko Ritm part II"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337321&streamencoding=mp31", 
+            "name": "CJ Vlam Newman - Disco Rithm part III"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337745&streamencoding=mp31", 
+            "name": "CJ Vlam Newman - Seq"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337758&streamencoding=mp31", 
+            "name": "CJ Vlam Newman - Synthetic nostalgia"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337782&streamencoding=mp31", 
+            "name": "CJ Vlam Newman - ZX Memory"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44743"
+}

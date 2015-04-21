@@ -1,0 +1,124 @@
+{
+    "name": "ANTOLOGIA URBANA", 
+    "artist": "CHATARRA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32548&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220928&streamencoding=mp31", 
+            "name": "MOVIDAS"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220915&streamencoding=mp31", 
+            "name": "NO SABES NADA"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220916&streamencoding=mp31", 
+            "name": "LAS RUINAS"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220917&streamencoding=mp31", 
+            "name": "CUANDO PERDER FUE GANAR"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220918&streamencoding=mp31", 
+            "name": "MEJOR AS\u00cd"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220919&streamencoding=mp31", 
+            "name": "BELLVITGE ROCK CIUDAD"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220920&streamencoding=mp31", 
+            "name": "A TRAV\u00c9S DEL OLVIDO"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220921&streamencoding=mp31", 
+            "name": "PERDIDO EN LA NOCHE"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220914&streamencoding=mp31", 
+            "name": "EL SINVERG\u00dcENZA"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220792&streamencoding=mp31", 
+            "name": "S\u00cd O NO"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220793&streamencoding=mp31", 
+            "name": "DE MENTIRA"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220794&streamencoding=mp31", 
+            "name": "ESTRELLA FUGAZ"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220795&streamencoding=mp31", 
+            "name": "LAS MIL Y UNA"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220796&streamencoding=mp31", 
+            "name": "REALIDAD VIRTUAL"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220797&streamencoding=mp31", 
+            "name": "NO TENGO UN EURO"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220798&streamencoding=mp31", 
+            "name": "EL R\u00cdO"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220923&streamencoding=mp31", 
+            "name": "\"- F\u00daTBOL Y + ROCK\""
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220924&streamencoding=mp31", 
+            "name": "MAR FOLL\u00c1"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220925&streamencoding=mp31", 
+            "name": "DEL CORAZ\u00d3N"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220926&streamencoding=mp31", 
+            "name": "NADA DE NA"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220927&streamencoding=mp31", 
+            "name": "MAS ALL\u00c1"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220922&streamencoding=mp31", 
+            "name": "NO LO COJO"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220791&streamencoding=mp31", 
+            "name": "MAL BICHO"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32548"
+}

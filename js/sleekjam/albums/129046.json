@@ -1,0 +1,74 @@
+{
+    "name": "The KA Theory", 
+    "artist": "Dr Schilum", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129046&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083462&streamencoding=mp31", 
+            "name": "Begining of..."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083463&streamencoding=mp31", 
+            "name": "Express yourself at Midnight"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083461&streamencoding=mp31", 
+            "name": "Rock"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083460&streamencoding=mp31", 
+            "name": "Full Empty Head"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083459&streamencoding=mp31", 
+            "name": "Funky Night"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083458&streamencoding=mp31", 
+            "name": "The Godfather's trip"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083456&streamencoding=mp31", 
+            "name": "My Comet"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083455&streamencoding=mp31", 
+            "name": "Two Angels"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083457&streamencoding=mp31", 
+            "name": "Mag2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083465&streamencoding=mp31", 
+            "name": "Organ Theory"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083454&streamencoding=mp31", 
+            "name": "The Persuaders trip"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083467&streamencoding=mp31", 
+            "name": "White Noise"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083464&streamencoding=mp31", 
+            "name": "Rock (Mad cat remix)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129046"
+}

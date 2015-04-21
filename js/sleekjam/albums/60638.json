@@ -1,0 +1,44 @@
+{
+    "name": "PoEmes PhoniquEs s\u00e9rie 4", 
+    "artist": "PHILIpPE bRaY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60638&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518643&streamencoding=mp31", 
+            "name": "Des hommes debout"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518644&streamencoding=mp31", 
+            "name": "Art, parc et jardins"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518646&streamencoding=mp31", 
+            "name": "Assis"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518647&streamencoding=mp31", 
+            "name": "Aux mers turquoise"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518648&streamencoding=mp31", 
+            "name": "Ordinaire pluie d'un matin gris"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518650&streamencoding=mp31", 
+            "name": "Apostrophe"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=518654&streamencoding=mp31", 
+            "name": "Comme une goutte d'eau"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60638"
+}

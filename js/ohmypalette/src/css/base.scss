@@ -1,0 +1,154 @@
+@import "glyphicons";
+
+$header-fonts: 'Open Sans Light', verdana, sans-serif;
+$title-fonts: $header-fonts;
+$body-fonts: Fira, verdana, arial, sans-serif;
+
+
+* {
+    box-sizing: border-box;
+}
+
+::selection {
+    background-color: #27D6BD;
+    color: black;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $header-fonts;
+    font-weight: normal;
+
+    > code {
+	font-weight: 300;
+    }
+}
+
+body {
+    font-family: $body-fonts;
+    font-size: 16px;
+    background: url(background.png);
+    color: white;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: $header-fonts;
+}
+
+
+p, li {
+    line-height: 1.7em;
+    text-align: justify;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+ul {
+    margin: 30px 0px;
+}
+
+a {
+    color: #27D6BD;
+    font-weight: bold;
+    transition: 1s color;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+/* header */
+
+#header {
+    font-family: $header-fonts;
+    color: rgba(255, 255, 255, 0.3);
+
+    
+    display: flex;
+    align-items: stretch;
+    justify-content: center;   
+    text-align: center;
+    
+    font-size: 2em;
+    background: rgba(0, 0, 0, 0.4);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 80%, rgba(0, 0, 0, 0.4) 90%);
+    padding: 0px;
+    margin: 0px;
+    
+    > div {
+	display: inline;
+	padding: 3px 10px;
+	
+	&:first-child {
+	    border-right: 1px solid rgba(0, 0, 0, 0.3);
+	}
+
+	&:last-child {
+	    border-left: 1px solid rgba(0, 0, 0, 0.6);
+	    
+	    span.search {
+		padding-top: 0.2em;
+		padding-left: 2px;
+
+		@extend .glyphicon;
+		@extend .glyphicon-search;
+	    }
+
+	    
+	    input[type="text"] {
+		margin-left: 10px;
+		background: transparent;
+		border: none;
+		outline: none;
+	    }
+	}
+
+    }
+
+}
+
+
+#main {
+    display: flex;
+    padding: 20px; 
+    max-width: 1000px;
+    margin: auto;
+
+    justify-content: center;   
+    text-align: center;
+    
+    > div {
+
+	> h1.title {
+	    text-transform: uppercase;
+	}
+
+    }
+}
+
+/* footer */
+#footer {
+    font-family: $title-fonts;
+    background: #27D6BD;
+    color: black;
+    padding: 20Px;
+    font-size: 2em;
+    border-bottom: 5px white solid;
+
+    
+    p {
+	margin: 0px;
+	text-align: center;
+
+	a {
+	    color: black;
+	    font-weight: normal;
+	}
+    }
+}

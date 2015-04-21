@@ -1,0 +1,14 @@
+{
+    "name": "archibald one / Single", 
+    "artist": "archibald one", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31682&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215222&streamencoding=mp31", 
+            "name": "archibald one/ Bim Bam Boum /Single"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31682"
+}

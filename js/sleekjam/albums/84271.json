@@ -1,0 +1,39 @@
+{
+    "name": "Ricordi Indelebili", 
+    "artist": "Mbesil", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84271&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722001&streamencoding=mp31", 
+            "name": "L'ultima canzone"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722002&streamencoding=mp31", 
+            "name": "Voci intrecciate"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722003&streamencoding=mp31", 
+            "name": "Blues"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722004&streamencoding=mp31", 
+            "name": "Novembre"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722005&streamencoding=mp31", 
+            "name": "Gingle"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=722000&streamencoding=mp31", 
+            "name": "Storia vera"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84271"
+}

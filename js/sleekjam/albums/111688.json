@@ -1,0 +1,54 @@
+{
+    "name": "Live at Space Club", 
+    "artist": "Cometa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111688&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950067&streamencoding=mp31", 
+            "name": "Alto#1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950068&streamencoding=mp31", 
+            "name": "Direct#2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950069&streamencoding=mp31", 
+            "name": "Poly#1"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950073&streamencoding=mp31", 
+            "name": "Fx+Acbass"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950070&streamencoding=mp31", 
+            "name": "Exp#21"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950071&streamencoding=mp31", 
+            "name": "Banter"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950072&streamencoding=mp31", 
+            "name": "Black Land"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950074&streamencoding=mp31", 
+            "name": "Black Land#2"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950077&streamencoding=mp31", 
+            "name": "Black Land#3"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111688"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Wszystko albo nic (2007) Everything or nothing", 
+    "artist": "Arkady Michalik & MUSICOCOMPANY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9518&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94103&streamencoding=mp31", 
+            "name": "Ballada - Arkady Michalik z Musicocompany"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94104&streamencoding=mp31", 
+            "name": "Mijamy si\u0119 - Arkady Michalik z Musicocompany"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94105&streamencoding=mp31", 
+            "name": "Wszystko albo nic - Arkady Michalik z Musicocompany"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94106&streamencoding=mp31", 
+            "name": "Wypluwam s\u0142owa swe ver2 - Arkady Michalik z Musicocompany"
+        }
+    ], 
+    "release": "2007", 
+    "id": "9518"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Les mots que tu penses tout bas.", 
+    "artist": "Village noir", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70943&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613177&streamencoding=mp31", 
+            "name": " village noir- l'horizon"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613183&streamencoding=mp31", 
+            "name": " village noir-Amour interdit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613184&streamencoding=mp31", 
+            "name": "village noir- B\u00e9jart"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613185&streamencoding=mp31", 
+            "name": "village noir-tellement je t'aime"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70943"
+}

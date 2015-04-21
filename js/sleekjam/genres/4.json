@@ -1,0 +1,362 @@
+{
+    "albums": [
+        {
+            "release": "2014", 
+            "artist": "Alexander Stein", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136249&imagesize=100", 
+            "id": "136249", 
+            "name": "Disco Funk Or What"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Luciano", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113236&imagesize=100", 
+            "id": "113236", 
+            "name": "A te"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "SyncroDrum", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21163&imagesize=100", 
+            "id": "21163", 
+            "name": "Demenzia Cinque"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "K.C.SHUFFLE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118433&imagesize=100", 
+            "id": "118433", 
+            "name": "Welcome"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Antonio Torres Ruiz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112679&imagesize=100", 
+            "id": "112679", 
+            "name": "SoulStar"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "DJ TOSKEN", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55380&imagesize=100", 
+            "id": "55380", 
+            "name": "Aquellos maravillosos a\u00f1os"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Noctilucent Cloud", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62575&imagesize=100", 
+            "id": "62575", 
+            "name": "Recluse Disco"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Ivan Samshit", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110658&imagesize=100", 
+            "id": "110658", 
+            "name": "Telekom"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Project Puuchica", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124822&imagesize=100", 
+            "id": "124822", 
+            "name": "Your love 2013"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Stellar Art Wars", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119640&imagesize=100", 
+            "id": "119640", 
+            "name": "Outlet"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Fhernando", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74055&imagesize=100", 
+            "id": "74055", 
+            "name": "Falling Down (EP)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Fhernando", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110979&imagesize=100", 
+            "id": "110979", 
+            "name": "Last Days Of Disco"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Fhernando", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33374&imagesize=100", 
+            "id": "33374", 
+            "name": "Sweet Addiction (Sampler)"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Abel Quintero (TheQman)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130633&imagesize=100", 
+            "id": "130633", 
+            "name": "Forget About~it & Dance! (Olvidate)"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "PremiumMusic (Instrumental Version)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137058&imagesize=100", 
+            "id": "137058", 
+            "name": "Chillout Electronic Soft Laid Back Relaxed Modern Lounge Theme Album"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Badiali sandro", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116236&imagesize=100", 
+            "id": "116236", 
+            "name": "Tropicana"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Badiali sandro", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116042&imagesize=100", 
+            "id": "116042", 
+            "name": "Salon rojo"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Nelson Jenstad", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84118&imagesize=100", 
+            "id": "84118", 
+            "name": "Stand In Your Way"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "D_Tom", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106345&imagesize=100", 
+            "id": "106345", 
+            "name": "Spaceflight"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "D_Tom", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137117&imagesize=100", 
+            "id": "137117", 
+            "name": "Summertime"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "D_Tom", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109646&imagesize=100", 
+            "id": "109646", 
+            "name": "Spaceflight Full Length Version"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Vvsmusic", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124643&imagesize=100", 
+            "id": "124643", 
+            "name": "Fill the Floor (Ladies Night)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Vvsmusic", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114762&imagesize=100", 
+            "id": "114762", 
+            "name": "Fill the Floor (Spanish Radio Edition)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Das Heuchelbacherquintete", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29595&imagesize=100", 
+            "id": "29595", 
+            "name": "Brennende Sportliche Chinesen"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Mob", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56633&imagesize=100", 
+            "id": "56633", 
+            "name": "Si j'\u00e9tais toi"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Eftos", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113449&imagesize=100", 
+            "id": "113449", 
+            "name": "I-Transport"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Se\u00f1or B", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116209&imagesize=100", 
+            "id": "116209", 
+            "name": "Select clean works"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Julien (Maska) Degerbe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32874&imagesize=100", 
+            "id": "32874", 
+            "name": "Maska"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Synthirius", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105822&imagesize=100", 
+            "id": "105822", 
+            "name": "Discomatic"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Superflip", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58681&imagesize=100", 
+            "id": "58681", 
+            "name": "Lehn' Dich An"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Mauro F", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101568&imagesize=100", 
+            "id": "101568", 
+            "name": "Solo tra di noi_single"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041a\u0432\u0430\u0440\u0442\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49489&imagesize=100", 
+            "id": "49489", 
+            "name": "\u041a\u0440\u044b\u043b\u0430\u0442\u0430\u044f \u0434\u0443\u0448\u0430"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "pure & natural", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61505&imagesize=100", 
+            "id": "61505", 
+            "name": "miracle on the gang avenue"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "SG", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121306&imagesize=100", 
+            "id": "121306", 
+            "name": "Shout Loud (Single)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "\u041a\u0438\u0441\u043a\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102153&imagesize=100", 
+            "id": "102153", 
+            "name": "\u0423\u0442\u0440\u043e \u0432 \u043f\u0435\u0440\u043b\u0430\u043c\u0443\u0442\u0440\u0435"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Zenkman", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65315&imagesize=100", 
+            "id": "65315", 
+            "name": "Disco Chill - Single"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "jorge manuel laso", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122827&imagesize=100", 
+            "id": "122827", 
+            "name": "Calendario tridimensional"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Zen flute", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101496&imagesize=100", 
+            "id": "101496", 
+            "name": "FLS"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Doc", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75287&imagesize=100", 
+            "id": "75287", 
+            "name": "Rondo"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "clonboy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89223&imagesize=100", 
+            "id": "89223", 
+            "name": "Games"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "ILOVE MAROC", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94964&imagesize=100", 
+            "id": "94964", 
+            "name": "CHAABIMAROC"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Dj Quincy Ortiz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131548&imagesize=100", 
+            "id": "131548", 
+            "name": "Fever"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Limbo deluxe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=12065&imagesize=100", 
+            "id": "12065", 
+            "name": "Super Disco Pop Beat Punk"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Bang Bong", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75611&imagesize=100", 
+            "id": "75611", 
+            "name": "Next Level For Two Devil"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "J.Blasco", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26538&imagesize=100", 
+            "id": "26538", 
+            "name": "EXPERIENCE"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "G.Uru", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89825&imagesize=100", 
+            "id": "89825", 
+            "name": "New Expressions"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Sam leopard", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54347&imagesize=100", 
+            "id": "54347", 
+            "name": "fire in the derche"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Radioodbiornik Ultra", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60446&imagesize=100", 
+            "id": "60446", 
+            "name": "Nuclear Party Stories"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "MANGINA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35287&imagesize=100", 
+            "id": "35287", 
+            "name": "MANGINA"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Vesela Vokalna Skupina Franko Pu\u0161ac", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123025&imagesize=100", 
+            "id": "123025", 
+            "name": "Sa\u0161a je gladan"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "ORB MC", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95531&imagesize=100", 
+            "id": "95531", 
+            "name": "La Saga delle Follie"
+        }
+    ], 
+    "name": "Disco"
+}

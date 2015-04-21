@@ -1,0 +1,69 @@
+{
+    "name": "The sorrow in the middle of the market", 
+    "artist": "Blukaos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111498&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948628&streamencoding=mp31", 
+            "name": "Weight of words"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948638&streamencoding=mp31", 
+            "name": "Drip a goodbye with no shame"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948637&streamencoding=mp31", 
+            "name": "The sorrows in the middle of the market"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948636&streamencoding=mp31", 
+            "name": "Best of these years"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948635&streamencoding=mp31", 
+            "name": "How to build a dragonfly"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948622&streamencoding=mp31", 
+            "name": "Between the bite and antidote (part 1)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948619&streamencoding=mp31", 
+            "name": "Music for moons"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948620&streamencoding=mp31", 
+            "name": "Eliano"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948621&streamencoding=mp31", 
+            "name": "Between the bite and antidote (part 2)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948623&streamencoding=mp31", 
+            "name": "Bloom inside of what counts (part 1)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948634&streamencoding=mp31", 
+            "name": "Bloom inside of what counts (part 2)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948639&streamencoding=mp31", 
+            "name": "Above of all lies"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111498"
+}

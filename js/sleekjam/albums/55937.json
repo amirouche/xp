@@ -1,0 +1,59 @@
+{
+    "name": "Poetry Parade", 
+    "artist": "Victa Rain", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55937&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=473722&streamencoding=mp31", 
+            "name": "birthday"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=473723&streamencoding=mp31", 
+            "name": "dreamer"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=473728&streamencoding=mp31", 
+            "name": "you remain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474060&streamencoding=mp31", 
+            "name": "falling"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474016&streamencoding=mp31", 
+            "name": "snow"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474020&streamencoding=mp31", 
+            "name": "maybe"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474036&streamencoding=mp31", 
+            "name": "friends"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474040&streamencoding=mp31", 
+            "name": "loveme"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474046&streamencoding=mp31", 
+            "name": "i have you"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=474047&streamencoding=mp31", 
+            "name": "runaway"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55937"
+}

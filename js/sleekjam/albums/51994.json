@@ -1,0 +1,39 @@
+{
+    "name": "Rigor Partys", 
+    "artist": "Jazz Oil", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51994&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425154&streamencoding=mp31", 
+            "name": "Jungle Bungle"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425155&streamencoding=mp31", 
+            "name": "Lufon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425156&streamencoding=mp31", 
+            "name": "Sie7e"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425157&streamencoding=mp31", 
+            "name": "Billy el Sucio"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425158&streamencoding=mp31", 
+            "name": "Traffic Man"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=425159&streamencoding=mp31", 
+            "name": "Yasoil"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51994"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "No Tomorrow", 
+    "artist": "Strange Republik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8780&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90314&streamencoding=mp31", 
+            "name": "Butterfly"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90315&streamencoding=mp31", 
+            "name": "Sirens"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90316&streamencoding=mp31", 
+            "name": "Dust"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90317&streamencoding=mp31", 
+            "name": "Tears"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90318&streamencoding=mp31", 
+            "name": "No Tomorrow"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90319&streamencoding=mp31", 
+            "name": "Frailty"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90320&streamencoding=mp31", 
+            "name": "One Day"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=90321&streamencoding=mp31", 
+            "name": "Clarity"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8780"
+}

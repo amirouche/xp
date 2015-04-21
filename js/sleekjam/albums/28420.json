@@ -1,0 +1,49 @@
+{
+    "name": "Jeannette, Ma\u00ebl et moi", 
+    "artist": "Anna C", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28420&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=189013&streamencoding=mp31", 
+            "name": "sa vie est un roman "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=189968&streamencoding=mp31", 
+            "name": "langoureuse ma berceuse"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188798&streamencoding=mp31", 
+            "name": "jeannette et le comptable"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=189543&streamencoding=mp31", 
+            "name": "extatique "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=189962&streamencoding=mp31", 
+            "name": "la d\u00e9claration glamour "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188801&streamencoding=mp31", 
+            "name": "le blue de la prof de piano"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=189012&streamencoding=mp31", 
+            "name": "r\u00eave d'amour"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188799&streamencoding=mp31", 
+            "name": "la valse des sacs"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28420"
+}

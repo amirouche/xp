@@ -1,0 +1,29 @@
+{
+    "name": "Happiness", 
+    "artist": "Theo Dege", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70777&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611603&streamencoding=mp31", 
+            "name": "Happiness 2003"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611602&streamencoding=mp31", 
+            "name": "Happiness 2009 Instrumental"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611605&streamencoding=mp31", 
+            "name": "Happiness 2009"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=611604&streamencoding=mp31", 
+            "name": "Happiness 2009 Live KreativFabrik Wiesbaden"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70777"
+}

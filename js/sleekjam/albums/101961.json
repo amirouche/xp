@@ -1,0 +1,74 @@
+{
+    "name": ":Complex:Life:", 
+    "artist": "Eyes Tribe", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101961&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869368&streamencoding=mp31", 
+            "name": "Complex Life"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869390&streamencoding=mp31", 
+            "name": "The Better Day"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869392&streamencoding=mp31", 
+            "name": "Crystal Lake - Paths of Destiny"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869393&streamencoding=mp31", 
+            "name": "Herzen geben Licht"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869394&streamencoding=mp31", 
+            "name": "Alighted Into The Dark"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869395&streamencoding=mp31", 
+            "name": "Wolke aus Glas"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869401&streamencoding=mp31", 
+            "name": "House of Thousand Souls -Montag Mix 2.004 -"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869427&streamencoding=mp31", 
+            "name": "HerbstTag - C L Mix -"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869443&streamencoding=mp31", 
+            "name": "Way of Thousand Streets"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869446&streamencoding=mp31", 
+            "name": "Point of No Return"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869448&streamencoding=mp31", 
+            "name": "Some Different Ways"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869457&streamencoding=mp31", 
+            "name": "Fall"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=869459&streamencoding=mp31", 
+            "name": "Black Indian"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101961"
+}

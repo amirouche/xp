@@ -1,0 +1,154 @@
+{
+    "name": "Betty is gone", 
+    "artist": "Dhalius", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51712&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408920&streamencoding=mp31", 
+            "name": "Baby your nice, your sweet"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408215&streamencoding=mp31", 
+            "name": "Overwhelmed"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408216&streamencoding=mp31", 
+            "name": "Betty is gone"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=409402&streamencoding=mp31", 
+            "name": "Inside my mind"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407455&streamencoding=mp31", 
+            "name": "The car"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407446&streamencoding=mp31", 
+            "name": "Happiness is just a short moment"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=409404&streamencoding=mp31", 
+            "name": "Some strange days"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407450&streamencoding=mp31", 
+            "name": "Just let me go, just let me stay"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408740&streamencoding=mp31", 
+            "name": "Cant change the time"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407445&streamencoding=mp31", 
+            "name": "Why dont ya"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=409407&streamencoding=mp31", 
+            "name": "Hey, dont wanna loose a friend"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407448&streamencoding=mp31", 
+            "name": "Take my life"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407447&streamencoding=mp31", 
+            "name": "Waiting"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407451&streamencoding=mp31", 
+            "name": "Radiate the moon"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407444&streamencoding=mp31", 
+            "name": "The voices"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407454&streamencoding=mp31", 
+            "name": "Once upon a time"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407453&streamencoding=mp31", 
+            "name": "To a place"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408242&streamencoding=mp31", 
+            "name": "I was never leaving"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407452&streamencoding=mp31", 
+            "name": "Love me as i"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407449&streamencoding=mp31", 
+            "name": "Today i kill tomorrow ill die"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408741&streamencoding=mp31", 
+            "name": "Change life"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408742&streamencoding=mp31", 
+            "name": "Nottingham girl"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=408743&streamencoding=mp31", 
+            "name": "Time girl"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=409203&streamencoding=mp31", 
+            "name": "The love you make"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=409403&streamencoding=mp31", 
+            "name": "I love you i love you"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=409406&streamencoding=mp31", 
+            "name": "Bla bla blue"
+        }, 
+        {
+            "position": 27, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=409408&streamencoding=mp31", 
+            "name": "Listen what"
+        }, 
+        {
+            "position": 28, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=409405&streamencoding=mp31", 
+            "name": "Tell me what you see"
+        }, 
+        {
+            "position": 29, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407456&streamencoding=mp31", 
+            "name": "Night"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51712"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "zu aller erst.", 
+    "artist": "radjKarl", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26086&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175971&streamencoding=mp31", 
+            "name": "Herr Prasser"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175978&streamencoding=mp31", 
+            "name": "\u00d6ko Tourismus"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175980&streamencoding=mp31", 
+            "name": "Spalter"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175995&streamencoding=mp31", 
+            "name": "Entschleunigung"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175998&streamencoding=mp31", 
+            "name": "Geburtstagslied"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176003&streamencoding=mp31", 
+            "name": "Long-End-Whisky-Blues"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176004&streamencoding=mp31", 
+            "name": "Geschenk"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176005&streamencoding=mp31", 
+            "name": "Arbeitermist"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176010&streamencoding=mp31", 
+            "name": "Ferienlagerl\u00e4cheln"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176012&streamencoding=mp31", 
+            "name": "Kleiner K"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176014&streamencoding=mp31", 
+            "name": "Tomaten"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=176015&streamencoding=mp31", 
+            "name": "Tierchen"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26086"
+}

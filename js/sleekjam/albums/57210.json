@@ -1,0 +1,79 @@
+{
+    "name": "Mike Kane - Alptraum", 
+    "artist": "Mike Kane", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57210&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487345&streamencoding=mp31", 
+            "name": " Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487302&streamencoding=mp31", 
+            "name": " Alptraum ( Feat Damien Hell)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487710&streamencoding=mp31", 
+            "name": "Beta Test ( Feat Damien Hell)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487735&streamencoding=mp31", 
+            "name": " Fire in ya Brain"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487703&streamencoding=mp31", 
+            "name": "Around ( Feat Damien Hell)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487808&streamencoding=mp31", 
+            "name": "Man o Man"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487654&streamencoding=mp31", 
+            "name": "Damien Hell - Attack in (Mike Kane Remix)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487336&streamencoding=mp31", 
+            "name": " Bluthochdruck"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487777&streamencoding=mp31", 
+            "name": "Maniac"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487823&streamencoding=mp31", 
+            "name": "Nu Energy"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487762&streamencoding=mp31", 
+            "name": " I am Maschine"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487729&streamencoding=mp31", 
+            "name": "Danger Group"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487802&streamencoding=mp31", 
+            "name": "Arschloch"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=487337&streamencoding=mp31", 
+            "name": " What the Gun"
+        }
+    ], 
+    "release": "2010", 
+    "id": "57210"
+}

@@ -1,0 +1,41 @@
+@font-face {
+  font-family: Fira;
+  font-style: normal;
+  src: url('FiraSans-Light.eot') format('eot');
+  src: url('FiraSans-Light.ttf') format('truetype'), url('FiraSans-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: Fira;
+  font-style: bold;
+  src: url('FiraSans-Regular.eot') format('eot');
+  src: url('FiraSans-Regular.ttf') format('truetype'), url('FiraSans-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: LeagueGothic;
+  font-style: bold;
+  src: url('leaguegothic-regular-webfont.eot');
+  src: url('leaguegothic-regular-webfont.ttf') format('truetype'), url('leaguegothic-regular-webfont.woff') format('woff'), url('leaguegothic-regular-webfont.svg') format('svg');
+}
+
+@font-face {
+  font-family: Source;
+  font-style: normal;
+  src: url(SourceCodePro-Semibold.eot);
+  src: url(SourceCodePro-Semibold.ttf) format('truetype'), url(SourceCodePro-Semibold.otf.woff) format('woff'), url(SourceCodePro-Semibold.svg) format('svg');
+}
+
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  src: url(glyphicons-halflings-regular.eot);
+  src: url(glyphicons-halflings-regular.ttf) format('truetype'), url(glyphicons-halflings-regular.woff) format('woff'), url(glyphicons-halflings-regular.svg) format('svg');
+}
+
+@font-face {
+  font-family: SourceLight;
+  font-style: normal;
+  src: url(SourceCodePro-Regular.eot);
+  src: url(SourceCodePro-Regular.ttf) format('truetype'), url(SourceCodePro-Regular.otf.woff) format('woff'), url(SourceCodePro-Regular.svg) format('svg');
+}

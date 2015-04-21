@@ -1,0 +1,14 @@
+{
+    "name": "Strings in the Earth and Air", 
+    "artist": "Aufklarung", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136269&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135221&streamencoding=mp31", 
+            "name": "Strings in the Earth and Air"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136269"
+}

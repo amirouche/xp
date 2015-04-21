@@ -1,0 +1,94 @@
+{
+    "name": "Pizzattakk", 
+    "artist": "Robson, Sax, Garritt & Goodheart", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3486&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25295&streamencoding=mp31", 
+            "name": "Pizzattakk (intro)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25296&streamencoding=mp31", 
+            "name": "First attakk - Part 1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25297&streamencoding=mp31", 
+            "name": "First attakk - Part 2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25298&streamencoding=mp31", 
+            "name": "Pizzajazz"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25299&streamencoding=mp31", 
+            "name": "Pizzattakk"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25300&streamencoding=mp31", 
+            "name": "Pizzatrauma!"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25301&streamencoding=mp31", 
+            "name": "PizzaImpression"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25302&streamencoding=mp31", 
+            "name": "Pizza Monster"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25303&streamencoding=mp31", 
+            "name": "The laughs of Pizza monster"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25304&streamencoding=mp31", 
+            "name": "The three wifes of the Pizza monster"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25305&streamencoding=mp31", 
+            "name": "Psychedelik Overture"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25306&streamencoding=mp31", 
+            "name": "The cave"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25307&streamencoding=mp31", 
+            "name": "Are your ears ok? (pizzattakk reprise)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25308&streamencoding=mp31", 
+            "name": "Pizzanightmare"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25309&streamencoding=mp31", 
+            "name": "Pizzarelax"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25310&streamencoding=mp31", 
+            "name": "Xalerazzip"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25311&streamencoding=mp31", 
+            "name": "Satanik Attak (Finalattak)"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3486"
+}

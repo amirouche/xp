@@ -1,0 +1,14 @@
+{
+    "name": "Song for Jim (Three Wise Men)", 
+    "artist": "Rataxes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110460&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940457&streamencoding=mp31", 
+            "name": "Song for Jim [No Samples Edit]"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110460"
+}

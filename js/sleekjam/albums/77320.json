@@ -1,0 +1,29 @@
+{
+    "name": "Qavufok Hom Fel Bordukh", 
+    "artist": "Zhurgal Dukhiatz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77320&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666381&streamencoding=mp31", 
+            "name": "Gyr Gorgath Haraobs Fi Chasmt"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666382&streamencoding=mp31", 
+            "name": "Zhurgal Cor Lufgs"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666383&streamencoding=mp31", 
+            "name": "Zhurgal Dukhiatz"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666384&streamencoding=mp31", 
+            "name": "Fi Kaduvth Hon Zerthouk"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77320"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "tout pour le groove", 
+    "artist": "SeBTeiX", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31511&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213945&streamencoding=mp31", 
+            "name": "Today is groove"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213934&streamencoding=mp31", 
+            "name": "Midnight Funk"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213940&streamencoding=mp31", 
+            "name": "Soul time"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213933&streamencoding=mp31", 
+            "name": "New funk power"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213944&streamencoding=mp31", 
+            "name": "Groova patata"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213935&streamencoding=mp31", 
+            "name": "Sainteix"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213937&streamencoding=mp31", 
+            "name": "Electrojazz"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213938&streamencoding=mp31", 
+            "name": "Fightin'"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213939&streamencoding=mp31", 
+            "name": "Douit"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213936&streamencoding=mp31", 
+            "name": "Mathilde"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213943&streamencoding=mp31", 
+            "name": "Fwagroove "
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213946&streamencoding=mp31", 
+            "name": "Yesaiiillee"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213942&streamencoding=mp31", 
+            "name": "Sax to the beat"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31511"
+}

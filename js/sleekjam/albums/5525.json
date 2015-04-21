@@ -1,0 +1,64 @@
+{
+    "name": "Tranquille", 
+    "artist": "Kaptain Bigg", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5525&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45972&streamencoding=mp31", 
+            "name": "Dela DuB"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45973&streamencoding=mp31", 
+            "name": "Non Stop"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45974&streamencoding=mp31", 
+            "name": "Syndrome MP3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45975&streamencoding=mp31", 
+            "name": "Les Americains"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45976&streamencoding=mp31", 
+            "name": "These boots are made for walking"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45977&streamencoding=mp31", 
+            "name": "Prot\u00e8ge la"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45978&streamencoding=mp31", 
+            "name": "Front National"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45979&streamencoding=mp31", 
+            "name": "Les vacances a la plage"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45980&streamencoding=mp31", 
+            "name": "Tranquille"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45981&streamencoding=mp31", 
+            "name": "Ganja"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45982&streamencoding=mp31", 
+            "name": "Le Reverb\u00e8re"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5525"
+}

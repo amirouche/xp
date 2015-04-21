@@ -1,0 +1,59 @@
+{
+    "name": "03 12 Bruxelles de No\u00ebl", 
+    "artist": "Grego Mondo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20051&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140129&streamencoding=mp31", 
+            "name": "Debut"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140280&streamencoding=mp31", 
+            "name": "Cocotte en papier"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140223&streamencoding=mp31", 
+            "name": "Les Insectes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140231&streamencoding=mp31", 
+            "name": "Le bourdon"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140234&streamencoding=mp31", 
+            "name": "Bonne ann\u00e9e"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140267&streamencoding=mp31", 
+            "name": "L'air frais"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140285&streamencoding=mp31", 
+            "name": "La Faim"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140298&streamencoding=mp31", 
+            "name": "Le vertige"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140301&streamencoding=mp31", 
+            "name": "L'assiette"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140306&streamencoding=mp31", 
+            "name": "La fourchette"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20051"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "LaST dAYS", 
+    "artist": "ANNOYING L.I.F.E.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124569&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1056478&streamencoding=mp31", 
+            "name": "tRUE LiES"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1056479&streamencoding=mp31", 
+            "name": "wELCOME tO aNOTHER dAY"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1056480&streamencoding=mp31", 
+            "name": "LaST dAYS"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124569"
+}

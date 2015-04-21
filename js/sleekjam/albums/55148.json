@@ -1,0 +1,69 @@
+{
+    "name": "Second Hand Mutt -- Growlin' and Howlin'", 
+    "artist": "Second Hand Mutt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55148&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463500&streamencoding=mp31", 
+            "name": "(I'm Not)  Everybody's Everything"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463502&streamencoding=mp31", 
+            "name": "Call On Me"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463505&streamencoding=mp31", 
+            "name": "Could It Be"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463507&streamencoding=mp31", 
+            "name": "Angels"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463508&streamencoding=mp31", 
+            "name": "Someone Else's Woman"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463509&streamencoding=mp31", 
+            "name": "Won't Grow Old"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463511&streamencoding=mp31", 
+            "name": "Face Down (In the Blues)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463513&streamencoding=mp31", 
+            "name": "Keep On Travelin'"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463514&streamencoding=mp31", 
+            "name": "You Go Your Way"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463515&streamencoding=mp31", 
+            "name": "Let My Heartache Heal"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463517&streamencoding=mp31", 
+            "name": "I Am Home"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463519&streamencoding=mp31", 
+            "name": "Fishin' Pole & a Bag of Goodies"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55148"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "SHOT GUN RIDDIM 2011", 
+    "artist": "Putiaro Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87572&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748880&streamencoding=mp31", 
+            "name": "Stone - Stamane"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748881&streamencoding=mp31", 
+            "name": "Ras Niya feat. Dotty Gyal - Armony "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748883&streamencoding=mp31", 
+            "name": "Ras Pepy - Reggae Bla Bla"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748884&streamencoding=mp31", 
+            "name": "Saime - Culture "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748885&streamencoding=mp31", 
+            "name": "Viojahman feat. Barile - Reggae Sensimilla"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748886&streamencoding=mp31", 
+            "name": "Mars - Sono Nordafricano"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748887&streamencoding=mp31", 
+            "name": "Out of babylon - Lo Senti che Acchiana  "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748953&streamencoding=mp31", 
+            "name": "Shot gun - Riddim"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87572"
+}

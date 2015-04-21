@@ -1,0 +1,79 @@
+{
+    "name": "Newel Bum", 
+    "artist": "Aural Disclosure", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85704&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732932&streamencoding=mp31", 
+            "name": "Machine Music"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732950&streamencoding=mp31", 
+            "name": "Late Grate"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732959&streamencoding=mp31", 
+            "name": "Dufflecoat Delights"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732956&streamencoding=mp31", 
+            "name": "Backwards And Forwards"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732934&streamencoding=mp31", 
+            "name": "Darker Heights, New Ends"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732954&streamencoding=mp31", 
+            "name": "Aenopugh"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732910&streamencoding=mp31", 
+            "name": "Satisfaction Clause"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732960&streamencoding=mp31", 
+            "name": "Spill The Beans"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732933&streamencoding=mp31", 
+            "name": "Melancholy"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732953&streamencoding=mp31", 
+            "name": "Unfolder"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732911&streamencoding=mp31", 
+            "name": "Beyond All Limits"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732909&streamencoding=mp31", 
+            "name": "Dream On Cloud Nine"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732952&streamencoding=mp31", 
+            "name": "Snap, Crackle, Noise"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=732955&streamencoding=mp31", 
+            "name": "Clean Effort"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85704"
+}

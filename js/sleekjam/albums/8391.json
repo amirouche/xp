@@ -1,0 +1,74 @@
+{
+    "name": "Hope Against Hope", 
+    "artist": "Dominic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8391&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87537&streamencoding=mp31", 
+            "name": "Gu\u00e9rilla (intro)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86670&streamencoding=mp31", 
+            "name": "Vers le Destin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87538&streamencoding=mp31", 
+            "name": "Infini"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86661&streamencoding=mp31", 
+            "name": "Notes d'Automne"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86667&streamencoding=mp31", 
+            "name": "Amour Distant"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86673&streamencoding=mp31", 
+            "name": "Hypernaute"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86664&streamencoding=mp31", 
+            "name": "En Attendant l'Aube"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87539&streamencoding=mp31", 
+            "name": "Vantage Point"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86668&streamencoding=mp31", 
+            "name": "Whisky Irlandais"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86677&streamencoding=mp31", 
+            "name": "Triste Pass\u00e9"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86666&streamencoding=mp31", 
+            "name": "Scarborough Fair"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86662&streamencoding=mp31", 
+            "name": "Les Jeux Commencent"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87540&streamencoding=mp31", 
+            "name": "La L\u00e9gende du Gari\u00e9py (bonustrack)"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8391"
+}

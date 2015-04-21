@@ -1,0 +1,14 @@
+{
+    "name": "Techno d\u00e9cal\u00e9", 
+    "artist": "DJIceSound", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17618&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125888&streamencoding=mp31", 
+            "name": "techno-decale"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17618"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Envers et contre toi", 
+    "artist": "Maya de Luna", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5179&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42867&streamencoding=mp31", 
+            "name": "Les ondes de survie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42868&streamencoding=mp31", 
+            "name": "Massive attache"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42869&streamencoding=mp31", 
+            "name": "Envers et contre toi"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42870&streamencoding=mp31", 
+            "name": "Vague \u00e0 l'\u00e2me"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42871&streamencoding=mp31", 
+            "name": "La griffe arrogante"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=42872&streamencoding=mp31", 
+            "name": "Reflet"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5179"
+}

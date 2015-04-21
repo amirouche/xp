@@ -1,0 +1,14 @@
+{
+    "name": "Just Over the Horizon (single)", 
+    "artist": "Exalted Dirt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125259&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061339&streamencoding=mp31", 
+            "name": "Just Over The Horizon"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125259"
+}

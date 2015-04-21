@@ -1,0 +1,59 @@
+{
+    "name": "Requiem pour un split", 
+    "artist": "ZAMALA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=925&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6007&streamencoding=mp31", 
+            "name": "25 Bombes"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6008&streamencoding=mp31", 
+            "name": "Earthmen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6010&streamencoding=mp31", 
+            "name": "Jobi Joba"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6011&streamencoding=mp31", 
+            "name": "Valse"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6012&streamencoding=mp31", 
+            "name": "L'or de la terre"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6013&streamencoding=mp31", 
+            "name": "Sunshine"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6014&streamencoding=mp31", 
+            "name": "Spirit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6015&streamencoding=mp31", 
+            "name": "Fallin"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6016&streamencoding=mp31", 
+            "name": "Earthmen (Version Dub)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=6017&streamencoding=mp31", 
+            "name": "Ma Bulle"
+        }
+    ], 
+    "release": "2005", 
+    "id": "925"
+}

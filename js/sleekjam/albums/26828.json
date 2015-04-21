@@ -1,0 +1,34 @@
+{
+    "name": "Transition", 
+    "artist": ".", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26828&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181398&streamencoding=mp31", 
+            "name": "Venice"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181415&streamencoding=mp31", 
+            "name": "Downtown"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181416&streamencoding=mp31", 
+            "name": "Fugue Fantasy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181417&streamencoding=mp31", 
+            "name": "If Your Lucky"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181793&streamencoding=mp31", 
+            "name": "Synphony of the Elders"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26828"
+}

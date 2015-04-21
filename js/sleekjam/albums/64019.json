@@ -1,0 +1,49 @@
+{
+    "name": "Prescription For Love Workshop", 
+    "artist": "Stellar Art Wars Free License", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64019&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549781&streamencoding=mp31", 
+            "name": "Prescription For Love"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549763&streamencoding=mp31", 
+            "name": "drums"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549764&streamencoding=mp31", 
+            "name": "guitar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549779&streamencoding=mp31", 
+            "name": "bvs"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549780&streamencoding=mp31", 
+            "name": "lead vox"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549782&streamencoding=mp31", 
+            "name": "bass"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549783&streamencoding=mp31", 
+            "name": "keys"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549784&streamencoding=mp31", 
+            "name": "organ"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64019"
+}

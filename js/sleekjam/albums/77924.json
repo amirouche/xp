@@ -1,0 +1,59 @@
+{
+    "name": "Leaving My Body", 
+    "artist": "YARDS OF SILK", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77924&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671734&streamencoding=mp31", 
+            "name": "Make A List"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671732&streamencoding=mp31", 
+            "name": "Sight"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671727&streamencoding=mp31", 
+            "name": "The Crust"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671729&streamencoding=mp31", 
+            "name": "High Times"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671724&streamencoding=mp31", 
+            "name": "I Think That You Should"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671726&streamencoding=mp31", 
+            "name": "Leaving My Body"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671728&streamencoding=mp31", 
+            "name": "Cents"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671723&streamencoding=mp31", 
+            "name": "I Was Wrong"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671733&streamencoding=mp31", 
+            "name": "The Separation"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671725&streamencoding=mp31", 
+            "name": "It's Morning Now"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77924"
+}

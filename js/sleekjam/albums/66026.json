@@ -1,0 +1,44 @@
+{
+    "name": "ChiaroScuro", 
+    "artist": "Guido Dolermo & Diego Zotti", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66026&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572078&streamencoding=mp31", 
+            "name": "Black Rainbow"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572227&streamencoding=mp31", 
+            "name": "Blue bass"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572082&streamencoding=mp31", 
+            "name": "Stranger"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572083&streamencoding=mp31", 
+            "name": "Folk"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572079&streamencoding=mp31", 
+            "name": "Shan Yu"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572080&streamencoding=mp31", 
+            "name": "Walking Wolf"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572077&streamencoding=mp31", 
+            "name": "Street"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66026"
+}

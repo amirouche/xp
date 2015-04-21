@@ -1,0 +1,79 @@
+{
+    "name": "Eclipse ( Reedit )", 
+    "artist": "Joel Reverdy  ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136934&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141457&streamencoding=mp31", 
+            "name": "Inconnu"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141468&streamencoding=mp31", 
+            "name": "Oracle"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141458&streamencoding=mp31", 
+            "name": "Plan\u00e9te R\u00e9ponse"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141459&streamencoding=mp31", 
+            "name": "Pr\u00e9monition"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141460&streamencoding=mp31", 
+            "name": "Symbol"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141461&streamencoding=mp31", 
+            "name": "Extr\u00e8me"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141462&streamencoding=mp31", 
+            "name": "Eclipse"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141463&streamencoding=mp31", 
+            "name": "Voyage"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141464&streamencoding=mp31", 
+            "name": "Delta"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141465&streamencoding=mp31", 
+            "name": "M\u00e9chanix"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141466&streamencoding=mp31", 
+            "name": "A pas de chat..."
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141467&streamencoding=mp31", 
+            "name": "Ailleurs"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141469&streamencoding=mp31", 
+            "name": "Ainsi soit ..."
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1141470&streamencoding=mp31", 
+            "name": "Le Chemin"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136934"
+}

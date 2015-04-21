@@ -1,0 +1,19 @@
+{
+    "name": "\u041c\u0430\u0445\u0442\u043e\u043f\u043a\u0438 \u0421\u043f\u0430\u0441\u0435\u043d\u0438\u0435 Part2", 
+    "artist": "\u041a\u0438\u0441\u043a\u0430", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118080&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1003349&streamencoding=mp31", 
+            "name": "\u0410\u043b\u043c\u0430\u0437\u044b\u041d\u0430\u043d\u043eOriginal"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1003350&streamencoding=mp31", 
+            "name": "\u0410\u043b\u043c\u0430\u0437\u044b\u041d\u0430\u043d\u043e"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118080"
+}

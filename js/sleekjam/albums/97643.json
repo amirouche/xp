@@ -1,0 +1,29 @@
+{
+    "name": "Demo", 
+    "artist": "Kali Deryav", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97643&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=834797&streamencoding=mp31", 
+            "name": "Horo se igrae"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=834794&streamencoding=mp31", 
+            "name": "Padjernska kopanitsa"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=834795&streamencoding=mp31", 
+            "name": "Valle e Pogradecit"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=834796&streamencoding=mp31", 
+            "name": "Edinaesetorca"
+        }
+    ], 
+    "release": "2011", 
+    "id": "97643"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "My Oldschool Minutes", 
+    "artist": "AlexObiLives", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77738&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670254&streamencoding=mp31", 
+            "name": "First"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670252&streamencoding=mp31", 
+            "name": "Sleepless No.1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670250&streamencoding=mp31", 
+            "name": "1, 2, Sound"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670253&streamencoding=mp31", 
+            "name": "My Old Radio"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670249&streamencoding=mp31", 
+            "name": "Fine"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=670251&streamencoding=mp31", 
+            "name": "Sleepless No.2"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77738"
+}

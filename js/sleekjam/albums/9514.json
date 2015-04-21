@@ -1,0 +1,14 @@
+{
+    "name": "Album", 
+    "artist": "G\u00b0\u00b0L Sampler", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9514&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94061&streamencoding=mp31", 
+            "name": "01 intro"
+        }
+    ], 
+    "release": "2007", 
+    "id": "9514"
+}

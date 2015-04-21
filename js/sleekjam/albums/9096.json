@@ -1,0 +1,44 @@
+{
+    "name": "SKYLIGHT EAGLE", 
+    "artist": "Karash", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9096&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=92423&streamencoding=mp31", 
+            "name": "Karash Clan"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=92422&streamencoding=mp31", 
+            "name": "Jamendo"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=92424&streamencoding=mp31", 
+            "name": "Walkin' on the Yellow Sun i"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=92425&streamencoding=mp31", 
+            "name": "Eagle Flight"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=92427&streamencoding=mp31", 
+            "name": "Haarlem Studio 3"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=92426&streamencoding=mp31", 
+            "name": "Project TriplX "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=92428&streamencoding=mp31", 
+            "name": "ALL IZ BABA"
+        }
+    ], 
+    "release": "2007", 
+    "id": "9096"
+}

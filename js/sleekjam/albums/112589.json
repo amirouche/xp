@@ -1,0 +1,59 @@
+{
+    "name": "One More Chance", 
+    "artist": "Stanley", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112589&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=957448&streamencoding=mp31", 
+            "name": "In His Image"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=957444&streamencoding=mp31", 
+            "name": "Narrow Way"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=957447&streamencoding=mp31", 
+            "name": "Show Me The Way"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=957440&streamencoding=mp31", 
+            "name": "We Adore You"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=957446&streamencoding=mp31", 
+            "name": "The Saviour Passes By"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=957442&streamencoding=mp31", 
+            "name": "Prodigal Son"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=957441&streamencoding=mp31", 
+            "name": "You Are My Light"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=957445&streamencoding=mp31", 
+            "name": "More Like You"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=957443&streamencoding=mp31", 
+            "name": "One More Chance"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=957439&streamencoding=mp31", 
+            "name": "Wipe Away My Tears"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112589"
+}

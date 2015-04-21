@@ -1,0 +1,44 @@
+{
+    "name": "M\u00faspel [CD1]", 
+    "artist": "V\u00e9gtam V\u00e1ltam", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33739&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225343&streamencoding=mp31", 
+            "name": "Primera Construcci\u00f3n"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225344&streamencoding=mp31", 
+            "name": "44"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225634&streamencoding=mp31", 
+            "name": "Sowel\u00fa"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225797&streamencoding=mp31", 
+            "name": "Othila"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=226558&streamencoding=mp31", 
+            "name": "Wunjo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=226648&streamencoding=mp31", 
+            "name": "Dos Glenn"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=226910&streamencoding=mp31", 
+            "name": "Reich"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33739"
+}

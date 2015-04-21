@@ -1,0 +1,49 @@
+{
+    "name": "Tetris Spirit", 
+    "artist": "Fatman On The Vibes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44470&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=334129&streamencoding=mp31", 
+            "name": "Funky Groovy Zambardi"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=334157&streamencoding=mp31", 
+            "name": "Tetris Spirit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=334172&streamencoding=mp31", 
+            "name": "Billie's Bounce"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=334207&streamencoding=mp31", 
+            "name": "Fat Lover"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=334689&streamencoding=mp31", 
+            "name": "So What"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=334706&streamencoding=mp31", 
+            "name": "Tutututu"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=334206&streamencoding=mp31", 
+            "name": "Tuba Mania"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=334208&streamencoding=mp31", 
+            "name": "Chameleon"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44470"
+}

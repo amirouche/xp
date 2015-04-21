@@ -1,0 +1,64 @@
+{
+    "name": "The Long Way Round", 
+    "artist": "Steve Clark", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109776&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935389&streamencoding=mp31", 
+            "name": "Life on the Road - Steve Clark"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935392&streamencoding=mp31", 
+            "name": "Cold Comfort - Steve Clark"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935391&streamencoding=mp31", 
+            "name": "I Walk Alone - Steve Clark"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935384&streamencoding=mp31", 
+            "name": "Anarchy (if it's OK) - Steve Clark"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935387&streamencoding=mp31", 
+            "name": "Same Kinda Feeling - Steve Clark"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935388&streamencoding=mp31", 
+            "name": "The Long Way Round - Steve Clark"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935383&streamencoding=mp31", 
+            "name": "Soul Bros - Steve Clark"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935390&streamencoding=mp31", 
+            "name": "Kiss and Tell - Steve Clark"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935385&streamencoding=mp31", 
+            "name": "One Day at a Time - Steve Clark"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935386&streamencoding=mp31", 
+            "name": "Deeper Kind of Love - Steve Clark"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935382&streamencoding=mp31", 
+            "name": "We Don't Know how Lucky we are - Steve Clark"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109776"
+}

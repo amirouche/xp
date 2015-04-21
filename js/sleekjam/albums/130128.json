@@ -1,0 +1,49 @@
+{
+    "name": "Peter lief durch den Wald", 
+    "artist": "Tambar Silenca", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130128&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091781&streamencoding=mp31", 
+            "name": "When you make your smile"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091782&streamencoding=mp31", 
+            "name": "Peter lief durch den Wald"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091783&streamencoding=mp31", 
+            "name": "It\u00b4s like a loop Maschine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091785&streamencoding=mp31", 
+            "name": "Tarma Schella"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091786&streamencoding=mp31", 
+            "name": "Dancing in the Dark"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091788&streamencoding=mp31", 
+            "name": "No more Anno 1861"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091789&streamencoding=mp31", 
+            "name": "Miles and More"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091802&streamencoding=mp31", 
+            "name": "R\u00eaves de Carnac"
+        }
+    ], 
+    "release": "2013", 
+    "id": "130128"
+}

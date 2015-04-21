@@ -1,0 +1,14 @@
+{
+    "name": "Reset my Blues (Featuring Peergynt Lobogris)", 
+    "artist": "Luis Zunel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135948&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1133292&streamencoding=mp31", 
+            "name": "Reset my Blues (Featuring Peergynt Lobogris)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135948"
+}

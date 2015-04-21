@@ -1,0 +1,54 @@
+{
+    "name": "Intersection of Communication", 
+    "artist": "Industriallasso", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135798&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132207&streamencoding=mp31", 
+            "name": "Treffen industrielle Musik"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132219&streamencoding=mp31", 
+            "name": "Clonaci\u00f3n Gen\u00e9tica"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132211&streamencoding=mp31", 
+            "name": "Hackers Intersection of Communication"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132231&streamencoding=mp31", 
+            "name": "Laberinto"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132226&streamencoding=mp31", 
+            "name": "Quinestesia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132228&streamencoding=mp31", 
+            "name": "Cheese Crystals"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132210&streamencoding=mp31", 
+            "name": "Poluci\u00f3n"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132217&streamencoding=mp31", 
+            "name": "Torre de Control"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132225&streamencoding=mp31", 
+            "name": "Teletransporte a la Dimensi\u00f3n X"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135798"
+}

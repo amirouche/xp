@@ -1,0 +1,19 @@
+{
+    "name": "Voy A Atracar Un Burguer", 
+    "artist": "TEDDY NOIS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23296&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160257&streamencoding=mp31", 
+            "name": "Voy A Atracar Un Burguer"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160258&streamencoding=mp31", 
+            "name": "Nena, Nena"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23296"
+}

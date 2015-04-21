@@ -1,0 +1,34 @@
+{
+    "name": "Todeskampf", 
+    "artist": "S\u00e5\u00f1a \u00d8lzk\u00e8 G\u00e6\u0161p\u00e4ns", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131623&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102816&streamencoding=mp31", 
+            "name": "Tr\u00e4umen \u00fcber Sonja"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102813&streamencoding=mp31", 
+            "name": "Todes- und Lebenssucht"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102814&streamencoding=mp31", 
+            "name": "Noch eine Traum ward verloren"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102815&streamencoding=mp31", 
+            "name": "Fliegen durch die Zeit"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102817&streamencoding=mp31", 
+            "name": "Die Traum Sonja zu vergessen"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131623"
+}

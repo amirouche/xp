@@ -1,0 +1,59 @@
+{
+    "name": "live demo", 
+    "artist": "Honey Lung", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34904&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=239716&streamencoding=mp31", 
+            "name": "misanthrope revenge"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=239720&streamencoding=mp31", 
+            "name": "alice"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=239718&streamencoding=mp31", 
+            "name": "electric sheep"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=239712&streamencoding=mp31", 
+            "name": "calm water"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=239717&streamencoding=mp31", 
+            "name": "vanity"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=239719&streamencoding=mp31", 
+            "name": "evangelatheist"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=239713&streamencoding=mp31", 
+            "name": "mountain eye"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=239715&streamencoding=mp31", 
+            "name": "virgin"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=239721&streamencoding=mp31", 
+            "name": "k9"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=239714&streamencoding=mp31", 
+            "name": "the big mess"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34904"
+}

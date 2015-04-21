@@ -1,0 +1,44 @@
+{
+    "name": "Renaissance", 
+    "artist": "N\u00eeCO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82728&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709187&streamencoding=mp31", 
+            "name": "Mr Funk"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709206&streamencoding=mp31", 
+            "name": "EversusD "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709191&streamencoding=mp31", 
+            "name": "Guitar Speak"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709205&streamencoding=mp31", 
+            "name": "La Respiration"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709189&streamencoding=mp31", 
+            "name": "Cellule de d\u00e8grisement"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709209&streamencoding=mp31", 
+            "name": "Telecomande"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709213&streamencoding=mp31", 
+            "name": "You hate me or love me"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82728"
+}

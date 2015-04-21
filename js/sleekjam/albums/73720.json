@@ -1,0 +1,149 @@
+{
+    "name": "In The House", 
+    "artist": "Guglielmo Brunelli ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73720&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636508&streamencoding=mp31", 
+            "name": "A Blue Cobalt Night"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636509&streamencoding=mp31", 
+            "name": "Disco Space"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636510&streamencoding=mp31", 
+            "name": "The Discovery Of Music"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636790&streamencoding=mp31", 
+            "name": "Overland"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636511&streamencoding=mp31", 
+            "name": "Evolution Of Music"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636512&streamencoding=mp31", 
+            "name": "They Call Me Trinity"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636528&streamencoding=mp31", 
+            "name": "Move It"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636529&streamencoding=mp31", 
+            "name": "electronic movement"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636530&streamencoding=mp31", 
+            "name": "HeadPhone"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636531&streamencoding=mp31", 
+            "name": "Dancing in the Caribbean"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636532&streamencoding=mp31", 
+            "name": "In the house"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636533&streamencoding=mp31", 
+            "name": "ocean bottom"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636534&streamencoding=mp31", 
+            "name": "astral connection"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636535&streamencoding=mp31", 
+            "name": "Electronic Mandolin"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636536&streamencoding=mp31", 
+            "name": "all time"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636537&streamencoding=mp31", 
+            "name": "blue bahia"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636538&streamencoding=mp31", 
+            "name": "Another Chance"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636539&streamencoding=mp31", 
+            "name": "Baby"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636540&streamencoding=mp31", 
+            "name": "hypnotic"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636541&streamencoding=mp31", 
+            "name": "Obsession"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636750&streamencoding=mp31", 
+            "name": "alert"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636751&streamencoding=mp31", 
+            "name": "violinist house"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636752&streamencoding=mp31", 
+            "name": "the violinist"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636753&streamencoding=mp31", 
+            "name": "AfroSound"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636754&streamencoding=mp31", 
+            "name": "breaking point"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636755&streamencoding=mp31", 
+            "name": "electron"
+        }, 
+        {
+            "position": 27, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636756&streamencoding=mp31", 
+            "name": "in the club"
+        }, 
+        {
+            "position": 28, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=636791&streamencoding=mp31", 
+            "name": "new generation"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73720"
+}

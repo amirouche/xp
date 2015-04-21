@@ -1,0 +1,84 @@
+{
+    "name": "SPACE ALBUM", 
+    "artist": "LUCKY VACANCES", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14608&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112580&streamencoding=mp31", 
+            "name": "take the bus"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112583&streamencoding=mp31", 
+            "name": "deprofondspace"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112585&streamencoding=mp31", 
+            "name": "from the space"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112819&streamencoding=mp31", 
+            "name": "new space one"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112589&streamencoding=mp31", 
+            "name": "fiesta de la luna"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112813&streamencoding=mp31", 
+            "name": "out of time"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112815&streamencoding=mp31", 
+            "name": "funny"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112816&streamencoding=mp31", 
+            "name": "Jungle space two"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112586&streamencoding=mp31", 
+            "name": "new space"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112822&streamencoding=mp31", 
+            "name": "soft space"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112824&streamencoding=mp31", 
+            "name": "space be"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112826&streamencoding=mp31", 
+            "name": "electro-rock space"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112829&streamencoding=mp31", 
+            "name": "rap space"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112830&streamencoding=mp31", 
+            "name": "black guitar"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112831&streamencoding=mp31", 
+            "name": "space balade"
+        }
+    ], 
+    "release": "2007", 
+    "id": "14608"
+}

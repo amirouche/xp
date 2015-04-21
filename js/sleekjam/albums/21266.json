@@ -1,0 +1,39 @@
+{
+    "name": "Intorno a me", 
+    "artist": "Stf", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21266&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148239&streamencoding=mp31", 
+            "name": "Paolino"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148240&streamencoding=mp31", 
+            "name": "Verso il bar il flute"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148273&streamencoding=mp31", 
+            "name": "Fiori sul balcone"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148343&streamencoding=mp31", 
+            "name": "Da due punti alla chiesa"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148349&streamencoding=mp31", 
+            "name": "Angolo e niente"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148350&streamencoding=mp31", 
+            "name": "Quando cade la gru"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21266"
+}

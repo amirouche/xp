@@ -1,0 +1,84 @@
+{
+    "name": "Les Bergers Fous", 
+    "artist": "JAC", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120013&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020546&streamencoding=mp31", 
+            "name": "DreadlocksBlues"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020548&streamencoding=mp31", 
+            "name": "Les Bergers Fous"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020551&streamencoding=mp31", 
+            "name": "Premiers Rancards"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020553&streamencoding=mp31", 
+            "name": "La panne"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020556&streamencoding=mp31", 
+            "name": "EvoluBlues (avec JM CORVISIER)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020557&streamencoding=mp31", 
+            "name": "Narcisse (avec Sarah A)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020558&streamencoding=mp31", 
+            "name": "Siliclon\u00e9e"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020559&streamencoding=mp31", 
+            "name": "AcoustiBlues"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020560&streamencoding=mp31", 
+            "name": "Lent de mon blues"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020574&streamencoding=mp31", 
+            "name": "N'\u00eatre qu'un avec toi"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020575&streamencoding=mp31", 
+            "name": "Te faire sourire"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020577&streamencoding=mp31", 
+            "name": "Symphonie chimique"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020578&streamencoding=mp31", 
+            "name": "Premiers rancards (accompagnement piano)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020579&streamencoding=mp31", 
+            "name": "Flyng"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020580&streamencoding=mp31", 
+            "name": "alta voice"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120013"
+}

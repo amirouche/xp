@@ -1,0 +1,74 @@
+{
+    "name": "ANALOG DIALOG", 
+    "artist": ".chicagoisthebirthplace", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54946&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460852&streamencoding=mp31", 
+            "name": "Propaganda, Myself."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460862&streamencoding=mp31", 
+            "name": "A Moment Alone"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460863&streamencoding=mp31", 
+            "name": "Zero D.C."
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460864&streamencoding=mp31", 
+            "name": "That's Sound Like A"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460865&streamencoding=mp31", 
+            "name": "Raise U"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460866&streamencoding=mp31", 
+            "name": "Detroit Debris"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460867&streamencoding=mp31", 
+            "name": "Metal III Ext."
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460868&streamencoding=mp31", 
+            "name": "Dnc"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460869&streamencoding=mp31", 
+            "name": "2099+"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460870&streamencoding=mp31", 
+            "name": "Old Acid School"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460871&streamencoding=mp31", 
+            "name": "d_beat"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460872&streamencoding=mp31", 
+            "name": "Motion"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460873&streamencoding=mp31", 
+            "name": "The Field"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54946"
+}

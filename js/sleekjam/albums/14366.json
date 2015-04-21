@@ -1,0 +1,54 @@
+{
+    "name": "Mr. Anderson", 
+    "artist": "Mr. Anderson", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14366&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112180&streamencoding=mp31", 
+            "name": "01.Mr. Anderson - El arroz se fue"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112198&streamencoding=mp31", 
+            "name": "02.Mr. Anderson - A Celebrar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112192&streamencoding=mp31", 
+            "name": "03.Mr. Anderson - Qu\u00edtate la venda"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112193&streamencoding=mp31", 
+            "name": "04.Mr. Anderson - Tengo algo que decirte"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112194&streamencoding=mp31", 
+            "name": "05.Mr. Anderson - Anhelos de progreso"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112195&streamencoding=mp31", 
+            "name": "06.Mr. Anderson - D\u00f3nde est\u00e1 - pap\u00e1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112196&streamencoding=mp31", 
+            "name": "07.Mr. Anderson - La cocoa caliente"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112197&streamencoding=mp31", 
+            "name": "08.Mr. Anderson - Loco enamorado"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112191&streamencoding=mp31", 
+            "name": "09.Mr. Anderson - Yo te quiero amar"
+        }
+    ], 
+    "release": "2007", 
+    "id": "14366"
+}

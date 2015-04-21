@@ -1,0 +1,54 @@
+{
+    "name": "before lightrin'", 
+    "artist": "l'arbre vert", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55619&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=469763&streamencoding=mp31", 
+            "name": "sugar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=469759&streamencoding=mp31", 
+            "name": "eclairement"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=469761&streamencoding=mp31", 
+            "name": "pittosporum"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=469766&streamencoding=mp31", 
+            "name": "loquace"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=469764&streamencoding=mp31", 
+            "name": "gneiss"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=469762&streamencoding=mp31", 
+            "name": "raifort"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=469765&streamencoding=mp31", 
+            "name": "ripaille"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=469825&streamencoding=mp31", 
+            "name": "sweating-system"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=469767&streamencoding=mp31", 
+            "name": "swap"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55619"
+}

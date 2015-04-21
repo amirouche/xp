@@ -1,0 +1,39 @@
+{
+    "name": "Punk & Roll", 
+    "artist": "Dekadentes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120437&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022855&streamencoding=mp31", 
+            "name": "No kiero"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022854&streamencoding=mp31", 
+            "name": "Fobia Nocturna"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022853&streamencoding=mp31", 
+            "name": "Tu a lo tuyo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022852&streamencoding=mp31", 
+            "name": "Pal Gobierno"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022851&streamencoding=mp31", 
+            "name": "La Dekadencia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022850&streamencoding=mp31", 
+            "name": "Perdido"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120437"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "The Arrival", 
+    "artist": "Utopia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111928&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951938&streamencoding=mp31", 
+            "name": "Utopia - The Arrival - Version 2"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951939&streamencoding=mp31", 
+            "name": "Utopia - Tribal Song"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951941&streamencoding=mp31", 
+            "name": "Utopia - Tribal Song II"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951943&streamencoding=mp31", 
+            "name": "Utopia - Terror Song"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951944&streamencoding=mp31", 
+            "name": "Utopia - Arabic Terror Song I"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951946&streamencoding=mp31", 
+            "name": "Utopia - A Guitarra de Metal"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951961&streamencoding=mp31", 
+            "name": "Utopia - Ents"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951962&streamencoding=mp31", 
+            "name": "Utopia - Golpe en la peque\u00f1a China"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951965&streamencoding=mp31", 
+            "name": "Utopia - Aliens Predator"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951976&streamencoding=mp31", 
+            "name": "Utopia - Ch\u00ednh ph\u1ee7 n\u00f3i d\u1ed1i"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951979&streamencoding=mp31", 
+            "name": "Utopia - Depredadores Espaciales"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951981&streamencoding=mp31", 
+            "name": "Utopia - La Torre de Babel"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111928"
+}

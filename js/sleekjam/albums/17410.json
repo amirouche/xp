@@ -1,0 +1,14 @@
+{
+    "name": "Fake!", 
+    "artist": "Minus Ion Generation", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17410&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149273&streamencoding=mp31", 
+            "name": "We're so fake!"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17410"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "PART VII - last rush", 
+    "artist": "Jesus first christ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7319&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79963&streamencoding=mp31", 
+            "name": "the corner"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79964&streamencoding=mp31", 
+            "name": "l'histoire de John mc laughan"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79965&streamencoding=mp31", 
+            "name": "encore"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79966&streamencoding=mp31", 
+            "name": "derni\u00e8re tuerie"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79986&streamencoding=mp31", 
+            "name": "Mixage final 107"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79987&streamencoding=mp31", 
+            "name": "love face"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80030&streamencoding=mp31", 
+            "name": "noir samp"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80099&streamencoding=mp31", 
+            "name": "rien ne vient bien"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7319"
+}

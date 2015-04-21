@@ -1,0 +1,54 @@
+{
+    "name": "Chosen People", 
+    "artist": "Dead Rooster", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40891&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=298231&streamencoding=mp31", 
+            "name": "Chuesh, myla"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=298248&streamencoding=mp31", 
+            "name": "Ahov, moji malenki chortenyata"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=298261&streamencoding=mp31", 
+            "name": "Beautiful.Karpaty"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=298269&streamencoding=mp31", 
+            "name": "Koly ty smieshsya"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=298271&streamencoding=mp31", 
+            "name": "My pomrem ne v Paryzhi"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=298290&streamencoding=mp31", 
+            "name": "Perevahy okupatsijnoho rezhymu"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=298295&streamencoding=mp31", 
+            "name": "Potsilunok"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=298303&streamencoding=mp31", 
+            "name": "And everybody fucks you"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=298307&streamencoding=mp31", 
+            "name": "Without you"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40891"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "The Second Night", 
+    "artist": "Psychotic Dreams", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96995&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829208&streamencoding=mp31", 
+            "name": "All Systems Are Ready"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829211&streamencoding=mp31", 
+            "name": "The Will of Doom"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829206&streamencoding=mp31", 
+            "name": "74"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829210&streamencoding=mp31", 
+            "name": "System Failure"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829207&streamencoding=mp31", 
+            "name": "Lonely Souls Dancing Around You"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829213&streamencoding=mp31", 
+            "name": "Digital Memories"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829212&streamencoding=mp31", 
+            "name": "Spiritual Power"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829214&streamencoding=mp31", 
+            "name": "Future in the Past"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829209&streamencoding=mp31", 
+            "name": "Sometimes I Feel I'm Not Perfect"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96995"
+}

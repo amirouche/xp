@@ -1,0 +1,19 @@
+{
+    "name": "\u0424\u0435\u0441\u0442\u0435\u0432\u0430\u043b\u044c2000!", 
+    "artist": "\u041a\u0438\u0441\u043a\u0430", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115964&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985097&streamencoding=mp31", 
+            "name": "\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u041a\u043e\u043d\u0444\u0435\u0442\u044b"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985098&streamencoding=mp31", 
+            "name": "\u0420\u0430\u0434\u0438\u043e \u0424\u0435\u0441\u0442\u0435\u0432\u0430\u043b\u044c"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115964"
+}

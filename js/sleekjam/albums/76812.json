@@ -1,0 +1,94 @@
+{
+    "name": "Hey Jos\u00e9 [2008]", 
+    "artist": "JoosTVD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76812&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662051&streamencoding=mp31", 
+            "name": "Mumbo Jumbo Heebie Jeebies"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662088&streamencoding=mp31", 
+            "name": "Violent Boy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662058&streamencoding=mp31", 
+            "name": "Making Faces"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662085&streamencoding=mp31", 
+            "name": "Hey Jos\u00e9"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662050&streamencoding=mp31", 
+            "name": "Used"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662089&streamencoding=mp31", 
+            "name": "Fat Check"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662086&streamencoding=mp31", 
+            "name": "Extend Your Life"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662090&streamencoding=mp31", 
+            "name": "Adder"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662053&streamencoding=mp31", 
+            "name": "Release The Kites"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662057&streamencoding=mp31", 
+            "name": "Follow You Like A Camera"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662049&streamencoding=mp31", 
+            "name": "Hot Skin Coral Deep"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662054&streamencoding=mp31", 
+            "name": "Fundament Of Fun"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662059&streamencoding=mp31", 
+            "name": "Ragman"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662056&streamencoding=mp31", 
+            "name": "Carnivore"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662052&streamencoding=mp31", 
+            "name": "Etno Stuff"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662087&streamencoding=mp31", 
+            "name": "Great"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=662084&streamencoding=mp31", 
+            "name": "Wonder"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76812"
+}

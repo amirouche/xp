@@ -1,0 +1,24 @@
+{
+    "name": "Demo 2007", 
+    "artist": "Moltencore", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24374&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166224&streamencoding=mp31", 
+            "name": "Moltencore - Beyond Your Comprehension"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166225&streamencoding=mp31", 
+            "name": "Moltencore - Lex Talionis (Law Of Retaliation)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166226&streamencoding=mp31", 
+            "name": "Moltencore - Violence Of Silence"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24374"
+}

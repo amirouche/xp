@@ -1,0 +1,24 @@
+{
+    "name": "samplersounds", 
+    "artist": "dj zou78", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51102&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414424&streamencoding=mp31", 
+            "name": "technoworld vibration dj zou78"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414425&streamencoding=mp31", 
+            "name": "dj zou78 teck house2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414427&streamencoding=mp31", 
+            "name": "technoid dj zou78 remix sound"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51102"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Karakalem - Demo v.2 (2007)", 
+    "artist": "Heaven Can Wait", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92704&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=790037&streamencoding=mp31", 
+            "name": "Karakalem - Bo\u015fluk"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=790052&streamencoding=mp31", 
+            "name": "Karakalem - Ellerini Hissetmek"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=790053&streamencoding=mp31", 
+            "name": "Karakalem - G\u00fcnahkar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=790054&streamencoding=mp31", 
+            "name": "Karakalem - Ka\u00e7\u0131\u015f Yok"
+        }
+    ], 
+    "release": "2011", 
+    "id": "92704"
+}

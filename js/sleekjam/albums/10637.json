@@ -1,0 +1,29 @@
+{
+    "name": "MESH DUBPLATES 2004 / 2005", 
+    "artist": "Mesh m18", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=10637&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98787&streamencoding=mp31", 
+            "name": "Mesh m18 - Dubplate Promising Crew (Heavenless riddim)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98790&streamencoding=mp31", 
+            "name": "Mesh m18 - Dubplate Angata Sound (Aaxia riddim)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98794&streamencoding=mp31", 
+            "name": "Mesh, KillaMic, Syntiz, Pompom, Difanga & Miko (NZH) - Dubplate Unity"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98797&streamencoding=mp31", 
+            "name": " Toubab All Stars featuring Mesh m18 - Man in the street"
+        }
+    ], 
+    "release": "2007", 
+    "id": "10637"
+}

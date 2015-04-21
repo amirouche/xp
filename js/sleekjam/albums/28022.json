@@ -1,0 +1,49 @@
+{
+    "name": "PREMIER PAS", 
+    "artist": "San'jyla", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28022&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187465&streamencoding=mp31", 
+            "name": "gaya"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187466&streamencoding=mp31", 
+            "name": "Les medias"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187467&streamencoding=mp31", 
+            "name": "utopie"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187511&streamencoding=mp31", 
+            "name": "fraternite"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187470&streamencoding=mp31", 
+            "name": "A 2 pas des halles"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187471&streamencoding=mp31", 
+            "name": "SAN"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187472&streamencoding=mp31", 
+            "name": "psychomatix"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187464&streamencoding=mp31", 
+            "name": "dub'topie"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28022"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Space Cake Breakz", 
+    "artist": "Xaviant Haze", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23807&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161440&streamencoding=mp31", 
+            "name": "MELT THE BUTTER"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161449&streamencoding=mp31", 
+            "name": "SAUTE THE HERBS"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161466&streamencoding=mp31", 
+            "name": "MAKE THE BROWNIES"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=161484&streamencoding=mp31", 
+            "name": "BAKE THE BROWNIES"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162370&streamencoding=mp31", 
+            "name": "LET'S EAT"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162375&streamencoding=mp31", 
+            "name": "STARTING 2 KICK IN"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162378&streamencoding=mp31", 
+            "name": "FEELING GOOD"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162496&streamencoding=mp31", 
+            "name": "FEELING BETTER"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162500&streamencoding=mp31", 
+            "name": "AFTERNOON AMSTERDAM BICYCLE STROLL"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162501&streamencoding=mp31", 
+            "name": "MUSEUM PANIC ATTACK"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162502&streamencoding=mp31", 
+            "name": "COMING DOWN AND GOING TO SLEEP"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23807"
+}

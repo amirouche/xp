@@ -1,0 +1,49 @@
+{
+    "name": "The praying machine", 
+    "artist": "1KA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96201&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822588&streamencoding=mp31", 
+            "name": "The dog's god"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822604&streamencoding=mp31", 
+            "name": "L'enfer du d\u00e9cor"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822632&streamencoding=mp31", 
+            "name": "Data sacrifice"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822660&streamencoding=mp31", 
+            "name": "Fonction fiction"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822665&streamencoding=mp31", 
+            "name": "Crossing holy wars"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822920&streamencoding=mp31", 
+            "name": "Remote belief"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822981&streamencoding=mp31", 
+            "name": "The praying machine"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822983&streamencoding=mp31", 
+            "name": "Tumo"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96201"
+}

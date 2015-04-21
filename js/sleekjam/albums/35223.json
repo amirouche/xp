@@ -1,0 +1,29 @@
+{
+    "name": "Sandi Hammond at The Nave", 
+    "artist": "ARTSomerville", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35223&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242814&streamencoding=mp31", 
+            "name": "Used"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242815&streamencoding=mp31", 
+            "name": "My Time Has Come"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242816&streamencoding=mp31", 
+            "name": "Just A Darkie"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242813&streamencoding=mp31", 
+            "name": "Since You've Gone"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35223"
+}

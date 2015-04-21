@@ -1,0 +1,691 @@
+{
+    "albums": [
+        {
+            "release": "2010", 
+            "artist": "Michel Casadei Della Chiesa", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64821&imagesize=100", 
+            "id": "64821", 
+            "name": "Approximations"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Paulo Barros", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54689&imagesize=100", 
+            "id": "54689", 
+            "name": "Preacher1"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "The fixer", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38476&imagesize=100", 
+            "id": "38476", 
+            "name": "FunkyGroove (single)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The fixer", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36833&imagesize=100", 
+            "id": "36833", 
+            "name": "Got Funk (single)"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "The TenGooz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41155&imagesize=100", 
+            "id": "41155", 
+            "name": "G-strings"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Drunkookies", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=16879&imagesize=100", 
+            "id": "16879", 
+            "name": "Primogen"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Undermouth", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18662&imagesize=100", 
+            "id": "18662", 
+            "name": "Undermouth"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Supersly", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125753&imagesize=100", 
+            "id": "125753", 
+            "name": "Supersly Sounds EP"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Manolis Moumouzias", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109158&imagesize=100", 
+            "id": "109158", 
+            "name": "Tired of 01010101 (U)"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Arbraunord", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119635&imagesize=100", 
+            "id": "119635", 
+            "name": "Apr\u00e8s les maths, 1 qui chante"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Plastic3", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114651&imagesize=100", 
+            "id": "114651", 
+            "name": "Funk Rock Energetic Music"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Pierre Lousse", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69075&imagesize=100", 
+            "id": "69075", 
+            "name": "Pierre's Funk"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Pfaff C\u00e4si", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104843&imagesize=100", 
+            "id": "104843", 
+            "name": "Heart"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Danubio Rodriguez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95731&imagesize=100", 
+            "id": "95731", 
+            "name": "Oscuridad"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Bounce Sugar", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106236&imagesize=100", 
+            "id": "106236", 
+            "name": "Short Tracks"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Bounce Sugar", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49257&imagesize=100", 
+            "id": "49257", 
+            "name": "Fonk it"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "OSKAR&BRUNO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102698&imagesize=100", 
+            "id": "102698", 
+            "name": "A un passo da te"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "funkbuffet", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116505&imagesize=100", 
+            "id": "116505", 
+            "name": "Bitte legen Sie nach!"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "SFT", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120019&imagesize=100", 
+            "id": "120019", 
+            "name": "Same Player tweet again"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Eleven 37s", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75926&imagesize=100", 
+            "id": "75926", 
+            "name": "Here Comes The Storm"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "BTS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100492&imagesize=100", 
+            "id": "100492", 
+            "name": "Who Goes There"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "puercoespines", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7119&imagesize=100", 
+            "id": "7119", 
+            "name": "Blancanieves II"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Elios Net", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119638&imagesize=100", 
+            "id": "119638", 
+            "name": "Full Moon"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "OMA\u2022GASH ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134490&imagesize=100", 
+            "id": "134490", 
+            "name": "SIRTECHNOMAMAFUNKY"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Liquid Clock", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60223&imagesize=100", 
+            "id": "60223", 
+            "name": "Sense of self"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Cyberdread", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35467&imagesize=100", 
+            "id": "35467", 
+            "name": "MWep0005 - Do U Wanna Dance?"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Cyberdread", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108816&imagesize=100", 
+            "id": "108816", 
+            "name": "CYBERDREAD meets Aba Made Sound"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "PACOTIEMPO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21460&imagesize=100", 
+            "id": "21460", 
+            "name": "Hacia el Sur"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "BobBy BuRNs", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86150&imagesize=100", 
+            "id": "86150", 
+            "name": "cosmic creckers 2003 + demo 2004 + demo 2002"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Jug of Jam", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79555&imagesize=100", 
+            "id": "79555", 
+            "name": "(-)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Luis Zunel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77283&imagesize=100", 
+            "id": "77283", 
+            "name": "Ultimate Funk"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Luis Zunel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101037&imagesize=100", 
+            "id": "101037", 
+            "name": "Super Fusion Unit (Featuring Peergynt Lobogris)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Luis Zunel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93346&imagesize=100", 
+            "id": "93346", 
+            "name": "Acelerando tus part\u00edculas (feat. PeerGynt Lobogris y Juaniblus)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "PremiumMusic (Instrumental Version)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116548&imagesize=100", 
+            "id": "116548", 
+            "name": "Jazz Masterpieces Good Old Swing Ragtime Instrumental Album n\u00b083"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "FOXAPET", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80481&imagesize=100", 
+            "id": "80481", 
+            "name": "Funky Contraptions"
+        }, 
+        {
+            "release": "2005", 
+            "artist": "FOXAPET", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=621&imagesize=100", 
+            "id": "621", 
+            "name": "P-F-M"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "FOXAPET", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15493&imagesize=100", 
+            "id": "15493", 
+            "name": "PFM v2"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Instantperson", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126323&imagesize=100", 
+            "id": "126323", 
+            "name": "Groovy Bones"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "4eyedfish", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35675&imagesize=100", 
+            "id": "35675", 
+            "name": "Right in Time I (Studio Demo)"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Bellanger Jacques jbabebel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129438&imagesize=100", 
+            "id": "129438", 
+            "name": "Th\u00e9-orie"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Aba Made Sound", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114444&imagesize=100", 
+            "id": "114444", 
+            "name": "NU AFROBEAT"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Bielebny", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27947&imagesize=100", 
+            "id": "27947", 
+            "name": "Schizoidalna Marcepanownia"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Bielebny", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27928&imagesize=100", 
+            "id": "27928", 
+            "name": "Funkdafucap"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Bielebny", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72562&imagesize=100", 
+            "id": "72562", 
+            "name": "Ambitus"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Bielebny", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27900&imagesize=100", 
+            "id": "27900", 
+            "name": "Dziw Niesie Czuje"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Bielebny", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36029&imagesize=100", 
+            "id": "36029", 
+            "name": "iutro'"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Gianfredo Konig", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104672&imagesize=100", 
+            "id": "104672", 
+            "name": "Photos Of Ghosts"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Panray", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24589&imagesize=100", 
+            "id": "24589", 
+            "name": "mak.2"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Pulse of insight", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9252&imagesize=100", 
+            "id": "9252", 
+            "name": "da HIT THE CENTRE"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Oranseil", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122786&imagesize=100", 
+            "id": "122786", 
+            "name": "Anne With Jane"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Jareed", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41920&imagesize=100", 
+            "id": "41920", 
+            "name": "One Way"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Bruno Susio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69673&imagesize=100", 
+            "id": "69673", 
+            "name": "Bruno's Groove"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Massimo Primiero", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125266&imagesize=100", 
+            "id": "125266", 
+            "name": "Beach Volleyball"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Leo Bowers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136172&imagesize=100", 
+            "id": "136172", 
+            "name": "Curiosity"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Leo Bowers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123706&imagesize=100", 
+            "id": "123706", 
+            "name": "Say My Name"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Zaharov Valery", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104685&imagesize=100", 
+            "id": "104685", 
+            "name": "Christmas Funky Rag Time (single)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Big BaMa & Dexa", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58901&imagesize=100", 
+            "id": "58901", 
+            "name": "L'Amore"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Slap Stick", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85832&imagesize=100", 
+            "id": "85832", 
+            "name": "La Traviesa Magica"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Urtzi Azkue", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89394&imagesize=100", 
+            "id": "89394", 
+            "name": "In This Small Space"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Gustavo Crochenci", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133805&imagesize=100", 
+            "id": "133805", 
+            "name": "No te detengas"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "FOOL DADAZ FIRE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=973&imagesize=100", 
+            "id": "973", 
+            "name": "MAIS 69?"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "SeBTeiX", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31511&imagesize=100", 
+            "id": "31511", 
+            "name": "tout pour le groove"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Kiff'On", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21902&imagesize=100", 
+            "id": "21902", 
+            "name": "Miss France"
+        }, 
+        {
+            "release": "2005", 
+            "artist": "Kiff'On", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=139&imagesize=100", 
+            "id": "139", 
+            "name": "N\u00e9s Funky"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Cliffhanger", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37414&imagesize=100", 
+            "id": "37414", 
+            "name": "Comb your hair"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "SLEEYO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125321&imagesize=100", 
+            "id": "125321", 
+            "name": "THA WORST OF SLEEYO ''are ya kiddin' man?!"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "SLEEYO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135375&imagesize=100", 
+            "id": "135375", 
+            "name": "MY FUNKY SOUL"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Music Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26565&imagesize=100", 
+            "id": "26565", 
+            "name": "Il Nuovo Secolo Americano (The New American Century)"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Akashic Records", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136320&imagesize=100", 
+            "id": "136320", 
+            "name": "Bass And Drums Funky Groove"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "REOPLA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18719&imagesize=100", 
+            "id": "18719", 
+            "name": "surtido selecto"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Atomik Clocks", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63569&imagesize=100", 
+            "id": "63569", 
+            "name": "Live Promo 2010 DEMO"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Raphael Pistachio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97773&imagesize=100", 
+            "id": "97773", 
+            "name": "Funky Standup"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Raphael Pistachio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37988&imagesize=100", 
+            "id": "37988", 
+            "name": "Orange Grooves"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "BLS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101040&imagesize=100", 
+            "id": "101040", 
+            "name": "Kaeofunkarool"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Big BaMa", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61126&imagesize=100", 
+            "id": "61126", 
+            "name": "L'Ultimo Dei Primi "
+        }, 
+        {
+            "release": "2008", 
+            "artist": "AZepFliy*", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21724&imagesize=100", 
+            "id": "21724", 
+            "name": "ZZ* FunkiBlue Rock'and Rol ."
+        }, 
+        {
+            "release": "2012", 
+            "artist": "EffeBros Fattanza Brothers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116417&imagesize=100", 
+            "id": "116417", 
+            "name": "Live al Panigale "
+        }, 
+        {
+            "release": "2007", 
+            "artist": "St Adam", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6142&imagesize=100", 
+            "id": "6142", 
+            "name": "Adam's Single"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "St Adam", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5810&imagesize=100", 
+            "id": "5810", 
+            "name": "my second album"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Monstro Mau", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128165&imagesize=100", 
+            "id": "128165", 
+            "name": "Mostro o Meu Monstro Mau"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Schizzofunk", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92903&imagesize=100", 
+            "id": "92903", 
+            "name": "Manhattan"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Schizzofunk", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26656&imagesize=100", 
+            "id": "26656", 
+            "name": "INDIRECTO"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Rataxes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133602&imagesize=100", 
+            "id": "133602", 
+            "name": "The Bell"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Rataxes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110460&imagesize=100", 
+            "id": "110460", 
+            "name": "Song for Jim (Three Wise Men)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Rataxes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111271&imagesize=100", 
+            "id": "111271", 
+            "name": "We're The Party"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Rataxes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72135&imagesize=100", 
+            "id": "72135", 
+            "name": "Jump n Bounce"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0410\u043a\u043a\u0435\u0440\u043c\u0430\u043d\u0441\u043a\u0438\u0439", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51185&imagesize=100", 
+            "id": "51185", 
+            "name": "\u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u0440\u0430\u0441\u043f\u043b\u0430\u0442\u044b"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "FunkyJu", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135731&imagesize=100", 
+            "id": "135731", 
+            "name": "The Escape"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Briovere Buffentis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30937&imagesize=100", 
+            "id": "30937", 
+            "name": "Funky routine (31)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Briovere Buffentis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96788&imagesize=100", 
+            "id": "96788", 
+            "name": "Punk Funk (41)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Bronxson Project", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64653&imagesize=100", 
+            "id": "64653", 
+            "name": "Vol.2"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "FUll Faya Orchestra", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25593&imagesize=100", 
+            "id": "25593", 
+            "name": "Full Faya Orchestra"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "DIXIT", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4174&imagesize=100", 
+            "id": "4174", 
+            "name": "R\u00e9surexits\u00e9cutDixitall\u00e9lluia"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Soul", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118506&imagesize=100", 
+            "id": "118506", 
+            "name": "FAKE"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Bubbamusic", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48239&imagesize=100", 
+            "id": "48239", 
+            "name": "Hubba-Bubba"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Angus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32829&imagesize=100", 
+            "id": "32829", 
+            "name": "the best of me vol.2"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Angus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125777&imagesize=100", 
+            "id": "125777", 
+            "name": "INSTANT FUNK"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "ninopeme", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35050&imagesize=100", 
+            "id": "35050", 
+            "name": "tricias"
+        }
+    ], 
+    "name": "Funk"
+}

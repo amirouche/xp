@@ -1,0 +1,68 @@
+{
+    "albums": [
+        {
+            "release": "2010", 
+            "artist": "Gods Under Acid", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64197&imagesize=100", 
+            "id": "64197", 
+            "name": "Schizophrenia"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "tAmC?", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46616&imagesize=100", 
+            "id": "46616", 
+            "name": "tAmC 1st Session - At Afternoon night with carlestor and cousins 1 & 2"
+        }, 
+        {
+            "release": "2005", 
+            "artist": "Le P'tit Jean", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113&imagesize=100", 
+            "id": "113", 
+            "name": "12 Petits Chants"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Gerett Hill", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35575&imagesize=100", 
+            "id": "35575", 
+            "name": "CNG Autum"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Sur Non", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43142&imagesize=100", 
+            "id": "43142", 
+            "name": "POP"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Shakerobba", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36637&imagesize=100", 
+            "id": "36637", 
+            "name": "Shakerobba"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Keith Forbes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114971&imagesize=100", 
+            "id": "114971", 
+            "name": "Most Incredible"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Theo Dege", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71738&imagesize=100", 
+            "id": "71738", 
+            "name": "kleine Extras"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Non-return point", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41412&imagesize=100", 
+            "id": "41412", 
+            "name": "Heroes of a life"
+        }
+    ], 
+    "name": "Christian Rap"
+}

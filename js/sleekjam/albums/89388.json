@@ -1,0 +1,24 @@
+{
+    "name": "Source Of Evil", 
+    "artist": "Bartuc", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89388&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763418&streamencoding=mp31", 
+            "name": "Bartuc - Source Of Evil"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763417&streamencoding=mp31", 
+            "name": "Bartuc - Eye Of The Angel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=763416&streamencoding=mp31", 
+            "name": "Bartuc - Unhappy Love"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89388"
+}

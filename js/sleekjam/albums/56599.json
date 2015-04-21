@@ -1,0 +1,44 @@
+{
+    "name": "moribond - second", 
+    "artist": "moribond", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56599&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479928&streamencoding=mp31", 
+            "name": "Un nouvel horizon - moribond"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479930&streamencoding=mp31", 
+            "name": "Le feu rouge - moribond"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479933&streamencoding=mp31", 
+            "name": "Contraint de s'abstenir - moribond"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479950&streamencoding=mp31", 
+            "name": "A contre courant - moribond"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=479964&streamencoding=mp31", 
+            "name": "Ca devait arriver - moribond"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480006&streamencoding=mp31", 
+            "name": "Le jugement - moribond"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480040&streamencoding=mp31", 
+            "name": "Pour que jamais notre amour ne s'acheve - moribond"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56599"
+}

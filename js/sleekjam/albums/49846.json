@@ -1,0 +1,99 @@
+{
+    "name": "Resolution", 
+    "artist": "Julien Boulier", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49846&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399350&streamencoding=mp31", 
+            "name": "Arbre transparence"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399353&streamencoding=mp31", 
+            "name": "Fusain ellipse"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399355&streamencoding=mp31", 
+            "name": "Choral lumi\u00e8re"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399356&streamencoding=mp31", 
+            "name": "Arbre entit\u00e9"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399359&streamencoding=mp31", 
+            "name": "Ambre verre"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399360&streamencoding=mp31", 
+            "name": "Resolution ethno"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399361&streamencoding=mp31", 
+            "name": "Fusain immersion"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399401&streamencoding=mp31", 
+            "name": "Mystery Celtes"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399425&streamencoding=mp31", 
+            "name": "Alchemy strange"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399447&streamencoding=mp31", 
+            "name": "Amber ice"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399452&streamencoding=mp31", 
+            "name": "Choral december"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399462&streamencoding=mp31", 
+            "name": "Fusain pr\u00e9sence"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399463&streamencoding=mp31", 
+            "name": "Resolution night"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399465&streamencoding=mp31", 
+            "name": "Remanence Ranville"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399500&streamencoding=mp31", 
+            "name": "Ambre Saule"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399524&streamencoding=mp31", 
+            "name": "Alchemy rain"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399525&streamencoding=mp31", 
+            "name": "Way north"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399526&streamencoding=mp31", 
+            "name": "Fusain Mesnil"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49846"
+}

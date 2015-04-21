@@ -1,0 +1,34 @@
+{
+    "name": "Hard Rock Pop Epic Guitar Dark Moon Theme Instrumental Album n\u00b081", 
+    "artist": "PremiumMusic (Instrumental Version)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116546&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990723&streamencoding=mp31", 
+            "name": "Hard Rock Pop Epic Dark Moon Theme"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990720&streamencoding=mp31", 
+            "name": "Hard Rock Pop Epic Guitar Legend"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990721&streamencoding=mp31", 
+            "name": "Hard Rock Pop Motivating Driver Action"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990722&streamencoding=mp31", 
+            "name": "Hard Rock Pop Motivating Overdrive Guitar"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990724&streamencoding=mp31", 
+            "name": "Hard Rock Pop Powerful Action Guitar"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116546"
+}

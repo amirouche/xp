@@ -1,0 +1,114 @@
+{
+    "name": "I ROCK ONE (12)", 
+    "artist": "Briovere Buffentis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55322&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455282&streamencoding=mp31", 
+            "name": "Goldenboys"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455294&streamencoding=mp31", 
+            "name": "Obsession"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455281&streamencoding=mp31", 
+            "name": "Car_Test"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455287&streamencoding=mp31", 
+            "name": "The_Persuaders II"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455291&streamencoding=mp31", 
+            "name": "Airport"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455289&streamencoding=mp31", 
+            "name": "Cool Speed"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455280&streamencoding=mp31", 
+            "name": "Waiting For Her"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455283&streamencoding=mp31", 
+            "name": "Black Clouds"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455284&streamencoding=mp31", 
+            "name": "Introduction In Gore"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455290&streamencoding=mp31", 
+            "name": "Heavy"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455292&streamencoding=mp31", 
+            "name": "Why Not"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455293&streamencoding=mp31", 
+            "name": "Suburban Train"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455297&streamencoding=mp31", 
+            "name": "Lunatic"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455295&streamencoding=mp31", 
+            "name": "The Hurting"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455301&streamencoding=mp31", 
+            "name": "Crescendo"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455298&streamencoding=mp31", 
+            "name": "Regrets"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455306&streamencoding=mp31", 
+            "name": "Watch Me Now"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455299&streamencoding=mp31", 
+            "name": "Tension"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455302&streamencoding=mp31", 
+            "name": "Distorsions"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455305&streamencoding=mp31", 
+            "name": "Marsh Blues"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=455307&streamencoding=mp31", 
+            "name": "Sudden Happiness"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55322"
+}

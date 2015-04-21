@@ -1,0 +1,29 @@
+{
+    "name": "Nere Meccaniche", 
+    "artist": "Dagon Lorai", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81558&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699234&streamencoding=mp31", 
+            "name": "Il clero"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699235&streamencoding=mp31", 
+            "name": "Nere meccaniche"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699236&streamencoding=mp31", 
+            "name": "La centrale dell'arte"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699237&streamencoding=mp31", 
+            "name": "SLA"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81558"
+}

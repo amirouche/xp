@@ -1,0 +1,139 @@
+{
+    "name": "Chillout Background Relaxing Enigma Music", 
+    "artist": "Plastic3", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133813&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119725&streamencoding=mp31", 
+            "name": "Enigma"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119734&streamencoding=mp31", 
+            "name": "Heavenly Chill Guitar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119745&streamencoding=mp31", 
+            "name": "Lounge"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119746&streamencoding=mp31", 
+            "name": "Background Chillout"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119722&streamencoding=mp31", 
+            "name": "Heavenly Guitar Remix"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119742&streamencoding=mp31", 
+            "name": "Enigma Loop 1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119729&streamencoding=mp31", 
+            "name": "Enigma Loop 2"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119743&streamencoding=mp31", 
+            "name": "Enigma Loop 3"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119732&streamencoding=mp31", 
+            "name": "Enigma Loop 4"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119723&streamencoding=mp31", 
+            "name": "Enigma Loop 5"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119736&streamencoding=mp31", 
+            "name": "Enigma Loop 6"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119735&streamencoding=mp31", 
+            "name": "Enigma Logo (30 sec)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119728&streamencoding=mp31", 
+            "name": "Heavenly Guitar Loop 1"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119744&streamencoding=mp31", 
+            "name": "Heavenly Guitar Loop 2"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119731&streamencoding=mp31", 
+            "name": "Heavenly Guitar Loop 3"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119738&streamencoding=mp31", 
+            "name": "Heavenly Guitar Logo"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119737&streamencoding=mp31", 
+            "name": "Lounge Loop 1"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119726&streamencoding=mp31", 
+            "name": "Lounge Loop 2"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119741&streamencoding=mp31", 
+            "name": "Lounge Loop 3"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119730&streamencoding=mp31", 
+            "name": "Lounge Loop 4"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119747&streamencoding=mp31", 
+            "name": "Lounge Loop 5"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119724&streamencoding=mp31", 
+            "name": "Lounge Logo"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119733&streamencoding=mp31", 
+            "name": "Background Chillout Loop 1"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119739&streamencoding=mp31", 
+            "name": "Background Chillout Loop 2"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119727&streamencoding=mp31", 
+            "name": "Background Chillout Loop 3"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1119740&streamencoding=mp31", 
+            "name": "Background Chillout Logo"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133813"
+}

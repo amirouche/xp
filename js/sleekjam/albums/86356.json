@@ -1,0 +1,69 @@
+{
+    "name": "the Self Portrait of Ana Kinder", 
+    "artist": "the Desired Constellation", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86356&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=738828&streamencoding=mp31", 
+            "name": "The Alternate"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=738822&streamencoding=mp31", 
+            "name": "The Emergent"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=738826&streamencoding=mp31", 
+            "name": "The Different part 1"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=738829&streamencoding=mp31", 
+            "name": "The Endangered"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=738820&streamencoding=mp31", 
+            "name": "The Urban"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=738821&streamencoding=mp31", 
+            "name": "The Different part 2"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=738824&streamencoding=mp31", 
+            "name": "The Escapist"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=738830&streamencoding=mp31", 
+            "name": "The Mad"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=738825&streamencoding=mp31", 
+            "name": "The Silent"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=738823&streamencoding=mp31", 
+            "name": "The Unwashed"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=738827&streamencoding=mp31", 
+            "name": "The Different part 3"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=738819&streamencoding=mp31", 
+            "name": "The Bearded"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86356"
+}

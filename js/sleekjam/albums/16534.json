@@ -1,0 +1,14 @@
+{
+    "name": "[Rose_blanche] EP", 
+    "artist": "Happiness Project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=16534&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120217&streamencoding=mp31", 
+            "name": "rose blanche master"
+        }
+    ], 
+    "release": "2007", 
+    "id": "16534"
+}

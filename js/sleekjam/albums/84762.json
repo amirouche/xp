@@ -1,0 +1,34 @@
+{
+    "name": "Banner of Illusions", 
+    "artist": "Data Collaborate", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84762&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=725534&streamencoding=mp31", 
+            "name": "Fall in love"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=725530&streamencoding=mp31", 
+            "name": "Moon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=725531&streamencoding=mp31", 
+            "name": "Forest Effect"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=725533&streamencoding=mp31", 
+            "name": "Trident"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=725532&streamencoding=mp31", 
+            "name": "Small rocks knocks"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84762"
+}

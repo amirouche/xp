@@ -1,0 +1,24 @@
+{
+    "name": "The Origin", 
+    "artist": "Chemical Waves", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105882&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899563&streamencoding=mp31", 
+            "name": "The Origin"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899564&streamencoding=mp31", 
+            "name": "The Last Straw"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899565&streamencoding=mp31", 
+            "name": "The Origin (The HeadCase Remix)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "105882"
+}

@@ -1,0 +1,54 @@
+{
+    "albums": [
+        {
+            "release": "2011", 
+            "artist": "Gustnado", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86866&imagesize=100", 
+            "id": "86866", 
+            "name": "Hallucination Boulevard"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Azthma", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98769&imagesize=100", 
+            "id": "98769", 
+            "name": "Blood Sucker B-Sides"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Dhalius", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92747&imagesize=100", 
+            "id": "92747", 
+            "name": "Washington"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Sam Clanton", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31227&imagesize=100", 
+            "id": "31227", 
+            "name": "do what i can SAM CLANTON demo"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Leo Bowers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131058&imagesize=100", 
+            "id": "131058", 
+            "name": "Thinking of You"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "clbustos", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35147&imagesize=100", 
+            "id": "35147", 
+            "name": "Banda Sonora \"Los Angeles Ladrones\""
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Kelly Allyn", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7057&imagesize=100", 
+            "id": "7057", 
+            "name": "Getting Back From Where I've Been"
+        }
+    ], 
+    "name": "Southern Rock"
+}

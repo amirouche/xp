@@ -1,0 +1,84 @@
+{
+    "name": "Anitek Instrumentals Vol. 8", 
+    "artist": "Anitek", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90022&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768432&streamencoding=mp31", 
+            "name": "Grandmaster Turtle"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768436&streamencoding=mp31", 
+            "name": "Flight To Geneva"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768444&streamencoding=mp31", 
+            "name": "The Arrival"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768443&streamencoding=mp31", 
+            "name": "Mr. Monster Man"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768441&streamencoding=mp31", 
+            "name": "Turkey Neck Sandwich"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768434&streamencoding=mp31", 
+            "name": "Raining Rome"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768442&streamencoding=mp31", 
+            "name": "Suisse Connection"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768438&streamencoding=mp31", 
+            "name": "Shower Floor"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768437&streamencoding=mp31", 
+            "name": "Panda"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768433&streamencoding=mp31", 
+            "name": "Authorization"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768430&streamencoding=mp31", 
+            "name": "Lost Hours"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768435&streamencoding=mp31", 
+            "name": "Balcony Photography"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768427&streamencoding=mp31", 
+            "name": "Six Head"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768428&streamencoding=mp31", 
+            "name": "Asleep Again"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768398&streamencoding=mp31", 
+            "name": "Ant Invasion"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90022"
+}

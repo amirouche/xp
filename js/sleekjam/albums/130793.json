@@ -1,0 +1,59 @@
+{
+    "name": "Maldito Petroleo", 
+    "artist": "MontesProject", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130793&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096722&streamencoding=mp31", 
+            "name": "ECOSISTEMA FINITO"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096725&streamencoding=mp31", 
+            "name": "PROSPECCIONES"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096726&streamencoding=mp31", 
+            "name": "REQUIEM POR LA TIERRA"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096727&streamencoding=mp31", 
+            "name": "SIN FRONTERAS"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096728&streamencoding=mp31", 
+            "name": "MARE MORTIS"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096729&streamencoding=mp31", 
+            "name": "GAS INNATURAL"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096730&streamencoding=mp31", 
+            "name": "FRACKING"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096731&streamencoding=mp31", 
+            "name": "ENERGIA MUERTA"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096732&streamencoding=mp31", 
+            "name": "MAREA NEGRA"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096733&streamencoding=mp31", 
+            "name": "ODA A LAS RENOVABLES"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130793"
+}

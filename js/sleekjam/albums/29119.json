@@ -1,0 +1,44 @@
+{
+    "name": "united spots of puberty", 
+    "artist": "Thorben Rohling", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29119&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=195098&streamencoding=mp31", 
+            "name": "americanpredators preparing breakfast"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=195099&streamencoding=mp31", 
+            "name": "three arabian slips on one sofa"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=195100&streamencoding=mp31", 
+            "name": "ugly prince juniors hopeless & boring glory"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=195101&streamencoding=mp31", 
+            "name": "the teleporter brings her bones into his bed"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=195102&streamencoding=mp31", 
+            "name": "one chainsaw and two children"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=195103&streamencoding=mp31", 
+            "name": "russian fishermen finds a real mermaid and eats her"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=195097&streamencoding=mp31", 
+            "name": "descret direction of a secret erection"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29119"
+}

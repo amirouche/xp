@@ -1,0 +1,64 @@
+{
+    "name": "I-Transport", 
+    "artist": "Eftos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113449&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964744&streamencoding=mp31", 
+            "name": "Eftos - Sanatory on the hill"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964745&streamencoding=mp31", 
+            "name": "Eftos - Sci-Fi reality"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964746&streamencoding=mp31", 
+            "name": "Eftos - Four ways of transport"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964747&streamencoding=mp31", 
+            "name": "Eftos - Mending away"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964748&streamencoding=mp31", 
+            "name": "Eftos - Ich-Transportik"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964749&streamencoding=mp31", 
+            "name": "Eftos - Building armory"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964750&streamencoding=mp31", 
+            "name": "Eftos - Clear blurring"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964751&streamencoding=mp31", 
+            "name": "Eftos - Memorabila"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964752&streamencoding=mp31", 
+            "name": "Eftos - Exa-HA"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964753&streamencoding=mp31", 
+            "name": "Eftos - Waves of the centerfold"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964754&streamencoding=mp31", 
+            "name": "Eftos - Aftermath"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113449"
+}

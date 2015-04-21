@@ -1,0 +1,44 @@
+{
+    "name": "OrganiXperiment", 
+    "artist": "Juanitos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112382&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955763&streamencoding=mp31", 
+            "name": "This Is Jerk"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955762&streamencoding=mp31", 
+            "name": "Ungawa's Funky "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955767&streamencoding=mp31", 
+            "name": "Evan Evans"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955764&streamencoding=mp31", 
+            "name": "Riding in the Beach"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955765&streamencoding=mp31", 
+            "name": "Pump it up Reggay"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955768&streamencoding=mp31", 
+            "name": "Dong Dong party"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955766&streamencoding=mp31", 
+            "name": "Holidays Blues"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112382"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Arte nel rumorE VOL I", 
+    "artist": "Arte nel rumorE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69256&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598397&streamencoding=mp31", 
+            "name": "Jellyfish lost in space by Xxena"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598390&streamencoding=mp31", 
+            "name": "Noise & Vibration Works by Tiziano Milani"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=599410&streamencoding=mp31", 
+            "name": "Vaselina sociale by pain in the ass"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598391&streamencoding=mp31", 
+            "name": "SAMBA n1 by OLDROS"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598396&streamencoding=mp31", 
+            "name": "In rapido moto III by Alfonso Tregua"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598386&streamencoding=mp31", 
+            "name": "Riappropriarsi della fabbrica (manifesto della rivolta futurista Pt.1) by TSIDMZ"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598389&streamencoding=mp31", 
+            "name": "Noise with apparitions by Gabran"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598393&streamencoding=mp31", 
+            "name": "Macchina ad avviamento automatico by CircumLiver"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598384&streamencoding=mp31", 
+            "name": "Dinamismo di un tarlo by DBPIT"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598387&streamencoding=mp31", 
+            "name": "Kung Lfo by Adrenochrome"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598392&streamencoding=mp31", 
+            "name": "Sindrome  by  L.C.B."
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598385&streamencoding=mp31", 
+            "name": "Il canto delle megattere by $pace Vampires"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598388&streamencoding=mp31", 
+            "name": "Synphony machine by Black Dreams"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598394&streamencoding=mp31", 
+            "name": "1 by LLS04"
+        }
+    ], 
+    "release": "2010", 
+    "id": "69256"
+}

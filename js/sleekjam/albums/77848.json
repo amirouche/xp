@@ -1,0 +1,49 @@
+{
+    "name": "Trip solombre ", 
+    "artist": "SHAMATRONIC", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77848&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671240&streamencoding=mp31", 
+            "name": "PEIRE CARDENAL"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671252&streamencoding=mp31", 
+            "name": "TROLLS"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671253&streamencoding=mp31", 
+            "name": "INTENSE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671254&streamencoding=mp31", 
+            "name": "DANDELION"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671255&streamencoding=mp31", 
+            "name": "WEEPING WIDOW"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671256&streamencoding=mp31", 
+            "name": "AIGA"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671257&streamencoding=mp31", 
+            "name": "SQUATTING MY HEAD"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671258&streamencoding=mp31", 
+            "name": "UN SOMI"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77848"
+}

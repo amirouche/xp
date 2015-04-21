@@ -1,0 +1,34 @@
+{
+    "name": "Shuffle", 
+    "artist": "D\u00e9mon Sonore", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28794&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192746&streamencoding=mp31", 
+            "name": "The Danger Shuffle"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192744&streamencoding=mp31", 
+            "name": "Black Sunset"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192747&streamencoding=mp31", 
+            "name": "Drums and the Devil"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192749&streamencoding=mp31", 
+            "name": "Rain and Tools"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=192750&streamencoding=mp31", 
+            "name": "At the West"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28794"
+}

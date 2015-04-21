@@ -1,0 +1,64 @@
+{
+    "name": "Darkness against Light", 
+    "artist": "CORIN-Music", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97502&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=833804&streamencoding=mp31", 
+            "name": "Du"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=833805&streamencoding=mp31", 
+            "name": "Body Burns"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=833806&streamencoding=mp31", 
+            "name": "Darkness against Light"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=833807&streamencoding=mp31", 
+            "name": "Blind"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=833808&streamencoding=mp31", 
+            "name": "Fire"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=833809&streamencoding=mp31", 
+            "name": "1544"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=833810&streamencoding=mp31", 
+            "name": "Death, Graves and Flowers"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=833811&streamencoding=mp31", 
+            "name": "Die letzte Strophe"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=833812&streamencoding=mp31", 
+            "name": "The Mirror"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=833813&streamencoding=mp31", 
+            "name": "The Sun"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=833814&streamencoding=mp31", 
+            "name": "Rattenf\u00e4nger von Hameln"
+        }
+    ], 
+    "release": "2011", 
+    "id": "97502"
+}

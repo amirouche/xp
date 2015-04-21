@@ -1,0 +1,24 @@
+{
+    "name": "Vox Vox e.p.", 
+    "artist": "haranaga", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77270&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665979&streamencoding=mp31", 
+            "name": "Vox Vox"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665981&streamencoding=mp31", 
+            "name": "HOKURIKU EXPWY (Double Beat)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665982&streamencoding=mp31", 
+            "name": "Vox Vox (Instrumental)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77270"
+}

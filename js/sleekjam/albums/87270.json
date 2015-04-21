@@ -1,0 +1,69 @@
+{
+    "name": "Burning For No Apparent Reason", 
+    "artist": "Larry Crowell", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87270&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746432&streamencoding=mp31", 
+            "name": "SECOND NATURE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746441&streamencoding=mp31", 
+            "name": "BLINDSIDED"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746434&streamencoding=mp31", 
+            "name": "SO LOW"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746442&streamencoding=mp31", 
+            "name": "LOTUS"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746435&streamencoding=mp31", 
+            "name": "VAPORIZER"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746431&streamencoding=mp31", 
+            "name": "WHITE ALICE"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746437&streamencoding=mp31", 
+            "name": "DARK WATER"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746438&streamencoding=mp31", 
+            "name": "THE HIGHWAY"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746439&streamencoding=mp31", 
+            "name": "for J.B"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746433&streamencoding=mp31", 
+            "name": "3RD LAYER"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746436&streamencoding=mp31", 
+            "name": "TAPPING THE VEIN"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=746440&streamencoding=mp31", 
+            "name": "ETERNAL"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87270"
+}

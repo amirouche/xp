@@ -1,0 +1,29 @@
+{
+    "name": "BACK IN BUSINESS", 
+    "artist": "HAT TRICK ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84703&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724975&streamencoding=mp31", 
+            "name": "One day"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724973&streamencoding=mp31", 
+            "name": "In my head"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724972&streamencoding=mp31", 
+            "name": "The game"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724974&streamencoding=mp31", 
+            "name": "Insane's law"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84703"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Disco Funk Or What", 
+    "artist": "Alexander Stein", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136249&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135104&streamencoding=mp31", 
+            "name": "Disco Attack"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135105&streamencoding=mp31", 
+            "name": "Bass In Line"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135106&streamencoding=mp31", 
+            "name": "Dog Walk"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135107&streamencoding=mp31", 
+            "name": "Remember The Sounds"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135108&streamencoding=mp31", 
+            "name": "Final Phaser"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136249"
+}

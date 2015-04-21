@@ -1,0 +1,14 @@
+{
+    "name": "My heart speaks to you", 
+    "artist": "smiley 73", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94354&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807495&streamencoding=mp31", 
+            "name": "My heart speaks to you"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94354"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Old Memoriz On Rock Hawaiian Guitar By Robert James", 
+    "artist": "Robert James", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77490&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667692&streamencoding=mp31", 
+            "name": "Ajib Dastan by Robert James"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667693&streamencoding=mp31", 
+            "name": "Jane Kanhan by Robert James"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667694&streamencoding=mp31", 
+            "name": "Mera Dil  by Robert James"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667695&streamencoding=mp31", 
+            "name": "Mohe Bhool Gaye by Robert James"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667696&streamencoding=mp31", 
+            "name": "Pathar Ke Sanam by Robert James"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667697&streamencoding=mp31", 
+            "name": "Yaad Na Jaye by Robert James"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77490"
+}

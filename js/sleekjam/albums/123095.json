@@ -1,0 +1,29 @@
+{
+    "name": "Jag Ser Dig", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123095&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045233&streamencoding=mp31", 
+            "name": "Jag Ser Dig"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045234&streamencoding=mp31", 
+            "name": "Herodina Antipas"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045236&streamencoding=mp31", 
+            "name": "Salome"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045238&streamencoding=mp31", 
+            "name": "Exil "
+        }
+    ], 
+    "release": "2013", 
+    "id": "123095"
+}

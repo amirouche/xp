@@ -1,0 +1,74 @@
+{
+    "name": "Godhead Soundtrack #1", 
+    "artist": "Pal Zoltan Illes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94757&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811245&streamencoding=mp31", 
+            "name": "The Forest of Honor and Venom"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811238&streamencoding=mp31", 
+            "name": "Stressed"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811239&streamencoding=mp31", 
+            "name": "Poet's Lamentation"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811237&streamencoding=mp31", 
+            "name": "Bad Foresense"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811236&streamencoding=mp31", 
+            "name": "Spiderbite Lucidity (Combat)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811235&streamencoding=mp31", 
+            "name": "Marketeer"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811240&streamencoding=mp31", 
+            "name": "Clouded"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811244&streamencoding=mp31", 
+            "name": "Feudal"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811241&streamencoding=mp31", 
+            "name": "Harp and Cello Fantasy No. 1"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811242&streamencoding=mp31", 
+            "name": "Solitude"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811246&streamencoding=mp31", 
+            "name": "Atmosphere"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811243&streamencoding=mp31", 
+            "name": "Arena"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811247&streamencoding=mp31", 
+            "name": "Townside Gloom"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94757"
+}

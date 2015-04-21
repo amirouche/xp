@@ -1,0 +1,69 @@
+{
+    "name": "Get nasty (42)", 
+    "artist": "Briovere Buffentis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101907&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868950&streamencoding=mp31", 
+            "name": "Philarmonic nursery rhyme"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868951&streamencoding=mp31", 
+            "name": "Pushing on"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868952&streamencoding=mp31", 
+            "name": "Forgotten crisis"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868956&streamencoding=mp31", 
+            "name": "Peter Vs wolf"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868955&streamencoding=mp31", 
+            "name": "You are my destiny"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868957&streamencoding=mp31", 
+            "name": "Summer christmas"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868946&streamencoding=mp31", 
+            "name": "Surrender"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868947&streamencoding=mp31", 
+            "name": "Rain and pain"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868948&streamencoding=mp31", 
+            "name": "Six one nine"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868949&streamencoding=mp31", 
+            "name": "Get nasty"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868953&streamencoding=mp31", 
+            "name": "Inside Winter"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868954&streamencoding=mp31", 
+            "name": "Howling melody"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101907"
+}

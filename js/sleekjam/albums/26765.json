@@ -1,0 +1,34 @@
+{
+    "name": "Not'Bazar", 
+    "artist": "GINKGO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26765&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=179756&streamencoding=mp31", 
+            "name": "ginkgo, france bi-polaire"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180122&streamencoding=mp31", 
+            "name": "Ginkgo tous s'unir"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180123&streamencoding=mp31", 
+            "name": "ginkgo, montre leur"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180124&streamencoding=mp31", 
+            "name": "ginkgo, l'arme redoutable"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180125&streamencoding=mp31", 
+            "name": "Ginkgo, djo babilon"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26765"
+}

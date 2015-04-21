@@ -1,0 +1,39 @@
+{
+    "name": "Mental reality", 
+    "artist": "Melcheor", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79440&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683212&streamencoding=mp31", 
+            "name": "Sun subordinating red ray of reason"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683213&streamencoding=mp31", 
+            "name": "Dispossessed of earth"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683214&streamencoding=mp31", 
+            "name": "Empty place"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683209&streamencoding=mp31", 
+            "name": "Sleep is not for us"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683210&streamencoding=mp31", 
+            "name": "The box with the stars"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=683211&streamencoding=mp31", 
+            "name": "Ray crushing consciousness"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79440"
+}

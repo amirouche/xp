@@ -1,0 +1,64 @@
+{
+    "name": "The Makebelievers", 
+    "artist": "Friend Owl", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120456&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024715&streamencoding=mp31", 
+            "name": "Let's Talk About Cute Boys!"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024716&streamencoding=mp31", 
+            "name": "Girly Girls!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024717&streamencoding=mp31", 
+            "name": "Rainbow Magic Spectacle"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024718&streamencoding=mp31", 
+            "name": "Pretty Flowers"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024719&streamencoding=mp31", 
+            "name": "Baby Deer and Kitty Cats"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024724&streamencoding=mp31", 
+            "name": "Sweet Tart"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024720&streamencoding=mp31", 
+            "name": "Sugarplum Fairy"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024721&streamencoding=mp31", 
+            "name": "Sunshine"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024722&streamencoding=mp31", 
+            "name": "Prince Charming"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024725&streamencoding=mp31", 
+            "name": "True Love Waits"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024723&streamencoding=mp31", 
+            "name": "All Things Good, Last Forever"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120456"
+}

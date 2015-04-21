@@ -1,0 +1,39 @@
+{
+    "name": "Kill-zap-o`Matic live", 
+    "artist": "Sirko Steinh\u00e4user", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22619&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=157265&streamencoding=mp31", 
+            "name": "quadratur des kreises"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=157266&streamencoding=mp31", 
+            "name": "geist ist geil"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=157267&streamencoding=mp31", 
+            "name": "gutb\u00f6se"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=157268&streamencoding=mp31", 
+            "name": "weltbank"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=157270&streamencoding=mp31", 
+            "name": "Blues N\u00ba 3"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=157269&streamencoding=mp31", 
+            "name": "Auch du"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22619"
+}

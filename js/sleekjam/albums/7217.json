@@ -1,0 +1,14 @@
+{
+    "name": "ein pferd wei\u00df wenig", 
+    "artist": "brynet", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7217&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79239&streamencoding=mp31", 
+            "name": "Kaosfuckt"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7217"
+}

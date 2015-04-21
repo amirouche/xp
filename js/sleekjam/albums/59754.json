@@ -1,0 +1,14 @@
+{
+    "name": "Marugelara", 
+    "artist": "Shyam Monk", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59754&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510722&streamencoding=mp31", 
+            "name": "marugelara"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59754"
+}

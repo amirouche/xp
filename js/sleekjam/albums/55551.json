@@ -1,0 +1,104 @@
+{
+    "name": "vers", 
+    "artist": "l'arbre vert", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55551&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468636&streamencoding=mp31", 
+            "name": "bouteille de verre"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468635&streamencoding=mp31", 
+            "name": "de l'eau  de flocons"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468643&streamencoding=mp31", 
+            "name": "maison en carton"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468637&streamencoding=mp31", 
+            "name": "pluie bienfaisante"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468640&streamencoding=mp31", 
+            "name": "epoustouflant"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468638&streamencoding=mp31", 
+            "name": "oiseau ping"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468639&streamencoding=mp31", 
+            "name": "le Port Salut"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468641&streamencoding=mp31", 
+            "name": "paquet chrono"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468642&streamencoding=mp31", 
+            "name": "ping feuillet pong"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468646&streamencoding=mp31", 
+            "name": "chrono bis"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468645&streamencoding=mp31", 
+            "name": "pierre de forme"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468651&streamencoding=mp31", 
+            "name": "canard pong"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468647&streamencoding=mp31", 
+            "name": "bonnet de meunier"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468649&streamencoding=mp31", 
+            "name": "un peu d'histoire"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468644&streamencoding=mp31", 
+            "name": "somptueux et pas"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468650&streamencoding=mp31", 
+            "name": "branche d'etoiles"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468653&streamencoding=mp31", 
+            "name": "sur un fil de fer"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468654&streamencoding=mp31", 
+            "name": "sapins malins"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468655&streamencoding=mp31", 
+            "name": "tamilnadu"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55551"
+}

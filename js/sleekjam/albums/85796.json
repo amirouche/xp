@@ -1,0 +1,79 @@
+{
+    "name": "Parameter Reallocation", 
+    "artist": "Brokenkites", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85796&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734029&streamencoding=mp31", 
+            "name": "Brokenkites - 01 Beside"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734031&streamencoding=mp31", 
+            "name": "Brokenkites - 02 Mechanize"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734034&streamencoding=mp31", 
+            "name": "Brokenkites - 03 Infinity"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734024&streamencoding=mp31", 
+            "name": "Brokenkites - 04 Blueshift"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734028&streamencoding=mp31", 
+            "name": "Brokenkites - 05 Stratagem"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734032&streamencoding=mp31", 
+            "name": "Brokenkites - 06 Select Start"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734022&streamencoding=mp31", 
+            "name": "Brokenkites - 07 Danger Current"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734026&streamencoding=mp31", 
+            "name": "Brokenkites - 08 Ascend"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734030&streamencoding=mp31", 
+            "name": "Brokenkites - 09 Iceframe"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734023&streamencoding=mp31", 
+            "name": "Brokenkites - 10 Phoenix Down"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734025&streamencoding=mp31", 
+            "name": "Brokenkites - 11 Foundation"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734033&streamencoding=mp31", 
+            "name": "Brokenkites - 12 Method"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734021&streamencoding=mp31", 
+            "name": "Brokenkites - 13 Vigilance Stack"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734027&streamencoding=mp31", 
+            "name": "Brokenkites - 14 Unlimited Life"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85796"
+}

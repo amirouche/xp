@@ -1,0 +1,19 @@
+{
+    "name": "stiltspear", 
+    "artist": "NeoQi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35243&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242921&streamencoding=mp31", 
+            "name": "l`araignee "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242928&streamencoding=mp31", 
+            "name": "stiltspear "
+        }
+    ], 
+    "release": "2008", 
+    "id": "35243"
+}

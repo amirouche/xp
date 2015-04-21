@@ -1,0 +1,44 @@
+{
+    "name": "Monigotes", 
+    "artist": "Paradile", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114105&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969768&streamencoding=mp31", 
+            "name": "Intropical"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969752&streamencoding=mp31", 
+            "name": "Donde est\u00e1n las llaves."
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969769&streamencoding=mp31", 
+            "name": "Que me quem\u00e9"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969753&streamencoding=mp31", 
+            "name": "V\u00f6dkila"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969767&streamencoding=mp31", 
+            "name": "Ret\u00f3rica"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969754&streamencoding=mp31", 
+            "name": "Maldita sea mi estampa "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969770&streamencoding=mp31", 
+            "name": "Monigotes"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114105"
+}

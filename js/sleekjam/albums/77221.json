@@ -1,0 +1,14 @@
+{
+    "name": "dimanche tout en nature (d\u00e9mo)", 
+    "artist": "Juju & Cyd", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77221&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665458&streamencoding=mp31", 
+            "name": "demo - dimanche tout en nature"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77221"
+}

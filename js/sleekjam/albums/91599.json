@@ -1,0 +1,44 @@
+{
+    "name": "Priest Hunter", 
+    "artist": "Moray Eel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91599&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781586&streamencoding=mp31", 
+            "name": "Healer And Death"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781582&streamencoding=mp31", 
+            "name": "The Second Flood"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781583&streamencoding=mp31", 
+            "name": "Sweet Mary"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781584&streamencoding=mp31", 
+            "name": "Impaler"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781585&streamencoding=mp31", 
+            "name": "Hellish Adoption"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781581&streamencoding=mp31", 
+            "name": "Bloody Easter"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781580&streamencoding=mp31", 
+            "name": "Watcher"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91599"
+}

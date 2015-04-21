@@ -1,0 +1,24 @@
+{
+    "name": "-BETTER-  Speedyrocky      (FREE download version)", 
+    "artist": "Speedy Rocky", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80650&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692040&streamencoding=mp31", 
+            "name": "Better"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692066&streamencoding=mp31", 
+            "name": "Let me fill"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692067&streamencoding=mp31", 
+            "name": "The fewer the better"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80650"
+}

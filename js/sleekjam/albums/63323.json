@@ -1,0 +1,109 @@
+{
+    "name": "Neverending Storia (2008)", 
+    "artist": "Loungerie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63323&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543345&streamencoding=mp31", 
+            "name": "Variet\u00e0"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543348&streamencoding=mp31", 
+            "name": "Accaccia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543342&streamencoding=mp31", 
+            "name": "Tutan Comeon"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543338&streamencoding=mp31", 
+            "name": "Pigreco Samba"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543350&streamencoding=mp31", 
+            "name": "Roma Est"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543351&streamencoding=mp31", 
+            "name": "La Penitenza"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543341&streamencoding=mp31", 
+            "name": "La Verit\u00e0"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543352&streamencoding=mp31", 
+            "name": "Marco Polo"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543347&streamencoding=mp31", 
+            "name": "Divertissement Storico"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543339&streamencoding=mp31", 
+            "name": "Sei"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543334&streamencoding=mp31", 
+            "name": "Sola"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543344&streamencoding=mp31", 
+            "name": "Se mi ama (Shoop Shoop Song)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543346&streamencoding=mp31", 
+            "name": "Parola di Leonardo"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543333&streamencoding=mp31", 
+            "name": "Madame Lafayette"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543343&streamencoding=mp31", 
+            "name": "La R\u00e9volution"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543349&streamencoding=mp31", 
+            "name": "Freedom"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543335&streamencoding=mp31", 
+            "name": "Gilda Woolite"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543340&streamencoding=mp31", 
+            "name": "Marilyn Morr\u00f2"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543337&streamencoding=mp31", 
+            "name": "La Morte"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543336&streamencoding=mp31", 
+            "name": "Sopravviver\u00f2 (I Will Survive)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63323"
+}

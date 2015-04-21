@@ -1,0 +1,14 @@
+{
+    "name": "Obscure dark way", 
+    "artist": "NEox sound project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23826&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=162594&streamencoding=mp31", 
+            "name": "prison of the mind"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23826"
+}

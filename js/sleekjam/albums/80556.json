@@ -1,0 +1,64 @@
+{
+    "name": "Sulpher Dreams", 
+    "artist": "Larry Crowell", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80556&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691173&streamencoding=mp31", 
+            "name": "SULPHER DREAMS"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691214&streamencoding=mp31", 
+            "name": "THRESHOLD"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691209&streamencoding=mp31", 
+            "name": "EPOCH"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691217&streamencoding=mp31", 
+            "name": "L6S"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691216&streamencoding=mp31", 
+            "name": "NCM"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691211&streamencoding=mp31", 
+            "name": "WANKFEST"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691212&streamencoding=mp31", 
+            "name": "SPIRAL"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691210&streamencoding=mp31", 
+            "name": "DESCENT"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691215&streamencoding=mp31", 
+            "name": "INTO THE MOMENT"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691213&streamencoding=mp31", 
+            "name": "SUBJECT TO CHANGE"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691208&streamencoding=mp31", 
+            "name": "ONE MORE TIME"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80556"
+}

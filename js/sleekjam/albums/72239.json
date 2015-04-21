@@ -1,0 +1,89 @@
+{
+    "name": "ONE MORE STEP TO GET DEAD", 
+    "artist": "Pachuco Cadaver", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72239&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623615&streamencoding=mp31", 
+            "name": "The Backstabber"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623617&streamencoding=mp31", 
+            "name": "God of War"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623618&streamencoding=mp31", 
+            "name": "Ride upon the light"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623619&streamencoding=mp31", 
+            "name": "Get rid"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623620&streamencoding=mp31", 
+            "name": "Last News"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623621&streamencoding=mp31", 
+            "name": "My bitch or a bride"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623622&streamencoding=mp31", 
+            "name": "Where the hell you go"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623623&streamencoding=mp31", 
+            "name": "Terium"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623624&streamencoding=mp31", 
+            "name": "Don't know"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623625&streamencoding=mp31", 
+            "name": "Bed is burning"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623626&streamencoding=mp31", 
+            "name": "Coming stoned"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623627&streamencoding=mp31", 
+            "name": "One more step to get dead"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623628&streamencoding=mp31", 
+            "name": "Peep show"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623629&streamencoding=mp31", 
+            "name": "Figure out (including Zzolo)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623630&streamencoding=mp31", 
+            "name": "haschichins"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623631&streamencoding=mp31", 
+            "name": "you"
+        }
+    ], 
+    "release": "2010", 
+    "id": "72239"
+}

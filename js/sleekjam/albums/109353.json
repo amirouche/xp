@@ -1,0 +1,94 @@
+{
+    "name": "Basically I Know What I'm Doing", 
+    "artist": "Betamax DC", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109353&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923083&streamencoding=mp31", 
+            "name": "Basically An Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923074&streamencoding=mp31", 
+            "name": "1040"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923076&streamencoding=mp31", 
+            "name": "I & I is DIY"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923084&streamencoding=mp31", 
+            "name": "Phubar"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923072&streamencoding=mp31", 
+            "name": "I Don't Need A Chorus"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923071&streamencoding=mp31", 
+            "name": "OldenYouth Philosophy (Chapter 1)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923087&streamencoding=mp31", 
+            "name": "Thrown"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923078&streamencoding=mp31", 
+            "name": "Fallout"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923081&streamencoding=mp31", 
+            "name": "Black Hat"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923073&streamencoding=mp31", 
+            "name": "OldenYouth Philosophy (Chapter 2)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923085&streamencoding=mp31", 
+            "name": "Laugh Track"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923079&streamencoding=mp31", 
+            "name": "Entitlement"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923086&streamencoding=mp31", 
+            "name": "Skalympics"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923080&streamencoding=mp31", 
+            "name": "Corrupt State"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923077&streamencoding=mp31", 
+            "name": "Human Incident"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923075&streamencoding=mp31", 
+            "name": "OldenYouth Philosophy (Chapter 3)"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=923082&streamencoding=mp31", 
+            "name": "Basically An Outro"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109353"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Tokyo Thunder Dance", 
+    "artist": "R\u00e9gis V. Gronoff", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103497&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880975&streamencoding=mp31", 
+            "name": "INVOCATIO"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880974&streamencoding=mp31", 
+            "name": "CANTUS"
+        }
+    ], 
+    "release": "2011", 
+    "id": "103497"
+}

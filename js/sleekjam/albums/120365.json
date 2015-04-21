@@ -1,0 +1,54 @@
+{
+    "name": "CUORE", 
+    "artist": "SALVIO RICCIO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120365&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023911&streamencoding=mp31", 
+            "name": "Scale"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023912&streamencoding=mp31", 
+            "name": "SAME TIME"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023913&streamencoding=mp31", 
+            "name": "ORNY 2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023914&streamencoding=mp31", 
+            "name": "Love song"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023915&streamencoding=mp31", 
+            "name": "Intermezzo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023916&streamencoding=mp31", 
+            "name": "Hard"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023918&streamencoding=mp31", 
+            "name": "GIOVA"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023919&streamencoding=mp31", 
+            "name": "Final Destination"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023937&streamencoding=mp31", 
+            "name": "Passion of love"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120365"
+}

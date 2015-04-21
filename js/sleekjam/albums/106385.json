@@ -1,0 +1,39 @@
+{
+    "name": "Fearworks", 
+    "artist": "Fearworks", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106385&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=903486&streamencoding=mp31", 
+            "name": "Into, Inside"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=903484&streamencoding=mp31", 
+            "name": "The man with coal nails"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=903485&streamencoding=mp31", 
+            "name": "1977"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=903482&streamencoding=mp31", 
+            "name": "Duel (Interlude)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=903483&streamencoding=mp31", 
+            "name": "Screaming clouds"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=903481&streamencoding=mp31", 
+            "name": "Fearworks"
+        }
+    ], 
+    "release": "2012", 
+    "id": "106385"
+}

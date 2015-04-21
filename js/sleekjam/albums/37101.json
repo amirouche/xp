@@ -1,0 +1,34 @@
+{
+    "name": "Weihnachten 2008", 
+    "artist": "CoveredClouds", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37101&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259037&streamencoding=mp31", 
+            "name": "Es kommt ein Schiff geladen (trad, dm)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259035&streamencoding=mp31", 
+            "name": "Entre le boeuf (Frankreich, em)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259040&streamencoding=mp31", 
+            "name": "Joy to the world (H\u00e4ndel, Kladrman, Mel, D)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259046&streamencoding=mp31", 
+            "name": "Wer nur den lieben Gott l\u00e4sst walten (G Neumark 1657, gm)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259034&streamencoding=mp31", 
+            "name": "Der Mond ist aufgegangen (Matthias Claudius, D)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37101"
+}

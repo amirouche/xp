@@ -1,0 +1,99 @@
+{
+    "name": "Windy Head", 
+    "artist": "Olga Scotland", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8387&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87489&streamencoding=mp31", 
+            "name": "Story 1. Mane"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87494&streamencoding=mp31", 
+            "name": "Windy Reggae"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87483&streamencoding=mp31", 
+            "name": "Glass Pumpa "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87479&streamencoding=mp31", 
+            "name": "Black'n'pants "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87509&streamencoding=mp31", 
+            "name": "Train"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87480&streamencoding=mp31", 
+            "name": "Bodhran Morning "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87485&streamencoding=mp31", 
+            "name": "Magical Gusli"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87487&streamencoding=mp31", 
+            "name": "New Year Quest"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87490&streamencoding=mp31", 
+            "name": "Story 2. Tanya"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87484&streamencoding=mp31", 
+            "name": "Japanese"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87488&streamencoding=mp31", 
+            "name": "Shell "
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87482&streamencoding=mp31", 
+            "name": "Ethnotrip "
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87478&streamencoding=mp31", 
+            "name": "Aero"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87517&streamencoding=mp31", 
+            "name": "View"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87497&streamencoding=mp31", 
+            "name": "Cosmic kozevik"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87491&streamencoding=mp31", 
+            "name": "Story 3. Olya"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87495&streamencoding=mp31", 
+            "name": "Young Ivan "
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=87501&streamencoding=mp31", 
+            "name": "Mandolin"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8387"
+}

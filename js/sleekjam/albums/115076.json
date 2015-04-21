@@ -1,0 +1,59 @@
+{
+    "name": "Phlegm not Sentient", 
+    "artist": "Exempt From Gravity", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115076&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977287&streamencoding=mp31", 
+            "name": "Into the light from Tyrone Ave."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977278&streamencoding=mp31", 
+            "name": "Pheromone Queen"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977279&streamencoding=mp31", 
+            "name": "pensive (Consoling the Treacherous Whore)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977280&streamencoding=mp31", 
+            "name": "NLRMN"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977281&streamencoding=mp31", 
+            "name": "Irreducibly Beyond Elucidation"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977282&streamencoding=mp31", 
+            "name": "Sunward I've Climbed"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977283&streamencoding=mp31", 
+            "name": "elephantine mastodont"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977284&streamencoding=mp31", 
+            "name": "The Death of an Equestrian"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977285&streamencoding=mp31", 
+            "name": "An offer for comfort"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=977286&streamencoding=mp31", 
+            "name": "Epitaph"
+        }
+    ], 
+    "release": "2012", 
+    "id": "115076"
+}

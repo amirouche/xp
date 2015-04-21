@@ -1,0 +1,39 @@
+{
+    "name": "Glory Hole EP", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105460&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=896350&streamencoding=mp31", 
+            "name": "Dreaming Of A Breezy (7th Dimention Mix) ft CSoul & 4nsic"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=896351&streamencoding=mp31", 
+            "name": "People Let's Stop The War ft The People"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=896352&streamencoding=mp31", 
+            "name": "Glory Hole"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=896353&streamencoding=mp31", 
+            "name": "Head ft Lauradee"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=896354&streamencoding=mp31", 
+            "name": "Simple Things  ft Leza2unes (Lukewarm Turkey Mix)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=896355&streamencoding=mp31", 
+            "name": "Imperfect Word ft Leza2unes (Charlie Wilson Mix)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "105460"
+}

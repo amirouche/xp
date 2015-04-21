@@ -1,0 +1,59 @@
+{
+    "name": "Dustbeen", 
+    "artist": "WINSTONMCNAMARA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108499&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916624&streamencoding=mp31", 
+            "name": "Thin rope"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916625&streamencoding=mp31", 
+            "name": "Gong solo II"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916626&streamencoding=mp31", 
+            "name": "Satan loves  routine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916627&streamencoding=mp31", 
+            "name": "The ballad of crooked smiles"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916628&streamencoding=mp31", 
+            "name": "Turnback issue"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916629&streamencoding=mp31", 
+            "name": "El lobo fangs"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916630&streamencoding=mp31", 
+            "name": "Jetstreamer"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916631&streamencoding=mp31", 
+            "name": "Greasy hammock"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916632&streamencoding=mp31", 
+            "name": "Neveready"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916633&streamencoding=mp31", 
+            "name": "kinda real"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108499"
+}

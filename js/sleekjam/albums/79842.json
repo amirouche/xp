@@ -1,0 +1,109 @@
+{
+    "name": "Demo Parts 1 & 2", 
+    "artist": "Tundra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79842&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685890&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685896&streamencoding=mp31", 
+            "name": "Translate"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685888&streamencoding=mp31", 
+            "name": "The Royal Song (part 1)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685894&streamencoding=mp31", 
+            "name": "You're a Prince, Ackley (part 2)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685670&streamencoding=mp31", 
+            "name": "Busy"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685889&streamencoding=mp31", 
+            "name": "Filthy Lawns pt.1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685654&streamencoding=mp31", 
+            "name": "Baby Blue Sedan (cover)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685895&streamencoding=mp31", 
+            "name": "Blame Me"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685656&streamencoding=mp31", 
+            "name": "Filthy Lawns pt 2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685658&streamencoding=mp31", 
+            "name": "Our Lives"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685897&streamencoding=mp31", 
+            "name": "Museum"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685659&streamencoding=mp31", 
+            "name": "Smooth Grace and Sovereign Reverence"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685893&streamencoding=mp31", 
+            "name": "Sandwhich "
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685892&streamencoding=mp31", 
+            "name": "Bucket (cover)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685657&streamencoding=mp31", 
+            "name": "Gardenhead/Leave Me Alone (cover)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685660&streamencoding=mp31", 
+            "name": "Styrofoam Boots (cover)"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685891&streamencoding=mp31", 
+            "name": "Two Headed Boy (cover)"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685652&streamencoding=mp31", 
+            "name": "Alien Sound Making Contest"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685898&streamencoding=mp31", 
+            "name": "Dinosaurs are Lizards"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=685653&streamencoding=mp31", 
+            "name": "Curious Waffle ( ft. Waffle & Tailpuller )"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79842"
+}

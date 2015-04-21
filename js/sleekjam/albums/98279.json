@@ -1,0 +1,19 @@
+{
+    "name": "Single", 
+    "artist": "\u041e\u0442\u0435\u043b\u044c \u0411\u0435\u0437\u0443\u043c\u0438\u0435 (Hotel Mindlessness)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98279&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=840125&streamencoding=mp31", 
+            "name": "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u0430\u044f \u043b\u043e\u0436\u043a\u0430 (Silver Spoon)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=840126&streamencoding=mp31", 
+            "name": "\u041b\u043e\u0448\u0430\u0434\u044c \u043f\u043e\u0434 \u0434\u043e\u0436\u0434\u0435\u043c (Horse Out In The Rain)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98279"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "The everlasting shame", 
+    "artist": "Neko", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30772&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208022&streamencoding=mp31", 
+            "name": "A prelude to Hell"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208023&streamencoding=mp31", 
+            "name": "The everlasting shame"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208024&streamencoding=mp31", 
+            "name": "Jennifer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208025&streamencoding=mp31", 
+            "name": "Through an ancient sky, beyond sin"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30772"
+}

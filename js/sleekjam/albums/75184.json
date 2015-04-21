@@ -1,0 +1,24 @@
+{
+    "name": "Angalas (Ep)", 
+    "artist": "Deicida 69", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75184&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=648653&streamencoding=mp31", 
+            "name": "Angalas"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=648655&streamencoding=mp31", 
+            "name": "Red  Zone"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=648654&streamencoding=mp31", 
+            "name": "Requiem I"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75184"
+}

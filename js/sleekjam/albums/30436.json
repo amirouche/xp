@@ -1,0 +1,24 @@
+{
+    "name": "Cervocoder Ep", 
+    "artist": "Cervocoder", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30436&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=204938&streamencoding=mp31", 
+            "name": "Il Gatto"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=204939&streamencoding=mp31", 
+            "name": "Saloon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=204937&streamencoding=mp31", 
+            "name": "Vodka"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30436"
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Riot in Wonderland", 
+    "artist": "DrKananga", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62856&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=538873&streamencoding=mp31", 
+            "name": "Wonderland I - Run Rabbit Run"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=538877&streamencoding=mp31", 
+            "name": "Wonderland II - Welcome to the Consortium"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=538918&streamencoding=mp31", 
+            "name": "Wonderland III - The Pinguin new evil plan"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=538933&streamencoding=mp31", 
+            "name": "Wonderland IV - Revenge of King Fausto"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=538965&streamencoding=mp31", 
+            "name": "Wonderland V - Chassing Joss Beaumont"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=538982&streamencoding=mp31", 
+            "name": "Wonderland VI - The Spring Song"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=539069&streamencoding=mp31", 
+            "name": "Wonderland VII - Wear Flowers in your hairs"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=539093&streamencoding=mp31", 
+            "name": "Riot 1 - Science of noise"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=539094&streamencoding=mp31", 
+            "name": "Riot 2 - Soul trading"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=539095&streamencoding=mp31", 
+            "name": "Riot 3 - Tee Hee's dirty job"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=539096&streamencoding=mp31", 
+            "name": "Riot 4 - 2mn to midnight in Lagos"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=539097&streamencoding=mp31", 
+            "name": "Riot 5 - F.O.O.W.B.C"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=539098&streamencoding=mp31", 
+            "name": "Riot 6 - After the cash flow"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=539099&streamencoding=mp31", 
+            "name": "Riot 7 - Le Siecle"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=539100&streamencoding=mp31", 
+            "name": "Arret des programmes"
+        }
+    ], 
+    "release": "2010", 
+    "id": "62856"
+}

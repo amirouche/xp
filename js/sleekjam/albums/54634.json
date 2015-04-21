@@ -1,0 +1,54 @@
+{
+    "name": "Micromegas", 
+    "artist": "ASTERION music project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54634&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=457077&streamencoding=mp31", 
+            "name": "Micromegas"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=457053&streamencoding=mp31", 
+            "name": "Casta Adivasi"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=457081&streamencoding=mp31", 
+            "name": "A Ella Le Gusta Hacerlo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=457147&streamencoding=mp31", 
+            "name": "Fronteras"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=457150&streamencoding=mp31", 
+            "name": "Generi-K"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=457357&streamencoding=mp31", 
+            "name": "E.V.A. (El Viaje Ayuda)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=457378&streamencoding=mp31", 
+            "name": "Ultimas Hojas De Oto\u00f1o"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=457363&streamencoding=mp31", 
+            "name": "Amor Imposible"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=457366&streamencoding=mp31", 
+            "name": "Ale Vuela"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54634"
+}

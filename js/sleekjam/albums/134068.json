@@ -1,0 +1,59 @@
+{
+    "name": "The F.I.T.", 
+    "artist": "\u041a\u0438\u0441\u043a\u0430", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134068&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121920&streamencoding=mp31", 
+            "name": "The Gold Candy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121921&streamencoding=mp31", 
+            "name": "\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u041a\u043e\u043d\u0444\u0435\u0442\u044b"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121922&streamencoding=mp31", 
+            "name": "Be-Be!"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121924&streamencoding=mp31", 
+            "name": "\u0411\u0435-\u0411\u0435!"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121923&streamencoding=mp31", 
+            "name": "Le Radio Festeval"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121925&streamencoding=mp31", 
+            "name": "\u0420\u0430\u0434\u0438\u043e \u0424\u0435\u0441\u0442\u0435\u0432\u0430\u043b\u044c"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121926&streamencoding=mp31", 
+            "name": "The Liapa's Bath-house"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121927&streamencoding=mp31", 
+            "name": "\u0411\u0430\u043d\u044f \u041b\u044f\u043f\u044b"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121928&streamencoding=mp31", 
+            "name": "I'm Invitin'"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121929&streamencoding=mp31", 
+            "name": "\u041f\u0440\u0438\u0433\u043b\u0430\u0448\u0430\u044e!"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134068"
+}

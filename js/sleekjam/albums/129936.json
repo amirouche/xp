@@ -1,0 +1,59 @@
+{
+    "name": "Very Heepy Very Purple II", 
+    "artist": "Avi Rosenfeld", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129936&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090190&streamencoding=mp31", 
+            "name": "Back Me UP"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090195&streamencoding=mp31", 
+            "name": "Golden King"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090198&streamencoding=mp31", 
+            "name": "Speed Of Light"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090197&streamencoding=mp31", 
+            "name": "You Know Me"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090189&streamencoding=mp31", 
+            "name": "Eyes Of The Night"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090196&streamencoding=mp31", 
+            "name": "Ghosts Of War"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090194&streamencoding=mp31", 
+            "name": "Turn The Lights On"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090193&streamencoding=mp31", 
+            "name": "Driving Me Crazy"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090191&streamencoding=mp31", 
+            "name": "People Of The Mountain"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090192&streamencoding=mp31", 
+            "name": "Bloomin Lilies"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129936"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "City beat", 
+    "artist": "Ciampa & The Blues", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111697&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950138&streamencoding=mp31", 
+            "name": ") Bad bluesman"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950143&streamencoding=mp31", 
+            "name": ") City beat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950151&streamencoding=mp31", 
+            "name": ") Since you leave me alone w the blues"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950152&streamencoding=mp31", 
+            "name": ") Into the city-jungle"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950153&streamencoding=mp31", 
+            "name": ") Bluesy road"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950154&streamencoding=mp31", 
+            "name": ") Blues lullaby for my little babe crying - tape 2"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950155&streamencoding=mp31", 
+            "name": ") Flyin' zone for Cloe"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111697"
+}

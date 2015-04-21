@@ -1,0 +1,89 @@
+{
+    "name": "Res Publica", 
+    "artist": "Lonji", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56979&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483040&streamencoding=mp31", 
+            "name": "Cambier\u00e0"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483150&streamencoding=mp31", 
+            "name": "Music lover"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483217&streamencoding=mp31", 
+            "name": "Pi\u00f9 di ogni cosa al mondo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483218&streamencoding=mp31", 
+            "name": "Mercato del bestiame"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483219&streamencoding=mp31", 
+            "name": "Se non giochi non perdi"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483220&streamencoding=mp31", 
+            "name": "Via dal paradiso"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483290&streamencoding=mp31", 
+            "name": "Piena Gestione"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483221&streamencoding=mp31", 
+            "name": "Wonder mama"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483222&streamencoding=mp31", 
+            "name": "Solo cos\u00ec "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483223&streamencoding=mp31", 
+            "name": "Ultima Met\u00e0"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483224&streamencoding=mp31", 
+            "name": "Foxyland"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483289&streamencoding=mp31", 
+            "name": "Venere sola"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483225&streamencoding=mp31", 
+            "name": "Il tuo style"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483288&streamencoding=mp31", 
+            "name": "Ti do una chance"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483292&streamencoding=mp31", 
+            "name": "Telecamera"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483291&streamencoding=mp31", 
+            "name": "Forme di energia"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56979"
+}

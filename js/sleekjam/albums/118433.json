@@ -1,0 +1,54 @@
+{
+    "name": "Welcome", 
+    "artist": "K.C.SHUFFLE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118433&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006210&streamencoding=mp31", 
+            "name": "Bud of a rose "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006202&streamencoding=mp31", 
+            "name": "Internet "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006203&streamencoding=mp31", 
+            "name": "La nature "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006204&streamencoding=mp31", 
+            "name": "Moonlight "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006205&streamencoding=mp31", 
+            "name": "Paradise"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006206&streamencoding=mp31", 
+            "name": "Robocop "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006207&streamencoding=mp31", 
+            "name": "So much "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006208&streamencoding=mp31", 
+            "name": "Welcome "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006209&streamencoding=mp31", 
+            "name": "Zip zap "
+        }
+    ], 
+    "release": "2013", 
+    "id": "118433"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Something was happened in the forest... (2007)", 
+    "artist": "Nameless (UA, Ternopil)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69656&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602596&streamencoding=mp31", 
+            "name": "Nothing was happened"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602597&streamencoding=mp31", 
+            "name": "Vitryla"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602593&streamencoding=mp31", 
+            "name": "Don't call me Your name"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602595&streamencoding=mp31", 
+            "name": "Old Perdun"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602605&streamencoding=mp31", 
+            "name": "Something was happened in the forest"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602600&streamencoding=mp31", 
+            "name": "24 hours"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602606&streamencoding=mp31", 
+            "name": "Kreolka"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602598&streamencoding=mp31", 
+            "name": "Ten Galicians"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602604&streamencoding=mp31", 
+            "name": "Who are MF You?"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602601&streamencoding=mp31", 
+            "name": "Lament In Memory of Syd Barrett"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602602&streamencoding=mp31", 
+            "name": "Nothing Was Happened (rmx by Electrostatic Death)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602603&streamencoding=mp31", 
+            "name": "Who Are MF You? (rmx by Kupuyemo Volossya)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602594&streamencoding=mp31", 
+            "name": "Oj, Bolyt' U Mene (rmx by Electrostatic Death)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602599&streamencoding=mp31", 
+            "name": "Who are MF You? (rmx by Venus)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "69656"
+}

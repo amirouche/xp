@@ -1,0 +1,64 @@
+{
+    "name": "Llume", 
+    "artist": "Xera", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112333&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955264&streamencoding=mp31", 
+            "name": "1.-Al\u00f3"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955368&streamencoding=mp31", 
+            "name": "2.-Vientos"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955371&streamencoding=mp31", 
+            "name": "3.-Rubien"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955265&streamencoding=mp31", 
+            "name": "4.-Arian"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955366&streamencoding=mp31", 
+            "name": "5.-MioFonte"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955369&streamencoding=mp31", 
+            "name": "6.-Sol"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955372&streamencoding=mp31", 
+            "name": "7.- Yo quixera"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955367&streamencoding=mp31", 
+            "name": "8.-Cam\u00edn"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955370&streamencoding=mp31", 
+            "name": "9.-Espertar"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955266&streamencoding=mp31", 
+            "name": "10.-UnaLlume"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=955365&streamencoding=mp31", 
+            "name": "11.-Rigel"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112333"
+}

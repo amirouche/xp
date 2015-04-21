@@ -1,0 +1,79 @@
+{
+    "name": "Beat Elementals", 
+    "artist": "Mike Link/Harvey Taylor", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24185&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165029&streamencoding=mp31", 
+            "name": "Angels Of Mercy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165049&streamencoding=mp31", 
+            "name": "Silvery Swirl"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165052&streamencoding=mp31", 
+            "name": "Brotherly Love"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165054&streamencoding=mp31", 
+            "name": "Pura Veda"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165057&streamencoding=mp31", 
+            "name": "Room For All"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165059&streamencoding=mp31", 
+            "name": "A Secret Passageway"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165060&streamencoding=mp31", 
+            "name": "Guided By Dreams"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165061&streamencoding=mp31", 
+            "name": "Prototype"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165063&streamencoding=mp31", 
+            "name": "The Mysterious Realm"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165070&streamencoding=mp31", 
+            "name": "See What The Wind Blows Away"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165077&streamencoding=mp31", 
+            "name": "Blue-Green Patina"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165078&streamencoding=mp31", 
+            "name": "A Garden In Blooming Groove"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165080&streamencoding=mp31", 
+            "name": "Proximity"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165081&streamencoding=mp31", 
+            "name": "Sun Tour"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24185"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Libert\u00e9 po\u00e9tique ", 
+    "artist": "T\u00e9rrog Fran\u00e7ois", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130682&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096021&streamencoding=mp31", 
+            "name": "Fran\u00e7ois T\u00e9rrog-Paul Verlaine-Ecoutez la chanson bien douce"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096034&streamencoding=mp31", 
+            "name": "Fran\u00e7ois T\u00e9rrog-Sully Prudhomme La reine du bal"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096037&streamencoding=mp31", 
+            "name": "Fran\u00e7ois T\u00e9rrog-Le baiser touchant le po\u00e8te"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130682"
+}

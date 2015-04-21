@@ -1,0 +1,24 @@
+{
+    "name": "Derail", 
+    "artist": "Zheedd", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69469&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=601006&streamencoding=mp31", 
+            "name": "ALBUM ZSsYSTEM Track 2 Mechanical"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=601003&streamencoding=mp31", 
+            "name": "ALBUM ZSsYSTEM Track 3 Pulse"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=601004&streamencoding=mp31", 
+            "name": "ALBUM ZSsYSTEM Track 5 Rebon"
+        }
+    ], 
+    "release": "2010", 
+    "id": "69469"
+}

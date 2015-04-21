@@ -1,0 +1,84 @@
+{
+    "name": "Tab & Anitek - The Freakout Tent", 
+    "artist": "Anitek", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93880&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802298&streamencoding=mp31", 
+            "name": "The Freakout Tent"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802292&streamencoding=mp31", 
+            "name": "The Excess"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802289&streamencoding=mp31", 
+            "name": "Night Life"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802295&streamencoding=mp31", 
+            "name": "Music Theory"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802286&streamencoding=mp31", 
+            "name": "Air"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802291&streamencoding=mp31", 
+            "name": "Yes Yes Yall"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802297&streamencoding=mp31", 
+            "name": "Channel Surf"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802288&streamencoding=mp31", 
+            "name": "Ruffin Feathers"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802294&streamencoding=mp31", 
+            "name": "Clockwork"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802300&streamencoding=mp31", 
+            "name": "ChopCity"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802290&streamencoding=mp31", 
+            "name": "Dreams"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802296&streamencoding=mp31", 
+            "name": "Moderate Stimulation"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802287&streamencoding=mp31", 
+            "name": "The Life Aquatic"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802293&streamencoding=mp31", 
+            "name": "Fantom"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802299&streamencoding=mp31", 
+            "name": "Sinister Psyche"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93880"
+}

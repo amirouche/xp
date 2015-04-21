@@ -1,0 +1,59 @@
+{
+    "name": "Sounds and Frames", 
+    "artist": "BOO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96978&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829054&streamencoding=mp31", 
+            "name": "eighteen"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829055&streamencoding=mp31", 
+            "name": "twentynine"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829056&streamencoding=mp31", 
+            "name": "one"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829057&streamencoding=mp31", 
+            "name": "eleven"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829058&streamencoding=mp31", 
+            "name": "three"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829059&streamencoding=mp31", 
+            "name": "fifteen"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829060&streamencoding=mp31", 
+            "name": "fourteen"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829061&streamencoding=mp31", 
+            "name": "ten"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829062&streamencoding=mp31", 
+            "name": "two"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=829064&streamencoding=mp31", 
+            "name": "eight"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96978"
+}

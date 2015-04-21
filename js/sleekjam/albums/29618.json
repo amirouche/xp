@@ -1,0 +1,14 @@
+{
+    "name": "My glass is dirty", 
+    "artist": "Mob", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29618&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=199291&streamencoding=mp31", 
+            "name": "my_glass_is_dirty"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29618"
+}

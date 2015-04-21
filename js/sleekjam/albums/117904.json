@@ -1,0 +1,119 @@
+{
+    "name": "Chill Instrumental Background Music", 
+    "artist": "Plastic3", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117904&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002017&streamencoding=mp31", 
+            "name": "Background Chill Music"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002006&streamencoding=mp31", 
+            "name": "Clock Of Life (Chill)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1001999&streamencoding=mp31", 
+            "name": "Instrumental Music"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002000&streamencoding=mp31", 
+            "name": "Chill Pop Music"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002014&streamencoding=mp31", 
+            "name": "Slow Rock Ballad "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002010&streamencoding=mp31", 
+            "name": "Dreamy Love Background"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002003&streamencoding=mp31", 
+            "name": "Chill Music Loop"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002002&streamencoding=mp31", 
+            "name": "Piano Chill Loop"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002012&streamencoding=mp31", 
+            "name": "Background Music Loop 1"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1001998&streamencoding=mp31", 
+            "name": "Background Music Logo"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002005&streamencoding=mp31", 
+            "name": "Clock Of Life Loop"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002004&streamencoding=mp31", 
+            "name": "Clock Of Life Logo"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002015&streamencoding=mp31", 
+            "name": "Instrumental Loop 1"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1001996&streamencoding=mp31", 
+            "name": "Instrumental Loop 2"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002013&streamencoding=mp31", 
+            "name": "Instrumental Logo"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1001997&streamencoding=mp31", 
+            "name": "Pop Loop"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002016&streamencoding=mp31", 
+            "name": "Pop Logo"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002011&streamencoding=mp31", 
+            "name": "Rock Ballad Loop"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002009&streamencoding=mp31", 
+            "name": "Rock Ballad Logo"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002008&streamencoding=mp31", 
+            "name": "Dream Loop"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002007&streamencoding=mp31", 
+            "name": "Dream Logo"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1002001&streamencoding=mp31", 
+            "name": "Chill Logo"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117904"
+}

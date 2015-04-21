@@ -1,0 +1,39 @@
+{
+    "name": "Headphone Songs EP", 
+    "artist": "YARDS OF SILK", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63906&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548696&streamencoding=mp31", 
+            "name": "Fore (Alternate Version)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548698&streamencoding=mp31", 
+            "name": "Sight (Alternate Version)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548722&streamencoding=mp31", 
+            "name": "Per Sue Me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548723&streamencoding=mp31", 
+            "name": "Love Type Thing (Tegan & Sara cover)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548738&streamencoding=mp31", 
+            "name": "Banshee Beat (Animal Collective cover)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548739&streamencoding=mp31", 
+            "name": "I May Make"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63906"
+}

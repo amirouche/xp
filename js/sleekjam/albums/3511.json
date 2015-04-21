@@ -1,0 +1,89 @@
+{
+    "name": "Fusion", 
+    "artist": "Cool Cavemen", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3511&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25553&streamencoding=mp31", 
+            "name": "Fusion"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25554&streamencoding=mp31", 
+            "name": "Pump the Funk Up"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25555&streamencoding=mp31", 
+            "name": "En D\u00e9clin"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25556&streamencoding=mp31", 
+            "name": "New Pirates"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25557&streamencoding=mp31", 
+            "name": "Terra Incognita"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25558&streamencoding=mp31", 
+            "name": "Kinda Country"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25559&streamencoding=mp31", 
+            "name": "Morning Fog over the Troubled Waters of my Awakening Mind"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25560&streamencoding=mp31", 
+            "name": "Peaceful Power"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25561&streamencoding=mp31", 
+            "name": "Funkysaxplayer"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25562&streamencoding=mp31", 
+            "name": "Space Farmer"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25563&streamencoding=mp31", 
+            "name": "Funky Cops"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25564&streamencoding=mp31", 
+            "name": "J\u00e9r\u00e9miades"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25565&streamencoding=mp31", 
+            "name": "Mystique"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25566&streamencoding=mp31", 
+            "name": "Melalum"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25567&streamencoding=mp31", 
+            "name": "Culture & Co."
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=25568&streamencoding=mp31", 
+            "name": "Rock Head Man"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3511"
+}

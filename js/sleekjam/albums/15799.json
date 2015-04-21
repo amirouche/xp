@@ -1,0 +1,29 @@
+{
+    "name": "hipi remover", 
+    "artist": "\u0161undrdisko", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15799&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=117800&streamencoding=mp31", 
+            "name": "pentatonic audio device and auxilary outputs ()"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=117681&streamencoding=mp31", 
+            "name": "HIPI CONFUSION"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=117790&streamencoding=mp31", 
+            "name": "man went to the wood and mushroom ate him"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=117803&streamencoding=mp31", 
+            "name": "finished without a notice"
+        }
+    ], 
+    "release": "2007", 
+    "id": "15799"
+}

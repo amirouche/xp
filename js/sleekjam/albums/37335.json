@@ -1,0 +1,39 @@
+{
+    "name": "Super Metal Fight (Sografalth)", 
+    "artist": "Sografalth", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37335&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261046&streamencoding=mp31", 
+            "name": "Bride of Death"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261061&streamencoding=mp31", 
+            "name": "Hellowar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261068&streamencoding=mp31", 
+            "name": "Sword Master"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261073&streamencoding=mp31", 
+            "name": "Sografalth"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261084&streamencoding=mp31", 
+            "name": "Putrid Orgasm"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261089&streamencoding=mp31", 
+            "name": "Vomiture"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37335"
+}

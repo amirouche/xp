@@ -1,0 +1,64 @@
+{
+    "name": "A Taste Of Hate", 
+    "artist": "Cynicism", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22890&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159189&streamencoding=mp31", 
+            "name": "A Taste Of Hate"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159191&streamencoding=mp31", 
+            "name": "Clenched Fists"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159197&streamencoding=mp31", 
+            "name": "Last Sin"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159198&streamencoding=mp31", 
+            "name": "Tempest"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159199&streamencoding=mp31", 
+            "name": "Unholy Solitude"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159200&streamencoding=mp31", 
+            "name": "Inside My Hell"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159201&streamencoding=mp31", 
+            "name": "Dark Summit Of Pain"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159202&streamencoding=mp31", 
+            "name": "On The Hills"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159203&streamencoding=mp31", 
+            "name": "When The Storm Is Near"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159204&streamencoding=mp31", 
+            "name": "I Am Catastrophe"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159206&streamencoding=mp31", 
+            "name": "Conclusion"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22890"
+}

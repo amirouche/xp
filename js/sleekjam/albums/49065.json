@@ -1,0 +1,69 @@
+{
+    "name": "Rural Style", 
+    "artist": "Ki Sap", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49065&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389089&streamencoding=mp31", 
+            "name": "el ritme de ningu"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389087&streamencoding=mp31", 
+            "name": "en la vida"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389085&streamencoding=mp31", 
+            "name": "ruedan las cabezas"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389088&streamencoding=mp31", 
+            "name": "jamaica sun"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389083&streamencoding=mp31", 
+            "name": "le petit poisson"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389082&streamencoding=mp31", 
+            "name": "que es lo que apesta"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389084&streamencoding=mp31", 
+            "name": "vigila tus pasos"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389090&streamencoding=mp31", 
+            "name": "hi ha qui menja"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=388864&streamencoding=mp31", 
+            "name": "ki esta ci tio"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389081&streamencoding=mp31", 
+            "name": "hasta que todas estemos libres"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389080&streamencoding=mp31", 
+            "name": "ska friends"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=389086&streamencoding=mp31", 
+            "name": "siguelo + bonus track"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49065"
+}

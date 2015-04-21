@@ -1,0 +1,49 @@
+{
+    "name": "Sick-O-Matic", 
+    "artist": "Airbag Killex", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42743&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316270&streamencoding=mp31", 
+            "name": "auto shut off"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316272&streamencoding=mp31", 
+            "name": "192-BHS"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316273&streamencoding=mp31", 
+            "name": "sick-o-matic"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316274&streamencoding=mp31", 
+            "name": "doner kebab"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316271&streamencoding=mp31", 
+            "name": "cock-haine"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316268&streamencoding=mp31", 
+            "name": "bloody rain"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316275&streamencoding=mp31", 
+            "name": "multispeed burning"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316269&streamencoding=mp31", 
+            "name": "subhuman flashing tits"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42743"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Earth Calling Home", 
+    "artist": "Sean T Wright", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124510&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055931&streamencoding=mp31", 
+            "name": "Earth Calling Home"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055935&streamencoding=mp31", 
+            "name": "Lies & Alibis"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055934&streamencoding=mp31", 
+            "name": "Nervous_"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055930&streamencoding=mp31", 
+            "name": "Lost The Love"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055932&streamencoding=mp31", 
+            "name": "Where's The Unity"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055933&streamencoding=mp31", 
+            "name": "Raise The Roof"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124510"
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Shitty Old Unreleased Demos", 
+    "artist": "Louis Lingg and the Bombs", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98527&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843194&streamencoding=mp31", 
+            "name": "the prozac song"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843186&streamencoding=mp31", 
+            "name": "Going nowhere fast (demo)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843197&streamencoding=mp31", 
+            "name": "electro boogie"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843195&streamencoding=mp31", 
+            "name": "all around the world (demo)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843185&streamencoding=mp31", 
+            "name": "we kiss we kiss (demo)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843187&streamencoding=mp31", 
+            "name": "la menteuse (demo)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843190&streamencoding=mp31", 
+            "name": "Princess Mononoke (demo)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843203&streamencoding=mp31", 
+            "name": "freedom fighting demo (never got round to the lyrics!)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843202&streamencoding=mp31", 
+            "name": "madonna is a corporate whore (midi demo)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843196&streamencoding=mp31", 
+            "name": "school bell (demo)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843200&streamencoding=mp31", 
+            "name": "get wild (demo)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843188&streamencoding=mp31", 
+            "name": "chomsky changed my life (demo)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843191&streamencoding=mp31", 
+            "name": "zapatista (demo)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843189&streamencoding=mp31", 
+            "name": "jiggy baby (demo)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843193&streamencoding=mp31", 
+            "name": "conspiracy (demo)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843201&streamencoding=mp31", 
+            "name": "bad is good (with fabian)"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843192&streamencoding=mp31", 
+            "name": "one note (could have been a good album intro!)"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843199&streamencoding=mp31", 
+            "name": "Terrorist Chic (demo)"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843198&streamencoding=mp31", 
+            "name": "Velodrome (demo)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98527"
+}

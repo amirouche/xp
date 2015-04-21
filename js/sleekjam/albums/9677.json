@@ -1,0 +1,39 @@
+{
+    "name": "Ctrl+Alt+Rain", 
+    "artist": "Hickslayer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9677&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=95132&streamencoding=mp31", 
+            "name": "1 mix"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=95150&streamencoding=mp31", 
+            "name": "2 whoopi goldbug"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=95159&streamencoding=mp31", 
+            "name": "3 the wiggle worm"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=95160&streamencoding=mp31", 
+            "name": "4 twenty snow"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=95167&streamencoding=mp31", 
+            "name": "5 ctrl+alt+rain"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=95169&streamencoding=mp31", 
+            "name": "6 2nd shift controller"
+        }
+    ], 
+    "release": "2007", 
+    "id": "9677"
+}

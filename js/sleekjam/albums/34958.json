@@ -1,0 +1,14 @@
+{
+    "name": "La fraternit\u00e9", 
+    "artist": "Mob", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34958&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=240061&streamencoding=mp31", 
+            "name": "La fraternit\u00e9"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34958"
+}

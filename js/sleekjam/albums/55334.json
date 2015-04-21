@@ -1,0 +1,74 @@
+{
+    "name": "Open your mind (33)", 
+    "artist": "Briovere Buffentis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55334&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466196&streamencoding=mp31", 
+            "name": "Fire"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466197&streamencoding=mp31", 
+            "name": "Tux dance"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466198&streamencoding=mp31", 
+            "name": "My baby has gone"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466199&streamencoding=mp31", 
+            "name": "Baby come on"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466212&streamencoding=mp31", 
+            "name": "What you gonna do"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466214&streamencoding=mp31", 
+            "name": "Feel the sound"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466215&streamencoding=mp31", 
+            "name": "Real hot"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466216&streamencoding=mp31", 
+            "name": "Free like a bird in a cage"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466217&streamencoding=mp31", 
+            "name": "Feel my body"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466221&streamencoding=mp31", 
+            "name": "Dont need to practice"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466223&streamencoding=mp31", 
+            "name": "Open your mind"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466225&streamencoding=mp31", 
+            "name": "Cos'the music is so nice"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466226&streamencoding=mp31", 
+            "name": "Mambo #6"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55334"
+}

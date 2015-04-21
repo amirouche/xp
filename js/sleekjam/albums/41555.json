@@ -1,0 +1,59 @@
+{
+    "name": "Herz zerrissen", 
+    "artist": "Rebentisch", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41555&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305823&streamencoding=mp31", 
+            "name": "Angst"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305822&streamencoding=mp31", 
+            "name": "Die Suche"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305824&streamencoding=mp31", 
+            "name": "Erinnerungsfetzen"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305820&streamencoding=mp31", 
+            "name": "Danach"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305827&streamencoding=mp31", 
+            "name": "Reis(s)ende Gedanken"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305828&streamencoding=mp31", 
+            "name": "Mein Blick Ins Leere"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305825&streamencoding=mp31", 
+            "name": "Abschied [F\u00fcr Immer]"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305826&streamencoding=mp31", 
+            "name": "Der Biss [Chill Out Rmx By Jan_Solo]"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305821&streamencoding=mp31", 
+            "name": "Neongift [Rmx By Cabo De Gata]"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=305819&streamencoding=mp31", 
+            "name": "Zeit [Rmx By Cabo De Gata]"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41555"
+}

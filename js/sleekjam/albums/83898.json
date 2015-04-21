@@ -1,0 +1,49 @@
+{
+    "name": "Narrkose: Bonus Remix Demo", 
+    "artist": "Gasher G.14", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83898&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719307&streamencoding=mp31", 
+            "name": "Das Schwarze Schaf (Im Stadtpark RMX)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719310&streamencoding=mp31", 
+            "name": "Wunschkind (Polaris-Rejazz)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719313&streamencoding=mp31", 
+            "name": "Geschenkt (Demo 2002)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719322&streamencoding=mp31", 
+            "name": "Zufrieden (Probenmitschnitt 2005)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719324&streamencoding=mp31", 
+            "name": "Vorstellung (Demo 2002)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719325&streamencoding=mp31", 
+            "name": "Zufrieden (Demo 2002)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719326&streamencoding=mp31", 
+            "name": "Te Hominem Esse Memento (Demo 2003)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719327&streamencoding=mp31", 
+            "name": "Der alte Mann (Demo 2001)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83898"
+}

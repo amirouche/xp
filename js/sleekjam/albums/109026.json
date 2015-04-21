@@ -1,0 +1,59 @@
+{
+    "name": "Beauty & The Beats", 
+    "artist": "Neon NiteClub", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109026&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920611&streamencoding=mp31", 
+            "name": "Beauty & The Beats"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920612&streamencoding=mp31", 
+            "name": "Hard 2 Find"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920618&streamencoding=mp31", 
+            "name": "Another Galaxy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920614&streamencoding=mp31", 
+            "name": "Party Princess"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920615&streamencoding=mp31", 
+            "name": "UFO"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920617&streamencoding=mp31", 
+            "name": "Last 2 Know"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920616&streamencoding=mp31", 
+            "name": "Go All Nite"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920620&streamencoding=mp31", 
+            "name": "Take Ur Hand"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920619&streamencoding=mp31", 
+            "name": "Neon Heart"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920613&streamencoding=mp31", 
+            "name": "Love 2Nite"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109026"
+}

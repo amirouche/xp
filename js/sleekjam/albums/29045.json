@@ -1,0 +1,59 @@
+{
+    "name": "Infection", 
+    "artist": "Apoplexy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29045&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194434&streamencoding=mp31", 
+            "name": "Sins of love"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194435&streamencoding=mp31", 
+            "name": "Apoplexy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194436&streamencoding=mp31", 
+            "name": "Carving god"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194437&streamencoding=mp31", 
+            "name": "Lich"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194438&streamencoding=mp31", 
+            "name": "Bloody worship"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194439&streamencoding=mp31", 
+            "name": "Justice"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194440&streamencoding=mp31", 
+            "name": "Retro Satanas"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194441&streamencoding=mp31", 
+            "name": "Abomination"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194442&streamencoding=mp31", 
+            "name": "Human skinning"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=194443&streamencoding=mp31", 
+            "name": "Infection"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29045"
+}

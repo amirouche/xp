@@ -1,0 +1,29 @@
+{
+    "name": "Melodin", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124846&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1058518&streamencoding=mp31", 
+            "name": "Melodin"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1058524&streamencoding=mp31", 
+            "name": "Mal Och Mott"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1058525&streamencoding=mp31", 
+            "name": "Morgong\u00e5va"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1058533&streamencoding=mp31", 
+            "name": "Maskinen"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124846"
+}

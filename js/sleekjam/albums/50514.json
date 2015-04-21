@@ -1,0 +1,34 @@
+{
+    "name": "Debauchery (demo)", 
+    "artist": "Juicy Guts", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50514&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407633&streamencoding=mp31", 
+            "name": "Quarter Pounder Pig"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407632&streamencoding=mp31", 
+            "name": "Provided They Fear"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407635&streamencoding=mp31", 
+            "name": "Time Of Punishment"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407634&streamencoding=mp31", 
+            "name": "Bloodshed"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407636&streamencoding=mp31", 
+            "name": "Debauchery"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50514"
+}

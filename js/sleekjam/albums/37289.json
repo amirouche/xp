@@ -1,0 +1,19 @@
+{
+    "name": "Djan Lu Kii - mixe par BSK le 16 octobre 2003", 
+    "artist": "djbsk", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37289&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=260644&streamencoding=mp31", 
+            "name": "Djan Lu Kii - mixe par BSK le 16 octobre 2003 - partie 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=260672&streamencoding=mp31", 
+            "name": "Djan Lu Kii - mixe par BSK le 16 octobre 2003 - partie 2"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37289"
+}

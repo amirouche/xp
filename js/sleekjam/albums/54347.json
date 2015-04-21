@@ -1,0 +1,34 @@
+{
+    "name": "fire in the derche", 
+    "artist": "Sam leopard", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54347&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=454246&streamencoding=mp31", 
+            "name": "fire in the derche (le feu au derche)-sensual instrumental version"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=454245&streamencoding=mp31", 
+            "name": "fire in the derche (strange electronic instrumental version)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=454249&streamencoding=mp31", 
+            "name": "fire in the derche (vocal essential version)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=454247&streamencoding=mp31", 
+            "name": "fire in the derche ( instrumental classic version)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=454248&streamencoding=mp31", 
+            "name": "fire in the derche (crazy 70's instrumental version)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54347"
+}

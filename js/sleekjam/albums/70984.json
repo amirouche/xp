@@ -1,0 +1,59 @@
+{
+    "name": "Soul Chill R&B Jazzy", 
+    "artist": "EIVISSA SALINAS feat. DJ HSERES", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70984&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613494&streamencoding=mp31", 
+            "name": "Being True"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613495&streamencoding=mp31", 
+            "name": "On your Wings"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613497&streamencoding=mp31", 
+            "name": "Touching your Lips"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613498&streamencoding=mp31", 
+            "name": "Little While"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613499&streamencoding=mp31", 
+            "name": "Mr. Jazzman"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613501&streamencoding=mp31", 
+            "name": "Jamming Rose"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613505&streamencoding=mp31", 
+            "name": "Wonderful Summer"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613512&streamencoding=mp31", 
+            "name": "So Happy"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613517&streamencoding=mp31", 
+            "name": "Good to be One"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=613519&streamencoding=mp31", 
+            "name": "Just want love you [ South Africa 2010 W.C. Mix].Bonus Track"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70984"
+}

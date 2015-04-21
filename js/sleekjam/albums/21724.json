@@ -1,0 +1,29 @@
+{
+    "name": "ZZ* FunkiBlue Rock'and Rol .", 
+    "artist": "AZepFliy*", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21724&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=152402&streamencoding=mp31", 
+            "name": "BlueRokCountry"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=152404&streamencoding=mp31", 
+            "name": "FukkiBlue"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=152420&streamencoding=mp31", 
+            "name": "BlueDestroy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=152422&streamencoding=mp31", 
+            "name": "ArmonieZik"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21724"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "La Ira de Dios", 
+    "artist": "Basilio Montes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48463&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=382155&streamencoding=mp31", 
+            "name": "Momentos de Amar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=382156&streamencoding=mp31", 
+            "name": "Otra Noche de Pasion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=382157&streamencoding=mp31", 
+            "name": "Juegos Clandestinos"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=382158&streamencoding=mp31", 
+            "name": "La Ira de Dios"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=382159&streamencoding=mp31", 
+            "name": "Rock Music (Instrumental)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48463"
+}

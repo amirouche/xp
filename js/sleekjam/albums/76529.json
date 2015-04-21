@@ -1,0 +1,44 @@
+{
+    "name": "Black and White", 
+    "artist": "P.P", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76529&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659705&streamencoding=mp31", 
+            "name": "Opus 3 n\u00b02 Rachmaninov"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659710&streamencoding=mp31", 
+            "name": "Final Fantasy Theme"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659703&streamencoding=mp31", 
+            "name": "Rom\u00e9o et Juliette"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659702&streamencoding=mp31", 
+            "name": "Dalli "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659707&streamencoding=mp31", 
+            "name": "Tifa Theme"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659704&streamencoding=mp31", 
+            "name": "Le Chat"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=659706&streamencoding=mp31", 
+            "name": "Polonaise in A-flat major, Op. 53"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76529"
+}

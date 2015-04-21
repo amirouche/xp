@@ -1,0 +1,19 @@
+{
+    "name": "The Cute One", 
+    "artist": "DefectiveContact", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125208&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060871&streamencoding=mp31", 
+            "name": "The Cute One"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060877&streamencoding=mp31", 
+            "name": "The Cute One Halftime"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125208"
+}

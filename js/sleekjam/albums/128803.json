@@ -1,0 +1,29 @@
+{
+    "name": "Tristezze", 
+    "artist": "PaoloDrum", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128803&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081295&streamencoding=mp31", 
+            "name": "Paolo Scib. (Tristezze)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081303&streamencoding=mp31", 
+            "name": "Paolo Scib. (Un' et\u00e0)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081304&streamencoding=mp31", 
+            "name": "Paolo Scib. (Notte delle lune)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081323&streamencoding=mp31", 
+            "name": "Paolo Scib. (Drammatica)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128803"
+}

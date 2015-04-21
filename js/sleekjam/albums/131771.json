@@ -1,0 +1,49 @@
+{
+    "name": "Loneliness And Madness", 
+    "artist": "Sven Turtle", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131771&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103988&streamencoding=mp31", 
+            "name": "Redemption"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103989&streamencoding=mp31", 
+            "name": "Guitarsong"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103990&streamencoding=mp31", 
+            "name": "Loneliness & Madness"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103991&streamencoding=mp31", 
+            "name": "The Most Dangerous Game"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103992&streamencoding=mp31", 
+            "name": "The Chase"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103993&streamencoding=mp31", 
+            "name": "The Last Date"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103994&streamencoding=mp31", 
+            "name": "Midnight"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103995&streamencoding=mp31", 
+            "name": "In Flame"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131771"
+}

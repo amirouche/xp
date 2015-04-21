@@ -1,0 +1,64 @@
+{
+    "name": "Midnight Gigolos", 
+    "artist": "Ensono", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96175&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822725&streamencoding=mp31", 
+            "name": "Midnight School"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822722&streamencoding=mp31", 
+            "name": "Sensual Beats"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822720&streamencoding=mp31", 
+            "name": "Jet Soul"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822723&streamencoding=mp31", 
+            "name": "Vampiric Romance"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822718&streamencoding=mp31", 
+            "name": "We Are Coming"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822719&streamencoding=mp31", 
+            "name": "Driving on Outskirts"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822724&streamencoding=mp31", 
+            "name": "Jazzy Sunset"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822726&streamencoding=mp31", 
+            "name": "Delicious Groove"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822721&streamencoding=mp31", 
+            "name": "Naked Sun and You"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822728&streamencoding=mp31", 
+            "name": "Unfaithful (Limbo Mix)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822727&streamencoding=mp31", 
+            "name": "Parallel Lives"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96175"
+}

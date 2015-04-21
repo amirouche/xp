@@ -1,0 +1,49 @@
+{
+    "name": "Underwater", 
+    "artist": "Diversion Voice", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116780&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992678&streamencoding=mp31", 
+            "name": "Source [intro]"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992679&streamencoding=mp31", 
+            "name": "Red River"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992684&streamencoding=mp31", 
+            "name": "Feeling Of Snow"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992680&streamencoding=mp31", 
+            "name": "Aqua"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992682&streamencoding=mp31", 
+            "name": "Rain"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992683&streamencoding=mp31", 
+            "name": "Underwater"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992681&streamencoding=mp31", 
+            "name": " Black Milk"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992685&streamencoding=mp31", 
+            "name": "Stream"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116780"
+}

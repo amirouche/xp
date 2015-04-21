@@ -1,0 +1,59 @@
+{
+    "name": "DESIRE", 
+    "artist": "Soofyya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30475&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205278&streamencoding=mp31", 
+            "name": "Desire (Soofyya Vocals)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205291&streamencoding=mp31", 
+            "name": "Lost Mind"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205236&streamencoding=mp31", 
+            "name": "Self Control"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205223&streamencoding=mp31", 
+            "name": "Sleepin' Away"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205227&streamencoding=mp31", 
+            "name": "Flee From Here"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205225&streamencoding=mp31", 
+            "name": "Natural Reflect (Soofyya Vocals)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205224&streamencoding=mp31", 
+            "name": "Under Us"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205226&streamencoding=mp31", 
+            "name": "The Power of Interpretation (Soofyya Vocals)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205309&streamencoding=mp31", 
+            "name": "Slow Down (instrumental 06')"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205230&streamencoding=mp31", 
+            "name": "Myss Ya (instrumental 07')"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30475"
+}

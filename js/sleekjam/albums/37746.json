@@ -1,0 +1,69 @@
+{
+    "name": "Free hugs (30)", 
+    "artist": "Briovere Buffentis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37746&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264912&streamencoding=mp31", 
+            "name": "Neighborhood"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264909&streamencoding=mp31", 
+            "name": "Locked in my dreams"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264901&streamencoding=mp31", 
+            "name": "Free hugs"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264902&streamencoding=mp31", 
+            "name": "Tournament"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264903&streamencoding=mp31", 
+            "name": "Christmas oak"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264904&streamencoding=mp31", 
+            "name": "Africa complaint"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264905&streamencoding=mp31", 
+            "name": "Vulcan journey"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264906&streamencoding=mp31", 
+            "name": "Reqiem march"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264907&streamencoding=mp31", 
+            "name": "Warm rain"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264908&streamencoding=mp31", 
+            "name": "Old world symphony"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264910&streamencoding=mp31", 
+            "name": "Spring dragonfly"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264911&streamencoding=mp31", 
+            "name": "Lazy swing"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37746"
+}

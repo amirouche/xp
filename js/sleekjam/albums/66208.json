@@ -1,0 +1,24 @@
+{
+    "name": "T\u00e9moin", 
+    "artist": "neebex", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66208&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=573787&streamencoding=mp31", 
+            "name": "temoin_20070519-temoin_1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=573785&streamencoding=mp31", 
+            "name": "temoin_2007_06_16_2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=573786&streamencoding=mp31", 
+            "name": "temoin_20070524_temoin_3_resume"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66208"
+}

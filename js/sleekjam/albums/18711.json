@@ -1,0 +1,49 @@
+{
+    "name": "THE SECOND CHAOS   (2008)", 
+    "artist": "ALONE IN THE CHAOS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18711&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132238&streamencoding=mp31", 
+            "name": "0000000015"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132409&streamencoding=mp31", 
+            "name": "0000000016"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132410&streamencoding=mp31", 
+            "name": "0000000012"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132411&streamencoding=mp31", 
+            "name": "0000000011"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132412&streamencoding=mp31", 
+            "name": "0000000018"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132413&streamencoding=mp31", 
+            "name": "0000000013"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132414&streamencoding=mp31", 
+            "name": "0000000014"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132415&streamencoding=mp31", 
+            "name": "0000000017"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18711"
+}

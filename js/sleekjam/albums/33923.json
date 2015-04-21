@@ -1,0 +1,59 @@
+{
+    "name": "so this is love...", 
+    "artist": "untied", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33923&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229713&streamencoding=mp31", 
+            "name": "Breathe"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229714&streamencoding=mp31", 
+            "name": "Repeat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229717&streamencoding=mp31", 
+            "name": "Doubt"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229721&streamencoding=mp31", 
+            "name": "Delusion"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229722&streamencoding=mp31", 
+            "name": "Fixed"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229724&streamencoding=mp31", 
+            "name": "Broken"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229725&streamencoding=mp31", 
+            "name": "Over"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229727&streamencoding=mp31", 
+            "name": "Solitude"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229729&streamencoding=mp31", 
+            "name": "Alive (still)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=229730&streamencoding=mp31", 
+            "name": "Alone (still)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33923"
+}

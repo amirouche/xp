@@ -1,0 +1,74 @@
+{
+    "name": "It's Alright", 
+    "artist": "Leo Bowers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106060&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900919&streamencoding=mp31", 
+            "name": "It's Alright (M)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900950&streamencoding=mp31", 
+            "name": "Our Love (W)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900917&streamencoding=mp31", 
+            "name": "Rockabilly Anna (M)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900916&streamencoding=mp31", 
+            "name": "Me, Myself and I (W)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900918&streamencoding=mp31", 
+            "name": "Let's Get On (R)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900915&streamencoding=mp31", 
+            "name": "Don't Give Up On Me (R)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900922&streamencoding=mp31", 
+            "name": "My Friend (M)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900921&streamencoding=mp31", 
+            "name": "Mine Only (R)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900923&streamencoding=mp31", 
+            "name": "Luv On Da Flo (R)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900925&streamencoding=mp31", 
+            "name": "Believe In Yourself (R)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900924&streamencoding=mp31", 
+            "name": "No Life Without U (R)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900926&streamencoding=mp31", 
+            "name": "I Like It (M)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=900927&streamencoding=mp31", 
+            "name": "Don't Hate (M)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "106060"
+}

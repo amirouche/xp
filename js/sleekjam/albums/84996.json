@@ -1,0 +1,14 @@
+{
+    "name": "2mg - Bordeaux ( single )", 
+    "artist": "2mg", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84996&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727318&streamencoding=mp31", 
+            "name": "bordeaux"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84996"
+}

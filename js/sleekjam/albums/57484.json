@@ -1,0 +1,24 @@
+{
+    "name": "Punish", 
+    "artist": "vermillia 1999", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57484&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490377&streamencoding=mp31", 
+            "name": "Punish"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490379&streamencoding=mp31", 
+            "name": "Blinded"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=490378&streamencoding=mp31", 
+            "name": "See You In Hell"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57484"
+}

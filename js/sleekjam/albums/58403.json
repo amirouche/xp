@@ -1,0 +1,69 @@
+{
+    "name": "\"...to be rock and to roll...\"", 
+    "artist": "Joy Machine", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58403&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498614&streamencoding=mp31", 
+            "name": "Joy Machine- B.O.F"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498608&streamencoding=mp31", 
+            "name": "Joy Machine- Joy Machine"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498615&streamencoding=mp31", 
+            "name": "Joy Machine- Rock n roll freak"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498616&streamencoding=mp31", 
+            "name": "Joy Machine- Confession of obsession"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498617&streamencoding=mp31", 
+            "name": "Joy Machine- Efficient death order"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498610&streamencoding=mp31", 
+            "name": "Joy Machine- Living dreams"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498613&streamencoding=mp31", 
+            "name": "Joy Machine- Lost night butterfly"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498612&streamencoding=mp31", 
+            "name": "Joy Machine- Dance of senses"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498609&streamencoding=mp31", 
+            "name": "Joy Machine- Unspoken"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498618&streamencoding=mp31", 
+            "name": "Joy Machine- One night"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498611&streamencoding=mp31", 
+            "name": "Joy Machine- Game"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=498619&streamencoding=mp31", 
+            "name": "Joy Machine- My way"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58403"
+}

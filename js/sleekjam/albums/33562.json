@@ -1,0 +1,14 @@
+{
+    "name": "ElectroDance", 
+    "artist": "AmbraSon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33562&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223243&streamencoding=mp31", 
+            "name": "ElectroDance 1"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33562"
+}

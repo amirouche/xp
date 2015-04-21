@@ -1,0 +1,34 @@
+{
+    "name": "Nie wiem kim jeste\u015bmy (2005) I don't know who we are", 
+    "artist": "Arkady Michalik & MUSICOCOMPANY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9587&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94482&streamencoding=mp31", 
+            "name": "Nie wiem kim jeste\u015bmy - Arkady Michalik & Musicocompany"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94481&streamencoding=mp31", 
+            "name": "James - Arkady Michalik & Musicocompany"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94526&streamencoding=mp31", 
+            "name": "Indu - Arkady Michalik & Musicocompany"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94528&streamencoding=mp31", 
+            "name": "Wypluwam s\u0142owa swe - Arkady Michalik & Musicocompany"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94517&streamencoding=mp31", 
+            "name": "Parkingi - Arkady Michalik & Musicocompany"
+        }
+    ], 
+    "release": "2007", 
+    "id": "9587"
+}

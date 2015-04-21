@@ -1,0 +1,74 @@
+{
+    "name": "Space Sojourns", 
+    "artist": "Out Of Orion (Ox3)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73982&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638780&streamencoding=mp31", 
+            "name": "Distant Worlds"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638789&streamencoding=mp31", 
+            "name": "Second Sojourn"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638787&streamencoding=mp31", 
+            "name": "Third Sojourn"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638783&streamencoding=mp31", 
+            "name": "Reactor Room"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638788&streamencoding=mp31", 
+            "name": "Fourth Sojourn"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638785&streamencoding=mp31", 
+            "name": "Fifth Sojourn"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638778&streamencoding=mp31", 
+            "name": "Universal Particle Mother"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638782&streamencoding=mp31", 
+            "name": "Space Alarm"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638790&streamencoding=mp31", 
+            "name": "Sixth Sojourn"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638784&streamencoding=mp31", 
+            "name": "Eight Sojourn"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638781&streamencoding=mp31", 
+            "name": "Encounter"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638779&streamencoding=mp31", 
+            "name": "Ninth Sojourn"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=638786&streamencoding=mp31", 
+            "name": "Unknown Transmission"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73982"
+}

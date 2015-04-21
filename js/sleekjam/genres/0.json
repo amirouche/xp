@@ -1,0 +1,1363 @@
+{
+    "albums": [
+        {
+            "release": "2014", 
+            "artist": "Smiling Cynic", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133460&imagesize=100", 
+            "id": "133460", 
+            "name": "Parlor tricks and bad illusions"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Michael Bergmann", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50498&imagesize=100", 
+            "id": "50498", 
+            "name": "Shithouse Explodes"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Outsider", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21526&imagesize=100", 
+            "id": "21526", 
+            "name": "1993 - 1995"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Mississippi Alligators", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61831&imagesize=100", 
+            "id": "61831", 
+            "name": "Mississippi Alligators"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "The Lousiest Blues Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91716&imagesize=100", 
+            "id": "91716", 
+            "name": "Bad Girl"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "P.P", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44704&imagesize=100", 
+            "id": "44704", 
+            "name": "Un essai tout simplement"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Central Vowel Addiction", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97565&imagesize=100", 
+            "id": "97565", 
+            "name": "Back in about three minutes (Demo)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Ruediger Kramer", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20371&imagesize=100", 
+            "id": "20371", 
+            "name": "very quiet night (EP)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Franck Camu", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20073&imagesize=100", 
+            "id": "20073", 
+            "name": "BooGieS"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Franck Camu", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40125&imagesize=100", 
+            "id": "40125", 
+            "name": "Boogie Machine"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Franck Camu", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62689&imagesize=100", 
+            "id": "62689", 
+            "name": "Blue Shadow"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Franck Camu", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96643&imagesize=100", 
+            "id": "96643", 
+            "name": "Nuclear Boogie"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Magnolia Chile", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23243&imagesize=100", 
+            "id": "23243", 
+            "name": "Cien A\u00f1os Despues"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Magnolia Chile", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87799&imagesize=100", 
+            "id": "87799", 
+            "name": "Magnolia 2003"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Magnolia Chile", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57031&imagesize=100", 
+            "id": "57031", 
+            "name": "Magnolia en vivo en Buenos Aires"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "flo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7590&imagesize=100", 
+            "id": "7590", 
+            "name": "devilish"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "La Quinta del Sordo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88076&imagesize=100", 
+            "id": "88076", 
+            "name": "MMXI"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Detlef Bard", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93660&imagesize=100", 
+            "id": "93660", 
+            "name": "some kinda magic - single"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Myriam Swanson", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82931&imagesize=100", 
+            "id": "82931", 
+            "name": "Swanson"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Nicholas Guida", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50076&imagesize=100", 
+            "id": "50076", 
+            "name": "I Run To Your Heart"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Nicholas Guida", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88687&imagesize=100", 
+            "id": "88687", 
+            "name": "Electriko"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Bluescifer", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57286&imagesize=100", 
+            "id": "57286", 
+            "name": "ObSession"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Raphael Michaelis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63047&imagesize=100", 
+            "id": "63047", 
+            "name": "Fassade"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "ultra soft system", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61597&imagesize=100", 
+            "id": "61597", 
+            "name": "TOTAL SMOKE BLUES"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Thomas Attwood", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137051&imagesize=100", 
+            "id": "137051", 
+            "name": "Blues Tracks"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Sim Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74164&imagesize=100", 
+            "id": "74164", 
+            "name": "Another Day"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Sim Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74276&imagesize=100", 
+            "id": "74276", 
+            "name": "Changeover"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Sim Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73905&imagesize=100", 
+            "id": "73905", 
+            "name": "4 Weeks At Home"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Prinz K\u00f6nig", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31099&imagesize=100", 
+            "id": "31099", 
+            "name": "Haben Haben"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Paola Ronci ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121133&imagesize=100", 
+            "id": "121133", 
+            "name": "\" Full Of You \" ( EP )"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Still Nameless", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52277&imagesize=100", 
+            "id": "52277", 
+            "name": "First Studio Session [EP]"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Morris Masters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110752&imagesize=100", 
+            "id": "110752", 
+            "name": "I Can See the Shore"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Morris Masters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65568&imagesize=100", 
+            "id": "65568", 
+            "name": "Uncle Man"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Morris Masters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112538&imagesize=100", 
+            "id": "112538", 
+            "name": "Music of the Mind"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Morris Masters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106522&imagesize=100", 
+            "id": "106522", 
+            "name": "So Easy"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Morris Masters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117117&imagesize=100", 
+            "id": "117117", 
+            "name": "Late Morning Blues"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Morris Masters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56856&imagesize=100", 
+            "id": "56856", 
+            "name": "Evening Shadows in Brockwell Park"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Morris Masters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93594&imagesize=100", 
+            "id": "93594", 
+            "name": "Write On"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Morris Masters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128928&imagesize=100", 
+            "id": "128928", 
+            "name": "Journeys, Distance and Time"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Morris Masters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103485&imagesize=100", 
+            "id": "103485", 
+            "name": "Another Cold Christmas"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Morris Masters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78278&imagesize=100", 
+            "id": "78278", 
+            "name": "Punderllella(the ghost in my cellar)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Morris Masters", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86118&imagesize=100", 
+            "id": "86118", 
+            "name": "Living in the Maze"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Rovshan Azizov ( Mr.AzizoFF)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75486&imagesize=100", 
+            "id": "75486", 
+            "name": "DEBUT"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "stolen picassos", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54450&imagesize=100", 
+            "id": "54450", 
+            "name": "Musique americaine"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Confushian", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119878&imagesize=100", 
+            "id": "119878", 
+            "name": "The Footsteps of Martin Eden (Part 2)"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Confushian", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119867&imagesize=100", 
+            "id": "119867", 
+            "name": "The Footsteps of Martin Eden (Part 1)"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "brezo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56932&imagesize=100", 
+            "id": "56932", 
+            "name": "Vivo - Live"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Jeff Wyatt", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40063&imagesize=100", 
+            "id": "40063", 
+            "name": "Reflections at Every Corner"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Jeff Wyatt", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40074&imagesize=100", 
+            "id": "40074", 
+            "name": "The Bullfrog Session"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Hippie House Jam Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108354&imagesize=100", 
+            "id": "108354", 
+            "name": "Im J\u00e4gerst\u00fcble"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Derek Haines", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52377&imagesize=100", 
+            "id": "52377", 
+            "name": "Acoustic Observations"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Gerlando C.", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135614&imagesize=100", 
+            "id": "135614", 
+            "name": "Dreaming the blues"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Alex Bailey", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6700&imagesize=100", 
+            "id": "6700", 
+            "name": "Port Angeles"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Georgije Malj", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59682&imagesize=100", 
+            "id": "59682", 
+            "name": "Vremeplov (Timeline)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Pivert", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21326&imagesize=100", 
+            "id": "21326", 
+            "name": "D\u00e9finitif ou presque"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Ji\u0159\u00ed M\u00ed\u017ea", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26092&imagesize=100", 
+            "id": "26092", 
+            "name": "Cizinec ve m\u011bst\u011b / Stranger in the town"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Jhonny Diox", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81770&imagesize=100", 
+            "id": "81770", 
+            "name": "Tengo, las 4 menos 3 minutos"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Micka FRENCH", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89557&imagesize=100", 
+            "id": "89557", 
+            "name": "PLAY WITH MICKA FRENCH"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Micka FRENCH", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91741&imagesize=100", 
+            "id": "91741", 
+            "name": "PORN TIMES X"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Spleen l'ancien", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90977&imagesize=100", 
+            "id": "90977", 
+            "name": "Le string minimum"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "U-Crop", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84658&imagesize=100", 
+            "id": "84658", 
+            "name": "Orsk 408"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The basement", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21876&imagesize=100", 
+            "id": "21876", 
+            "name": "The basement vol.1"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The basement", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25870&imagesize=100", 
+            "id": "25870", 
+            "name": "The basement vol. 2"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "LOS PENULTIMOS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115596&imagesize=100", 
+            "id": "115596", 
+            "name": "Puertas al campo"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "LOS PENULTIMOS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126078&imagesize=100", 
+            "id": "126078", 
+            "name": "Un poco de suerte"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "val blurock", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8272&imagesize=100", 
+            "id": "8272", 
+            "name": "blues en construction"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Rayart Selinnes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54004&imagesize=100", 
+            "id": "54004", 
+            "name": "Six Strings and a Voice"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "John Palomo Fussion Blues Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51158&imagesize=100", 
+            "id": "51158", 
+            "name": "En el camino - E. P."
+        }, 
+        {
+            "release": "2009", 
+            "artist": "John Palomo Fussion Blues Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51036&imagesize=100", 
+            "id": "51036", 
+            "name": "Caf\u00e9 nocturno"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "John Palomo Fussion Blues Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50863&imagesize=100", 
+            "id": "50863", 
+            "name": "En la onda "
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Blubend", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128843&imagesize=100", 
+            "id": "128843", 
+            "name": "VS - Five Senses"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Orquesta Arrecife", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132265&imagesize=100", 
+            "id": "132265", 
+            "name": "Emisi\u00f3n subterr\u00e1nea"
+        }, 
+        {
+            "release": "2010", 
+            "artist": " E2U", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60128&imagesize=100", 
+            "id": "60128", 
+            "name": "Unmemory of love"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "NCTify", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51815&imagesize=100", 
+            "id": "51815", 
+            "name": "Ballad"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Nameless (UA, Ternopil)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69656&imagesize=100", 
+            "id": "69656", 
+            "name": "Something was happened in the forest... (2007)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Endo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18552&imagesize=100", 
+            "id": "18552", 
+            "name": "Walk in my dreams"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Blind John O'Gunn", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125133&imagesize=100", 
+            "id": "125133", 
+            "name": "Laid Out My Seed"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Blind John O'Gunn", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67476&imagesize=100", 
+            "id": "67476", 
+            "name": "Blues is all that is Real"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Blind John O'Gunn", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52635&imagesize=100", 
+            "id": "52635", 
+            "name": "Scarecrow Blues"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Luis Zunel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67154&imagesize=100", 
+            "id": "67154", 
+            "name": "Woman in blues 2 (feat. PeerGynT LoboGris)"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Luis Zunel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135948&imagesize=100", 
+            "id": "135948", 
+            "name": "Reset my Blues (Featuring Peergynt Lobogris)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Carol Bret", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85653&imagesize=100", 
+            "id": "85653", 
+            "name": "Danger"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "PremiumMusic (Instrumental Version)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118644&imagesize=100", 
+            "id": "118644", 
+            "name": "Cinematic African World Percussion Africa Wildlife Congas Bongos Theme Vol.2 Album n\u00b0141"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "japersson", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106229&imagesize=100", 
+            "id": "106229", 
+            "name": "Pendlarblues"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "japersson", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79179&imagesize=100", 
+            "id": "79179", 
+            "name": "November"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Steve Clark", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109776&imagesize=100", 
+            "id": "109776", 
+            "name": "The Long Way Round"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Blue Millenium", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58860&imagesize=100", 
+            "id": "58860", 
+            "name": "Little Rosey"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Nelson Jenstad", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55615&imagesize=100", 
+            "id": "55615", 
+            "name": "You Give Me Pause"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Nelson Jenstad", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92697&imagesize=100", 
+            "id": "92697", 
+            "name": "How To Buy A TV"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "PC", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19806&imagesize=100", 
+            "id": "19806", 
+            "name": "Vivacomovailalahente"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Pat JamMan", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53527&imagesize=100", 
+            "id": "53527", 
+            "name": "DeltaBlues Covers"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Ben5bass", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=127166&imagesize=100", 
+            "id": "127166", 
+            "name": "Back to basics"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Polaris", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22707&imagesize=100", 
+            "id": "22707", 
+            "name": "Polaris"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Stepping Back", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7186&imagesize=100", 
+            "id": "7186", 
+            "name": "Stepping Back"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "pLg", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74885&imagesize=100", 
+            "id": "74885", 
+            "name": "Maqueta"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Bruise In Blues", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77202&imagesize=100", 
+            "id": "77202", 
+            "name": "Stoneman"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "\u041a\u0430\u0431\u0438\u043d\u0430 13 \u0431\u0435\u0434", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93032&imagesize=100", 
+            "id": "93032", 
+            "name": "Fist"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "DJPoonThang", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133901&imagesize=100", 
+            "id": "133901", 
+            "name": "Past, present & future"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Truman", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136678&imagesize=100", 
+            "id": "136678", 
+            "name": "Riffle One (Single)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Truman", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77336&imagesize=100", 
+            "id": "77336", 
+            "name": "Peninsula Blues"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Mbesil", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84271&imagesize=100", 
+            "id": "84271", 
+            "name": "Ricordi Indelebili"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Melody Ann Rose", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62980&imagesize=100", 
+            "id": "62980", 
+            "name": "Can't Bring Me Down by Melody Ann Rose"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "\u0410\u043a\u0432\u0438\u043b\u043e\u043d", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43048&imagesize=100", 
+            "id": "43048", 
+            "name": "\u0426\u0438\u0444\u0440\u0430\u043d\u043e\u043b\u044c vol. 1"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "John Option", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136875&imagesize=100", 
+            "id": "136875", 
+            "name": "You fill my soul (Single)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "GUSAZEKAS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107742&imagesize=100", 
+            "id": "107742", 
+            "name": "MUNDO HOSTIL"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "LIMESTONE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41487&imagesize=100", 
+            "id": "41487", 
+            "name": "Pas idiot"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Lino Del Vecchio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108455&imagesize=100", 
+            "id": "108455", 
+            "name": "No way"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Lino Del Vecchio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113606&imagesize=100", 
+            "id": "113606", 
+            "name": "\"Desert Melody\""
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Lino Del Vecchio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109793&imagesize=100", 
+            "id": "109793", 
+            "name": "Jamendo Blues"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Yisus & El Sagrado Coraz\u00f3n", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116466&imagesize=100", 
+            "id": "116466", 
+            "name": "El fin del mundo (single)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Yisus & El Sagrado Coraz\u00f3n", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116246&imagesize=100", 
+            "id": "116246", 
+            "name": "Antes del fin del mundo"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "clementine s", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66170&imagesize=100", 
+            "id": "66170", 
+            "name": "My soul"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Robert James", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77490&imagesize=100", 
+            "id": "77490", 
+            "name": "Old Memoriz On Rock Hawaiian Guitar By Robert James"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Robert James", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60882&imagesize=100", 
+            "id": "60882", 
+            "name": "Indian Instrumental Vol3- Robert James on Hawaiian Guitar"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "JAC", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135529&imagesize=100", 
+            "id": "135529", 
+            "name": "Strings Roads"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Philippe Maurice and Co", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76085&imagesize=100", 
+            "id": "76085", 
+            "name": "I can't stay"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Alex", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97335&imagesize=100", 
+            "id": "97335", 
+            "name": "Flight"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Stoner Train", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103956&imagesize=100", 
+            "id": "103956", 
+            "name": "Sluts For The Rebels"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Traveling in Stereo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137285&imagesize=100", 
+            "id": "137285", 
+            "name": "All Our Schemes (EP)"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Fabrice Collette", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6414&imagesize=100", 
+            "id": "6414", 
+            "name": "rouge et blues"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Fabrice Collette", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6710&imagesize=100", 
+            "id": "6710", 
+            "name": "Ballades de nulle part"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "MAJESTE FELINE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31861&imagesize=100", 
+            "id": "31861", 
+            "name": "[In]conscience dans le viseur"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "BlueDid - didier.merlateau", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18292&imagesize=100", 
+            "id": "18292", 
+            "name": "Plourin'Bluesi"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "C.A.M.P.", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45292&imagesize=100", 
+            "id": "45292", 
+            "name": "My Way"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "C.A.M.P.", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39537&imagesize=100", 
+            "id": "39537", 
+            "name": "JAM"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "C.A.M.P.", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54157&imagesize=100", 
+            "id": "54157", 
+            "name": "NEW WORLD"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Dancing Willow", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34240&imagesize=100", 
+            "id": "34240", 
+            "name": "Dancing Willow: Demo-CD 2007"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Andrea Raso", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126593&imagesize=100", 
+            "id": "126593", 
+            "name": "Anni 30"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Guy Berrier", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92130&imagesize=100", 
+            "id": "92130", 
+            "name": "MIMOSA"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Guy Berrier", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91942&imagesize=100", 
+            "id": "91942", 
+            "name": "MIXEDLINES"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Guy Berrier", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92113&imagesize=100", 
+            "id": "92113", 
+            "name": "MELANGES"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Blue Root", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128742&imagesize=100", 
+            "id": "128742", 
+            "name": "Blue Route"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Crosscut Saw", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27427&imagesize=100", 
+            "id": "27427", 
+            "name": "Old"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Phil", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116443&imagesize=100", 
+            "id": "116443", 
+            "name": "SO LONG"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "\u041a\u0438\u0441\u043a\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115964&imagesize=100", 
+            "id": "115964", 
+            "name": "\u0424\u0435\u0441\u0442\u0435\u0432\u0430\u043b\u044c2000!"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "\u041a\u0438\u0441\u043a\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132573&imagesize=100", 
+            "id": "132573", 
+            "name": "ExtraExtreme!"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Leo Bowers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134442&imagesize=100", 
+            "id": "134442", 
+            "name": "On The Rag"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Leo Bowers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121505&imagesize=100", 
+            "id": "121505", 
+            "name": "Bitter Sweet"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "NO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60070&imagesize=100", 
+            "id": "60070", 
+            "name": "Paris-Chicago"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "\"Carlos der Eisb\u00e4r\"", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95062&imagesize=100", 
+            "id": "95062", 
+            "name": "\"Carlos der Eisb\u00e4r hat den Blues\""
+        }, 
+        {
+            "release": "2010", 
+            "artist": "\u041c\u0430\u043a\u0441\u0438\u043c \u0415\u0433\u043e\u0440\u043e\u0432 / Maxim EGOROV", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62776&imagesize=100", 
+            "id": "62776", 
+            "name": "\u0412\u0435\u0441\u043d\u0430 - Spring"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "AZULES Blues Rock", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104693&imagesize=100", 
+            "id": "104693", 
+            "name": "BLUES IN RED (FULL MASTERED ED. AVAILABLE)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "AZULES Blues Rock", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94403&imagesize=100", 
+            "id": "94403", 
+            "name": "BLUES IN RED (PRE-PRODUCTION)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Gambona", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88200&imagesize=100", 
+            "id": "88200", 
+            "name": "VIDA BLUES - Gambona"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Max Tovstyi", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52194&imagesize=100", 
+            "id": "52194", 
+            "name": "I'm A Man (single)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Max Tovstyi", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109629&imagesize=100", 
+            "id": "109629", 
+            "name": "Meet The Turnaround!"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Conway Hambone", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134692&imagesize=100", 
+            "id": "134692", 
+            "name": "Festival of international tone Biscuits vol1"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "TRIUMVIRAL", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116874&imagesize=100", 
+            "id": "116874", 
+            "name": "Ad Gloriam"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "The Sterns", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99732&imagesize=100", 
+            "id": "99732", 
+            "name": "The Red Sterns - Winter Cold"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "The Sterns", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90059&imagesize=100", 
+            "id": "90059", 
+            "name": "The Red Sterns EP"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "The Sterns", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90537&imagesize=100", 
+            "id": "90537", 
+            "name": "The Red Sterns LP (2011)"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Hannu Kalevi Elo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15662&imagesize=100", 
+            "id": "15662", 
+            "name": "Blues Flames"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Igor Aleksandriuk (\u0418\u0433\u043e\u0440\u044c \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u044e\u043a)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28890&imagesize=100", 
+            "id": "28890", 
+            "name": "Anxiety (\u0411\u0435\u0441\u043f\u043e\u043a\u043e\u0439\u0441\u0442\u0432\u043e)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "ERIC", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21566&imagesize=100", 
+            "id": "21566", 
+            "name": "ERIC"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Claudio Papitto", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88978&imagesize=100", 
+            "id": "88978", 
+            "name": "... And The Tune?"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Jimi Sobara", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111364&imagesize=100", 
+            "id": "111364", 
+            "name": "The Pearls"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Bluesavino", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113828&imagesize=100", 
+            "id": "113828", 
+            "name": "Take a stroll in the music"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "\u0413\u0440\u0443\u043f\u043f\u0430 \u0410\u0441\u0441\u0443\u0440\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120848&imagesize=100", 
+            "id": "120848", 
+            "name": "\u041d\u0430 \u0433\u0440\u0430\u043d\u0438"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Lar Clobsay", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109066&imagesize=100", 
+            "id": "109066", 
+            "name": "AM21Blues"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "David Lee", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82574&imagesize=100", 
+            "id": "82574", 
+            "name": "Blue Roots"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Lena Selyanina", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101190&imagesize=100", 
+            "id": "101190", 
+            "name": "Sophie's Song"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Arnaud Tranquil", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104814&imagesize=100", 
+            "id": "104814", 
+            "name": "Premi\u00e8re d\u00e9mo (2012)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Blue Identity", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80843&imagesize=100", 
+            "id": "80843", 
+            "name": "Blue Identity-BSO"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "154", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129955&imagesize=100", 
+            "id": "129955", 
+            "name": "2012"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "NaTtA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132671&imagesize=100", 
+            "id": "132671", 
+            "name": "C`est La Vie"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "SnakesArt", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118623&imagesize=100", 
+            "id": "118623", 
+            "name": "Old Blues Theme"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Arpee Ong", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42935&imagesize=100", 
+            "id": "42935", 
+            "name": "in isolation"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Arpee Ong", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31288&imagesize=100", 
+            "id": "31288", 
+            "name": "uno"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "BOOGIEJO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98759&imagesize=100", 
+            "id": "98759", 
+            "name": "the boogiejo"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "DOCTOR BLUES", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57309&imagesize=100", 
+            "id": "57309", 
+            "name": "PLATERUENA"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Sean T Wright", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109327&imagesize=100", 
+            "id": "109327", 
+            "name": "Drinkers & Demons"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Hellfire Snake", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41453&imagesize=100", 
+            "id": "41453", 
+            "name": "Hellfire snake"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Cosoid 3.5", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131405&imagesize=100", 
+            "id": "131405", 
+            "name": "Junkie Relics"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Ghost's Stories", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124922&imagesize=100", 
+            "id": "124922", 
+            "name": "Dancing In The Rain"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "BLUESY ROOSTERS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68427&imagesize=100", 
+            "id": "68427", 
+            "name": "01 / 06 / 2010"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "Jampy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3591&imagesize=100", 
+            "id": "3591", 
+            "name": "Nghzk!"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Jampy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33392&imagesize=100", 
+            "id": "33392", 
+            "name": "Lost Citizens"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Syphilis.Org", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34809&imagesize=100", 
+            "id": "34809", 
+            "name": "Furoncle Premier"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "FunkyJu", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33255&imagesize=100", 
+            "id": "33255", 
+            "name": "Devil blues on the rock"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Ciampa & The Blues", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111697&imagesize=100", 
+            "id": "111697", 
+            "name": "City beat"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Ciampa & The Blues", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111683&imagesize=100", 
+            "id": "111683", 
+            "name": "Running with the blues"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Ciampa & The Blues", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44636&imagesize=100", 
+            "id": "44636", 
+            "name": "Blues at home"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Lobo Loco", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49490&imagesize=100", 
+            "id": "49490", 
+            "name": "Hacking in the System"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Lobo Loco", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48943&imagesize=100", 
+            "id": "48943", 
+            "name": "Blues'n Sofa and Nature"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Lobo Loco", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128243&imagesize=100", 
+            "id": "128243", 
+            "name": "Instrumental Piano - Playalong"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Lobo Loco", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56462&imagesize=100", 
+            "id": "56462", 
+            "name": "Midlife Blues"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Lobo Loco", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47977&imagesize=100", 
+            "id": "47977", 
+            "name": "Blackbox"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Tony Macaroni & Heavy Friends", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70711&imagesize=100", 
+            "id": "70711", 
+            "name": "I Got Skills part 1"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Comfort Farmers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90445&imagesize=100", 
+            "id": "90445", 
+            "name": "Never compromise - Single"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Roberto Diana", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69006&imagesize=100", 
+            "id": "69006", 
+            "name": "Sol Serenade"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Roxsturbed", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50576&imagesize=100", 
+            "id": "50576", 
+            "name": "Land of Eternal Spring"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "David\u00b4s Blue", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55489&imagesize=100", 
+            "id": "55489", 
+            "name": "Sexy woman in my heart"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "JAMA ROCK", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116792&imagesize=100", 
+            "id": "116792", 
+            "name": "ZAPACH PERFUM"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Paul CREA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9040&imagesize=100", 
+            "id": "9040", 
+            "name": "L'espoir"
+        }
+    ], 
+    "name": "Blues"
+}

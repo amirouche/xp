@@ -1,0 +1,44 @@
+{
+    "name": "Le jardin des simples", 
+    "artist": "J-M Dauphy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45250&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343243&streamencoding=mp31", 
+            "name": "01 - Fran\u00e7oise"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343253&streamencoding=mp31", 
+            "name": "02 - La belle Helene"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343274&streamencoding=mp31", 
+            "name": "0 3- Pres de chez marcel"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343262&streamencoding=mp31", 
+            "name": "04 - Nuits bleues"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343261&streamencoding=mp31", 
+            "name": "05 - Les petits mots d'amour"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343240&streamencoding=mp31", 
+            "name": "06 - Fevrier"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343280&streamencoding=mp31", 
+            "name": "07 - Un blues pour un spleen"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45250"
+}

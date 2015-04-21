@@ -1,0 +1,59 @@
+{
+    "name": "Very Heepy Very Purple", 
+    "artist": "Avi Rosenfeld", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119456&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014555&streamencoding=mp31", 
+            "name": "Trumpets Of War"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014563&streamencoding=mp31", 
+            "name": "Into The Battle"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014564&streamencoding=mp31", 
+            "name": "The One Who Will Be King"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014562&streamencoding=mp31", 
+            "name": "Yemei Hahanukkah"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014561&streamencoding=mp31", 
+            "name": "Land Of The Nile"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014560&streamencoding=mp31", 
+            "name": "Empires Fall"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014559&streamencoding=mp31", 
+            "name": "Midnight Comes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014558&streamencoding=mp31", 
+            "name": "Noflim El Ha Tehom"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014557&streamencoding=mp31", 
+            "name": "Rain Shadow"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014556&streamencoding=mp31", 
+            "name": "Wake UP"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119456"
+}

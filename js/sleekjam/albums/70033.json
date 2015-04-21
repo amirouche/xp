@@ -1,0 +1,14 @@
+{
+    "name": "La Selva", 
+    "artist": "Luis Carlos Espinosa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70033&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=605488&streamencoding=mp31", 
+            "name": "La Selva"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70033"
+}

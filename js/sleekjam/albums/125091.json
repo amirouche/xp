@@ -1,0 +1,29 @@
+{
+    "name": "Red Sperm", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125091&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060429&streamencoding=mp31", 
+            "name": "Red Sperm"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060431&streamencoding=mp31", 
+            "name": "Own Your Future"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060432&streamencoding=mp31", 
+            "name": "Forever Last"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060434&streamencoding=mp31", 
+            "name": "Fucking Beast"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125091"
+}

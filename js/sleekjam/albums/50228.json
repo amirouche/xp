@@ -1,0 +1,39 @@
+{
+    "name": "Brown Bird at The Nave", 
+    "artist": "ARTSomerville", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50228&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=404265&streamencoding=mp31", 
+            "name": "muck and mire"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=404266&streamencoding=mp31", 
+            "name": "devil dancing"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=404267&streamencoding=mp31", 
+            "name": "needy generator"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=404269&streamencoding=mp31", 
+            "name": "bottom of the bottle"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=404270&streamencoding=mp31", 
+            "name": "your voice is a twisted tune"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=404271&streamencoding=mp31", 
+            "name": "by the reins"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50228"
+}

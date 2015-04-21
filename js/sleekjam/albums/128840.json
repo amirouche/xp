@@ -1,0 +1,69 @@
+{
+    "name": "Twelve haiku", 
+    "artist": "Sergey Kovchik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128840&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081496&streamencoding=mp31", 
+            "name": "Quiet moonlit night ..."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081497&streamencoding=mp31", 
+            "name": "Father grieves for her child"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081498&streamencoding=mp31", 
+            "name": "Parting with a friend"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081499&streamencoding=mp31", 
+            "name": "Portrait of a friend"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081500&streamencoding=mp31", 
+            "name": "Snow hare"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081501&streamencoding=mp31", 
+            "name": "Monkey amuses crowd "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081502&streamencoding=mp31", 
+            "name": "In memory of the poet Chojun"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081503&streamencoding=mp31", 
+            "name": "Do not hurt a fly"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081504&streamencoding=mp31", 
+            "name": "In the old my little house"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081505&streamencoding=mp31", 
+            "name": "Bell"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081506&streamencoding=mp31", 
+            "name": "Severe winter"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081507&streamencoding=mp31", 
+            "name": "Late autumn"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128840"
+}

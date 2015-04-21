@@ -1,0 +1,59 @@
+{
+    "name": "Fresh", 
+    "artist": "mmb digidesigns", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7367&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80511&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80512&streamencoding=mp31", 
+            "name": "Kalimba experience"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80513&streamencoding=mp31", 
+            "name": "Fresh (original edition)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80514&streamencoding=mp31", 
+            "name": "Les bains royaux de Tirtaganga (Bali)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80515&streamencoding=mp31", 
+            "name": "Nostalgia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80516&streamencoding=mp31", 
+            "name": "Like an ancient koto"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80517&streamencoding=mp31", 
+            "name": "Piano solo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80518&streamencoding=mp31", 
+            "name": "Rameau's menuet"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80519&streamencoding=mp31", 
+            "name": "Church organ"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80520&streamencoding=mp31", 
+            "name": "End"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7367"
+}

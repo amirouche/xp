@@ -1,0 +1,99 @@
+{
+    "name": "Recycle Bin", 
+    "artist": "Daniel Bautista", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19649&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137315&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137316&streamencoding=mp31", 
+            "name": "Dif\u00edcil"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137317&streamencoding=mp31", 
+            "name": "Yo Rob\u00e9 La Navidad"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137318&streamencoding=mp31", 
+            "name": "Caf\u00e9 Flesh 4"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137319&streamencoding=mp31", 
+            "name": "T\u00e9cnica"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137320&streamencoding=mp31", 
+            "name": "Electronic Devices #1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137322&streamencoding=mp31", 
+            "name": "Gothic Song"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137321&streamencoding=mp31", 
+            "name": "Electronic Devices #2"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137324&streamencoding=mp31", 
+            "name": "Death Pieces #2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137325&streamencoding=mp31", 
+            "name": "Penetration"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137326&streamencoding=mp31", 
+            "name": "Fractal #1"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137327&streamencoding=mp31", 
+            "name": "Fractal #4"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137328&streamencoding=mp31", 
+            "name": "Piano Lessons"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137329&streamencoding=mp31", 
+            "name": "Gypsy"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137330&streamencoding=mp31", 
+            "name": "A Short Song"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137332&streamencoding=mp31", 
+            "name": "Skatec"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137323&streamencoding=mp31", 
+            "name": "Death Pieces #1"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137331&streamencoding=mp31", 
+            "name": "Salsa"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19649"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "The Histrionic", 
+    "artist": "Rieg", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85332&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729874&streamencoding=mp31", 
+            "name": "Postmodern Funkatron"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729875&streamencoding=mp31", 
+            "name": "The Histrionic"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729873&streamencoding=mp31", 
+            "name": "Runaway"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85332"
+}

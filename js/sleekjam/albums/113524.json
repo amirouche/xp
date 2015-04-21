@@ -1,0 +1,14 @@
+{
+    "name": "ME PONGO A LA SOMBRA", 
+    "artist": "Frisco Sanchez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113524&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=965358&streamencoding=mp31", 
+            "name": "ME PONGO A LA SOMBRA"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113524"
+}

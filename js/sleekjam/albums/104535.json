@@ -1,0 +1,14 @@
+{
+    "name": "Spare me", 
+    "artist": "CONS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104535&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=889026&streamencoding=mp31", 
+            "name": "Spare me"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104535"
+}

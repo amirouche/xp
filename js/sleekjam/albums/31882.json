@@ -1,0 +1,44 @@
+{
+    "name": "Two Shots for my keyboard", 
+    "artist": "C.Kd", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31882&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219446&streamencoding=mp31", 
+            "name": "Fhilmhe"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219453&streamencoding=mp31", 
+            "name": "Etcherna\u00efa n'a rien su faire"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219455&streamencoding=mp31", 
+            "name": "Canigou sur mer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219470&streamencoding=mp31", 
+            "name": "La Gentlihommi\u00e8re se Bascule"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219472&streamencoding=mp31", 
+            "name": "AnniFlo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219474&streamencoding=mp31", 
+            "name": "C'est quoi des...?"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219475&streamencoding=mp31", 
+            "name": "Une entr\u00e9e au dessert"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31882"
+}

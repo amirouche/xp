@@ -1,0 +1,24 @@
+{
+    "name": "avoid the labor of thinking", 
+    "artist": "bedawang", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89164&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=761895&streamencoding=mp31", 
+            "name": "bedawang - 01 - refute"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=761889&streamencoding=mp31", 
+            "name": "bedawang - 02 - reorder"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=761890&streamencoding=mp31", 
+            "name": "bedawang - 03 - survive"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89164"
+}

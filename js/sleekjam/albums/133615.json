@@ -1,0 +1,24 @@
+{
+    "name": "Irradia", 
+    "artist": "Juan Cobos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133615&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118146&streamencoding=mp31", 
+            "name": "Irradia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118147&streamencoding=mp31", 
+            "name": "Altura invisible"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118148&streamencoding=mp31", 
+            "name": "Dejarse ir"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133615"
+}

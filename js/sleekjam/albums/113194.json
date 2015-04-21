@@ -1,0 +1,14 @@
+{
+    "name": "Carry On", 
+    "artist": "Chiiukokoneka", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113194&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=962945&streamencoding=mp31", 
+            "name": "carry_on"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113194"
+}

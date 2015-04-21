@@ -1,0 +1,44 @@
+{
+    "name": "The Bus", 
+    "artist": "Phopha", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20628&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144774&streamencoding=mp31", 
+            "name": "The Drive-away"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144775&streamencoding=mp31", 
+            "name": "The Station"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144779&streamencoding=mp31", 
+            "name": "The Mellow Road"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144780&streamencoding=mp31", 
+            "name": "The Passengers"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144781&streamencoding=mp31", 
+            "name": "The Onslaught"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144782&streamencoding=mp31", 
+            "name": "The Depot"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144783&streamencoding=mp31", 
+            "name": "The Mellow Road (Effy Mix)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20628"
+}

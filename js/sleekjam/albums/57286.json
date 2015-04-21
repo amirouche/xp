@@ -1,0 +1,54 @@
+{
+    "name": "ObSession", 
+    "artist": "Bluescifer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57286&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488554&streamencoding=mp31", 
+            "name": "bluescifer - Nena no te puedo tocar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488553&streamencoding=mp31", 
+            "name": "bluescifer - Mis amigos"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488555&streamencoding=mp31", 
+            "name": "bluescifer - Mi Bestia de Placer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488560&streamencoding=mp31", 
+            "name": "bluescifer - Facebook"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488559&streamencoding=mp31", 
+            "name": "bluescifer -Rehabilitado"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488558&streamencoding=mp31", 
+            "name": "bluescifer - Inocencia perdida"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488552&streamencoding=mp31", 
+            "name": "bluescifer - El Ejecutivo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488556&streamencoding=mp31", 
+            "name": "bluescifer - Aquellos tiempos"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488557&streamencoding=mp31", 
+            "name": "bluescifer - Mujer cobertor"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57286"
+}

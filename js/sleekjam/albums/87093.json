@@ -1,0 +1,19 @@
+{
+    "name": "\u0428\u041b\u042e\u0417", 
+    "artist": "\u0428\u041b\u042e\u0417", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87093&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=745211&streamencoding=mp31", 
+            "name": "\u0421\u0442\u0430\u0440\u0448\u0435"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=745213&streamencoding=mp31", 
+            "name": "\u041f\u043e\u0437\u0434\u043d\u043e"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87093"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "KalaChaKrA", 
+    "artist": "PHILIpPE bRaY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82187&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=704783&streamencoding=mp31", 
+            "name": "Kalachakra"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=704780&streamencoding=mp31", 
+            "name": "Ces vers, je dedie"
+        }
+    ], 
+    "release": "2010", 
+    "id": "82187"
+}

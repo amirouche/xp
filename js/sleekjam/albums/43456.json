@@ -1,0 +1,49 @@
+{
+    "name": "Beatmaking 1", 
+    "artist": "HOMICIDZ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43456&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=323001&streamencoding=mp31", 
+            "name": "CRIMINOGENZ"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322997&streamencoding=mp31", 
+            "name": "NOCIFZ"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322996&streamencoding=mp31", 
+            "name": "HANTIZ"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322995&streamencoding=mp31", 
+            "name": "HEY!CRICKZ"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322998&streamencoding=mp31", 
+            "name": "EXITZ"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=322999&streamencoding=mp31", 
+            "name": "DEADMENZ"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=323000&streamencoding=mp31", 
+            "name": "GANGSTALEADZ"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=323002&streamencoding=mp31", 
+            "name": "SUSPECTZ"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43456"
+}

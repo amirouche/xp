@@ -1,0 +1,34 @@
+{
+    "name": "Alle machen es (mit Evren Svren)", 
+    "artist": "Gasher G.14", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108510&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916717&streamencoding=mp31", 
+            "name": "Alle machen es (Gasher G.14)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916718&streamencoding=mp31", 
+            "name": "Alle machen es (Evren Svren)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916719&streamencoding=mp31", 
+            "name": "Freiheit (powered by Kim)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916720&streamencoding=mp31", 
+            "name": "Alle machen es (Gashers Original 2004)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=916721&streamencoding=mp31", 
+            "name": "Alle machen es (Fucked up by Evren Svren 2005)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108510"
+}

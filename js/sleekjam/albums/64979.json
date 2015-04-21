@@ -1,0 +1,69 @@
+{
+    "name": "DEWILDICATION", 
+    "artist": "Tetania", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64979&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559539&streamencoding=mp31", 
+            "name": "Dewildication Ouverture"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559542&streamencoding=mp31", 
+            "name": "Something Wicked This Way Comes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559581&streamencoding=mp31", 
+            "name": "WILD"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559601&streamencoding=mp31", 
+            "name": "Interlude I - Night of Deviations Comes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559624&streamencoding=mp31", 
+            "name": "Pigmalionism"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559648&streamencoding=mp31", 
+            "name": "Dies Illa"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559652&streamencoding=mp31", 
+            "name": "Sacred Deliverance"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559678&streamencoding=mp31", 
+            "name": "Interlude II - When a Genius Dies"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559691&streamencoding=mp31", 
+            "name": "Sacrificium Prelude"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559692&streamencoding=mp31", 
+            "name": "Death of a Genius"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559732&streamencoding=mp31", 
+            "name": "Dewildication Ends"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559773&streamencoding=mp31", 
+            "name": "Bonus - Kyrie(Extended)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64979"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Radiob\u00fchne Live", 
+    "artist": "Hippie House Jam Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119999&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020439&streamencoding=mp31", 
+            "name": "Um die Ecke"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020441&streamencoding=mp31", 
+            "name": "Zeit verbraucht"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020442&streamencoding=mp31", 
+            "name": "Hippie Bulle"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020443&streamencoding=mp31", 
+            "name": "Tanzen"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020444&streamencoding=mp31", 
+            "name": "Dealer"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020445&streamencoding=mp31", 
+            "name": "Alte Tucke"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020446&streamencoding=mp31", 
+            "name": "Clooney"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020447&streamencoding=mp31", 
+            "name": "Rausgehn"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020437&streamencoding=mp31", 
+            "name": "Sonnenschein"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020438&streamencoding=mp31", 
+            "name": "Funky Banane"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1020440&streamencoding=mp31", 
+            "name": "Bin der Boss"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119999"
+}

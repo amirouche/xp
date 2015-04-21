@@ -1,0 +1,44 @@
+{
+    "name": "Une main lave l'autre", 
+    "artist": "KAKOFOBE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32037&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217542&streamencoding=mp31", 
+            "name": "intro ou pas assez"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217561&streamencoding=mp31", 
+            "name": "Deep apologies"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217625&streamencoding=mp31", 
+            "name": "Pyramix"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217634&streamencoding=mp31", 
+            "name": "Shake db and kakofobe product (slow cut)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217643&streamencoding=mp31", 
+            "name": "Splash"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217648&streamencoding=mp31", 
+            "name": "Crystal"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217660&streamencoding=mp31", 
+            "name": "outrospection"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32037"
+}

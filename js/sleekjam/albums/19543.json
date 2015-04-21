@@ -1,0 +1,74 @@
+{
+    "name": "L'Ind\u00e9fini", 
+    "artist": "iN2Ni", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19543&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137269&streamencoding=mp31", 
+            "name": "Comme les chiens, j'\u00e9prouve le besoin de l'infini"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137270&streamencoding=mp31", 
+            "name": "L'Innommable en marche"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137271&streamencoding=mp31", 
+            "name": "Dreams are not good for you"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137272&streamencoding=mp31", 
+            "name": "The Human Image"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137274&streamencoding=mp31", 
+            "name": "De l\u2019infinito universo et Mondi"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137275&streamencoding=mp31", 
+            "name": "Hasta disaparece"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137276&streamencoding=mp31", 
+            "name": "Inscription"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137277&streamencoding=mp31", 
+            "name": "Clefs"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137278&streamencoding=mp31", 
+            "name": "Annabel Lee"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137279&streamencoding=mp31", 
+            "name": "Walpurgis"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137280&streamencoding=mp31", 
+            "name": "Carnival of sounds"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137281&streamencoding=mp31", 
+            "name": "Baudelaire V"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137282&streamencoding=mp31", 
+            "name": "L'Innommable rauque"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19543"
+}

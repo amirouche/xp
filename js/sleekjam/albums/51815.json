@@ -1,0 +1,14 @@
+{
+    "name": "Ballad", 
+    "artist": "NCTify", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51815&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423037&streamencoding=mp31", 
+            "name": "Ballad"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51815"
+}

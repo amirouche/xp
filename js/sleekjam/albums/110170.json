@@ -1,0 +1,14 @@
+{
+    "name": "Perfect Background Music for Corporate Projects", 
+    "artist": "Akashic Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110170&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938389&streamencoding=mp31", 
+            "name": "Elegant Background Music"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110170"
+}

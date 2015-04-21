@@ -1,0 +1,74 @@
+{
+    "name": "Reflections at Every Corner", 
+    "artist": "Jeff Wyatt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40063&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288244&streamencoding=mp31", 
+            "name": "Life At Every Station"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288255&streamencoding=mp31", 
+            "name": "Take It From Me"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288245&streamencoding=mp31", 
+            "name": "Kerala Sunset"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288246&streamencoding=mp31", 
+            "name": "Part-time Love, Full-time Pain"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288247&streamencoding=mp31", 
+            "name": "And Through It All"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288256&streamencoding=mp31", 
+            "name": "Saving Grace"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288258&streamencoding=mp31", 
+            "name": "Albania"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288262&streamencoding=mp31", 
+            "name": "If She Could Know"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288263&streamencoding=mp31", 
+            "name": "Thank You For Loving Me Again"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288264&streamencoding=mp31", 
+            "name": "In Her Own Time"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288274&streamencoding=mp31", 
+            "name": "Shenandoah"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288796&streamencoding=mp31", 
+            "name": "Corae Corae"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=288797&streamencoding=mp31", 
+            "name": "Reflections at Every Corner"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40063"
+}

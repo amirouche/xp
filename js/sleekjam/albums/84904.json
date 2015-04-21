@@ -1,0 +1,69 @@
+{
+    "name": "Long road to the honest", 
+    "artist": "JJ LlombArt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84904&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726619&streamencoding=mp31", 
+            "name": "Flying spirit"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726620&streamencoding=mp31", 
+            "name": "The last war"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726621&streamencoding=mp31", 
+            "name": "Why we can not"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726622&streamencoding=mp31", 
+            "name": "Cruel lady"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726623&streamencoding=mp31", 
+            "name": "Spring has come"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726624&streamencoding=mp31", 
+            "name": "Train goes back"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726625&streamencoding=mp31", 
+            "name": "Song for Etiopia"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726626&streamencoding=mp31", 
+            "name": "Freedom for your mind"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726628&streamencoding=mp31", 
+            "name": "Monkey on a tree"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726630&streamencoding=mp31", 
+            "name": "I'd like that"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726631&streamencoding=mp31", 
+            "name": "Watching TV"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726633&streamencoding=mp31", 
+            "name": "Long road to the honest"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84904"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Machine Yoga EP", 
+    "artist": "harmonie_mit_nichts", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84693&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724855&streamencoding=mp31", 
+            "name": "LOVE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724880&streamencoding=mp31", 
+            "name": "LUCK YOU"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724917&streamencoding=mp31", 
+            "name": "BAMBI ZOMBIE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=725020&streamencoding=mp31", 
+            "name": "YOUTH"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84693"
+}

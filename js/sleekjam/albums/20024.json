@@ -1,0 +1,44 @@
+{
+    "name": "neu", 
+    "artist": "Ufolux", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20024&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140040&streamencoding=mp31", 
+            "name": "neu"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140030&streamencoding=mp31", 
+            "name": "A"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140051&streamencoding=mp31", 
+            "name": "und"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140052&streamencoding=mp31", 
+            "name": "B"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140072&streamencoding=mp31", 
+            "name": "aha"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140073&streamencoding=mp31", 
+            "name": "drinnen"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140084&streamencoding=mp31", 
+            "name": "44%"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20024"
+}

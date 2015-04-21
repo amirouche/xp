@@ -1,0 +1,39 @@
+{
+    "name": "La Zintechno", 
+    "artist": "DJ Overdrive J.R.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123448&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047511&streamencoding=mp31", 
+            "name": "La Zintechno 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047510&streamencoding=mp31", 
+            "name": "La Zintechno 2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047509&streamencoding=mp31", 
+            "name": "La Zintechno 3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047508&streamencoding=mp31", 
+            "name": "La Zintechno 4"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047507&streamencoding=mp31", 
+            "name": "La Zintechno 5"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047506&streamencoding=mp31", 
+            "name": "La Zintechno 6 "
+        }
+    ], 
+    "release": "2013", 
+    "id": "123448"
+}

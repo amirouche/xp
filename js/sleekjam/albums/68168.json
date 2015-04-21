@@ -1,0 +1,19 @@
+{
+    "name": "Summer Peace", 
+    "artist": "EIVISSA SALINAS feat. DJ HSERES", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68168&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591125&streamencoding=mp31", 
+            "name": "Summer Peace"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591126&streamencoding=mp31", 
+            "name": "Summer Peace [Gonna be OK mix]"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68168"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "fragments of stories (2007)", 
+    "artist": "Wasaru", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7130&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78470&streamencoding=mp31", 
+            "name": "can we speak"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78472&streamencoding=mp31", 
+            "name": "far departure"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78473&streamencoding=mp31", 
+            "name": "dream(s)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78474&streamencoding=mp31", 
+            "name": "process filled"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78475&streamencoding=mp31", 
+            "name": "china blue disaster"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78476&streamencoding=mp31", 
+            "name": "peace and brocolis"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78477&streamencoding=mp31", 
+            "name": "222 years"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78480&streamencoding=mp31", 
+            "name": "plane"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78484&streamencoding=mp31", 
+            "name": "session 10"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78486&streamencoding=mp31", 
+            "name": "basspirit"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78487&streamencoding=mp31", 
+            "name": "doin' time"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7130"
+}

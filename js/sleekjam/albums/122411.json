@@ -1,0 +1,34 @@
+{
+    "name": "Circles", 
+    "artist": "Alexander Franke", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122411&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039170&streamencoding=mp31", 
+            "name": "Circles"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039171&streamencoding=mp31", 
+            "name": "Sun Day"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039172&streamencoding=mp31", 
+            "name": "Floating"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039173&streamencoding=mp31", 
+            "name": "Flash Back"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039174&streamencoding=mp31", 
+            "name": "Lost In Delay"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122411"
+}

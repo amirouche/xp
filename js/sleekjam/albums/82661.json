@@ -1,0 +1,29 @@
+{
+    "name": "Earthquake", 
+    "artist": "Totosh", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82661&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708759&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708760&streamencoding=mp31", 
+            "name": "Don't Forget"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708757&streamencoding=mp31", 
+            "name": "Earthquake"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708758&streamencoding=mp31", 
+            "name": "Goodbye my friend"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82661"
+}

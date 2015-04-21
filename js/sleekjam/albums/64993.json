@@ -1,0 +1,59 @@
+{
+    "name": "Blick zum Horizont", 
+    "artist": "Damiaskaron", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64993&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559906&streamencoding=mp31", 
+            "name": "Und salzig ist das Meer"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559866&streamencoding=mp31", 
+            "name": "Bye bye Heuchelei"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559905&streamencoding=mp31", 
+            "name": "Nachtverlies"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559902&streamencoding=mp31", 
+            "name": "Goldene Zeiten"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559901&streamencoding=mp31", 
+            "name": "Ein Leben lang"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559899&streamencoding=mp31", 
+            "name": "Das ist mein Leben"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559867&streamencoding=mp31", 
+            "name": "Damiaskara"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559907&streamencoding=mp31", 
+            "name": "Winde der See"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559904&streamencoding=mp31", 
+            "name": "Grenzenwelt"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559951&streamencoding=mp31", 
+            "name": "Der Mond bek\u00e4mpft die Nacht"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64993"
+}

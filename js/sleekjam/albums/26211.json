@@ -1,0 +1,39 @@
+{
+    "name": "Tomorrow Never Knows", 
+    "artist": ".", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26211&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177178&streamencoding=mp31", 
+            "name": "anahaa nadam"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177191&streamencoding=mp31", 
+            "name": "drifting forms"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177215&streamencoding=mp31", 
+            "name": "active meditation"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177231&streamencoding=mp31", 
+            "name": "letting go at 881"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177251&streamencoding=mp31", 
+            "name": "deeper within"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=177278&streamencoding=mp31", 
+            "name": "crystal nights"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26211"
+}

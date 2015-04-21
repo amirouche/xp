@@ -1,0 +1,64 @@
+{
+    "name": "Lion in the jungle", 
+    "artist": "FAMILIA REGGAE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30767&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=207774&streamencoding=mp31", 
+            "name": "Lion in the Jungle"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=207779&streamencoding=mp31", 
+            "name": "Jah creo Zion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=207786&streamencoding=mp31", 
+            "name": "Juntos es mejor"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=207811&streamencoding=mp31", 
+            "name": "Do it right"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=207812&streamencoding=mp31", 
+            "name": "Heartless Vampire"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=207996&streamencoding=mp31", 
+            "name": "She was a leader"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208021&streamencoding=mp31", 
+            "name": "Burning fyah"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208032&streamencoding=mp31", 
+            "name": "Wath you gonna do"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208109&streamencoding=mp31", 
+            "name": "Creciendo en ti"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208133&streamencoding=mp31", 
+            "name": "ayudame senior"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208148&streamencoding=mp31", 
+            "name": "She knows it"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30767"
+}

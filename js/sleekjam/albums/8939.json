@@ -1,0 +1,39 @@
+{
+    "name": "360 ", 
+    "artist": "Mesh m18", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8939&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91518&streamencoding=mp31", 
+            "name": "Mesh m18 - Prend La Vibe"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91480&streamencoding=mp31", 
+            "name": "Mesh m18 - Quelques Pas"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91476&streamencoding=mp31", 
+            "name": "Mesh m18 - Il Est Temps"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91509&streamencoding=mp31", 
+            "name": "Mesh m18 - Ma Libert\u00e9"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91522&streamencoding=mp31", 
+            "name": "Mesh m18 - Les Enerv\u00e9s"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91489&streamencoding=mp31", 
+            "name": "Mesh m18 - Dans Ma Ville"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8939"
+}

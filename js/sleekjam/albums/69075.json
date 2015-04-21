@@ -1,0 +1,14 @@
+{
+    "name": "Pierre's Funk", 
+    "artist": "Pierre Lousse", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69075&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598026&streamencoding=mp31", 
+            "name": "Going to hip down"
+        }
+    ], 
+    "release": "2010", 
+    "id": "69075"
+}

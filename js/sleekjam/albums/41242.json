@@ -1,0 +1,39 @@
+{
+    "name": "Walking on the beach", 
+    "artist": "David\u00b4s Blue", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41242&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302318&streamencoding=mp31", 
+            "name": "walking on the beach by David Blue"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302357&streamencoding=mp31", 
+            "name": "David Blue"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302310&streamencoding=mp31", 
+            "name": "forever by David Blue"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302314&streamencoding=mp31", 
+            "name": "my friend by David Blue"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302312&streamencoding=mp31", 
+            "name": "lady by David Blue"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=302304&streamencoding=mp31", 
+            "name": "dream is live by David Blue"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41242"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Caribe sin Memoria (Single)", 
+    "artist": "DR. PACHANGA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55661&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=470529&streamencoding=mp31", 
+            "name": "Caribe sin memoria"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55661"
+}

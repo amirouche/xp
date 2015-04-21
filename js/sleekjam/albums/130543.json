@@ -1,0 +1,49 @@
+{
+    "name": "...And to Speak the Truth or Die", 
+    "artist": "Zeffon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130543&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095028&streamencoding=mp31", 
+            "name": "Battle of Gerrah"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095034&streamencoding=mp31", 
+            "name": "Defective"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095033&streamencoding=mp31", 
+            "name": "Castor Oil"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095031&streamencoding=mp31", 
+            "name": "Battle of Amig"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095027&streamencoding=mp31", 
+            "name": "And to Speak the Truth or Die, Fire Book"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095032&streamencoding=mp31", 
+            "name": "Untitled"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095030&streamencoding=mp31", 
+            "name": "Shining(RE) 1"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1095029&streamencoding=mp31", 
+            "name": "Shining(RE) 2"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130543"
+}

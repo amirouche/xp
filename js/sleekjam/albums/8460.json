@@ -1,0 +1,29 @@
+{
+    "name": "Jakub Tuta", 
+    "artist": "Jakub Tuta", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8460&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88400&streamencoding=mp31", 
+            "name": "Dzieci Boga"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88409&streamencoding=mp31", 
+            "name": "Halimun"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88411&streamencoding=mp31", 
+            "name": "Mama"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88414&streamencoding=mp31", 
+            "name": "Sic"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8460"
+}

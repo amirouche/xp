@@ -1,0 +1,74 @@
+{
+    "name": "Glasklinge Sampler Vol. 1.", 
+    "artist": "Glasklinge Sampler", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29251&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196102&streamencoding=mp31", 
+            "name": "eisenlager - monkeyo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196103&streamencoding=mp31", 
+            "name": "dolor - sehnsucht"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196104&streamencoding=mp31", 
+            "name": "pan - traummaschine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196105&streamencoding=mp31", 
+            "name": "zyklus n - dunkelheit / im wesen mix"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196106&streamencoding=mp31", 
+            "name": "diamental - borderline"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196107&streamencoding=mp31", 
+            "name": "tagismar - sehnsucht"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196108&streamencoding=mp31", 
+            "name": "proxy view - visions"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196109&streamencoding=mp31", 
+            "name": "ehrenfeld feat. felix flaucher - stay-with-me"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196111&streamencoding=mp31", 
+            "name": "im wesen - weltfremd"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196112&streamencoding=mp31", 
+            "name": "sintech - theeyeofhorus"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196123&streamencoding=mp31", 
+            "name": "duesterheit - in hell"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196124&streamencoding=mp31", 
+            "name": "projekt eclipse - brainwashing 2006"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196125&streamencoding=mp31", 
+            "name": "gefaehrte - helena"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29251"
+}

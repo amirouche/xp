@@ -1,0 +1,29 @@
+{
+    "name": "The Others", 
+    "artist": "Typhon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68485&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=593198&streamencoding=mp31", 
+            "name": "Phobia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=593181&streamencoding=mp31", 
+            "name": "The Others"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=593199&streamencoding=mp31", 
+            "name": "Unnerving atmosphere"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=593180&streamencoding=mp31", 
+            "name": "Fear"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68485"
+}

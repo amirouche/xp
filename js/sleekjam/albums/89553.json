@@ -1,0 +1,74 @@
+{
+    "name": "Una Settimana Ancora", 
+    "artist": "Munnizza", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89553&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764670&streamencoding=mp31", 
+            "name": "Munnizza - E Intanto Fuori Piove"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764672&streamencoding=mp31", 
+            "name": "Munnizza - Una Settimana Ancora "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764675&streamencoding=mp31", 
+            "name": "Munnizza - Cosa Ne resta "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764666&streamencoding=mp31", 
+            "name": "Munnizza - Sogni Utopici"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764669&streamencoding=mp31", 
+            "name": "Munnizza - Trupaciairap\u00e0"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764673&streamencoding=mp31", 
+            "name": "Munnizza - Un Giorno Remoto"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764664&streamencoding=mp31", 
+            "name": "Munnizza - No al ponte "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764668&streamencoding=mp31", 
+            "name": "Munnizza - My Sweet Satan"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764671&streamencoding=mp31", 
+            "name": "Munnizza - Chirurgo"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764665&streamencoding=mp31", 
+            "name": "Munnizza - Lontano Da Qui"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764667&streamencoding=mp31", 
+            "name": "Munnizza - Skacore Song"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764674&streamencoding=mp31", 
+            "name": "Munnizza - Quando Finir\u00e0 "
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764676&streamencoding=mp31", 
+            "name": "Munnizza - Rimorsi e Rimpanti "
+        }
+    ], 
+    "release": "2011", 
+    "id": "89553"
+}

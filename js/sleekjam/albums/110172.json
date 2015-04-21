@@ -1,0 +1,54 @@
+{
+    "name": "Musical Playground", 
+    "artist": "Mirko Giorgini", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110172&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938408&streamencoding=mp31", 
+            "name": "Divertimento"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938410&streamencoding=mp31", 
+            "name": "Spring Tigrillo"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938409&streamencoding=mp31", 
+            "name": "Divertimento + vocals"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938397&streamencoding=mp31", 
+            "name": "Perchance wave"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938398&streamencoding=mp31", 
+            "name": "Endless Wave"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938401&streamencoding=mp31", 
+            "name": "Run Wave"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938402&streamencoding=mp31", 
+            "name": "Swallows wave"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938406&streamencoding=mp31", 
+            "name": "Tigrillo 2012 Preludio Wave"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938407&streamencoding=mp31", 
+            "name": "Tigrillo 2012  Allegro wave"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110172"
+}

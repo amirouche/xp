@@ -1,0 +1,64 @@
+{
+    "name": "Higher & Stoner", 
+    "artist": "KENE BUSMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71245&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=615532&streamencoding=mp31", 
+            "name": "Roots Natty Dub"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=615527&streamencoding=mp31", 
+            "name": "Buddy Dub"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=615534&streamencoding=mp31", 
+            "name": "Daisy Temple's Dub"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=615526&streamencoding=mp31", 
+            "name": "Jah Medication"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=615528&streamencoding=mp31", 
+            "name": "Collie Weed"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=615535&streamencoding=mp31", 
+            "name": "Fallen Love"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=615529&streamencoding=mp31", 
+            "name": "Dum"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=615536&streamencoding=mp31", 
+            "name": "Sarcelles"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=615530&streamencoding=mp31", 
+            "name": "Feel Irie"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=615531&streamencoding=mp31", 
+            "name": "Rockin' Alive Dub"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=615533&streamencoding=mp31", 
+            "name": "Sad Fate"
+        }
+    ], 
+    "release": "2010", 
+    "id": "71245"
+}

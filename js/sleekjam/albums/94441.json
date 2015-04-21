@@ -1,0 +1,59 @@
+{
+    "name": "This is Just for Practice", 
+    "artist": "ED", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94441&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808130&streamencoding=mp31", 
+            "name": "This is Just for Practice"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808129&streamencoding=mp31", 
+            "name": "Emilyland"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808124&streamencoding=mp31", 
+            "name": "A Song About Art"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808125&streamencoding=mp31", 
+            "name": "Siddhartha's Quest (paths and choices)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808126&streamencoding=mp31", 
+            "name": "Buddhist Pancake"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808131&streamencoding=mp31", 
+            "name": "Park in the Dark"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808127&streamencoding=mp31", 
+            "name": "Enlightenment Buddies"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808132&streamencoding=mp31", 
+            "name": "(waiting for my soul)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808128&streamencoding=mp31", 
+            "name": "How Come All the Hot Guys are Potheads?"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808133&streamencoding=mp31", 
+            "name": "The Love Song"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94441"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "I Belong To You (Single)", 
+    "artist": "EugeneKha (feat. Alex D)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63532&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545567&streamencoding=mp31", 
+            "name": "EugeneKha (feat. Alex D) - I Belong To You (Symphonic Mix)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545568&streamencoding=mp31", 
+            "name": "EugeneKha - I Belong To You (Ambient Mix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=545569&streamencoding=mp31", 
+            "name": "EugeneKha (feat. Alex D) - I Belong To You (Rock Mix)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63532"
+}

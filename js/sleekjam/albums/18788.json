@@ -1,0 +1,79 @@
+{
+    "name": "Los Intokables del Reggaeton - The Collection", 
+    "artist": "Los Intokables del reggaeton", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18788&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132851&streamencoding=mp31", 
+            "name": "I can\u00b4t do it Remix By Dj Duck"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132873&streamencoding=mp31", 
+            "name": "Mami dale"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132890&streamencoding=mp31", 
+            "name": "Sin perdon - Hip Hop"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132896&streamencoding=mp31", 
+            "name": "Tiraera pa franky & alexiel - Reggaeton"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132901&streamencoding=mp31", 
+            "name": "Tiraera pal lapiz 1 - Hip Hop"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132935&streamencoding=mp31", 
+            "name": "Tiraera pal lapiz parte 2 - Reggaeton"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132911&streamencoding=mp31", 
+            "name": "Tus besos - Hip hop"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132924&streamencoding=mp31", 
+            "name": "Vamo a dale"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132940&streamencoding=mp31", 
+            "name": "Magnate Feat. Los Intokables - Nuestro amor es asi Remix New"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132948&streamencoding=mp31", 
+            "name": "Sherny Feat. Los Intokables - Remix Liquido (Official Remix)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132842&streamencoding=mp31", 
+            "name": "El Colale - Merengue de calle"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132892&streamencoding=mp31", 
+            "name": "Tamo alante - Mambo"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132889&streamencoding=mp31", 
+            "name": "Que me lo suenen - Mambo"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132853&streamencoding=mp31", 
+            "name": "Levente Version Discoteka"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18788"
+}

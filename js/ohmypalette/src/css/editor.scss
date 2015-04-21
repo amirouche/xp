@@ -1,0 +1,70 @@
+#palette-editor {
+    width: 100%;
+    
+    > .wrapper {
+	display: flex;
+
+	> div {
+	    flex: 1;
+
+	    &#editor {
+		margin-right: 50px;		
+		text-align: center;		
+
+		
+		> div {    
+		    width: 100%;
+		    margin-top: 20px;
+		    
+		    &#wheel {
+			display: inline-block;
+			border-radius: 100%;
+			height: 400px;
+			width: 400px;
+		    }
+
+		    &#cie-sliders > .slider {
+			height: 40px;
+			margin-top: 10px;
+		    }
+		}
+	    }
+
+	    &#palette-view {
+		display: flex;
+		flex-direction: column;
+
+		justify-content: center;
+
+		> div {
+		    width: 100%;
+		    min-height: 50px;
+		    margin: 10px;
+		}
+
+		> #colors {
+		    display: flex;
+		    flex-wrap: wrap;
+		    
+		    > div {
+			margin: 0px;
+			padding: 0px;
+			
+			width: 90px;
+			height: 90px;
+
+			&.current {
+			    border: 5px black;
+			}
+		    }		    
+		}
+
+		> #current-color {
+		    width: 100%;
+		    height: 300px;
+		    background: green;
+		}
+	    }
+	}
+    }
+}

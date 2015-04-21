@@ -1,0 +1,29 @@
+{
+    "name": "vtebe EP", 
+    "artist": "Moresebya", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70861&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612300&streamencoding=mp31", 
+            "name": "Svet"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612301&streamencoding=mp31", 
+            "name": "Oskolok"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612302&streamencoding=mp31", 
+            "name": "Last Summer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=612303&streamencoding=mp31", 
+            "name": "Nazojlivaya zhenshina"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70861"
+}

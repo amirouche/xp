@@ -1,0 +1,24 @@
+{
+    "name": "Eponyme 2007-2008", 
+    "artist": "BLS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80940&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694393&streamencoding=mp31", 
+            "name": "Enferm\u00e9 en france"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694397&streamencoding=mp31", 
+            "name": "La Cagole"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694402&streamencoding=mp31", 
+            "name": "Pourriture en c\u00f4te d'azur"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80940"
+}

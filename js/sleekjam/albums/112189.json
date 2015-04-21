@@ -1,0 +1,24 @@
+{
+    "name": "ABISS", 
+    "artist": "JPMOUNIER", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112189&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954207&streamencoding=mp31", 
+            "name": "ABISS"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954208&streamencoding=mp31", 
+            "name": "MOONBOOTS wav"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954209&streamencoding=mp31", 
+            "name": "BIRD wav"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112189"
+}

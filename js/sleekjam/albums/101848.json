@@ -1,0 +1,14 @@
+{
+    "name": "Amanda [Remastert]", 
+    "artist": "\u00aestarmann65", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101848&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=868581&streamencoding=mp31", 
+            "name": "Amanda -Remastert- produced by starmann65"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101848"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "60x60 Untwelve Challenge 2012/2013", 
+    "artist": "Hstraub", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122834&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043192&streamencoding=mp31", 
+            "name": "Alla Turca (17EDO)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122834"
+}

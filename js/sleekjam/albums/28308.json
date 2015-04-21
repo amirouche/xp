@@ -1,0 +1,29 @@
+{
+    "name": "Glenn Orson returns", 
+    "artist": "Hibai deiedra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28308&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=189296&streamencoding=mp31", 
+            "name": "The voyage of Ronnie Drew"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=189303&streamencoding=mp31", 
+            "name": "Ibiltari bakartia eskozian zehar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=189307&streamencoding=mp31", 
+            "name": "Flowers_of_Edinburgh"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=189309&streamencoding=mp31", 
+            "name": "The shadow between moonlight & zugaztieta"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28308"
+}

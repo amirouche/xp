@@ -1,0 +1,54 @@
+{
+    "name": "...why?", 
+    "artist": "A.Tchort", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64641&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555949&streamencoding=mp31", 
+            "name": "Cellular Nightmare"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555950&streamencoding=mp31", 
+            "name": "Distortion Life (Experimental)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555951&streamencoding=mp31", 
+            "name": "If Dead"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555952&streamencoding=mp31", 
+            "name": "Red Drops Of Memories"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555953&streamencoding=mp31", 
+            "name": "When Nowhere Waiting (Intro)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555954&streamencoding=mp31", 
+            "name": "Ich Gestehe, Gefuhle"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555955&streamencoding=mp31", 
+            "name": "When Nowhere Waiting (Latest)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555956&streamencoding=mp31", 
+            "name": "Lachen Traurig"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555957&streamencoding=mp31", 
+            "name": "Forlorn In Silence (Lord Belial Cover)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64641"
+}

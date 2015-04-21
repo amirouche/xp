@@ -1,0 +1,74 @@
+{
+    "name": "Midnight Sun", 
+    "artist": "Neil Leyton", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69165&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598798&streamencoding=mp31", 
+            "name": "Whispers (Intro Side I)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598802&streamencoding=mp31", 
+            "name": "(I Miss The Times) When The Russians Were Coming"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598837&streamencoding=mp31", 
+            "name": "Once Upon A Yesterday"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598807&streamencoding=mp31", 
+            "name": "The Mad Sounds Of Conflict - The Confraternity Of The Faithless"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598833&streamencoding=mp31", 
+            "name": "To Jay-17"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598838&streamencoding=mp31", 
+            "name": "Staring (At You From Afar)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598840&streamencoding=mp31", 
+            "name": "Ovlov (Dutnoff Spoken Word)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598853&streamencoding=mp31", 
+            "name": "Shadow Of Myself (Intro Side II)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598854&streamencoding=mp31", 
+            "name": "Newspaper Memories"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598855&streamencoding=mp31", 
+            "name": "Sobral (Interlude)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598856&streamencoding=mp31", 
+            "name": "(I Wanna Lie) Where The Flowers Grow"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598857&streamencoding=mp31", 
+            "name": "The Fading Ways Manifesto"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598844&streamencoding=mp31", 
+            "name": "Alluvium"
+        }
+    ], 
+    "release": "2010", 
+    "id": "69165"
+}

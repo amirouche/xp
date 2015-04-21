@@ -1,0 +1,64 @@
+{
+    "name": "One (Second)", 
+    "artist": "5KFEDDUP", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89996&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768147&streamencoding=mp31", 
+            "name": "I Rode A Chanting Doberman"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768146&streamencoding=mp31", 
+            "name": "Compulsion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768152&streamencoding=mp31", 
+            "name": "1124, Farewell Rd."
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768153&streamencoding=mp31", 
+            "name": "Moocha!"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768154&streamencoding=mp31", 
+            "name": "Move The Environment (Tepco Disco)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768148&streamencoding=mp31", 
+            "name": "Little Lamb\u2014The Paths Of Righteousness"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768155&streamencoding=mp31", 
+            "name": "Gaffer\u2019s Juice"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768150&streamencoding=mp31", 
+            "name": "Lickety-Split"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768145&streamencoding=mp31", 
+            "name": "One (Second)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768151&streamencoding=mp31", 
+            "name": "Closed Code In A Tapestry"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768149&streamencoding=mp31", 
+            "name": "Little Lamb\u2014Thy Rod And Thy Staff"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89996"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Improbability Maybe", 
+    "artist": "Afrodreams", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89884&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766681&streamencoding=mp31", 
+            "name": "I.M[Part1]-Asian Myths"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762460&streamencoding=mp31", 
+            "name": "I.M[Part2]-Istambul Engloutie de Rafiralfiro rmx"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=767128&streamencoding=mp31", 
+            "name": "I.M[Part3]-Queen Of Tibet"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89884"
+}

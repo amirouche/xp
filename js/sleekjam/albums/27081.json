@@ -1,0 +1,74 @@
+{
+    "name": "Strange Dogs", 
+    "artist": "Real Life Bears", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27081&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181222&streamencoding=mp31", 
+            "name": "Shortcut..."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181223&streamencoding=mp31", 
+            "name": "Casting Off"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181224&streamencoding=mp31", 
+            "name": "Parabolas"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181225&streamencoding=mp31", 
+            "name": "Empty Trails"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181226&streamencoding=mp31", 
+            "name": "Bla[]k Spot"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181227&streamencoding=mp31", 
+            "name": "Snell's Perception {In the Words of a Madman}"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181228&streamencoding=mp31", 
+            "name": "Psyche"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181229&streamencoding=mp31", 
+            "name": "The Divergence Theorem"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181230&streamencoding=mp31", 
+            "name": "Strange Dogs II {The Prequel}"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181231&streamencoding=mp31", 
+            "name": "Lamentations {After the Dust Has Settled...}"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181232&streamencoding=mp31", 
+            "name": "Retribution {In the Name of Excess}"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181233&streamencoding=mp31", 
+            "name": "The Bite {Strange Dogs}"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181234&streamencoding=mp31", 
+            "name": "...cutshort"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27081"
+}

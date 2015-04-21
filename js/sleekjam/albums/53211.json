@@ -1,0 +1,74 @@
+{
+    "name": "Wheels Must Roll", 
+    "artist": "Bugotak", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53211&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440409&streamencoding=mp31", 
+            "name": "Bas barchyzy (The Beginning)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=431508&streamencoding=mp31", 
+            "name": "All what thou want"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=431510&streamencoding=mp31", 
+            "name": "We are Siberians!"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440411&streamencoding=mp31", 
+            "name": "Young shaman goes back home after finishing high medical school"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440412&streamencoding=mp31", 
+            "name": "Wheels must roll"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440413&streamencoding=mp31", 
+            "name": "Makary Lykov (epic siberian guerilla separatist old-believer mason)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440415&streamencoding=mp31", 
+            "name": "Acquiring their legacy"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440472&streamencoding=mp31", 
+            "name": "Shaktar-baatyr"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440473&streamencoding=mp31", 
+            "name": "Kezikte sening sostoring"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440474&streamencoding=mp31", 
+            "name": "Walley of frozen tears"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440515&streamencoding=mp31", 
+            "name": "Final speech"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440502&streamencoding=mp31", 
+            "name": "Wagon of fools"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=440503&streamencoding=mp31", 
+            "name": "To live till winter"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53211"
+}

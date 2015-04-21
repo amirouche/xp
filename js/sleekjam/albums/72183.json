@@ -1,0 +1,44 @@
+{
+    "name": "Dos por 10", 
+    "artist": "Renich", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72183&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623122&streamencoding=mp31", 
+            "name": "The drunk 'n pirate cucaracha"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623116&streamencoding=mp31", 
+            "name": "Ac\u00e1mbaro"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623114&streamencoding=mp31", 
+            "name": "New horizon"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623117&streamencoding=mp31", 
+            "name": "Able-tummy"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623121&streamencoding=mp31", 
+            "name": "Ambando"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623120&streamencoding=mp31", 
+            "name": "Nadia's song (instrumental)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=623115&streamencoding=mp31", 
+            "name": "Our life"
+        }
+    ], 
+    "release": "2010", 
+    "id": "72183"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "A Little Nothing", 
+    "artist": "WwoollfF", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133119&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1114386&streamencoding=mp31", 
+            "name": "SlowDown (WwoollfF, C)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1114382&streamencoding=mp31", 
+            "name": "Reflection (WwoollfF, G)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1114381&streamencoding=mp31", 
+            "name": "Me and my girls (WwoollfF, C)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1114383&streamencoding=mp31", 
+            "name": "Saxy Kenny (WwoollfF, cm)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1114385&streamencoding=mp31", 
+            "name": "Tone Bones (WwoollfF, dm)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1114384&streamencoding=mp31", 
+            "name": "A little present (WwoollfF, C)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133119"
+}

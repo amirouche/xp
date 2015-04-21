@@ -1,0 +1,59 @@
+{
+    "name": "Selenomania", 
+    "artist": "Hello Citizen", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106216&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902165&streamencoding=mp31", 
+            "name": "Hello"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902166&streamencoding=mp31", 
+            "name": "We of the Whips"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902167&streamencoding=mp31", 
+            "name": "Bottle"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902169&streamencoding=mp31", 
+            "name": "Lightning Storm"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902172&streamencoding=mp31", 
+            "name": "The Old Man"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902170&streamencoding=mp31", 
+            "name": "Leaves"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902173&streamencoding=mp31", 
+            "name": "UpDown"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902174&streamencoding=mp31", 
+            "name": "A Falling Out"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902168&streamencoding=mp31", 
+            "name": "Wax and Wane"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902171&streamencoding=mp31", 
+            "name": "Shudder"
+        }
+    ], 
+    "release": "2012", 
+    "id": "106216"
+}

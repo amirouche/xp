@@ -1,0 +1,54 @@
+{
+    "name": "Effetti Sonori Collaterali 2", 
+    "artist": "Grim", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120535&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1025390&streamencoding=mp31", 
+            "name": "My Hell"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1025381&streamencoding=mp31", 
+            "name": "Children"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1025382&streamencoding=mp31", 
+            "name": "Secrets"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1025383&streamencoding=mp31", 
+            "name": "Zen for a moment"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1025384&streamencoding=mp31", 
+            "name": "Fists of fury"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1025385&streamencoding=mp31", 
+            "name": "Revenge"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1025386&streamencoding=mp31", 
+            "name": "Danger"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1025387&streamencoding=mp31", 
+            "name": "Still running"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1025388&streamencoding=mp31", 
+            "name": "Nostalgia"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120535"
+}

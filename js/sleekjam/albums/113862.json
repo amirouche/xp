@@ -1,0 +1,14 @@
+{
+    "name": "Enjoy Your Life", 
+    "artist": "Akashic Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113862&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967930&streamencoding=mp31", 
+            "name": "Enjoy Your Life (joyful and carefree tune)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113862"
+}

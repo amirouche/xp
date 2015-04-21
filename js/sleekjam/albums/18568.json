@@ -1,0 +1,39 @@
+{
+    "name": "Electronics Vibes", 
+    "artist": "Robots Of", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18568&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131634&streamencoding=mp31", 
+            "name": "R & B'zzz (DEMO)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131638&streamencoding=mp31", 
+            "name": "Come and do (DEMO)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131639&streamencoding=mp31", 
+            "name": "Samara (DEMO)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131640&streamencoding=mp31", 
+            "name": "2 step 4 (DEMO)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131641&streamencoding=mp31", 
+            "name": "Ferdioui (DEMO)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131642&streamencoding=mp31", 
+            "name": "Planuuuxxxx (DEMO)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18568"
+}

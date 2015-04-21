@@ -1,0 +1,64 @@
+{
+    "name": "Sha-Whao", 
+    "artist": "Using Bridge", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76979&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663471&streamencoding=mp31", 
+            "name": "Fyxx"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663470&streamencoding=mp31", 
+            "name": "Vicodine"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663476&streamencoding=mp31", 
+            "name": "My Lonely Blue"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663477&streamencoding=mp31", 
+            "name": "My Treasure, I"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663478&streamencoding=mp31", 
+            "name": "I'm Living in a House Away From Home"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663472&streamencoding=mp31", 
+            "name": "Sun Eats Shadows"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663479&streamencoding=mp31", 
+            "name": "Serial Killer"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663474&streamencoding=mp31", 
+            "name": "The Fighter"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663469&streamencoding=mp31", 
+            "name": "You"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663475&streamencoding=mp31", 
+            "name": "Everything's Allright"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=663473&streamencoding=mp31", 
+            "name": "Memento"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76979"
+}

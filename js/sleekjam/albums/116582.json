@@ -1,0 +1,29 @@
+{
+    "name": "Business Ambient Hard Rock Background Lounge Music Instrumental Album n\u00b097", 
+    "artist": "PremiumMusic (Instrumental Version)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116582&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991106&streamencoding=mp31", 
+            "name": "Business Ambient Hard Rock Background Lounge Music"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991103&streamencoding=mp31", 
+            "name": "Business News TV Commercial Background Music"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991104&streamencoding=mp31", 
+            "name": "Chillout Big Beat Lounge Background Music"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991105&streamencoding=mp31", 
+            "name": "Chillout Lounge Background Arts Music"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116582"
+}

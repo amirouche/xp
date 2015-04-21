@@ -1,0 +1,84 @@
+{
+    "name": "G-Nesis", 
+    "artist": "M.J.M.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67419&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584328&streamencoding=mp31", 
+            "name": "Suspiro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584318&streamencoding=mp31", 
+            "name": "En Camino"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584325&streamencoding=mp31", 
+            "name": "Short Funk-Rock"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584322&streamencoding=mp31", 
+            "name": "Recta Final"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584319&streamencoding=mp31", 
+            "name": "Insomnio"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584329&streamencoding=mp31", 
+            "name": "Contra el Tiempo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584327&streamencoding=mp31", 
+            "name": "Decepci\u00f3n"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584324&streamencoding=mp31", 
+            "name": "TechnoRock"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584316&streamencoding=mp31", 
+            "name": "MachineRock"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584320&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584317&streamencoding=mp31", 
+            "name": "Voz De Trueno"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584330&streamencoding=mp31", 
+            "name": "Misterios Celestes"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584321&streamencoding=mp31", 
+            "name": "Eternal"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584326&streamencoding=mp31", 
+            "name": "Plenitud"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=584323&streamencoding=mp31", 
+            "name": "Despertar"
+        }
+    ], 
+    "release": "2010", 
+    "id": "67419"
+}

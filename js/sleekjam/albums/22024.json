@@ -1,0 +1,34 @@
+{
+    "name": "Synthesized Rhythms", 
+    "artist": "Derek Oldman", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22024&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154235&streamencoding=mp31", 
+            "name": "Battery"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154237&streamencoding=mp31", 
+            "name": "Deep Space"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154239&streamencoding=mp31", 
+            "name": "North Pole"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154241&streamencoding=mp31", 
+            "name": "Silent"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154243&streamencoding=mp31", 
+            "name": "Whyzah"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22024"
+}

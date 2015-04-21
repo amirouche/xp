@@ -1,0 +1,24 @@
+{
+    "name": "MWep0005 - Do U Wanna Dance?", 
+    "artist": "Cyberdread", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35467&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244480&streamencoding=mp31", 
+            "name": "Do U Wanna Dance? (2007 remix)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244483&streamencoding=mp31", 
+            "name": "Do U Wanna Dance? (original 2003 version)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=244485&streamencoding=mp31", 
+            "name": "Revolutionary Poet"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35467"
+}

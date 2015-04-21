@@ -1,0 +1,79 @@
+{
+    "name": "Celtic Shadows Anniversary Edition", 
+    "artist": "Marco Brena", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116947&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994506&streamencoding=mp31", 
+            "name": "Rising sun"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994499&streamencoding=mp31", 
+            "name": "England"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994501&streamencoding=mp31", 
+            "name": "King's revenge"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994510&streamencoding=mp31", 
+            "name": "Words from the hearts"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994504&streamencoding=mp31", 
+            "name": "Midnight sun"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994500&streamencoding=mp31", 
+            "name": "I need a friend"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994503&streamencoding=mp31", 
+            "name": "Magic castle"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994509&streamencoding=mp31", 
+            "name": "Son of the flowers"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994502&streamencoding=mp31", 
+            "name": "A beautiful day"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994497&streamencoding=mp31", 
+            "name": "A song for new knights"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994507&streamencoding=mp31", 
+            "name": "Lookin the sea"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994505&streamencoding=mp31", 
+            "name": "Minstrels"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994498&streamencoding=mp31", 
+            "name": "England BONUS TRACK"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=994508&streamencoding=mp31", 
+            "name": "Rising sun BONUS TRACK"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116947"
+}

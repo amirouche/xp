@@ -1,0 +1,14 @@
+{
+    "name": "WELCOME HOME* (single)", 
+    "artist": "C\u0152DES Pierre-Marie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40529&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=294281&streamencoding=mp31", 
+            "name": "WELCOME HOME"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40529"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "From past to revolution", 
+    "artist": "Mike Verstu", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6294&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62696&streamencoding=mp31", 
+            "name": "Audire"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62697&streamencoding=mp31", 
+            "name": "Beng Henh"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62698&streamencoding=mp31", 
+            "name": "From Sri Desert"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62699&streamencoding=mp31", 
+            "name": "Koch I Sach"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62700&streamencoding=mp31", 
+            "name": "Mon Amie"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62701&streamencoding=mp31", 
+            "name": "That's all"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=62702&streamencoding=mp31", 
+            "name": "World Adventure"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6294"
+}

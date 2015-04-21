@@ -1,0 +1,94 @@
+{
+    "name": "Moulk Frites", 
+    "artist": "Moulk", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81895&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702154&streamencoding=mp31", 
+            "name": "Intro De Frites Tue Les Frites"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702164&streamencoding=mp31", 
+            "name": "Les Champignons Mignons"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702292&streamencoding=mp31", 
+            "name": "L\u2019\u0152il de la Truite"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702165&streamencoding=mp31", 
+            "name": "Padid\u00e9"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702153&streamencoding=mp31", 
+            "name": "Histoire De Secret"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702158&streamencoding=mp31", 
+            "name": "Jean-Claude Super"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702163&streamencoding=mp31", 
+            "name": "JAPD = SHIT"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702168&streamencoding=mp31", 
+            "name": "J\u2019ai Mis Ma Petite S\u0153ur Au Micro-ondes "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702156&streamencoding=mp31", 
+            "name": "Interlude Musical Favorisant Le Transit Intestinal"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702160&streamencoding=mp31", 
+            "name": "Partie de Plaisir"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702166&streamencoding=mp31", 
+            "name": "Je Me Suis Fait Une Cr\u00eate"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702157&streamencoding=mp31", 
+            "name": "Je Gueule Parce Que Je Chante Mal"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702162&streamencoding=mp31", 
+            "name": "Des Chiffres Partout"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702159&streamencoding=mp31", 
+            "name": "Tu Ne Pueras Point"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702155&streamencoding=mp31", 
+            "name": "Le Ma\u00eetre des Yaourts"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702152&streamencoding=mp31", 
+            "name": "Mes Voisins Sont Chiants (Et  Mon Intro Aussi)"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702167&streamencoding=mp31", 
+            "name": "Moulk Frites"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81895"
+}

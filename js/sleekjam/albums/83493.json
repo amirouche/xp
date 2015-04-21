@@ -1,0 +1,49 @@
+{
+    "name": "ENJOY YOURSELF", 
+    "artist": "Anju genius & freinds", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83493&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=714889&streamencoding=mp31", 
+            "name": "AudioTrack 04 Anju Genius-enjoy yourself"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=714890&streamencoding=mp31", 
+            "name": "AudioTrack 06 Ninji-Hustling"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=714891&streamencoding=mp31", 
+            "name": "AudioTrack 01 Bangaz-gal dem love me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=714892&streamencoding=mp31", 
+            "name": "AudioTrack 03 Anju Genius&Shani Spontanious-all yoh want"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=714893&streamencoding=mp31", 
+            "name": "AudioTrack 05 Uneek Slim-Secrets"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=714894&streamencoding=mp31", 
+            "name": "AudioTrack 07 Nellyville-Oh girl"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=714895&streamencoding=mp31", 
+            "name": "AudioTrack 08 Version"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=714896&streamencoding=mp31", 
+            "name": "AudioTrack 02  Mushkin&Anju Genius-leave me alone"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83493"
+}

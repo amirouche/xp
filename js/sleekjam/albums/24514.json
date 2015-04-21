@@ -1,0 +1,19 @@
+{
+    "name": "Nmbr 1", 
+    "artist": "7StairsUp!", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24514&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167038&streamencoding=mp31", 
+            "name": "Release 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=167039&streamencoding=mp31", 
+            "name": "get ready !"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24514"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "The River Variations", 
+    "artist": "\u767d\u8056\u4ec1", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122637&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041065&streamencoding=mp31", 
+            "name": "Introduction"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041064&streamencoding=mp31", 
+            "name": "A Seldom Seen Practice"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041066&streamencoding=mp31", 
+            "name": "Letters From Below (The River)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041061&streamencoding=mp31", 
+            "name": "A Story"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041069&streamencoding=mp31", 
+            "name": "Thoughts On A Summers Afternoon"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041067&streamencoding=mp31", 
+            "name": "Nene (5th Variation)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041062&streamencoding=mp31", 
+            "name": "Days On The River"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041063&streamencoding=mp31", 
+            "name": "Dreaming Of Home"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041068&streamencoding=mp31", 
+            "name": "Sis\u00e4ll\u00e4"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041070&streamencoding=mp31", 
+            "name": "Ending"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122637"
+}

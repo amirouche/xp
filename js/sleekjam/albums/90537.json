@@ -1,0 +1,59 @@
+{
+    "name": "The Red Sterns LP (2011)", 
+    "artist": "The Sterns", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90537&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=772404&streamencoding=mp31", 
+            "name": "Girl From The Liquor Store"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=772397&streamencoding=mp31", 
+            "name": "My Babe Don't Care"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=772396&streamencoding=mp31", 
+            "name": "Kate"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=772398&streamencoding=mp31", 
+            "name": "Blue Eyes Long Jet Hair"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=772399&streamencoding=mp31", 
+            "name": "Lovin' Overdrive"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=772403&streamencoding=mp31", 
+            "name": "Did You Get It"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=772401&streamencoding=mp31", 
+            "name": "Good Bye Song"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=772400&streamencoding=mp31", 
+            "name": "Aeroplane Blues"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=772402&streamencoding=mp31", 
+            "name": "So Strange To See You There"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=772405&streamencoding=mp31", 
+            "name": "So Hard To Sail"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90537"
+}

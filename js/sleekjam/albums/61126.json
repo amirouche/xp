@@ -1,0 +1,59 @@
+{
+    "name": "L'Ultimo Dei Primi ", 
+    "artist": "Big BaMa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61126&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523007&streamencoding=mp31", 
+            "name": "Intro - Big BaMa ChicoLatino"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523009&streamencoding=mp31", 
+            "name": "Sei Quello Che Vorrei Feat Big Ema - Big BaMa ChicoLatino"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523010&streamencoding=mp31", 
+            "name": "Vota Big BaMa Feat Me Jeb - Big BaMa ChicoLatino"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523012&streamencoding=mp31", 
+            "name": "70' Steelo Feat Petruz - Big BaMa ChicoLatino"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523013&streamencoding=mp31", 
+            "name": "Quello Che \u00e8 Stato \u00e8 Stato Feat Me Jeb - Big BaMa ChicoLatino"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523014&streamencoding=mp31", 
+            "name": "L'Ultimo Dei Primi Feat Eka DoppiaC - Big BaMa ChicoLatino"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523015&streamencoding=mp31", 
+            "name": "Vecchie Star Feat Me Jeb - Big BaMa"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523016&streamencoding=mp31", 
+            "name": "Ancora Dormi Sul Mio Letto Feat Me Jeb - Big BaMa ChicoLatino"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523017&streamencoding=mp31", 
+            "name": "L'Amore Feat Dexa - Big BaMa ChicoLatino"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523018&streamencoding=mp31", 
+            "name": "Close My Eyes - Big BaMa ChicoLatino (Bonus Track)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61126"
+}

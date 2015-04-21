@@ -1,0 +1,54 @@
+{
+    "name": "LEK.K.I", 
+    "artist": "lekkidAlton", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39010&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276826&streamencoding=mp31", 
+            "name": "B.A.S.S.bieg."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276825&streamencoding=mp31", 
+            "name": "leKKi"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276828&streamencoding=mp31", 
+            "name": "P.R.R.Y"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276674&streamencoding=mp31", 
+            "name": "dziwa.K."
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276827&streamencoding=mp31", 
+            "name": "te.R.A.Z."
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276829&streamencoding=mp31", 
+            "name": "DREszcz"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276830&streamencoding=mp31", 
+            "name": "dreSZCZowiec"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276831&streamencoding=mp31", 
+            "name": "powoliszybko\u015bci"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276832&streamencoding=mp31", 
+            "name": "soldierwalk.i."
+        }
+    ], 
+    "release": "2009", 
+    "id": "39010"
+}

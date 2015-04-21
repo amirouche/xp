@@ -1,0 +1,54 @@
+{
+    "name": "My Art of Tekkno", 
+    "artist": "VJ  BLIZZARD -(Vinyl Jockey Blizzard)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59970&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512637&streamencoding=mp31", 
+            "name": "VJ  BLIZZARD - Morgens halb f\u00fcnf...."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510799&streamencoding=mp31", 
+            "name": "VJ  BLIZZARD- Trocken"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510866&streamencoding=mp31", 
+            "name": "VJ  BLIZZARD- Hall of Hate"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510868&streamencoding=mp31", 
+            "name": "VJ  BLIZZARD StImMuNgSsChWaNkUnGeN"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=510867&streamencoding=mp31", 
+            "name": "VJ  BLIZZARD- Spoooky"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512638&streamencoding=mp31", 
+            "name": "VJ  BLIZZARD- My Dying Hymn"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512639&streamencoding=mp31", 
+            "name": "VJ  BLIZZARD - ScHiZzO"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512641&streamencoding=mp31", 
+            "name": "VJ  BLIZZARD - Voll vorn"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512640&streamencoding=mp31", 
+            "name": "VJ  BLIZZARD - Scheinschranz"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59970"
+}

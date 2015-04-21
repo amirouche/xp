@@ -1,0 +1,34 @@
+{
+    "name": "Pantagruelik", 
+    "artist": "Truculent", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25107&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170732&streamencoding=mp31", 
+            "name": "Colimacon982"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170726&streamencoding=mp31", 
+            "name": "PomZ"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170740&streamencoding=mp31", 
+            "name": "Loop&6sens"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170727&streamencoding=mp31", 
+            "name": "AkwabeClode"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170737&streamencoding=mp31", 
+            "name": "WaimesLand"
+        }
+    ], 
+    "release": "2008", 
+    "id": "25107"
+}

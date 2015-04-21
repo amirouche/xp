@@ -1,0 +1,29 @@
+{
+    "name": "BEWARE OF THE GOD (4 sides version, 2007)", 
+    "artist": "S\u00e9bastien GRAMOND", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21224&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147608&streamencoding=mp31", 
+            "name": "The Evil Pilgrimage"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147632&streamencoding=mp31", 
+            "name": "Surrounded by Spiritual Forces"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147636&streamencoding=mp31", 
+            "name": "Mother Nature Strikes Off"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147644&streamencoding=mp31", 
+            "name": "After all, I am"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21224"
+}

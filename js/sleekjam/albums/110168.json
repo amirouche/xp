@@ -1,0 +1,49 @@
+{
+    "name": "Feelings", 
+    "artist": "Radio Interior Fusion", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110168&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938191&streamencoding=mp31", 
+            "name": "Homesickness"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938186&streamencoding=mp31", 
+            "name": "Perseverance"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938187&streamencoding=mp31", 
+            "name": "Melancholy "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938189&streamencoding=mp31", 
+            "name": "Faith"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938188&streamencoding=mp31", 
+            "name": "Nostalgia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938193&streamencoding=mp31", 
+            "name": "Tenderness"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938192&streamencoding=mp31", 
+            "name": "Sadness"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938190&streamencoding=mp31", 
+            "name": "Hope"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110168"
+}

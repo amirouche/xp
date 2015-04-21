@@ -1,0 +1,59 @@
+{
+    "name": "Deep Long Slow Heartbeat", 
+    "artist": "Howarang Van K", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121113&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1029775&streamencoding=mp31", 
+            "name": "Sailor Mercury (Alpha Rock Version) (Sailor Moon)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1029777&streamencoding=mp31", 
+            "name": "Sailor Omsga"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1029778&streamencoding=mp31", 
+            "name": "Earth (CyberPunk Version)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1029779&streamencoding=mp31", 
+            "name": "Hymn"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1029780&streamencoding=mp31", 
+            "name": "Sailor Uranus (Alpha Rock Version) (Long Version) (Sailor Moon)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1029782&streamencoding=mp31", 
+            "name": "Fire (CyberPunk Version)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1029783&streamencoding=mp31", 
+            "name": "My Evil Girlfriend"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1029784&streamencoding=mp31", 
+            "name": "Metal (CyberPunk Version)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1029785&streamencoding=mp31", 
+            "name": "CyberPunk"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1029786&streamencoding=mp31", 
+            "name": "Sailor Lynx"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121113"
+}

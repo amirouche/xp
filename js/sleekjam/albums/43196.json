@@ -1,0 +1,29 @@
+{
+    "name": "Space Base Berlin", 
+    "artist": "softspace", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43196&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=320031&streamencoding=mp31", 
+            "name": "softer "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=319818&streamencoding=mp31", 
+            "name": "woodlouse"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=320025&streamencoding=mp31", 
+            "name": "madame strobonoid"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=320033&streamencoding=mp31", 
+            "name": "breakthrough "
+        }
+    ], 
+    "release": "2009", 
+    "id": "43196"
+}

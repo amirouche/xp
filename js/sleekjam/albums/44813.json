@@ -1,0 +1,39 @@
+{
+    "name": "a moment of infinity", 
+    "artist": "softspace", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44813&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338200&streamencoding=mp31", 
+            "name": "Time traveller"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338202&streamencoding=mp31", 
+            "name": "a moment of infinity"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338209&streamencoding=mp31", 
+            "name": "Akasha"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338270&streamencoding=mp31", 
+            "name": "another morning"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338439&streamencoding=mp31", 
+            "name": "gassless"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338535&streamencoding=mp31", 
+            "name": "dreamshow"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44813"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Advertising Inspirational Website Music", 
+    "artist": "Plastic3", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113578&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=965747&streamencoding=mp31", 
+            "name": "Successful And Happy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=965748&streamencoding=mp31", 
+            "name": "Happy Moments"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=965749&streamencoding=mp31", 
+            "name": "Live Energetic Rock"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=965752&streamencoding=mp31", 
+            "name": "Romantic And Inspirational"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=965750&streamencoding=mp31", 
+            "name": "Advertising Promo "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=965751&streamencoding=mp31", 
+            "name": "Corporate Motivation"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=965753&streamencoding=mp31", 
+            "name": "Corporate Mood"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113578"
+}

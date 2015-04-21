@@ -1,0 +1,59 @@
+{
+    "name": "Punderllella(the ghost in my cellar)", 
+    "artist": "Morris Masters", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78278&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=673575&streamencoding=mp31", 
+            "name": "Phantom in the Night(Electric Lady)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=673577&streamencoding=mp31", 
+            "name": "Behind the Cellar Door"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=673579&streamencoding=mp31", 
+            "name": "Haunted by Her"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674080&streamencoding=mp31", 
+            "name": "Calming the Spirit"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=673580&streamencoding=mp31", 
+            "name": "Sweet Zombie Eyes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674427&streamencoding=mp31", 
+            "name": "Cobwebs and Crystals"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=673581&streamencoding=mp31", 
+            "name": "She Twangs my Old Guitar"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=673573&streamencoding=mp31", 
+            "name": "That Silver Door"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=673574&streamencoding=mp31", 
+            "name": "Fading Thoughts"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=673576&streamencoding=mp31", 
+            "name": "Punderllella"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78278"
+}

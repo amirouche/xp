@@ -1,0 +1,14 @@
+{
+    "name": "Aerodon bleu", 
+    "artist": "Jean Toba", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110189&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938465&streamencoding=mp31", 
+            "name": "Dr\u00f4lement beau mon mambo"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110189"
+}

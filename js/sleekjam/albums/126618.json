@@ -1,0 +1,69 @@
+{
+    "name": "The Guittard Tapes Volume 2", 
+    "artist": "Jim Guittard", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126618&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069934&streamencoding=mp31", 
+            "name": "Girl's On Crack"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069931&streamencoding=mp31", 
+            "name": "Instrumental"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069932&streamencoding=mp31", 
+            "name": "Blues Instrumental"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069933&streamencoding=mp31", 
+            "name": "Tired (Experimental version)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069940&streamencoding=mp31", 
+            "name": "Sleepless Night"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069935&streamencoding=mp31", 
+            "name": "Paxil Withdrawal"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069936&streamencoding=mp31", 
+            "name": "Can't Be Down That Very Long 2002 Demo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069937&streamencoding=mp31", 
+            "name": "Spacey Synth Instrumental"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069938&streamencoding=mp31", 
+            "name": "Jazzy Tune"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069939&streamencoding=mp31", 
+            "name": "Tired - Acoustic Version"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069941&streamencoding=mp31", 
+            "name": "Airy Jangly Instrumental"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1069942&streamencoding=mp31", 
+            "name": "Gotta Get Out of Here"
+        }
+    ], 
+    "release": "2013", 
+    "id": "126618"
+}

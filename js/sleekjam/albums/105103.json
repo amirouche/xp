@@ -1,0 +1,34 @@
+{
+    "name": "Odd Moira's Haircut", 
+    "artist": "ODD MOIRA'S HAIRCUT", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105103&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891232&streamencoding=mp31", 
+            "name": "Morning"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891233&streamencoding=mp31", 
+            "name": "Jonathan Livingston"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891234&streamencoding=mp31", 
+            "name": "Mr. Late"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891235&streamencoding=mp31", 
+            "name": "Apple"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891236&streamencoding=mp31", 
+            "name": "Steady blue "
+        }
+    ], 
+    "release": "2012", 
+    "id": "105103"
+}

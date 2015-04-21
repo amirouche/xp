@@ -1,0 +1,34 @@
+{
+    "name": "Vargaskog", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130077&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091249&streamencoding=mp31", 
+            "name": "Vargaskog"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091251&streamencoding=mp31", 
+            "name": "Oraklet"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091252&streamencoding=mp31", 
+            "name": "Vit Dv\u00e4rg"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091258&streamencoding=mp31", 
+            "name": "Vita Vargen"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091259&streamencoding=mp31", 
+            "name": "Elric"
+        }
+    ], 
+    "release": "2013", 
+    "id": "130077"
+}

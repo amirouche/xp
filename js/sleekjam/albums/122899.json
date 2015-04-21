@@ -1,0 +1,49 @@
+{
+    "name": "Know", 
+    "artist": "BeNSoundBeats", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122899&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043663&streamencoding=mp31", 
+            "name": "Dark Beat"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043650&streamencoding=mp31", 
+            "name": "ColdRain"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043660&streamencoding=mp31", 
+            "name": "invade"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043658&streamencoding=mp31", 
+            "name": "Dazzled"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043651&streamencoding=mp31", 
+            "name": "TripDown"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043659&streamencoding=mp31", 
+            "name": "Smirking"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043661&streamencoding=mp31", 
+            "name": "Sleeping"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1043662&streamencoding=mp31", 
+            "name": "Plane"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122899"
+}

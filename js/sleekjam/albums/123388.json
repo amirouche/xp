@@ -1,0 +1,69 @@
+{
+    "name": "Skanky Panky", 
+    "artist": "Conway Hambone", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123388&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046903&streamencoding=mp31", 
+            "name": "The Rocksteady Mod Can Can"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046910&streamencoding=mp31", 
+            "name": "On the topdeck"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046914&streamencoding=mp31", 
+            "name": "Staypressed 69"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046911&streamencoding=mp31", 
+            "name": "End of the peir "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046907&streamencoding=mp31", 
+            "name": "Get it on track"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046905&streamencoding=mp31", 
+            "name": "Echotek"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046904&streamencoding=mp31", 
+            "name": "crooked step"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046906&streamencoding=mp31", 
+            "name": "On track 13 instro"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046908&streamencoding=mp31", 
+            "name": "Karmacycle "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046909&streamencoding=mp31", 
+            "name": "Lay it on me"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046912&streamencoding=mp31", 
+            "name": "Peir Instro"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046913&streamencoding=mp31", 
+            "name": "rude cowboy"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123388"
+}

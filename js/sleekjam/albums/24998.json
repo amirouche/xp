@@ -1,0 +1,59 @@
+{
+    "name": "Zona V.I.P.", 
+    "artist": "Menos Uno", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24998&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169757&streamencoding=mp31", 
+            "name": "Perros Hambrientos"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169758&streamencoding=mp31", 
+            "name": "Acompaname"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169759&streamencoding=mp31", 
+            "name": "Entregate"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169760&streamencoding=mp31", 
+            "name": "Rainbow"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169761&streamencoding=mp31", 
+            "name": "Devore Humanum"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169762&streamencoding=mp31", 
+            "name": "Volveras"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169763&streamencoding=mp31", 
+            "name": "Zona Vip"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169764&streamencoding=mp31", 
+            "name": "No Vale la Pena"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169765&streamencoding=mp31", 
+            "name": "El Tiempo"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169756&streamencoding=mp31", 
+            "name": "No te Vayas"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24998"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Broken heart", 
+    "artist": "sunday and monday", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104225&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=886409&streamencoding=mp31", 
+            "name": "Broken heart "
+        }
+    ], 
+    "release": "2012", 
+    "id": "104225"
+}

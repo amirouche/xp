@@ -1,0 +1,24 @@
+{
+    "name": "Apocaneo", 
+    "artist": "Oco Bnizen auch RDK", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68203&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591322&streamencoding=mp31", 
+            "name": "aproponeo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591389&streamencoding=mp31", 
+            "name": "geraet"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=591392&streamencoding=mp31", 
+            "name": "zuruckkommer"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68203"
+}

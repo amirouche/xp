@@ -1,0 +1,84 @@
+{
+    "name": "A Winter in Babylon", 
+    "artist": "R\u00e9gis V. Gronoff", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122027&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036585&streamencoding=mp31", 
+            "name": "Wet Tears For Dry Flowers"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036580&streamencoding=mp31", 
+            "name": "Night Train to your Heart"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036583&streamencoding=mp31", 
+            "name": "Back there with Miles and Trane"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036584&streamencoding=mp31", 
+            "name": "Blue Shore"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036591&streamencoding=mp31", 
+            "name": "Need Jesus or a Cup of Joe"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036586&streamencoding=mp31", 
+            "name": "Andalusia Blues"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036587&streamencoding=mp31", 
+            "name": "Offering for Times Gone By"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036588&streamencoding=mp31", 
+            "name": "Martinique"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036589&streamencoding=mp31", 
+            "name": "Why did you tell me ?"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036590&streamencoding=mp31", 
+            "name": "\u00bfPor Qu\u00e9 No?"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036592&streamencoding=mp31", 
+            "name": "Whisper Me a Blue Lie"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036579&streamencoding=mp31", 
+            "name": "Underground in London"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036581&streamencoding=mp31", 
+            "name": "Blues Got Inside My Bop"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036582&streamencoding=mp31", 
+            "name": "Misunderstood Paths"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1036578&streamencoding=mp31", 
+            "name": "Adieu"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122027"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "The Untouchables", 
+    "artist": "Los Intokables del reggaeton", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6686&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75002&streamencoding=mp31", 
+            "name": "Tiraera pal lapiz parte 2 Reggaeton"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=75003&streamencoding=mp31", 
+            "name": "Remix by Anjelyno"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6686"
+}

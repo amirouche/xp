@@ -1,0 +1,49 @@
+{
+    "name": "Dinner with the ghost of you", 
+    "artist": "Blukaos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85166&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728583&streamencoding=mp31", 
+            "name": "The ghost of you (edit version)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728530&streamencoding=mp31", 
+            "name": "Hush and light the moths"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728632&streamencoding=mp31", 
+            "name": "Mama lost me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728622&streamencoding=mp31", 
+            "name": "From the spark within"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728649&streamencoding=mp31", 
+            "name": "Hallo, it's me and I have to leave you !"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728676&streamencoding=mp31", 
+            "name": "Silently trapped in a raindrop (remix)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728695&streamencoding=mp31", 
+            "name": "Twenty seven (bonus track)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728521&streamencoding=mp31", 
+            "name": "Amen and the you that goes (edit version)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85166"
+}

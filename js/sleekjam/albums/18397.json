@@ -1,0 +1,109 @@
+{
+    "name": "10 minutes", 
+    "artist": "Benjamin Grassineau", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18397&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130425&streamencoding=mp31", 
+            "name": "Panne de circuit au large d'Aldebaran"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130427&streamencoding=mp31", 
+            "name": "Plaisanterie m\u00e9taphysique"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130429&streamencoding=mp31", 
+            "name": "St\u00e9r\u00e9o"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130430&streamencoding=mp31", 
+            "name": "P\u00e9n\u00e9tration politique"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130433&streamencoding=mp31", 
+            "name": "Romance de quai de gare"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130435&streamencoding=mp31", 
+            "name": "Une minute"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130436&streamencoding=mp31", 
+            "name": "R\u00e9volte"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130438&streamencoding=mp31", 
+            "name": "Histoire d'aquariums"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130440&streamencoding=mp31", 
+            "name": "La vendetta a mal tourn\u00e9"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130441&streamencoding=mp31", 
+            "name": "Renouveau"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130442&streamencoding=mp31", 
+            "name": "Evasion sonore"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130444&streamencoding=mp31", 
+            "name": "D\u00e9lire paradisiaque"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130446&streamencoding=mp31", 
+            "name": "Les ph\u00e9nom\u00e8nes divergents"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130450&streamencoding=mp31", 
+            "name": "Terre versus Titan"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130451&streamencoding=mp31", 
+            "name": "Les dangers de l'esclavagisme"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130453&streamencoding=mp31", 
+            "name": "Puanteur de chiottes d'\u00e9gouts de merdes de biques de tampax usag\u00e9s"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130454&streamencoding=mp31", 
+            "name": "Suce ma queue"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130456&streamencoding=mp31", 
+            "name": "Sensibleries manich\u00e9ennes"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130457&streamencoding=mp31", 
+            "name": "Fondue ari\u00e9geoise. Les meilleurs morceaux"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130459&streamencoding=mp31", 
+            "name": "Le ventre de Bartok, endoscopie"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18397"
+}

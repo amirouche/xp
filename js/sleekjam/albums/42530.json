@@ -1,0 +1,44 @@
+{
+    "name": "HIFIFETAMINE EP", 
+    "artist": "The Sacred Datura", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42530&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314421&streamencoding=mp31", 
+            "name": "No Softer than Leather"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314419&streamencoding=mp31", 
+            "name": "379 Tadpoles Soaring Through the Sky"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314418&streamencoding=mp31", 
+            "name": "Menstrual Cramps"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314420&streamencoding=mp31", 
+            "name": "Bicycle Flesh"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314416&streamencoding=mp31", 
+            "name": "Dead Grampa's Gun"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314415&streamencoding=mp31", 
+            "name": "Stikks"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314417&streamencoding=mp31", 
+            "name": "Underwater Ballet"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42530"
+}

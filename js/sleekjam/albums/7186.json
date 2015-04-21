@@ -1,0 +1,39 @@
+{
+    "name": "Stepping Back", 
+    "artist": "Stepping Back", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7186&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78881&streamencoding=mp31", 
+            "name": "Coming Down"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78882&streamencoding=mp31", 
+            "name": "Dreams"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78883&streamencoding=mp31", 
+            "name": "Pain in my heart"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78884&streamencoding=mp31", 
+            "name": "Have some trust"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78885&streamencoding=mp31", 
+            "name": "Ask them"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78886&streamencoding=mp31", 
+            "name": "Trip to hell"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7186"
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Marbles", 
+    "artist": "Fonogeri", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47529&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369904&streamencoding=mp31", 
+            "name": "Intro (Lii impro)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369905&streamencoding=mp31", 
+            "name": "The Reverie (feat. Lii)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369906&streamencoding=mp31", 
+            "name": "\u00c9s Csak Nyomja"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369907&streamencoding=mp31", 
+            "name": "T\u00e9l-T\u00fcnd\u00e9r"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369908&streamencoding=mp31", 
+            "name": "I've Got Folklore In My Vains"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369909&streamencoding=mp31", 
+            "name": "Overnight Visitor"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369910&streamencoding=mp31", 
+            "name": "Maiden Stakes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369911&streamencoding=mp31", 
+            "name": "Igazi Jazz"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369912&streamencoding=mp31", 
+            "name": "Snowflakes (feat. Lii)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369913&streamencoding=mp31", 
+            "name": "The Chase After Rainbows"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369914&streamencoding=mp31", 
+            "name": "The Passover"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369915&streamencoding=mp31", 
+            "name": "F\u00e9nyekkel J\u00e1tszik"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369916&streamencoding=mp31", 
+            "name": "Alm\u00e1di 05:35"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369917&streamencoding=mp31", 
+            "name": "Midnight"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369918&streamencoding=mp31", 
+            "name": "Arrival At Heart"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369919&streamencoding=mp31", 
+            "name": "Lak\u00f3telepi Kuty\u00e1s L\u00e1ny"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369920&streamencoding=mp31", 
+            "name": "Outro"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369921&streamencoding=mp31", 
+            "name": "Bonus track 1 - Deepsleep"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=369922&streamencoding=mp31", 
+            "name": "Bonus track 2 - Skyhook"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47529"
+}

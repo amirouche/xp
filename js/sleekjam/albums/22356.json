@@ -1,0 +1,124 @@
+{
+    "name": "TUTIQUANTI", 
+    "artist": "MAD73751", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22356&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155737&streamencoding=mp31", 
+            "name": "Sound 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155738&streamencoding=mp31", 
+            "name": "Sound 2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155739&streamencoding=mp31", 
+            "name": "Sound 3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155740&streamencoding=mp31", 
+            "name": "Sound 4"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155741&streamencoding=mp31", 
+            "name": "Sound 5"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155742&streamencoding=mp31", 
+            "name": "Sound 6"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155743&streamencoding=mp31", 
+            "name": "Sound 7"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155744&streamencoding=mp31", 
+            "name": "Sound 8"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155745&streamencoding=mp31", 
+            "name": "Sound 9"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155747&streamencoding=mp31", 
+            "name": "Sound 10"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155748&streamencoding=mp31", 
+            "name": "Sound 11"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155749&streamencoding=mp31", 
+            "name": "Sound 12"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155750&streamencoding=mp31", 
+            "name": "Sound 13"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155751&streamencoding=mp31", 
+            "name": "Sound 14"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155752&streamencoding=mp31", 
+            "name": "Sound 15"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155753&streamencoding=mp31", 
+            "name": "Sound 16"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155754&streamencoding=mp31", 
+            "name": "Sound 17"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155755&streamencoding=mp31", 
+            "name": "Sound 18"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155756&streamencoding=mp31", 
+            "name": "Sound 19"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155757&streamencoding=mp31", 
+            "name": "Sound 20"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155758&streamencoding=mp31", 
+            "name": "Sound 21"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155759&streamencoding=mp31", 
+            "name": "Sound 23"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=155746&streamencoding=mp31", 
+            "name": "Sound 24"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22356"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "TDK Sound", 
+    "artist": "DEMO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102174&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=870118&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=870162&streamencoding=mp31", 
+            "name": "D.E.M.O."
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=870238&streamencoding=mp31", 
+            "name": "Mi sento solo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=870251&streamencoding=mp31", 
+            "name": "PienoInPista"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=870256&streamencoding=mp31", 
+            "name": "TracceDiVernice"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=870272&streamencoding=mp31", 
+            "name": "Tunzeria"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=870516&streamencoding=mp31", 
+            "name": "Truz"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=870531&streamencoding=mp31", 
+            "name": "Divina"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=870543&streamencoding=mp31", 
+            "name": "Reprise"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=870911&streamencoding=mp31", 
+            "name": "Jausier 1"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102174"
+}

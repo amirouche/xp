@@ -1,0 +1,69 @@
+{
+    "name": "GpougPGTOHOIGPgjigojoirpemcnviofpwm", 
+    "artist": "Benjamin Grassineau", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25047&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170336&streamencoding=mp31", 
+            "name": "G"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170339&streamencoding=mp31", 
+            "name": "pou"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170343&streamencoding=mp31", 
+            "name": "gPG"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170346&streamencoding=mp31", 
+            "name": "TOHOI"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170331&streamencoding=mp31", 
+            "name": "GPg"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170350&streamencoding=mp31", 
+            "name": "jigo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170357&streamencoding=mp31", 
+            "name": "joi"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170359&streamencoding=mp31", 
+            "name": "rpem"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170363&streamencoding=mp31", 
+            "name": "cnvi"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170370&streamencoding=mp31", 
+            "name": "ofp"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170375&streamencoding=mp31", 
+            "name": "wm"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170379&streamencoding=mp31", 
+            "name": "-"
+        }
+    ], 
+    "release": "2008", 
+    "id": "25047"
+}

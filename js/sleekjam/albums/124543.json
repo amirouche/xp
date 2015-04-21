@@ -1,0 +1,14 @@
+{
+    "name": "Shake your boody", 
+    "artist": "Project Puuchica", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124543&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1056280&streamencoding=mp31", 
+            "name": "Shake your Boody"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124543"
+}

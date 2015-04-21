@@ -1,0 +1,69 @@
+{
+    "name": "Paradox", 
+    "artist": "Eating Shit", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64207&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=551602&streamencoding=mp31", 
+            "name": "Beginning Alone"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=551607&streamencoding=mp31", 
+            "name": "Dubitatif"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=551597&streamencoding=mp31", 
+            "name": "ES 27"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=551604&streamencoding=mp31", 
+            "name": "Kill earth"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=551606&streamencoding=mp31", 
+            "name": "Wall E"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=551608&streamencoding=mp31", 
+            "name": "Boom Life"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=551603&streamencoding=mp31", 
+            "name": "Bells of sin"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=551598&streamencoding=mp31", 
+            "name": "You my kind, human kind"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=551599&streamencoding=mp31", 
+            "name": "Love, hate, pain and pleasure"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=551601&streamencoding=mp31", 
+            "name": "Paradox"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=551605&streamencoding=mp31", 
+            "name": "La jenlain brune"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=551600&streamencoding=mp31", 
+            "name": "L'\u00e9trange noel d'ES"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64207"
+}

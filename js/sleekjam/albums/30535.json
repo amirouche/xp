@@ -1,0 +1,24 @@
+{
+    "name": "Atto I", 
+    "artist": "Thunderblow", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30535&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205683&streamencoding=mp31", 
+            "name": "Born to live"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205705&streamencoding=mp31", 
+            "name": "Horse in open land"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=205716&streamencoding=mp31", 
+            "name": "Stay with me"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30535"
+}

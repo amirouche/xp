@@ -1,0 +1,64 @@
+{
+    "name": "Ashes Of Dub", 
+    "artist": "KENE BUSMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87732&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736045&streamencoding=mp31", 
+            "name": "Sourd Vacarme"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736042&streamencoding=mp31", 
+            "name": "Musashi"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736046&streamencoding=mp31", 
+            "name": "Until The Lowest Shines"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736044&streamencoding=mp31", 
+            "name": "Oath Of The Swamp"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736038&streamencoding=mp31", 
+            "name": "Beyond Da Pain"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736037&streamencoding=mp31", 
+            "name": "Ain't No Sorrow"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736039&streamencoding=mp31", 
+            "name": "Black Mind Lotus"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736041&streamencoding=mp31", 
+            "name": "Crossroads Dub"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736040&streamencoding=mp31", 
+            "name": "Ces Gens L\u00e0"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736047&streamencoding=mp31", 
+            "name": "Vanilla Cloud"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736043&streamencoding=mp31", 
+            "name": "Nemboutsou (2010)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87732"
+}

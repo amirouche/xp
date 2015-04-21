@@ -1,0 +1,29 @@
+{
+    "name": "Chewbaska - The Shape of Ska to come", 
+    "artist": "Chewbaska", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28044&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187621&streamencoding=mp31", 
+            "name": "La ultima suerte"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187622&streamencoding=mp31", 
+            "name": "Try to play"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187623&streamencoding=mp31", 
+            "name": "Hungry man"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187625&streamencoding=mp31", 
+            "name": "Tequilight"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28044"
+}

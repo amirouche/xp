@@ -1,0 +1,49 @@
+{
+    "name": "Gan Jah", 
+    "artist": "KENE BUSMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59190&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505404&streamencoding=mp31", 
+            "name": "Jah Lova"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505408&streamencoding=mp31", 
+            "name": "Joy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505410&streamencoding=mp31", 
+            "name": "Y\u00e9hida"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505411&streamencoding=mp31", 
+            "name": "Azraq'i"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505406&streamencoding=mp31", 
+            "name": "My One"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505407&streamencoding=mp31", 
+            "name": "Adona\u00ef"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505405&streamencoding=mp31", 
+            "name": "Ganjah Rise"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=505409&streamencoding=mp31", 
+            "name": "Sativa"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59190"
+}

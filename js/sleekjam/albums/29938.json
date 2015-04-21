@@ -1,0 +1,29 @@
+{
+    "name": "Blast", 
+    "artist": "Alias SHADOW", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29938&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=201345&streamencoding=mp31", 
+            "name": "TRANCE LUNA"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=201347&streamencoding=mp31", 
+            "name": "TRANCE SoLOEIL "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=201348&streamencoding=mp31", 
+            "name": "FUNCKY JAZZY"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=201350&streamencoding=mp31", 
+            "name": "ROCK TEcK"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29938"
+}

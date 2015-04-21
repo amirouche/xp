@@ -1,0 +1,54 @@
+{
+    "name": "Soffoco", 
+    "artist": "Maieutica", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27689&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184723&streamencoding=mp31", 
+            "name": "Piove"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184724&streamencoding=mp31", 
+            "name": "Dove sono?!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184725&streamencoding=mp31", 
+            "name": "E' arrivato"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184726&streamencoding=mp31", 
+            "name": "Trascendenza (fine)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184727&streamencoding=mp31", 
+            "name": "Trascendenza (progetto)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184729&streamencoding=mp31", 
+            "name": "Trascendenza (inizio)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184731&streamencoding=mp31", 
+            "name": "Guarda il cielo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184734&streamencoding=mp31", 
+            "name": "Il ribelle"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184735&streamencoding=mp31", 
+            "name": "Non ti muovere"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27689"
+}

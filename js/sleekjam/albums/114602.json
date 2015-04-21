@@ -1,0 +1,64 @@
+{
+    "name": "Detr\u00e1s del Papel", 
+    "artist": "D.O.S.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114602&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973329&streamencoding=mp31", 
+            "name": "D.O.S. - Detr\u00e1s del papel - 01 - Solo rock"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973320&streamencoding=mp31", 
+            "name": "D.O.S. - Detras del Papel - 02 - El ultimo viaje"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973321&streamencoding=mp31", 
+            "name": "D.O.S. - Detras del Papel - 03 - Detras del papel"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973322&streamencoding=mp31", 
+            "name": "D.O.S. - Detras del Papel - 04 - Aprendiendo a olvidar"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973323&streamencoding=mp31", 
+            "name": "D.O.S. - Detras del Papel - 05 - Amanecer"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973330&streamencoding=mp31", 
+            "name": "D.O.S. - Detr\u00e1s del papel - 06 - Circensian cowairdlies"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973324&streamencoding=mp31", 
+            "name": "D.O.S. - Detras del Papel - 07 - Por un dia Junto a ti"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973325&streamencoding=mp31", 
+            "name": "D.O.S. - Detras del Papel - 08 - Deborah less"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973326&streamencoding=mp31", 
+            "name": "D.O.S. - Detras del Papel - 09 - Sin tregua ni rendici\u00f3n"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973328&streamencoding=mp31", 
+            "name": "D.O.S. - Detr\u00e1s del papel - 10 - Dime por que"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=973319&streamencoding=mp31", 
+            "name": "D.O.S. - Detras del Papel - 11 - El Hijo perdido"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114602"
+}

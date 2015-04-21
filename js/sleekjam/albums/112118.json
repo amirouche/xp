@@ -1,0 +1,44 @@
+{
+    "name": "Positive Sport Rock Music", 
+    "artist": "Plastic3", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112118&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953631&streamencoding=mp31", 
+            "name": "Happy Joyful Rock"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953632&streamencoding=mp31", 
+            "name": "Positive Rock Motivation"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953637&streamencoding=mp31", 
+            "name": "Corporate Happy People"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953636&streamencoding=mp31", 
+            "name": "Soft Easy Rock"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953633&streamencoding=mp31", 
+            "name": "Extreme Sports Action"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953634&streamencoding=mp31", 
+            "name": "Active Sport Dance"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=953635&streamencoding=mp31", 
+            "name": "Hard Rock Life"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112118"
+}

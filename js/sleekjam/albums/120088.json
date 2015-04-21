@@ -1,0 +1,19 @@
+{
+    "name": "PoW !", 
+    "artist": "BEYER C\u00e9dric", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120088&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1021433&streamencoding=mp31", 
+            "name": "Gravitation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1021434&streamencoding=mp31", 
+            "name": "Pow !"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120088"
+}

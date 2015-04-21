@@ -1,0 +1,29 @@
+{
+    "name": "X-mas Time With Danny Ramirez!", 
+    "artist": "Danny Ramirez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102584&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874261&streamencoding=mp31", 
+            "name": "Santa Claus Is On The Loose!"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874262&streamencoding=mp31", 
+            "name": "Satan Is Coming To Town!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874263&streamencoding=mp31", 
+            "name": "When Jesus Was Born Jesus Was Born To Die!"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874264&streamencoding=mp31", 
+            "name": "X-mas Eve Is A Damn Cold Night To Die!"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102584"
+}

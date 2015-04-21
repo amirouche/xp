@@ -1,0 +1,54 @@
+{
+    "name": "Ceuillez d\u00e8s-a-pr\u00e9sent les Roses de l'Ennui", 
+    "artist": "tryf", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50853&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411455&streamencoding=mp31", 
+            "name": "Soudainement Frapp\u00e9es d'Harmonie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411463&streamencoding=mp31", 
+            "name": "Please Stop the train"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411464&streamencoding=mp31", 
+            "name": "Greeta son cathedrale"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411467&streamencoding=mp31", 
+            "name": "Le Dernier Verre"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411469&streamencoding=mp31", 
+            "name": "Qu'est ce que tu me chante?"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411471&streamencoding=mp31", 
+            "name": "Les Roses de l'Ennui"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411475&streamencoding=mp31", 
+            "name": "Greeta avec intro"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411477&streamencoding=mp31", 
+            "name": "Au revoir top1 triste"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411518&streamencoding=mp31", 
+            "name": "Rock'N'Roll Suicide Attitude"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50853"
+}

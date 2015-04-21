@@ -1,0 +1,29 @@
+{
+    "name": "Tabolomegalo", 
+    "artist": "Tabolomegalo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11546&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=102420&streamencoding=mp31", 
+            "name": "Climax"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=102421&streamencoding=mp31", 
+            "name": "Sea"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=102425&streamencoding=mp31", 
+            "name": "Simple Wave"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=102430&streamencoding=mp31", 
+            "name": "Etre seul"
+        }
+    ], 
+    "release": "2007", 
+    "id": "11546"
+}

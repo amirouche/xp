@@ -1,0 +1,49 @@
+{
+    "name": "edgeL\u00e4NDER", 
+    "artist": "WyrDGeneS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66855&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579873&streamencoding=mp31", 
+            "name": "Broken Legged Chicken"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579876&streamencoding=mp31", 
+            "name": "Harliquins Jigg / Random Jigg"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579891&streamencoding=mp31", 
+            "name": "Felton Lonnen"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579893&streamencoding=mp31", 
+            "name": "Mad Moll"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579894&streamencoding=mp31", 
+            "name": "Cobblers Hornpipe / Peacocks Fancy"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579898&streamencoding=mp31", 
+            "name": "Cut the File"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579899&streamencoding=mp31", 
+            "name": "Newcastle Hornpipe"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=579900&streamencoding=mp31", 
+            "name": "Redesdale Hornpipe / Proudlocks Hornpipe / Hesleyside Reel / Sweet Hesleyside"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66855"
+}

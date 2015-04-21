@@ -1,0 +1,129 @@
+{
+    "name": "Distortion", 
+    "artist": "Mr. M (a.k.a. Dj KK7)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13035&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108200&streamencoding=mp31", 
+            "name": "01 - Graveyard Shift"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108215&streamencoding=mp31", 
+            "name": "02 - Blood Shot"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108216&streamencoding=mp31", 
+            "name": "03 - #Blocked"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108217&streamencoding=mp31", 
+            "name": "04 - Boby"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108218&streamencoding=mp31", 
+            "name": "05 - -amine"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108219&streamencoding=mp31", 
+            "name": "06 - Carpathia"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108220&streamencoding=mp31", 
+            "name": "07 - Part1"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108221&streamencoding=mp31", 
+            "name": "08 - Cemetary Shift"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108222&streamencoding=mp31", 
+            "name": "09 - Dominator"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108223&streamencoding=mp31", 
+            "name": "10 - Don't Make Me Destroy You"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108224&streamencoding=mp31", 
+            "name": "11 - Hyperspace"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108225&streamencoding=mp31", 
+            "name": "12 - Intravenous Thrusting"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108214&streamencoding=mp31", 
+            "name": "13 - Insect Invasion"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108241&streamencoding=mp31", 
+            "name": "14 - Lucidia"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108243&streamencoding=mp31", 
+            "name": "15 - Part2"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108244&streamencoding=mp31", 
+            "name": "16 - K-Hole"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108245&streamencoding=mp31", 
+            "name": "17 - Project D&B"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108246&streamencoding=mp31", 
+            "name": "18 - Silent Whistle"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108242&streamencoding=mp31", 
+            "name": "19 - Shakara"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108295&streamencoding=mp31", 
+            "name": "20 - Stimpys Incredible Bassline"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108296&streamencoding=mp31", 
+            "name": "21 - String Finger"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108297&streamencoding=mp31", 
+            "name": "22 - Ultimatum"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108293&streamencoding=mp31", 
+            "name": "23 - Clip Reflexx"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108234&streamencoding=mp31", 
+            "name": "24 - End"
+        }
+    ], 
+    "release": "2007", 
+    "id": "13035"
+}

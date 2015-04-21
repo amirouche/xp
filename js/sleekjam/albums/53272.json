@@ -1,0 +1,24 @@
+{
+    "name": "SinFTon\u00edas (2008)", 
+    "artist": "Blue Rondo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53272&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441015&streamencoding=mp31", 
+            "name": "SinFTon\u00edas (Parte 01)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441041&streamencoding=mp31", 
+            "name": "SinFTon\u00edas (Parte 02)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=441060&streamencoding=mp31", 
+            "name": "SinFTon\u00edas (Parte 03)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53272"
+}

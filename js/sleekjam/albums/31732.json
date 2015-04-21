@@ -1,0 +1,59 @@
+{
+    "name": "Hummingbird & Honeybee", 
+    "artist": "R\u00e9gis V. Gronoff", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31732&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215573&streamencoding=mp31", 
+            "name": "Return to Warm Places"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215574&streamencoding=mp31", 
+            "name": "Hooked On Key Largo"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215575&streamencoding=mp31", 
+            "name": "Joy of My Love"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215576&streamencoding=mp31", 
+            "name": "Aux Temps Heureux"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215577&streamencoding=mp31", 
+            "name": "Love Song for Vanessa"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215578&streamencoding=mp31", 
+            "name": "Appalachian Tears"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215579&streamencoding=mp31", 
+            "name": "Rainbow Over The Bayou"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215580&streamencoding=mp31", 
+            "name": "Significant Encounters"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215581&streamencoding=mp31", 
+            "name": "Savannah Homesick Blues"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215582&streamencoding=mp31", 
+            "name": "Pale Dream"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31732"
+}

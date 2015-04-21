@@ -1,0 +1,39 @@
+{
+    "name": "CAMALEON - Enrique Cardoza & David Mesa", 
+    "artist": "CAMALEON - Enrique Cardoza & David Mesa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57140&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=486942&streamencoding=mp31", 
+            "name": "HIERBA BUENA"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=486967&streamencoding=mp31", 
+            "name": "RUMBA PATRAS"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=486966&streamencoding=mp31", 
+            "name": "METELE FUEGO"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=486968&streamencoding=mp31", 
+            "name": "AIRE DE OTO\u00d1O"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=486965&streamencoding=mp31", 
+            "name": "QUIERO VIVIR LA NOCHE"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=486964&streamencoding=mp31", 
+            "name": "NOSTALGIA"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57140"
+}

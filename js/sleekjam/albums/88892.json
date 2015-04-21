@@ -1,0 +1,44 @@
+{
+    "name": "Empty", 
+    "artist": "Dave Imbern\u00f6n", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88892&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759915&streamencoding=mp31", 
+            "name": "hate me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759916&streamencoding=mp31", 
+            "name": "Dolphin song dream"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759917&streamencoding=mp31", 
+            "name": "improvisando a la luna"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759918&streamencoding=mp31", 
+            "name": "jail"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759919&streamencoding=mp31", 
+            "name": "changes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759920&streamencoding=mp31", 
+            "name": "I\u00b4m not death"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759921&streamencoding=mp31", 
+            "name": "end"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88892"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Kl\u00e4nge", 
+    "artist": "Damiaskaron", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21627&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151599&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151600&streamencoding=mp31", 
+            "name": "Kl\u00e4nge"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151604&streamencoding=mp31", 
+            "name": "The riddle of life"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151605&streamencoding=mp31", 
+            "name": "Is there anybody out there"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151607&streamencoding=mp31", 
+            "name": "Hey warrior"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151608&streamencoding=mp31", 
+            "name": "Leave me with a kiss"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151611&streamencoding=mp31", 
+            "name": "You won't stay young forever"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151612&streamencoding=mp31", 
+            "name": "Die Bestie"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151620&streamencoding=mp31", 
+            "name": "Der Nebel"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151621&streamencoding=mp31", 
+            "name": "Die Sonne scheint"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21627"
+}

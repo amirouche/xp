@@ -1,0 +1,14 @@
+{
+    "name": "anywhere in my mind", 
+    "artist": "Nichtsinger", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51683&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=421531&streamencoding=mp31", 
+            "name": "anywhere in my mind"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51683"
+}

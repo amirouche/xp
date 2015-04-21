@@ -1,0 +1,64 @@
+{
+    "name": "Wen evaW", 
+    "artist": "Dj Goubz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79357&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682475&streamencoding=mp31", 
+            "name": "Dj Goubz - I Like 2 Move It"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682477&streamencoding=mp31", 
+            "name": "Dj Goubz - Get up stand up"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682478&streamencoding=mp31", 
+            "name": "Dj Goubz - Destressed"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682479&streamencoding=mp31", 
+            "name": "Dj Goubz - Decadent #4"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682480&streamencoding=mp31", 
+            "name": "Dj Goubz - Too Much"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682481&streamencoding=mp31", 
+            "name": "Dj Goubz - Just Can't Get Enough"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682482&streamencoding=mp31", 
+            "name": "Dj Goubz - FLS Strings"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682483&streamencoding=mp31", 
+            "name": "Dj Goubz - Fake End"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682484&streamencoding=mp31", 
+            "name": "Dj Goubz - Synth 3"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682485&streamencoding=mp31", 
+            "name": "Dj Goubz - Conqueror"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682486&streamencoding=mp31", 
+            "name": "Dj Goubz - Voyager"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79357"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "WILD AFRIKA - AFRIKA SALVAJE", 
+    "artist": "DAVID BAYON - TAVITA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72792&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628383&streamencoding=mp31", 
+            "name": "1- The Kalahari Desert"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628382&streamencoding=mp31", 
+            "name": "2- The smoky snows of the Kilimanjaro"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628380&streamencoding=mp31", 
+            "name": "4- The puppies of the lion"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628377&streamencoding=mp31", 
+            "name": "3- For the Luangwa Valley"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628378&streamencoding=mp31", 
+            "name": "5- The footpath of the elephants"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628384&streamencoding=mp31", 
+            "name": "6- Ngorongoro, Maasai land"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628379&streamencoding=mp31", 
+            "name": "7- Gallop along the Serengeti savannah"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628375&streamencoding=mp31", 
+            "name": "8- Towards the Zambezi river sources"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628381&streamencoding=mp31", 
+            "name": "9- Flying over Lake Tanganyika"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628376&streamencoding=mp31", 
+            "name": "10- Wild Afrika"
+        }
+    ], 
+    "release": "2010", 
+    "id": "72792"
+}

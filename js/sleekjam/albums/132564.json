@@ -1,0 +1,24 @@
+{
+    "name": "Accordion & Drums 2014", 
+    "artist": "Micha\u0142 Ja\u0142ochowski", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132564&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109580&streamencoding=mp31", 
+            "name": "accordion I"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109581&streamencoding=mp31", 
+            "name": "accordion II"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109603&streamencoding=mp31", 
+            "name": "accordion III"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132564"
+}

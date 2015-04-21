@@ -1,0 +1,14 @@
+{
+    "name": "Ladies Luv It", 
+    "artist": "k Minus 1", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84692&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724997&streamencoding=mp31", 
+            "name": "LADIES LUV IT"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84692"
+}

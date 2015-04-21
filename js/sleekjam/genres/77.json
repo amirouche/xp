@@ -1,0 +1,425 @@
+{
+    "albums": [
+        {
+            "release": "2011", 
+            "artist": "DJ \u0421\u042d\u0420", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83847&imagesize=100", 
+            "id": "83847", 
+            "name": "?."
+        }, 
+        {
+            "release": "2008", 
+            "artist": "YOSHIKAWA yes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25262&imagesize=100", 
+            "id": "25262", 
+            "name": "nada es el tiempo si se ama de verdad"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Turjan Aylahn", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31715&imagesize=100", 
+            "id": "31715", 
+            "name": "Tadjinar"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Turjan Aylahn", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101859&imagesize=100", 
+            "id": "101859", 
+            "name": "Ilj\u00f9 Svarsas"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "General Union", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25004&imagesize=100", 
+            "id": "25004", 
+            "name": "The Time of Life"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "GingerTom", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120715&imagesize=100", 
+            "id": "120715", 
+            "name": "Music And The Movies 2"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Dagd\u00e0", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119683&imagesize=100", 
+            "id": "119683", 
+            "name": "Biosphere"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Turkish Delight The Opera", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6665&imagesize=100", 
+            "id": "6665", 
+            "name": "Selections from Turkish Delight the Opera, Live at St Mary's"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Phon'\u00e9thique", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102843&imagesize=100", 
+            "id": "102843", 
+            "name": "Ballade de Noel"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Obdulio Macagno (Lulo)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65502&imagesize=100", 
+            "id": "65502", 
+            "name": "Hab\u00eda una vez... Nostalgias"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Dangiliske", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78287&imagesize=100", 
+            "id": "78287", 
+            "name": "Dangiliske"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Anna C", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28420&imagesize=100", 
+            "id": "28420", 
+            "name": "Jeannette, Ma\u00ebl et moi"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Mansur Samba Trio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48348&imagesize=100", 
+            "id": "48348", 
+            "name": "Mansur Samba Trio - Live in  Rio 2008"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "KOMY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26309&imagesize=100", 
+            "id": "26309", 
+            "name": "PIANO SAYING"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "abdelali doukali", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20771&imagesize=100", 
+            "id": "20771", 
+            "name": "abdelali doukali"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "3minutetunes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112261&imagesize=100", 
+            "id": "112261", 
+            "name": "Images"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "T\u00e9rrog Fran\u00e7ois", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130682&imagesize=100", 
+            "id": "130682", 
+            "name": "Libert\u00e9 po\u00e9tique "
+        }, 
+        {
+            "release": "2009", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46437&imagesize=100", 
+            "id": "46437", 
+            "name": "Cinq opus en attendant..."
+        }, 
+        {
+            "release": "2009", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42802&imagesize=100", 
+            "id": "42802", 
+            "name": "Quelques opus pour piano"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43787&imagesize=100", 
+            "id": "43787", 
+            "name": "Jour de pluie"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "PHILIpPE bRaY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53324&imagesize=100", 
+            "id": "53324", 
+            "name": "PiAnO opus session FiVe"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Full Song", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129039&imagesize=100", 
+            "id": "129039", 
+            "name": "Super Hit Hindi"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "MTHY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50892&imagesize=100", 
+            "id": "50892", 
+            "name": "METISSE"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "VisionespanoramiK", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81958&imagesize=100", 
+            "id": "81958", 
+            "name": "En el Teatro Jos\u00e9 Tamayo..."
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Marc Robberttson", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=127836&imagesize=100", 
+            "id": "127836", 
+            "name": "Dream in the sky"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "MW", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101329&imagesize=100", 
+            "id": "101329", 
+            "name": "Heart of the forest"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Mob", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11269&imagesize=100", 
+            "id": "11269", 
+            "name": "Le soleil est l\u00e0"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Remixeros De La Cumbia", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122660&imagesize=100", 
+            "id": "122660", 
+            "name": "Olocumbias"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Sikos", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40156&imagesize=100", 
+            "id": "40156", 
+            "name": "A-out soundtrack"
+        }, 
+        {
+            "release": "2007", 
+            "artist": ".\u00b7\u00b4\u00b4\u00af`\u00b7\u00b7.Otoshi\u00b7\u00b4\u00b4\u00af`\u00b7\u00b7.", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7213&imagesize=100", 
+            "id": "7213", 
+            "name": "Derivas so\u00f1adoras"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Jean-Albert MALATY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83590&imagesize=100", 
+            "id": "83590", 
+            "name": "Caf\u00e9 Cigare"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Cyril.G Pereira", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5951&imagesize=100", 
+            "id": "5951", 
+            "name": "The Revenge of Glory"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Noblemo \"piano,sountrack,lounge\"", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61088&imagesize=100", 
+            "id": "61088", 
+            "name": "ON THE ROAD OF THE LIFE"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Noblemo \"piano,sountrack,lounge\"", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63202&imagesize=100", 
+            "id": "63202", 
+            "name": "FRESH"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Noblemo \"piano,sountrack,lounge\"", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80900&imagesize=100", 
+            "id": "80900", 
+            "name": "FIDELIA"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Noblemo \"piano,sountrack,lounge\"", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126398&imagesize=100", 
+            "id": "126398", 
+            "name": "ZEN 2"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Noblemo \"piano,sountrack,lounge\"", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45549&imagesize=100", 
+            "id": "45549", 
+            "name": "melodia"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Noblemo \"electro,techno,house\"", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65583&imagesize=100", 
+            "id": "65583", 
+            "name": "season"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Aledjones_music", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81764&imagesize=100", 
+            "id": "81764", 
+            "name": "Western Melodies"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Symbiants", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130966&imagesize=100", 
+            "id": "130966", 
+            "name": "MeloDNA"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Musicaserj", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21570&imagesize=100", 
+            "id": "21570", 
+            "name": "musicaserj Album 2"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "mindthings", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51826&imagesize=100", 
+            "id": "51826", 
+            "name": "Resonance"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "A STAGE KINDLY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55338&imagesize=100", 
+            "id": "55338", 
+            "name": "SOVIET ZION Live 2009"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "A STAGE KINDLY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55365&imagesize=100", 
+            "id": "55365", 
+            "name": "Encore Live"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "JAM OUEST", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117232&imagesize=100", 
+            "id": "117232", 
+            "name": "Premier Semestre"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Theta-Sound", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94623&imagesize=100", 
+            "id": "94623", 
+            "name": "Le Crash"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Simpleman", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112675&imagesize=100", 
+            "id": "112675", 
+            "name": "Ca Yu Co"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "BABEL SIN FRONTERAS ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70510&imagesize=100", 
+            "id": "70510", 
+            "name": "Por la Tierra (single) tema promocional"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "MTHY.2", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52769&imagesize=100", 
+            "id": "52769", 
+            "name": "M .THY 2"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "AMUTHAN SUNDAR", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49629&imagesize=100", 
+            "id": "49629", 
+            "name": "Sample Pieces from my new album- SHADES AND FADES"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "FONKADELIK", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4016&imagesize=100", 
+            "id": "4016", 
+            "name": "LATERAL SEX DIRECTION"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "FONKADELIK", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15777&imagesize=100", 
+            "id": "15777", 
+            "name": "De Fil en Aiguille"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "\u0412\u043e\u043b\u043e\u0434\u044f \u0414\u0430\u043b\u044c\u0432\u0430\u043d", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132637&imagesize=100", 
+            "id": "132637", 
+            "name": "\u041a\u0440\u044b\u0441\u044b"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "JUDOKA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117602&imagesize=100", 
+            "id": "117602", 
+            "name": "EVERFIGHTING"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "ELYS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130284&imagesize=100", 
+            "id": "130284", 
+            "name": "Le man\u00e8ge des ombres"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Peter Pan am Gymnasium Geretsried", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70721&imagesize=100", 
+            "id": "70721", 
+            "name": "Nimmerland - Preview Version- "
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Peter Pan am Gymnasium Geretsried", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84941&imagesize=100", 
+            "id": "84941", 
+            "name": "Peter Pan Musical"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "mc@b", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18528&imagesize=100", 
+            "id": "18528", 
+            "name": "REMAKE I"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Milena Torres", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51791&imagesize=100", 
+            "id": "51791", 
+            "name": "Milena Torres - Ao Vivo"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Sin L\u00edmites", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115961&imagesize=100", 
+            "id": "115961", 
+            "name": "Momentos para guardar"
+        }
+    ], 
+    "name": "Musical"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Corrientes en espa\u00f1ol", 
+    "artist": "Corrientes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29330&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196630&streamencoding=mp31", 
+            "name": "Tiempo y epacio"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196634&streamencoding=mp31", 
+            "name": "Por Una Sola Vez"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196633&streamencoding=mp31", 
+            "name": "Esta larga distancia"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196638&streamencoding=mp31", 
+            "name": "No te puedo olvidar"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196644&streamencoding=mp31", 
+            "name": "Coraz\u00f3n "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196689&streamencoding=mp31", 
+            "name": "No, No, No"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196690&streamencoding=mp31", 
+            "name": "Algo que hacer"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196695&streamencoding=mp31", 
+            "name": "En la soledad"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196697&streamencoding=mp31", 
+            "name": "\u00a1\u00d3yeme tibur\u00f3n!"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=196702&streamencoding=mp31", 
+            "name": "Volver a vivir "
+        }
+    ], 
+    "release": "2008", 
+    "id": "29330"
+}

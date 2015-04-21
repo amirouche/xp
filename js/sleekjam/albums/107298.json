@@ -1,0 +1,14 @@
+{
+    "name": "You Know What I'm Saying", 
+    "artist": "Triplexity", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107298&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=907412&streamencoding=mp31", 
+            "name": "You Know What I'm Saying (feat. Paolo Pavan)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107298"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Dedicated To You", 
+    "artist": "Farsil.Music Inside", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39694&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284296&streamencoding=mp31", 
+            "name": "Oceani di luce [Oceans of Light]"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284303&streamencoding=mp31", 
+            "name": "Sorpresa [Surprise]"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284301&streamencoding=mp31", 
+            "name": "Past Ages"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284302&streamencoding=mp31", 
+            "name": "La Vita e il Ritmo Segreto Part I [Life and the Secret Time PI]"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284300&streamencoding=mp31", 
+            "name": "Aspetta la Pace [Waiting for Peace]"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284298&streamencoding=mp31", 
+            "name": "25 Sentieri di Pace [25 Paths of Peace]"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284421&streamencoding=mp31", 
+            "name": "Con l'Antico e con il Nuovo [ With Ancient and New]"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284299&streamencoding=mp31", 
+            "name": "Renew Hope for Countries"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284422&streamencoding=mp31", 
+            "name": "Past Ages"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284304&streamencoding=mp31", 
+            "name": "Contrapparenze [ You are with Me]"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284441&streamencoding=mp31", 
+            "name": "Ciao Dolcissima Maria [Ciao Sweet Mary]"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284435&streamencoding=mp31", 
+            "name": "Aspetta la Pace [Waiting for Peace]"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284458&streamencoding=mp31", 
+            "name": "25 Sentieri di Pace [25 Paths of Peace]"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284443&streamencoding=mp31", 
+            "name": "Renew Hope for Countries"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39694"
+}

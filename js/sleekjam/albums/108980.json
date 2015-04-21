@@ -1,0 +1,14 @@
+{
+    "name": "Complicated Boy", 
+    "artist": "Oleg Serkov", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108980&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920344&streamencoding=mp31", 
+            "name": "Oleg Serkov - Complicated Boy"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108980"
+}

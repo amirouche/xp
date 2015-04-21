@@ -1,0 +1,39 @@
+{
+    "name": "DEXEO", 
+    "artist": "DEXEO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21118&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146526&streamencoding=mp31", 
+            "name": "buenos  tiempos"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146766&streamencoding=mp31", 
+            "name": " \u00bfdonde estas?"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146969&streamencoding=mp31", 
+            "name": "en la trena"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147055&streamencoding=mp31", 
+            "name": "tu ecosistema "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147076&streamencoding=mp31", 
+            "name": "no abandones tu corazon"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147127&streamencoding=mp31", 
+            "name": "la cronica"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21118"
+}

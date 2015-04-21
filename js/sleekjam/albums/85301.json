@@ -1,0 +1,29 @@
+{
+    "name": "Underground", 
+    "artist": "le laboratoire de noblemo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85301&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729944&streamencoding=mp31", 
+            "name": "Xstrom"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729945&streamencoding=mp31", 
+            "name": "Nevalus"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729946&streamencoding=mp31", 
+            "name": "ignition"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=729947&streamencoding=mp31", 
+            "name": "underforce"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85301"
+}

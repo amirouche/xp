@@ -1,0 +1,29 @@
+{
+    "name": "Live Festival Song assos", 
+    "artist": "G\u00e9n\u00e9ral Fiasco", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44179&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=331230&streamencoding=mp31", 
+            "name": "Mr l'agent"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=331227&streamencoding=mp31", 
+            "name": "Croix de bois croix de fer"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=331229&streamencoding=mp31", 
+            "name": "col\u00e8re"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=331231&streamencoding=mp31", 
+            "name": "l'\u00e9vantail ldes joies"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44179"
+}

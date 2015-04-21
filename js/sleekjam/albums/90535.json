@@ -1,0 +1,19 @@
+{
+    "name": "feel like a hell", 
+    "artist": "tina valentine", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90535&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=772406&streamencoding=mp31", 
+            "name": "feel like hell"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=772411&streamencoding=mp31", 
+            "name": "hate this life"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90535"
+}

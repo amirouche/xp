@@ -1,0 +1,24 @@
+{
+    "name": "Sweet Candy Bullets", 
+    "artist": "Chemical Waves", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111873&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951490&streamencoding=mp31", 
+            "name": "Sweet Candy Bullets"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951491&streamencoding=mp31", 
+            "name": "Wraith"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951492&streamencoding=mp31", 
+            "name": "Sweet Candy Bullets (TSIDMZ Remix)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111873"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Ooh The Baby Jesus", 
+    "artist": "Stellar Art Wars Free License", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80639&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691794&streamencoding=mp31", 
+            "name": "Baby Jesus (Overture)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691790&streamencoding=mp31", 
+            "name": "Baby Jesus (Jungle)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691793&streamencoding=mp31", 
+            "name": "Baby Jesus (Animals)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691792&streamencoding=mp31", 
+            "name": "Baby Jesus (Slaghuis)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80639"
+}

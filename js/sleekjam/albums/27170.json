@@ -1,0 +1,39 @@
+{
+    "name": "MWep004 - More Trip Than Hop", 
+    "artist": "KND&DEE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27170&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181554&streamencoding=mp31", 
+            "name": "24 - 34 Point 2"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181555&streamencoding=mp31", 
+            "name": "Plants Talks"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181556&streamencoding=mp31", 
+            "name": "Listenin' To Jazz"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181557&streamencoding=mp31", 
+            "name": "Curiosity (About Sex)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181558&streamencoding=mp31", 
+            "name": "Sigma"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=181559&streamencoding=mp31", 
+            "name": "KND's Wonderland (Vacci Piano Vers.)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27170"
+}

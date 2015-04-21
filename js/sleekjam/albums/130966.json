@@ -1,0 +1,89 @@
+{
+    "name": "MeloDNA", 
+    "artist": "Symbiants", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130966&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098089&streamencoding=mp31", 
+            "name": "piano welcome"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098090&streamencoding=mp31", 
+            "name": "aloha slow (guitar)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098104&streamencoding=mp31", 
+            "name": "stormy5"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098091&streamencoding=mp31", 
+            "name": "country_of_light (guitar)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098093&streamencoding=mp31", 
+            "name": "light"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098097&streamencoding=mp31", 
+            "name": "it's time1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098092&streamencoding=mp31", 
+            "name": "rainy clouds (guitar)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098094&streamencoding=mp31", 
+            "name": "sun melody"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098108&streamencoding=mp31", 
+            "name": "Sveta"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098095&streamencoding=mp31", 
+            "name": "marat (guitar)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098105&streamencoding=mp31", 
+            "name": "1"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098103&streamencoding=mp31", 
+            "name": "bud1 ( piano)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098096&streamencoding=mp31", 
+            "name": "sirius"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098102&streamencoding=mp31", 
+            "name": "\u0413\u0440\u0443\u0441\u0442\u044c (piano)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098101&streamencoding=mp31", 
+            "name": "Stone river"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098106&streamencoding=mp31", 
+            "name": "aloha (guitar)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130966"
+}

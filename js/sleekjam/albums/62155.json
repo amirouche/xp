@@ -1,0 +1,29 @@
+{
+    "name": "Dei Miei D\u00e8i - EP", 
+    "artist": "DEI MIEI D\u00c8I", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62155&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532599&streamencoding=mp31", 
+            "name": "Kerske"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532626&streamencoding=mp31", 
+            "name": "Strano l'odore"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532651&streamencoding=mp31", 
+            "name": "Spazio intorno"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532669&streamencoding=mp31", 
+            "name": "Ali di pezza"
+        }
+    ], 
+    "release": "2010", 
+    "id": "62155"
+}

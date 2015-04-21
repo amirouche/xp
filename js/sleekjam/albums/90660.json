@@ -1,0 +1,19 @@
+{
+    "name": "Tenente Dan II", 
+    "artist": "Tenente Dan", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90660&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773428&streamencoding=mp31", 
+            "name": "Eu Precisava de Algu\u00e9m do Meu Lado"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=773434&streamencoding=mp31", 
+            "name": "L\u00e1 Fora o Sol Nascendo"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90660"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "At-Tawh\u00eed", 
+    "artist": "ANATTA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57557&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491014&streamencoding=mp31", 
+            "name": "L'Aube"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491018&streamencoding=mp31", 
+            "name": "Wajd"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491012&streamencoding=mp31", 
+            "name": "Al Tariq-al-hachich"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491011&streamencoding=mp31", 
+            "name": "Yidak"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491015&streamencoding=mp31", 
+            "name": "Nakhla"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491013&streamencoding=mp31", 
+            "name": "Sam\u00e2dhi"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491016&streamencoding=mp31", 
+            "name": "S\u00e0lik"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491017&streamencoding=mp31", 
+            "name": "Nuages"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491019&streamencoding=mp31", 
+            "name": "L'Aurore"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57557"
+}

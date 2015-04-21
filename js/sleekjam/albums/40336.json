@@ -1,0 +1,19 @@
+{
+    "name": "Few songs ago", 
+    "artist": "Fahara", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40336&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=292177&streamencoding=mp31", 
+            "name": "Fire of my mind"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=292179&streamencoding=mp31", 
+            "name": "Heaven light"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40336"
+}

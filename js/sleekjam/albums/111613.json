@@ -1,0 +1,69 @@
+{
+    "name": "Retransmissions", 
+    "artist": "WMRI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111613&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949108&streamencoding=mp31", 
+            "name": "Connection Suite - Overture"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949456&streamencoding=mp31", 
+            "name": "Connection Suite - Movement I - Amorphous Link"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949107&streamencoding=mp31", 
+            "name": "Connection Suite - Movement II - Data-Maze"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949454&streamencoding=mp31", 
+            "name": "Connection Suite - Movement III - Midnight Transfer"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949110&streamencoding=mp31", 
+            "name": "Connection Lost Part I (Single Version)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949109&streamencoding=mp31", 
+            "name": "Lost Transmission"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949112&streamencoding=mp31", 
+            "name": "Connection Lost Part II (Fragile Mix)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949111&streamencoding=mp31", 
+            "name": "Transformed Transmission"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949113&streamencoding=mp31", 
+            "name": "Catching the Moon Waves"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949114&streamencoding=mp31", 
+            "name": "Connection Lost Part I (Dream Trance Mix)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949455&streamencoding=mp31", 
+            "name": "The Great Network"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949115&streamencoding=mp31", 
+            "name": "Orbital Door"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111613"
+}

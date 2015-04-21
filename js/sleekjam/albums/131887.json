@@ -1,0 +1,79 @@
+{
+    "name": "Noise to noise \u21161", 
+    "artist": "Igor Jafar", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131887&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104782&streamencoding=mp31", 
+            "name": "Igor Jafar - Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104783&streamencoding=mp31", 
+            "name": "Igor Jafar - Fuc"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104785&streamencoding=mp31", 
+            "name": "Igor Jafar - Piscium in naribus"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104786&streamencoding=mp31", 
+            "name": "Igor Jafar - Vox in tumultum"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104787&streamencoding=mp31", 
+            "name": "Igor Jafar - Equum tuum"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104788&streamencoding=mp31", 
+            "name": "Igor Jafar - Sicut tu me expulit"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104789&streamencoding=mp31", 
+            "name": "Igor Jafar - Et ibi tandem in infernum"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104790&streamencoding=mp31", 
+            "name": "Igor Jafar - Aures equi oculum sinistrum"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104791&streamencoding=mp31", 
+            "name": "Igor Jafar - Vox sonitus domum"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104792&streamencoding=mp31", 
+            "name": "Igor Jafar - Verum ultimus odores"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104793&streamencoding=mp31", 
+            "name": "Igor Jafar - Spiritus in corde tuo"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104794&streamencoding=mp31", 
+            "name": "Igor Jafar - In ultrices condimentum piperis cum asino"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104795&streamencoding=mp31", 
+            "name": "Igor Jafar - Ferus ebrius"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104796&streamencoding=mp31", 
+            "name": "Igor Jafar - Outro"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131887"
+}

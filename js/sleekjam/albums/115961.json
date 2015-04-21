@@ -1,0 +1,44 @@
+{
+    "name": "Momentos para guardar", 
+    "artist": "Sin L\u00edmites", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115961&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985082&streamencoding=mp31", 
+            "name": "UnoMas-01-Momentos para guardar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985083&streamencoding=mp31", 
+            "name": "UnoMas-02-Tu me ense\u00f1aste"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985084&streamencoding=mp31", 
+            "name": "UnoMas-03-Abraza tu futuro"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985085&streamencoding=mp31", 
+            "name": "UnoMas-04-Gracias a El"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985086&streamencoding=mp31", 
+            "name": "UnoMas-05-As\u00ed es nuestro Dios"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985087&streamencoding=mp31", 
+            "name": "UnoMas-06-S\u00f3lo por t\u00ed"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985088&streamencoding=mp31", 
+            "name": "UnoMas-07-Ese lugar"
+        }
+    ], 
+    "release": "2013", 
+    "id": "115961"
+}

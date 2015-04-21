@@ -1,0 +1,79 @@
+{
+    "name": "The Greatest hits", 
+    "artist": "\u0411\u0415\u041b\u042b\u0415 \u041a\u0420\u042b\u041b\u042c\u042f/WHITE WINGS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32728&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222115&streamencoding=mp31", 
+            "name": "\u041d\u0430\u0434\u0435\u0436\u0434\u044b\\Nadejdy\\Hopes"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222116&streamencoding=mp31", 
+            "name": "\u0415\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c\\Yesli eto ljubov\\If this love"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222117&streamencoding=mp31", 
+            "name": "\u041d\u043e\u0441\u0442\u0430\u043b\u044c\u0433\u0438\u044f\\Nostalgy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222118&streamencoding=mp31", 
+            "name": "\u042d\u0441\u043a\u0438\u0437\\Scetch"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222268&streamencoding=mp31", 
+            "name": "\u0425\u0430\u0440\u044c\u043a\u043e\u0432-town\\Kharkov-town"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222269&streamencoding=mp31", 
+            "name": "\u041d\u0430 \u0442\u0440\u0451\u0445 \u0431\u0435\u0440\u0435\u0433\u0430\u0445\\Na trioh beregah\\On the three coasts"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222270&streamencoding=mp31", 
+            "name": "\u0411\u0435\u0437\u0432\u0440\u0435\u043c\u0435\u043d\u044c\u0435\\Bezvremenje\\Dark days"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222271&streamencoding=mp31", 
+            "name": "\u041f\u043e \u043a\u0440\u0443\u0433\u0443\\Po krugu\\Full circle"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222273&streamencoding=mp31", 
+            "name": "\u042d\u0431\u043e\u043d\u0438\u0442\u043e\u0432\u044b\u0439 \u0441\u043e\u043d\\Ebonitovyj son\\Ebonith dream"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222274&streamencoding=mp31", 
+            "name": "\u0414\u0435\u0442\u0438 \u0440\u043e\u043a-\u043d-\u0440\u043e\u043b\u043b\u0430\\Deti rok-n-rolla\\Childrens of rock-n-roll"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222275&streamencoding=mp31", 
+            "name": "\u0411\u0435\u043b\u044b\u0435 \u043a\u0440\u044b\u043b\u044c\u044f\\Belye krylja\\White wings"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222267&streamencoding=mp31", 
+            "name": "\u0412\u043e\u0440\u043e\u0431\u044c\u0438\u043d\u0430\u044f \u044d\u043b\u0435\u0433\u0438\u044f\\Vorobjinaja elegija\\Sparrow Elegy"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222113&streamencoding=mp31", 
+            "name": "\u0413\u043e\u0440\u043e\u0434 \u0420\u043e\u043a-\u043d-\u0440\u043e\u043b\u043b\\Gorod Rok-n-roll\\Rock-n-roll City"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222114&streamencoding=mp31", 
+            "name": "\u041b\u0435\u0433\u043a\u043e\\Legko\\Easy"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32728"
+}

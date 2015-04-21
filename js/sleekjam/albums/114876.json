@@ -1,0 +1,14 @@
+{
+    "name": "Disperato", 
+    "artist": "Bacco Baccanels", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114876&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=975579&streamencoding=mp31", 
+            "name": "Disperato - Bacco Baccanels"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114876"
+}

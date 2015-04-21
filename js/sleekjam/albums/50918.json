@@ -1,0 +1,59 @@
+{
+    "name": "Songs From The Path", 
+    "artist": "Miriam Venus", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50918&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=412371&streamencoding=mp31", 
+            "name": "Loved and Full of Grace"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=412373&streamencoding=mp31", 
+            "name": "I Will Sing to You"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=412367&streamencoding=mp31", 
+            "name": "Walk Through This Night"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=412372&streamencoding=mp31", 
+            "name": "Fly"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=412377&streamencoding=mp31", 
+            "name": "Beloved"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=412374&streamencoding=mp31", 
+            "name": "Heal Us All"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=412396&streamencoding=mp31", 
+            "name": " Song that  I am Meant to Sing"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=412387&streamencoding=mp31", 
+            "name": "Ponder Me"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=412386&streamencoding=mp31", 
+            "name": "Om Mani Padme Hum"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=412411&streamencoding=mp31", 
+            "name": "The More We Know You"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50918"
+}

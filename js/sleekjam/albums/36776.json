@@ -1,0 +1,84 @@
+{
+    "name": "Jaw's Harp Speech", 
+    "artist": "Kaan Kaerede", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36776&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256532&streamencoding=mp31", 
+            "name": "Tale-Teller's Introductory"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256537&streamencoding=mp31", 
+            "name": "Sad Thoughts of a Hunter"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256538&streamencoding=mp31", 
+            "name": "Flight of a Hunter and a Bird"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256540&streamencoding=mp31", 
+            "name": "Meeting the Thunderstorm"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256604&streamencoding=mp31", 
+            "name": "Hunter in the Rain"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256517&streamencoding=mp31", 
+            "name": "Talking to a Frog"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256543&streamencoding=mp31", 
+            "name": "Fight at the Forest at Midday"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256552&streamencoding=mp31", 
+            "name": "Hunter's Uneasy Dream"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256566&streamencoding=mp31", 
+            "name": "Hunter Rides a Horse"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256570&streamencoding=mp31", 
+            "name": "Ice Lands of the Walrus"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256589&streamencoding=mp31", 
+            "name": "Hunter Jumps from an Ice Floe to an Ice Floe"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256590&streamencoding=mp31", 
+            "name": "Hunter Challenges a Walrus to Fight Him"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256591&streamencoding=mp31", 
+            "name": "Hunter Makes Much Noise"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256595&streamencoding=mp31", 
+            "name": "Walrus and Hunter Fight Like Samurai"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=256597&streamencoding=mp31", 
+            "name": "The \u0421losing Speech of the Walrus-Tale-Teller"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36776"
+}

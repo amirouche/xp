@@ -1,0 +1,64 @@
+{
+    "name": "The House at the Water", 
+    "artist": "Cultes des Goules", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114933&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971313&streamencoding=mp31", 
+            "name": "Introitus"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971338&streamencoding=mp31", 
+            "name": "TheOutsider"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971337&streamencoding=mp31", 
+            "name": "Blood"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971331&streamencoding=mp31", 
+            "name": "Hell"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971325&streamencoding=mp31", 
+            "name": "The Lake"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971329&streamencoding=mp31", 
+            "name": "Mondscheinsonate"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971326&streamencoding=mp31", 
+            "name": "Ritual"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971330&streamencoding=mp31", 
+            "name": "Of a King long dead"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971327&streamencoding=mp31", 
+            "name": "Brown Jenkin"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971324&streamencoding=mp31", 
+            "name": "The Messenger"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971328&streamencoding=mp31", 
+            "name": "House at the water"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114933"
+}

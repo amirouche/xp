@@ -1,0 +1,54 @@
+{
+    "name": "Eveil", 
+    "artist": "Eveil", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3329&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24142&streamencoding=mp31", 
+            "name": "India"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24143&streamencoding=mp31", 
+            "name": "Naissance"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24144&streamencoding=mp31", 
+            "name": "Le p\u00e9riple du diamant"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24145&streamencoding=mp31", 
+            "name": "Just funk"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24146&streamencoding=mp31", 
+            "name": "Toi et moi"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24147&streamencoding=mp31", 
+            "name": "Groove"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24148&streamencoding=mp31", 
+            "name": "Samedi soir"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24149&streamencoding=mp31", 
+            "name": "Renaissance"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=24150&streamencoding=mp31", 
+            "name": "Appel"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3329"
+}

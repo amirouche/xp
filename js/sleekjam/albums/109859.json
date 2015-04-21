@@ -1,0 +1,69 @@
+{
+    "name": "Souldark", 
+    "artist": "jean88210", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109859&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935989&streamencoding=mp31", 
+            "name": "jean-marc 7"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935990&streamencoding=mp31", 
+            "name": "jean-marc4"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935991&streamencoding=mp31", 
+            "name": "jean-marc"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935992&streamencoding=mp31", 
+            "name": "jean-marc 8"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935993&streamencoding=mp31", 
+            "name": "razor"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935994&streamencoding=mp31", 
+            "name": "stonus ralantus"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935995&streamencoding=mp31", 
+            "name": "jeanmarc5"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935996&streamencoding=mp31", 
+            "name": "Morceau sans No2"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935997&streamencoding=mp31", 
+            "name": "Morceau san"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=935999&streamencoding=mp31", 
+            "name": "jean-marc9"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936000&streamencoding=mp31", 
+            "name": "jeanmarc6"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=936017&streamencoding=mp31", 
+            "name": "la planeseux"
+        }
+    ], 
+    "release": "2013", 
+    "id": "109859"
+}

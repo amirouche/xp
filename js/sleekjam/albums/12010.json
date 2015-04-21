@@ -1,0 +1,59 @@
+{
+    "name": "entre luces y sombras", 
+    "artist": "jjmm", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=12010&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103654&streamencoding=mp31", 
+            "name": "01-lluvia y sue\u00f1o"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103415&streamencoding=mp31", 
+            "name": "02-es dif\u00edcil"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103427&streamencoding=mp31", 
+            "name": "03-en mi habitaci\u00f3n"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103661&streamencoding=mp31", 
+            "name": "04-se ha ido"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103705&streamencoding=mp31", 
+            "name": "05-te echo de menos"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103709&streamencoding=mp31", 
+            "name": "06-de donde soy"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103744&streamencoding=mp31", 
+            "name": "07-inperfect\u00f3"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103726&streamencoding=mp31", 
+            "name": "08-hoy y ahora"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103742&streamencoding=mp31", 
+            "name": "09-Arcoiris"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=103743&streamencoding=mp31", 
+            "name": "10-retales - sin mezclar"
+        }
+    ], 
+    "release": "2007", 
+    "id": "12010"
+}

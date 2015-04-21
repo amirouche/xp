@@ -1,0 +1,29 @@
+{
+    "name": "Nimbus et Mirette dans Promenade sur le lac", 
+    "artist": "Paul CREA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9832&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=95886&streamencoding=mp31", 
+            "name": "Nimbus et Mirette dans  Promenade sur le lac"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=95995&streamencoding=mp31", 
+            "name": "chapitre 2 Promenade sur le lac"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=95997&streamencoding=mp31", 
+            "name": "chapitre3 Promenade sur le lac"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=95998&streamencoding=mp31", 
+            "name": "chapitre4 Promenade sur le lac"
+        }
+    ], 
+    "release": "2007", 
+    "id": "9832"
+}

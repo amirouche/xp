@@ -1,0 +1,54 @@
+{
+    "name": "NADA NEM NINGUEM", 
+    "artist": "jorge peres", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116226&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987444&streamencoding=mp31", 
+            "name": "EN NOME DE ALA"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987437&streamencoding=mp31", 
+            "name": "NO HORIZONTE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987438&streamencoding=mp31", 
+            "name": "DIALOGO COM A PAZ"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987439&streamencoding=mp31", 
+            "name": "PASSA O TEMPO"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987440&streamencoding=mp31", 
+            "name": "SOMOS SEMPRE ASSIM"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987441&streamencoding=mp31", 
+            "name": "SEMPRE A TEU LADO"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987443&streamencoding=mp31", 
+            "name": "MAU"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987445&streamencoding=mp31", 
+            "name": "\u00c9 MESMO ASSIM ..."
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=987442&streamencoding=mp31", 
+            "name": "NADA NEM NINGUEM"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116226"
+}

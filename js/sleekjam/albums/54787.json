@@ -1,0 +1,24 @@
+{
+    "name": "WX Single", 
+    "artist": "Gr\u00fcnemusik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54787&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459146&streamencoding=mp31", 
+            "name": "LLBP"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459147&streamencoding=mp31", 
+            "name": "Hima"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459148&streamencoding=mp31", 
+            "name": "WX"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54787"
+}

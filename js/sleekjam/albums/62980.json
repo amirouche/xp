@@ -1,0 +1,14 @@
+{
+    "name": "Can't Bring Me Down by Melody Ann Rose", 
+    "artist": "Melody Ann Rose", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62980&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=540261&streamencoding=mp31", 
+            "name": "Can't Bring Me Down by Melody Ann Rose"
+        }
+    ], 
+    "release": "2010", 
+    "id": "62980"
+}

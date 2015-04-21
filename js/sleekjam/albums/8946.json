@@ -1,0 +1,44 @@
+{
+    "name": "Aside", 
+    "artist": "OFFENSE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8946&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91479&streamencoding=mp31", 
+            "name": "Seating On Distress"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91485&streamencoding=mp31", 
+            "name": "Why"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91494&streamencoding=mp31", 
+            "name": "The Defect"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91514&streamencoding=mp31", 
+            "name": "Shining Dawn"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91521&streamencoding=mp31", 
+            "name": "Law of Life"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91531&streamencoding=mp31", 
+            "name": "Aside"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91536&streamencoding=mp31", 
+            "name": "Basic"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8946"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Si peu", 
+    "artist": "SIRUS Francky", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104360&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887303&streamencoding=mp31", 
+            "name": "sur et certain "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887304&streamencoding=mp31", 
+            "name": "si logique"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887305&streamencoding=mp31", 
+            "name": "ensemble et pourtant si seu"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887306&streamencoding=mp31", 
+            "name": "esp\u00e9rance "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887309&streamencoding=mp31", 
+            "name": "entre ciel et terre "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887307&streamencoding=mp31", 
+            "name": "spacialisation "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887308&streamencoding=mp31", 
+            "name": "si peu "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887310&streamencoding=mp31", 
+            "name": "long fleuve tranquille "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887311&streamencoding=mp31", 
+            "name": "droit de vivre "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887312&streamencoding=mp31", 
+            "name": "sky et clop "
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887313&streamencoding=mp31", 
+            "name": "suite b "
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887314&streamencoding=mp31", 
+            "name": "si \u00e7a l'arrange "
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887315&streamencoding=mp31", 
+            "name": "sous et ivre "
+        }
+    ], 
+    "release": "2012", 
+    "id": "104360"
+}

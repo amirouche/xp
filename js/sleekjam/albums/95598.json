@@ -1,0 +1,79 @@
+{
+    "name": "#50 (CC Version)", 
+    "artist": "afmusic (Compilation)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95598&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818101&streamencoding=mp31", 
+            "name": "Emerald Park - Obscured By Lies"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818103&streamencoding=mp31", 
+            "name": "Smoke Fish - Hey!Talk!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818106&streamencoding=mp31", 
+            "name": "Stromble Fix - Dispirited"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818096&streamencoding=mp31", 
+            "name": "Confusion Is Next - Shooting at the Sun (Orchestra Mix)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818100&streamencoding=mp31", 
+            "name": "all:my:faults - Es wird ein Regen kommen"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818093&streamencoding=mp31", 
+            "name": "Rebentisch - Die Suche [Als Godzilla Japan A\u00df - RMX]"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818104&streamencoding=mp31", 
+            "name": "Spinefish - Memory"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818094&streamencoding=mp31", 
+            "name": "Plastique Noir - Genebra (Harry Tribute)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818098&streamencoding=mp31", 
+            "name": "Light in Your Life - It Would Be Fine"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818102&streamencoding=mp31", 
+            "name": "Diskoteket - Untitled"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818095&streamencoding=mp31", 
+            "name": "Reptile71 - Enjoy (Demo 2000)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818097&streamencoding=mp31", 
+            "name": "Camp Z - W.Hell.Come II (afmusic edit)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818105&streamencoding=mp31", 
+            "name": "(((S))) - Mesmerized (remix by Angele PhasePete Salmang)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818099&streamencoding=mp31", 
+            "name": "Latriste - Love Is the Number of Keys"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95598"
+}

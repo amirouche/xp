@@ -1,0 +1,49 @@
+{
+    "name": "The Third Delights", 
+    "artist": "Bridge Underwater", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43276&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=320944&streamencoding=mp31", 
+            "name": "Snake Delight"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=320945&streamencoding=mp31", 
+            "name": "The Fyodor Project"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=320946&streamencoding=mp31", 
+            "name": "This Delight"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=320953&streamencoding=mp31", 
+            "name": "Transient Delight"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=320955&streamencoding=mp31", 
+            "name": "Trash Delight"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=320956&streamencoding=mp31", 
+            "name": "TV Delight"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=320957&streamencoding=mp31", 
+            "name": "Voice Delight"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=320959&streamencoding=mp31", 
+            "name": "When the Trumpets Call Will You Answer? (sweN gninevE)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43276"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Drop", 
+    "artist": "Nik Rawlings", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44215&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=331707&streamencoding=mp31", 
+            "name": "Drop"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44215"
+}

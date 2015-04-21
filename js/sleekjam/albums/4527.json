@@ -1,0 +1,29 @@
+{
+    "name": "Spirit of Kalimba", 
+    "artist": "SaReGaMa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4527&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36982&streamencoding=mp31", 
+            "name": "Bliss ( 7 Tines Kalimba)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36983&streamencoding=mp31", 
+            "name": "Night, Campfire, Kalimba (15 Tines)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36984&streamencoding=mp31", 
+            "name": "For Danielle (Kalimba Solo)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=36985&streamencoding=mp31", 
+            "name": "Fly Agaric Trance"
+        }
+    ], 
+    "release": "2011", 
+    "id": "4527"
+}

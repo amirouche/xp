@@ -1,0 +1,44 @@
+{
+    "name": "Cette \u00e9motion nomm\u00e9e po\u00e9sie  /  Po\u00e8mesPhoniques Oranges s\u00e9rie 3", 
+    "artist": "PHILIpPE bRaY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52117&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=426846&streamencoding=mp31", 
+            "name": "Cette emotion nomm\u00e9e po\u00e9sie"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=426860&streamencoding=mp31", 
+            "name": "L\u00e0 o\u00f9 est le vent"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=426865&streamencoding=mp31", 
+            "name": "Des formes planent"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=426875&streamencoding=mp31", 
+            "name": "Vert \u00e9t\u00e9"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=426880&streamencoding=mp31", 
+            "name": "En reminisence d'un vieux po\u00e8me"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=426919&streamencoding=mp31", 
+            "name": "La carafe"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=426920&streamencoding=mp31", 
+            "name": "Pr\u00e9sent:/Pass\u00e9"
+        }
+    ], 
+    "release": "2009", 
+    "id": "52117"
+}

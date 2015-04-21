@@ -1,0 +1,39 @@
+{
+    "name": "Electro Lounge (Extended Version)", 
+    "artist": "VolXcult", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123373&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046835&streamencoding=mp31", 
+            "name": "Bata - Oriental Trip"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046836&streamencoding=mp31", 
+            "name": "Evolve Power Of Darkness"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046838&streamencoding=mp31", 
+            "name": "Strange Atmosphere"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046839&streamencoding=mp31", 
+            "name": "Suspense Action Fantasy"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046840&streamencoding=mp31", 
+            "name": "Techno Battery - Chasing Automatons"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046837&streamencoding=mp31", 
+            "name": "Fantasy Movement Of Eternity"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123373"
+}

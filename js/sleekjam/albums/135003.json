@@ -1,0 +1,59 @@
+{
+    "name": "Timeless Moments", 
+    "artist": "Space Walk", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135003&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127509&streamencoding=mp31", 
+            "name": "Space Walk - Steven -INTRO-"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127510&streamencoding=mp31", 
+            "name": "Space Walk - Blue Vortex"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127511&streamencoding=mp31", 
+            "name": "Space Walk - The Deep"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127512&streamencoding=mp31", 
+            "name": "Space Walk - Point of Singularity"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127513&streamencoding=mp31", 
+            "name": "Space Walk - Eternal Emotions"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127514&streamencoding=mp31", 
+            "name": "Space Walk - Spectra"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127515&streamencoding=mp31", 
+            "name": "Space Walk - The Dark"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127516&streamencoding=mp31", 
+            "name": "Space Walk - Voices of Past"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127517&streamencoding=mp31", 
+            "name": "Space Walk - World of Pitches"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127518&streamencoding=mp31", 
+            "name": "Space Walk - Drum Crazy -OUTRO-"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135003"
+}

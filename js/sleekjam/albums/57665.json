@@ -1,0 +1,44 @@
+{
+    "name": "The Gospel According To Gunfire", 
+    "artist": "V For Victory", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57665&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492027&streamencoding=mp31", 
+            "name": "An Ununited World"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492024&streamencoding=mp31", 
+            "name": "The Ghost of Regret"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492022&streamencoding=mp31", 
+            "name": "Killing Sanity"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492021&streamencoding=mp31", 
+            "name": "As The Sky Rains Fire"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492025&streamencoding=mp31", 
+            "name": "Pyromania"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492026&streamencoding=mp31", 
+            "name": "Saviors and Saints"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492023&streamencoding=mp31", 
+            "name": "Torn Edges"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57665"
+}

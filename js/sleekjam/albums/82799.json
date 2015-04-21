@@ -1,0 +1,14 @@
+{
+    "name": "M\u00e9tamorphose (Single )", 
+    "artist": "\u00c9pith\u00e9lium", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82799&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709741&streamencoding=mp31", 
+            "name": "M\u00e9tamorphose"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82799"
+}

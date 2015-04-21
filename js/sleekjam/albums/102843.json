@@ -1,0 +1,14 @@
+{
+    "name": "Ballade de Noel", 
+    "artist": "Phon'\u00e9thique", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102843&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875920&streamencoding=mp31", 
+            "name": "Ballade de Noel"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102843"
+}

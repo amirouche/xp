@@ -1,0 +1,14 @@
+{
+    "name": "Natale induttivista (singolo dicembre 2013)", 
+    "artist": "Albionics", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129774&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1088483&streamencoding=mp31", 
+            "name": "Natale induttivista"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129774"
+}

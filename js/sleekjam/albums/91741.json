@@ -1,0 +1,19 @@
+{
+    "name": "PORN TIMES X", 
+    "artist": "Micka FRENCH", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91741&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782493&streamencoding=mp31", 
+            "name": "Yes I don't wear anything under my kilt"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782494&streamencoding=mp31", 
+            "name": "Edinburgh"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91741"
+}

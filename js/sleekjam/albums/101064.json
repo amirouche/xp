@@ -1,0 +1,54 @@
+{
+    "name": "EYES", 
+    "artist": "TURBOLANCE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101064&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=859948&streamencoding=mp31", 
+            "name": "TURBOLANCE - UNDERWORLD"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=860981&streamencoding=mp31", 
+            "name": "TURBOLANCE - DIRTY SEX"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=862687&streamencoding=mp31", 
+            "name": "TURBOLANCE - TURBOFUCK"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=862702&streamencoding=mp31", 
+            "name": "TURBOLANCE - WARRIORS"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=862703&streamencoding=mp31", 
+            "name": "TURBOLANCE - RUN STUPID LOSER"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=862716&streamencoding=mp31", 
+            "name": "TURBOLANCE - ARMONY"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=862947&streamencoding=mp31", 
+            "name": "TURBOLANCE - ESCAPE FROM MY MIND"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=862955&streamencoding=mp31", 
+            "name": "TURBOLANCE - RELICS"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=862983&streamencoding=mp31", 
+            "name": "TURBOLANCE - LIGHT OF SOUL"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101064"
+}

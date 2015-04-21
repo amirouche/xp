@@ -1,0 +1,14 @@
+{
+    "name": "Gone [Single]", 
+    "artist": "Loudog", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51065&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414103&streamencoding=mp31", 
+            "name": "Gone"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51065"
+}

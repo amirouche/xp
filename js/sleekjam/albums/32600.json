@@ -1,0 +1,69 @@
+{
+    "name": "Guitar works", 
+    "artist": "Rob MackieInsrumental", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32600&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221277&streamencoding=mp31", 
+            "name": "Sunset"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221233&streamencoding=mp31", 
+            "name": "Angel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221237&streamencoding=mp31", 
+            "name": "Without you (life go's on)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221290&streamencoding=mp31", 
+            "name": "Taking flight"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221296&streamencoding=mp31", 
+            "name": "Darkness"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221238&streamencoding=mp31", 
+            "name": "Cops"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221239&streamencoding=mp31", 
+            "name": "Vice"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221295&streamencoding=mp31", 
+            "name": "The bridge"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221259&streamencoding=mp31", 
+            "name": "Rock it"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221269&streamencoding=mp31", 
+            "name": "Garden"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221254&streamencoding=mp31", 
+            "name": "Cover version"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221298&streamencoding=mp31", 
+            "name": "The Rain (live demo)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32600"
+}

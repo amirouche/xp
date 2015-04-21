@@ -1,0 +1,44 @@
+{
+    "name": "masquerade", 
+    "artist": "deied", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21595&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151404&streamencoding=mp31", 
+            "name": "hunting my demons"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151406&streamencoding=mp31", 
+            "name": "sinner"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151405&streamencoding=mp31", 
+            "name": "question"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150723&streamencoding=mp31", 
+            "name": "confusion"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=150722&streamencoding=mp31", 
+            "name": "camino escuro"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151402&streamencoding=mp31", 
+            "name": "you masses have to move"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151403&streamencoding=mp31", 
+            "name": "darkness & light"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21595"
+}

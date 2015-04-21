@@ -1,0 +1,64 @@
+{
+    "name": "My Underground", 
+    "artist": "Distemper", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77242&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665700&streamencoding=mp31", 
+            "name": "Start to relax"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665697&streamencoding=mp31", 
+            "name": "I'm at ease"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665702&streamencoding=mp31", 
+            "name": "Alive Planet"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665698&streamencoding=mp31", 
+            "name": "My underground"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665703&streamencoding=mp31", 
+            "name": "Jump"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665699&streamencoding=mp31", 
+            "name": "Three minutes on summertime"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665705&streamencoding=mp31", 
+            "name": "Dog Star"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665706&streamencoding=mp31", 
+            "name": "How to stay human?"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665707&streamencoding=mp31", 
+            "name": "Blue blue night"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665701&streamencoding=mp31", 
+            "name": "At dawn"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665704&streamencoding=mp31", 
+            "name": "Happy end"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77242"
+}

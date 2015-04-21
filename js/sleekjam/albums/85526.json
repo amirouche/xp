@@ -1,0 +1,34 @@
+{
+    "name": "FOREVER", 
+    "artist": "HAT TRICK ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85526&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731597&streamencoding=mp31", 
+            "name": "FEEL GOOD"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731361&streamencoding=mp31", 
+            "name": "FOREVER"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731596&streamencoding=mp31", 
+            "name": "BE CAREFUL"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731393&streamencoding=mp31", 
+            "name": "FUTURE MACHINE"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=731360&streamencoding=mp31", 
+            "name": "HAT TRICK"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85526"
+}

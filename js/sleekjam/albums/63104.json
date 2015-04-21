@@ -1,0 +1,29 @@
+{
+    "name": "la rel\u00e8ve", 
+    "artist": "ardamy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63104&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541217&streamencoding=mp31", 
+            "name": "loboTV by ArdamY feat Djeman l'animal"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541226&streamencoding=mp31", 
+            "name": "ya d'la taxe de ardamy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541228&streamencoding=mp31", 
+            "name": "la pauvret\u00e9 s'instale (ardamy feat Djeman)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541248&streamencoding=mp31", 
+            "name": "ya what de ardamy"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63104"
+}

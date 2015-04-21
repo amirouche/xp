@@ -1,0 +1,64 @@
+{
+    "name": "Im J\u00e4gerst\u00fcble", 
+    "artist": "Hippie House Jam Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108354&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915383&streamencoding=mp31", 
+            "name": "Hawaiifuenfnull_08_02_2012"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915385&streamencoding=mp31", 
+            "name": "you_gonna_riding_08_02_2012"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915384&streamencoding=mp31", 
+            "name": "funky_banane_08_02_2012"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915387&streamencoding=mp31", 
+            "name": "wirklich_wichtig_08_02_2012"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915386&streamencoding=mp31", 
+            "name": "fly_away_08_02_2012"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915390&streamencoding=mp31", 
+            "name": "senorita_policia_08_02_2012"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915389&streamencoding=mp31", 
+            "name": "sofa_08_02_2012"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915393&streamencoding=mp31", 
+            "name": "kommt_doch_alle_mit_08_02_2012"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915388&streamencoding=mp31", 
+            "name": "tanzen_08_02_2012"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915392&streamencoding=mp31", 
+            "name": "rausgehn_08_02_2012"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915391&streamencoding=mp31", 
+            "name": "sandsofa_08_02_2012"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108354"
+}

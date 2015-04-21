@@ -1,0 +1,49 @@
+{
+    "name": "Wallbreaker Ballades", 
+    "artist": "Michael Krumk\u00fchler und Rolf K", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70355&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607927&streamencoding=mp31", 
+            "name": "Fr\u00fchlingsTag X"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607930&streamencoding=mp31", 
+            "name": "Emma WhaT Sun"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607931&streamencoding=mp31", 
+            "name": "OrienT X16BiT"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607932&streamencoding=mp31", 
+            "name": "Girl like you X"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607933&streamencoding=mp31", 
+            "name": "NEW1_BAK"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607934&streamencoding=mp31", 
+            "name": "Tonga Tonga XXX"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607935&streamencoding=mp31", 
+            "name": "HiTzefrei X"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607936&streamencoding=mp31", 
+            "name": "You're my home"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70355"
+}

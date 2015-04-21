@@ -1,0 +1,29 @@
+{
+    "name": "EP 4 Titres - Back to the Start Point", 
+    "artist": "NEMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23328&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160424&streamencoding=mp31", 
+            "name": "NEMA - Alone"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160425&streamencoding=mp31", 
+            "name": "NEMA - Perfect Circus"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160426&streamencoding=mp31", 
+            "name": "NEMA - Through your Eyes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=160427&streamencoding=mp31", 
+            "name": "NEMA - Without Money"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23328"
+}

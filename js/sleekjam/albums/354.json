@@ -1,0 +1,24 @@
+{
+    "name": "Pa\u00efdium", 
+    "artist": "Boris & Maxime", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=354&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2208&streamencoding=mp31", 
+            "name": "Pa\u00efdium"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2209&streamencoding=mp31", 
+            "name": "Taniouchka"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2210&streamencoding=mp31", 
+            "name": "C\u00e9govnia"
+        }
+    ], 
+    "release": "2005", 
+    "id": "354"
+}

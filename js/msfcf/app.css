@@ -1,0 +1,19 @@
+#canvas {
+    width: 800px;
+    height: 600px;
+}
+
+#app {
+    width: 500px;
+    margin: 0 auto;
+}
+
+#app h1 {
+    text-align: center;
+    font-family: 'League Gothic', Impact, Arial, sans;
+    font-weight: normal;
+}
+
+#message {
+    text-align: center;
+}

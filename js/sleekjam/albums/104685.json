@@ -1,0 +1,14 @@
+{
+    "name": "Christmas Funky Rag Time (single)", 
+    "artist": "Zaharov Valery", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104685&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890084&streamencoding=mp31", 
+            "name": "Christmas Funky Rag Time 2012"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104685"
+}

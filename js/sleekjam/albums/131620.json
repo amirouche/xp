@@ -1,0 +1,59 @@
+{
+    "name": "Jungfr\u00e4ulichkeit", 
+    "artist": "S\u00e5\u00f1a \u00d8lzk\u00e8 G\u00e6\u0161p\u00e4ns", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131620&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102770&streamencoding=mp31", 
+            "name": "Sexueller Hunger"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102767&streamencoding=mp31", 
+            "name": "Hoffnung lebt"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102768&streamencoding=mp31", 
+            "name": "Es kommt"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102769&streamencoding=mp31", 
+            "name": "Schattentanz"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102776&streamencoding=mp31", 
+            "name": "L\u00fcsternheit"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102771&streamencoding=mp31", 
+            "name": "Die verwelkte Blume"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102772&streamencoding=mp31", 
+            "name": "Dreck"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102773&streamencoding=mp31", 
+            "name": "Keine Wahrheit"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102774&streamencoding=mp31", 
+            "name": "Hoffnungslosigkeit (Teil I)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102775&streamencoding=mp31", 
+            "name": "Hoffnungslosigkeit (Teil II)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131620"
+}

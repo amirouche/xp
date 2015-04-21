@@ -1,0 +1,44 @@
+{
+    "name": "The Past Must End Right Now", 
+    "artist": "Iconic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112202&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954299&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954302&streamencoding=mp31", 
+            "name": "No Prisoners"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954301&streamencoding=mp31", 
+            "name": "Black Sheep"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954300&streamencoding=mp31", 
+            "name": "All I Can"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954296&streamencoding=mp31", 
+            "name": "The Past Must End Right Now"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954298&streamencoding=mp31", 
+            "name": "Light & Dark"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954297&streamencoding=mp31", 
+            "name": "Hands Tied"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112202"
+}

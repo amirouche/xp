@@ -1,0 +1,84 @@
+{
+    "name": "Live at Blu Cammello (2004)", 
+    "artist": "Loungerie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63714&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547043&streamencoding=mp31", 
+            "name": "Cubanga"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547039&streamencoding=mp31", 
+            "name": "Insert Coin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547041&streamencoding=mp31", 
+            "name": "Mai Mai"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547042&streamencoding=mp31", 
+            "name": "Ti Sbagli"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547037&streamencoding=mp31", 
+            "name": "Buddha Bar"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547033&streamencoding=mp31", 
+            "name": "Hopper Lounge"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547038&streamencoding=mp31", 
+            "name": "Morte a Venezia"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547046&streamencoding=mp31", 
+            "name": "Divertissement"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547032&streamencoding=mp31", 
+            "name": "Billie Holiday"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547036&streamencoding=mp31", 
+            "name": "Bernacca"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547045&streamencoding=mp31", 
+            "name": "Fumo Blu (Mina's Cover)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547034&streamencoding=mp31", 
+            "name": "Quina"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547040&streamencoding=mp31", 
+            "name": "Divorzio all'Italiana"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547044&streamencoding=mp31", 
+            "name": "Tartiflette"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=547035&streamencoding=mp31", 
+            "name": "Bollywood"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63714"
+}

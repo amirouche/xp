@@ -1,0 +1,54 @@
+{
+    "name": "Azura", 
+    "artist": "\u0425\u0410\u0420\u0422\u0418\u042f", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104108&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=885539&streamencoding=mp31", 
+            "name": "\u041d\u0435 \u0430\u043d\u0433\u0435\u043b"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=885538&streamencoding=mp31", 
+            "name": "\u041a\u0430\u043a\u0438\u0435 \u0436\u0435\u0440\u0442\u0432\u044b? (\u043c\u043d\u0435 \u0432\u0435\u0440\u043d\u0443\u0442 \u0435\u0451) "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=885537&streamencoding=mp31", 
+            "name": "\u0420\u0438\u0442\u0443\u0430\u043b"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=885536&streamencoding=mp31", 
+            "name": "N \u043f\u043e 100"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=885535&streamencoding=mp31", 
+            "name": "\u0414\u043b\u044f \u0442\u0432\u043e\u0438\u0445 \u043a\u0430\u043f\u0440\u0438\u0437\u043e\u0432"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=885534&streamencoding=mp31", 
+            "name": "\u0427\u0442\u043e\u0431\u044b \u0443\u0431\u0438\u043b\u0430"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=885533&streamencoding=mp31", 
+            "name": "\u0411\u043b\u044e\u0437"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=885532&streamencoding=mp31", 
+            "name": "\u0420\u0435\u0432\u043d\u043e\u0441\u0442\u044c"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=885540&streamencoding=mp31", 
+            "name": "\u0423\u043d\u0435\u0441\u043b\u043e"
+        }
+    ], 
+    "release": "2011", 
+    "id": "104108"
+}

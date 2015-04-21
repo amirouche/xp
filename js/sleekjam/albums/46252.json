@@ -1,0 +1,79 @@
+{
+    "name": "Necrokindergarden", 
+    "artist": "Infection", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46252&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353376&streamencoding=mp31", 
+            "name": "Cannibal's Death"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353380&streamencoding=mp31", 
+            "name": "Autopsy Room"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353374&streamencoding=mp31", 
+            "name": "Bacterial Endocarditis"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353377&streamencoding=mp31", 
+            "name": "Fecal Burrito"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353375&streamencoding=mp31", 
+            "name": "Necrokindergarden"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353378&streamencoding=mp31", 
+            "name": "Nothing but Acum"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353379&streamencoding=mp31", 
+            "name": "I Choke"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353493&streamencoding=mp31", 
+            "name": "Gastric Disorder"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353490&streamencoding=mp31", 
+            "name": "Brain Infection"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353491&streamencoding=mp31", 
+            "name": "Malignant Tumor"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353492&streamencoding=mp31", 
+            "name": "The Heinous Brick Attack"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353488&streamencoding=mp31", 
+            "name": "A hooker Is Slaughtered"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353487&streamencoding=mp31", 
+            "name": "Antiesthetic Surgery"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353489&streamencoding=mp31", 
+            "name": "Definite Inquisition [Monstrosity cover]"
+        }
+    ], 
+    "release": "2009", 
+    "id": "46252"
+}

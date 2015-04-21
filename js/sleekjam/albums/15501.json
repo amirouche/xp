@@ -1,0 +1,49 @@
+{
+    "name": "Sleep Cycle", 
+    "artist": "GIANT SQUID MARCH ON WASHINGTON", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15501&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116113&streamencoding=mp31", 
+            "name": "00 - 1 - fade (intro)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116114&streamencoding=mp31", 
+            "name": "00 - 2 - sleep"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116115&streamencoding=mp31", 
+            "name": "00 - 3 - dream state i"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116116&streamencoding=mp31", 
+            "name": "00 - 4 - descent"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116117&streamencoding=mp31", 
+            "name": "00 - 5 - nightmare i"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116118&streamencoding=mp31", 
+            "name": "00 - 7 - ocean of fear ii (spring)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116119&streamencoding=mp31", 
+            "name": "00 - 8 - parabellum"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=116120&streamencoding=mp31", 
+            "name": "00 - 9 - the empty room"
+        }
+    ], 
+    "release": "2007", 
+    "id": "15501"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "La Liberte des Aventures", 
+    "artist": "\u041a\u0438\u0441\u043a\u0430", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131838&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104451&streamencoding=mp31", 
+            "name": "\u041a\u043e\u043b\u044c\u0435 \u041a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u0430"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104452&streamencoding=mp31", 
+            "name": "\u0412\u043f\u0435\u0440\u0435\u0434 \u0437\u0430 \u0424\u0435\u0441\u0442\u0438!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104453&streamencoding=mp31", 
+            "name": "\u0421\u043f\u0430\u0441\u0435\u043d\u0438\u0435 \u041c\u0430\u0445\u0442\u043e\u043f\u043a\u0438"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1104454&streamencoding=mp31", 
+            "name": "\u0410\u043b\u043c\u0430\u0437\u044b\u041d\u0430\u043d\u043e"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131838"
+}

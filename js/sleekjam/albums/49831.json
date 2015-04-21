@@ -1,0 +1,29 @@
+{
+    "name": "Repetitions", 
+    "artist": "Sacatchatches", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49831&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399270&streamencoding=mp31", 
+            "name": "Jam"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=386601&streamencoding=mp31", 
+            "name": "Tic Tac"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=386600&streamencoding=mp31", 
+            "name": "Monsanto"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=399269&streamencoding=mp31", 
+            "name": "Camisole (Toutafon)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49831"
+}

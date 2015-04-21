@@ -1,0 +1,14 @@
+{
+    "name": "Tener o No Razon", 
+    "artist": "Celestina", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80498&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=690941&streamencoding=mp31", 
+            "name": "SOLO CONTIGO 1"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80498"
+}

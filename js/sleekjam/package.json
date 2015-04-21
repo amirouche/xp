@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "browser-sync": "^1.8.2",
+    "gulp": "^3.8.10",
+    "gulp-util": "^3.0.1",
+    "react": "^0.12.2",
+    "reactify": "^0.17.1",
+    "vinyl-source-stream": "^1.0.0"
+  }
+}

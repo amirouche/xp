@@ -1,0 +1,59 @@
+{
+    "name": "Du bonheur dans les bronches", 
+    "artist": "Fantomas Ketchup", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18814&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133089&streamencoding=mp31", 
+            "name": "n'h\u00e9sitons pas"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133085&streamencoding=mp31", 
+            "name": "Fantomas ketchup"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133090&streamencoding=mp31", 
+            "name": "opinion"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133105&streamencoding=mp31", 
+            "name": "le loup"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133107&streamencoding=mp31", 
+            "name": "breizh-iles"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133108&streamencoding=mp31", 
+            "name": "punky reggae party"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133110&streamencoding=mp31", 
+            "name": "filsde"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133109&streamencoding=mp31", 
+            "name": "melting compote"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133115&streamencoding=mp31", 
+            "name": "listen to the beat"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133118&streamencoding=mp31", 
+            "name": "Ump"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18814"
+}

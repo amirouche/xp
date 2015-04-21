@@ -1,0 +1,54 @@
+{
+    "name": "# cat * > /dev/dsp", 
+    "artist": "x-point", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43820&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326818&streamencoding=mp31", 
+            "name": "p0.please_log_in"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326813&streamencoding=mp31", 
+            "name": "p1.wannabe_human"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326814&streamencoding=mp31", 
+            "name": "p2.heavy_droid"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326812&streamencoding=mp31", 
+            "name": "p3.hypnobot"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326811&streamencoding=mp31", 
+            "name": "p4.germanium_waltz"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326819&streamencoding=mp31", 
+            "name": "p5.cybersex"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326816&streamencoding=mp31", 
+            "name": "p6.audio_game"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326817&streamencoding=mp31", 
+            "name": "p7.bad_robot_curses"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=326815&streamencoding=mp31", 
+            "name": "p8.heart_shuffle"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43820"
+}

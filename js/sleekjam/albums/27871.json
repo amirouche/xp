@@ -1,0 +1,74 @@
+{
+    "name": "MUZYKANCI", 
+    "artist": "THC-X", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27871&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186138&streamencoding=mp31", 
+            "name": "Tam gdzie wskazuje drogowskaz"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186144&streamencoding=mp31", 
+            "name": "Marihuana"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186148&streamencoding=mp31", 
+            "name": "Co b\u0119dzie jutro"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186154&streamencoding=mp31", 
+            "name": "Jestem sob\u0105"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186168&streamencoding=mp31", 
+            "name": "Ksi\u0119ga"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186181&streamencoding=mp31", 
+            "name": "Ile mil"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186202&streamencoding=mp31", 
+            "name": "Gimnazjalistki"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186210&streamencoding=mp31", 
+            "name": "Droga 2003"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186212&streamencoding=mp31", 
+            "name": "To sanduru"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186219&streamencoding=mp31", 
+            "name": "Pa-ta-ta-ja"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186220&streamencoding=mp31", 
+            "name": "Na pocz\u0105tku by\u0142o s\u0142owo"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186221&streamencoding=mp31", 
+            "name": "Techniawka"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186226&streamencoding=mp31", 
+            "name": "Co b\u0119dzie jutro (mix)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27871"
+}

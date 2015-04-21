@@ -1,0 +1,19 @@
+{
+    "name": "Copyleft", 
+    "artist": "Paul Perkins", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70067&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=605655&streamencoding=mp31", 
+            "name": "RIAA"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=605656&streamencoding=mp31", 
+            "name": "Jack-a-Roe"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70067"
+}

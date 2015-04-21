@@ -1,0 +1,54 @@
+{
+    "name": "Gundica @ The Garden", 
+    "artist": "Gundica Bhajans", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36396&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253293&streamencoding=mp31", 
+            "name": "Maha-mantra by Maitreya Muni"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253353&streamencoding=mp31", 
+            "name": "Maha-mantra by Marc"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253396&streamencoding=mp31", 
+            "name": "Maha-mantra by Pradyumna Mishra"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253369&streamencoding=mp31", 
+            "name": "Maha-mantra by Mohinipriya"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253399&streamencoding=mp31", 
+            "name": "Nama-sankirtana by Maitreya Muni"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253407&streamencoding=mp31", 
+            "name": "Sri Nrisimha Pranam by Sophie"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253303&streamencoding=mp31", 
+            "name": "Govinda Jaya Jaya by Sleepy"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253342&streamencoding=mp31", 
+            "name": "Jaya Jagannath by  Marc"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=253414&streamencoding=mp31", 
+            "name": "Jaya Radha-Madhava by Gopati"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36396"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Acid Human", 
+    "artist": "Ivonne Carinni", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123392&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1046964&streamencoding=mp31", 
+            "name": "Acid Human (Original Mix)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123392"
+}

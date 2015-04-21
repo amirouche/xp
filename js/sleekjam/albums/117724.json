@@ -1,0 +1,39 @@
+{
+    "name": "Nightscape Samples", 
+    "artist": "Rob Luebbert", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117724&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000597&streamencoding=mp31", 
+            "name": "A Fighting Light (Orchestrated)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000594&streamencoding=mp31", 
+            "name": "To Sea (Orchestrated)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000595&streamencoding=mp31", 
+            "name": "Suite of the Seasons Movement III. Fall"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000596&streamencoding=mp31", 
+            "name": "Suite of the Seasons Movement IV. Winter"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000598&streamencoding=mp31", 
+            "name": "Sly Dog"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000599&streamencoding=mp31", 
+            "name": "Under The Starlit Night"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117724"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Contr\u00f4le Sanitaire", 
+    "artist": "Les Spangheros", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135141&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128275&streamencoding=mp31", 
+            "name": "Loud"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128281&streamencoding=mp31", 
+            "name": "Spangheros' Style"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128272&streamencoding=mp31", 
+            "name": "Un Monde Parfait"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128274&streamencoding=mp31", 
+            "name": "Never give up"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128276&streamencoding=mp31", 
+            "name": "Let me down"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128277&streamencoding=mp31", 
+            "name": "Autour du A"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128278&streamencoding=mp31", 
+            "name": "Beyond control"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128279&streamencoding=mp31", 
+            "name": "Shut up"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128280&streamencoding=mp31", 
+            "name": "Operation Cobra"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128300&streamencoding=mp31", 
+            "name": "Run like Hell"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128298&streamencoding=mp31", 
+            "name": "War in Babylon"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128273&streamencoding=mp31", 
+            "name": "You make it sound"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128299&streamencoding=mp31", 
+            "name": "Furious"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135141"
+}

@@ -1,0 +1,139 @@
+{
+    "name": "sOnO Press beaT Ere", 
+    "artist": "GASNOPROD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3300&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23885&streamencoding=mp31", 
+            "name": "Angine B"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23886&streamencoding=mp31", 
+            "name": "Blood pudding remix effets"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23887&streamencoding=mp31", 
+            "name": "Brak 4 Nos"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23888&streamencoding=mp31", 
+            "name": "Danse"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23889&streamencoding=mp31", 
+            "name": "Dream or not ?"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23890&streamencoding=mp31", 
+            "name": "Flashy d'oeufs"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23891&streamencoding=mp31", 
+            "name": "Funkduboct"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23892&streamencoding=mp31", 
+            "name": "Glissade"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23893&streamencoding=mp31", 
+            "name": "Janv01 AfterbOOf2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23894&streamencoding=mp31", 
+            "name": "Juillet mystery 03 (cool version)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23895&streamencoding=mp31", 
+            "name": "Juillet mystery (fast versus)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23896&streamencoding=mp31", 
+            "name": "2002 Joint Venture"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23897&streamencoding=mp31", 
+            "name": "punch OGM dec04"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23898&streamencoding=mp31", 
+            "name": "Q1t1nBB2"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23899&streamencoding=mp31", 
+            "name": "RapApOpas v060605"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23900&streamencoding=mp31", 
+            "name": "Summer part  II Legal is 63"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23901&streamencoding=mp31", 
+            "name": "TapatapotsMix"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23902&streamencoding=mp31", 
+            "name": "ToO hard v2"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23903&streamencoding=mp31", 
+            "name": "tOO long noisy"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23904&streamencoding=mp31", 
+            "name": "Volcanos"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23905&streamencoding=mp31", 
+            "name": "Winter y2k4"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23906&streamencoding=mp31", 
+            "name": "Winter04b"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23907&streamencoding=mp31", 
+            "name": "Xp\u00e9rimentation dans ma salle de bain"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23908&streamencoding=mp31", 
+            "name": "xMas"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23909&streamencoding=mp31", 
+            "name": "Zout y2k4"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23910&streamencoding=mp31", 
+            "name": "Zowas"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3300"
+}

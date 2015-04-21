@@ -1,0 +1,24 @@
+{
+    "name": "blues en construction", 
+    "artist": "val blurock", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8272&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86200&streamencoding=mp31", 
+            "name": "BLUESYV"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86245&streamencoding=mp31", 
+            "name": "bluwalk"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86247&streamencoding=mp31", 
+            "name": "BTNECK"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8272"
+}

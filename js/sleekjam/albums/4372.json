@@ -1,0 +1,49 @@
+{
+    "name": "Carlos Saura", 
+    "artist": "Carlos Saura", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4372&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=35743&streamencoding=mp31", 
+            "name": "A lomos del drag\u00f3n blanco"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=35744&streamencoding=mp31", 
+            "name": "El ni\u00f1o de las estrellas"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=35745&streamencoding=mp31", 
+            "name": "El manantial"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=35746&streamencoding=mp31", 
+            "name": "La rebeli\u00f3n de las m\u00e1quinas"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=35747&streamencoding=mp31", 
+            "name": "Siempre adelante"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=35748&streamencoding=mp31", 
+            "name": "El desierto de colores"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=35749&streamencoding=mp31", 
+            "name": "Volando alto"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=35750&streamencoding=mp31", 
+            "name": "La gruta del agua"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4372"
+}

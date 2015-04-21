@@ -1,0 +1,64 @@
+{
+    "name": "Few More Songs For The Road", 
+    "artist": "Avi Rosenfeld", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=127022&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071349&streamencoding=mp31", 
+            "name": "Don't Leave Me Alone"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071347&streamencoding=mp31", 
+            "name": "Train On The Tracks"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071346&streamencoding=mp31", 
+            "name": "Gaaguim"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071345&streamencoding=mp31", 
+            "name": "Brazil"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071344&streamencoding=mp31", 
+            "name": "Kshtachzeri"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071343&streamencoding=mp31", 
+            "name": "One More Song"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071342&streamencoding=mp31", 
+            "name": "Tishmeri Li Emunim"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071341&streamencoding=mp31", 
+            "name": "When You Run To The Fields"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071340&streamencoding=mp31", 
+            "name": "Paris"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071350&streamencoding=mp31", 
+            "name": "DoYou"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1071348&streamencoding=mp31", 
+            "name": "Don't Leave Me Alone"
+        }
+    ], 
+    "release": "2013", 
+    "id": "127022"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Intrus Mental (single)", 
+    "artist": "SFT", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114732&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=974306&streamencoding=mp31", 
+            "name": "Intrus Mental "
+        }
+    ], 
+    "release": "2012", 
+    "id": "114732"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Back in Town", 
+    "artist": "TheFuckFuckFuckers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59638&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509556&streamencoding=mp31", 
+            "name": "Fuckers Theme"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509566&streamencoding=mp31", 
+            "name": "Trennungslied"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509570&streamencoding=mp31", 
+            "name": "Soziale Frage"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509572&streamencoding=mp31", 
+            "name": "Mein Kaffee der ist schwarz"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509591&streamencoding=mp31", 
+            "name": "Das M\u00e4dchen"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509573&streamencoding=mp31", 
+            "name": "Bassisten sind Rassisten"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509579&streamencoding=mp31", 
+            "name": "Benefizkonzert f\u00fcr Mira"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509580&streamencoding=mp31", 
+            "name": "Hmnlhmna Armes Deutschland"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509590&streamencoding=mp31", 
+            "name": "Das Auto"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59638"
+}

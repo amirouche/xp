@@ -1,0 +1,69 @@
+{
+    "name": "Ouverture", 
+    "artist": "Manuzik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=508&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=3270&streamencoding=mp31", 
+            "name": "Ouverture"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=3271&streamencoding=mp31", 
+            "name": "GuitarOutlook"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=3272&streamencoding=mp31", 
+            "name": "Habanera"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=3273&streamencoding=mp31", 
+            "name": "JazzProg"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=3274&streamencoding=mp31", 
+            "name": "SummerInTokyo(SemiMix)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=3275&streamencoding=mp31", 
+            "name": "Electroballade"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=3276&streamencoding=mp31", 
+            "name": "Oia"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=3277&streamencoding=mp31", 
+            "name": "Ambience"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=3278&streamencoding=mp31", 
+            "name": "OldSchool"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=3279&streamencoding=mp31", 
+            "name": "MovingFrequencies"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=3280&streamencoding=mp31", 
+            "name": "FromTheDarkSide"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=3281&streamencoding=mp31", 
+            "name": "Sortie"
+        }
+    ], 
+    "release": "2005", 
+    "id": "508"
+}

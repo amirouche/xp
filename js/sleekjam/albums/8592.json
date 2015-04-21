@@ -1,0 +1,29 @@
+{
+    "name": "Tonewoods", 
+    "artist": "Handmade", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8592&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88927&streamencoding=mp31", 
+            "name": "Irish_Reel"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88928&streamencoding=mp31", 
+            "name": "Grandfathers_clock"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88929&streamencoding=mp31", 
+            "name": "Foggy_Dew"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88941&streamencoding=mp31", 
+            "name": "Wildwood_Flowers"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8592"
+}

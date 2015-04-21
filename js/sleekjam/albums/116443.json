@@ -1,0 +1,59 @@
+{
+    "name": "SO LONG", 
+    "artist": "Phil", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116443&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989769&streamencoding=mp31", 
+            "name": "Empty glass"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989766&streamencoding=mp31", 
+            "name": "The way's clear"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989767&streamencoding=mp31", 
+            "name": "Broken heart"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989768&streamencoding=mp31", 
+            "name": "Cool jam"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989764&streamencoding=mp31", 
+            "name": "Swing mama"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989770&streamencoding=mp31", 
+            "name": "Evening blues"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989771&streamencoding=mp31", 
+            "name": "Five borders of the kentuky"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989772&streamencoding=mp31", 
+            "name": "Flower of my life"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989773&streamencoding=mp31", 
+            "name": "On the road"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989765&streamencoding=mp31", 
+            "name": "A horse on the path way"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116443"
+}

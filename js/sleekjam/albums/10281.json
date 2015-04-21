@@ -1,0 +1,14 @@
+{
+    "name": "Stonehenge", 
+    "artist": "Stonehenge", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=10281&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=98251&streamencoding=mp31", 
+            "name": "Stonehenge"
+        }
+    ], 
+    "release": "2007", 
+    "id": "10281"
+}

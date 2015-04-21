@@ -1,0 +1,49 @@
+{
+    "name": "Freeze - Volume 1", 
+    "artist": "Freeze", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51182&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415455&streamencoding=mp31", 
+            "name": "Grade One"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415445&streamencoding=mp31", 
+            "name": "Marine Drive"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415448&streamencoding=mp31", 
+            "name": "Where is Michael"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415446&streamencoding=mp31", 
+            "name": "Vandenhooven"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415444&streamencoding=mp31", 
+            "name": "Ya Mayca"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415447&streamencoding=mp31", 
+            "name": "Storm Watch"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415456&streamencoding=mp31", 
+            "name": "Grace is Amazing"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415457&streamencoding=mp31", 
+            "name": "Leaves"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51182"
+}

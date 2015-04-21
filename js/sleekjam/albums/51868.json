@@ -1,0 +1,64 @@
+{
+    "name": "Willkommen in meiner kranken Welt", 
+    "artist": "Bunker_C", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51868&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423779&streamencoding=mp31", 
+            "name": "Bunker_C - Battlefield (Intro)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423772&streamencoding=mp31", 
+            "name": "Bunker_C - Willkommen in meiner kranken Welt"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423778&streamencoding=mp31", 
+            "name": "Bunker_C - Tanz!"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423780&streamencoding=mp31", 
+            "name": "Bunker_C - A.M.F."
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423776&streamencoding=mp31", 
+            "name": "Bunker_C - Lost in Darkness"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423860&streamencoding=mp31", 
+            "name": "Bunker_C - Koenigin der Nacht"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423774&streamencoding=mp31", 
+            "name": "Bunker_C - Malleus Maleficarum"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423775&streamencoding=mp31", 
+            "name": "Bunker_C vs. Pain Project - Kein Erbarmen"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423781&streamencoding=mp31", 
+            "name": "Bunker_C - Spiders"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423773&streamencoding=mp31", 
+            "name": "Bunker_C - Meer"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423782&streamencoding=mp31", 
+            "name": "Bunker_C - Heimataerde"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51868"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "\u0418\u0437\u0442\u043e\u043a (Iztok)", 
+    "artist": "Voyvoda", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106230&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902261&streamencoding=mp31", 
+            "name": "\u0418\u0417\u0422\u041e\u041a (Iztok)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902262&streamencoding=mp31", 
+            "name": "The Man in the White Coat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902273&streamencoding=mp31", 
+            "name": "Boylover James"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902264&streamencoding=mp31", 
+            "name": "D.A.S.F"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902265&streamencoding=mp31", 
+            "name": "Mr. Mrak"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902266&streamencoding=mp31", 
+            "name": "Stefan the Vlach's Son"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902267&streamencoding=mp31", 
+            "name": "Staroverets"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902268&streamencoding=mp31", 
+            "name": "Doubts"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902269&streamencoding=mp31", 
+            "name": "No Passports"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902270&streamencoding=mp31", 
+            "name": "6000000words"
+        }
+    ], 
+    "release": "2012", 
+    "id": "106230"
+}

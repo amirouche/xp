@@ -1,0 +1,24 @@
+{
+    "name": "desperate songs (SAMPLER)", 
+    "artist": "Great Friend of Mine", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42140&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=311106&streamencoding=mp31", 
+            "name": "We,"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=311125&streamencoding=mp31", 
+            "name": "this shitty"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=311128&streamencoding=mp31", 
+            "name": "the World"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42140"
+}

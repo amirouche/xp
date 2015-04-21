@@ -1,0 +1,29 @@
+{
+    "name": "Under my Skin (demo)", 
+    "artist": "Veils of Perception", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13136&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108662&streamencoding=mp31", 
+            "name": "01 - Imbrium Immortalis (Intro)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108663&streamencoding=mp31", 
+            "name": "02 - Under my Skin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108708&streamencoding=mp31", 
+            "name": "03 - Lethal Art of Life"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=108671&streamencoding=mp31", 
+            "name": "04 - Worldwide Horror"
+        }
+    ], 
+    "release": "2007", 
+    "id": "13136"
+}

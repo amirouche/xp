@@ -1,0 +1,14 @@
+{
+    "name": "The Greatest of These is Love-Single", 
+    "artist": "Tony Bardon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67495&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=585136&streamencoding=mp31", 
+            "name": "The Greatest of These is Love - Single"
+        }
+    ], 
+    "release": "2010", 
+    "id": "67495"
+}

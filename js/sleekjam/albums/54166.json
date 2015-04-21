@@ -1,0 +1,49 @@
+{
+    "name": "pro croc", 
+    "artist": "crocanti", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54166&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452076&streamencoding=mp31", 
+            "name": "sd"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452077&streamencoding=mp31", 
+            "name": "fg "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452078&streamencoding=mp31", 
+            "name": "kb"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452079&streamencoding=mp31", 
+            "name": "vb"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452081&streamencoding=mp31", 
+            "name": "b fg"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452082&streamencoding=mp31", 
+            "name": "gd"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452083&streamencoding=mp31", 
+            "name": "dl"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=452084&streamencoding=mp31", 
+            "name": "cn"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54166"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Mais um pouco", 
+    "artist": "L\u00e9o Lago", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67832&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587824&streamencoding=mp31", 
+            "name": "Tudo e mais um pouco"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587825&streamencoding=mp31", 
+            "name": "Semente sua mente"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587838&streamencoding=mp31", 
+            "name": "M\u00e3e, m\u00e3e, m\u00e3e"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587839&streamencoding=mp31", 
+            "name": "O rel\u00f3gio / Tento um verso"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587830&streamencoding=mp31", 
+            "name": "Deidade"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587831&streamencoding=mp31", 
+            "name": "April may June come"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587840&streamencoding=mp31", 
+            "name": "Arrai\u00e1"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587833&streamencoding=mp31", 
+            "name": "Em meio ao universo"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587834&streamencoding=mp31", 
+            "name": "Ode Z"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587841&streamencoding=mp31", 
+            "name": "Nas ru\u00ednas da vida"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587837&streamencoding=mp31", 
+            "name": "Um pouco mais de som"
+        }
+    ], 
+    "release": "2010", 
+    "id": "67832"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "PLAY WITH MICKA FRENCH", 
+    "artist": "Micka FRENCH", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89557&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764839&streamencoding=mp31", 
+            "name": "Play with Micka FRENCH"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89557"
+}

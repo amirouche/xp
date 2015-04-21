@@ -1,0 +1,59 @@
+{
+    "name": "Evening Shadows in Brockwell Park", 
+    "artist": "Morris Masters", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56856&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482395&streamencoding=mp31", 
+            "name": "Back in the Day(I Remember)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482391&streamencoding=mp31", 
+            "name": "Shadows in Brockwell Park"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482387&streamencoding=mp31", 
+            "name": "Believe"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482390&streamencoding=mp31", 
+            "name": "Attack of the Sligs"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482386&streamencoding=mp31", 
+            "name": "Rather be a Major"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482392&streamencoding=mp31", 
+            "name": "Dolphins with the Sharks"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482393&streamencoding=mp31", 
+            "name": "My Screams in the Night"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482388&streamencoding=mp31", 
+            "name": "Don't Call me Red"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482389&streamencoding=mp31", 
+            "name": "Driving me Insane"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482394&streamencoding=mp31", 
+            "name": "Evening in the Park"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56856"
+}

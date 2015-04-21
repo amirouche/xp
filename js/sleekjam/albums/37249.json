@@ -1,0 +1,14 @@
+{
+    "name": "chaussette ", 
+    "artist": "skouz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37249&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=260321&streamencoding=mp31", 
+            "name": "gromiz000"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37249"
+}

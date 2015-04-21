@@ -1,0 +1,54 @@
+{
+    "name": "SIEMBRA", 
+    "artist": "EL HUERTO DEL CURA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20359&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142535&streamencoding=mp31", 
+            "name": "Igualdad"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142008&streamencoding=mp31", 
+            "name": "Gargantua"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142005&streamencoding=mp31", 
+            "name": "A Flote"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142012&streamencoding=mp31", 
+            "name": "Reggae Rumba"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142056&streamencoding=mp31", 
+            "name": "Libertad"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142007&streamencoding=mp31", 
+            "name": "El Cuento"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142057&streamencoding=mp31", 
+            "name": "Que Todo Vaya Bien"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142058&streamencoding=mp31", 
+            "name": "Solo Esto Es"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142006&streamencoding=mp31", 
+            "name": "Deformidad (Polaco mix)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20359"
+}

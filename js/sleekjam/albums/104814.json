@@ -1,0 +1,14 @@
+{
+    "name": "Premi\u00e8re d\u00e9mo (2012)", 
+    "artist": "Arnaud Tranquil", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104814&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891247&streamencoding=mp31", 
+            "name": "BLUES TRANQUIL"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104814"
+}

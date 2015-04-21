@@ -1,0 +1,64 @@
+{
+    "name": "Selftitled", 
+    "artist": "Bayard Russell", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121612&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033252&streamencoding=mp31", 
+            "name": "I Know"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033253&streamencoding=mp31", 
+            "name": "Uh-Huh"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033254&streamencoding=mp31", 
+            "name": "Living At My Moms"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033255&streamencoding=mp31", 
+            "name": "A Candle That's Burning"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033256&streamencoding=mp31", 
+            "name": "I Will Chase You"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033257&streamencoding=mp31", 
+            "name": "City Lights"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033258&streamencoding=mp31", 
+            "name": "My Heartbreak"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033259&streamencoding=mp31", 
+            "name": "I Will Make You Proud"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033260&streamencoding=mp31", 
+            "name": "Crazy For You"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033261&streamencoding=mp31", 
+            "name": "Uptown Harbor"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033262&streamencoding=mp31", 
+            "name": "Just Feel"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121612"
+}

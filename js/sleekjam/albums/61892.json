@@ -1,0 +1,54 @@
+{
+    "name": "The Epitafi for Clarion and Prairie Wolves", 
+    "artist": "mark transcendentalist", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61892&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530235&streamencoding=mp31", 
+            "name": "Wibhuthi"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530227&streamencoding=mp31", 
+            "name": "A Sanctuary"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530234&streamencoding=mp31", 
+            "name": "In Honour of Etty Hillesum"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530228&streamencoding=mp31", 
+            "name": "The Epitafi for Clarion and Prairie Wolves"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530231&streamencoding=mp31", 
+            "name": "Long ago"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530230&streamencoding=mp31", 
+            "name": "Kali Yuga"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530232&streamencoding=mp31", 
+            "name": "Droplet Big Band"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530233&streamencoding=mp31", 
+            "name": "You Know, you know..."
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530229&streamencoding=mp31", 
+            "name": "Vaikuntha"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61892"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "She (45)", 
+    "artist": "Briovere Buffentis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109477&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925801&streamencoding=mp31", 
+            "name": "Electronic music"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925808&streamencoding=mp31", 
+            "name": "Higher love"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925805&streamencoding=mp31", 
+            "name": "You got what i need"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925804&streamencoding=mp31", 
+            "name": "Space boogie"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925806&streamencoding=mp31", 
+            "name": "Technophile suite"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925807&streamencoding=mp31", 
+            "name": "Disco geek"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925803&streamencoding=mp31", 
+            "name": "Next cheerleader"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925802&streamencoding=mp31", 
+            "name": "Istanbul mix"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=925809&streamencoding=mp31", 
+            "name": "Intronic"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109477"
+}

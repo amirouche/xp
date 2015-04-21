@@ -1,0 +1,44 @@
+{
+    "name": "Access Denied", 
+    "artist": "kaodenuit", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4145&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33627&streamencoding=mp31", 
+            "name": "Naked Bush"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33628&streamencoding=mp31", 
+            "name": "James Bond is an alcoolic"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33629&streamencoding=mp31", 
+            "name": "Man from nowhere"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33630&streamencoding=mp31", 
+            "name": "Kao in lavatory"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33631&streamencoding=mp31", 
+            "name": "Trash Boogie"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33632&streamencoding=mp31", 
+            "name": "Tch\u00e8tch\u00e8nian Sundance"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33633&streamencoding=mp31", 
+            "name": "Dancing Frogs"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4145"
+}

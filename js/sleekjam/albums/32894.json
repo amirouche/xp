@@ -1,0 +1,39 @@
+{
+    "name": "Jeden Krok EP", 
+    "artist": "Sumatra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32894&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223447&streamencoding=mp31", 
+            "name": "Nasze Prawo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223455&streamencoding=mp31", 
+            "name": "Jeden Krok"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223459&streamencoding=mp31", 
+            "name": "702"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223477&streamencoding=mp31", 
+            "name": "Drugie Ja"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223495&streamencoding=mp31", 
+            "name": "Daleko St\u0105d"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=223517&streamencoding=mp31", 
+            "name": "Sk\u00f3ra"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32894"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Coeficiente Zero", 
+    "artist": "Coeficiente Zero", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116053&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985955&streamencoding=mp31", 
+            "name": "Al filo de la media noche"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985956&streamencoding=mp31", 
+            "name": "Abandonado"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985957&streamencoding=mp31", 
+            "name": "Bandido"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985958&streamencoding=mp31", 
+            "name": "Sin dinero en los bolsillos"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985959&streamencoding=mp31", 
+            "name": "Dias de Febrero"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985960&streamencoding=mp31", 
+            "name": "La reflexi\u00f3n"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=985961&streamencoding=mp31", 
+            "name": "No me pidas m\u00e1s"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116053"
+}

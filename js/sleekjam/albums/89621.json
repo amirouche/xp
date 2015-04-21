@@ -1,0 +1,24 @@
+{
+    "name": "\u0426\u0435\u043b\u0443\u0435\u0442 \u041e\u0441\u0435\u043d\u044c (\u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435)", 
+    "artist": "\u0410\u043b\u044c\u0431\u043e\u043c  \"\u0426\u0435\u043b\u0443\u0435\u0442 \u041e\u0441\u0435\u043d\u044c\" (\u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89621&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765143&streamencoding=mp31", 
+            "name": " \u0411\u0435\u0437\u043e\u0442\u0432\u0435\u0442\u043d\u0430\u044f  \u043b\u044e\u0431\u043e\u0432\u044c"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765154&streamencoding=mp31", 
+            "name": "  \u041e\u0431\u043e\u0439\u0434\u0443 \u044f \u0442\u0435\u0431\u044f "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765161&streamencoding=mp31", 
+            "name": " \u041b\u0435\u0431\u0435\u0434\u044c "
+        }
+    ], 
+    "release": "2011", 
+    "id": "89621"
+}

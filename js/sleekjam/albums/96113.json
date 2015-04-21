@@ -1,0 +1,104 @@
+{
+    "name": "Premi\u00e8res Instrus vol. 1", 
+    "artist": "Han Sino", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96113&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822100&streamencoding=mp31", 
+            "name": "Les jardins exquis (Han Sino)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822094&streamencoding=mp31", 
+            "name": "African Roses (Han Sino)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822099&streamencoding=mp31", 
+            "name": "comme un \u00e9clair d'orient (Han Sino)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822104&streamencoding=mp31", 
+            "name": "intergalactique (Han Sino)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822091&streamencoding=mp31", 
+            "name": "Aspirations (Han Sino)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822096&streamencoding=mp31", 
+            "name": "d\u00e9licatesses (Han Sino)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822102&streamencoding=mp31", 
+            "name": "Horizons (Han Sino)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822107&streamencoding=mp31", 
+            "name": "beatniks (Han Sino)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822093&streamencoding=mp31", 
+            "name": "L'\u00e9preuve du Feu (Han Sino)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822103&streamencoding=mp31", 
+            "name": "A nous deux (Han Sino)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822105&streamencoding=mp31", 
+            "name": "L\u00e8ves ta Main en l'air (Han Sino)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822098&streamencoding=mp31", 
+            "name": "les perles (Han Sino)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822101&streamencoding=mp31", 
+            "name": "La planque (Han Sino)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822108&streamencoding=mp31", 
+            "name": "Rouge Sang (Han Sino)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822106&streamencoding=mp31", 
+            "name": "aquatic style (Han Sino)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822095&streamencoding=mp31", 
+            "name": "la Terre des Dieux (Han Sino)"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822092&streamencoding=mp31", 
+            "name": "Androm\u00e8de (Han Sino)"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822109&streamencoding=mp31", 
+            "name": "vibrations (Han Sino)"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=822097&streamencoding=mp31", 
+            "name": "outro (afro space funk) (Han Sino)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96113"
+}

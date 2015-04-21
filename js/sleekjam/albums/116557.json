@@ -1,0 +1,29 @@
+{
+    "name": "Wisdom of Asia", 
+    "artist": "Meyerjan", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116557&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990815&streamencoding=mp31", 
+            "name": "Inspiration"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990816&streamencoding=mp31", 
+            "name": "Solar Voyage"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990817&streamencoding=mp31", 
+            "name": "East Beauty"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990818&streamencoding=mp31", 
+            "name": "Wisdom of Asia"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116557"
+}

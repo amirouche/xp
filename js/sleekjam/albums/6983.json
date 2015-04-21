@@ -1,0 +1,29 @@
+{
+    "name": "Geometric Visions", 
+    "artist": "Michael David Crawford", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6983&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77437&streamencoding=mp31", 
+            "name": "Emergence"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77438&streamencoding=mp31", 
+            "name": "Recursion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77439&streamencoding=mp31", 
+            "name": "Sahara"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77440&streamencoding=mp31", 
+            "name": "As Yet Untitled"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6983"
+}

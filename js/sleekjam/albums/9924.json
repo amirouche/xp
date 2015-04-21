@@ -1,0 +1,14 @@
+{
+    "name": "Aublin - Vuelta de Tuerca (single)", 
+    "artist": "Aublin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9924&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=96380&streamencoding=mp31", 
+            "name": "Vuelta de Tuerca"
+        }
+    ], 
+    "release": "2007", 
+    "id": "9924"
+}

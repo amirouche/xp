@@ -1,0 +1,134 @@
+{
+    "name": "Ok, I\u00b4ll do all that again", 
+    "artist": "Richard There", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80235&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688867&streamencoding=mp31", 
+            "name": "Richard There - I like colors"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688859&streamencoding=mp31", 
+            "name": "Richard There - The simple song"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688872&streamencoding=mp31", 
+            "name": "Richard There - He\u00b4s not a man"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688865&streamencoding=mp31", 
+            "name": "Richard There - If you call me"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688861&streamencoding=mp31", 
+            "name": "Richard There - Empty bed"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688880&streamencoding=mp31", 
+            "name": "Richard There - Cat in my head"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688869&streamencoding=mp31", 
+            "name": "Richard There - You should go on"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688876&streamencoding=mp31", 
+            "name": "Richard There - Wesley Willis"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688883&streamencoding=mp31", 
+            "name": "Richard There - In my dreams"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688864&streamencoding=mp31", 
+            "name": "Richard There - Black birds can live forever"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688874&streamencoding=mp31", 
+            "name": "Richard There - Jesus shootin\u00b4heroin"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688870&streamencoding=mp31", 
+            "name": "Richard There - It\u00b4s done"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688881&streamencoding=mp31", 
+            "name": "Richard There - Happiness Runs"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688871&streamencoding=mp31", 
+            "name": "Richard There - I\u00b4m debby, who are you_"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688868&streamencoding=mp31", 
+            "name": "Richard There - The song of the yellow girl"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688878&streamencoding=mp31", 
+            "name": "Richard There - El rey de la casa al lado"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688875&streamencoding=mp31", 
+            "name": "Richard There - Ignore the machine"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688860&streamencoding=mp31", 
+            "name": "Richard There - Word song"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688877&streamencoding=mp31", 
+            "name": "Richard There - Ink Splatter"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688879&streamencoding=mp31", 
+            "name": "Richard There - Eart is for eartman"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688862&streamencoding=mp31", 
+            "name": "Richard There - Every day tomorrow"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688863&streamencoding=mp31", 
+            "name": "Richard There - Tomorrow died today"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688882&streamencoding=mp31", 
+            "name": "Richard There - I burned her with my voice"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688873&streamencoding=mp31", 
+            "name": "Richard There - Hoo hoo"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688866&streamencoding=mp31", 
+            "name": "Richard There - Why the white birds die early"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80235"
+}

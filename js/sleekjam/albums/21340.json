@@ -1,0 +1,44 @@
+{
+    "name": "the trashcan electric e.p.", 
+    "artist": "Williamson", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21340&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147716&streamencoding=mp31", 
+            "name": "sietch kids save us"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147717&streamencoding=mp31", 
+            "name": "breathe easy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147718&streamencoding=mp31", 
+            "name": "hello mr. hoshi"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147720&streamencoding=mp31", 
+            "name": "cool people make me tired"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147723&streamencoding=mp31", 
+            "name": "the art of non-life-threatening mistakes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147725&streamencoding=mp31", 
+            "name": "tips for sweet-talking a caribou"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147727&streamencoding=mp31", 
+            "name": "sailing to the bottom"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21340"
+}

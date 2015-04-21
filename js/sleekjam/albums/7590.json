@@ -1,0 +1,34 @@
+{
+    "name": "devilish", 
+    "artist": "flo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7590&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82420&streamencoding=mp31", 
+            "name": "introducing"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82421&streamencoding=mp31", 
+            "name": "bonneville joint"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82422&streamencoding=mp31", 
+            "name": "feel dirty"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82423&streamencoding=mp31", 
+            "name": "hey brunette!"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82424&streamencoding=mp31", 
+            "name": "cheyenne blues"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7590"
+}

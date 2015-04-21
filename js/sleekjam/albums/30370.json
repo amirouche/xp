@@ -1,0 +1,39 @@
+{
+    "name": "BUENA MIERDA", 
+    "artist": "MARISKADA SOUND", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30370&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=204262&streamencoding=mp31", 
+            "name": "Buena mierda"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=204265&streamencoding=mp31", 
+            "name": "Donde te llevaran"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=204279&streamencoding=mp31", 
+            "name": "MariSKAda"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=204282&streamencoding=mp31", 
+            "name": "Territorio enemigo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=204292&streamencoding=mp31", 
+            "name": "Drum"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=204294&streamencoding=mp31", 
+            "name": "Salvaje"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30370"
+}

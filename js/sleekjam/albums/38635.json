@@ -1,0 +1,34 @@
+{
+    "name": "mocNanoc", 
+    "artist": "lekkidAlton", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38635&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=272694&streamencoding=mp31", 
+            "name": "psYnometr"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=272695&streamencoding=mp31", 
+            "name": "fantaZA"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=272696&streamencoding=mp31", 
+            "name": "NUclear"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=272431&streamencoding=mp31", 
+            "name": "santahoUSE"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=272444&streamencoding=mp31", 
+            "name": "smal(o)l"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38635"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Volume 4", 
+    "artist": "Freeze", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77571&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668635&streamencoding=mp31", 
+            "name": "Stair into Space"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668629&streamencoding=mp31", 
+            "name": "Monday"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668627&streamencoding=mp31", 
+            "name": "All She Wrote"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668630&streamencoding=mp31", 
+            "name": "Goo Factor"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668633&streamencoding=mp31", 
+            "name": "30 Degrees"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668634&streamencoding=mp31", 
+            "name": "Gold"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668636&streamencoding=mp31", 
+            "name": "Summer Dream"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668631&streamencoding=mp31", 
+            "name": "Gregorian's Hip"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668628&streamencoding=mp31", 
+            "name": "Min Monthly Payment"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=668632&streamencoding=mp31", 
+            "name": "Blind"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77571"
+}

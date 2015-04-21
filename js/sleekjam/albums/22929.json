@@ -1,0 +1,59 @@
+{
+    "name": "Calendars", 
+    "artist": "The Desks", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22929&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159657&streamencoding=mp31", 
+            "name": "It Won't Take Long"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159651&streamencoding=mp31", 
+            "name": "We Were The Fun"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159660&streamencoding=mp31", 
+            "name": "Stop!"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159652&streamencoding=mp31", 
+            "name": "Gone Away"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159654&streamencoding=mp31", 
+            "name": "Theme Choir"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159653&streamencoding=mp31", 
+            "name": "When We're Through"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159659&streamencoding=mp31", 
+            "name": "Other Scientists"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159656&streamencoding=mp31", 
+            "name": "At The End Of The Rain"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159655&streamencoding=mp31", 
+            "name": "If You Will, I'll Stay"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159658&streamencoding=mp31", 
+            "name": "Gone Away Again"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22929"
+}

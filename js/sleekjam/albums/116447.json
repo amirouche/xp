@@ -1,0 +1,14 @@
+{
+    "name": "Baby Trek (Single)", 
+    "artist": "NICOCO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116447&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989825&streamencoding=mp31", 
+            "name": "Baby Trek"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116447"
+}

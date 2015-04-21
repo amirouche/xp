@@ -1,0 +1,14 @@
+{
+    "name": "Mein s\u00fc\u00dfes Lieb", 
+    "artist": "Derfla", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106389&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=903502&streamencoding=mp31", 
+            "name": "mein s\u00fc\u00dfes lieb"
+        }
+    ], 
+    "release": "2013", 
+    "id": "106389"
+}

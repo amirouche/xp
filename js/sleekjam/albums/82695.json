@@ -1,0 +1,29 @@
+{
+    "name": "Afterlife", 
+    "artist": "Oblyvion", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82695&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708896&streamencoding=mp31", 
+            "name": "At The Gates..."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708894&streamencoding=mp31", 
+            "name": "Oblyvion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708895&streamencoding=mp31", 
+            "name": "Afterlife"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=708897&streamencoding=mp31", 
+            "name": "Mental Disease"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82695"
+}

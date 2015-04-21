@@ -1,0 +1,59 @@
+{
+    "name": "Les bruits de la rue", 
+    "artist": "J-M Dauphy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3656&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26683&streamencoding=mp31", 
+            "name": "l'\u00e2me soeur"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26684&streamencoding=mp31", 
+            "name": "Bradford"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26685&streamencoding=mp31", 
+            "name": "Les miettes de pain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26686&streamencoding=mp31", 
+            "name": "Les bruits de la rue"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26687&streamencoding=mp31", 
+            "name": "Le blues du Vi\u00eatnam"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26688&streamencoding=mp31", 
+            "name": "Clochette"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26689&streamencoding=mp31", 
+            "name": "D\u00e9m\u00e9nagement"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26690&streamencoding=mp31", 
+            "name": "Le contr\u00f4leur"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26691&streamencoding=mp31", 
+            "name": "Pour vieillir avec toi"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=26692&streamencoding=mp31", 
+            "name": "Un autre avenir"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3656"
+}

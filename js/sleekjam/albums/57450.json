@@ -1,0 +1,69 @@
+{
+    "name": "ANTICORPS", 
+    "artist": "institor", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57450&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489922&streamencoding=mp31", 
+            "name": "genocide"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489919&streamencoding=mp31", 
+            "name": "the end of the world"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489918&streamencoding=mp31", 
+            "name": "psychosomatic pain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489916&streamencoding=mp31", 
+            "name": "i was driving too fast"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489917&streamencoding=mp31", 
+            "name": "intoo a white corridor"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489923&streamencoding=mp31", 
+            "name": "the twilight of the living dead"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489926&streamencoding=mp31", 
+            "name": "bacteriological attack"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489920&streamencoding=mp31", 
+            "name": "the process"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489915&streamencoding=mp31", 
+            "name": "morphine rush"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489921&streamencoding=mp31", 
+            "name": "emergency"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489924&streamencoding=mp31", 
+            "name": "viruses are eating my nerves"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=489925&streamencoding=mp31", 
+            "name": "born dead"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57450"
+}

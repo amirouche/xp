@@ -1,0 +1,54 @@
+{
+    "name": "Meeting Places", 
+    "artist": "Mawr Gorshin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83638&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715622&streamencoding=mp31", 
+            "name": "Blow"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715635&streamencoding=mp31", 
+            "name": "Meeting Place"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715636&streamencoding=mp31", 
+            "name": "Regrets?"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715637&streamencoding=mp31", 
+            "name": "Better"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715638&streamencoding=mp31", 
+            "name": "'Til Divorce Do Us Part"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715639&streamencoding=mp31", 
+            "name": "Lethargy"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715640&streamencoding=mp31", 
+            "name": "Blues For the Abused"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715641&streamencoding=mp31", 
+            "name": "She Moves Me"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=715642&streamencoding=mp31", 
+            "name": "Invasion of the Body Snatchers"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83638"
+}

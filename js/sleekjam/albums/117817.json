@@ -1,0 +1,14 @@
+{
+    "name": "Soft", 
+    "artist": "Overnoize", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117817&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1001186&streamencoding=mp31", 
+            "name": "Soft"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117817"
+}

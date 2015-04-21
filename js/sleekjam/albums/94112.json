@@ -1,0 +1,44 @@
+{
+    "name": "POST-IT IMMOLATION?", 
+    "artist": "Verte couverture", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94112&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804421&streamencoding=mp31", 
+            "name": "DEBILE [FR]"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804422&streamencoding=mp31", 
+            "name": "THE CHOICE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804420&streamencoding=mp31", 
+            "name": "FRUSTRATION"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804424&streamencoding=mp31", 
+            "name": "ICH WILL NICHT"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804426&streamencoding=mp31", 
+            "name": "ORGANISER PARTAGER LIBERER"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804427&streamencoding=mp31", 
+            "name": "MORE"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=804423&streamencoding=mp31", 
+            "name": "DEBIL [PL]"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94112"
+}

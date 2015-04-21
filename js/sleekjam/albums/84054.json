@@ -1,0 +1,59 @@
+{
+    "name": "X", 
+    "artist": "mr&mrsBrian", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84054&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720436&streamencoding=mp31", 
+            "name": "I"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720437&streamencoding=mp31", 
+            "name": "II"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720438&streamencoding=mp31", 
+            "name": "III"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720439&streamencoding=mp31", 
+            "name": "IV"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720435&streamencoding=mp31", 
+            "name": "V"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720431&streamencoding=mp31", 
+            "name": "VI"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720430&streamencoding=mp31", 
+            "name": "VII"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720432&streamencoding=mp31", 
+            "name": "VIII"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720434&streamencoding=mp31", 
+            "name": "IX"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720433&streamencoding=mp31", 
+            "name": "X"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84054"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "small things", 
+    "artist": "Jeffo's Dream", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14166&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111890&streamencoding=mp31", 
+            "name": "jeffos_dream_in_me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111891&streamencoding=mp31", 
+            "name": "jeffos_dream_lakes_of_love"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111892&streamencoding=mp31", 
+            "name": "jeffos_dream_lotus_18"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111893&streamencoding=mp31", 
+            "name": "jeffos_dream_never_ripe"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111894&streamencoding=mp31", 
+            "name": "jeffos_dream_small_things"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=111895&streamencoding=mp31", 
+            "name": "jeffos_dream_invisible_wall"
+        }
+    ], 
+    "release": "2007", 
+    "id": "14166"
+}

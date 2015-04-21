@@ -1,0 +1,69 @@
+{
+    "name": "Minor Objects", 
+    "artist": "WMRI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111610&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949093&streamencoding=mp31", 
+            "name": "X-Technology"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949094&streamencoding=mp31", 
+            "name": "Lost in Time (Harmonic Remix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949095&streamencoding=mp31", 
+            "name": "Psi (Demo Version)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949096&streamencoding=mp31", 
+            "name": "After Rain 2.0"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949097&streamencoding=mp31", 
+            "name": "Space Orchestra"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949098&streamencoding=mp31", 
+            "name": "Voices of Space (Single Version)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949099&streamencoding=mp31", 
+            "name": "X-Technology (Active Mix)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949100&streamencoding=mp31", 
+            "name": "After Rain 2.0 (Trance Remix)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949101&streamencoding=mp31", 
+            "name": "Jet Mechanics"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949102&streamencoding=mp31", 
+            "name": "Tape Orchestra"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949453&streamencoding=mp31", 
+            "name": "After Rain (Acoustic Version)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949452&streamencoding=mp31", 
+            "name": "After Rain (Deep Dream Mix)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111610"
+}

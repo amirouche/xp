@@ -1,0 +1,14 @@
+{
+    "name": "Amangul'da", 
+    "artist": "Honkycat", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135828&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1132583&streamencoding=mp31", 
+            "name": "Amangul'da"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135828"
+}

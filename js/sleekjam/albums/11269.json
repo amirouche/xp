@@ -1,0 +1,14 @@
+{
+    "name": "Le soleil est l\u00e0", 
+    "artist": "Mob", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11269&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=101340&streamencoding=mp31", 
+            "name": "Le soleil est l\u00e0"
+        }
+    ], 
+    "release": "2007", 
+    "id": "11269"
+}

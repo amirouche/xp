@@ -1,0 +1,59 @@
+{
+    "name": "Shock Value", 
+    "artist": "The System/Addicts", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46287&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353837&streamencoding=mp31", 
+            "name": "Every body get stimulated"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353863&streamencoding=mp31", 
+            "name": "We dunno what we've done"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=353985&streamencoding=mp31", 
+            "name": "Recessionista"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=354071&streamencoding=mp31", 
+            "name": "Running out of time"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=354149&streamencoding=mp31", 
+            "name": "Yarra river creature"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=354225&streamencoding=mp31", 
+            "name": "Broke and bored"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=354280&streamencoding=mp31", 
+            "name": "Taco buritto"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=354289&streamencoding=mp31", 
+            "name": "Disco punk"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=354296&streamencoding=mp31", 
+            "name": "Where's Zyklon"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=354329&streamencoding=mp31", 
+            "name": "We dunno what we've done (original live acoustic)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "46287"
+}

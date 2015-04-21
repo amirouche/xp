@@ -1,0 +1,49 @@
+{
+    "name": "REBORN-IN-FUTURE", 
+    "artist": "Om\u00e9ga", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89720&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765815&streamencoding=mp31", 
+            "name": "HappyStart"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765816&streamencoding=mp31", 
+            "name": "LaRivieredelaVie"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765817&streamencoding=mp31", 
+            "name": "KEYDREAM"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765818&streamencoding=mp31", 
+            "name": "LeVoyageSansFin"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765821&streamencoding=mp31", 
+            "name": "TRON"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765896&streamencoding=mp31", 
+            "name": "Omega - HaCkTheWorld"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765911&streamencoding=mp31", 
+            "name": "Omega - FINALWORLD"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766035&streamencoding=mp31", 
+            "name": "abyss"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89720"
+}

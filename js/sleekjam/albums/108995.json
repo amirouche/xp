@@ -1,0 +1,69 @@
+{
+    "name": "OUTPUT", 
+    "artist": "SIGU", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108995&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920324&streamencoding=mp31", 
+            "name": "OUTPUT_1_Output"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920317&streamencoding=mp31", 
+            "name": "OUTPUT_2_Lizaveta Nikolajevna"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920327&streamencoding=mp31", 
+            "name": "OUTPUT_3_Thank You Sir"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920320&streamencoding=mp31", 
+            "name": "OUTPUT_4_Incident Garden"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920321&streamencoding=mp31", 
+            "name": "OUTPUT_5_Black moon over you"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920318&streamencoding=mp31", 
+            "name": "OUTPUT_6_Padana"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920326&streamencoding=mp31", 
+            "name": "OUTPUT_7_Himalaya42"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920328&streamencoding=mp31", 
+            "name": "OUTPUT_8_Tarde Maldido"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920322&streamencoding=mp31", 
+            "name": "OUTPUT_9_Hard Core Life"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920319&streamencoding=mp31", 
+            "name": "OUTPUT_10_Afghanistan"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920323&streamencoding=mp31", 
+            "name": "OUTPUT_11_Alahatoma"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920325&streamencoding=mp31", 
+            "name": "OUTPUT_12_X_Ray Sun"
+        }
+    ], 
+    "release": "2013", 
+    "id": "108995"
+}

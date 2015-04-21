@@ -1,0 +1,29 @@
+{
+    "name": "Cyberknife virtual 02", 
+    "artist": "CyberKnife Rec.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=12873&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=107089&streamencoding=mp31", 
+            "name": "Ized - Intercranial Radiosurgery"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=107090&streamencoding=mp31", 
+            "name": "Ized -our radiation dosef"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=107091&streamencoding=mp31", 
+            "name": "Ized Infernalnoise- Mechatronik "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=107092&streamencoding=mp31", 
+            "name": " Ized-SIX SUCH MACHINES "
+        }
+    ], 
+    "release": "2007", 
+    "id": "12873"
+}

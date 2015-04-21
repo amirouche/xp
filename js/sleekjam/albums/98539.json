@@ -1,0 +1,44 @@
+{
+    "name": "SePtemBer", 
+    "artist": "PHILIpPE bRaY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98539&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843248&streamencoding=mp31", 
+            "name": "Mystic Song (2011)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843251&streamencoding=mp31", 
+            "name": "Pourquoi (2010)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843253&streamencoding=mp31", 
+            "name": "Noir, noir dans le d\u00e9cor (2000)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843270&streamencoding=mp31", 
+            "name": "J'ai quitt\u00e9 la ville (2005)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843285&streamencoding=mp31", 
+            "name": "Je suis avec toi (2010)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843290&streamencoding=mp31", 
+            "name": "Je voulais vivre (2000)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843291&streamencoding=mp31", 
+            "name": "L'etranger (2000)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98539"
+}

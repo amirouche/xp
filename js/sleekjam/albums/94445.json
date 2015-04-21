@@ -1,0 +1,64 @@
+{
+    "name": "ALZA LA LLAMA", 
+    "artist": "DIEGO FERN\u00c1NDEZ A.K.A. TRON", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94445&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807674&streamencoding=mp31", 
+            "name": "ALZA LA LLAMA"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807675&streamencoding=mp31", 
+            "name": "EMITIENDO"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807677&streamencoding=mp31", 
+            "name": "DENTRO DE MI ALMA"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807682&streamencoding=mp31", 
+            "name": "A SANGRE- CON REVERENDO CHILA"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807683&streamencoding=mp31", 
+            "name": "CARNE DE PRISION"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807684&streamencoding=mp31", 
+            "name": "SMITH AND WESSON"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808056&streamencoding=mp31", 
+            "name": "CUANDO SALGA EL SOL"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808057&streamencoding=mp31", 
+            "name": "QUE SI- CON BJOTA"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808058&streamencoding=mp31", 
+            "name": "MI PARAISO"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808059&streamencoding=mp31", 
+            "name": "RUINA"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808060&streamencoding=mp31", 
+            "name": "SE ACAB\u00d3 LA LLAMA"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94445"
+}

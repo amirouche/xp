@@ -1,0 +1,54 @@
+{
+    "name": "Plugged In", 
+    "artist": "Leo Bowers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124145&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1053578&streamencoding=mp31", 
+            "name": "Say My Name"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1053575&streamencoding=mp31", 
+            "name": "Please Come Home Today"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1053576&streamencoding=mp31", 
+            "name": "Bitter Sweet"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1053577&streamencoding=mp31", 
+            "name": "The Love of My Father"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1053570&streamencoding=mp31", 
+            "name": "Between You and Me"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1053571&streamencoding=mp31", 
+            "name": "Love For Sale"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1053572&streamencoding=mp31", 
+            "name": "It's Alright"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1053573&streamencoding=mp31", 
+            "name": "I Still Need to Know"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1053574&streamencoding=mp31", 
+            "name": "Plugged In"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124145"
+}

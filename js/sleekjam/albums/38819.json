@@ -1,0 +1,34 @@
+{
+    "name": "Begi Suka", 
+    "artist": "Ivan Ivanovich & The Kreml Krauts", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38819&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275107&streamencoding=mp31", 
+            "name": "Deutsches Essen In Russland"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275104&streamencoding=mp31", 
+            "name": "Velosiped"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275105&streamencoding=mp31", 
+            "name": "Na Voksale"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275106&streamencoding=mp31", 
+            "name": "Begi Suka"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275103&streamencoding=mp31", 
+            "name": "Tschernyj Tschaj"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38819"
+}

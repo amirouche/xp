@@ -1,0 +1,64 @@
+{
+    "name": "I'm a Wolf", 
+    "artist": "The Chadderandom Abyss", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=127246&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072500&streamencoding=mp31", 
+            "name": "437 Minutes of Blue Stones"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072497&streamencoding=mp31", 
+            "name": "Hear The Speaker"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072498&streamencoding=mp31", 
+            "name": "Pikachu Reptar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072499&streamencoding=mp31", 
+            "name": "Swivel Scorch"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072495&streamencoding=mp31", 
+            "name": "Snowman Perfect"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072501&streamencoding=mp31", 
+            "name": "Quit Mountain"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072491&streamencoding=mp31", 
+            "name": "Premature Quarantine"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072492&streamencoding=mp31", 
+            "name": "The Lion In Winter"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072493&streamencoding=mp31", 
+            "name": "Lunch Delay"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072494&streamencoding=mp31", 
+            "name": "Swing Your Colt"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072496&streamencoding=mp31", 
+            "name": "Little Teacup"
+        }
+    ], 
+    "release": "2013", 
+    "id": "127246"
+}

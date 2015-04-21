@@ -1,0 +1,39 @@
+{
+    "name": "Supersly Sounds EP", 
+    "artist": "Supersly", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125753&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064638&streamencoding=mp31", 
+            "name": "L. Sugar Dee"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064632&streamencoding=mp31", 
+            "name": "Downtown Pursuit"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064631&streamencoding=mp31", 
+            "name": "Why Did That Guy Beat You"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064633&streamencoding=mp31", 
+            "name": "Loveshack"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064637&streamencoding=mp31", 
+            "name": "Ocean Sunsets"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1064639&streamencoding=mp31", 
+            "name": "Mojito Cocktail"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125753"
+}

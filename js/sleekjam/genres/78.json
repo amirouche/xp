@@ -1,0 +1,677 @@
+{
+    "albums": [
+        {
+            "release": "2008", 
+            "artist": "El Paso Killers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29742&imagesize=100", 
+            "id": "29742", 
+            "name": "Deusto jaia -19/03/04-"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "El Paso Killers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30097&imagesize=100", 
+            "id": "30097", 
+            "name": "Live Bilbo Rock -CD1- 13/01/06 "
+        }, 
+        {
+            "release": "2008", 
+            "artist": "El Paso Killers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30113&imagesize=100", 
+            "id": "30113", 
+            "name": "Live Bilbo Rock -CD2- 13/01/06"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "L\u00e9o Lago", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67832&imagesize=100", 
+            "id": "67832", 
+            "name": "Mais um pouco"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Endtape", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131477&imagesize=100", 
+            "id": "131477", 
+            "name": "Ready To Go (2013)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "The Lousiest Blues Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101641&imagesize=100", 
+            "id": "101641", 
+            "name": "One Last Night"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Les Wad Billys", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=16853&imagesize=100", 
+            "id": "16853", 
+            "name": "Les Wad Billys - Live aux Trinitaires"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "HAT TRICK ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84264&imagesize=100", 
+            "id": "84264", 
+            "name": "BELLY STRIKE"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Neil Leyton", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69165&imagesize=100", 
+            "id": "69165", 
+            "name": "Midnight Sun"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "The Dead Rocks", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86120&imagesize=100", 
+            "id": "86120", 
+            "name": "Tiki Twist"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Franck Camu", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84431&imagesize=100", 
+            "id": "84431", 
+            "name": "Secret Magouille (single)"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Franck Camu", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117349&imagesize=100", 
+            "id": "117349", 
+            "name": "Hard Foot"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Melker", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80672&imagesize=100", 
+            "id": "80672", 
+            "name": "Melkers samlade verk 1999-2009"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "Corentin et ses Danseuses", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2040&imagesize=100", 
+            "id": "2040", 
+            "name": "Punk Vari\u00e9t\u00e9 Commercial"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "kozarmo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34074&imagesize=100", 
+            "id": "34074", 
+            "name": "kozarmo at his best"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "The Long Now", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83761&imagesize=100", 
+            "id": "83761", 
+            "name": "Theory Of Everything"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Fuzz Off", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39322&imagesize=100", 
+            "id": "39322", 
+            "name": "Fuzz Off @ SottoSuono Lab Live"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Houdini Roadshow", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21357&imagesize=100", 
+            "id": "21357", 
+            "name": "Down in the City"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "JJGang", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3668&imagesize=100", 
+            "id": "3668", 
+            "name": "Aper\u00e7u...."
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Maludasta", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93050&imagesize=100", 
+            "id": "93050", 
+            "name": "Nebbia"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "PT44", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65319&imagesize=100", 
+            "id": "65319", 
+            "name": "d\u00e9mo"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Mancy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133698&imagesize=100", 
+            "id": "133698", 
+            "name": "X-ray"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Pony Picture", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74833&imagesize=100", 
+            "id": "74833", 
+            "name": "The Pony Picture"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "The Soulmans", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94044&imagesize=100", 
+            "id": "94044", 
+            "name": "The Soulmans-3"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "On Est V'nus Avec des Trolls", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23764&imagesize=100", 
+            "id": "23764", 
+            "name": "On est pas pr\u00e8s de s'en aller!"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Nod", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64976&imagesize=100", 
+            "id": "64976", 
+            "name": "Shoddy Heart EP"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Les Spangheros", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135141&imagesize=100", 
+            "id": "135141", 
+            "name": "Contr\u00f4le Sanitaire"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Sugar Mama Blues", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51595&imagesize=100", 
+            "id": "51595", 
+            "name": "chop and suey"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Vicente Mu\u00f1oz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20988&imagesize=100", 
+            "id": "20988", 
+            "name": "Blues & Roll Club"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Diced Aces", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85460&imagesize=100", 
+            "id": "85460", 
+            "name": "Diced Aces "
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Glandul 2", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39361&imagesize=100", 
+            "id": "39361", 
+            "name": "Bababaspliff"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Harry Marttila", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100701&imagesize=100", 
+            "id": "100701", 
+            "name": "Rock 'n' Roll Crews "
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Coeficiente Zero", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116053&imagesize=100", 
+            "id": "116053", 
+            "name": "Coeficiente Zero"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Luis Zunel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114464&imagesize=100", 
+            "id": "114464", 
+            "name": "Personas corrientes (featuring Peergynt Lobogris)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Railway and Dogs", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74954&imagesize=100", 
+            "id": "74954", 
+            "name": "DEMO 2009"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Jimmy Hofer Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67282&imagesize=100", 
+            "id": "67282", 
+            "name": "Alphatier"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "PsYko", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26865&imagesize=100", 
+            "id": "26865", 
+            "name": "Blood Rock (preview version)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "\u0411\u0430\u043b\u0442\u0438\u043a\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75701&imagesize=100", 
+            "id": "75701", 
+            "name": "\u042d\u043c\u0430\u043d\u0446\u044b\u043f\u0430\u0446\u0438\u044f"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "The Wavers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109575&imagesize=100", 
+            "id": "109575", 
+            "name": "Welcome to Waverland"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "The Wavers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11091&imagesize=100", 
+            "id": "11091", 
+            "name": "The Wavers EP"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "TROPPO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31347&imagesize=100", 
+            "id": "31347", 
+            "name": "BACHES CAMINOS Y PIEDRAS"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Too Little Cage", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115248&imagesize=100", 
+            "id": "115248", 
+            "name": "Legenden"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Spark Thugs", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119599&imagesize=100", 
+            "id": "119599", 
+            "name": "Top Dead Center"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Spark Thugs", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119598&imagesize=100", 
+            "id": "119598", 
+            "name": "American Shogun"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Spark Thugs", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119603&imagesize=100", 
+            "id": "119603", 
+            "name": "Spark Thugs"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Bruise In Blues", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85333&imagesize=100", 
+            "id": "85333", 
+            "name": "Blues Of White: Lat. 34.2 degrees N long. 141.8"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "smoking frog and rabbit", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24421&imagesize=100", 
+            "id": "24421", 
+            "name": "teeth for eyes ep"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Dead Rooster", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40891&imagesize=100", 
+            "id": "40891", 
+            "name": "Chosen People"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Farmertan", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57234&imagesize=100", 
+            "id": "57234", 
+            "name": "No Reservations"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "FREDDY NOIS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23245&imagesize=100", 
+            "id": "23245", 
+            "name": "Voy A Ser Un T\u00edo Legal"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "TEDDY NOIS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23296&imagesize=100", 
+            "id": "23296", 
+            "name": "Voy A Atracar Un Burguer"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "analgesicos", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30688&imagesize=100", 
+            "id": "30688", 
+            "name": "analg\u00e9sicos. 83"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Smokin on Sunshine", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71884&imagesize=100", 
+            "id": "71884", 
+            "name": "Last waltz on the Titanic"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Crete Boom", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55328&imagesize=100", 
+            "id": "55328", 
+            "name": "Them Bones Need Oxygen"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The Wookies", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34462&imagesize=100", 
+            "id": "34462", 
+            "name": "Is not Our Fault..."
+        }, 
+        {
+            "release": "2011", 
+            "artist": "La Senda", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104355&imagesize=100", 
+            "id": "104355", 
+            "name": "Far West"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Pirato Ketchup", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68563&imagesize=100", 
+            "id": "68563", 
+            "name": "Speed Surfer"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Pirato Ketchup", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120588&imagesize=100", 
+            "id": "120588", 
+            "name": "That's Right !"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Tenente Dan", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90660&imagesize=100", 
+            "id": "90660", 
+            "name": "Tenente Dan II"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "RETROSONIC", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87365&imagesize=100", 
+            "id": "87365", 
+            "name": "Ties, Cardigans & Other Cool Stuff EP"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Miguel \u00c1ngel Gallardo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115645&imagesize=100", 
+            "id": "115645", 
+            "name": "Singularidad de un sue\u00f1o"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Leo Bowers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110753&imagesize=100", 
+            "id": "110753", 
+            "name": "Reflection"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Leo Bowers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129338&imagesize=100", 
+            "id": "129338", 
+            "name": "Christmas Together"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "The N.O. Miskatonic", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113268&imagesize=100", 
+            "id": "113268", 
+            "name": "Primitive Pulse"
+        }, 
+        {
+            "release": "2005", 
+            "artist": "Boris & Maxime", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=354&imagesize=100", 
+            "id": "354", 
+            "name": "Pa\u00efdium"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Para\u00edso Puma", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32575&imagesize=100", 
+            "id": "32575", 
+            "name": "Desenterrando los Fantasmas del Pasado (Canciones 2002-2005)"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Dekadentes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120437&imagesize=100", 
+            "id": "120437", 
+            "name": "Punk & Roll"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "The Magnetic Button", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83809&imagesize=100", 
+            "id": "83809", 
+            "name": "The Magical Hippopotamus Cave"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "jorge manuel laso", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54173&imagesize=100", 
+            "id": "54173", 
+            "name": "ASIMETRICO"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "jorge manuel laso", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56464&imagesize=100", 
+            "id": "56464", 
+            "name": "Imantado"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Conway Hambone", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118897&imagesize=100", 
+            "id": "118897", 
+            "name": "Vintage Rock N Roll Instrumentals vol:1"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Conway Hambone", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136732&imagesize=100", 
+            "id": "136732", 
+            "name": "Hambone Gas"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The Pleasant Delaneys", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37258&imagesize=100", 
+            "id": "37258", 
+            "name": "Wisdom is Misery's Sister EP"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "The Hardtits", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42399&imagesize=100", 
+            "id": "42399", 
+            "name": "D\u00e9mo 2008"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "RE-VERSO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46577&imagesize=100", 
+            "id": "46577", 
+            "name": "RE-VERSO"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "VES DROP", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111977&imagesize=100", 
+            "id": "111977", 
+            "name": "FUCK HIPSTERS"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Dust Road", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62152&imagesize=100", 
+            "id": "62152", 
+            "name": "Live & Recording"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Slim faste", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=127540&imagesize=100", 
+            "id": "127540", 
+            "name": "Slim faste"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "FreddySk8", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8425&imagesize=100", 
+            "id": "8425", 
+            "name": "Isterico"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Pantera Negra", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112260&imagesize=100", 
+            "id": "112260", 
+            "name": "Eureka (Single)"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "The Nunchaks", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13720&imagesize=100", 
+            "id": "13720", 
+            "name": "Fuck You Las Vegas"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "CEDA EL VASO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121317&imagesize=100", 
+            "id": "121317", 
+            "name": "CEDA EL VASO \" MAKETA\""
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Mihkay", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74907&imagesize=100", 
+            "id": "74907", 
+            "name": "Euroland Blues Single"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "THE BLACK BEARDS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8628&imagesize=100", 
+            "id": "8628", 
+            "name": "THE BLACK BEARDS"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "THE BLACK BEARDS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=16643&imagesize=100", 
+            "id": "16643", 
+            "name": "THE BLACK BEARDS"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "FOK", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76775&imagesize=100", 
+            "id": "76775", 
+            "name": "Ingovernables"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Rawe Shaw", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87316&imagesize=100", 
+            "id": "87316", 
+            "name": "Liza"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "\u041c\u0410\u0421\u0422\u0415\u0420\u041a\u041b\u0410\u0421\u0421", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88421&imagesize=100", 
+            "id": "88421", 
+            "name": "DEMO"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Gabriel Guimar\u00e3es", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98806&imagesize=100", 
+            "id": "98806", 
+            "name": "Indefinido"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "The Docksound", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51115&imagesize=100", 
+            "id": "51115", 
+            "name": "First time in town"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Danio Coffea Strange", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94221&imagesize=100", 
+            "id": "94221", 
+            "name": "The Ear Has No Memory"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Los Faltones", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101398&imagesize=100", 
+            "id": "101398", 
+            "name": "Roberto Suzuka y los pococoppoleros"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "LES CULS IVRES", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32328&imagesize=100", 
+            "id": "32328", 
+            "name": "LES CULS IVRES vol.2"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Whalers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124526&imagesize=100", 
+            "id": "124526", 
+            "name": "Paddle Easy"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "White Light Riot", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11035&imagesize=100", 
+            "id": "11035", 
+            "name": "\"Atomism\" "
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Raulin de los Bosques", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88680&imagesize=100", 
+            "id": "88680", 
+            "name": "Family Portrait"
+        }
+    ], 
+    "name": "Rock & Roll"
+}

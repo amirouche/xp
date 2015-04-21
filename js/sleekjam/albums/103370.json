@@ -1,0 +1,29 @@
+{
+    "name": "Universe wave", 
+    "artist": "abtry zenfix 9", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103370&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880001&streamencoding=mp31", 
+            "name": "twkc3_0"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=879999&streamencoding=mp31", 
+            "name": "22"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880000&streamencoding=mp31", 
+            "name": "11"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=879998&streamencoding=mp31", 
+            "name": "beat2"
+        }
+    ], 
+    "release": "2011", 
+    "id": "103370"
+}

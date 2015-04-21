@@ -1,0 +1,14 @@
+{
+    "name": "Just a dream", 
+    "artist": "Sergey Nosenko", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103718&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=882435&streamencoding=mp31", 
+            "name": "Just a dream"
+        }
+    ], 
+    "release": "2011", 
+    "id": "103718"
+}

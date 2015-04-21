@@ -1,0 +1,14 @@
+{
+    "name": "One Last Night", 
+    "artist": "The Lousiest Blues Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101641&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=866923&streamencoding=mp31", 
+            "name": "One last night feat. Theus"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101641"
+}

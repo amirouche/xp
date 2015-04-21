@@ -1,0 +1,14 @@
+{
+    "name": "Odinoky Putnik", 
+    "artist": "Sergy Nevsky", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122401&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1039163&streamencoding=mp31", 
+            "name": "+ODiNOKY_PUTNiK+Serg-Nevsky$Alex-Vishnia"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122401"
+}

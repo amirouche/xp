@@ -1,0 +1,39 @@
+{
+    "name": "Everything And Everyone You've Ever Loved//Will Soon Be Dead", 
+    "artist": "Male Enhancement", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125070&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060250&streamencoding=mp31", 
+            "name": "Got No Scote//Complete Wimp"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060249&streamencoding=mp31", 
+            "name": "You Will Never See Me Again//No Forwarding Address"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060251&streamencoding=mp31", 
+            "name": "Death Master File//There Were No Surviors"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060248&streamencoding=mp31", 
+            "name": "Short End of the Stick//No Reason to Try"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060252&streamencoding=mp31", 
+            "name": "Cold, Harsh Realities//Welcome to the Real World"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1060253&streamencoding=mp31", 
+            "name": "All/No All (Descendents), Reaganomics (DRI), The Shah Sleeps In Lee Harvey's Grave (Butthole Surfers)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125070"
+}

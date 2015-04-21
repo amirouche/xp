@@ -1,0 +1,74 @@
+{
+    "name": "Art of Relax (Vol. 2)", 
+    "artist": "Maluto", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136065&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134000&streamencoding=mp31", 
+            "name": "By the Sea"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1133999&streamencoding=mp31", 
+            "name": "Sparkles"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134004&streamencoding=mp31", 
+            "name": "Quiet Stomping"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134001&streamencoding=mp31", 
+            "name": "Guitar Concert"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134002&streamencoding=mp31", 
+            "name": "Drake Lake"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134003&streamencoding=mp31", 
+            "name": "Calming Down"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134008&streamencoding=mp31", 
+            "name": "Endless Circle"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134011&streamencoding=mp31", 
+            "name": "Smooth shaking"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134010&streamencoding=mp31", 
+            "name": "Escape in vain"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134009&streamencoding=mp31", 
+            "name": "Snowbreeze"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134005&streamencoding=mp31", 
+            "name": "Screaming"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134006&streamencoding=mp31", 
+            "name": "Windy Night"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134007&streamencoding=mp31", 
+            "name": "Rainy Seashore"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136065"
+}

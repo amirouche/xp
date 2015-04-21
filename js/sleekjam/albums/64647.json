@@ -1,0 +1,59 @@
+{
+    "name": "Infiltration", 
+    "artist": "DJ Diktracy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64647&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=556107&streamencoding=mp31", 
+            "name": "Infiltration"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=556109&streamencoding=mp31", 
+            "name": "Explosion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=556110&streamencoding=mp31", 
+            "name": "Feelings"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=556111&streamencoding=mp31", 
+            "name": "Are you Alright (Psychic Mix)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=556112&streamencoding=mp31", 
+            "name": "On the Brink of Disaster"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=556113&streamencoding=mp31", 
+            "name": "The Landing"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=556114&streamencoding=mp31", 
+            "name": "Secretary of Alcohol"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=556115&streamencoding=mp31", 
+            "name": "Life in a Council Flat"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=556116&streamencoding=mp31", 
+            "name": "Shut up & Shoot"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=556117&streamencoding=mp31", 
+            "name": "Time after Time"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64647"
+}

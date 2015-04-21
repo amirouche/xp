@@ -1,0 +1,89 @@
+{
+    "name": "Highmas 4", 
+    "artist": "HiGhMaS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110406&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939295&streamencoding=mp31", 
+            "name": "Astral Travel"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939297&streamencoding=mp31", 
+            "name": "Like A Lion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939298&streamencoding=mp31", 
+            "name": "Brown sugar (long intro version)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939292&streamencoding=mp31", 
+            "name": "Isaac"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939289&streamencoding=mp31", 
+            "name": "Heaven"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939286&streamencoding=mp31", 
+            "name": "Mandala Dub"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939287&streamencoding=mp31", 
+            "name": "Disinhibition"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939288&streamencoding=mp31", 
+            "name": "Interlude"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939507&streamencoding=mp31", 
+            "name": "Imagine a Story"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939293&streamencoding=mp31", 
+            "name": "Samsara"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939290&streamencoding=mp31", 
+            "name": "White Light"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939291&streamencoding=mp31", 
+            "name": "Ayahuasca"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939294&streamencoding=mp31", 
+            "name": "Interlude 2"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939296&streamencoding=mp31", 
+            "name": "Take A Lift"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939299&streamencoding=mp31", 
+            "name": "To feel a presence (Feat Diazel)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=939300&streamencoding=mp31", 
+            "name": "Wandering Soul"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110406"
+}

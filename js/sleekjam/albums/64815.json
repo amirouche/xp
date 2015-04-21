@@ -1,0 +1,19 @@
+{
+    "name": "Amethystine Cave", 
+    "artist": "WMRI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64815&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=558150&streamencoding=mp31", 
+            "name": "Stalactite"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=558149&streamencoding=mp31", 
+            "name": "Stalagmite"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64815"
+}

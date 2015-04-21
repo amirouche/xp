@@ -1,0 +1,14 @@
+{
+    "name": "Destino II", 
+    "artist": "CLUB DESTINO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84071&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=720593&streamencoding=mp31", 
+            "name": "CLUB DESTINO - Close to you - Al lado de ti - instrumental"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84071"
+}

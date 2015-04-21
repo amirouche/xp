@@ -1,0 +1,24 @@
+{
+    "name": "FAUX  SEMBLANTS", 
+    "artist": "Pascal SER'JACOBS  ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38030&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=267392&streamencoding=mp31", 
+            "name": "Pourquoi pas"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=267418&streamencoding=mp31", 
+            "name": "La folie du n\u00e9ant"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=267461&streamencoding=mp31", 
+            "name": "La fin"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38030"
+}

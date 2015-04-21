@@ -1,0 +1,14 @@
+{
+    "name": "The 7th Guest", 
+    "artist": "Ceebass", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15000&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=114538&streamencoding=mp31", 
+            "name": "The 7th Guest"
+        }
+    ], 
+    "release": "2007", 
+    "id": "15000"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Got Funk (single)", 
+    "artist": "The fixer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36833&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=257021&streamencoding=mp31", 
+            "name": "Got Funk"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36833"
+}

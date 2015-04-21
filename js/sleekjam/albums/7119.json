@@ -1,0 +1,29 @@
+{
+    "name": "Blancanieves II", 
+    "artist": "puercoespines", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7119&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78426&streamencoding=mp31", 
+            "name": "Tu Desconfianza"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78427&streamencoding=mp31", 
+            "name": "Muerdeme"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78428&streamencoding=mp31", 
+            "name": "Blancanieves II"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78429&streamencoding=mp31", 
+            "name": "Ni un d\u00eda m\u00e1s"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7119"
+}

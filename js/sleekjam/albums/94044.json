@@ -1,0 +1,14 @@
+{
+    "name": "The Soulmans-3", 
+    "artist": "The Soulmans", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94044&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=803888&streamencoding=mp31", 
+            "name": "Love is..."
+        }
+    ], 
+    "release": "2011", 
+    "id": "94044"
+}

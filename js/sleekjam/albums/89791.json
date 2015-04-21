@@ -1,0 +1,29 @@
+{
+    "name": "Overload of the speed system(EP)", 
+    "artist": "Stray_D.G.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89791&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766643&streamencoding=mp31", 
+            "name": "Stray_D.G.___Overload  speed system_(Original_Stray_mix)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766644&streamencoding=mp31", 
+            "name": "Stray_D.G.___ Overload speed system_ (Sheezo_transed_Goa_f..._haused_Remix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766645&streamencoding=mp31", 
+            "name": "Stray_D.G.___Strange_beat_ (2_ReplayGain analysis MasteR_)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766646&streamencoding=mp31", 
+            "name": "Stray_D.G.___Overload of the speed system_(D&B_Vers..)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89791"
+}

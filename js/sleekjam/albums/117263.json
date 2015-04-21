@@ -1,0 +1,69 @@
+{
+    "name": "LIVE AT HOME", 
+    "artist": "Sebasto PAUL", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117263&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996865&streamencoding=mp31", 
+            "name": "MONTRER_AU_GENS"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996867&streamencoding=mp31", 
+            "name": "MAELLE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996870&streamencoding=mp31", 
+            "name": "ST VALENTIN"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996906&streamencoding=mp31", 
+            "name": "SOLEIL SUR LA TETE"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996866&streamencoding=mp31", 
+            "name": "PETIT HOMME"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996869&streamencoding=mp31", 
+            "name": "ST MALO"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996872&streamencoding=mp31", 
+            "name": "TEMPS PASSE"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996907&streamencoding=mp31", 
+            "name": "I LOVE THE LIFE"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996871&streamencoding=mp31", 
+            "name": "L'AMITIE"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996868&streamencoding=mp31", 
+            "name": "PETIT MARTIEN"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996908&streamencoding=mp31", 
+            "name": "SHOW ME THE WAY"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=996864&streamencoding=mp31", 
+            "name": "VIVANT"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117263"
+}

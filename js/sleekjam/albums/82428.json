@@ -1,0 +1,59 @@
+{
+    "name": "The rock of the love", 
+    "artist": "Big Manu", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82428&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706038&streamencoding=mp31", 
+            "name": "the rock of love"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706039&streamencoding=mp31", 
+            "name": "Io posso amare solo te"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706040&streamencoding=mp31", 
+            "name": "Love song"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706045&streamencoding=mp31", 
+            "name": "La mia stella"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706041&streamencoding=mp31", 
+            "name": "My love for you"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706042&streamencoding=mp31", 
+            "name": "One night with her"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706043&streamencoding=mp31", 
+            "name": "Summer love"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706044&streamencoding=mp31", 
+            "name": "Her and I forever"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706046&streamencoding=mp31", 
+            "name": "My life with you"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=706047&streamencoding=mp31", 
+            "name": "The world most beatyful"
+        }
+    ], 
+    "release": "2010", 
+    "id": "82428"
+}

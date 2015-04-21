@@ -1,0 +1,19 @@
+{
+    "name": "Walz On The Moon EP", 
+    "artist": "disharmonic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94802&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811610&streamencoding=mp31", 
+            "name": "On The Moon (original trip-hop mix)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811609&streamencoding=mp31", 
+            "name": "Walz Into The Moonlight (tryad remix)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94802"
+}

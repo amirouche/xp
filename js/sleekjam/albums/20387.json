@@ -1,0 +1,84 @@
+{
+    "name": "the city", 
+    "artist": "SAM FAIRY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20387&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142882&streamencoding=mp31", 
+            "name": "the shooting walker"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142883&streamencoding=mp31", 
+            "name": "latin aquatique"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142884&streamencoding=mp31", 
+            "name": "rock"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142885&streamencoding=mp31", 
+            "name": "fluide energy mlk"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142886&streamencoding=mp31", 
+            "name": "grand piano"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142887&streamencoding=mp31", 
+            "name": "easy living"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142888&streamencoding=mp31", 
+            "name": "exite street"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142889&streamencoding=mp31", 
+            "name": "mal a die"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142890&streamencoding=mp31", 
+            "name": "girl"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142891&streamencoding=mp31", 
+            "name": "ballade tropicale"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142892&streamencoding=mp31", 
+            "name": "travers jack b"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142893&streamencoding=mp31", 
+            "name": "make it"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142894&streamencoding=mp31", 
+            "name": "retour sur terre"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142895&streamencoding=mp31", 
+            "name": "get you"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=142896&streamencoding=mp31", 
+            "name": "ss jazmovie"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20387"
+}

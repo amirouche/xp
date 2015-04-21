@@ -1,0 +1,14 @@
+{
+    "name": "INAUDIBLE", 
+    "artist": "CORDE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80668&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692178&streamencoding=mp31", 
+            "name": "J'entends rien"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80668"
+}

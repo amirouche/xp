@@ -1,0 +1,94 @@
+{
+    "name": "Eclosi\u00f3n", 
+    "artist": "Jhetr\u00f3 Legrand", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107988&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912448&streamencoding=mp31", 
+            "name": "big bang"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912446&streamencoding=mp31", 
+            "name": "Los planetas"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912445&streamencoding=mp31", 
+            "name": "Andar sobre el hielo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912449&streamencoding=mp31", 
+            "name": "Caza y Encuentro"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912447&streamencoding=mp31", 
+            "name": "Voz de Tambor"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912450&streamencoding=mp31", 
+            "name": "Te vemos"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912462&streamencoding=mp31", 
+            "name": "Marcha de Guerra"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912467&streamencoding=mp31", 
+            "name": "Augustales"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912466&streamencoding=mp31", 
+            "name": "Con la Risa del Arroyo"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912465&streamencoding=mp31", 
+            "name": "Despacio"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912464&streamencoding=mp31", 
+            "name": "Meditaciones de Al Jyran"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912463&streamencoding=mp31", 
+            "name": "Entrada soir\u00e9e"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912471&streamencoding=mp31", 
+            "name": "Los Foramontanos"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912473&streamencoding=mp31", 
+            "name": "Renacimiento "
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912472&streamencoding=mp31", 
+            "name": "La plaza del pueblo"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912470&streamencoding=mp31", 
+            "name": "Angustias sa"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=912469&streamencoding=mp31", 
+            "name": "El rio de la vida"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107988"
+}

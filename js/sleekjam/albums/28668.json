@@ -1,0 +1,14 @@
+{
+    "name": "Opium", 
+    "artist": "KaOS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28668&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=191654&streamencoding=mp31", 
+            "name": "Opium"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28668"
+}

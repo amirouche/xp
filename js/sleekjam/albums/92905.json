@@ -1,0 +1,39 @@
+{
+    "name": "Precious", 
+    "artist": "Paola Arcieri", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92905&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=791623&streamencoding=mp31", 
+            "name": "ANNIE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=791624&streamencoding=mp31", 
+            "name": "INCREDIBLE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=791625&streamencoding=mp31", 
+            "name": "IT'S A MANS WORLD"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=791707&streamencoding=mp31", 
+            "name": "UPGRADE U (FT. CHUCK DYNAMITE)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=791710&streamencoding=mp31", 
+            "name": "STILL A FRIEND OF MINE"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=791712&streamencoding=mp31", 
+            "name": "DON'T LIE (FT. CHUCK DYNAMITE)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "92905"
+}

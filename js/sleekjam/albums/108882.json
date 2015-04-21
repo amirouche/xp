@@ -1,0 +1,144 @@
+{
+    "name": "Fons Vitae", 
+    "artist": "Koke N\u00fa\u00f1ez G\u00f3mez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108882&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919271&streamencoding=mp31", 
+            "name": "Fons Vitae"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919263&streamencoding=mp31", 
+            "name": "Fons Vitae (no drums)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919278&streamencoding=mp31", 
+            "name": "Fons Vitae (no vocal)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919264&streamencoding=mp31", 
+            "name": "Sacred Rain"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919279&streamencoding=mp31", 
+            "name": "Sacred Rain (no choir&vocal)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919273&streamencoding=mp31", 
+            "name": "Atlantis"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919266&streamencoding=mp31", 
+            "name": "Atlantis (no choir)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919281&streamencoding=mp31", 
+            "name": "Atlantis (no drums)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919282&streamencoding=mp31", 
+            "name": "Atlantis (no choir&drums)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919285&streamencoding=mp31", 
+            "name": "Temple of Water"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919260&streamencoding=mp31", 
+            "name": "Neptune"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919274&streamencoding=mp31", 
+            "name": "Neptune (no vocal)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919265&streamencoding=mp31", 
+            "name": "Neptune (no choir&vocal)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919277&streamencoding=mp31", 
+            "name": "Mermaid Princess"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919276&streamencoding=mp31", 
+            "name": "Mermaid Princess (no choir)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919283&streamencoding=mp31", 
+            "name": "Lake Memories"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919268&streamencoding=mp31", 
+            "name": "The Cathedral of the Sea"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919286&streamencoding=mp31", 
+            "name": "The Cathedral of the Sea (no vocal)"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919272&streamencoding=mp31", 
+            "name": "The Cathedral of the Sea (no choir&vocal)"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919261&streamencoding=mp31", 
+            "name": "The Universal Flood"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919275&streamencoding=mp31", 
+            "name": "The Universal Flood (no choir)"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919267&streamencoding=mp31", 
+            "name": "Seven Seas"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919262&streamencoding=mp31", 
+            "name": "Seven Seas (no flute)"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919280&streamencoding=mp31", 
+            "name": "Seven Seas (no vocal)"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919270&streamencoding=mp31", 
+            "name": "Seven Seas (no choir&vocal)"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919284&streamencoding=mp31", 
+            "name": "Ocean's Guardian"
+        }, 
+        {
+            "position": 27, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=919269&streamencoding=mp31", 
+            "name": "Ocean's Guardian (no choir)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108882"
+}

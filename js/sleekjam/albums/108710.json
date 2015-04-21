@@ -1,0 +1,74 @@
+{
+    "name": "The empire never ended", 
+    "artist": "ieatpants", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108710&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918073&streamencoding=mp31", 
+            "name": "the empire never ended"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918072&streamencoding=mp31", 
+            "name": "killing in the name of all that is good and holy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918071&streamencoding=mp31", 
+            "name": "horselover"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918070&streamencoding=mp31", 
+            "name": "a life like god's records"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918069&streamencoding=mp31", 
+            "name": "Shortened life part 1"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918068&streamencoding=mp31", 
+            "name": "abendsen's dream"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918067&streamencoding=mp31", 
+            "name": "a precog never lies"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918066&streamencoding=mp31", 
+            "name": "twinless twin"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918065&streamencoding=mp31", 
+            "name": "shortened life part 2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918064&streamencoding=mp31", 
+            "name": "mercerism (fake world, revisited)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918074&streamencoding=mp31", 
+            "name": "child of mars"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918076&streamencoding=mp31", 
+            "name": "i'm alive and you're dead"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=918075&streamencoding=mp31", 
+            "name": "the universe is cold"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108710"
+}

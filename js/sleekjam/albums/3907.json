@@ -1,0 +1,74 @@
+{
+    "name": "Rachamps 2004", 
+    "artist": "Musiciens de Surface", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3907&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31172&streamencoding=mp31", 
+            "name": "Pas pour vous"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31173&streamencoding=mp31", 
+            "name": "Au clair de la lune"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31174&streamencoding=mp31", 
+            "name": "D'o\u00f9 venez-vous si crott\u00e9"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31175&streamencoding=mp31", 
+            "name": "Chant \"russe\""
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31176&streamencoding=mp31", 
+            "name": "Ah! que nos p\u00e8res"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31177&streamencoding=mp31", 
+            "name": "Alle psalitte cum luya"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31178&streamencoding=mp31", 
+            "name": "Voici la Saint-Jean"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31179&streamencoding=mp31", 
+            "name": "Malbrough s'en va-t-en guerre"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31180&streamencoding=mp31", 
+            "name": "L'horrible crime de Remagne"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31181&streamencoding=mp31", 
+            "name": "Qui veut chasser une migraine"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31182&streamencoding=mp31", 
+            "name": "La mort du cerf"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31183&streamencoding=mp31", 
+            "name": "Buvons un coup"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=31184&streamencoding=mp31", 
+            "name": "Venerabilis barba Capucinorum"
+        }
+    ], 
+    "release": "2007", 
+    "id": "3907"
+}

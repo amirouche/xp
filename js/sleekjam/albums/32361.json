@@ -1,0 +1,54 @@
+{
+    "name": "Best Of", 
+    "artist": "Shino", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32361&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219072&streamencoding=mp31", 
+            "name": "XXX"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219073&streamencoding=mp31", 
+            "name": "A Song for Pain"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219074&streamencoding=mp31", 
+            "name": "Blind"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219075&streamencoding=mp31", 
+            "name": "Loving You"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219076&streamencoding=mp31", 
+            "name": "Last Storm"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219077&streamencoding=mp31", 
+            "name": "Still Me"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219078&streamencoding=mp31", 
+            "name": "Invisible"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219079&streamencoding=mp31", 
+            "name": "For My Little Vamp"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219080&streamencoding=mp31", 
+            "name": "Belief"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32361"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "The Bakery Is Open", 
+    "artist": "Cakeflap", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=16995&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=121948&streamencoding=mp31", 
+            "name": "Cakeflap - The Bakery Is Open"
+        }
+    ], 
+    "release": "2008", 
+    "id": "16995"
+}

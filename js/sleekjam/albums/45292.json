@@ -1,0 +1,69 @@
+{
+    "name": "My Way", 
+    "artist": "C.A.M.P.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45292&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343579&streamencoding=mp31", 
+            "name": "Stony Way"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343581&streamencoding=mp31", 
+            "name": "Rattlesnakes Revenge"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343576&streamencoding=mp31", 
+            "name": "Keep it Dimple"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343578&streamencoding=mp31", 
+            "name": "Leaving New Orleans in Summer"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343580&streamencoding=mp31", 
+            "name": "Chicken Shag Blues"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343575&streamencoding=mp31", 
+            "name": "The Day Before"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343582&streamencoding=mp31", 
+            "name": "The Day After"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343571&streamencoding=mp31", 
+            "name": "Rainy Sunday"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343574&streamencoding=mp31", 
+            "name": "Schokoladeneis"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343577&streamencoding=mp31", 
+            "name": "Sun Delivery"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343572&streamencoding=mp31", 
+            "name": "Summer Nightmares"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=343573&streamencoding=mp31", 
+            "name": "Voll fetter Rauswurf"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45292"
+}

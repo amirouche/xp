@@ -1,0 +1,59 @@
+{
+    "name": "Couch Cushion Forts", 
+    "artist": "Jason Pfaff", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128592&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1079677&streamencoding=mp31", 
+            "name": "Honalee"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1079681&streamencoding=mp31", 
+            "name": "Couch Cushion Forts"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1079679&streamencoding=mp31", 
+            "name": "The way we whir"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1079675&streamencoding=mp31", 
+            "name": "Blink twice"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1079682&streamencoding=mp31", 
+            "name": "Flannel Pajama Odyssey"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1079676&streamencoding=mp31", 
+            "name": "Architexture"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1079680&streamencoding=mp31", 
+            "name": "Footrace to the Ferry"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1079674&streamencoding=mp31", 
+            "name": "Rollerskates"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1079678&streamencoding=mp31", 
+            "name": "The old inn door"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1079722&streamencoding=mp31", 
+            "name": "Full of Love (bonus track)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128592"
+}

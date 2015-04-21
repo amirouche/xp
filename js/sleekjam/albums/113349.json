@@ -1,0 +1,14 @@
+{
+    "name": "Life is Music", 
+    "artist": "bedo1975", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113349&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=964024&streamencoding=mp31", 
+            "name": "Monster_Man"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113349"
+}

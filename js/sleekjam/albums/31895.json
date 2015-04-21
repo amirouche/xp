@@ -1,0 +1,14 @@
+{
+    "name": "Autobiogramme", 
+    "artist": "Habanera", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31895&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217238&streamencoding=mp31", 
+            "name": "Amour maison"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31895"
+}

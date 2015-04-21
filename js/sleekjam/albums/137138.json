@@ -1,0 +1,44 @@
+{
+    "name": "Flying Into The Light", 
+    "artist": "Kai Klaas", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137138&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143797&streamencoding=mp31", 
+            "name": "Dance Of The Ice Crystals"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143811&streamencoding=mp31", 
+            "name": "Breaking The Surface"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143814&streamencoding=mp31", 
+            "name": "Deep Blue Water"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143815&streamencoding=mp31", 
+            "name": "Touching The Sky"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143816&streamencoding=mp31", 
+            "name": "Bright Darkness"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143857&streamencoding=mp31", 
+            "name": "Why"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143858&streamencoding=mp31", 
+            "name": "Follow Me Home"
+        }
+    ], 
+    "release": "2014", 
+    "id": "137138"
+}

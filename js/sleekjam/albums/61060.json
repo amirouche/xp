@@ -1,0 +1,24 @@
+{
+    "name": "White Dog", 
+    "artist": "FB", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61060&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=522519&streamencoding=mp31", 
+            "name": "Coming Becoming"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=522525&streamencoding=mp31", 
+            "name": "Canned Revolution"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=522568&streamencoding=mp31", 
+            "name": "Time For Rockin'"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61060"
+}

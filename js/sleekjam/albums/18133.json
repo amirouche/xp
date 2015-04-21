@@ -1,0 +1,44 @@
+{
+    "name": "Demo 2008", 
+    "artist": "Mylant", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18133&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128037&streamencoding=mp31", 
+            "name": "Cigam Pool Two"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128041&streamencoding=mp31", 
+            "name": "S.K.I.A.N"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128039&streamencoding=mp31", 
+            "name": "Intermission"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128042&streamencoding=mp31", 
+            "name": "Soemthing Called 821"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128040&streamencoding=mp31", 
+            "name": "Question Ever Raised (QER)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128043&streamencoding=mp31", 
+            "name": "Three Dimensions"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128038&streamencoding=mp31", 
+            "name": "Death and IV"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18133"
+}

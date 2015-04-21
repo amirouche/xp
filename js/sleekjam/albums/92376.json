@@ -1,0 +1,19 @@
+{
+    "name": "quelques essais musicaux.", 
+    "artist": "hardpapy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92376&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780285&streamencoding=mp31", 
+            "name": "song for pitt_"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780302&streamencoding=mp31", 
+            "name": "delire"
+        }
+    ], 
+    "release": "2011", 
+    "id": "92376"
+}

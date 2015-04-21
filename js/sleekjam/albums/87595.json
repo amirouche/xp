@@ -1,0 +1,64 @@
+{
+    "name": "2002 *Ra:Um*", 
+    "artist": "Sinestesia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87595&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749063&streamencoding=mp31", 
+            "name": "A Dream"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749060&streamencoding=mp31", 
+            "name": "Around the Mind"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749065&streamencoding=mp31", 
+            "name": "Brain Arrival"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749061&streamencoding=mp31", 
+            "name": "Catharsis"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749066&streamencoding=mp31", 
+            "name": "Emotion Mushrooms"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749062&streamencoding=mp31", 
+            "name": "Music Box"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749057&streamencoding=mp31", 
+            "name": "The Dance"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749067&streamencoding=mp31", 
+            "name": "cHer"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749058&streamencoding=mp31", 
+            "name": "In The End of Time (remix)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749059&streamencoding=mp31", 
+            "name": "Ka4eLy"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749064&streamencoding=mp31", 
+            "name": "Mantra of Silence"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87595"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Granito de Arena", 
+    "artist": "Viento y T\u00eferra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86514&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740330&streamencoding=mp31", 
+            "name": "TE AGITAS"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740331&streamencoding=mp31", 
+            "name": "VIENTO"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740332&streamencoding=mp31", 
+            "name": "REGGAE ESTOY"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740333&streamencoding=mp31", 
+            "name": "ORGULLO"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740334&streamencoding=mp31", 
+            "name": "DE NOCHE"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740336&streamencoding=mp31", 
+            "name": "ESA SONRISA"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740338&streamencoding=mp31", 
+            "name": "DE LOS DOS"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740339&streamencoding=mp31", 
+            "name": "EL PRESO"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740340&streamencoding=mp31", 
+            "name": "MI VIDA"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740341&streamencoding=mp31", 
+            "name": "WITHOUT WAR"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740342&streamencoding=mp31", 
+            "name": "CURA LO CURA"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740346&streamencoding=mp31", 
+            "name": "Q VAS HACER"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740343&streamencoding=mp31", 
+            "name": "ABRE"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=740344&streamencoding=mp31", 
+            "name": "BAJO EL PUENTE"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86514"
+}

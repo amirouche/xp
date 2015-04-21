@@ -1,0 +1,24 @@
+{
+    "name": "Cry Of The Unborn", 
+    "artist": "Harald S", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65166&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563154&streamencoding=mp31", 
+            "name": "Lass mich leben - Let Me Live"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563155&streamencoding=mp31", 
+            "name": "Lass mich leben - Cry of the Unborn"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563156&streamencoding=mp31", 
+            "name": "Lass mich leben - Empty Space"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65166"
+}

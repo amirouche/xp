@@ -1,0 +1,69 @@
+{
+    "name": "Electroglamour and infinite sadness", 
+    "artist": "[dK]", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4789&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39025&streamencoding=mp31", 
+            "name": "Me as an enemy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39026&streamencoding=mp31", 
+            "name": "Karmastate"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39027&streamencoding=mp31", 
+            "name": "Breaking off the fight"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39028&streamencoding=mp31", 
+            "name": "Alms"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39029&streamencoding=mp31", 
+            "name": "Bp1"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39030&streamencoding=mp31", 
+            "name": "Bp2"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39031&streamencoding=mp31", 
+            "name": "State of things"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39032&streamencoding=mp31", 
+            "name": "In front of River"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39033&streamencoding=mp31", 
+            "name": "The ethics of River"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39034&streamencoding=mp31", 
+            "name": "Ordinary state of grace"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39035&streamencoding=mp31", 
+            "name": "Best pain"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=39036&streamencoding=mp31", 
+            "name": "Germanium"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4789"
+}

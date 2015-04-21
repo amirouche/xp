@@ -1,0 +1,24 @@
+{
+    "name": "Like a lion", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68785&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=595386&streamencoding=mp31", 
+            "name": "Like a Lion "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=595387&streamencoding=mp31", 
+            "name": "Blueberry Bear "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=595397&streamencoding=mp31", 
+            "name": "Opossum "
+        }
+    ], 
+    "release": "2010", 
+    "id": "68785"
+}

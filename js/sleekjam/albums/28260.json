@@ -1,0 +1,49 @@
+{
+    "name": "Paths to a Digital Dawn", 
+    "artist": "Ruined Machines", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28260&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188906&streamencoding=mp31", 
+            "name": "Good Morning"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188907&streamencoding=mp31", 
+            "name": "Her Eyes Hold Poison"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188908&streamencoding=mp31", 
+            "name": "Paths to a Digital Dawn"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188909&streamencoding=mp31", 
+            "name": "A Milestone, Your Every Step"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188910&streamencoding=mp31", 
+            "name": "You Can't Tell Time in the Dark"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188911&streamencoding=mp31", 
+            "name": "Cathedrals Underground"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188912&streamencoding=mp31", 
+            "name": "The Broken Lullaby"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188913&streamencoding=mp31", 
+            "name": "Barriers"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28260"
+}

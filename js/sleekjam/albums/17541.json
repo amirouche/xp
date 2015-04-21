@@ -1,0 +1,39 @@
+{
+    "name": "Speed Limit", 
+    "artist": "Robert PIECULEWICZ (Steve ALLEN)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17541&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125447&streamencoding=mp31", 
+            "name": "Running with the wind"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125450&streamencoding=mp31", 
+            "name": "Rain ballad"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125452&streamencoding=mp31", 
+            "name": "Sounds like teen a teen spirit "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125454&streamencoding=mp31", 
+            "name": "Desert rose"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125455&streamencoding=mp31", 
+            "name": "Speed limit"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125459&streamencoding=mp31", 
+            "name": "The gangsters and the politicians"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17541"
+}

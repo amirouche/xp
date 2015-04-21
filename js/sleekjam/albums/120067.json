@@ -1,0 +1,19 @@
+{
+    "name": "Magnificent Desolation", 
+    "artist": "Ronny Cary", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120067&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1021232&streamencoding=mp31", 
+            "name": "Magnificent Desolation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1021233&streamencoding=mp31", 
+            "name": "Magnificent Desolation (sans vocals)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120067"
+}

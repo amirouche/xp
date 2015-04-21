@@ -1,0 +1,49 @@
+{
+    "name": "Time matters", 
+    "artist": "Universally Inconsistent", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101649&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867195&streamencoding=mp31", 
+            "name": "In the balance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867201&streamencoding=mp31", 
+            "name": "Wishfull thinking"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867200&streamencoding=mp31", 
+            "name": "Lost in time"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867198&streamencoding=mp31", 
+            "name": "Blink of an eye"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867196&streamencoding=mp31", 
+            "name": "Around the world"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867197&streamencoding=mp31", 
+            "name": "No distractions"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867194&streamencoding=mp31", 
+            "name": "Dare to dream"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867199&streamencoding=mp31", 
+            "name": "Everything must end"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101649"
+}

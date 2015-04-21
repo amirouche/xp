@@ -1,0 +1,39 @@
+{
+    "name": "Black Sheep II", 
+    "artist": "Mad Mav", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51139&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414943&streamencoding=mp31", 
+            "name": "Steel Concrete"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414942&streamencoding=mp31", 
+            "name": "Construct of death"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414944&streamencoding=mp31", 
+            "name": "Stigmatized"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414945&streamencoding=mp31", 
+            "name": "Tears of Blood"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414946&streamencoding=mp31", 
+            "name": "Necromancy"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414947&streamencoding=mp31", 
+            "name": "Inside the Pharynx"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51139"
+}

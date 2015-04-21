@@ -1,0 +1,49 @@
+{
+    "name": "BLUES IN RED (PRE-PRODUCTION)", 
+    "artist": "AZULES Blues Rock", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94403&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807374&streamencoding=mp31", 
+            "name": "AZULES - Fire heels"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807369&streamencoding=mp31", 
+            "name": "AZULES - You gonna kill me"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807370&streamencoding=mp31", 
+            "name": "AZULES - Keep your motor running"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807373&streamencoding=mp31", 
+            "name": "AZULES - Warmed by the devil\u00b4s fire"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807371&streamencoding=mp31", 
+            "name": "AZULES - The chain and the neck"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807372&streamencoding=mp31", 
+            "name": "AZULES - Endless days"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807375&streamencoding=mp31", 
+            "name": "AZULES - Rainy sunday"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=807376&streamencoding=mp31", 
+            "name": "AZULES - Victim of a lifetime"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94403"
+}

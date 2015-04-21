@@ -1,0 +1,49 @@
+{
+    "name": "REVISED & CORRECTED VOL.1", 
+    "artist": "Angus", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129490&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086273&streamencoding=mp31", 
+            "name": "SOGNO DI BAMBINO - trumpet version -"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086258&streamencoding=mp31", 
+            "name": "OCCHI FELINI - vibes version -"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086271&streamencoding=mp31", 
+            "name": "UN SABATO QUALUNQUE - smooth jazz version"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086259&streamencoding=mp31", 
+            "name": "PER I MIEI NONNI - trumpet version"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086297&streamencoding=mp31", 
+            "name": "RAW TIMES - mandolin - sax soprano version"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086283&streamencoding=mp31", 
+            "name": "RAINY SPRING - trumpet version"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086303&streamencoding=mp31", 
+            "name": "TIME LOST - sax vibes version"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086347&streamencoding=mp31", 
+            "name": "TOCCO VISIVO- piano jazz version"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129490"
+}

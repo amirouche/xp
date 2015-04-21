@@ -1,0 +1,119 @@
+{
+    "name": "NRG 01 Schizo", 
+    "artist": "Noise Research Group", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64467&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554368&streamencoding=mp31", 
+            "name": "Schizo Var 1 Pt 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554369&streamencoding=mp31", 
+            "name": "Schizo Var 1 Pt 2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554370&streamencoding=mp31", 
+            "name": "Schizo Var 1 Pt 3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554371&streamencoding=mp31", 
+            "name": "Schizo Var 1 Pt 4"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554372&streamencoding=mp31", 
+            "name": "Schizo Var 2 Pt 1"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554373&streamencoding=mp31", 
+            "name": "Schizo Var 2 Pt 2"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554374&streamencoding=mp31", 
+            "name": "Schizo Var 3 Pt 1"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554375&streamencoding=mp31", 
+            "name": "Schizo Var 3 Pt 2"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554376&streamencoding=mp31", 
+            "name": "Schizo Var 4 Pt 1"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554377&streamencoding=mp31", 
+            "name": "Schizo Var 4 Pt 2"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554378&streamencoding=mp31", 
+            "name": "Schizo Var 4 Pt 3"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554379&streamencoding=mp31", 
+            "name": "Schizo Var 4 Pt 4"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554380&streamencoding=mp31", 
+            "name": "Schizo Var 5 Pt 1"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554381&streamencoding=mp31", 
+            "name": "Schizo Var 5 Pt 2"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554382&streamencoding=mp31", 
+            "name": "Schizo Var 5 Pt 3"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554383&streamencoding=mp31", 
+            "name": "Schizo Var 6 Pt 1"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554384&streamencoding=mp31", 
+            "name": "Schizo Var 6 Pt 2"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554385&streamencoding=mp31", 
+            "name": "Schizo Var 6 Pt 3"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554386&streamencoding=mp31", 
+            "name": "Schizo Var 6 Pt 4"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554387&streamencoding=mp31", 
+            "name": "Schizo Var 7 Pt 1"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554388&streamencoding=mp31", 
+            "name": "Schizo Var 7 Pt 2"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=554389&streamencoding=mp31", 
+            "name": "Schizo Var 7 Pt 3"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64467"
+}

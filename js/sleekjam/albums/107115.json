@@ -1,0 +1,64 @@
+{
+    "name": "Rumba Infusi\u00f3n", 
+    "artist": "Pasajeros sin Billete", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107115&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906752&streamencoding=mp31", 
+            "name": "Calle Lamento"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906753&streamencoding=mp31", 
+            "name": "Utop\u00edas en el arc\u00e9n"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906757&streamencoding=mp31", 
+            "name": "Rumba infusi\u00f3n"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906758&streamencoding=mp31", 
+            "name": "Por no estar"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906782&streamencoding=mp31", 
+            "name": "La orilla del quebranto"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906788&streamencoding=mp31", 
+            "name": "Saco billete"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906789&streamencoding=mp31", 
+            "name": "P\u00e1rate a vivir"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906790&streamencoding=mp31", 
+            "name": "La pega del rev\u00e9s"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906791&streamencoding=mp31", 
+            "name": "Producto Interior Brutal"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906792&streamencoding=mp31", 
+            "name": "Luna lunera"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906793&streamencoding=mp31", 
+            "name": "Bonus track"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107115"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "VOCALES FL\u00c2NERIES", 
+    "artist": "JCR & GB", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87426&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747693&streamencoding=mp31", 
+            "name": "Mon vieux copain."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747692&streamencoding=mp31", 
+            "name": "Je voyage."
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747706&streamencoding=mp31", 
+            "name": "Croire..."
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747694&streamencoding=mp31", 
+            "name": "Complainte du DJINN."
+        }
+    ], 
+    "release": "2011", 
+    "id": "87426"
+}

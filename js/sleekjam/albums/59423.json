@@ -1,0 +1,64 @@
+{
+    "name": "guaguaband (dorada en vivo)", 
+    "artist": "GUAGUA BAND (Dorada en vivo 2009)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59423&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=507003&streamencoding=mp31", 
+            "name": "Guagua Band Live - La Guagua - Dorada en Vivo 2009"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=507002&streamencoding=mp31", 
+            "name": "Guagua Band Live - Si me Cuentas - Dorada en Vivo 2009"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=507008&streamencoding=mp31", 
+            "name": "Guagua Band Live - Al Calentito - Dorada en Vivo 2009"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=507009&streamencoding=mp31", 
+            "name": "Guagua Band Live - Calle Abajo - Dorada en Vivo 2009"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=507004&streamencoding=mp31", 
+            "name": "Guagua Band Live - Hombre Perdido - Dorada en Vivo 2009"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=507007&streamencoding=mp31", 
+            "name": "Guagua Band Live - Oye Mami - Dorada en Vivo 2009"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=507010&streamencoding=mp31", 
+            "name": "Guagua Band Live - Bailo sobre un Sombrero - Dorada en Vivo 2009"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=507005&streamencoding=mp31", 
+            "name": "Guagua Band Live - No est\u00e1s Sola - Dorada en Vivo 2009"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=507011&streamencoding=mp31", 
+            "name": "Guagua Band Live - Chispitas - Dorada en Vivo 2009"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=507006&streamencoding=mp31", 
+            "name": "Guagua Band Live - Ritmo Vacil\u00f3n - Dorada en Vivo 2009"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=507001&streamencoding=mp31", 
+            "name": "Guagua Band Live - Presentaci\u00f3n La Guagua - Dorada en Vivo 2009"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59423"
+}

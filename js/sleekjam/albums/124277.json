@@ -1,0 +1,64 @@
+{
+    "name": "Modern Classic Edition: Volume 1 - Gemafreie Musik", 
+    "artist": "Ronny Matthes (Gemafreie Musik - Weihnachtsmusik)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124277&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054365&streamencoding=mp31", 
+            "name": "Greensleeves - Public Domain (01)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054373&streamencoding=mp31", 
+            "name": "Morning Has Broken - Public Domain (02)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054375&streamencoding=mp31", 
+            "name": "Ungeh\u00f6rtes Klagelied - Ronny Matthes (03)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054374&streamencoding=mp31", 
+            "name": "Air  - Johann Sebastian Bach (1685-1750) (04)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054369&streamencoding=mp31", 
+            "name": "Classic Never Dies - Ronny Matthes (05)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054368&streamencoding=mp31", 
+            "name": "Tr\u00e4umerei - Robert Schumann (1810-1856) (06)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054371&streamencoding=mp31", 
+            "name": "Ave Maria  - Franz Schubert (1797-1828) (07)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054377&streamencoding=mp31", 
+            "name": "Hope - Ronny Matthes (08)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054372&streamencoding=mp31", 
+            "name": "The Last Dance - Ronny Matthes (09)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054376&streamencoding=mp31", 
+            "name": "Spring - Ronny Matthes (10)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1054370&streamencoding=mp31", 
+            "name": "Auld Lang Syne - Public Domain (11)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124277"
+}

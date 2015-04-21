@@ -1,0 +1,14 @@
+{
+    "name": "Cos'\u00e8 ", 
+    "artist": "Paesani Sound", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97318&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832288&streamencoding=mp31", 
+            "name": "Cos'\u00e8"
+        }
+    ], 
+    "release": "2011", 
+    "id": "97318"
+}

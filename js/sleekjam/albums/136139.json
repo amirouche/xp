@@ -1,0 +1,14 @@
+{
+    "name": "OFRAN", 
+    "artist": "BeesWax", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136139&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1134452&streamencoding=mp31", 
+            "name": "BeesWax -  Lady Ann (versi\u00f3n estudio)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136139"
+}

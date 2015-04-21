@@ -1,0 +1,19 @@
+{
+    "name": "Demo", 
+    "artist": "Dismal Exaltation", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82945&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710724&streamencoding=mp31", 
+            "name": "Dismal Exaltation - Burden of Sanity"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710725&streamencoding=mp31", 
+            "name": "Dismal Exaltation - Bloodthirst"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82945"
+}

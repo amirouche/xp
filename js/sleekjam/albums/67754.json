@@ -1,0 +1,54 @@
+{
+    "name": "Yshov Ya Nebom", 
+    "artist": "Viy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67754&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587666&streamencoding=mp31", 
+            "name": "Goodbye My Revolution #1 & Vidrizana Golova"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587669&streamencoding=mp31", 
+            "name": "Yshov Ya Nebom"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587687&streamencoding=mp31", 
+            "name": "Kolyskova 33"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587695&streamencoding=mp31", 
+            "name": "Troyitska Pisnia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587701&streamencoding=mp31", 
+            "name": "Serpen Dogoraye"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587724&streamencoding=mp31", 
+            "name": "Bisova Syla"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587735&streamencoding=mp31", 
+            "name": "Vyidy z Kimnaty"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587738&streamencoding=mp31", 
+            "name": "V Temnim Lisi Unochi"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=587789&streamencoding=mp31", 
+            "name": "Goodbye My Revolution#2"
+        }
+    ], 
+    "release": "2010", 
+    "id": "67754"
+}

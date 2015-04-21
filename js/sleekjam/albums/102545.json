@@ -1,0 +1,49 @@
+{
+    "name": "Lovely 8 bit", 
+    "artist": "Oleg O. Kachanko", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102545&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=873927&streamencoding=mp31", 
+            "name": "Comets"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=873928&streamencoding=mp31", 
+            "name": "Fish police"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=873929&streamencoding=mp31", 
+            "name": "If I Could Fly"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=873930&streamencoding=mp31", 
+            "name": "Across the Universe"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=873931&streamencoding=mp31", 
+            "name": "New Mario"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=873932&streamencoding=mp31", 
+            "name": "City lights"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=873933&streamencoding=mp31", 
+            "name": "Crash Bang Game"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=873934&streamencoding=mp31", 
+            "name": "Bender's dance"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102545"
+}

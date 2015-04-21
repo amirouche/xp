@@ -1,0 +1,94 @@
+{
+    "name": "Live at Fringe", 
+    "artist": "Inesperado", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75118&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647971&streamencoding=mp31", 
+            "name": "Introrruptus"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647963&streamencoding=mp31", 
+            "name": "Tortura"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647959&streamencoding=mp31", 
+            "name": "Una Noche Cualquiera"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647970&streamencoding=mp31", 
+            "name": "Chica mi tipo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647964&streamencoding=mp31", 
+            "name": "Ladr\u00f3n"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647974&streamencoding=mp31", 
+            "name": "Faltos de castigo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647961&streamencoding=mp31", 
+            "name": "Soy de oro"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647967&streamencoding=mp31", 
+            "name": "Arabescos"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647972&streamencoding=mp31", 
+            "name": "Problemas de vista"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647958&streamencoding=mp31", 
+            "name": "Calma la libertad"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647965&streamencoding=mp31", 
+            "name": "Ser un \u00c1guila"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647973&streamencoding=mp31", 
+            "name": "Genio y Figura"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647960&streamencoding=mp31", 
+            "name": "Mano Negra"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647962&streamencoding=mp31", 
+            "name": "La canci\u00f3n del sur"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647969&streamencoding=mp31", 
+            "name": "Luna Africana"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647966&streamencoding=mp31", 
+            "name": "Pez Gordo"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=647968&streamencoding=mp31", 
+            "name": "Ama Sua"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75118"
+}

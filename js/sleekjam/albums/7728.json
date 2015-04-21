@@ -1,0 +1,59 @@
+{
+    "name": "Searching for a light", 
+    "artist": "Cold fire", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7728&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83477&streamencoding=mp31", 
+            "name": "01-Tears"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83481&streamencoding=mp31", 
+            "name": "02-Decadence"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83761&streamencoding=mp31", 
+            "name": "03-Waiting for the rain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83486&streamencoding=mp31", 
+            "name": "04-The Crying orc"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83505&streamencoding=mp31", 
+            "name": "05-In silence i observe"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83488&streamencoding=mp31", 
+            "name": "06-Silence"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83762&streamencoding=mp31", 
+            "name": "07-Nervous"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83763&streamencoding=mp31", 
+            "name": "08-Grey sky"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83773&streamencoding=mp31", 
+            "name": "09-Anxiety in darkness"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=83776&streamencoding=mp31", 
+            "name": "10-Riding the thunder"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7728"
+}

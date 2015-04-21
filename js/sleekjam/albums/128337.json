@@ -1,0 +1,49 @@
+{
+    "name": "Diario Di Viaggio", 
+    "artist": "Donato Cafarelli", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128337&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1077448&streamencoding=mp31", 
+            "name": "Flight UA1461"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1077447&streamencoding=mp31", 
+            "name": "Different World"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1077452&streamencoding=mp31", 
+            "name": "Surfin' In El Tunco"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1077449&streamencoding=mp31", 
+            "name": "Fuego Latino"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1077451&streamencoding=mp31", 
+            "name": "So Close To The Sea, So Close To The Sky"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1077446&streamencoding=mp31", 
+            "name": "Little Strange Happy Place"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1077453&streamencoding=mp31", 
+            "name": "The Last Hug"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1077450&streamencoding=mp31", 
+            "name": "Back Home"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128337"
+}

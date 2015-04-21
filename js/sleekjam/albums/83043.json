@@ -1,0 +1,64 @@
+{
+    "name": "Return to Paradise", 
+    "artist": "VISIO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83043&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711418&streamencoding=mp31", 
+            "name": "Octopus_position"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711435&streamencoding=mp31", 
+            "name": "Do_not_get_me_drunk_(ne_me_cuite_pas)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711430&streamencoding=mp31", 
+            "name": "Blue_Kamasutra_I_Introduction"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711433&streamencoding=mp31", 
+            "name": "Elsasser_Opus"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711425&streamencoding=mp31", 
+            "name": "Blue_Kamasutra_II_-_ Main_Theme"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711439&streamencoding=mp31", 
+            "name": "Short_break"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711421&streamencoding=mp31", 
+            "name": "Blue_Kamasutra_III_-_Electric_End"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711409&streamencoding=mp31", 
+            "name": "Love_swing"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711392&streamencoding=mp31", 
+            "name": "Back_to_bis_Repetita"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711395&streamencoding=mp31", 
+            "name": "blue_Kamasutra (Entire)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711419&streamencoding=mp31", 
+            "name": "Double_Vision"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83043"
+}

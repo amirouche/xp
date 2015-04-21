@@ -1,0 +1,69 @@
+{
+    "name": "Kompozitsia I", 
+    "artist": "Avi Rosenfeld", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84501&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723639&streamencoding=mp31", 
+            "name": "Avi Rosenfeld - LomarEtZePashut (Say It Simply)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723636&streamencoding=mp31", 
+            "name": "Avi Rosenfeld - OhevOta (Love Her)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723641&streamencoding=mp31", 
+            "name": "Avi Rosenfeld - YeshLiSiba (I Have A Reason)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723637&streamencoding=mp31", 
+            "name": "Avi Rosenfeld - AdamMehapes (Searching Man)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723642&streamencoding=mp31", 
+            "name": "Avi Rosenfeld - Horef (Winter)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723638&streamencoding=mp31", 
+            "name": "Avi Rosenfeld - AniModeLach (I Thank You)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723644&streamencoding=mp31", 
+            "name": "- Avi Rosenfeld - ElKivunLoYadua (Unknow Direction)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723645&streamencoding=mp31", 
+            "name": "Avi Rosenfeld - YeshYamim (There are days)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723646&streamencoding=mp31", 
+            "name": "Avi Rosenfeld - KolHaderechElaich (All the way to you)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723640&streamencoding=mp31", 
+            "name": "Avi Rosenfeld - OneThingBaby"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723643&streamencoding=mp31", 
+            "name": "Avi Rosenfeld - AtKamaVeHolechet (You're leaving)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723647&streamencoding=mp31", 
+            "name": "Avi Rosenfeld - AngelsInWhite"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84501"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Mania", 
+    "artist": "Cerebral | Dementia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74114&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639032&streamencoding=mp31", 
+            "name": "Nymphomania"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639036&streamencoding=mp31", 
+            "name": "Hypomania"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639190&streamencoding=mp31", 
+            "name": "Androphonomania"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639231&streamencoding=mp31", 
+            "name": "Mania"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639232&streamencoding=mp31", 
+            "name": "Hysteria'Mania"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639286&streamencoding=mp31", 
+            "name": "Pain'Mania"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639316&streamencoding=mp31", 
+            "name": "Enosimania"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639369&streamencoding=mp31", 
+            "name": "Hydromania"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639798&streamencoding=mp31", 
+            "name": "Agromania"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74114"
+}

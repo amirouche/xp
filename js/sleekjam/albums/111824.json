@@ -1,0 +1,74 @@
+{
+    "name": "Everything Is Fine", 
+    "artist": "Fukked Up", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111824&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951088&streamencoding=mp31", 
+            "name": "Hustle To Survive"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951093&streamencoding=mp31", 
+            "name": "Love Is A Drag"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951090&streamencoding=mp31", 
+            "name": "Life Goes On"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951086&streamencoding=mp31", 
+            "name": "Wimp"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951095&streamencoding=mp31", 
+            "name": "Jealousy"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951091&streamencoding=mp31", 
+            "name": "7 Nation Army"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951087&streamencoding=mp31", 
+            "name": "Man Has Gotta Be Tough"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951097&streamencoding=mp31", 
+            "name": "What It Means To Me"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951092&streamencoding=mp31", 
+            "name": "Old-Older"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951085&streamencoding=mp31", 
+            "name": "Fallen"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951094&streamencoding=mp31", 
+            "name": "Me Asshole"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951089&streamencoding=mp31", 
+            "name": "No One"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=951096&streamencoding=mp31", 
+            "name": "Tied"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111824"
+}

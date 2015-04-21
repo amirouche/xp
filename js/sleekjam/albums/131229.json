@@ -1,0 +1,49 @@
+{
+    "name": "[EPH084] KRISTIAN FUMEI - Digital Dubs", 
+    "artist": "Ephedrina Netlabel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131229&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1099786&streamencoding=mp31", 
+            "name": "Babylon Burner"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1099787&streamencoding=mp31", 
+            "name": "Digitalizer Dub"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1099788&streamencoding=mp31", 
+            "name": "Geisha"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1099789&streamencoding=mp31", 
+            "name": "Natural Plastic"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1099790&streamencoding=mp31", 
+            "name": "Screwface"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1099791&streamencoding=mp31", 
+            "name": "So lovely"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1099792&streamencoding=mp31", 
+            "name": "U Ready"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1099793&streamencoding=mp31", 
+            "name": "25-17"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131229"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Images", 
+    "artist": "3minutetunes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112261&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954797&streamencoding=mp31", 
+            "name": "Images"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954799&streamencoding=mp31", 
+            "name": "Black and White"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954804&streamencoding=mp31", 
+            "name": "The Piano "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954801&streamencoding=mp31", 
+            "name": "Time"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954798&streamencoding=mp31", 
+            "name": "Deep Waters"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954796&streamencoding=mp31", 
+            "name": "StarGazers"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954800&streamencoding=mp31", 
+            "name": "Closeup "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954802&streamencoding=mp31", 
+            "name": "Apex"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954803&streamencoding=mp31", 
+            "name": "Those Eyes"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954805&streamencoding=mp31", 
+            "name": "impact"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112261"
+}

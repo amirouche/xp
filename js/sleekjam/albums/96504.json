@@ -1,0 +1,69 @@
+{
+    "name": "Beta Male", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96504&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825334&streamencoding=mp31", 
+            "name": "drunken deputy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825337&streamencoding=mp31", 
+            "name": "something special (ft songboy3)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825332&streamencoding=mp31", 
+            "name": "everything i ever want (ft sassygal)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825339&streamencoding=mp31", 
+            "name": "pieces"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825333&streamencoding=mp31", 
+            "name": "stockybird"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825328&streamencoding=mp31", 
+            "name": "fadin' things (ft admiral bob)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825335&streamencoding=mp31", 
+            "name": "old rebel's heart"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825330&streamencoding=mp31", 
+            "name": "the key (ft snowflake)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825336&streamencoding=mp31", 
+            "name": "surround sound"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825331&streamencoding=mp31", 
+            "name": "the box that crippled a nation"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825329&streamencoding=mp31", 
+            "name": "pale intellect (ft coruscade)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=825338&streamencoding=mp31", 
+            "name": "two halves make a whole"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96504"
+}

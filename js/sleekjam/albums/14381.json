@@ -1,0 +1,29 @@
+{
+    "name": "The Phoenix", 
+    "artist": "Midnight Madness", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14381&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112496&streamencoding=mp31", 
+            "name": "The Phoenix"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112610&streamencoding=mp31", 
+            "name": "Secret of Life"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112611&streamencoding=mp31", 
+            "name": "Proud To Be Alive"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=112612&streamencoding=mp31", 
+            "name": "G.M.B. (Gimme More Beer)"
+        }
+    ], 
+    "release": "2007", 
+    "id": "14381"
+}

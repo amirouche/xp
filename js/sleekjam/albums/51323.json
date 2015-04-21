@@ -1,0 +1,64 @@
+{
+    "name": "Les Cowboys et les Indiens", 
+    "artist": "Oursvince", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51323&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=417214&streamencoding=mp31", 
+            "name": "Spanish Samba"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=417215&streamencoding=mp31", 
+            "name": "Les Cowboys et les Indiens"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=417216&streamencoding=mp31", 
+            "name": "Espoir Indian"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=417217&streamencoding=mp31", 
+            "name": "You're My One n Only (instrumental)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=417218&streamencoding=mp31", 
+            "name": "Indian"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=417219&streamencoding=mp31", 
+            "name": "Jumping"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=417220&streamencoding=mp31", 
+            "name": "Alone, Terrified and Dark (instrumental)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=417221&streamencoding=mp31", 
+            "name": "DADDAD (instrumental)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=417222&streamencoding=mp31", 
+            "name": "Spanish Samba 2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=417223&streamencoding=mp31", 
+            "name": "On the Road"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=417224&streamencoding=mp31", 
+            "name": "Slide Cowboy"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51323"
+}

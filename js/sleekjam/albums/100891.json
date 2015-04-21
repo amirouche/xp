@@ -1,0 +1,39 @@
+{
+    "name": "Rotating heart dance", 
+    "artist": "Serban Mircea-Constantin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100891&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861558&streamencoding=mp31", 
+            "name": "Prologue - Heart's Center 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861555&streamencoding=mp31", 
+            "name": "Intro and Rhythm"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861554&streamencoding=mp31", 
+            "name": "Get Up and Dance !"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861559&streamencoding=mp31", 
+            "name": "Heart's Center 2"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861556&streamencoding=mp31", 
+            "name": "Zikr"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861557&streamencoding=mp31", 
+            "name": "Finale - Love Rotating"
+        }
+    ], 
+    "release": "2011", 
+    "id": "100891"
+}

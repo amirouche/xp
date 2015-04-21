@@ -1,0 +1,24 @@
+{
+    "name": "\u0424\u0435\u0441\u0442\u0435\u0432\u0430\u043b\u044c2000: TOPs", 
+    "artist": "\u041a\u0438\u0441\u043a\u0430", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120749&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026964&streamencoding=mp31", 
+            "name": "\u0411\u0435-\u0431\u0435 Original"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026963&streamencoding=mp31", 
+            "name": "\u0411\u0430\u043d\u044f\u041b\u044f\u043f\u044b Stereo"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026965&streamencoding=mp31", 
+            "name": "\u0411\u0435-\u0431\u0435 Acoustic"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120749"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Psycho: Delusion", 
+    "artist": "Moray Eel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91595&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781524&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781529&streamencoding=mp31", 
+            "name": "So Good To Die"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781534&streamencoding=mp31", 
+            "name": "The Cross And The Raven"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781527&streamencoding=mp31", 
+            "name": "Wet Dream"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781535&streamencoding=mp31", 
+            "name": "Secrert Desire (Fucking Christ)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781528&streamencoding=mp31", 
+            "name": "Material"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781537&streamencoding=mp31", 
+            "name": "Broken"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781536&streamencoding=mp31", 
+            "name": "Boo"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781532&streamencoding=mp31", 
+            "name": "Oncoming War"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781526&streamencoding=mp31", 
+            "name": "Desert King"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781531&streamencoding=mp31", 
+            "name": "Hate Me"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781525&streamencoding=mp31", 
+            "name": "Pervert"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781530&streamencoding=mp31", 
+            "name": "Accuser"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=781533&streamencoding=mp31", 
+            "name": "Forbidden Waters"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91595"
+}

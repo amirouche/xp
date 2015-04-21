@@ -1,0 +1,39 @@
+{
+    "name": "ROCK N ROLL CHRISTMAS", 
+    "artist": "DOC PILOT", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55274&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464322&streamencoding=mp31", 
+            "name": "CHRISTMAS POP"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464323&streamencoding=mp31", 
+            "name": "BETON CHRISTMAS"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464324&streamencoding=mp31", 
+            "name": "ROCK N'ROLL CHRISTMAS"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464334&streamencoding=mp31", 
+            "name": "CHRISTMAS BONG"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464492&streamencoding=mp31", 
+            "name": "EROTIXMAS"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464336&streamencoding=mp31", 
+            "name": "FUZZY CHRISTMAS"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55274"
+}

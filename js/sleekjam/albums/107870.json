@@ -1,0 +1,14 @@
+{
+    "name": "Folk", 
+    "artist": "Akashic Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107870&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911615&streamencoding=mp31", 
+            "name": "French Musette Accordion"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107870"
+}

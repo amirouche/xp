@@ -1,0 +1,14 @@
+{
+    "name": "Tiniest blues album ever!", 
+    "artist": "phileas", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59561&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508730&streamencoding=mp31", 
+            "name": "Bluesy thing"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59561"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "The Black Chamber", 
+    "artist": "Vrademargk", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129087&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083723&streamencoding=mp31", 
+            "name": "Vrademargk - Into The Heart Of Death"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083761&streamencoding=mp31", 
+            "name": "Vrademargk - Undesired Funeral"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083760&streamencoding=mp31", 
+            "name": "Vrademargk - Fear Itself"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083722&streamencoding=mp31", 
+            "name": "Vrademargk - Anima Invictus"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083728&streamencoding=mp31", 
+            "name": "Vrademargk - Taste The Sin"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083724&streamencoding=mp31", 
+            "name": "Vrademargk - M\u00e9s Enll\u00e0 de l'Abisme"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083725&streamencoding=mp31", 
+            "name": "Vrademargk - The Empathic Misanthrope"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083726&streamencoding=mp31", 
+            "name": "Vrademargk - The Black Chamber"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083727&streamencoding=mp31", 
+            "name": "Vrademargk - Deathcell Migration"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129087"
+}

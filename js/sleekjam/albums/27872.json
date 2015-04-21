@@ -1,0 +1,84 @@
+{
+    "name": "Crysalide", 
+    "artist": "Mister M", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27872&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184401&streamencoding=mp31", 
+            "name": "M is Back"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184418&streamencoding=mp31", 
+            "name": "D\u00e9sirs"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186237&streamencoding=mp31", 
+            "name": "Fy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186236&streamencoding=mp31", 
+            "name": "Frustrar"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184416&streamencoding=mp31", 
+            "name": "BotoxRefresh223"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184419&streamencoding=mp31", 
+            "name": "Devil's March"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184417&streamencoding=mp31", 
+            "name": "Crysalide"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184420&streamencoding=mp31", 
+            "name": "Floating Cloud"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184409&streamencoding=mp31", 
+            "name": "No time only one moment"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186240&streamencoding=mp31", 
+            "name": "Snapler"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186235&streamencoding=mp31", 
+            "name": "Flat"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=184402&streamencoding=mp31", 
+            "name": "Sea"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186238&streamencoding=mp31", 
+            "name": "Under the bridge"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186239&streamencoding=mp31", 
+            "name": "Don't care"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186234&streamencoding=mp31", 
+            "name": "Butterfly"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27872"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "ACORDA PRA VIVER", 
+    "artist": "Greco Cruz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21410&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148458&streamencoding=mp31", 
+            "name": "Acorda Pra Viver"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148462&streamencoding=mp31", 
+            "name": "S\u00f3 Vejo Voc\u00ea"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148464&streamencoding=mp31", 
+            "name": "S.O.S. \u00c0 Na\u00e7\u00e3o"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148469&streamencoding=mp31", 
+            "name": "Recome\u00e7os"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=148475&streamencoding=mp31", 
+            "name": "Meus Sonhos"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149298&streamencoding=mp31", 
+            "name": "Chuva de Ver\u00e3o"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149345&streamencoding=mp31", 
+            "name": "Ajustamento Social"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149361&streamencoding=mp31", 
+            "name": "Mandala do Amor"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149393&streamencoding=mp31", 
+            "name": "Um Romeu"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149419&streamencoding=mp31", 
+            "name": "Vem Ver o Sol"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149430&streamencoding=mp31", 
+            "name": "Demora, n\u00e3o"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21410"
+}

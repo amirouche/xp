@@ -1,0 +1,39 @@
+{
+    "name": "Living in the Maze", 
+    "artist": "Morris Masters", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86118&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736908&streamencoding=mp31", 
+            "name": "Welcome to the Maze"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736905&streamencoding=mp31", 
+            "name": "Living in the Maze"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736909&streamencoding=mp31", 
+            "name": "Book of Love"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736906&streamencoding=mp31", 
+            "name": "Pain Killing Pain"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736907&streamencoding=mp31", 
+            "name": "Long Road Before Me"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=736904&streamencoding=mp31", 
+            "name": "Exit the Maze"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86118"
+}

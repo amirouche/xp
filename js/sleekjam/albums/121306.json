@@ -1,0 +1,14 @@
+{
+    "name": "Shout Loud (Single)", 
+    "artist": "SG", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121306&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1031138&streamencoding=mp31", 
+            "name": "SG - Shout Loud (feat. FuLagie) (Radio Edit)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121306"
+}

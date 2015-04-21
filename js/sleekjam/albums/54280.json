@@ -1,0 +1,29 @@
+{
+    "name": "System Falls", 
+    "artist": "Marcus Rasseli", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54280&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453471&streamencoding=mp31", 
+            "name": "System Falls"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453464&streamencoding=mp31", 
+            "name": "Dark Light"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453467&streamencoding=mp31", 
+            "name": "Peace's Song"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=453470&streamencoding=mp31", 
+            "name": "Contraponto"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54280"
+}

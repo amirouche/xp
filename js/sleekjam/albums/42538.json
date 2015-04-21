@@ -1,0 +1,84 @@
+{
+    "name": "Hara Kiri", 
+    "artist": "Mantra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42538&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314502&streamencoding=mp31", 
+            "name": "Starfish Girls and Seahorse Whores"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314499&streamencoding=mp31", 
+            "name": "Her Flowers Nectar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314504&streamencoding=mp31", 
+            "name": "Mexican Disco"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314498&streamencoding=mp31", 
+            "name": "Telepathic Rape"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314500&streamencoding=mp31", 
+            "name": "Dick"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314495&streamencoding=mp31", 
+            "name": "Shield"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314496&streamencoding=mp31", 
+            "name": "Hara Kiri"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314497&streamencoding=mp31", 
+            "name": "Medusa"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314501&streamencoding=mp31", 
+            "name": "Shes Not Human"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314506&streamencoding=mp31", 
+            "name": "Spectre"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314505&streamencoding=mp31", 
+            "name": "Clean"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314494&streamencoding=mp31", 
+            "name": "Lotus"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314503&streamencoding=mp31", 
+            "name": "Cream Filled Atmosphere"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314493&streamencoding=mp31", 
+            "name": "PsychoTropics"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314507&streamencoding=mp31", 
+            "name": "Nosferatu (live)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42538"
+}

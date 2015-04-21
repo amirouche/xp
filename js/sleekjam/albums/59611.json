@@ -1,0 +1,59 @@
+{
+    "name": "Urtzi Azkue", 
+    "artist": "Urtzi Azkue", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59611&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508901&streamencoding=mp31", 
+            "name": "Aakesh"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508903&streamencoding=mp31", 
+            "name": "Tell Me (feat Khaoula Bouchkhi)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508904&streamencoding=mp31", 
+            "name": "De Que Manera"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508905&streamencoding=mp31", 
+            "name": "Last Train"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508907&streamencoding=mp31", 
+            "name": "Beste Bat"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=508977&streamencoding=mp31", 
+            "name": "Atoan"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509026&streamencoding=mp31", 
+            "name": "Bueltako Bidea"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509024&streamencoding=mp31", 
+            "name": "Cold Drink"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509006&streamencoding=mp31", 
+            "name": "Bildur Barik (feat Itziar Castrillo)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=509218&streamencoding=mp31", 
+            "name": "Second Round"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59611"
+}

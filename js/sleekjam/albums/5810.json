@@ -1,0 +1,39 @@
+{
+    "name": "my second album", 
+    "artist": "St Adam", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5810&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=48044&streamencoding=mp31", 
+            "name": "Autumn tales"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=48045&streamencoding=mp31", 
+            "name": "Old Man's Funk"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=48046&streamencoding=mp31", 
+            "name": "Sunrise"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=48047&streamencoding=mp31", 
+            "name": "Night At Ibiza"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=48048&streamencoding=mp31", 
+            "name": "Alone"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=48049&streamencoding=mp31", 
+            "name": "Child-Funk"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5810"
+}

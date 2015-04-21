@@ -1,0 +1,64 @@
+{
+    "name": "Fool's Paradise", 
+    "artist": "Spinefish", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30986&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209911&streamencoding=mp31", 
+            "name": "Intangible"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210012&streamencoding=mp31", 
+            "name": "Guardian angel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210083&streamencoding=mp31", 
+            "name": "More than..."
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210118&streamencoding=mp31", 
+            "name": "Eyes of grief"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210127&streamencoding=mp31", 
+            "name": "Shattered 21"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209392&streamencoding=mp31", 
+            "name": "Daydream diary (original)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209410&streamencoding=mp31", 
+            "name": "Daydream diary (ambient)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209416&streamencoding=mp31", 
+            "name": "Embrace me"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209426&streamencoding=mp31", 
+            "name": "Aeons"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209461&streamencoding=mp31", 
+            "name": "My humble tyranny"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209462&streamencoding=mp31", 
+            "name": "Python analog"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30986"
+}

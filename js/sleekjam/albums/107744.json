@@ -1,0 +1,64 @@
+{
+    "name": "Donne", 
+    "artist": "Giovanni Balsamo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107744&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910635&streamencoding=mp31", 
+            "name": "Dancing Turtle blues"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910640&streamencoding=mp31", 
+            "name": "Pina"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910634&streamencoding=mp31", 
+            "name": "Chiara"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910637&streamencoding=mp31", 
+            "name": "Lila"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910636&streamencoding=mp31", 
+            "name": "Giulia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910638&streamencoding=mp31", 
+            "name": "Miriam"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910639&streamencoding=mp31", 
+            "name": "Olga"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910641&streamencoding=mp31", 
+            "name": "Rita"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910642&streamencoding=mp31", 
+            "name": "Sara"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910643&streamencoding=mp31", 
+            "name": "Silvia"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=910627&streamencoding=mp31", 
+            "name": "Blue butterfly"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107744"
+}

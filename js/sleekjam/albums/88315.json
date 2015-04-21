@@ -1,0 +1,64 @@
+{
+    "name": "Musica para mis oidos", 
+    "artist": "Oscar Vago", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88315&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755333&streamencoding=mp31", 
+            "name": "catorce"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755332&streamencoding=mp31", 
+            "name": "dos"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755327&streamencoding=mp31", 
+            "name": "uno"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755328&streamencoding=mp31", 
+            "name": "cuatro"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755329&streamencoding=mp31", 
+            "name": "cinco"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755334&streamencoding=mp31", 
+            "name": "ocho"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755330&streamencoding=mp31", 
+            "name": "tres"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755336&streamencoding=mp31", 
+            "name": "seis"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755331&streamencoding=mp31", 
+            "name": "siete"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755337&streamencoding=mp31", 
+            "name": "trece"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=755335&streamencoding=mp31", 
+            "name": "nueve"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88315"
+}

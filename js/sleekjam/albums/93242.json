@@ -1,0 +1,34 @@
+{
+    "name": "Troubadour", 
+    "artist": "Tek E7", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93242&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794702&streamencoding=mp31", 
+            "name": "Quand les chats sont gris (Feat Viou)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794701&streamencoding=mp31", 
+            "name": "KTM Troubadour"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794745&streamencoding=mp31", 
+            "name": "Gangster"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794698&streamencoding=mp31", 
+            "name": "How you look sexy so"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=794700&streamencoding=mp31", 
+            "name": "Hope and Pray"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93242"
+}

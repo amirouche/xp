@@ -1,0 +1,54 @@
+{
+    "name": "Blue Rondo (2007)", 
+    "artist": "Blue Rondo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53472&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=442842&streamencoding=mp31", 
+            "name": "Puertas del Delirio"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=442880&streamencoding=mp31", 
+            "name": "Menor"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=442966&streamencoding=mp31", 
+            "name": "Posguerra"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=443391&streamencoding=mp31", 
+            "name": "Hertzio 04"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=443458&streamencoding=mp31", 
+            "name": "Tu"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=443412&streamencoding=mp31", 
+            "name": "4 cuerdas"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=443422&streamencoding=mp31", 
+            "name": "Arabesco"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=443425&streamencoding=mp31", 
+            "name": "Sutra Dharma"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=443446&streamencoding=mp31", 
+            "name": "Shakti"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53472"
+}

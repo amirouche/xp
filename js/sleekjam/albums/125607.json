@@ -1,0 +1,64 @@
+{
+    "name": "[EPH070] MAURO DONATI - \"No Genre\" Experience", 
+    "artist": "Ephedrina Netlabel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125607&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063484&streamencoding=mp31", 
+            "name": "MAURO DONATI - Esperimento Cognitivo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063485&streamencoding=mp31", 
+            "name": "MAURO DONATI - Acilia Ghetto Funk"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063486&streamencoding=mp31", 
+            "name": "MAURO DONATI - Climbing Acid"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063487&streamencoding=mp31", 
+            "name": "MAURO DONATI - Sincromatico"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063488&streamencoding=mp31", 
+            "name": "MAURO DONATI - I Believe in Acid"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063489&streamencoding=mp31", 
+            "name": "MAURO DONATI - Incomprensione"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063490&streamencoding=mp31", 
+            "name": "MAURO DONATI - Infected tomatoes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063491&streamencoding=mp31", 
+            "name": "MAURO DONATI - Nuvoloso"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063492&streamencoding=mp31", 
+            "name": "MAURO DONATI - Radioactive Ballad"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063493&streamencoding=mp31", 
+            "name": "MAURO DONATI - Ramis"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1063494&streamencoding=mp31", 
+            "name": "MAURO DONATI - Redon Danza Ciclica"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125607"
+}

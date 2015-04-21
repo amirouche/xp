@@ -1,0 +1,74 @@
+{
+    "name": "On The Run", 
+    "artist": "Sound Empire Project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63131&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541460&streamencoding=mp31", 
+            "name": "Angel On My Shoulder"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541461&streamencoding=mp31", 
+            "name": "Atlantis"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541469&streamencoding=mp31", 
+            "name": "On The Run"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541464&streamencoding=mp31", 
+            "name": "Don't Say Good Bye"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541467&streamencoding=mp31", 
+            "name": "Mystic Journey"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541463&streamencoding=mp31", 
+            "name": "Castle In The Sky"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541470&streamencoding=mp31", 
+            "name": "One Step Up"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541471&streamencoding=mp31", 
+            "name": "Prayer"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541473&streamencoding=mp31", 
+            "name": "Stone On The Road"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541475&streamencoding=mp31", 
+            "name": "Stranger"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541482&streamencoding=mp31", 
+            "name": "Time To Fly"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541465&streamencoding=mp31", 
+            "name": "Field Of Childhood"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=541481&streamencoding=mp31", 
+            "name": "The End Of Show"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63131"
+}

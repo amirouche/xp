@@ -1,0 +1,44 @@
+{
+    "name": "Eurodance Evolution", 
+    "artist": "LionDance", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44841&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338667&streamencoding=mp31", 
+            "name": "Eurodance Evolution - Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338679&streamencoding=mp31", 
+            "name": "Eurodance Evolution - You"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338833&streamencoding=mp31", 
+            "name": "Eurodance Evolution - Wonderfull dancing"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338846&streamencoding=mp31", 
+            "name": "Eurodance Evolution - Sequence"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338884&streamencoding=mp31", 
+            "name": "Eurodance Evolution - Wonder"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338898&streamencoding=mp31", 
+            "name": "Eurodance Evolution - Zeroes to Heroes"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338943&streamencoding=mp31", 
+            "name": "Eurodance Evolution - Beat is comming"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44841"
+}

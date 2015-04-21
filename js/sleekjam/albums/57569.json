@@ -1,0 +1,24 @@
+{
+    "name": "Pan Spherics - Demo", 
+    "artist": "Pan Spherics", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57569&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491139&streamencoding=mp31", 
+            "name": "Satanize Me!"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491165&streamencoding=mp31", 
+            "name": "Coma"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491197&streamencoding=mp31", 
+            "name": "Mount Meru"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57569"
+}

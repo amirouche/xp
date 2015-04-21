@@ -1,0 +1,39 @@
+{
+    "name": "Extra Vol Social ", 
+    "artist": "wolf5dc", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83289&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713284&streamencoding=mp31", 
+            "name": "Bent el3assma-wolfdc"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713285&streamencoding=mp31", 
+            "name": "la pression agression-wolf5dc"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713286&streamencoding=mp31", 
+            "name": "love ragga style-wolf5dc"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713287&streamencoding=mp31", 
+            "name": "Mirroir-wolf5dc"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713288&streamencoding=mp31", 
+            "name": "systeme cage-wolf5dc"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713289&streamencoding=mp31", 
+            "name": "dc-5chneider-wolf5dc"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83289"
+}

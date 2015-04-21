@@ -1,0 +1,29 @@
+{
+    "name": "look out", 
+    "artist": "Krzysztof Przychodzki", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83648&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=717031&streamencoding=mp31", 
+            "name": "crunch"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716963&streamencoding=mp31", 
+            "name": "one"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716984&streamencoding=mp31", 
+            "name": "punk"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=716986&streamencoding=mp31", 
+            "name": "talize"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83648"
+}

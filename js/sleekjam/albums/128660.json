@@ -1,0 +1,49 @@
+{
+    "name": "Latitud Altitud I", 
+    "artist": "Juan Manuel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128660&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080175&streamencoding=mp31", 
+            "name": "La Espina"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080176&streamencoding=mp31", 
+            "name": "Cortezas de hidromiel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080177&streamencoding=mp31", 
+            "name": "Dunalunar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080178&streamencoding=mp31", 
+            "name": "Mariana "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080179&streamencoding=mp31", 
+            "name": "Mas ac\u00e1"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080180&streamencoding=mp31", 
+            "name": "Repercusiones del desierto I"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080181&streamencoding=mp31", 
+            "name": "Morphina"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1080182&streamencoding=mp31", 
+            "name": "Misterioso encuentro en la monta\u00f1a "
+        }
+    ], 
+    "release": "2013", 
+    "id": "128660"
+}

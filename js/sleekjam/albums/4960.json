@@ -1,0 +1,49 @@
+{
+    "name": "Entdeckungen", 
+    "artist": "Melophon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4960&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=40299&streamencoding=mp31", 
+            "name": "Wer wei\u00df"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=40300&streamencoding=mp31", 
+            "name": "M\u00fchsames Blatt"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=40301&streamencoding=mp31", 
+            "name": "Wellenbrecher"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=40302&streamencoding=mp31", 
+            "name": "Mr. Ponty"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=40303&streamencoding=mp31", 
+            "name": "Ianus W\u00fcstenritt"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=40304&streamencoding=mp31", 
+            "name": "Einsame Verfolger"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=40305&streamencoding=mp31", 
+            "name": "Falsche Nummer"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=40306&streamencoding=mp31", 
+            "name": "Fehlschnitt"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4960"
+}

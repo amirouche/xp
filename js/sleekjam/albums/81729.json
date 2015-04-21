@@ -1,0 +1,64 @@
+{
+    "name": "Starfire", 
+    "artist": "Brenda Clews", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81729&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700882&streamencoding=mp31", 
+            "name": "Disappearing"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700880&streamencoding=mp31", 
+            "name": "What Would I Write If I Could Write"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700886&streamencoding=mp31", 
+            "name": "Drumbeat"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700881&streamencoding=mp31", 
+            "name": "Glint"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700887&streamencoding=mp31", 
+            "name": "Hieroglyphic of Purple Lotuses"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700883&streamencoding=mp31", 
+            "name": "Starfire in the Night"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700877&streamencoding=mp31", 
+            "name": "What Is Underground Is What Holds Us"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700884&streamencoding=mp31", 
+            "name": "Salt of the Sea"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700878&streamencoding=mp31", 
+            "name": "My Body Is A Word"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700885&streamencoding=mp31", 
+            "name": "Veils To Clothe Venus"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=700879&streamencoding=mp31", 
+            "name": "Ink Ocean"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81729"
+}

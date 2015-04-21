@@ -1,0 +1,14 @@
+{
+    "name": "Diciembre 2012", 
+    "artist": "Adri\u00e1n Alvarado Ram\u00edrez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116739&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=992345&streamencoding=mp31", 
+            "name": "diciembre2012"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116739"
+}

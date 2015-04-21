@@ -1,0 +1,59 @@
+{
+    "name": "Dagda beltza", 
+    "artist": "Deiedra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97823&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=835832&streamencoding=mp31", 
+            "name": "Folk de la Frontera"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=835855&streamencoding=mp31", 
+            "name": "Fuego de Oscos"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=835915&streamencoding=mp31", 
+            "name": "Dagda Beltza"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=835922&streamencoding=mp31", 
+            "name": "El Extra\u00f1o"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=835923&streamencoding=mp31", 
+            "name": "Templarios"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=835924&streamencoding=mp31", 
+            "name": "Llover\u00e1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=835925&streamencoding=mp31", 
+            "name": "Guiski Botila Bat"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=835926&streamencoding=mp31", 
+            "name": "Pesadilla Entre Dulzainas"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=835927&streamencoding=mp31", 
+            "name": "Woody Guthrie"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=835928&streamencoding=mp31", 
+            "name": "Desierto Folk de la Frontera 2"
+        }
+    ], 
+    "release": "2011", 
+    "id": "97823"
+}

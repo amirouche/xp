@@ -1,0 +1,14 @@
+{
+    "name": "New Orlean Sunset Club (single)", 
+    "artist": "koriza", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31243&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=211728&streamencoding=mp31", 
+            "name": "KORIZA -- New Orlean Sunset Club (Bossa Nova et Eb) - single version"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31243"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Faciale disection", 
+    "artist": "Crap'lo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131364&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1100840&streamencoding=mp31", 
+            "name": "pri encul\u00e9"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1100845&streamencoding=mp31", 
+            "name": "belcro"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1100828&streamencoding=mp31", 
+            "name": "test"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1100844&streamencoding=mp31", 
+            "name": "c com sa ksa spass'"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1100843&streamencoding=mp31", 
+            "name": "step sauvage"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1100842&streamencoding=mp31", 
+            "name": "low funk"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1100841&streamencoding=mp31", 
+            "name": "petawatt"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1100827&streamencoding=mp31", 
+            "name": "dispaf"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1100846&streamencoding=mp31", 
+            "name": "\u00e0-la-rache 169bpm"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1100848&streamencoding=mp31", 
+            "name": "je t' encule"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1100847&streamencoding=mp31", 
+            "name": "acid drop"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131364"
+}

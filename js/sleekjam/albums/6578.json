@@ -1,0 +1,19 @@
+{
+    "name": "Pre-Aublin", 
+    "artist": "Isidro Aublin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6578&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=74126&streamencoding=mp31", 
+            "name": "Hoy, que digamos..."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=74127&streamencoding=mp31", 
+            "name": "El Escorpi\u00f3n"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6578"
+}

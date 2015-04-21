@@ -1,0 +1,74 @@
+{
+    "name": "Live Bilbo Rock -CD2- 13/01/06", 
+    "artist": "El Paso Killers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30113&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202619&streamencoding=mp31", 
+            "name": "Bastardos"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202620&streamencoding=mp31", 
+            "name": "Get Ready"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202622&streamencoding=mp31", 
+            "name": "Invasion of lies"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202623&streamencoding=mp31", 
+            "name": "Surfin'hell"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202624&streamencoding=mp31", 
+            "name": "Guitar solo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202625&streamencoding=mp31", 
+            "name": "Fast boogie"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202626&streamencoding=mp31", 
+            "name": "San Antonio strip show"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202627&streamencoding=mp31", 
+            "name": "Easy"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202628&streamencoding=mp31", 
+            "name": "Die with me in hell"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202629&streamencoding=mp31", 
+            "name": "One to die for"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202630&streamencoding=mp31", 
+            "name": "Love is all around"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202631&streamencoding=mp31", 
+            "name": "100.000 wattios"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202632&streamencoding=mp31", 
+            "name": "Ciudad Juarez is burning"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30113"
+}

@@ -1,0 +1,109 @@
+{
+    "name": "Walking On The Moulk", 
+    "artist": "Moulk", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72815&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628797&streamencoding=mp31", 
+            "name": "Intro Du Xion"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628793&streamencoding=mp31", 
+            "name": "Le Petit Chaton Mignon "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628787&streamencoding=mp31", 
+            "name": "Je Suis Moche (Mais Je M'en Fous)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628784&streamencoding=mp31", 
+            "name": "La Gripalala"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628785&streamencoding=mp31", 
+            "name": "Happy Farmer From The Other Side Of The Universe"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628786&streamencoding=mp31", 
+            "name": "Mache Et Ris "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628781&streamencoding=mp31", 
+            "name": "The Survivors"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628788&streamencoding=mp31", 
+            "name": "C'est Vraiment Trop Bien L'Ecole [Remix Metal]"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628789&streamencoding=mp31", 
+            "name": "Je Suis Fatigu\u00e9"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628792&streamencoding=mp31", 
+            "name": "Napoleon Is Dead"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628790&streamencoding=mp31", 
+            "name": "Let's (Po)go ! [Instrumental]"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628801&streamencoding=mp31", 
+            "name": "Feu A Volonte Sur Cupidon [Feat. Thom']"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628800&streamencoding=mp31", 
+            "name": "Pyjaman (Le Nouveau Super-H\u00e9ros)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628794&streamencoding=mp31", 
+            "name": "Sans Papier"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628783&streamencoding=mp31", 
+            "name": "Ca Devrait Plaire A Moli\u00e8re"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628795&streamencoding=mp31", 
+            "name": "Fail Girl"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628798&streamencoding=mp31", 
+            "name": "Albert le Camembert"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628796&streamencoding=mp31", 
+            "name": "Walking On The Moulk [Instrumental]"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628799&streamencoding=mp31", 
+            "name": "Pat\u00e9 De Volaille"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=628791&streamencoding=mp31", 
+            "name": "Il Etait Une Voix"
+        }
+    ], 
+    "release": "2010", 
+    "id": "72815"
+}

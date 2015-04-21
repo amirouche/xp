@@ -1,0 +1,59 @@
+{
+    "name": "La sed del fuego (CD)", 
+    "artist": "La Banda del Abuelo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125483&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062754&streamencoding=mp31", 
+            "name": "CULO DE LUCIERNAGA"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062755&streamencoding=mp31", 
+            "name": "LA SED DEL FUEGO"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062756&streamencoding=mp31", 
+            "name": "SUA"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062757&streamencoding=mp31", 
+            "name": "BASURDE BAT DARAMAGU"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062758&streamencoding=mp31", 
+            "name": "ZUZEN BIDE OKERRETIK"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062759&streamencoding=mp31", 
+            "name": "GILTZAPEKO BIHOTZA"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062760&streamencoding=mp31", 
+            "name": "HERMANO ARBOL"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062761&streamencoding=mp31", 
+            "name": "DEMOCRACIA FAR WEST"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062771&streamencoding=mp31", 
+            "name": "BULL\u00b4S SKULL"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062778&streamencoding=mp31", 
+            "name": "REQUIEM FOR BELLE STAR"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125483"
+}

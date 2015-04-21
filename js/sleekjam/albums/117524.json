@@ -1,0 +1,14 @@
+{
+    "name": "Walkin' like a clown", 
+    "artist": "Francy Nassuato", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117524&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=999017&streamencoding=mp31", 
+            "name": "Walkin' like a clown"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117524"
+}

@@ -1,0 +1,103 @@
+{
+    "albums": [
+        {
+            "release": "2014", 
+            "artist": "Koke N\u00fa\u00f1ez G\u00f3mez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135005&imagesize=100", 
+            "id": "135005", 
+            "name": "Epic Trailer Music"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Koke N\u00fa\u00f1ez G\u00f3mez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108882&imagesize=100", 
+            "id": "108882", 
+            "name": "Fons Vitae"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Koke N\u00fa\u00f1ez G\u00f3mez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125746&imagesize=100", 
+            "id": "125746", 
+            "name": "Broken Dream (SINGLE)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Koke N\u00fa\u00f1ez G\u00f3mez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109523&imagesize=100", 
+            "id": "109523", 
+            "name": "Fantasy Tracks"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Koke N\u00fa\u00f1ez G\u00f3mez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109525&imagesize=100", 
+            "id": "109525", 
+            "name": "Some tracks"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Koke N\u00fa\u00f1ez G\u00f3mez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114044&imagesize=100", 
+            "id": "114044", 
+            "name": "Immortals (SINGLE)"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Micha\u0142 Ja\u0142ochowski", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132983&imagesize=100", 
+            "id": "132983", 
+            "name": "Bright Orchestral Music"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "TitanSlayer", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133872&imagesize=100", 
+            "id": "133872", 
+            "name": "Singularity [Jamendo Edition]"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "TitanSlayer", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136447&imagesize=100", 
+            "id": "136447", 
+            "name": "RazorFace: Act I"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "TitanSlayer", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134630&imagesize=100", 
+            "id": "134630", 
+            "name": "Titanium "
+        }, 
+        {
+            "release": "2014", 
+            "artist": "TitanSlayer", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132028&imagesize=100", 
+            "id": "132028", 
+            "name": "Singularity: Chapter I"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "gutefrage", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50320&imagesize=100", 
+            "id": "50320", 
+            "name": "Weihnacht in 15 min"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Iliakulakow", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128916&imagesize=100", 
+            "id": "128916", 
+            "name": "Real Epic Orchestra"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Iliakulakow", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129959&imagesize=100", 
+            "id": "129959", 
+            "name": "Epic trailer music"
+        }
+    ], 
+    "name": "Trailer"
+}

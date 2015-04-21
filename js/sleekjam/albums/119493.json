@@ -1,0 +1,79 @@
+{
+    "name": "Drained heart", 
+    "artist": "Vermillia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119493&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014812&streamencoding=mp31", 
+            "name": "everyday"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014816&streamencoding=mp31", 
+            "name": "judge me"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014811&streamencoding=mp31", 
+            "name": "drained heart"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014819&streamencoding=mp31", 
+            "name": "rat in a cage"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014813&streamencoding=mp31", 
+            "name": "feels so wasted"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014818&streamencoding=mp31", 
+            "name": "life is not fair"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014817&streamencoding=mp31", 
+            "name": "just another vengeance"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014815&streamencoding=mp31", 
+            "name": "hate and hated"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014809&streamencoding=mp31", 
+            "name": "worthless whimper"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014821&streamencoding=mp31", 
+            "name": "rotten leaves"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014808&streamencoding=mp31", 
+            "name": "unacceptable"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014820&streamencoding=mp31", 
+            "name": "grave of past"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014814&streamencoding=mp31", 
+            "name": "13 february"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014810&streamencoding=mp31", 
+            "name": "under the frozen rain waiting for a rainbow"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119493"
+}

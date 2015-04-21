@@ -1,0 +1,39 @@
+{
+    "name": "Fantaisie en couac Majeur", 
+    "artist": "Anna C", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31558&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213903&streamencoding=mp31", 
+            "name": "mes mots d'amour"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213905&streamencoding=mp31", 
+            "name": "et mon boa !"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213904&streamencoding=mp31", 
+            "name": "souviens-toi "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213906&streamencoding=mp31", 
+            "name": "sacr\u00e9 farceur (duo comique)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213908&streamencoding=mp31", 
+            "name": "la pri\u00e8re"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=213907&streamencoding=mp31", 
+            "name": "je vais te dire mon secret (chanson pour le choeur des enfants \u00e0 deux voix)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31558"
+}

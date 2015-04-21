@@ -1,0 +1,29 @@
+{
+    "name": "Melancholy of a Middle Class Nobody", 
+    "artist": "Jim Kook", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117743&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000688&streamencoding=mp31", 
+            "name": "Stoopid Bouncy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000690&streamencoding=mp31", 
+            "name": "Don't be Shy (Ballad to Barmaid)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000689&streamencoding=mp31", 
+            "name": "Office Meeting"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1000691&streamencoding=mp31", 
+            "name": "The House"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117743"
+}

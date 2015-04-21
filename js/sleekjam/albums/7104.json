@@ -1,0 +1,24 @@
+{
+    "name": "Night", 
+    "artist": "Sajtrus", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7104&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78350&streamencoding=mp31", 
+            "name": "Vacations"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78351&streamencoding=mp31", 
+            "name": "2InventionNocturn(Sajtrus remix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78352&streamencoding=mp31", 
+            "name": "Night"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7104"
+}

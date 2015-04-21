@@ -1,0 +1,14 @@
+{
+    "name": "Wishing My Life Away - V1", 
+    "artist": "Michigan Lyricist", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106283&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=902685&streamencoding=mp31", 
+            "name": "Wishing my life away - Demo 1st Cut"
+        }
+    ], 
+    "release": "2012", 
+    "id": "106283"
+}

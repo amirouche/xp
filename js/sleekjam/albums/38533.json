@@ -1,0 +1,24 @@
+{
+    "name": "La mesure", 
+    "artist": "Habanera", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38533&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271955&streamencoding=mp31", 
+            "name": "La mesure"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=271997&streamencoding=mp31", 
+            "name": "Quand je serai muet de moi"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=272016&streamencoding=mp31", 
+            "name": "Mince alors"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38533"
+}

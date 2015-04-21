@@ -1,0 +1,34 @@
+{
+    "name": "L\u00e9v\u00e9, l\u00e9v\u00e9...", 
+    "artist": "JanLik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32350&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=218946&streamencoding=mp31", 
+            "name": "Parce que Je t'aime"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=219002&streamencoding=mp31", 
+            "name": "Parce que Je t'aime(dubbed)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=218944&streamencoding=mp31", 
+            "name": "L\u00e9v\u00e9"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=218947&streamencoding=mp31", 
+            "name": "DansWizMe"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=218948&streamencoding=mp31", 
+            "name": "DansWizme-Instrumental"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32350"
+}

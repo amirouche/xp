@@ -1,0 +1,44 @@
+{
+    "name": "The Wonder Years", 
+    "artist": "\"Knife\" Sotelo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130694&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096038&streamencoding=mp31", 
+            "name": "Assumptions"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096039&streamencoding=mp31", 
+            "name": "Let The Song Repeat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096040&streamencoding=mp31", 
+            "name": "Smoked Out Conversations"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096041&streamencoding=mp31", 
+            "name": "My Life"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096042&streamencoding=mp31", 
+            "name": "Who Got The Chronic"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096043&streamencoding=mp31", 
+            "name": "Local Weed Gangster"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096044&streamencoding=mp31", 
+            "name": "Trapped"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130694"
+}

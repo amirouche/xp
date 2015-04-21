@@ -1,0 +1,69 @@
+{
+    "name": "Free Music & Free Beer", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112005&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952578&streamencoding=mp31", 
+            "name": "Thanks For The Add ft Brad Sucks"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952577&streamencoding=mp31", 
+            "name": "All 4 Free ft Donnie Ozone"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952579&streamencoding=mp31", 
+            "name": "Music Biz Today"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952575&streamencoding=mp31", 
+            "name": "Free Music & Free Beer"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952574&streamencoding=mp31", 
+            "name": "CCREATORS CCULTURE ft Economix"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952573&streamencoding=mp31", 
+            "name": "Remixin' Blues ft Admiral Bob"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952571&streamencoding=mp31", 
+            "name": "Lonely Man ft SackJo22"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952568&streamencoding=mp31", 
+            "name": "Temptation (Number One Mix) ft Lauren"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952569&streamencoding=mp31", 
+            "name": "Emotional Opinion feat Yeizon"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952570&streamencoding=mp31", 
+            "name": "Lies ft Trifonic"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952572&streamencoding=mp31", 
+            "name": "Embrace ft Urmymuse + Boheart"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=952576&streamencoding=mp31", 
+            "name": "Flash ft HighKnowledge"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112005"
+}

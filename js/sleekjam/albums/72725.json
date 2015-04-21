@@ -1,0 +1,44 @@
+{
+    "name": "Shocker", 
+    "artist": "Udder Steel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72725&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627601&streamencoding=mp31", 
+            "name": "Shocker"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627711&streamencoding=mp31", 
+            "name": "Illusion"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627712&streamencoding=mp31", 
+            "name": "Ennui"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627714&streamencoding=mp31", 
+            "name": "Mr.Heroff"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627715&streamencoding=mp31", 
+            "name": "Flyola(remix Frykberg and Jansson_Blow)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627865&streamencoding=mp31", 
+            "name": "Frick"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=627866&streamencoding=mp31", 
+            "name": "The war elephant"
+        }
+    ], 
+    "release": "2010", 
+    "id": "72725"
+}

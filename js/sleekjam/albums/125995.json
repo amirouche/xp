@@ -1,0 +1,49 @@
+{
+    "name": "Supernatural", 
+    "artist": "ALPHA ONE OMEGA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125995&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066168&streamencoding=mp31", 
+            "name": "Supernatural"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066207&streamencoding=mp31", 
+            "name": "The Sky"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066216&streamencoding=mp31", 
+            "name": "Genisis"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066225&streamencoding=mp31", 
+            "name": "Heavens Gate"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066230&streamencoding=mp31", 
+            "name": "Underworld"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066251&streamencoding=mp31", 
+            "name": "Eternity"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066235&streamencoding=mp31", 
+            "name": "State of Grace"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066252&streamencoding=mp31", 
+            "name": "The Trees (part 1&2)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125995"
+}

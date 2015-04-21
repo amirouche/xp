@@ -1,0 +1,54 @@
+{
+    "name": "Fsck Nose", 
+    "artist": "Edgerub", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84668&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724608&streamencoding=mp31", 
+            "name": "Bye Bye Queued"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724610&streamencoding=mp31", 
+            "name": "What A Crock"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724614&streamencoding=mp31", 
+            "name": "Nine Toes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724611&streamencoding=mp31", 
+            "name": "Back Of Beyond"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724615&streamencoding=mp31", 
+            "name": "Middling"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724612&streamencoding=mp31", 
+            "name": "Some Cat Farting"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724607&streamencoding=mp31", 
+            "name": "Thick End Of The Wedgie"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724613&streamencoding=mp31", 
+            "name": "Epitome"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=724609&streamencoding=mp31", 
+            "name": "Little Pictures"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84668"
+}

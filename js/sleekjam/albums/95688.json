@@ -1,0 +1,74 @@
+{
+    "name": "Preghiera (Prayer)", 
+    "artist": "Angelo Mele", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95688&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818698&streamencoding=mp31", 
+            "name": "Ti offro la mia vita"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818704&streamencoding=mp31", 
+            "name": "Voglio vivere con te"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818705&streamencoding=mp31", 
+            "name": "Il tuo amor per me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818706&streamencoding=mp31", 
+            "name": "Halleluia!"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818699&streamencoding=mp31", 
+            "name": "All'ombra delle tue ali"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818700&streamencoding=mp31", 
+            "name": "Consacrazione"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818708&streamencoding=mp31", 
+            "name": "Di gloria in gloria"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818701&streamencoding=mp31", 
+            "name": "Tu sei qui"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818697&streamencoding=mp31", 
+            "name": "Dimorare accanto a te"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818707&streamencoding=mp31", 
+            "name": "Calma la tempesta dentro me"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818702&streamencoding=mp31", 
+            "name": "Ho bisogno di te"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818703&streamencoding=mp31", 
+            "name": "Stringimi a te"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=818696&streamencoding=mp31", 
+            "name": "Il fiume del Tuo Spirito"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95688"
+}

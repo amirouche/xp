@@ -1,0 +1,29 @@
+{
+    "name": "The Vocabs Live in Transylvania", 
+    "artist": "The Vocabs", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54109&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451617&streamencoding=mp31", 
+            "name": "Dead Guy Shuffle"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451622&streamencoding=mp31", 
+            "name": "Leather Dog"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451624&streamencoding=mp31", 
+            "name": "Shit Sandwich I found on th"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451626&streamencoding=mp31", 
+            "name": "The Art of Storytelling"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54109"
+}

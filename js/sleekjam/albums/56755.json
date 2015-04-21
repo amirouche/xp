@@ -1,0 +1,34 @@
+{
+    "name": "The Year Of The Ox", 
+    "artist": "Bosonogi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56755&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480622&streamencoding=mp31", 
+            "name": "nigde takvog grada"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480947&streamencoding=mp31", 
+            "name": "ada bojana"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480678&streamencoding=mp31", 
+            "name": "Biti Mama"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=480747&streamencoding=mp31", 
+            "name": "sta cemo za pare"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=481374&streamencoding=mp31", 
+            "name": "mamaibeba"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56755"
+}

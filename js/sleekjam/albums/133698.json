@@ -1,0 +1,14 @@
+{
+    "name": "X-ray", 
+    "artist": "Mancy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133698&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118704&streamencoding=mp31", 
+            "name": "X-ray"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133698"
+}

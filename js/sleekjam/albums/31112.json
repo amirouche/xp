@@ -1,0 +1,14 @@
+{
+    "name": "D O M T A U C H E N", 
+    "artist": "Tom Drexl", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31112&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=210524&streamencoding=mp31", 
+            "name": "Diving into the Cathedral"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31112"
+}

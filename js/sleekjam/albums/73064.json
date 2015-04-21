@@ -1,0 +1,14 @@
+{
+    "name": "Desert Flower", 
+    "artist": "Doc", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73064&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=631144&streamencoding=mp31", 
+            "name": "Desert Flower"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73064"
+}

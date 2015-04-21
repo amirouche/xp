@@ -1,0 +1,24 @@
+{
+    "name": "Blind Blood", 
+    "artist": "Blind Blood", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91785&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782843&streamencoding=mp31", 
+            "name": "flying"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782845&streamencoding=mp31", 
+            "name": "in the darkness night"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=782846&streamencoding=mp31", 
+            "name": "from the rainbow bridge"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91785"
+}

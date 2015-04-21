@@ -1,0 +1,29 @@
+{
+    "name": "The Love EP", 
+    "artist": "Bridge Underwater", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107911&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911966&streamencoding=mp31", 
+            "name": "Baby, Baby, Baby "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911960&streamencoding=mp31", 
+            "name": "I Need You"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911961&streamencoding=mp31", 
+            "name": "Will You Dance With Me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=911962&streamencoding=mp31", 
+            "name": "I Love You Like You Don't Even Know"
+        }
+    ], 
+    "release": "2013", 
+    "id": "107911"
+}

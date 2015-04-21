@@ -1,0 +1,84 @@
+{
+    "name": "Another Day", 
+    "artist": "Sim Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74164&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639828&streamencoding=mp31", 
+            "name": "Anchor"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639841&streamencoding=mp31", 
+            "name": "Church Blues"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639864&streamencoding=mp31", 
+            "name": "Country Time"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639865&streamencoding=mp31", 
+            "name": "Don't Be Sad"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639866&streamencoding=mp31", 
+            "name": "Gettin' Some Ice"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639868&streamencoding=mp31", 
+            "name": "Give Me Time Blues"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639880&streamencoding=mp31", 
+            "name": "J-Funk"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639882&streamencoding=mp31", 
+            "name": "Let's Rock"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639884&streamencoding=mp31", 
+            "name": "Lucky Me"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639885&streamencoding=mp31", 
+            "name": "More Metal Please"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639894&streamencoding=mp31", 
+            "name": "My Crossroads"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639927&streamencoding=mp31", 
+            "name": "Roll down"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639952&streamencoding=mp31", 
+            "name": "Soliloquy"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639959&streamencoding=mp31", 
+            "name": "StRing Rock"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=639960&streamencoding=mp31", 
+            "name": "The Saloon"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74164"
+}

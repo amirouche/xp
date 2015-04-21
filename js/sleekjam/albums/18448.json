@@ -1,0 +1,74 @@
+{
+    "name": "Manifiesto proletario dub internacional", 
+    "artist": "Sistema Sonoro Skartel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18448&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130750&streamencoding=mp31", 
+            "name": "Hey, Hey"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130751&streamencoding=mp31", 
+            "name": "Huye y Lucha"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130752&streamencoding=mp31", 
+            "name": "Un Sue\u00f1o"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130753&streamencoding=mp31", 
+            "name": "La Fuga"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130754&streamencoding=mp31", 
+            "name": "Como Duele"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130755&streamencoding=mp31", 
+            "name": "16RA"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130756&streamencoding=mp31", 
+            "name": "Plan Colombia"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130757&streamencoding=mp31", 
+            "name": "No Estamos Solos"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130758&streamencoding=mp31", 
+            "name": "Booyaka"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130759&streamencoding=mp31", 
+            "name": "Gente Oprimida"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130760&streamencoding=mp31", 
+            "name": "Revoluci\u00f2n"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130761&streamencoding=mp31", 
+            "name": "Redskin Reggae Dub"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130762&streamencoding=mp31", 
+            "name": "La Internacional (+ Golpe a Golpe [Homenaje a Kortatu])"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18448"
+}

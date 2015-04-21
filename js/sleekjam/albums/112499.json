@@ -1,0 +1,39 @@
+{
+    "name": "Horrors From Depth", 
+    "artist": "Tacit Fury", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112499&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956711&streamencoding=mp31", 
+            "name": "Streets Of Rage"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956706&streamencoding=mp31", 
+            "name": "Frozen Wheel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956710&streamencoding=mp31", 
+            "name": "Ignorance"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956709&streamencoding=mp31", 
+            "name": "Nausea"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956708&streamencoding=mp31", 
+            "name": "St. Sanitarian"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=956707&streamencoding=mp31", 
+            "name": "Territory"
+        }
+    ], 
+    "release": "2014", 
+    "id": "112499"
+}

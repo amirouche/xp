@@ -1,0 +1,29 @@
+{
+    "name": "The Soulmans", 
+    "artist": "The Soulmans", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64003&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549596&streamencoding=mp31", 
+            "name": "\u041b\u044e\u0431\u043e\u0432\u044c"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549595&streamencoding=mp31", 
+            "name": "\u041f\u0440\u043e\u0433\u0443\u043b\u043a\u0430"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549601&streamencoding=mp31", 
+            "name": "LIFE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549594&streamencoding=mp31", 
+            "name": "\u041a\u0430\u043a \u043b\u0443\u0447 \u0437\u0430\u0440\u0438"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64003"
+}

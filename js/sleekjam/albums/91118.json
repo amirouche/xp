@@ -1,0 +1,99 @@
+{
+    "name": "Cent sommeils", 
+    "artist": "Ariel B.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91118&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777508&streamencoding=mp31", 
+            "name": "Cent sommeils"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777509&streamencoding=mp31", 
+            "name": "La petite Lucie"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777510&streamencoding=mp31", 
+            "name": "Moi et moi"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777513&streamencoding=mp31", 
+            "name": "M\u00e9tempsycose"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777498&streamencoding=mp31", 
+            "name": "Inspiration (\u00e0 Na\u00efs)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777514&streamencoding=mp31", 
+            "name": "Tourisme"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777499&streamencoding=mp31", 
+            "name": "Bon gar\u00e7on"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777512&streamencoding=mp31", 
+            "name": "Personnalit\u00e9"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777506&streamencoding=mp31", 
+            "name": "Fuite de cerveaux"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777504&streamencoding=mp31", 
+            "name": "Bouboule"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777515&streamencoding=mp31", 
+            "name": "Essaye encore"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777505&streamencoding=mp31", 
+            "name": "Le mieux"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777507&streamencoding=mp31", 
+            "name": "La java muscl\u00e9e"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777500&streamencoding=mp31", 
+            "name": "Pas de miracle"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777511&streamencoding=mp31", 
+            "name": "Id\u00e9es simplistes"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777516&streamencoding=mp31", 
+            "name": "\u00c0 la gare"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777502&streamencoding=mp31", 
+            "name": "Fils \u00e0 papa"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=777503&streamencoding=mp31", 
+            "name": "La vie continue"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91118"
+}

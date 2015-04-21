@@ -1,0 +1,89 @@
+{
+    "name": "25", 
+    "artist": "afmusic (Compilation)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95536&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817552&streamencoding=mp31", 
+            "name": "The Forced Oscillations - Acids (Tbilisi-89 Mix)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817554&streamencoding=mp31", 
+            "name": "Plastique Noir - Inconstancy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817540&streamencoding=mp31", 
+            "name": "Sleazy Romance - Light in Your Life"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817546&streamencoding=mp31", 
+            "name": "The Transisters - Electromagnetic(New)Wave"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817551&streamencoding=mp31", 
+            "name": "Curious - Slowly Decaying"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817538&streamencoding=mp31", 
+            "name": "On Wave - Friend of Friend"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817542&streamencoding=mp31", 
+            "name": "The Search - The Heart Is a Lonely Hunter"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817549&streamencoding=mp31", 
+            "name": "Emerald Park - Istanbul (Alt.Version)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817553&streamencoding=mp31", 
+            "name": "Botany Bay - Feel"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817539&streamencoding=mp31", 
+            "name": "all:my:faults - Stay in the Middle of the Lake"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817547&streamencoding=mp31", 
+            "name": "Spinefish - Embrace Me"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817544&streamencoding=mp31", 
+            "name": "Shearer - Can't Stop It"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817541&streamencoding=mp31", 
+            "name": "The Slimp - Madhouse"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817550&streamencoding=mp31", 
+            "name": "Unfactory - Change the Fairy Tale"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817548&streamencoding=mp31", 
+            "name": "Noctiflora - Scare & Innocence"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=817543&streamencoding=mp31", 
+            "name": "Rebentisch - Das Medikament [Jan_Solo RMX]"
+        }
+    ], 
+    "release": "2011", 
+    "id": "95536"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Solstice", 
+    "artist": "PHILIpPE bRaY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57022&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=484691&streamencoding=mp31", 
+            "name": "Avant de vivre"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=484703&streamencoding=mp31", 
+            "name": "Les paysages meurent comme......"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=484709&streamencoding=mp31", 
+            "name": "Pr\u00e9sence pass\u00e9e"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57022"
+}

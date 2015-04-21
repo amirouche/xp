@@ -1,0 +1,59 @@
+{
+    "name": "Santijuelas y Falta de Rigor", 
+    "artist": "Raulin de los Bosques", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124415&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055145&streamencoding=mp31", 
+            "name": "'Cause Pedal"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055148&streamencoding=mp31", 
+            "name": "Of Mice and Cherry Trees"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055146&streamencoding=mp31", 
+            "name": "Suspicion"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055147&streamencoding=mp31", 
+            "name": "Sunstice"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055140&streamencoding=mp31", 
+            "name": "Sunstice2"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055141&streamencoding=mp31", 
+            "name": "Sunstice3"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055142&streamencoding=mp31", 
+            "name": "Sunstice4"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055143&streamencoding=mp31", 
+            "name": "Gypsy Banjo Jam"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055144&streamencoding=mp31", 
+            "name": "Crickle Creep"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1055149&streamencoding=mp31", 
+            "name": "Endlich Zuhause"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124415"
+}

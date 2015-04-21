@@ -1,0 +1,54 @@
+{
+    "name": "Ad Gloriam", 
+    "artist": "TRIUMVIRAL", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116874&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993560&streamencoding=mp31", 
+            "name": "Monsieur M"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993567&streamencoding=mp31", 
+            "name": "Vivre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993550&streamencoding=mp31", 
+            "name": "La culture du ble"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993563&streamencoding=mp31", 
+            "name": "Mourir en paix"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993565&streamencoding=mp31", 
+            "name": "Halloween Blues"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993562&streamencoding=mp31", 
+            "name": "La tempete"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993566&streamencoding=mp31", 
+            "name": "Marie Jeanne"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993561&streamencoding=mp31", 
+            "name": "Le sens de la vie"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=993564&streamencoding=mp31", 
+            "name": "Le sang des miens"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116874"
+}

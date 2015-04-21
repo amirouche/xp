@@ -1,0 +1,34 @@
+{
+    "name": "From My Belly", 
+    "artist": "Moon Prototype", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99107&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=848286&streamencoding=mp31", 
+            "name": "Faith in the Trash"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=848287&streamencoding=mp31", 
+            "name": "Femme Fatale"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=848288&streamencoding=mp31", 
+            "name": "Hope in Monochrome"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=848289&streamencoding=mp31", 
+            "name": "Nocturnal Wanderings"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=848290&streamencoding=mp31", 
+            "name": "Typical Day"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99107"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "02 Ambitrix - Tea Leaves for Trout", 
+    "artist": "Grego Mondo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18789&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132900&streamencoding=mp31", 
+            "name": "Mme Delta"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132908&streamencoding=mp31", 
+            "name": "The war hero"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132910&streamencoding=mp31", 
+            "name": "Radio - m\u00e9nage"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132918&streamencoding=mp31", 
+            "name": "La veuve"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132923&streamencoding=mp31", 
+            "name": "Poor Peter"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132927&streamencoding=mp31", 
+            "name": "Les Noces"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132936&streamencoding=mp31", 
+            "name": "She Rains"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18789"
+}

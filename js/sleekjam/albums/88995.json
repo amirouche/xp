@@ -1,0 +1,24 @@
+{
+    "name": "Escape", 
+    "artist": "Alex Zaccagni", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88995&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760775&streamencoding=mp31", 
+            "name": "Escape"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760776&streamencoding=mp31", 
+            "name": "Troubled Days"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=760777&streamencoding=mp31", 
+            "name": "Dust on the Road"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88995"
+}

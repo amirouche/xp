@@ -1,0 +1,14 @@
+{
+    "name": "Apr\u00e8s les maths, 1 qui chante", 
+    "artist": "Arbraunord", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119635&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015983&streamencoding=mp31", 
+            "name": "Apr\u00e8s les maths, 1 qui chante (huge song)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119635"
+}

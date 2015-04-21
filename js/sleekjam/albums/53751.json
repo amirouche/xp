@@ -1,0 +1,74 @@
+{
+    "name": "Walking the Summerroads", 
+    "artist": "Sway", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53751&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447143&streamencoding=mp31", 
+            "name": "Walking the Summerroads"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447142&streamencoding=mp31", 
+            "name": "Misted Sunlight"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447141&streamencoding=mp31", 
+            "name": "Waterfalls"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447144&streamencoding=mp31", 
+            "name": "Wandering"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447146&streamencoding=mp31", 
+            "name": "The Mysteries of the Myristica Forest"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447147&streamencoding=mp31", 
+            "name": "The Mysteries of the Orchidy Water"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447140&streamencoding=mp31", 
+            "name": "Blossom Bud"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447149&streamencoding=mp31", 
+            "name": "Like The Spring"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447151&streamencoding=mp31", 
+            "name": "Walktrough"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447145&streamencoding=mp31", 
+            "name": "Discouvery"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447148&streamencoding=mp31", 
+            "name": "Road to Barrenmore"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447150&streamencoding=mp31", 
+            "name": "Friends that Mind"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=447139&streamencoding=mp31", 
+            "name": "Need for Time and Space"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53751"
+}

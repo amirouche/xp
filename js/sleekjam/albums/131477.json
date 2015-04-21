@@ -1,0 +1,59 @@
+{
+    "name": "Ready To Go (2013)", 
+    "artist": "Endtape", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131477&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101668&streamencoding=mp31", 
+            "name": "Ready To Go"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101665&streamencoding=mp31", 
+            "name": "Get Up"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101666&streamencoding=mp31", 
+            "name": "Closer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101667&streamencoding=mp31", 
+            "name": "With You Today"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101674&streamencoding=mp31", 
+            "name": "Feel It Now"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101669&streamencoding=mp31", 
+            "name": "Have It All"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101670&streamencoding=mp31", 
+            "name": "The Centre"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101671&streamencoding=mp31", 
+            "name": "Again"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101672&streamencoding=mp31", 
+            "name": "Devil With A Cigarette"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1101673&streamencoding=mp31", 
+            "name": "Hold Your Breath"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131477"
+}

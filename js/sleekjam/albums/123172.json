@@ -1,0 +1,69 @@
+{
+    "name": "77", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123172&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045669&streamencoding=mp31", 
+            "name": "Perfectly For You ft Kara Square"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045666&streamencoding=mp31", 
+            "name": "Square Bidness ft HighKnowledge"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045667&streamencoding=mp31", 
+            "name": "Who's The Man ft Kara Square"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045664&streamencoding=mp31", 
+            "name": "Sensitive Ft Kara Square"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045668&streamencoding=mp31", 
+            "name": "Emma ft ProjectQuestion"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045663&streamencoding=mp31", 
+            "name": "Lucky Boy"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045665&streamencoding=mp31", 
+            "name": "How Lucky I Am ft CiggiBurns"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045670&streamencoding=mp31", 
+            "name": "Human Race Ft Snowflake"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045671&streamencoding=mp31", 
+            "name": "Island Journey Ft PapaZulu"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045672&streamencoding=mp31", 
+            "name": "Goat 145 ft Robbero + Michael Burns"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045673&streamencoding=mp31", 
+            "name": "A Rotten Year For Elvis"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045674&streamencoding=mp31", 
+            "name": "Great Eastern ft Tomas Phusion"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123172"
+}

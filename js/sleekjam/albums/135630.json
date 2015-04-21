@@ -1,0 +1,54 @@
+{
+    "name": "Hay mas que ayer", 
+    "artist": "MoralesLp", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135630&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131308&streamencoding=mp31", 
+            "name": "Busco un amor - Morales Lp Ft King flow"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131309&streamencoding=mp31", 
+            "name": "Dime que pasa - Morales Lp Ft Gabo Ruiz"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131310&streamencoding=mp31", 
+            "name": "Donde esta el amor - Morale Lp Ft King flow, Moze"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131311&streamencoding=mp31", 
+            "name": "Mil cosas que contarte - Morales Lp Ft Dash Two"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131312&streamencoding=mp31", 
+            "name": "No tengas miedo - Morales Lp"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131313&streamencoding=mp31", 
+            "name": "Te encontre - Morales Lp"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131314&streamencoding=mp31", 
+            "name": "Tengo que contarte - Morales Lp"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131315&streamencoding=mp31", 
+            "name": "Desde que llegaste - Morales Lp Ft Resoner"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1131316&streamencoding=mp31", 
+            "name": "El eco de tu amor - Morales Lp Ft Resoner"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135630"
+}

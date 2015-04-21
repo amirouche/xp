@@ -1,0 +1,39 @@
+{
+    "name": "Mystica", 
+    "artist": "PeerGynt Lobogris", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7564&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82223&streamencoding=mp31", 
+            "name": "Chaman, el Espiritu del Lobo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82224&streamencoding=mp31", 
+            "name": "Buscando una Estrella"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82225&streamencoding=mp31", 
+            "name": "Hijo del Diablo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82226&streamencoding=mp31", 
+            "name": "L\u00e1grimas de Hielo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82227&streamencoding=mp31", 
+            "name": "Blues del Vendedor de Almas"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82228&streamencoding=mp31", 
+            "name": "Ultimas palabras"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7564"
+}

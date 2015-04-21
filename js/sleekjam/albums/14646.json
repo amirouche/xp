@@ -1,0 +1,79 @@
+{
+    "name": "Fugly Fix", 
+    "artist": "The Kankles", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14646&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113042&streamencoding=mp31", 
+            "name": "Rocky Mountain Apple Cider"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113043&streamencoding=mp31", 
+            "name": "Pasty"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113052&streamencoding=mp31", 
+            "name": "Clutter"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113053&streamencoding=mp31", 
+            "name": "Digital Sheep"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113058&streamencoding=mp31", 
+            "name": "BoomBoom Shuffle"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113063&streamencoding=mp31", 
+            "name": "Spokey Dokey"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113064&streamencoding=mp31", 
+            "name": "Clutter (Revisited)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113067&streamencoding=mp31", 
+            "name": "The Closet"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113065&streamencoding=mp31", 
+            "name": "Stay Tuned"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113066&streamencoding=mp31", 
+            "name": "Goddamn Clowns (STFU)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113068&streamencoding=mp31", 
+            "name": "Larva"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113069&streamencoding=mp31", 
+            "name": "Mosquito"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113070&streamencoding=mp31", 
+            "name": "Jolly"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=113071&streamencoding=mp31", 
+            "name": "Chant of the Mentally Challenged"
+        }
+    ], 
+    "release": "2007", 
+    "id": "14646"
+}

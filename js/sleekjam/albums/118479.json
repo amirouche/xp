@@ -1,0 +1,14 @@
+{
+    "name": "Embrujo", 
+    "artist": "Luis Zunel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118479&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006544&streamencoding=mp31", 
+            "name": "Luis Zunel - Embrujo"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118479"
+}

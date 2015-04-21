@@ -1,0 +1,44 @@
+{
+    "name": "street culture", 
+    "artist": "Semantic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85741&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733502&streamencoding=mp31", 
+            "name": "semantic - roof, old graffiti, gray days"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733504&streamencoding=mp31", 
+            "name": "semantic - street culture"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733503&streamencoding=mp31", 
+            "name": "semantic - graffiti"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733499&streamencoding=mp31", 
+            "name": "semantic - wake up at night"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733501&streamencoding=mp31", 
+            "name": "semantic - time, the streets, broken walls"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733498&streamencoding=mp31", 
+            "name": "semantic - Past, Present, Future"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=733500&streamencoding=mp31", 
+            "name": "semantic - street"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85741"
+}

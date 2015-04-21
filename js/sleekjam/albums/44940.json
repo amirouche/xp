@@ -1,0 +1,39 @@
+{
+    "name": "Tebe Poem", 
+    "artist": "Dr. Emiliyan Stankov", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44940&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=340016&streamencoding=mp31", 
+            "name": "We Hymn Thee, We Bless Thee (anonymous)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=340018&streamencoding=mp31", 
+            "name": "Lord, Have Mercy (anonymous)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=340014&streamencoding=mp31", 
+            "name": "Our Father (Dubesnki)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=340015&streamencoding=mp31", 
+            "name": "Lord, I Cry Unto Thee (A. Arhangelskiy)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=340017&streamencoding=mp31", 
+            "name": "We Hymn Thee, We Bless Thee (Bobrovin)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=340019&streamencoding=mp31", 
+            "name": "Mnogaya Leta (D. Bortnyanskiy)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44940"
+}

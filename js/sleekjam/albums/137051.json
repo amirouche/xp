@@ -1,0 +1,144 @@
+{
+    "name": "Blues Tracks", 
+    "artist": "Thomas Attwood", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137051&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142983&streamencoding=mp31", 
+            "name": "111"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142984&streamencoding=mp31", 
+            "name": "112"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142985&streamencoding=mp31", 
+            "name": "113"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142986&streamencoding=mp31", 
+            "name": "121"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142987&streamencoding=mp31", 
+            "name": "122"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142988&streamencoding=mp31", 
+            "name": "123"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142989&streamencoding=mp31", 
+            "name": "131"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142990&streamencoding=mp31", 
+            "name": "132"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142991&streamencoding=mp31", 
+            "name": "133"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142992&streamencoding=mp31", 
+            "name": "211"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142993&streamencoding=mp31", 
+            "name": "212"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142994&streamencoding=mp31", 
+            "name": "213"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142995&streamencoding=mp31", 
+            "name": "221"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142996&streamencoding=mp31", 
+            "name": "222"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142997&streamencoding=mp31", 
+            "name": "223"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142998&streamencoding=mp31", 
+            "name": "231"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1142999&streamencoding=mp31", 
+            "name": "232"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143000&streamencoding=mp31", 
+            "name": "233"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143001&streamencoding=mp31", 
+            "name": "311"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143002&streamencoding=mp31", 
+            "name": "312"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143003&streamencoding=mp31", 
+            "name": "313"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143004&streamencoding=mp31", 
+            "name": "321"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143005&streamencoding=mp31", 
+            "name": "322"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143006&streamencoding=mp31", 
+            "name": "323"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143007&streamencoding=mp31", 
+            "name": "331"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143008&streamencoding=mp31", 
+            "name": "332"
+        }, 
+        {
+            "position": 27, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143009&streamencoding=mp31", 
+            "name": "333"
+        }
+    ], 
+    "release": "2014", 
+    "id": "137051"
+}

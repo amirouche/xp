@@ -1,0 +1,34 @@
+{
+    "name": "Seni d\u00fcs\u00fcnen Bosluk EP", 
+    "artist": "Evren Svren", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128464&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1078648&streamencoding=mp31", 
+            "name": "Ve Nihayet Uyku"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1078645&streamencoding=mp31", 
+            "name": "Karanlik Dualar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1078646&streamencoding=mp31", 
+            "name": "\u00d6l\u00fcm\u00fcn Sesi"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1078649&streamencoding=mp31", 
+            "name": "Her Kazanilan bir Kazanc degildir"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1078647&streamencoding=mp31", 
+            "name": "G\u00f6nl\u00fcm\u00fcz\u00fcn Kafesinde"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128464"
+}

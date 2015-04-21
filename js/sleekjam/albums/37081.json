@@ -1,0 +1,14 @@
+{
+    "name": "\u00e9lectro-phon' 2\" titres", 
+    "artist": "Phon'\u00e9thique", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37081&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258836&streamencoding=mp31", 
+            "name": "m\u00e9ga-phon'"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37081"
+}

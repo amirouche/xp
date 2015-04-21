@@ -1,0 +1,59 @@
+{
+    "name": "Lies of Love", 
+    "artist": "The Acousticals", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21112&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147219&streamencoding=mp31", 
+            "name": "Sally Anne"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147238&streamencoding=mp31", 
+            "name": "Tell Me Lies"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147244&streamencoding=mp31", 
+            "name": "Heroes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147255&streamencoding=mp31", 
+            "name": "No X"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147264&streamencoding=mp31", 
+            "name": "The Kiwi"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147285&streamencoding=mp31", 
+            "name": "Random Accusations"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147288&streamencoding=mp31", 
+            "name": "Pinegrass Medley"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147295&streamencoding=mp31", 
+            "name": "Legends"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147298&streamencoding=mp31", 
+            "name": "Loser's Corner"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=147300&streamencoding=mp31", 
+            "name": "Secret"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21112"
+}

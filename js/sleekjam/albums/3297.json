@@ -1,0 +1,59 @@
+{
+    "name": "Time To Differ", 
+    "artist": "Nocreeps", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3297&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23860&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23861&streamencoding=mp31", 
+            "name": "It`s up to you"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23862&streamencoding=mp31", 
+            "name": "Fallen Star"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23863&streamencoding=mp31", 
+            "name": "Delirium"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23864&streamencoding=mp31", 
+            "name": "What have you done"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23865&streamencoding=mp31", 
+            "name": "Makin\u00b4 the world"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23866&streamencoding=mp31", 
+            "name": "Suicide man"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23867&streamencoding=mp31", 
+            "name": "Ready"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23868&streamencoding=mp31", 
+            "name": "R.I.P"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=23869&streamencoding=mp31", 
+            "name": "Invisible Enemy"
+        }
+    ], 
+    "release": "2006", 
+    "id": "3297"
+}

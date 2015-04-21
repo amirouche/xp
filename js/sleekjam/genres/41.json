@@ -1,0 +1,320 @@
+{
+    "albums": [
+        {
+            "release": "2008", 
+            "artist": "Uplink Tarhini", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21519&imagesize=100", 
+            "id": "21519", 
+            "name": "Fungistan"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Uplink Tarhini", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21524&imagesize=100", 
+            "id": "21524", 
+            "name": "Fungistan Revisited"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Dj HaYaBuSa", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121263&imagesize=100", 
+            "id": "121263", 
+            "name": "THIS IS MY NIGHT"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Un conteur des origines", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35240&imagesize=100", 
+            "id": "35240", 
+            "name": "in ateck"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "DWARPH", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13519&imagesize=100", 
+            "id": "13519", 
+            "name": "Brain Stimulant"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "JesterN", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123150&imagesize=100", 
+            "id": "123150", 
+            "name": "Acoustic Songs"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Ephedrina Netlabel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131229&imagesize=100", 
+            "id": "131229", 
+            "name": "[EPH084] KRISTIAN FUMEI - Digital Dubs"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Ephedrina Netlabel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107662&imagesize=100", 
+            "id": "107662", 
+            "name": "[EPH023] KOONA - Underwater/Starkey"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Ephedrina Netlabel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109602&imagesize=100", 
+            "id": "109602", 
+            "name": "[EPH013] AAVV - Noisydrina vol 2"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Ephedrina Netlabel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115066&imagesize=100", 
+            "id": "115066", 
+            "name": "[EPH041] AAVV - Hluboko Collective Gate 3"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Ephedrina Netlabel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129906&imagesize=100", 
+            "id": "129906", 
+            "name": "[EPH082] NCOMFORTABLE - Cold War (Ephedrin7\")"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Ephedrina Netlabel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116368&imagesize=100", 
+            "id": "116368", 
+            "name": "[EPH044] Instabile pt2 (when active as a wave)"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Ephedrina Netlabel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118160&imagesize=100", 
+            "id": "118160", 
+            "name": "[EPH049] PLATO - Lmd"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "EINHEIT", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99620&imagesize=100", 
+            "id": "99620", 
+            "name": "We Kill Children EP"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "MTHY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51149&imagesize=100", 
+            "id": "51149", 
+            "name": "omage-mthy-compa-improvise"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Anonimun", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119091&imagesize=100", 
+            "id": "119091", 
+            "name": "Paraco"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Braker", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61422&imagesize=100", 
+            "id": "61422", 
+            "name": "Subversion"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "jean88210", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109859&imagesize=100", 
+            "id": "109859", 
+            "name": "Souldark"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Dj Ciruzz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98600&imagesize=100", 
+            "id": "98600", 
+            "name": " minimal house Dj Ciruzz"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "MilesoundBass", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107933&imagesize=100", 
+            "id": "107933", 
+            "name": "Logical Progression"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "CHASMA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68785&imagesize=100", 
+            "id": "68785", 
+            "name": "Like a lion"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "CHASMA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84429&imagesize=100", 
+            "id": "84429", 
+            "name": "Bogyman"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Dj MG", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28713&imagesize=100", 
+            "id": "28713", 
+            "name": "Himalaya"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Dj Lohphlo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30373&imagesize=100", 
+            "id": "30373", 
+            "name": "Royal Stillframe"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Dj Lohphlo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30186&imagesize=100", 
+            "id": "30186", 
+            "name": "Violence System"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "PhOniAndFlOrE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114450&imagesize=100", 
+            "id": "114450", 
+            "name": "GEEK OF STEP"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Panray", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24228&imagesize=100", 
+            "id": "24228", 
+            "name": "Mak.3"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "lartsound", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58529&imagesize=100", 
+            "id": "58529", 
+            "name": "TRAVEL IN THIS BASS!"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Mischapex", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120996&imagesize=100", 
+            "id": "120996", 
+            "name": "Meine EP"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Mischapex", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136240&imagesize=100", 
+            "id": "136240", 
+            "name": "Dubtex"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Ignacio Ouzande", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85475&imagesize=100", 
+            "id": "85475", 
+            "name": "Ignacio Ouzande"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "A Flipping  Budjunky", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79072&imagesize=100", 
+            "id": "79072", 
+            "name": "Sensi"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "A Flipping  Budjunky", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81278&imagesize=100", 
+            "id": "81278", 
+            "name": "Kill 'Ya All EP"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Gonzo Bizarro", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11823&imagesize=100", 
+            "id": "11823", 
+            "name": "The Kansas Hacksaw Genocide."
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Bastian", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78274&imagesize=100", 
+            "id": "78274", 
+            "name": "DJ MAKERSCHEIN"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Imprintz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44101&imagesize=100", 
+            "id": "44101", 
+            "name": "CCK001"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "dedveller", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36177&imagesize=100", 
+            "id": "36177", 
+            "name": "The Way Selector"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Akelas Biggins", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115334&imagesize=100", 
+            "id": "115334", 
+            "name": "Draft in Here"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "GNZ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56560&imagesize=100", 
+            "id": "56560", 
+            "name": "substitutions"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "GNZ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56509&imagesize=100", 
+            "id": "56509", 
+            "name": "special cut tracks"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Spasmatek", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92942&imagesize=100", 
+            "id": "92942", 
+            "name": "spasmatek 02"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Spasmatek", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61495&imagesize=100", 
+            "id": "61495", 
+            "name": "gloomytek"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Vanilla Ninja Music & Amour", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130015&imagesize=100", 
+            "id": "130015", 
+            "name": "Dreamland"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "PHST RECORDS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6724&imagesize=100", 
+            "id": "6724", 
+            "name": "PHYLOXERA - X-Rated Covers (of Noise Consortium / Maggot Demotape) - PHST03"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Blue Rondo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53472&imagesize=100", 
+            "id": "53472", 
+            "name": "Blue Rondo (2007)"
+        }
+    ], 
+    "name": "Bass"
+}

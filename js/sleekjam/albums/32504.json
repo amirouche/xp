@@ -1,0 +1,34 @@
+{
+    "name": "Abstract Factory", 
+    "artist": "Elthariel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32504&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220316&streamencoding=mp31", 
+            "name": "Abstract Factory"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220108&streamencoding=mp31", 
+            "name": "The Raven"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220122&streamencoding=mp31", 
+            "name": "Mario Bros"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220313&streamencoding=mp31", 
+            "name": "Tribute to Ferox"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220111&streamencoding=mp31", 
+            "name": "Mekanikal Stomper"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32504"
+}

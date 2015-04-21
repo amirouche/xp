@@ -1,0 +1,59 @@
+{
+    "name": "EP", 
+    "artist": "Respect Your Mom", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112861&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959962&streamencoding=mp31", 
+            "name": "Adore"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959970&streamencoding=mp31", 
+            "name": "Stoner"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959967&streamencoding=mp31", 
+            "name": "Olejka"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959966&streamencoding=mp31", 
+            "name": "Image Is False"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959968&streamencoding=mp31", 
+            "name": "Butterflies"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959965&streamencoding=mp31", 
+            "name": "Je T'aime"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959964&streamencoding=mp31", 
+            "name": "Trust Me (ver.2)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959969&streamencoding=mp31", 
+            "name": "Arigato"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959963&streamencoding=mp31", 
+            "name": "The Distraction Of Big Cities 4 Disharmony Of Our Souls"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=959961&streamencoding=mp31", 
+            "name": "Japanese Girl"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112861"
+}

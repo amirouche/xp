@@ -1,0 +1,54 @@
+{
+    "name": "Welcome To Rocken Factory", 
+    "artist": "ROCKEN FACTORY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61859&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=529860&streamencoding=mp31", 
+            "name": "Welcome To Rocken Factory"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530032&streamencoding=mp31", 
+            "name": "A Giant Bee"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=529856&streamencoding=mp31", 
+            "name": "No Human"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=529862&streamencoding=mp31", 
+            "name": "Life Long Learning"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=529858&streamencoding=mp31", 
+            "name": "I Hear You Call My Name"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=530031&streamencoding=mp31", 
+            "name": "Building My Home"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=529859&streamencoding=mp31", 
+            "name": "I Am Mine"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=529857&streamencoding=mp31", 
+            "name": "White Night"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=529861&streamencoding=mp31", 
+            "name": "Rock In Canossa"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61859"
+}

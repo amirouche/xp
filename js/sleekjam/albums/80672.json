@@ -1,0 +1,79 @@
+{
+    "name": "Melkers samlade verk 1999-2009", 
+    "artist": "Melker", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80672&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692116&streamencoding=mp31", 
+            "name": "B\u00f6nderna"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692123&streamencoding=mp31", 
+            "name": "Saddam"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692125&streamencoding=mp31", 
+            "name": "Alla vet vem du va"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692128&streamencoding=mp31", 
+            "name": "Typ vals"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692130&streamencoding=mp31", 
+            "name": "Ingen har gett upp"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692131&streamencoding=mp31", 
+            "name": "Bajs i modemet"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692133&streamencoding=mp31", 
+            "name": "Highway to G\u00e4rdeby"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692138&streamencoding=mp31", 
+            "name": " Ihj\u00e4l"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692142&streamencoding=mp31", 
+            "name": "Ett nedlagt expriment"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692149&streamencoding=mp31", 
+            "name": "Havet"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692150&streamencoding=mp31", 
+            "name": " Sova"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692151&streamencoding=mp31", 
+            "name": "Epistel 48"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692152&streamencoding=mp31", 
+            "name": "Offside "
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692154&streamencoding=mp31", 
+            "name": "Vargavinter i USA"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80672"
+}

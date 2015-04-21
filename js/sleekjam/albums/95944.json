@@ -1,0 +1,24 @@
+{
+    "name": "tek a pouet", 
+    "artist": "*DIABOLIK* sebio69", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95944&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820698&streamencoding=mp31", 
+            "name": "dub step2 "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820699&streamencoding=mp31", 
+            "name": "DEMONIAK NIAK NIAK "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820700&streamencoding=mp31", 
+            "name": "dark side "
+        }
+    ], 
+    "release": "2011", 
+    "id": "95944"
+}

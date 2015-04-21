@@ -1,0 +1,69 @@
+{
+    "name": "TRES SIN SACARLA", 
+    "artist": "EL MURMULLO DE LAS CUCARACHAS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75561&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=651672&streamencoding=mp31", 
+            "name": "BALADA DEL PARAISO"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=651669&streamencoding=mp31", 
+            "name": "OLIMPO DE MELOCOTON"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=651671&streamencoding=mp31", 
+            "name": "PRINCESAS Y RESACAS"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=651668&streamencoding=mp31", 
+            "name": "MATE CON POMELO"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=651673&streamencoding=mp31", 
+            "name": "ABRIL "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=651677&streamencoding=mp31", 
+            "name": "KISS FOR YOUR VERTICAL LIPS"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=651674&streamencoding=mp31", 
+            "name": "AIRE EN MI CABEZA "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=651675&streamencoding=mp31", 
+            "name": "MARZO SIN BESAR "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=651676&streamencoding=mp31", 
+            "name": "CRIS"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=651678&streamencoding=mp31", 
+            "name": "GONORREA"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=651679&streamencoding=mp31", 
+            "name": "FLUYENDO ONE"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=651670&streamencoding=mp31", 
+            "name": "TRES SIN SACARLA"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75561"
+}

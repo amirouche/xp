@@ -1,0 +1,24 @@
+{
+    "name": "Cinematic Chillout Atmosphere Theme Timeless Perfection Instrumental Album n\u00b049", 
+    "artist": "PremiumMusic (Instrumental Version)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116477&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990144&streamencoding=mp31", 
+            "name": "Cinematic Chillout Atmosphere Theme Timeless Perfection"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990142&streamencoding=mp31", 
+            "name": "Cinematic Chillout Relax Atmosphere Theme"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=990143&streamencoding=mp31", 
+            "name": "Cinematic Chillout Soundscape Atmosphere Theme Soundtrack"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116477"
+}

@@ -1,0 +1,109 @@
+{
+    "name": "Best of Tony-b Machine", 
+    "artist": "Tony-b", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20946&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146784&streamencoding=mp31", 
+            "name": "Fable (R.Miles) - Tony-b"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146788&streamencoding=mp31", 
+            "name": "Colchic tonight - Tony-b"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146789&streamencoding=mp31", 
+            "name": "made in Swiss - DJ Drago"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146791&streamencoding=mp31", 
+            "name": "temp\u00eate sur l'oc\u00e9an - DJ Drago"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146792&streamencoding=mp31", 
+            "name": "Narcotic theme - alexiller"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146800&streamencoding=mp31", 
+            "name": "Titanic remix - alexiller"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146803&streamencoding=mp31", 
+            "name": "my masterpiece... - brainpunk"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146805&streamencoding=mp31", 
+            "name": "masterpiece2 - brainpunk"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146806&streamencoding=mp31", 
+            "name": "golden-powar-remix - goldenDJ"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146809&streamencoding=mp31", 
+            "name": "golden-marginal-rmx - goldenDJ"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146810&streamencoding=mp31", 
+            "name": "fantazy hi-tack - DJ fraxy"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146818&streamencoding=mp31", 
+            "name": "Seyhans_song - Seyhan"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146820&streamencoding=mp31", 
+            "name": "Penelopes sorrow - DJVojt"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146823&streamencoding=mp31", 
+            "name": "EL3KTR0 FUNK - ScratchDee"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146825&streamencoding=mp31", 
+            "name": "The Past Is Present - Project panda"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146827&streamencoding=mp31", 
+            "name": "Robotic Trance - A DJ Ole"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146829&streamencoding=mp31", 
+            "name": "trance pire - trance pal"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146831&streamencoding=mp31", 
+            "name": "Life on Nebulous - DJ Chico"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146833&streamencoding=mp31", 
+            "name": "Tous avec la Russie - Vladimir"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=146834&streamencoding=mp31", 
+            "name": "Bye bye everybody - Colargol"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20946"
+}

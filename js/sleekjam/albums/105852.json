@@ -1,0 +1,59 @@
+{
+    "name": "Out of the Smoldering Ruins of Fallen Empires", 
+    "artist": "Industrial Kaapitalizm", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105852&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899287&streamencoding=mp31", 
+            "name": "A Corpse Crawling On Bloody Nubs to the End of a Song"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899289&streamencoding=mp31", 
+            "name": "Job 41"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899284&streamencoding=mp31", 
+            "name": "Church for the Hopeless"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899288&streamencoding=mp31", 
+            "name": "Going Broke Is Now On Sale"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899290&streamencoding=mp31", 
+            "name": "Haunting Spirits In a Forest Mist"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899293&streamencoding=mp31", 
+            "name": "What Do We Even Name This Shit"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899292&streamencoding=mp31", 
+            "name": "The Bells of Your Conscience Rebelling Against Your Own Mind"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899291&streamencoding=mp31", 
+            "name": "Slowing Down Is a Death Sentence"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899286&streamencoding=mp31", 
+            "name": "Merzbow Is Our Jimi Hendrix"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=899285&streamencoding=mp31", 
+            "name": "The Behemoth Awakens"
+        }
+    ], 
+    "release": "2012", 
+    "id": "105852"
+}

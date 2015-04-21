@@ -1,0 +1,79 @@
+{
+    "name": "Erntezeit", 
+    "artist": "Heiko Sunfire", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71501&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617719&streamencoding=mp31", 
+            "name": "Lass die Sonne schein"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617692&streamencoding=mp31", 
+            "name": "Moment mal"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617700&streamencoding=mp31", 
+            "name": "Wo bist du mein M\u00e4dchen"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617694&streamencoding=mp31", 
+            "name": "Blut lauft in deinen Tank"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617699&streamencoding=mp31", 
+            "name": "Sie komm' in schwarzen Anz\u00fcgen"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617693&streamencoding=mp31", 
+            "name": "Jah"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617718&streamencoding=mp31", 
+            "name": "Musik"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617697&streamencoding=mp31", 
+            "name": "Du stehst an meiner Seite"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617691&streamencoding=mp31", 
+            "name": "Lass Feuer regnen"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617698&streamencoding=mp31", 
+            "name": "Topmodel"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617717&streamencoding=mp31", 
+            "name": "Mein Herz tut weh"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617720&streamencoding=mp31", 
+            "name": "Ich bete"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617695&streamencoding=mp31", 
+            "name": "Mein Garten"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617696&streamencoding=mp31", 
+            "name": "Sie komm' in schwarzen Anz\u00fcgen (Gitarrenversion)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "71501"
+}

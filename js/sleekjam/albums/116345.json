@@ -1,0 +1,14 @@
+{
+    "name": "Flashback train", 
+    "artist": "Badiali sandro", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116345&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=988914&streamencoding=mp31", 
+            "name": "flashback train"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116345"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The Splitting of the Breast", 
+    "artist": "Infocalypse", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77238&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665648&streamencoding=mp31", 
+            "name": "Exploding Head Syndrome"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665649&streamencoding=mp31", 
+            "name": "I Open"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665661&streamencoding=mp31", 
+            "name": "The Future Never Happened"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665662&streamencoding=mp31", 
+            "name": "Mutually Assured Distraction"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=665663&streamencoding=mp31", 
+            "name": "Two Of Me"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77238"
+}

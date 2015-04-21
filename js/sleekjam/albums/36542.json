@@ -1,0 +1,49 @@
+{
+    "name": "Wie gro\u00df ist die Luft ?", 
+    "artist": "Rainer Thelonius Balthasar Straschill", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36542&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=254366&streamencoding=mp31", 
+            "name": "Der Himmel hat gepupst"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=254373&streamencoding=mp31", 
+            "name": "Ein Schwapps D\u00fcnnes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=254382&streamencoding=mp31", 
+            "name": "Seym Zschuid"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=254390&streamencoding=mp31", 
+            "name": "Igelnasen"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=254466&streamencoding=mp31", 
+            "name": "Meine alten Algorithmen"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=254447&streamencoding=mp31", 
+            "name": "Sacrosanctvm"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=254443&streamencoding=mp31", 
+            "name": "Asoziale Netzwerke"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=254438&streamencoding=mp31", 
+            "name": "Wie gro\u00df ist die Luft ?"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36542"
+}

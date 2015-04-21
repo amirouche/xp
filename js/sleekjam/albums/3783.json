@@ -1,0 +1,74 @@
+{
+    "name": "Na jug", 
+    "artist": "SUR", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3783&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29959&streamencoding=mp31", 
+            "name": "Lahko te \u010dutim"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29960&streamencoding=mp31", 
+            "name": "Zadnji klic za Mars"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29961&streamencoding=mp31", 
+            "name": "Neizbe\u017een dan"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29962&streamencoding=mp31", 
+            "name": "Ljubim te"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29963&streamencoding=mp31", 
+            "name": "Na jug"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29964&streamencoding=mp31", 
+            "name": "Vse te dolge dni poletja"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29965&streamencoding=mp31", 
+            "name": "Ne premorem besed"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29966&streamencoding=mp31", 
+            "name": "Zarja"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29967&streamencoding=mp31", 
+            "name": "Brez uvoda"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29968&streamencoding=mp31", 
+            "name": "Sem kar sem"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29969&streamencoding=mp31", 
+            "name": "Nebo"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29970&streamencoding=mp31", 
+            "name": "Nosi me"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29971&streamencoding=mp31", 
+            "name": "Bluz"
+        }
+    ], 
+    "release": "2007", 
+    "id": "3783"
+}

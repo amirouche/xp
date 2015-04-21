@@ -1,0 +1,79 @@
+{
+    "name": "I Tell You What", 
+    "artist": "Catherine Corelli", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70271&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607065&streamencoding=mp31", 
+            "name": "Solari 40707"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607070&streamencoding=mp31", 
+            "name": "Blue Grin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607066&streamencoding=mp31", 
+            "name": "I Tell You What"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607071&streamencoding=mp31", 
+            "name": "Fixing Kiss"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607061&streamencoding=mp31", 
+            "name": "Sort Out"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607064&streamencoding=mp31", 
+            "name": "Omitted"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607068&streamencoding=mp31", 
+            "name": "Home"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607059&streamencoding=mp31", 
+            "name": "Morning Dance (dedicated to N)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607062&streamencoding=mp31", 
+            "name": "I'll Never Come"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607067&streamencoding=mp31", 
+            "name": "Sky-Lit Eyelids"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607060&streamencoding=mp31", 
+            "name": "Don't Bother"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607063&streamencoding=mp31", 
+            "name": "J.J.(Resist Hold On Survive)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607069&streamencoding=mp31", 
+            "name": "I'm Silk"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=607072&streamencoding=mp31", 
+            "name": "It's A Pity"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70271"
+}

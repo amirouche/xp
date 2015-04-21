@@ -1,0 +1,59 @@
+{
+    "name": "Select techno works or Do not cry more for me, I am dead", 
+    "artist": "Se\u00f1or B", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80614&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691777&streamencoding=mp31", 
+            "name": "The cross"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691554&streamencoding=mp31", 
+            "name": "Dealing cards"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691582&streamencoding=mp31", 
+            "name": "Boxing"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691606&streamencoding=mp31", 
+            "name": "Shining shoes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691607&streamencoding=mp31", 
+            "name": "Draw gun"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691608&streamencoding=mp31", 
+            "name": "Kill them"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691609&streamencoding=mp31", 
+            "name": "Blow"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691734&streamencoding=mp31", 
+            "name": "Keeping gun"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691735&streamencoding=mp31", 
+            "name": "Shocking"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691736&streamencoding=mp31", 
+            "name": "Wish the zombie"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80614"
+}

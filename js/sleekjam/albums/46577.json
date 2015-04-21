@@ -1,0 +1,29 @@
+{
+    "name": "RE-VERSO", 
+    "artist": "RE-VERSO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46577&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=358045&streamencoding=mp31", 
+            "name": "SIN FRENO Y DEBOCAO"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=358047&streamencoding=mp31", 
+            "name": "MI MAL DE ANDAR"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=358043&streamencoding=mp31", 
+            "name": "MALDIGO"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=358044&streamencoding=mp31", 
+            "name": "RE-VERSO"
+        }
+    ], 
+    "release": "2009", 
+    "id": "46577"
+}

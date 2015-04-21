@@ -1,0 +1,44 @@
+{
+    "name": "Safe At 26Km", 
+    "artist": "NoiseFall", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118403&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005951&streamencoding=mp31", 
+            "name": "42"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005952&streamencoding=mp31", 
+            "name": "Consequences"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005953&streamencoding=mp31", 
+            "name": "Gone Beyond"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005954&streamencoding=mp31", 
+            "name": "Fog"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005955&streamencoding=mp31", 
+            "name": "The Last Breath"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005956&streamencoding=mp31", 
+            "name": "The Perfect Suicide of Love"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005957&streamencoding=mp31", 
+            "name": "Scarlet Light"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118403"
+}

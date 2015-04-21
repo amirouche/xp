@@ -1,0 +1,69 @@
+{
+    "name": "Dear Father", 
+    "artist": "EIVISSA SALINAS feat. DJ HSERES", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107103&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906713&streamencoding=mp31", 
+            "name": "Emotions Time [Radio Edit]***"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906714&streamencoding=mp31", 
+            "name": "Between Two Rocks"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906715&streamencoding=mp31", 
+            "name": "Life is Dancing****"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906716&streamencoding=mp31", 
+            "name": "Raining Day***"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906717&streamencoding=mp31", 
+            "name": "Spring Miles Flower"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906718&streamencoding=mp31", 
+            "name": "All These Years***"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906719&streamencoding=mp31", 
+            "name": "Past to Present"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906720&streamencoding=mp31", 
+            "name": "Midnight Jazzy Moon*****"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906721&streamencoding=mp31", 
+            "name": "Emotions Time [Cartage Mix]"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906722&streamencoding=mp31", 
+            "name": "Dear Father***"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906723&streamencoding=mp31", 
+            "name": "Acid Retro"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906724&streamencoding=mp31", 
+            "name": "Everywhere Snow"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107103"
+}

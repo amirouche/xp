@@ -1,0 +1,74 @@
+{
+    "name": "Toti toti", 
+    "artist": "Limando", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111224&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946703&streamencoding=mp31", 
+            "name": "Sin mirar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946700&streamencoding=mp31", 
+            "name": "Gente"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946701&streamencoding=mp31", 
+            "name": "Househusband"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946702&streamencoding=mp31", 
+            "name": "La secreta"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946704&streamencoding=mp31", 
+            "name": "Mi compa\u00f1era"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946705&streamencoding=mp31", 
+            "name": "El tiempo lo dir\u00e1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946706&streamencoding=mp31", 
+            "name": "Doctor no se automedique"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946707&streamencoding=mp31", 
+            "name": "*****"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946708&streamencoding=mp31", 
+            "name": "Tania"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946709&streamencoding=mp31", 
+            "name": "Welcome"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946698&streamencoding=mp31", 
+            "name": "La mesita de luz"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946699&streamencoding=mp31", 
+            "name": "Shopping"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946733&streamencoding=mp31", 
+            "name": "Es m\u00e1s barato"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111224"
+}

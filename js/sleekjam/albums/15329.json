@@ -1,0 +1,39 @@
+{
+    "name": "Somogyh\u00e1rs\u00e1gy Adi\u00f6", 
+    "artist": "Ur Knall", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15329&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115018&streamencoding=mp31", 
+            "name": " Wespe im Honigglas"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115073&streamencoding=mp31", 
+            "name": "Lombtalanit\u00e1s"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115019&streamencoding=mp31", 
+            "name": "Bad Breakfast "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115071&streamencoding=mp31", 
+            "name": "EKG"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115075&streamencoding=mp31", 
+            "name": "Monday Mornig Walk to the Busstop / Luni Dimineata"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=115070&streamencoding=mp31", 
+            "name": "Bum bum cha "
+        }
+    ], 
+    "release": "2007", 
+    "id": "15329"
+}

@@ -1,0 +1,114 @@
+{
+    "name": "Transition", 
+    "artist": "Shino", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85865&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734481&streamencoding=mp31", 
+            "name": "XXX"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734482&streamencoding=mp31", 
+            "name": "Vampires Love"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734483&streamencoding=mp31", 
+            "name": "A Song For Pain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734484&streamencoding=mp31", 
+            "name": "Dying During Life"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734485&streamencoding=mp31", 
+            "name": "Suicide"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734486&streamencoding=mp31", 
+            "name": "Taolin Tear"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734487&streamencoding=mp31", 
+            "name": "Guardian"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734488&streamencoding=mp31", 
+            "name": "Peri"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734489&streamencoding=mp31", 
+            "name": "Last Storm"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734490&streamencoding=mp31", 
+            "name": "Still Me"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734491&streamencoding=mp31", 
+            "name": "For My Little Vamp"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734492&streamencoding=mp31", 
+            "name": "Winter Flowers"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734493&streamencoding=mp31", 
+            "name": "Belief"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734494&streamencoding=mp31", 
+            "name": "Something Wrong"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734495&streamencoding=mp31", 
+            "name": "The Courage Song"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734496&streamencoding=mp31", 
+            "name": "Ich weiss es nicht"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734497&streamencoding=mp31", 
+            "name": "Molitwa"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734498&streamencoding=mp31", 
+            "name": "Melancholia"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734499&streamencoding=mp31", 
+            "name": "My Mistress"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734500&streamencoding=mp31", 
+            "name": "Fall Days"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=734501&streamencoding=mp31", 
+            "name": "Schlaflied"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85865"
+}

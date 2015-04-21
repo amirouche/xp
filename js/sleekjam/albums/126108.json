@@ -1,0 +1,54 @@
+{
+    "name": "In The Air", 
+    "artist": "Alberto Mandis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126108&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066893&streamencoding=mp31", 
+            "name": "In The Air"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066894&streamencoding=mp31", 
+            "name": "Bossa for you"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066895&streamencoding=mp31", 
+            "name": "Convertation"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066896&streamencoding=mp31", 
+            "name": "Message to a Friend"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066898&streamencoding=mp31", 
+            "name": "For Nicoletta"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066901&streamencoding=mp31", 
+            "name": "Slow Jazz"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066916&streamencoding=mp31", 
+            "name": "Day After Day"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066918&streamencoding=mp31", 
+            "name": "Another Life"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066923&streamencoding=mp31", 
+            "name": "Sentiment"
+        }
+    ], 
+    "release": "2013", 
+    "id": "126108"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Desenterrando los Fantasmas del Pasado (Canciones 2002-2005)", 
+    "artist": "Para\u00edso Puma", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32575&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220325&streamencoding=mp31", 
+            "name": "La Cuerda (Los Sucesores del Ruido)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220360&streamencoding=mp31", 
+            "name": "El Puma en las Puertas del Alba"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220745&streamencoding=mp31", 
+            "name": "Malditas Instituciones"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220752&streamencoding=mp31", 
+            "name": "De a Poco"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220753&streamencoding=mp31", 
+            "name": "Chapa Hijo de Puta (Los Sucesores del Ruido)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220834&streamencoding=mp31", 
+            "name": "Too Much Alcohol"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220841&streamencoding=mp31", 
+            "name": "Las Balas (Parte I)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220869&streamencoding=mp31", 
+            "name": "El Milagro (S\u00e1tira al Reggeaton)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=220890&streamencoding=mp31", 
+            "name": "Estrella Fogosa (Los Sucesores del Ruido)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221013&streamencoding=mp31", 
+            "name": "Vigilado"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221029&streamencoding=mp31", 
+            "name": "La Tormenta Violeta"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=221031&streamencoding=mp31", 
+            "name": "El Puma en las Puertas del Ocaso"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32575"
+}

@@ -1,0 +1,104 @@
+{
+    "name": "My friend Stan", 
+    "artist": "Project System 12", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96029&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820837&streamencoding=mp31", 
+            "name": "Project System 12 - Atlantis"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820838&streamencoding=mp31", 
+            "name": "Project System 12 - Overture 2011"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820839&streamencoding=mp31", 
+            "name": "Project System 12 - Jetbird"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820840&streamencoding=mp31", 
+            "name": "Project System 12 - The Journey"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820841&streamencoding=mp31", 
+            "name": "Project System 12 - Chambers of Love"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820842&streamencoding=mp31", 
+            "name": "Project System 12 - My Friend Stan"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820843&streamencoding=mp31", 
+            "name": "Project System 12 - Baby Blue Eyes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820844&streamencoding=mp31", 
+            "name": "Project System 12 - A little Prayer"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820845&streamencoding=mp31", 
+            "name": "Project System 12 - Waiting for the Sandman"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820846&streamencoding=mp31", 
+            "name": "Project System 12 - Sweet little Poison"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820847&streamencoding=mp31", 
+            "name": "Project System 12 - Midnight on the Highway"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820848&streamencoding=mp31", 
+            "name": "Project System 12 - June Bug"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820849&streamencoding=mp31", 
+            "name": "Project System 12 - Nobody cares"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820850&streamencoding=mp31", 
+            "name": "Project System 12 - Sailboats"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820851&streamencoding=mp31", 
+            "name": "Project System 12 - I'm in love with you"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820852&streamencoding=mp31", 
+            "name": "Project System 12 - Hand in Hand"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820853&streamencoding=mp31", 
+            "name": "Project System 12 - Have a good time"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820854&streamencoding=mp31", 
+            "name": "Project System 12 - Sunflowers"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=820855&streamencoding=mp31", 
+            "name": "Project System 12 - Canary Islands"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96029"
+}

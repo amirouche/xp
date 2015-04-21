@@ -1,0 +1,14 @@
+{
+    "name": "Undermouth", 
+    "artist": "Undermouth", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18662&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132121&streamencoding=mp31", 
+            "name": "Respect"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18662"
+}

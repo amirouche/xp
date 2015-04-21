@@ -1,0 +1,14 @@
+{
+    "name": "Utopia(single)", 
+    "artist": "ZEALOT", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43574&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=324286&streamencoding=mp31", 
+            "name": "utopia"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43574"
+}

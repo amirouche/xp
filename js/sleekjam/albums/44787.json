@@ -1,0 +1,29 @@
+{
+    "name": "Tar... Feathers Split", 
+    "artist": "happiness", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44787&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338229&streamencoding=mp31", 
+            "name": "Look at that rabbit go!"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338226&streamencoding=mp31", 
+            "name": "the C.I.A."
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338227&streamencoding=mp31", 
+            "name": "Neighbourhood"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=338228&streamencoding=mp31", 
+            "name": "Feet fail me again"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44787"
+}

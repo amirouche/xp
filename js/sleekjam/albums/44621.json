@@ -1,0 +1,44 @@
+{
+    "name": "AFreecanxpress dkr bluez@ALBUM TOUBA ", 
+    "artist": "AfreecanXpress dkr bluez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44621&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336419&streamencoding=mp31", 
+            "name": "-Give a Praise"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336417&streamencoding=mp31", 
+            "name": "-Afreecan Blues"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336418&streamencoding=mp31", 
+            "name": "-Gidence & Protection"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336420&streamencoding=mp31", 
+            "name": "-Touba"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336421&streamencoding=mp31", 
+            "name": "-Salatoula"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336422&streamencoding=mp31", 
+            "name": "-Monsieur Pr\u00e9sident"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336423&streamencoding=mp31", 
+            "name": "-mame boye"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44621"
+}

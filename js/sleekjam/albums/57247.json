@@ -1,0 +1,74 @@
+{
+    "name": "Social Freaks", 
+    "artist": "coldreavers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57247&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488062&streamencoding=mp31", 
+            "name": "Listen To Dogs, Not To Women"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488059&streamencoding=mp31", 
+            "name": "Dances With Wolves"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488060&streamencoding=mp31", 
+            "name": "September"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488058&streamencoding=mp31", 
+            "name": "Emma Stone"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488051&streamencoding=mp31", 
+            "name": "My Factory"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488050&streamencoding=mp31", 
+            "name": "Love's Gone"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488061&streamencoding=mp31", 
+            "name": "Angels Go Down To Demons"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488057&streamencoding=mp31", 
+            "name": "You Are So Pretty And  So Sad Inside"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488052&streamencoding=mp31", 
+            "name": "Spb Sunrise"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488056&streamencoding=mp31", 
+            "name": "Happy End"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488053&streamencoding=mp31", 
+            "name": "No Association (bonus track)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488054&streamencoding=mp31", 
+            "name": "Shitty Love (bonus track)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488055&streamencoding=mp31", 
+            "name": "Haters Wanna War (bonus track)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57247"
+}

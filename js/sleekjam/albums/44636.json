@@ -1,0 +1,49 @@
+{
+    "name": "Blues at home", 
+    "artist": "Ciampa & The Blues", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44636&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336213&streamencoding=mp31", 
+            "name": "The Blues start my train"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336219&streamencoding=mp31", 
+            "name": "It hurts me too. My dreams come true"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336230&streamencoding=mp31", 
+            "name": "Goin Home. Me and my mama"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336234&streamencoding=mp31", 
+            "name": "Got my mojo workin"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336235&streamencoding=mp31", 
+            "name": "Blues come early in the morning1-1"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336236&streamencoding=mp31", 
+            "name": "Me and my Wolf"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336581&streamencoding=mp31", 
+            "name": "Baby please dont cry. I am the Blues"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=336592&streamencoding=mp31", 
+            "name": "Blues come early in the morning"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44636"
+}

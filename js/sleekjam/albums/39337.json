@@ -1,0 +1,44 @@
+{
+    "name": "Apocalypsis [EP]", 
+    "artist": "Midnight Delirium", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39337&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280771&streamencoding=mp31", 
+            "name": "Who Said That"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280781&streamencoding=mp31", 
+            "name": "One God"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280769&streamencoding=mp31", 
+            "name": "Apocalypsis"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280784&streamencoding=mp31", 
+            "name": "Music Is Not a Competition"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280786&streamencoding=mp31", 
+            "name": "Life More Than..."
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280788&streamencoding=mp31", 
+            "name": "Money"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=280792&streamencoding=mp31", 
+            "name": "Money [Another Edit]"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39337"
+}

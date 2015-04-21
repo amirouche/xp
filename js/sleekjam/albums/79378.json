@@ -1,0 +1,29 @@
+{
+    "name": "Transition (EP)", 
+    "artist": "yemguy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79378&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682639&streamencoding=mp31", 
+            "name": "Nouveau D\u00e9part (Feat Manhope)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682640&streamencoding=mp31", 
+            "name": "Partir (Feat K.Ambrogi)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682643&streamencoding=mp31", 
+            "name": "C l'immortalit\u00e9 ki prime (Feat Elie Grey)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=682644&streamencoding=mp31", 
+            "name": "A la une, \u00e0 la fin... (MN Lyrics)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79378"
+}

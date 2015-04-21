@@ -1,0 +1,69 @@
+{
+    "name": "Regreso al pan duro", 
+    "artist": "Vagos Permanentes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122625&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041057&streamencoding=mp31", 
+            "name": " V de Vagueza"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041060&streamencoding=mp31", 
+            "name": " Los Muertos del Hambre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041049&streamencoding=mp31", 
+            "name": " La Guerra de los Mudos "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041050&streamencoding=mp31", 
+            "name": " Yo Rob\u00e9"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041051&streamencoding=mp31", 
+            "name": " Martin M\u00e1s Flais"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041052&streamencoding=mp31", 
+            "name": " Prometemus"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041053&streamencoding=mp31", 
+            "name": " Una Nueva Ense\u00f1anza"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041054&streamencoding=mp31", 
+            "name": " El Imperio te Atraca"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041055&streamencoding=mp31", 
+            "name": " El Retorno del Jevi"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041056&streamencoding=mp31", 
+            "name": " Alguien"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041058&streamencoding=mp31", 
+            "name": " Soy Hacienda"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1041059&streamencoding=mp31", 
+            "name": " President Evil"
+        }
+    ], 
+    "release": "2013", 
+    "id": "122625"
+}

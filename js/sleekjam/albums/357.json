@@ -1,0 +1,49 @@
+{
+    "name": "Toutes directions", 
+    "artist": "AdHoc", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=357&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2211&streamencoding=mp31", 
+            "name": "La note en cage"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2212&streamencoding=mp31", 
+            "name": "P\u00e9ninsule"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2213&streamencoding=mp31", 
+            "name": "Sumbala"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2214&streamencoding=mp31", 
+            "name": "L'agonie de l'inspecteur C"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2215&streamencoding=mp31", 
+            "name": "Retard"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2216&streamencoding=mp31", 
+            "name": "Rendez-vous au .org"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2217&streamencoding=mp31", 
+            "name": "S\u00e9rie B"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2218&streamencoding=mp31", 
+            "name": "No border"
+        }
+    ], 
+    "release": "2005", 
+    "id": "357"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Les trois amis", 
+    "artist": "Thierry GAHINET", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56929&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483032&streamencoding=mp31", 
+            "name": "Troussez les toiles"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483035&streamencoding=mp31", 
+            "name": "Les trois amis"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483036&streamencoding=mp31", 
+            "name": "Atlantique Pacifique"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483041&streamencoding=mp31", 
+            "name": "Ma chanson"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483042&streamencoding=mp31", 
+            "name": "Sur le fil"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483043&streamencoding=mp31", 
+            "name": "Carte postale"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483045&streamencoding=mp31", 
+            "name": "Petite soeur"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483047&streamencoding=mp31", 
+            "name": "Parenth\u00e8se"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483048&streamencoding=mp31", 
+            "name": "Piste du cd-audio 9"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483053&streamencoding=mp31", 
+            "name": "Pour un rhume"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483055&streamencoding=mp31", 
+            "name": "Ballon dirigeable"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483057&streamencoding=mp31", 
+            "name": "Salle des profs"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483061&streamencoding=mp31", 
+            "name": "L'empoisonneuse"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56929"
+}

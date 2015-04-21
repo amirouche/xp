@@ -1,0 +1,59 @@
+{
+    "name": "Bism'Illah", 
+    "artist": "ANATTA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62486&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536059&streamencoding=mp31", 
+            "name": "The Last Shepherd (Le Dernier Berger)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536062&streamencoding=mp31", 
+            "name": "L'Envol Du Souffle"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536057&streamencoding=mp31", 
+            "name": "Le Jardin Des Morts"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536058&streamencoding=mp31", 
+            "name": "Ahlam Al-Sanounouat (Souvenir d'Hirondelles)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536064&streamencoding=mp31", 
+            "name": "Chant De Ruines"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536065&streamencoding=mp31", 
+            "name": "F\u00fbzen No Tomoshibi (Comme La Lumi\u00e8re D'une Chandelle Devant Le Vent)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536061&streamencoding=mp31", 
+            "name": "Whispering"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536056&streamencoding=mp31", 
+            "name": "Al-Diwan (Le Po\u00e8me)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536063&streamencoding=mp31", 
+            "name": "Ar-Rahma (La Mis\u00e9ricorde)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=536060&streamencoding=mp31", 
+            "name": "As-Souratu-l-Hub (La Sourate de L'Amour)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "62486"
+}

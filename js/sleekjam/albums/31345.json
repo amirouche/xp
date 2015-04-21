@@ -1,0 +1,29 @@
+{
+    "name": "Remain Dreamer", 
+    "artist": "Losteen", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31345&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212617&streamencoding=mp31", 
+            "name": "Song for Sick"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212622&streamencoding=mp31", 
+            "name": "I Wanna (be yoh)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212624&streamencoding=mp31", 
+            "name": "Wasted Skin"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=212631&streamencoding=mp31", 
+            "name": "Somewhere Somehow"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31345"
+}

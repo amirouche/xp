@@ -1,0 +1,39 @@
+{
+    "name": "**: Euphoria/Mania", 
+    "artist": "The Green Tea Monkeys", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59979&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512686&streamencoding=mp31", 
+            "name": "Subculture Criminals"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512684&streamencoding=mp31", 
+            "name": "Zero-Zero"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512685&streamencoding=mp31", 
+            "name": "Tyrannosaurus Fucking Rex"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512687&streamencoding=mp31", 
+            "name": "Turbofuck Overkill"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512688&streamencoding=mp31", 
+            "name": "Overdose"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512689&streamencoding=mp31", 
+            "name": "Humblebees & Chimney Sweeps"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59979"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Titanium ", 
+    "artist": "TitanSlayer", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134630&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125419&streamencoding=mp31", 
+            "name": "Titanium"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125417&streamencoding=mp31", 
+            "name": "Dark Titanium"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125418&streamencoding=mp31", 
+            "name": "Dark Titanium [No JFK speech]"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134630"
+}

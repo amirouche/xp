@@ -1,0 +1,79 @@
+{
+    "name": "na ugorze", 
+    "artist": "michalko wawrzyn", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44715&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337262&streamencoding=mp31", 
+            "name": "Mistrz J\u0119drzej"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337249&streamencoding=mp31", 
+            "name": "\u015aliwa"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337250&streamencoding=mp31", 
+            "name": "Czeski film"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337251&streamencoding=mp31", 
+            "name": "Mandolinowy czaso cofacz"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337252&streamencoding=mp31", 
+            "name": "own bird"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337253&streamencoding=mp31", 
+            "name": "\u017cyd i g\u00f3ral dwa bratanki"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337254&streamencoding=mp31", 
+            "name": "pomieszaniec"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337255&streamencoding=mp31", 
+            "name": "Jeff Harper (jew harp)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337256&streamencoding=mp31", 
+            "name": "POLATINO"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337257&streamencoding=mp31", 
+            "name": "Micha\u0142 i o\u0142\u00f3wek"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337258&streamencoding=mp31", 
+            "name": "\u015awiat\u0142o znieczulacz"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337259&streamencoding=mp31", 
+            "name": "ch\u0142opskie bity"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337260&streamencoding=mp31", 
+            "name": "Jedziemy na koncerta"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337261&streamencoding=mp31", 
+            "name": "KrishnaMuDub"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44715"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Fist", 
+    "artist": "\u041a\u0430\u0431\u0438\u043d\u0430 13 \u0431\u0435\u0434", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93032&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792953&streamencoding=mp31", 
+            "name": "-\u0441\u0430\u043c\u043e\u043b\u0451\u0442"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=792952&streamencoding=mp31", 
+            "name": "-\u0448\u0430\u043d\u0441"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93032"
+}

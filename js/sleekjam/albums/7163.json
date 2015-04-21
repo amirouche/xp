@@ -1,0 +1,64 @@
+{
+    "name": "The Middle Child Is Always A Flaming Terror", 
+    "artist": "The Chadderandom Abyss", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7163&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78663&streamencoding=mp31", 
+            "name": "Are Bud Caught In The Dryer"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78664&streamencoding=mp31", 
+            "name": "Flaming Terror"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78665&streamencoding=mp31", 
+            "name": "Bitter Spoons and Hot Knives"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78666&streamencoding=mp31", 
+            "name": "Float Across The Sky"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78667&streamencoding=mp31", 
+            "name": "Black Lines Ignite"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78668&streamencoding=mp31", 
+            "name": "Just A Vortex (Overcome)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78669&streamencoding=mp31", 
+            "name": "Karate Tag"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78670&streamencoding=mp31", 
+            "name": "Power Line Drive"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78671&streamencoding=mp31", 
+            "name": "Sitting In The Wrong Chair"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78672&streamencoding=mp31", 
+            "name": "Me and Scar Ortiz"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78673&streamencoding=mp31", 
+            "name": "To The Fog"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7163"
+}

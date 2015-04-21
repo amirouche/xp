@@ -1,0 +1,19 @@
+{
+    "name": "Snowfall (Revisited)", 
+    "artist": "Bliss Is", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131041&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098572&streamencoding=mp31", 
+            "name": "Snowfall (Revisited Mix 1)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098571&streamencoding=mp31", 
+            "name": "Snowfall (Revisited Mix 2)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131041"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Jack's Wasted Life", 
+    "artist": "Nothing Kills The Sun", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45115&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342169&streamencoding=mp31", 
+            "name": "You, Me and this Landmine"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342168&streamencoding=mp31", 
+            "name": "I Ate Everybody"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=342170&streamencoding=mp31", 
+            "name": "Open Fire"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45115"
+}

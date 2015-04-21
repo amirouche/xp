@@ -1,0 +1,29 @@
+{
+    "name": "Joaquin Blue Blue Feelings and Cosmic Guitars", 
+    "artist": "ProfesorJ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134110&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1122201&streamencoding=mp31", 
+            "name": "ACOUSTIC SUMMER BLUES"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1122202&streamencoding=mp31", 
+            "name": "COSMOS CROSSING"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1122208&streamencoding=mp31", 
+            "name": "JAMMING EDIT VERSION 2014"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1122209&streamencoding=mp31", 
+            "name": "SWING MENOR JAZZY ACOUSTIC"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134110"
+}

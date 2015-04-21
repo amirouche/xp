@@ -1,0 +1,19 @@
+{
+    "name": "SYNTHESTETHICA 8.8", 
+    "artist": "Mr Yo So", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80555&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691307&streamencoding=mp31", 
+            "name": "skaters SYNTHESTETHICA 1.8"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691310&streamencoding=mp31", 
+            "name": "mr song and mrs waltz Lidce SYNTHESTETHICA 2.8"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80555"
+}

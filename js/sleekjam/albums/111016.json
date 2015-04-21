@@ -1,0 +1,89 @@
+{
+    "name": "AMOR ALL", 
+    "artist": "Peter Staaden", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111016&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945152&streamencoding=mp31", 
+            "name": "Heart"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945139&streamencoding=mp31", 
+            "name": "Yoghurt"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945149&streamencoding=mp31", 
+            "name": "Sailboat"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945146&streamencoding=mp31", 
+            "name": "The Persuaders"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945138&streamencoding=mp31", 
+            "name": "Into The Wild"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945140&streamencoding=mp31", 
+            "name": "Foward"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945144&streamencoding=mp31", 
+            "name": "Tree Of Live"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945145&streamencoding=mp31", 
+            "name": "Groove"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945141&streamencoding=mp31", 
+            "name": "Nothing New"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945137&streamencoding=mp31", 
+            "name": "Sphere"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945142&streamencoding=mp31", 
+            "name": "Seven Pillars"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945147&streamencoding=mp31", 
+            "name": "Being Equal"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945148&streamencoding=mp31", 
+            "name": "Shamati"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945143&streamencoding=mp31", 
+            "name": "Roses"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945150&streamencoding=mp31", 
+            "name": "Funky"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945151&streamencoding=mp31", 
+            "name": "Godzilla"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111016"
+}

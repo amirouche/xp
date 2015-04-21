@@ -1,0 +1,14 @@
+{
+    "name": "Dancing In The Rain", 
+    "artist": "Ghost's Stories", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124922&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1059095&streamencoding=mp31", 
+            "name": "Dancing In The Rain"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124922"
+}

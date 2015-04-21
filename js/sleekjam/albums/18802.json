@@ -1,0 +1,39 @@
+{
+    "name": "ANALog", 
+    "artist": "Steve Tarzan et les d\u00e9colonisateurs", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18802&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133022&streamencoding=mp31", 
+            "name": "Hardcore Liquor Store"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133021&streamencoding=mp31", 
+            "name": "Une belle-m\u00e8re de b\u00e9ton"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133017&streamencoding=mp31", 
+            "name": "Analogies enfantines."
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133015&streamencoding=mp31", 
+            "name": "Dialogue de sourds"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133018&streamencoding=mp31", 
+            "name": "Vers \u00e0 vendre (Les tics de Steve)."
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=133020&streamencoding=mp31", 
+            "name": "Hardcore Liquor Store-Organ mix."
+        }
+    ], 
+    "release": "2008", 
+    "id": "18802"
+}

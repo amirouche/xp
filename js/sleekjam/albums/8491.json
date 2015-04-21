@@ -1,0 +1,89 @@
+{
+    "name": "Ineluctable Modality", 
+    "artist": "Euterpe Archipelago", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8491&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88661&streamencoding=mp31", 
+            "name": "What Lips"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88632&streamencoding=mp31", 
+            "name": "Beatrice"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88633&streamencoding=mp31", 
+            "name": "Blue Squills"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88634&streamencoding=mp31", 
+            "name": "Sea Fever"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88635&streamencoding=mp31", 
+            "name": "Tarantella"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88636&streamencoding=mp31", 
+            "name": "Soft Rain"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88637&streamencoding=mp31", 
+            "name": "The Leaves Falling"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88638&streamencoding=mp31", 
+            "name": "Brahma"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88639&streamencoding=mp31", 
+            "name": "Ineluctable modality"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88640&streamencoding=mp31", 
+            "name": "The Dark Wood"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88641&streamencoding=mp31", 
+            "name": "War Films"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88642&streamencoding=mp31", 
+            "name": "Daphne"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88643&streamencoding=mp31", 
+            "name": "A Great Lover"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88644&streamencoding=mp31", 
+            "name": "Dead Mens Love"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88645&streamencoding=mp31", 
+            "name": "Helen"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=88646&streamencoding=mp31", 
+            "name": "Song"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8491"
+}

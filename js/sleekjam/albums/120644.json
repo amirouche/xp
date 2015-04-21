@@ -1,0 +1,64 @@
+{
+    "name": "Northbound", 
+    "artist": "James Sainark", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120644&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026226&streamencoding=mp31", 
+            "name": "The Horizon pt I"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026225&streamencoding=mp31", 
+            "name": "Northbound"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026222&streamencoding=mp31", 
+            "name": "Fear ( Northern version)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026227&streamencoding=mp31", 
+            "name": "The sky above and the road below pt I"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026228&streamencoding=mp31", 
+            "name": "Northern Lights"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026229&streamencoding=mp31", 
+            "name": "Green Waves"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026219&streamencoding=mp31", 
+            "name": "The Midnight Sun"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026220&streamencoding=mp31", 
+            "name": "The sky above and the road below pt II"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026221&streamencoding=mp31", 
+            "name": "Ride"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026223&streamencoding=mp31", 
+            "name": "Konpiano"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1026224&streamencoding=mp31", 
+            "name": "The Horizon pt II"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120644"
+}

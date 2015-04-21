@@ -1,0 +1,59 @@
+{
+    "name": "Takes at the Gate", 
+    "artist": "Melophon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58657&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500879&streamencoding=mp31", 
+            "name": "Classic Illusion"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500915&streamencoding=mp31", 
+            "name": "Grool"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500942&streamencoding=mp31", 
+            "name": "Retour"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500983&streamencoding=mp31", 
+            "name": "Still Working"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500923&streamencoding=mp31", 
+            "name": "No Business"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500995&streamencoding=mp31", 
+            "name": "Taxes"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500962&streamencoding=mp31", 
+            "name": "Sad News"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500926&streamencoding=mp31", 
+            "name": "Relax"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500883&streamencoding=mp31", 
+            "name": "Experiment"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=500982&streamencoding=mp31", 
+            "name": "Sequel"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58657"
+}

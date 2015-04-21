@@ -1,0 +1,69 @@
+{
+    "name": ".", 
+    "artist": "Nobre Cavalgada Pelos C\u00e9us Da Calif\u00f3rnia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50184&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403392&streamencoding=mp31", 
+            "name": "."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403393&streamencoding=mp31", 
+            "name": "Relativismo Est\u00e9tico Sobre A Raz\u00e3o Hipot\u00e9tica Do Ser"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403394&streamencoding=mp31", 
+            "name": "Esta Faixa Tem Sete Minutos E Trinta E Sete Segundos"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403395&streamencoding=mp31", 
+            "name": "Faixa Bastante Curiosa Quando Tocada De Tr\u00e1s Para A Frente"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403396&streamencoding=mp31", 
+            "name": "A Porta Da Adega Suga O Infinito"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403397&streamencoding=mp31", 
+            "name": "Anficelestialidade Mono-Cl\u00e1ssica"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403398&streamencoding=mp31", 
+            "name": "Cavalgar Sobre O Lodo Em 9 Li\u00e7\u00f5es"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403399&streamencoding=mp31", 
+            "name": "Summer Hit #1"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403400&streamencoding=mp31", 
+            "name": "O LSD Da Cova Da Iria Bate Forte"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403401&streamencoding=mp31", 
+            "name": "Quisto Seb\u00e1ceo"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403665&streamencoding=mp31", 
+            "name": "4'33''"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=403634&streamencoding=mp31", 
+            "name": "A Ind\u00fastria Metal\u00fargica N\u00e3o Passa De Um Lobby Pr\u00f3-M\u00fasica Met\u00e1lica"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50184"
+}

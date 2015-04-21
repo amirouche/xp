@@ -1,0 +1,14 @@
+{
+    "name": "Above the Clouds demo", 
+    "artist": "Paulo Thiago Santa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75198&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=648749&streamencoding=mp31", 
+            "name": "Above the Clouds (demo)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75198"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "DD88 - 101st (single)", 
+    "artist": "DD88", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83020&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711370&streamencoding=mp31", 
+            "name": "DD88 - 101st"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=711372&streamencoding=mp31", 
+            "name": "DD88 - silence (part 1)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83020"
+}

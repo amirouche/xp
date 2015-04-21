@@ -1,0 +1,509 @@
+{
+    "albums": [
+        {
+            "release": "2009", 
+            "artist": "The Jaygles", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53343&imagesize=100", 
+            "id": "53343", 
+            "name": "I See A Road (live version)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "57jackbraves", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71323&imagesize=100", 
+            "id": "71323", 
+            "name": "Country Two"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Karmafish", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132655&imagesize=100", 
+            "id": "132655", 
+            "name": "Daisy Bell - The Karmafish Remixes"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Beto Campos", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61502&imagesize=100", 
+            "id": "61502", 
+            "name": "Meu Brasil - continua\u00e7\u00e3o"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Danny Ramirez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102584&imagesize=100", 
+            "id": "102584", 
+            "name": "X-mas Time With Danny Ramirez!"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Luke Tan", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65073&imagesize=100", 
+            "id": "65073", 
+            "name": "Songs For A May Day Picnic"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Luke Tan", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26059&imagesize=100", 
+            "id": "26059", 
+            "name": "Here Come The Floods"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Luke Tan", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21362&imagesize=100", 
+            "id": "21362", 
+            "name": "The Suicide King"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Lorenzo Taranta", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71642&imagesize=100", 
+            "id": "71642", 
+            "name": "hold me"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Tony Bardon", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54955&imagesize=100", 
+            "id": "54955", 
+            "name": "Future Shock"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Frisco Sanchez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57221&imagesize=100", 
+            "id": "57221", 
+            "name": "En El Sur"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Frisco Sanchez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86457&imagesize=100", 
+            "id": "86457", 
+            "name": "Su poci\u00f3n"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Frisco Sanchez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113524&imagesize=100", 
+            "id": "113524", 
+            "name": "ME PONGO A LA SOMBRA"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Dee Yan-Key", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131056&imagesize=100", 
+            "id": "131056", 
+            "name": "An Siansa h\u00c9ireann"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Young Blood Undertakers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5309&imagesize=100", 
+            "id": "5309", 
+            "name": "From the Forest to the Town"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Saul Bello", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63776&imagesize=100", 
+            "id": "63776", 
+            "name": "Saul Bello"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Michigan Lyricist", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107869&imagesize=100", 
+            "id": "107869", 
+            "name": "Wishing My Life Away V6"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Michigan Lyricist", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105910&imagesize=100", 
+            "id": "105910", 
+            "name": "Internet Love - V2"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Michigan Lyricist", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108127&imagesize=100", 
+            "id": "108127", 
+            "name": "Wishing My Life Away"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Michigan Lyricist", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75019&imagesize=100", 
+            "id": "75019", 
+            "name": "Internet Love - V1"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Jochen Sch\u00f6nfelder", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68247&imagesize=100", 
+            "id": "68247", 
+            "name": "Reifenpanne auf der A3"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "ARTSomerville", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24936&imagesize=100", 
+            "id": "24936", 
+            "name": "Gregg Porter Project"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "ARTSomerville", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50228&imagesize=100", 
+            "id": "50228", 
+            "name": "Brown Bird at The Nave"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "ARTSomerville", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34132&imagesize=100", 
+            "id": "34132", 
+            "name": "Gregg Porter Live at The Nave"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "AweSound", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74527&imagesize=100", 
+            "id": "74527", 
+            "name": "Colorado Trail"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Carlo Belletti", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=95057&imagesize=100", 
+            "id": "95057", 
+            "name": "Finnegan's Wake"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "ANTONIS THALASSINOS-SALONIKI-GREECE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124331&imagesize=100", 
+            "id": "124331", 
+            "name": "Greece- Thessaloniki"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "ANTONIS THALASSINOS-SALONIKI-GREECE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82318&imagesize=100", 
+            "id": "82318", 
+            "name": "\u03a4\u0391 \u039a\u0391\u039b\u0391\u039d\u03a4\u0391 \u03a4\u03a9\u039d \u03a7\u03a1\u0399\u03a3\u03a4\u039f\u03a5\u0393\u0395\u039d\u039d\u03a9\u039d \u03a4\u039f\u03a5 \u039f\u039b\u03a5\u039c\u03a0\u0399\u0391\u039a\u039f\u03a5 \u03a4\u039f\u03a5 2010"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Valter De Luca", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24183&imagesize=100", 
+            "id": "24183", 
+            "name": "Cuore italiano"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Dee-yun Kaj ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131177&imagesize=100", 
+            "id": "131177", 
+            "name": "A Bavarian Symphony"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Deiedra", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111571&imagesize=100", 
+            "id": "111571", 
+            "name": "Legegabeen Kondairak (2012 RELOAD)"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Mob", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6806&imagesize=100", 
+            "id": "6806", 
+            "name": "What you see, what you say"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Handmade", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8592&imagesize=100", 
+            "id": "8592", 
+            "name": "Tonewoods"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "R\u00e9gis V. Gronoff", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31732&imagesize=100", 
+            "id": "31732", 
+            "name": "Hummingbird & Honeybee"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Richie Reinholdt", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20785&imagesize=100", 
+            "id": "20785", 
+            "name": "Talk To The Paw"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Richie Reinholdt", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63562&imagesize=100", 
+            "id": "63562", 
+            "name": "Shelf Life"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Richie Reinholdt", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23866&imagesize=100", 
+            "id": "23866", 
+            "name": "Manic Heart"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The Acousticals", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21112&imagesize=100", 
+            "id": "21112", 
+            "name": "Lies of Love"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The Acousticals", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20533&imagesize=100", 
+            "id": "20533", 
+            "name": "Glory Days"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Stellar Art Wars Free License", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66604&imagesize=100", 
+            "id": "66604", 
+            "name": "Adoption (Workshop)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Stellar Art Wars Free License", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68271&imagesize=100", 
+            "id": "68271", 
+            "name": "Happy Just 2 B With U"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Emanuele Mandelli", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102876&imagesize=100", 
+            "id": "102876", 
+            "name": "Hard Bones - 415 state ballad"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Garabi", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43835&imagesize=100", 
+            "id": "43835", 
+            "name": "Garabi at euskalduna prison"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Les gnous fallacieux", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75404&imagesize=100", 
+            "id": "75404", 
+            "name": "Le gnou qui s'imaginait pouvoir infiltrer les z\u00e8bres en toute impunit\u00e9 (et qui s'est fait griller direct)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Crete Boom", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85667&imagesize=100", 
+            "id": "85667", 
+            "name": "Honest Lovers"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "\"Esta Noche no te vayas! (PopCountry)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5100&imagesize=100", 
+            "id": "5100", 
+            "name": "REENCUENTRO"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Racecar", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18391&imagesize=100", 
+            "id": "18391", 
+            "name": "Country Gold"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Racecar", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19244&imagesize=100", 
+            "id": "19244", 
+            "name": "10 Sad Songs"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Kapelle Koralle", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11322&imagesize=100", 
+            "id": "11322", 
+            "name": "Kapelle Koralle kommt"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "deejoke", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50735&imagesize=100", 
+            "id": "50735", 
+            "name": "7 oldtime songs for mandolin"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "deejoke", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51924&imagesize=100", 
+            "id": "51924", 
+            "name": "Lost Indian"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "deejoke", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50633&imagesize=100", 
+            "id": "50633", 
+            "name": "3 old tunes for mandolin"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Necessary Road", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106402&imagesize=100", 
+            "id": "106402", 
+            "name": "SUMMER IN '49"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Necessary Road", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104123&imagesize=100", 
+            "id": "104123", 
+            "name": "OUR TOWN"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Necessary Road", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121557&imagesize=100", 
+            "id": "121557", 
+            "name": "Everyday People Blues - unplugged"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Andrea Raso", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123089&imagesize=100", 
+            "id": "123089", 
+            "name": "Semi Serenata"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "iX", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=12767&imagesize=100", 
+            "id": "12767", 
+            "name": "iX - Can\u00e7ons d'amor i activisme mil\u00e8ssim"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The Chadderandom Abyss", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31646&imagesize=100", 
+            "id": "31646", 
+            "name": "71 Miles"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Pasqualino Fiorica", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20028&imagesize=100", 
+            "id": "20028", 
+            "name": "Baby - Be Anti Blues Yeah !!!"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "David Certano", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27847&imagesize=100", 
+            "id": "27847", 
+            "name": " Very Best of  Boot Cut"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Bricks & Stone ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120212&imagesize=100", 
+            "id": "120212", 
+            "name": "Summer"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Juliano adam", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118685&imagesize=100", 
+            "id": "118685", 
+            "name": "Estrela Minha "
+        }, 
+        {
+            "release": "2009", 
+            "artist": "pepefolks J.M. Granier", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38832&imagesize=100", 
+            "id": "38832", 
+            "name": "en balade"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "RoseBud Blue", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84708&imagesize=100", 
+            "id": "84708", 
+            "name": "RoseBud Blue - Groundhog Single"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "\u0411\u0440\u0430\u0442\u044c\u044f \u0415\u043d\u043e\u0442\u043e\u0432\u044b", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75813&imagesize=100", 
+            "id": "75813", 
+            "name": "\u041b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Mi lo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69491&imagesize=100", 
+            "id": "69491", 
+            "name": "Bouches Cousues"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "radjKarl", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26086&imagesize=100", 
+            "id": "26086", 
+            "name": "zu aller erst."
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Philux", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129064&imagesize=100", 
+            "id": "129064", 
+            "name": "Jolie Petite Nana"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Rod Trotter", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56383&imagesize=100", 
+            "id": "56383", 
+            "name": "Of  Mouse and Man"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "\u041e\u0442\u0435\u043b\u044c \u0411\u0435\u0437\u0443\u043c\u0438\u0435 (Hotel Mindlessness)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98279&imagesize=100", 
+            "id": "98279", 
+            "name": "Single"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Dave Midnight", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55484&imagesize=100", 
+            "id": "55484", 
+            "name": "Rain"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Raulin de los Bosques", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124415&imagesize=100", 
+            "id": "124415", 
+            "name": "Santijuelas y Falta de Rigor"
+        }
+    ], 
+    "name": "Country"
+}

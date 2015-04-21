@@ -1,0 +1,24 @@
+{
+    "name": "deux titres", 
+    "artist": "aoriste", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86232&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=737888&streamencoding=mp31", 
+            "name": "Discr\u00e8te Tentative Continue"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=737887&streamencoding=mp31", 
+            "name": "eth0-logy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=737966&streamencoding=mp31", 
+            "name": "\u00e7a s'arr\u00eate"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86232"
+}

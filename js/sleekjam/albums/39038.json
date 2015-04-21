@@ -1,0 +1,54 @@
+{
+    "name": "Galaktyka", 
+    "artist": "ElManiakoo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39038&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276941&streamencoding=mp31", 
+            "name": "ElManiakoo - Wej\u015bcie - Galaktyka"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276943&streamencoding=mp31", 
+            "name": "ElManiakoo - Mg\u0142awica - Galaktyka"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276944&streamencoding=mp31", 
+            "name": "ElManiakoo - Po Za Granice - Galaktyka"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276945&streamencoding=mp31", 
+            "name": "ElManiakoo - Asteroidy - Galaktyka"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276946&streamencoding=mp31", 
+            "name": "ElManiakoo - Burza - Galaktyka"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276947&streamencoding=mp31", 
+            "name": "ElManiakoo - Droga Mleczna - Galaktyka"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276940&streamencoding=mp31", 
+            "name": "ElManiakoo - Galaktyka - Galaktyka"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276942&streamencoding=mp31", 
+            "name": "ElManiakoo - Powr\u00f3t - Galaktyka"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=276948&streamencoding=mp31", 
+            "name": "ElManiakoo - Bonusik - Galaktyka"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39038"
+}

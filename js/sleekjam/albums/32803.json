@@ -1,0 +1,84 @@
+{
+    "name": "DIGITAL", 
+    "artist": "DIGITAL ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=32803&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222875&streamencoding=mp31", 
+            "name": "kele"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222879&streamencoding=mp31", 
+            "name": "sai sai"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222882&streamencoding=mp31", 
+            "name": "digital"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222887&streamencoding=mp31", 
+            "name": "come back to zion"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222898&streamencoding=mp31", 
+            "name": "soldat"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222903&streamencoding=mp31", 
+            "name": "diola"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222906&streamencoding=mp31", 
+            "name": "intro"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222908&streamencoding=mp31", 
+            "name": "mileef"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222911&streamencoding=mp31", 
+            "name": "jah"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222914&streamencoding=mp31", 
+            "name": "wicked man"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222916&streamencoding=mp31", 
+            "name": "samba is zion"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222918&streamencoding=mp31", 
+            "name": "dieu est grand"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222919&streamencoding=mp31", 
+            "name": "immigre"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222921&streamencoding=mp31", 
+            "name": "fidele remix"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=222943&streamencoding=mp31", 
+            "name": "inch allah"
+        }
+    ], 
+    "release": "2008", 
+    "id": "32803"
+}

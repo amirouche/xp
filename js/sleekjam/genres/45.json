@@ -1,0 +1,1006 @@
+{
+    "albums": [
+        {
+            "release": "2009", 
+            "artist": "Bosonogi", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56755&imagesize=100", 
+            "id": "56755", 
+            "name": "The Year Of The Ox"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Mirko Giorgini", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110172&imagesize=100", 
+            "id": "110172", 
+            "name": "Musical Playground"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "AmokInBlue", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38438&imagesize=100", 
+            "id": "38438", 
+            "name": "KAYNA"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "mark transcendentalist", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61892&imagesize=100", 
+            "id": "61892", 
+            "name": "The Epitafi for Clarion and Prairie Wolves"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "mark transcendentalist", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61834&imagesize=100", 
+            "id": "61834", 
+            "name": "A Park of  Thousands of Dreams"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Kieselguhr", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85644&imagesize=100", 
+            "id": "85644", 
+            "name": "Alienation"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Adamaximus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104033&imagesize=100", 
+            "id": "104033", 
+            "name": "Comunicazione"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Adamaximus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109955&imagesize=100", 
+            "id": "109955", 
+            "name": "Cinghiale bianco p l s A n O"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "P.P", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76529&imagesize=100", 
+            "id": "76529", 
+            "name": "Black and White"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Juan Cobos", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133615&imagesize=100", 
+            "id": "133615", 
+            "name": "Irradia"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Anjey Satori", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82314&imagesize=100", 
+            "id": "82314", 
+            "name": "Healing Sounds of Tibet"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Diaenoxe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59497&imagesize=100", 
+            "id": "59497", 
+            "name": "Sadomasochisme Satanique & Heresies Diverses"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Distimia (Espa\u00f1a)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3764&imagesize=100", 
+            "id": "3764", 
+            "name": "Ad eternae"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Harald S", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108412&imagesize=100", 
+            "id": "108412", 
+            "name": "Weekend Musician"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Guillaume Robbe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48587&imagesize=100", 
+            "id": "48587", 
+            "name": "Piano solo"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Guillaume Robbe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118052&imagesize=100", 
+            "id": "118052", 
+            "name": "Piano solo II"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Shyam Monk", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59754&imagesize=100", 
+            "id": "59754", 
+            "name": "Marugelara"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Universally Inconsistent", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101649&imagesize=100", 
+            "id": "101649", 
+            "name": "Time matters"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Tony Bardon", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54266&imagesize=100", 
+            "id": "54266", 
+            "name": "No Room at the Inn"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Alban Lepsy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105649&imagesize=100", 
+            "id": "105649", 
+            "name": "Zen Relaxation vol 2 : Music For Sleeping"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Alban Lepsy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114421&imagesize=100", 
+            "id": "114421", 
+            "name": "Zen Relaxation vol 3 : Melody of my Soul"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Alban Lepsy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86691&imagesize=100", 
+            "id": "86691", 
+            "name": "Zen Relaxation vol.1 : Nature "
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Alban Lepsy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119852&imagesize=100", 
+            "id": "119852", 
+            "name": "Piano unforgettable"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Alejandro Vallarino", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105595&imagesize=100", 
+            "id": "105595", 
+            "name": "\u00a1Cu\u00e1nto d\u00eda!"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "vilnius.hang", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57252&imagesize=100", 
+            "id": "57252", 
+            "name": "on its way"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Euterpe Archipelago", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8491&imagesize=100", 
+            "id": "8491", 
+            "name": "Ineluctable Modality"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "AlbatOr", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80209&imagesize=100", 
+            "id": "80209", 
+            "name": "psychiquement actif"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Jean-Christophe Morin", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81390&imagesize=100", 
+            "id": "81390", 
+            "name": "ALBUM \"RETOUR A LA VIE\" PREMIERE VERSION"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Marcel ETIENNE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125299&imagesize=100", 
+            "id": "125299", 
+            "name": "Quand ma mie me demande"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "DigitalSimplyWorld ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62345&imagesize=100", 
+            "id": "62345", 
+            "name": "Wi\u0119cbork Impressions"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "HiGhMaS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110406&imagesize=100", 
+            "id": "110406", 
+            "name": "Highmas 4"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Francesco", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104416&imagesize=100", 
+            "id": "104416", 
+            "name": "Qui\u00e9tude"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Francesco", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=16626&imagesize=100", 
+            "id": "16626", 
+            "name": "A la rencontre de Soi"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Francesco", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82736&imagesize=100", 
+            "id": "82736", 
+            "name": "R\u00e9flexions"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Klangmeditation", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38095&imagesize=100", 
+            "id": "38095", 
+            "name": "Wolkenschloss"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Mandala Meditation", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20760&imagesize=100", 
+            "id": "20760", 
+            "name": "Mandala"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Seiscientosdoce", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104833&imagesize=100", 
+            "id": "104833", 
+            "name": "Holismo"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Jhetr\u00f3 Legrand", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107988&imagesize=100", 
+            "id": "107988", 
+            "name": "Eclosi\u00f3n"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Pakaypa", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60553&imagesize=100", 
+            "id": "60553", 
+            "name": "M\u00e9di\u00e9vale R\u00eave"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Ekeynox", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45650&imagesize=100", 
+            "id": "45650", 
+            "name": "Live in Second Life"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "STANG DJ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94875&imagesize=100", 
+            "id": "94875", 
+            "name": "Cherry"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "ARTSomerville", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5585&imagesize=100", 
+            "id": "5585", 
+            "name": "Glenn Dickson"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "brynet", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35922&imagesize=100", 
+            "id": "35922", 
+            "name": "katzennetz...und das viele essen"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "brynet", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7270&imagesize=100", 
+            "id": "7270", 
+            "name": " ein pferd weiss wenig (full version!)"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "brynet", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7217&imagesize=100", 
+            "id": "7217", 
+            "name": "ein pferd wei\u00df wenig"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "NuJazz-Trio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109551&imagesize=100", 
+            "id": "109551", 
+            "name": "ZENO"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Luigi Aristi", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59492&imagesize=100", 
+            "id": "59492", 
+            "name": "Appunti"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Yuri Tribulev", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66526&imagesize=100", 
+            "id": "66526", 
+            "name": "spirit level"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "softspace", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30067&imagesize=100", 
+            "id": "30067", 
+            "name": "The sinking City"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "PremiumMusic (Instrumental Version)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116477&imagesize=100", 
+            "id": "116477", 
+            "name": "Cinematic Chillout Atmosphere Theme Timeless Perfection Instrumental Album n\u00b049"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "PremiumMusic (Instrumental Version)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116089&imagesize=100", 
+            "id": "116089", 
+            "name": " Awesome Fall Yoga Meditation Chillout Relax Wellness Instrumental Moods Album n\u00b012"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "PremiumMusic (Instrumental Version)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116578&imagesize=100", 
+            "id": "116578", 
+            "name": "Yoga Chillout Wellness Relax Background Ambient Instrumental Music Album n\u00b093"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "PremiumMusic (Instrumental Version)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116529&imagesize=100", 
+            "id": "116529", 
+            "name": "Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods Instrumental Album n\u00b069"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "PremiumMusic (Instrumental Version)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116587&imagesize=100", 
+            "id": "116587", 
+            "name": "Beautiful Chillout Yoga Peaceful Happy Calm Ambient Atmosphere Soundtrack Instrumental Album n\u00b0100"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Jean Toba", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133268&imagesize=100", 
+            "id": "133268", 
+            "name": "AsiAnna"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "lamusicadipascal", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92532&imagesize=100", 
+            "id": "92532", 
+            "name": "L'ALBERO DI SMERALDI"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Out Of Orion (Ox3)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115674&imagesize=100", 
+            "id": "115674", 
+            "name": "A Child's Christmas Dream"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Out Of Orion (Ox3)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115490&imagesize=100", 
+            "id": "115490", 
+            "name": "Deep In Winter"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Instantperson", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117965&imagesize=100", 
+            "id": "117965", 
+            "name": "Slow Motion"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Luz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115100&imagesize=100", 
+            "id": "115100", 
+            "name": "Ashaninka"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Francisco Calvo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104353&imagesize=100", 
+            "id": "104353", 
+            "name": "Empezando a despertar"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Francisco Calvo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105993&imagesize=100", 
+            "id": "105993", 
+            "name": "As\u00ed quiero yo"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Nelson Jenstad", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91743&imagesize=100", 
+            "id": "91743", 
+            "name": "Stars Fall to Rain"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "FFF Fiale", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113393&imagesize=100", 
+            "id": "113393", 
+            "name": "Scorci esadecafonici"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Suicidopolis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19185&imagesize=100", 
+            "id": "19185", 
+            "name": "Short E.Piano Improvisations"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Frrrok", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129606&imagesize=100", 
+            "id": "129606", 
+            "name": "The Only Reason I'm Here Is That The Creator Got Me Here Against My Will"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Son Electronique", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92891&imagesize=100", 
+            "id": "92891", 
+            "name": "Sonic Spa Volume 1 Endless Dream"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "CHASMA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132200&imagesize=100", 
+            "id": "132200", 
+            "name": "Madame Curie"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "CHASMA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129851&imagesize=100", 
+            "id": "129851", 
+            "name": "Lost Innocence"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Bruise In Blues", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89446&imagesize=100", 
+            "id": "89446", 
+            "name": "In the atelier of you: the spring scent remaining in your arms"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Bruise In Blues", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82124&imagesize=100", 
+            "id": "82124", 
+            "name": "Challenge to Cholla"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Alterlabel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4743&imagesize=100", 
+            "id": "4743", 
+            "name": "FEAT THE VIBE vases communiquants"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "SaReGaMa", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122652&imagesize=100", 
+            "id": "122652", 
+            "name": "The Red Road (native american flute)"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Jose Alonso Saceda", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119697&imagesize=100", 
+            "id": "119697", 
+            "name": "Iluminaciones"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Fran\u00e7oislucas", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25646&imagesize=100", 
+            "id": "25646", 
+            "name": "le po\u00e8me"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "MontesProject", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115501&imagesize=100", 
+            "id": "115501", 
+            "name": "RELAX 10M"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "MontesProject", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3400&imagesize=100", 
+            "id": "3400", 
+            "name": "MAC Improvisations"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "MontesProject", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62397&imagesize=100", 
+            "id": "62397", 
+            "name": "Tiempo Relativo"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "MontesProject", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6577&imagesize=100", 
+            "id": "6577", 
+            "name": "INSPIRATOR"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "KSM", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120280&imagesize=100", 
+            "id": "120280", 
+            "name": "Ether Sounds"
+        }, 
+        {
+            "release": "2008", 
+            "artist": ".", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28253&imagesize=100", 
+            "id": "28253", 
+            "name": "End Of The Begining"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Sambodhi Prem", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39921&imagesize=100", 
+            "id": "39921", 
+            "name": "Seven Waves of Knowing"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Maluto", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128863&imagesize=100", 
+            "id": "128863", 
+            "name": "Art of Relax (Vol. 1)"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Maluto", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136065&imagesize=100", 
+            "id": "136065", 
+            "name": "Art of Relax (Vol. 2)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Santimonia.org", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113474&imagesize=100", 
+            "id": "113474", 
+            "name": "Hara Chakra Meditation"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Michiboux", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6712&imagesize=100", 
+            "id": "6712", 
+            "name": "Michiboux #31"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Michiboux", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7021&imagesize=100", 
+            "id": "7021", 
+            "name": "Michiboux #32 \"D\u00e9ca...\""
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Giovanni Balsamo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107744&imagesize=100", 
+            "id": "107744", 
+            "name": "Donne"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "michael wehr", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17676&imagesize=100", 
+            "id": "17676", 
+            "name": "Transformation of a Water-Lily"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "michael wehr", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18513&imagesize=100", 
+            "id": "18513", 
+            "name": "AURA"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Michael Krumk\u00fchler und Rolf K", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70355&imagesize=100", 
+            "id": "70355", 
+            "name": "Wallbreaker Ballades"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Ghost Paradise", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48702&imagesize=100", 
+            "id": "48702", 
+            "name": "Trilogie Immortality"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "CoveredClouds", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37101&imagesize=100", 
+            "id": "37101", 
+            "name": "Weihnachten 2008"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "A Flipping  Budjunky", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83664&imagesize=100", 
+            "id": "83664", 
+            "name": "Analog Mystic"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "MIKEL OIHENART", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80181&imagesize=100", 
+            "id": "80181", 
+            "name": "EKAIN"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Marc Giol", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134416&imagesize=100", 
+            "id": "134416", 
+            "name": "INFINIT-OHMM  Marc Giol & Sergio Piedras"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "mmb digidesigns", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7340&imagesize=100", 
+            "id": "7340", 
+            "name": "Christmas Bells"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "mmb digidesigns", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6866&imagesize=100", 
+            "id": "6866", 
+            "name": "Listen to the sea"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Quetzalbwattio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57308&imagesize=100", 
+            "id": "57308", 
+            "name": "Sammasati FullMoonSpirit II:) Trip to Chr\u00efstmaSo\u00fcl"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Quetzalbwattio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35836&imagesize=100", 
+            "id": "35836", 
+            "name": "Maya Meditation 2012: The 13 Sacred  Tones"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "neebex", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66208&imagesize=100", 
+            "id": "66208", 
+            "name": "T\u00e9moin"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Ben Wunder", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63959&imagesize=100", 
+            "id": "63959", 
+            "name": "Play on Mute"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Ben Wunder", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73472&imagesize=100", 
+            "id": "73472", 
+            "name": "Dream Catcher"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "vinclam", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102464&imagesize=100", 
+            "id": "102464", 
+            "name": "Angelines"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Radio Interior Fusion", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110168&imagesize=100", 
+            "id": "110168", 
+            "name": "Feelings"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Tom Drexl", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31112&imagesize=100", 
+            "id": "31112", 
+            "name": "D O M T A U C H E N"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Stidiek", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7426&imagesize=100", 
+            "id": "7426", 
+            "name": "InVerso Troupe"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Trans Atlantic Rage", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134827&imagesize=100", 
+            "id": "134827", 
+            "name": "Awakening"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Aufklarung", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134038&imagesize=100", 
+            "id": "134038", 
+            "name": "Mystical and Mournful"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Aufklarung", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114060&imagesize=100", 
+            "id": "114060", 
+            "name": "Seven Lights for Our Lady Melancholy "
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Prem Rama", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52204&imagesize=100", 
+            "id": "52204", 
+            "name": "Aupr\u00e8s de toi"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Julien Boulier", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49846&imagesize=100", 
+            "id": "49846", 
+            "name": "Resolution"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Bastian Hepp", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83335&imagesize=100", 
+            "id": "83335", 
+            "name": "Ein Abend mit Dir (eine gef\u00fchrte Traumreise)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Bastian Hepp", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83252&imagesize=100", 
+            "id": "83252", 
+            "name": "Traumreise"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Bastian Hepp", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83497&imagesize=100", 
+            "id": "83497", 
+            "name": "imaginary journey"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Bastian Hepp", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70678&imagesize=100", 
+            "id": "70678", 
+            "name": "Chimes by a Brook"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Massimo Di Nocera", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98556&imagesize=100", 
+            "id": "98556", 
+            "name": "Possibilities"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Massimo Di Nocera", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88871&imagesize=100", 
+            "id": "88871", 
+            "name": "Flowers"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Prem Rama", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44742&imagesize=100", 
+            "id": "44742", 
+            "name": "Mantra du Kundalini Yoga"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Bethke-Musik", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124286&imagesize=100", 
+            "id": "124286", 
+            "name": "Inspirate"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Bethke-Musik", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112142&imagesize=100", 
+            "id": "112142", 
+            "name": "Chill and Dream"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Matthias Stampa", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72690&imagesize=100", 
+            "id": "72690", 
+            "name": "Temple of Relaxation"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "DKM", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79609&imagesize=100", 
+            "id": "79609", 
+            "name": "Cara\u00efbes"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "ANATTA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62486&imagesize=100", 
+            "id": "62486", 
+            "name": "Bism'Illah"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Heiko Sunfire", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102609&imagesize=100", 
+            "id": "102609", 
+            "name": "Walking"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Dios Incandescente / Abismo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76203&imagesize=100", 
+            "id": "76203", 
+            "name": "A Face Obscena da Humanidade -  FACE I: PESTILENTIA"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Michael Hawkwood", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84822&imagesize=100", 
+            "id": "84822", 
+            "name": "Interstellar Travel (Music for Aliens)"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Michael David Crawford", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6983&imagesize=100", 
+            "id": "6983", 
+            "name": "Geometric Visions"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "\u0425\u043e\u043c\u0435\u043d\u043a\u043e", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128684&imagesize=100", 
+            "id": "128684", 
+            "name": "\u0418\u0435\u0440\u043e\u043d\u0438\u043c \u0411\u043e\u0441\u0445"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Zitherator", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44950&imagesize=100", 
+            "id": "44950", 
+            "name": "XYZ-2009"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "SE\u0424IRET", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56909&imagesize=100", 
+            "id": "56909", 
+            "name": "DreamJournal"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "varija", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31195&imagesize=100", 
+            "id": "31195", 
+            "name": "Tibet"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "IShaamin", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114922&imagesize=100", 
+            "id": "114922", 
+            "name": "1st iShaamin"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Vasilis Samaras", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108117&imagesize=100", 
+            "id": "108117", 
+            "name": "HErTz"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Zoltan Percsich", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101488&imagesize=100", 
+            "id": "101488", 
+            "name": "Spacedream"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Daniel Caix\u00e3o", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71410&imagesize=100", 
+            "id": "71410", 
+            "name": "\u00c1guas e M\u00e1goas"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Lobo Loco", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111175&imagesize=100", 
+            "id": "111175", 
+            "name": "Proxima Centauri II"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Lobo Loco", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116046&imagesize=100", 
+            "id": "116046", 
+            "name": "Jailed in Cretaceous"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Augenstilzchen", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135471&imagesize=100", 
+            "id": "135471", 
+            "name": "Meditativum"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Sonvol", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126155&imagesize=100", 
+            "id": "126155", 
+            "name": "Goddamnit!!!"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Plamen Sivov", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65739&imagesize=100", 
+            "id": "65739", 
+            "name": "\u041c\u0430\u0440\u0438\u0430\u043c"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The orchestra off the last earth", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30063&imagesize=100", 
+            "id": "30063", 
+            "name": "NO shuh"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "P.a.p.", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134787&imagesize=100", 
+            "id": "134787", 
+            "name": "Astral visit"
+        }
+    ], 
+    "name": "Meditative"
+}

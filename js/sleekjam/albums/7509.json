@@ -1,0 +1,104 @@
+{
+    "name": "Ensemble Koto - Nihon Kakyoku", 
+    "artist": "Nakazawa Fusako", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7509&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81773&streamencoding=mp31", 
+            "name": "La luna bianca (N.Motoi)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81774&streamencoding=mp31", 
+            "name": "La luna sul vecchio castello (R. Taki)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81775&streamencoding=mp31", 
+            "name": "La luna autunnale (R. Taki)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81776&streamencoding=mp31", 
+            "name": "La collina di sabbia (K. Komatsu)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81777&streamencoding=mp31", 
+            "name": "La montagna dagli alberi di Kaya (K. Yamada)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81778&streamencoding=mp31", 
+            "name": "Ho aspettato a lungo (K. Yamada)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81779&streamencoding=mp31", 
+            "name": "Il Corvo (K. Nobutoki)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81780&streamencoding=mp31", 
+            "name": "Vaticinio (K. Nobutoki)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81781&streamencoding=mp31", 
+            "name": "La Cannaiola (K. Nobutoki)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81782&streamencoding=mp31", 
+            "name": "Il Gabbiano (R. Hirota)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81783&streamencoding=mp31", 
+            "name": "Enagra (T. Oono)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81784&streamencoding=mp31", 
+            "name": "Il Piviere (H. Konoe)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81785&streamencoding=mp31", 
+            "name": "Il primo amore (T. Kosiya)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81786&streamencoding=mp31", 
+            "name": "Kurodabushi (canto popolare) Monte Nara (K. Hirai)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81787&streamencoding=mp31", 
+            "name": "La pioggia di Jyougashima (T. Yanada)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81788&streamencoding=mp31", 
+            "name": "La partenza della nave (H. Sughiyama)"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81789&streamencoding=mp31", 
+            "name": "Il vecchio castello (J. Hosokawa)"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81790&streamencoding=mp31", 
+            "name": "Castello (H. Mizumori)"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81791&streamencoding=mp31", 
+            "name": "Sakura (fiori di ciliegio)"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7509"
+}

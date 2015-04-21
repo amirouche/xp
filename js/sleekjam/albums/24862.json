@@ -1,0 +1,19 @@
+{
+    "name": "F.R.O.U.F.", 
+    "artist": "F.R.O.U.F.", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24862&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169282&streamencoding=mp31", 
+            "name": "Le Th\u00e8me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169281&streamencoding=mp31", 
+            "name": "Let's Take A Trip (final cut)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24862"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "miracle on the gang avenue", 
+    "artist": "pure & natural", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61505&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526637&streamencoding=mp31", 
+            "name": "miracle on the gang avenue"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526648&streamencoding=mp31", 
+            "name": "miracle on the gang avenue( instrumental remix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=526635&streamencoding=mp31", 
+            "name": "miracle on the gang avenue( midtempo version)\"the reconciliation\""
+        }
+    ], 
+    "release": "2010", 
+    "id": "61505"
+}

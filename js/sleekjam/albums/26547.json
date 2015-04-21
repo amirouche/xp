@@ -1,0 +1,119 @@
+{
+    "name": "ONE SHOT MIXTAPE", 
+    "artist": "MADRAS FAMILY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26547&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178450&streamencoding=mp31", 
+            "name": "Fred - Hands Up"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178451&streamencoding=mp31", 
+            "name": "Princesse Niva - Handz Up"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178452&streamencoding=mp31", 
+            "name": "Kurtis - Lirical Faya"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178453&streamencoding=mp31", 
+            "name": "Fullstyle - Mets Toi High"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178454&streamencoding=mp31", 
+            "name": "Fredo Faya - Quand On M\u00e8ne"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178455&streamencoding=mp31", 
+            "name": "Dend\u00e9 - Ka Dw\u00e9 (Feat. Fred)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178456&streamencoding=mp31", 
+            "name": "Badjah - A La Barre!"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178457&streamencoding=mp31", 
+            "name": "Blackartel - Policeman"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178458&streamencoding=mp31", 
+            "name": "K-Poral HICKS - Bad"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178459&streamencoding=mp31", 
+            "name": "G\u00e9n\u00e9ral SENSEE - One Shot"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178460&streamencoding=mp31", 
+            "name": "Dready - Lavi-a R\u00e8d"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178461&streamencoding=mp31", 
+            "name": "Setsa - P\u00e9nuri A Love"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178462&streamencoding=mp31", 
+            "name": "G'Nius - Tu Kiff (Feat. Murdawa)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178463&streamencoding=mp31", 
+            "name": "Lucky - Gyal Ou Irie"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178464&streamencoding=mp31", 
+            "name": "Nakao - Don t Stop The Sound"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178465&streamencoding=mp31", 
+            "name": "PeteRmX - Hands Up Riddim Megamix"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178466&streamencoding=mp31", 
+            "name": "G\u00e9n\u00e9ral SENSEE - Spirit Nou"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178467&streamencoding=mp31", 
+            "name": "Dende - Red Faya (Feat. Fred)"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178468&streamencoding=mp31", 
+            "name": "G\u00e9n\u00e9ral SENSEE - West-Indies"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178469&streamencoding=mp31", 
+            "name": "G\u00e9n\u00e9ral SENSEE - Mad... In... Inna"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178470&streamencoding=mp31", 
+            "name": "Fred - Blues"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=178471&streamencoding=mp31", 
+            "name": "Fred - Hands Up Riddim"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26547"
+}

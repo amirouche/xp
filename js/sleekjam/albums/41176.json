@@ -1,0 +1,104 @@
+{
+    "name": "Wake up and smell the noise", 
+    "artist": "Dummycrusher", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41176&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301444&streamencoding=mp31", 
+            "name": "Lounge-core"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301447&streamencoding=mp31", 
+            "name": "Why do I always dream of the end"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301476&streamencoding=mp31", 
+            "name": "wickedsmart"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301475&streamencoding=mp31", 
+            "name": "bombinshit"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301477&streamencoding=mp31", 
+            "name": "WARRIORZ"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301445&streamencoding=mp31", 
+            "name": "Not if you were the last rock band on earth"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301450&streamencoding=mp31", 
+            "name": "Rave...pour la libert\u00e9"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301446&streamencoding=mp31", 
+            "name": "I've stopped breathing"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301452&streamencoding=mp31", 
+            "name": "Real Dissident"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301443&streamencoding=mp31", 
+            "name": "Party on people"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301448&streamencoding=mp31", 
+            "name": "Wake up and smell the noise"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301451&streamencoding=mp31", 
+            "name": "Kid 606, he's more punk than me"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301449&streamencoding=mp31", 
+            "name": "Armageddon"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301455&streamencoding=mp31", 
+            "name": "Ruber dub"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301454&streamencoding=mp31", 
+            "name": "Say something positive"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301464&streamencoding=mp31", 
+            "name": "fucking crazy noise into gabba2"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301486&streamencoding=mp31", 
+            "name": "mumia abul jamal"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301487&streamencoding=mp31", 
+            "name": "unsubliminal"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=301511&streamencoding=mp31", 
+            "name": "electro boogie"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41176"
+}

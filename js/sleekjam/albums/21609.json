@@ -1,0 +1,39 @@
+{
+    "name": "technoconectonic", 
+    "artist": "dj zou78", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21609&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165713&streamencoding=mp31", 
+            "name": "dj zou78 let s go"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165818&streamencoding=mp31", 
+            "name": " - dream"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165819&streamencoding=mp31", 
+            "name": "dj zou78 - technofolies"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165820&streamencoding=mp31", 
+            "name": "techno a donf"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=165821&streamencoding=mp31", 
+            "name": "HARDCORE BOOM DJ ZOU78 PERFECT"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166390&streamencoding=mp31", 
+            "name": "reve party dj zou"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21609"
+}

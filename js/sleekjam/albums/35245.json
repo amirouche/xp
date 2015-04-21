@@ -1,0 +1,14 @@
+{
+    "name": "xxx for whitman", 
+    "artist": "NeoQi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35245&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242969&streamencoding=mp31", 
+            "name": "xx2 "
+        }
+    ], 
+    "release": "2008", 
+    "id": "35245"
+}

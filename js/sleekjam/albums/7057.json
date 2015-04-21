@@ -1,0 +1,39 @@
+{
+    "name": "Getting Back From Where I've Been", 
+    "artist": "Kelly Allyn", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7057&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77970&streamencoding=mp31", 
+            "name": "I Did It All By Myself"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77971&streamencoding=mp31", 
+            "name": "Got To Go "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77972&streamencoding=mp31", 
+            "name": "You Felt Like Forever"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77973&streamencoding=mp31", 
+            "name": "Your Brown Eyes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77974&streamencoding=mp31", 
+            "name": "One Year of Love"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77975&streamencoding=mp31", 
+            "name": "I'll Never Get Use To"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7057"
+}

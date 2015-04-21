@@ -1,0 +1,99 @@
+{
+    "name": "The Boy And The Cat", 
+    "artist": "Yvalain", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133706&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118721&streamencoding=mp31", 
+            "name": "Little Hero's Dream (with Jaime Heras)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118727&streamencoding=mp31", 
+            "name": "Another Gentle Knock"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118758&streamencoding=mp31", 
+            "name": "Au Mont Sesshu"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118759&streamencoding=mp31", 
+            "name": "French Love (with Franck Simmoneau)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118760&streamencoding=mp31", 
+            "name": "Compassion"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118723&streamencoding=mp31", 
+            "name": "Novembre"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118761&streamencoding=mp31", 
+            "name": "Voyager (Edit)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118762&streamencoding=mp31", 
+            "name": "Lady Carol"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118763&streamencoding=mp31", 
+            "name": "The Quest (with Jorge Estrada)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118729&streamencoding=mp31", 
+            "name": "Healing Broken Wings (Edit)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118754&streamencoding=mp31", 
+            "name": "Got To Find (unreleased version)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118755&streamencoding=mp31", 
+            "name": "Destiny (with Gaby Cardoso)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118756&streamencoding=mp31", 
+            "name": "Night Lights (with PeerGynt LoboGris)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118725&streamencoding=mp31", 
+            "name": "Musical Friendship (with PeerGynt LoboGris)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118722&streamencoding=mp31", 
+            "name": "Gothic School (with Franck Simmoneau)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118728&streamencoding=mp31", 
+            "name": "Unbelievable"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118726&streamencoding=mp31", 
+            "name": "Little Angel"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1118724&streamencoding=mp31", 
+            "name": "Medusa"
+        }
+    ], 
+    "release": "2014", 
+    "id": "133706"
+}

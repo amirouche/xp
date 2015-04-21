@@ -1,0 +1,14 @@
+{
+    "name": "Wires", 
+    "artist": "WMRI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56896&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482747&streamencoding=mp31", 
+            "name": "Wires"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56896"
+}

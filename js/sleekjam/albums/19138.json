@@ -1,0 +1,59 @@
+{
+    "name": "Sketches On The Board", 
+    "artist": "Five Mix Colors", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19138&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134242&streamencoding=mp31", 
+            "name": "Eject Cool"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134253&streamencoding=mp31", 
+            "name": "Beatnik"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134264&streamencoding=mp31", 
+            "name": "Jumble in the Jungle"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134280&streamencoding=mp31", 
+            "name": "Shit and Boats"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134288&streamencoding=mp31", 
+            "name": "Available Potato"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134305&streamencoding=mp31", 
+            "name": "DGXXI"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134321&streamencoding=mp31", 
+            "name": "Rollin' Disco"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134329&streamencoding=mp31", 
+            "name": "Harvey Q."
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134330&streamencoding=mp31", 
+            "name": "Ignition"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=134334&streamencoding=mp31", 
+            "name": "Owlets"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19138"
+}

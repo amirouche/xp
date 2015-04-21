@@ -1,0 +1,14 @@
+{
+    "name": "Lounge 1.0", 
+    "artist": "Dr. Pimp", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40199&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=290511&streamencoding=mp31", 
+            "name": "Lounge 1.0"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40199"
+}

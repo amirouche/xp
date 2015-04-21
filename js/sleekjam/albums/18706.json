@@ -1,0 +1,49 @@
+{
+    "name": "The Birth in Blood (Limited Edition)", 
+    "artist": "Human Weakness", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18706&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125394&streamencoding=mp31", 
+            "name": "Sacrificed Foetus"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125875&streamencoding=mp31", 
+            "name": "USA Army"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128426&streamencoding=mp31", 
+            "name": "Decadence Humaine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128526&streamencoding=mp31", 
+            "name": "Heroine Psychedelique"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=128570&streamencoding=mp31", 
+            "name": "Slayer Mortel"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=130743&streamencoding=mp31", 
+            "name": "Psychose Electro"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131167&streamencoding=mp31", 
+            "name": "Devil Perversion"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132408&streamencoding=mp31", 
+            "name": "Life After Death"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18706"
+}

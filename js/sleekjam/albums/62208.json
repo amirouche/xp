@@ -1,0 +1,54 @@
+{
+    "name": "Aleksandr Pikich DENS", 
+    "artist": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041f\u0438\u043a\u0438\u0447(ALEKSANDR PIKICH)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62208&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532530&streamencoding=mp31", 
+            "name": "JEWISH"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532532&streamencoding=mp31", 
+            "name": "BEER"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532533&streamencoding=mp31", 
+            "name": "NEOCLASSICS"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532537&streamencoding=mp31", 
+            "name": "CRYSTAL"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532539&streamencoding=mp31", 
+            "name": "DISPERSAL"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532783&streamencoding=mp31", 
+            "name": "HIT OF DAY"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=532785&streamencoding=mp31", 
+            "name": "DEBUT-01"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=533063&streamencoding=mp31", 
+            "name": "GO "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=533066&streamencoding=mp31", 
+            "name": "LISTEN TO MI"
+        }
+    ], 
+    "release": "2010", 
+    "id": "62208"
+}

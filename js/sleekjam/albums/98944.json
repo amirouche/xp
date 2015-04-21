@@ -1,0 +1,54 @@
+{
+    "name": "The Demos", 
+    "artist": "Rebolt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98944&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846456&streamencoding=mp31", 
+            "name": "Underachiever Believer (Not Your) (Demo'05)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846457&streamencoding=mp31", 
+            "name": "Rebel, Are You Gonna Yell? (Demo'05)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846458&streamencoding=mp31", 
+            "name": "You Should See Me Rock (Demo'04)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846459&streamencoding=mp31", 
+            "name": "It's All Right (Demo'04)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846460&streamencoding=mp31", 
+            "name": "Messaround Man (Demo'04)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846461&streamencoding=mp31", 
+            "name": "War Against Cool (Demo'05)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846462&streamencoding=mp31", 
+            "name": "Lemmy's Heart (Demo'04)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846463&streamencoding=mp31", 
+            "name": "Hellraised (Demo'05)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846464&streamencoding=mp31", 
+            "name": "B\u00e5rd's Sneaky Tune (Instrumental)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98944"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Space X  (Single2010)", 
+    "artist": "Rune X -Natural Northern Darkness-", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81912&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=702456&streamencoding=mp31", 
+            "name": "Rune - Space X"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81912"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "EL MORO", 
+    "artist": "LAWRENCE EL MORO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87825&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750761&streamencoding=mp31", 
+            "name": "BLACK LATINA"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87825"
+}

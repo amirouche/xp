@@ -1,0 +1,49 @@
+{
+    "name": "LOST IDENTITY", 
+    "artist": "Sonus Laboratorium", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136583&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137220&streamencoding=mp31", 
+            "name": "ZIRDS - DRAGONFLY"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137219&streamencoding=mp31", 
+            "name": "FL FAN - TIMELESS DREAMS"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137222&streamencoding=mp31", 
+            "name": "ZIRDS - YOE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137218&streamencoding=mp31", 
+            "name": "FL FAN - THE MADNESS OF THE FAREWELL"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137221&streamencoding=mp31", 
+            "name": "ZIRDS - FOUR"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137217&streamencoding=mp31", 
+            "name": "FL FAN - OORT CLOUD-HAZE"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137256&streamencoding=mp31", 
+            "name": "FL FAN - SKYWALK"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1137255&streamencoding=mp31", 
+            "name": "FL FAN - REFLECTION MOMENTS"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136583"
+}

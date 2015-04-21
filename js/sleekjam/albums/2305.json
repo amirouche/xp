@@ -1,0 +1,54 @@
+{
+    "name": "Goo Goo Cluster", 
+    "artist": "Goo Goo Cluster", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2305&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=16217&streamencoding=mp31", 
+            "name": "The Goo Thing"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=16219&streamencoding=mp31", 
+            "name": "Whoops!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=16224&streamencoding=mp31", 
+            "name": "Doctor Motxo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=16228&streamencoding=mp31", 
+            "name": "Sucre interdit"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=16232&streamencoding=mp31", 
+            "name": "Vide grenier"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=16234&streamencoding=mp31", 
+            "name": "Playday"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=16235&streamencoding=mp31", 
+            "name": "Cadillac Moon"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=16236&streamencoding=mp31", 
+            "name": "Pas Pudlowski"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=16237&streamencoding=mp31", 
+            "name": "(In Paris, France, You Can't Make) No Noise"
+        }
+    ], 
+    "release": "2006", 
+    "id": "2305"
+}

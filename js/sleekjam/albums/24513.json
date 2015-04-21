@@ -1,0 +1,64 @@
+{
+    "name": "StereoTypes", 
+    "artist": "StereoTypes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24513&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166885&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166886&streamencoding=mp31", 
+            "name": "Celia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166887&streamencoding=mp31", 
+            "name": "Mon espoir"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166888&streamencoding=mp31", 
+            "name": "Funky Types"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166889&streamencoding=mp31", 
+            "name": "Tracer mon chemin"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166892&streamencoding=mp31", 
+            "name": "Cessez le feu"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166895&streamencoding=mp31", 
+            "name": "Katib"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166907&streamencoding=mp31", 
+            "name": "Dans ma tete"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166909&streamencoding=mp31", 
+            "name": "Toujours le choix"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166912&streamencoding=mp31", 
+            "name": "Alter ego"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166914&streamencoding=mp31", 
+            "name": "Le reve"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24513"
+}

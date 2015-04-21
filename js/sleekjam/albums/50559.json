@@ -1,0 +1,24 @@
+{
+    "name": "TIRULEQUE (3 temas do disco \"Tiruleque\")", 
+    "artist": "TIRULEQUE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50559&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407548&streamencoding=mp31", 
+            "name": "BAKALADA"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407566&streamencoding=mp31", 
+            "name": "BUSC\u00c1S"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=407637&streamencoding=mp31", 
+            "name": "A SE\u00d1\u00c1 LIXANDRA"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50559"
+}

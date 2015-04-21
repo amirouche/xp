@@ -1,0 +1,119 @@
+{
+    "name": "Dal Cuore", 
+    "artist": "Rafael Villegas", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17421&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124514&streamencoding=mp31", 
+            "name": "nessun dorma"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124525&streamencoding=mp31", 
+            "name": "amigos para siempre"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124561&streamencoding=mp31", 
+            "name": "jurame"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124572&streamencoding=mp31", 
+            "name": "la paloma"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124581&streamencoding=mp31", 
+            "name": "torna a surriento"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124586&streamencoding=mp31", 
+            "name": "la negra noche"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124590&streamencoding=mp31", 
+            "name": "cielito lindo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124592&streamencoding=mp31", 
+            "name": "mattinata"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124593&streamencoding=mp31", 
+            "name": "core 'ngrato"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124595&streamencoding=mp31", 
+            "name": "no puede ser"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124597&streamencoding=mp31", 
+            "name": "la boquita"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124598&streamencoding=mp31", 
+            "name": "vivo por ella"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124605&streamencoding=mp31", 
+            "name": "guadalajara"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124616&streamencoding=mp31", 
+            "name": "santa lucia"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124618&streamencoding=mp31", 
+            "name": "alma llanera"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124622&streamencoding=mp31", 
+            "name": "solamente una vez"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124640&streamencoding=mp31", 
+            "name": "adelita"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124701&streamencoding=mp31", 
+            "name": "mamma"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124706&streamencoding=mp31", 
+            "name": "el dia que me quieras"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124711&streamencoding=mp31", 
+            "name": "caruso"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124727&streamencoding=mp31", 
+            "name": "volare"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=124753&streamencoding=mp31", 
+            "name": "te quiero"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17421"
+}

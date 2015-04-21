@@ -1,0 +1,99 @@
+{
+    "name": "Skacharpas (1995)", 
+    "artist": "Butumbaba", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54765&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458030&streamencoding=mp31", 
+            "name": "Camino al Infierno"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458037&streamencoding=mp31", 
+            "name": "Hombre Amarillo"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458045&streamencoding=mp31", 
+            "name": "Golpes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458038&streamencoding=mp31", 
+            "name": "Yuvia de Ranas"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458042&streamencoding=mp31", 
+            "name": "Gisela"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458044&streamencoding=mp31", 
+            "name": "Caipirinha"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458031&streamencoding=mp31", 
+            "name": "Lar de Paz"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458032&streamencoding=mp31", 
+            "name": "Junior Dread"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458039&streamencoding=mp31", 
+            "name": "Invasion Toliana"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458040&streamencoding=mp31", 
+            "name": "El Duende"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458036&streamencoding=mp31", 
+            "name": "Tequila"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458034&streamencoding=mp31", 
+            "name": "Funka Naia Irun de Gipuzkoa"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458043&streamencoding=mp31", 
+            "name": "Invierno"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458041&streamencoding=mp31", 
+            "name": "Metamorfosis de Mondongo"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458033&streamencoding=mp31", 
+            "name": "Take Five"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458046&streamencoding=mp31", 
+            "name": "Skacharpas"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=458035&streamencoding=mp31", 
+            "name": "R\u00facula"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=456907&streamencoding=mp31", 
+            "name": "Caipirinha Dub"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54765"
+}

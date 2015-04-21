@@ -1,0 +1,44 @@
+{
+    "name": "ZAZERKALIE - Live (January 2008) - EP", 
+    "artist": "Zazerkalie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20602&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144649&streamencoding=mp31", 
+            "name": "itro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144650&streamencoding=mp31", 
+            "name": "power of the fate"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144652&streamencoding=mp31", 
+            "name": "spacemen are dead"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144654&streamencoding=mp31", 
+            "name": "alesha"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144656&streamencoding=mp31", 
+            "name": "children the flowers"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144657&streamencoding=mp31", 
+            "name": "anonimous graves"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144663&streamencoding=mp31", 
+            "name": "babylon "
+        }
+    ], 
+    "release": "2008", 
+    "id": "20602"
+}

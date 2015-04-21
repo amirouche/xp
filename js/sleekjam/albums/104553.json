@@ -1,0 +1,44 @@
+{
+    "name": "[EPH016] BLASTCULTURE - Destination Unknown", 
+    "artist": "Blastculture", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104553&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=889158&streamencoding=mp31", 
+            "name": "Mailand skylne"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=889159&streamencoding=mp31", 
+            "name": "Supernova"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=889160&streamencoding=mp31", 
+            "name": "Flight 129 over Bavaria"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=889161&streamencoding=mp31", 
+            "name": "Everything flows"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=889162&streamencoding=mp31", 
+            "name": "Get higher"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=889163&streamencoding=mp31", 
+            "name": "Kissed by the flames"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=889164&streamencoding=mp31", 
+            "name": "Lazy sound defeated"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104553"
+}

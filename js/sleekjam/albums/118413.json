@@ -1,0 +1,19 @@
+{
+    "name": "Paris Saint Germain", 
+    "artist": "Violet Box", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118413&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006066&streamencoding=mp31", 
+            "name": "Quartier Latin"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1006067&streamencoding=mp31", 
+            "name": "Sweet Technology"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118413"
+}

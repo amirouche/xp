@@ -1,0 +1,29 @@
+{
+    "name": "En Tu Presencia", 
+    "artist": "Ahmed Nahr Wadi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80741&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692728&streamencoding=mp31", 
+            "name": "01 Eres La Luz De Mi Ser"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692732&streamencoding=mp31", 
+            "name": "03 Sobre todo Ac\u00fastico"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692733&streamencoding=mp31", 
+            "name": "02 Una Canci\u00f3n"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=692731&streamencoding=mp31", 
+            "name": "04 En TI se\u00f1or (En Vivo)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80741"
+}

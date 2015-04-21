@@ -1,0 +1,59 @@
+{
+    "name": "Possibilities", 
+    "artist": "Massimo Di Nocera", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98556&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843214&streamencoding=mp31", 
+            "name": "possibilities"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843213&streamencoding=mp31", 
+            "name": "oya"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843211&streamencoding=mp31", 
+            "name": "jay"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843218&streamencoding=mp31", 
+            "name": "stelle"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843207&streamencoding=mp31", 
+            "name": "gourse"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843208&streamencoding=mp31", 
+            "name": "iyr"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843212&streamencoding=mp31", 
+            "name": "lauo laue"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843215&streamencoding=mp31", 
+            "name": "relax"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843206&streamencoding=mp31", 
+            "name": "another chance"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843217&streamencoding=mp31", 
+            "name": "rosa"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98556"
+}

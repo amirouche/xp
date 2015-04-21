@@ -1,0 +1,39 @@
+{
+    "name": "Cosmic Conspiracy", 
+    "artist": "Starseed", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45403&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=345187&streamencoding=mp31", 
+            "name": "Crusade to Terra"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=345188&streamencoding=mp31", 
+            "name": "Conquest and Enslavement"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=345189&streamencoding=mp31", 
+            "name": "Survival of Zeta Reticuli"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=345204&streamencoding=mp31", 
+            "name": "Grapes of Wrath"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=345205&streamencoding=mp31", 
+            "name": "Exodus Journey"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=345214&streamencoding=mp31", 
+            "name": "The Forlorn"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45403"
+}

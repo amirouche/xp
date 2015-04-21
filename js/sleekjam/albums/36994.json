@@ -1,0 +1,24 @@
+{
+    "name": "Under The Sea, Upon The Earth and Into the sky", 
+    "artist": "Dj Clanky", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36994&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258112&streamencoding=mp31", 
+            "name": "Under the Sea"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258114&streamencoding=mp31", 
+            "name": "Upon The Earth"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258152&streamencoding=mp31", 
+            "name": "Into the Sky"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36994"
+}

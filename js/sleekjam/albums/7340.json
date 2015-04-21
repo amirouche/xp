@@ -1,0 +1,49 @@
+{
+    "name": "Christmas Bells", 
+    "artist": "mmb digidesigns", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7340&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80236&streamencoding=mp31", 
+            "name": "Light bells part 1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80237&streamencoding=mp31", 
+            "name": "Light bells part 2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80238&streamencoding=mp31", 
+            "name": "Light bells part 3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80239&streamencoding=mp31", 
+            "name": "Arabic mode bells"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80240&streamencoding=mp31", 
+            "name": "Church bells"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80241&streamencoding=mp31", 
+            "name": "Joy bells"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80242&streamencoding=mp31", 
+            "name": "In memoriam Gabriel part 1"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80243&streamencoding=mp31", 
+            "name": "In memoriam Gabriel part 2"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7340"
+}

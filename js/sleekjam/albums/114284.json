@@ -1,0 +1,14 @@
+{
+    "name": "Hay mas tiempo que vida", 
+    "artist": "Freestyle Percussion Magik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114284&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971164&streamencoding=mp31", 
+            "name": "Hay mas tiempo que vida"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114284"
+}

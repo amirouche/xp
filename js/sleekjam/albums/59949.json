@@ -1,0 +1,109 @@
+{
+    "name": "rhythms and melodies of heart", 
+    "artist": "Ruslan Talabira", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59949&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512223&streamencoding=mp31", 
+            "name": "talabira instrumental #1"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512230&streamencoding=mp31", 
+            "name": "talabira instrumental #2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512232&streamencoding=mp31", 
+            "name": "talabira instrumental #3"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512233&streamencoding=mp31", 
+            "name": "talabira instrumental #4"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512218&streamencoding=mp31", 
+            "name": "talabira instrumental #5"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512224&streamencoding=mp31", 
+            "name": "talabira instrumental #6"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512238&streamencoding=mp31", 
+            "name": "talabira instrumental #7"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512236&streamencoding=mp31", 
+            "name": "talabira instrumental #8"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512225&streamencoding=mp31", 
+            "name": "talabira instrumental #9"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512219&streamencoding=mp31", 
+            "name": "talabira instrumental #10"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512239&streamencoding=mp31", 
+            "name": "talabira instrumental #11"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512228&streamencoding=mp31", 
+            "name": "talabira instrumental #12"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512235&streamencoding=mp31", 
+            "name": "talabira instrumental #13"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512226&streamencoding=mp31", 
+            "name": "talabira instrumental #14"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512220&streamencoding=mp31", 
+            "name": "talabira instrumental #15"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512234&streamencoding=mp31", 
+            "name": "talabira instrumental #16"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512229&streamencoding=mp31", 
+            "name": "talabira instrumental #17"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512237&streamencoding=mp31", 
+            "name": "talabira instrumental #18"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512231&streamencoding=mp31", 
+            "name": "talabira instrumental #19"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=512221&streamencoding=mp31", 
+            "name": "talabira instrumental #20"
+        }
+    ], 
+    "release": "2010", 
+    "id": "59949"
+}

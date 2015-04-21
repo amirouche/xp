@@ -1,0 +1,59 @@
+{
+    "name": "Giants of funk", 
+    "artist": "Ostapenkovich", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111587&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949278&streamencoding=mp31", 
+            "name": "Elementary Funk"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949279&streamencoding=mp31", 
+            "name": "Just the funk!"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949285&streamencoding=mp31", 
+            "name": "Funk-Tank"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949283&streamencoding=mp31", 
+            "name": "Club Madness"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949286&streamencoding=mp31", 
+            "name": "It was summer"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949280&streamencoding=mp31", 
+            "name": "Light snow"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949284&streamencoding=mp31", 
+            "name": "Happy summer"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949282&streamencoding=mp31", 
+            "name": "Master-Blaster"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949281&streamencoding=mp31", 
+            "name": "Nostalgy"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=949287&streamencoding=mp31", 
+            "name": "Winter pass"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111587"
+}

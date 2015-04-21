@@ -1,0 +1,54 @@
+{
+    "name": "Songs from the bushman", 
+    "artist": "Pete Luck", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112216&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954449&streamencoding=mp31", 
+            "name": "opstaan"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954450&streamencoding=mp31", 
+            "name": "gidem"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954456&streamencoding=mp31", 
+            "name": "mamase"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954457&streamencoding=mp31", 
+            "name": "prayer for peace"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954458&streamencoding=mp31", 
+            "name": "mysterious woman"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954459&streamencoding=mp31", 
+            "name": "kebalu"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954460&streamencoding=mp31", 
+            "name": "rapstick"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954461&streamencoding=mp31", 
+            "name": "chachachaing"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=954462&streamencoding=mp31", 
+            "name": "salija"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112216"
+}

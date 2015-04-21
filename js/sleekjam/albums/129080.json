@@ -1,0 +1,59 @@
+{
+    "name": "David Krystal Live", 
+    "artist": "David Krystal", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129080&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083750&streamencoding=mp31", 
+            "name": "She Sings To Me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083751&streamencoding=mp31", 
+            "name": "It's Been A Long Day"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083752&streamencoding=mp31", 
+            "name": "Serene Grace"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083753&streamencoding=mp31", 
+            "name": "Cover Me"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083754&streamencoding=mp31", 
+            "name": "One More Dance"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083755&streamencoding=mp31", 
+            "name": "It's Time To Go"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083756&streamencoding=mp31", 
+            "name": "Say You Love Me"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083757&streamencoding=mp31", 
+            "name": "All Or Nothing"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083758&streamencoding=mp31", 
+            "name": "Love Isn't Wasted"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083759&streamencoding=mp31", 
+            "name": "On And On"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129080"
+}

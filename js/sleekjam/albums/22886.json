@@ -1,0 +1,54 @@
+{
+    "name": "Stopper 72", 
+    "artist": "Stopper 72", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22886&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159241&streamencoding=mp31", 
+            "name": "Aktivist"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159243&streamencoding=mp31", 
+            "name": "Nervi e Nebbia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159286&streamencoding=mp31", 
+            "name": "Rue Mouffetard"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159245&streamencoding=mp31", 
+            "name": "Pentotal"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159287&streamencoding=mp31", 
+            "name": "Saule"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159242&streamencoding=mp31", 
+            "name": "Dresden, D.D.R."
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159244&streamencoding=mp31", 
+            "name": "Novgorod"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159289&streamencoding=mp31", 
+            "name": "Strega Semper Strega Est"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159288&streamencoding=mp31", 
+            "name": "Stopper 72"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22886"
+}

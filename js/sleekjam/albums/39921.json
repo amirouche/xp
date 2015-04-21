@@ -1,0 +1,64 @@
+{
+    "name": "Seven Waves of Knowing", 
+    "artist": "Sambodhi Prem", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39921&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=286690&streamencoding=mp31", 
+            "name": "Enjoying Silence"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=286689&streamencoding=mp31", 
+            "name": "Living in Beauty"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=286687&streamencoding=mp31", 
+            "name": "Trusting the Universe"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=286692&streamencoding=mp31", 
+            "name": "Rising in Love"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=286693&streamencoding=mp31", 
+            "name": "Reflecting the Moon"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=286685&streamencoding=mp31", 
+            "name": "Finding the Way In"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=286686&streamencoding=mp31", 
+            "name": "Awakening Now"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=286691&streamencoding=mp31", 
+            "name": "Breathing the Silence"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=286694&streamencoding=mp31", 
+            "name": "Listening & Disappearing"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=286695&streamencoding=mp31", 
+            "name": "Becoming Essence"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=286688&streamencoding=mp31", 
+            "name": "Fragrant Grasses - Falling Blossoms"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39921"
+}

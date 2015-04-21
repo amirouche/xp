@@ -1,0 +1,34 @@
+{
+    "name": "The Anti-Biotics", 
+    "artist": "The Anti-Biotics", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24507&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166550&streamencoding=mp31", 
+            "name": "Pineview"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166552&streamencoding=mp31", 
+            "name": "Thinking of You"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166553&streamencoding=mp31", 
+            "name": "Turn Up The Stereo!"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166554&streamencoding=mp31", 
+            "name": "Wasteland"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166959&streamencoding=mp31", 
+            "name": "Spin At 33"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24507"
+}

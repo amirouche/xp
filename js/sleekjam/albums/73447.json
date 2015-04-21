@@ -1,0 +1,49 @@
+{
+    "name": "Mystic Opus", 
+    "artist": "TSF", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73447&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634737&streamencoding=mp31", 
+            "name": "Trans'histoire"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634553&streamencoding=mp31", 
+            "name": "Bababubu"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634549&streamencoding=mp31", 
+            "name": "Myst"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634554&streamencoding=mp31", 
+            "name": "Taklamakan"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634550&streamencoding=mp31", 
+            "name": "Sunny Day"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634555&streamencoding=mp31", 
+            "name": "Question"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634551&streamencoding=mp31", 
+            "name": "Trans'histoire Dub"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634552&streamencoding=mp31", 
+            "name": "Myst Dub"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73447"
+}

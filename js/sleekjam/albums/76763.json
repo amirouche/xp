@@ -1,0 +1,89 @@
+{
+    "name": "Volumed 10 [2007]", 
+    "artist": "JoosTVD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76763&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661602&streamencoding=mp31", 
+            "name": "Pauw "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661599&streamencoding=mp31", 
+            "name": "Nailed "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661603&streamencoding=mp31", 
+            "name": "Muddy "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661600&streamencoding=mp31", 
+            "name": "Shark "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661604&streamencoding=mp31", 
+            "name": "Dare "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661601&streamencoding=mp31", 
+            "name": "Psychodad "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661597&streamencoding=mp31", 
+            "name": "Holly "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661598&streamencoding=mp31", 
+            "name": "Monkeyride "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661607&streamencoding=mp31", 
+            "name": "Guess "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661609&streamencoding=mp31", 
+            "name": "Better Not"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661610&streamencoding=mp31", 
+            "name": "Desertfly "
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661608&streamencoding=mp31", 
+            "name": "Guadalouped "
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661611&streamencoding=mp31", 
+            "name": "BossaYang"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661632&streamencoding=mp31", 
+            "name": "Roger Out"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661633&streamencoding=mp31", 
+            "name": "Rhymed "
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661634&streamencoding=mp31", 
+            "name": "Left"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76763"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "1er partie", 
+    "artist": "Jah Love People", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=46499&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=357213&streamencoding=mp31", 
+            "name": "Roots Saxo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=357231&streamencoding=mp31", 
+            "name": "Dub"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=357272&streamencoding=mp31", 
+            "name": "Rhodes"
+        }
+    ], 
+    "release": "2009", 
+    "id": "46499"
+}

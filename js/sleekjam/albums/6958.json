@@ -1,0 +1,24 @@
+{
+    "name": "zielony koc", 
+    "artist": "Verte couverture", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6958&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77098&streamencoding=mp31", 
+            "name": "homosexualnosc"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77099&streamencoding=mp31", 
+            "name": "autostrada"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77100&streamencoding=mp31", 
+            "name": "solidarnosc"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6958"
+}

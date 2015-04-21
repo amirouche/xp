@@ -1,0 +1,59 @@
+{
+    "name": "MMX", 
+    "artist": "patente de corso", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82547&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=707686&streamencoding=mp31", 
+            "name": "PATENTE DE CORSO _ MMX"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=707760&streamencoding=mp31", 
+            "name": "PATENTE DE CORSO_CORSARIO"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=707788&streamencoding=mp31", 
+            "name": "PATENTE DE CORSO-LA TABERNA DEL TURCO"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=707802&streamencoding=mp31", 
+            "name": "PATENTE DE CORSO_AUN ESTANDO MUERTO"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=707817&streamencoding=mp31", 
+            "name": "PATENTE DE CORSO_DONDE QUIERA QUE ESTES"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=707835&streamencoding=mp31", 
+            "name": "PATENTE DE CORSO_CANSADO DE TI"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=707839&streamencoding=mp31", 
+            "name": "PATENTE DE CORSO_EMPEZAR DE CERO"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=707857&streamencoding=mp31", 
+            "name": "PATENTE DE CORSO_NADIE COMO TU"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=707864&streamencoding=mp31", 
+            "name": "PATENTE DE CORSO_QUIERO ALEJARME"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=707879&streamencoding=mp31", 
+            "name": "PATENTE DE CORSO_NADA TIENE SENTIDO"
+        }
+    ], 
+    "release": "2010", 
+    "id": "82547"
+}

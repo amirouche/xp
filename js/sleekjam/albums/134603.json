@@ -1,0 +1,69 @@
+{
+    "name": "Primula Veris", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134603&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125251&streamencoding=mp31", 
+            "name": "Madam"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125252&streamencoding=mp31", 
+            "name": "Stearin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125254&streamencoding=mp31", 
+            "name": "Vinternatt"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125256&streamencoding=mp31", 
+            "name": "Skulden"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125257&streamencoding=mp31", 
+            "name": "Pappkista"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125259&streamencoding=mp31", 
+            "name": "Primula Veris"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125261&streamencoding=mp31", 
+            "name": "Raticid"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125262&streamencoding=mp31", 
+            "name": "R\u00e5ttan"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125264&streamencoding=mp31", 
+            "name": "Min Lilla F\u00e5gel"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125265&streamencoding=mp31", 
+            "name": "Mona Lisa"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125279&streamencoding=mp31", 
+            "name": "V\u00e4rdel\u00f6s"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1125280&streamencoding=mp31", 
+            "name": "Ensam"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134603"
+}

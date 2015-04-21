@@ -1,0 +1,14 @@
+{
+    "name": "Famous Music Vol.4", 
+    "artist": "Famous", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123921&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1052255&streamencoding=mp31", 
+            "name": "Sow One - Gentle Breeze"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123921"
+}

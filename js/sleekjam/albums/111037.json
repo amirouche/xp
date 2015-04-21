@@ -1,0 +1,49 @@
+{
+    "name": "If Is That", 
+    "artist": "SingleBand", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111037&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945394&streamencoding=mp31", 
+            "name": "If Is That"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945395&streamencoding=mp31", 
+            "name": "Smile of Fortune"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945396&streamencoding=mp31", 
+            "name": "Spring Rain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945397&streamencoding=mp31", 
+            "name": "Going to the Best"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945398&streamencoding=mp31", 
+            "name": "Desire"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945399&streamencoding=mp31", 
+            "name": "2 Ends of a Bayonet"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945400&streamencoding=mp31", 
+            "name": "Night in Bahrain"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=945401&streamencoding=mp31", 
+            "name": "Last Way of Pilgrim"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111037"
+}

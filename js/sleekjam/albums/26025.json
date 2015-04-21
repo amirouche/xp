@@ -1,0 +1,54 @@
+{
+    "name": "K", 
+    "artist": "Deepness", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26025&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175669&streamencoding=mp31", 
+            "name": "Aqua"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175670&streamencoding=mp31", 
+            "name": " Bring it back"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175676&streamencoding=mp31", 
+            "name": " Sol e dad"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175687&streamencoding=mp31", 
+            "name": " Ex-humain"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175692&streamencoding=mp31", 
+            "name": "My pillow"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175694&streamencoding=mp31", 
+            "name": " Nicozilla"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175699&streamencoding=mp31", 
+            "name": " La spiritong"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175696&streamencoding=mp31", 
+            "name": "Ramatchaka"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=175700&streamencoding=mp31", 
+            "name": "Au-dessus de ma t\u00eate"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26025"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Ethnic Flavor", 
+    "artist": "Light elves Music", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35917&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249056&streamencoding=mp31", 
+            "name": "Arabian Travel"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249057&streamencoding=mp31", 
+            "name": "Asiatik Flower"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249058&streamencoding=mp31", 
+            "name": "Flamenco Attack"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249062&streamencoding=mp31", 
+            "name": "Freedom"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249071&streamencoding=mp31", 
+            "name": "From Paris With Love"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249087&streamencoding=mp31", 
+            "name": "Outland"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249090&streamencoding=mp31", 
+            "name": "Rise of the Hybrid"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249092&streamencoding=mp31", 
+            "name": "Zanimoland Medley"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35917"
+}

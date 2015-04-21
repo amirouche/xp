@@ -1,0 +1,14 @@
+{
+    "name": "Sinxelo (Single-Demo)", 
+    "artist": "Medra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51543&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=419820&streamencoding=mp31", 
+            "name": "Sinxelo"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51543"
+}

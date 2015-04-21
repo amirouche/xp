@@ -1,0 +1,14 @@
+{
+    "name": "Esquisse", 
+    "artist": "KaOS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21455&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149861&streamencoding=mp31", 
+            "name": "KAOS - ESQUISSE"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21455"
+}

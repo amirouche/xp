@@ -1,0 +1,19 @@
+{
+    "name": "The FiveStarLuxury: Chaos in musicae", 
+    "artist": "Luca Deriu", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2119&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=14879&streamencoding=mp31", 
+            "name": "Words of..."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=14880&streamencoding=mp31", 
+            "name": "Sacrifice!"
+        }
+    ], 
+    "release": "2006", 
+    "id": "2119"
+}

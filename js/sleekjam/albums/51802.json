@@ -1,0 +1,89 @@
+{
+    "name": "Qui Terra!", 
+    "artist": "Terron Rebel Sound", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51802&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422843&streamencoding=mp31", 
+            "name": "01 - Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422837&streamencoding=mp31", 
+            "name": "02 - Musica"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422838&streamencoding=mp31", 
+            "name": "03 - Lu Rispettu"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422839&streamencoding=mp31", 
+            "name": "04 - Unknown Name"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422844&streamencoding=mp31", 
+            "name": "05 - Senza Ideali"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422850&streamencoding=mp31", 
+            "name": "06 - Borghese [Feat. Don Tino]"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422847&streamencoding=mp31", 
+            "name": "07 - Black Man Inna Whitehouse"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422845&streamencoding=mp31", 
+            "name": "08 - Qui Terra!"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422849&streamencoding=mp31", 
+            "name": "09 - Domani, Oggi"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422842&streamencoding=mp31", 
+            "name": "10 - Bruscia"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422846&streamencoding=mp31", 
+            "name": "11 - Nud Au Sud"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422841&streamencoding=mp31", 
+            "name": "12 - Alla Werra"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422848&streamencoding=mp31", 
+            "name": "13 - Ti Erre Esse"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422936&streamencoding=mp31", 
+            "name": "14 - Lu La\u00f9ru"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422840&streamencoding=mp31", 
+            "name": "15 - Soli, Mari, Vientu e 'Nquinamentu"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422836&streamencoding=mp31", 
+            "name": "16 - TRriS"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51802"
+}

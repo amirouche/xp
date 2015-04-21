@@ -1,0 +1,49 @@
+{
+    "name": "the boogiejo", 
+    "artist": "BOOGIEJO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98759&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844452&streamencoding=mp31", 
+            "name": "Boom Boom"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844462&streamencoding=mp31", 
+            "name": "Got my mojo working"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844466&streamencoding=mp31", 
+            "name": "Hoochie Coochie Man"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844453&streamencoding=mp31", 
+            "name": "Feel my eyes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844465&streamencoding=mp31", 
+            "name": "Money"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844454&streamencoding=mp31", 
+            "name": "Further up on the road"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844451&streamencoding=mp31", 
+            "name": "Before you acuse me"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844463&streamencoding=mp31", 
+            "name": "I can't stand it babe"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98759"
+}

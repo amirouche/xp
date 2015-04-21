@@ -1,0 +1,29 @@
+{
+    "name": "Disco promoci\u00f3n Ama Sua", 
+    "artist": "Inesperado", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56369&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477713&streamencoding=mp31", 
+            "name": "Chica mi tipo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477714&streamencoding=mp31", 
+            "name": "Mano Negra (Radio edit) feat. Ara Malikian"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477716&streamencoding=mp31", 
+            "name": "Soy de oro"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477715&streamencoding=mp31", 
+            "name": "Ama sua (Radio edit)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56369"
+}

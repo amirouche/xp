@@ -1,0 +1,29 @@
+{
+    "name": "Acid Xristoz", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77125&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664737&streamencoding=mp31", 
+            "name": "Solaris"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664747&streamencoding=mp31", 
+            "name": "Acid Xristoz"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664771&streamencoding=mp31", 
+            "name": "Sun Song"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664783&streamencoding=mp31", 
+            "name": "Necromatica "
+        }
+    ], 
+    "release": "2010", 
+    "id": "77125"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Le mele pi\u00f9 dolci (maxmex 1992/2014)", 
+    "artist": "Maxmex", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131978&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105260&streamencoding=mp31", 
+            "name": "Roby - maxmex  [Le mele pi\u00f9 dolci 2014]"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105261&streamencoding=mp31", 
+            "name": "La migliore sei tu - maxmex  [Le mele pi\u00f9 dolci 2014]"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105265&streamencoding=mp31", 
+            "name": "Nuvole di vento - maxmex  [Le mele pi\u00f9 dolci 2014]"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105299&streamencoding=mp31", 
+            "name": "Spero sia io il tuo domani - maxmex  [Le mele pi\u00f9 dolci 2014]"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105375&streamencoding=mp31", 
+            "name": "Condannato a volare - maxmex  [Le mele pi\u00f9 dolci 2014]"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1105259&streamencoding=mp31", 
+            "name": "Lupo dei boschi - maxmex  [Le mele pi\u00f9 dolci 2014]"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131978"
+}

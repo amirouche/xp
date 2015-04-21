@@ -1,0 +1,74 @@
+{
+    "name": "Gift Shot [2005]", 
+    "artist": "JoosTVD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76749&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661536&streamencoding=mp31", 
+            "name": "Shake The Most Obvious One "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661540&streamencoding=mp31", 
+            "name": "Birthfire "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661541&streamencoding=mp31", 
+            "name": "I Want It Back"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661542&streamencoding=mp31", 
+            "name": "Practical Joker "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661543&streamencoding=mp31", 
+            "name": "Reckless Dream Of Youth"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661544&streamencoding=mp31", 
+            "name": "Dance Till You're Drunk"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661545&streamencoding=mp31", 
+            "name": "Overdone"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661546&streamencoding=mp31", 
+            "name": "At Ease"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661547&streamencoding=mp31", 
+            "name": "The Thrill Of The JB Spoof "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661548&streamencoding=mp31", 
+            "name": "Confused"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661549&streamencoding=mp31", 
+            "name": "Buy Me A Bible Of Beatles"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661550&streamencoding=mp31", 
+            "name": "Think Confused Too "
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=661551&streamencoding=mp31", 
+            "name": "Be Sure That Every Light Is On"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76749"
+}

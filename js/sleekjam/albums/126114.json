@@ -1,0 +1,39 @@
+{
+    "name": "Merysland", 
+    "artist": "Kesakoo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126114&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066958&streamencoding=mp31", 
+            "name": "Opening to Merysland"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066962&streamencoding=mp31", 
+            "name": "Cameo feat Screenatorium"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066957&streamencoding=mp31", 
+            "name": "The Interlude Crazy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066959&streamencoding=mp31", 
+            "name": "Discovery feat Screenatorium"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066961&streamencoding=mp31", 
+            "name": "Pending"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1066960&streamencoding=mp31", 
+            "name": "Endless vacuum, But beautiful"
+        }
+    ], 
+    "release": "2013", 
+    "id": "126114"
+}

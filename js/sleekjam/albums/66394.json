@@ -1,0 +1,34 @@
+{
+    "name": "Top Shelf Tussin E.P.", 
+    "artist": "Happy Scrappy: Hero Pup", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66394&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575860&streamencoding=mp31", 
+            "name": "defecake"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575861&streamencoding=mp31", 
+            "name": "coconut octopus returning to the shampoo bottle house"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575864&streamencoding=mp31", 
+            "name": "bovine fog"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575862&streamencoding=mp31", 
+            "name": "a match made in prison"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=575863&streamencoding=mp31", 
+            "name": "cwashthn"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66394"
+}

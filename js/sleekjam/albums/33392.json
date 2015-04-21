@@ -1,0 +1,74 @@
+{
+    "name": "Lost Citizens", 
+    "artist": "Jampy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33392&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225604&streamencoding=mp31", 
+            "name": "La Ballata di Capodanno"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225605&streamencoding=mp31", 
+            "name": "Growing Emotions"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225606&streamencoding=mp31", 
+            "name": "Lost Citizens"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225607&streamencoding=mp31", 
+            "name": "Lo-fi Blues #1"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225608&streamencoding=mp31", 
+            "name": "Sweet Friend Of Mine"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225609&streamencoding=mp31", 
+            "name": "Crazy Cat"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225610&streamencoding=mp31", 
+            "name": "Spot: Endless Bridge"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225611&streamencoding=mp31", 
+            "name": "Turning Point"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225612&streamencoding=mp31", 
+            "name": "Lo-fi Blues #2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225613&streamencoding=mp31", 
+            "name": "Sunflowers"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225614&streamencoding=mp31", 
+            "name": "Electronic Philosophy"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225615&streamencoding=mp31", 
+            "name": "Hey, I'm Here!"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=225616&streamencoding=mp31", 
+            "name": "Relax in the Air (ad libitum)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33392"
+}

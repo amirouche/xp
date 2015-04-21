@@ -1,0 +1,39 @@
+{
+    "name": "Swing to 60\u00b4s Again", 
+    "artist": "Marius Joppich", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109336&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922941&streamencoding=mp31", 
+            "name": "Swing to 60\u00b4s"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922942&streamencoding=mp31", 
+            "name": "Rock\u00b4n roll loves Jazz"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922939&streamencoding=mp31", 
+            "name": "Girl starts Jukebox"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922940&streamencoding=mp31", 
+            "name": "My Love circles with the Hip"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922938&streamencoding=mp31", 
+            "name": "It\u00b4s Jazz Time"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=922943&streamencoding=mp31", 
+            "name": "Friday Night in the Lounge"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109336"
+}

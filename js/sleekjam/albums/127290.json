@@ -1,0 +1,59 @@
+{
+    "name": "Inquisition Demos", 
+    "artist": "IMPUREZA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=127290&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072553&streamencoding=mp31", 
+            "name": "El gitano maldito"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072554&streamencoding=mp31", 
+            "name": "En el desierto de la creencia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072555&streamencoding=mp31", 
+            "name": "Varicocha"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072556&streamencoding=mp31", 
+            "name": "La luz de la la luna negra"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072558&streamencoding=mp31", 
+            "name": "El predicator"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072559&streamencoding=mp31", 
+            "name": "\\tLas colinas de los crucificados sin cabezas"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072563&streamencoding=mp31", 
+            "name": "La checa del perverso"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072560&streamencoding=mp31", 
+            "name": "Y corre tu sangre"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072562&streamencoding=mp31", 
+            "name": "La checa del perverso"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1072561&streamencoding=mp31", 
+            "name": "Enganifa religiosa"
+        }
+    ], 
+    "release": "2013", 
+    "id": "127290"
+}

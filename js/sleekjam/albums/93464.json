@@ -1,0 +1,59 @@
+{
+    "name": "The Message", 
+    "artist": "Alef 1", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93464&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796233&streamencoding=mp31", 
+            "name": "The Message"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796234&streamencoding=mp31", 
+            "name": "Two Phase Regards"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796235&streamencoding=mp31", 
+            "name": "Outside the Land"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796236&streamencoding=mp31", 
+            "name": "Y2K"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796237&streamencoding=mp31", 
+            "name": "Inside the Land"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796238&streamencoding=mp31", 
+            "name": "Walk the Chains"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796239&streamencoding=mp31", 
+            "name": "Discoland"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796240&streamencoding=mp31", 
+            "name": "Ticket to the Land"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796241&streamencoding=mp31", 
+            "name": "The Escape"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796242&streamencoding=mp31", 
+            "name": "The Remix"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93464"
+}

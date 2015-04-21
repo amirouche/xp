@@ -1,0 +1,84 @@
+{
+    "name": "Kannst Du sterben", 
+    "artist": "Devil-M", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93616&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797389&streamencoding=mp31", 
+            "name": "Can you tell me the truth"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797497&streamencoding=mp31", 
+            "name": "Hold me"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797488&streamencoding=mp31", 
+            "name": "Re-Inkarnation"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797495&streamencoding=mp31", 
+            "name": "Inside you"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797490&streamencoding=mp31", 
+            "name": "Souls Pt. I"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797496&streamencoding=mp31", 
+            "name": "The Death embrace me"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797491&streamencoding=mp31", 
+            "name": "I cant die"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797498&streamencoding=mp31", 
+            "name": "Noone (Souls Pt. II)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797493&streamencoding=mp31", 
+            "name": "Another Heart-Inferno"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797499&streamencoding=mp31", 
+            "name": "Inside you (Destructed by Detuned Destruction)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797494&streamencoding=mp31", 
+            "name": "Inside You (Open Eyed Dreamix by Ghost in the Static)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797492&streamencoding=mp31", 
+            "name": "Hold me (ES23 Remix)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797489&streamencoding=mp31", 
+            "name": "Hold me (Vhelena Projekt rmx hard limiter)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797503&streamencoding=mp31", 
+            "name": "Hold me (Ultra Low Bass Mix by Wilke Borchers)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=797502&streamencoding=mp31", 
+            "name": "Tomorrow (feat. Detuned Destruction)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93616"
+}

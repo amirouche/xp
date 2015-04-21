@@ -1,0 +1,19 @@
+{
+    "name": "She Riding", 
+    "artist": "Jay Ax aka VodkaStr8", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58172&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496596&streamencoding=mp31", 
+            "name": "She Riding (Radio Version)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=496600&streamencoding=mp31", 
+            "name": "She Riding (Album Version)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "58172"
+}

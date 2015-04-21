@@ -1,0 +1,39 @@
+{
+    "name": "Jesus Pilot", 
+    "artist": "The Sacred Datura", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42825&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316925&streamencoding=mp31", 
+            "name": "Mouth Full of Salt"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316930&streamencoding=mp31", 
+            "name": "bSito Part I"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316929&streamencoding=mp31", 
+            "name": "bSito Part II"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316926&streamencoding=mp31", 
+            "name": "Stained Glass Lantern"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316924&streamencoding=mp31", 
+            "name": "Ache & Shake"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316927&streamencoding=mp31", 
+            "name": "Helium Electricity"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42825"
+}

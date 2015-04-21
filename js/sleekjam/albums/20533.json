@@ -1,0 +1,54 @@
+{
+    "name": "Glory Days", 
+    "artist": "The Acousticals", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20533&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144088&streamencoding=mp31", 
+            "name": "I Dunno"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144090&streamencoding=mp31", 
+            "name": "Betty Lou "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144109&streamencoding=mp31", 
+            "name": "Lost In A Storm"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144132&streamencoding=mp31", 
+            "name": "Sunset"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144135&streamencoding=mp31", 
+            "name": "The High Life"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144120&streamencoding=mp31", 
+            "name": "Stray Raven"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144104&streamencoding=mp31", 
+            "name": "Insomnia"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144108&streamencoding=mp31", 
+            "name": "Life #2"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144136&streamencoding=mp31", 
+            "name": "Voices in the Rain"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20533"
+}

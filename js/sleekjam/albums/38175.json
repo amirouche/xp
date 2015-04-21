@@ -1,0 +1,34 @@
+{
+    "name": "Supertele", 
+    "artist": "Supertele", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38175&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=268603&streamencoding=mp31", 
+            "name": "Stronza"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=268676&streamencoding=mp31", 
+            "name": "Ok, Bruno?"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=268664&streamencoding=mp31", 
+            "name": "Croupier on Lapo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=268680&streamencoding=mp31", 
+            "name": "S.M.O."
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=268683&streamencoding=mp31", 
+            "name": "Supertele"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38175"
+}

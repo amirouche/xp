@@ -1,0 +1,59 @@
+{
+    "name": "Expand your consciousness", 
+    "artist": "Libra Makowski", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74754&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645223&streamencoding=mp31", 
+            "name": "First meditation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645215&streamencoding=mp31", 
+            "name": "Theta state"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645221&streamencoding=mp31", 
+            "name": "Feeling good"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645222&streamencoding=mp31", 
+            "name": "Another dimension"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645217&streamencoding=mp31", 
+            "name": "Searching for balance"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645219&streamencoding=mp31", 
+            "name": "Be brave"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645218&streamencoding=mp31", 
+            "name": "Expand your consciousness"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645214&streamencoding=mp31", 
+            "name": "Everything needs love"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645216&streamencoding=mp31", 
+            "name": "All good things"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645220&streamencoding=mp31", 
+            "name": "Age of enlightenment"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74754"
+}

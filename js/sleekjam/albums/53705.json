@@ -1,0 +1,59 @@
+{
+    "name": "Bandera", 
+    "artist": "Mendes Brothers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53705&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=446248&streamencoding=mp31", 
+            "name": "Bandera"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=446254&streamencoding=mp31", 
+            "name": "Angola Kuia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=446256&streamencoding=mp31", 
+            "name": "Si"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=446258&streamencoding=mp31", 
+            "name": "Kaninzadi"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=446250&streamencoding=mp31", 
+            "name": "Madalena"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=446251&streamencoding=mp31", 
+            "name": "Balumuka Palops!"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=446253&streamencoding=mp31", 
+            "name": "Djarfogu"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=446249&streamencoding=mp31", 
+            "name": "TPA"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=446252&streamencoding=mp31", 
+            "name": "Bia"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=446257&streamencoding=mp31", 
+            "name": "Kabu Mau"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53705"
+}

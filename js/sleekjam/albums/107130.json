@@ -1,0 +1,64 @@
+{
+    "name": "Intimate Heaven", 
+    "artist": "Bruno Susio", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107130&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906663&streamencoding=mp31", 
+            "name": "Heaven"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906664&streamencoding=mp31", 
+            "name": "Tonite You feel lonely"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906667&streamencoding=mp31", 
+            "name": "Angie's gift"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906668&streamencoding=mp31", 
+            "name": "If I could touch a dream"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906686&streamencoding=mp31", 
+            "name": "The catwalk"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906687&streamencoding=mp31", 
+            "name": "Here We are"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906688&streamencoding=mp31", 
+            "name": "April"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906689&streamencoding=mp31", 
+            "name": "A night in Bozen"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906690&streamencoding=mp31", 
+            "name": "Daily War"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906691&streamencoding=mp31", 
+            "name": "I'm getting stronger"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=906692&streamencoding=mp31", 
+            "name": "Growing old (a letter)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107130"
+}

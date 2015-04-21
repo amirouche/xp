@@ -1,0 +1,49 @@
+{
+    "name": "Far Beyond it all", 
+    "artist": "FaLnX", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19717&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137969&streamencoding=mp31", 
+            "name": "X"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137961&streamencoding=mp31", 
+            "name": "Beyond it all"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137963&streamencoding=mp31", 
+            "name": "Gotta get through it"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137968&streamencoding=mp31", 
+            "name": "Timber"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137965&streamencoding=mp31", 
+            "name": "Illusion"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137967&streamencoding=mp31", 
+            "name": "Keep the machine run"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137964&streamencoding=mp31", 
+            "name": "Greatest Hero"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=137941&streamencoding=mp31", 
+            "name": "Alone"
+        }
+    ], 
+    "release": "2008", 
+    "id": "19717"
+}

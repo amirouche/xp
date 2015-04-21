@@ -1,0 +1,89 @@
+{
+    "name": "Near Life Experiences", 
+    "artist": "Plamen Sivov", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30107&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202713&streamencoding=mp31", 
+            "name": "\u0414\u0438\u0448\u0430\u043c"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202715&streamencoding=mp31", 
+            "name": "Blues on 42nd Street"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202718&streamencoding=mp31", 
+            "name": "\u0420\u0430\u0437\u0434\u044f\u043b\u0430"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202719&streamencoding=mp31", 
+            "name": "\u0421\u0430\u043b\u044a\u0442"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202723&streamencoding=mp31", 
+            "name": "\u0411\u043e\u0433\u043e\u0440\u043e\u0434\u0438\u0446\u0435 \u0414\u0435\u0432\u043e"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202724&streamencoding=mp31", 
+            "name": "\u041d\u0438\u0441\u043a\u043e \u043b\u0435\u0442\u0438\u0448"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202725&streamencoding=mp31", 
+            "name": "\u041e\u0445\u043b\u044e\u0432"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202726&streamencoding=mp31", 
+            "name": "Song Of The Dead"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202727&streamencoding=mp31", 
+            "name": "\u0421\u0432. \u0418\u0432\u0430\u043d \u0420\u0438\u043b\u0441\u043a\u0438"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202729&streamencoding=mp31", 
+            "name": "\u0421\u0443\u043b\u0430\u043c\u0438\u0442 (\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u0430 \u0437\u0438\u043c\u0430)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202731&streamencoding=mp31", 
+            "name": "\u041c\u0438\u0441\u0442\u0430\u0433\u043e\u0433\u0438\u044f"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202732&streamencoding=mp31", 
+            "name": "\u0418\u0436\u0435 \u0445\u0435\u0440\u0443\u0432\u0438\u043c\u0438"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202735&streamencoding=mp31", 
+            "name": "\u041c\u0430\u0440\u0438\u044f \u041c\u0430\u0433\u0434\u0430\u043b\u0438\u043d\u0430"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202773&streamencoding=mp31", 
+            "name": "4.30 \u0441\u0443\u0442\u0440\u0438\u043d\u0442\u0430"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202774&streamencoding=mp31", 
+            "name": "\u0422\u0432\u043e\u044f\u0442 \u0436\u0438\u0432\u043e\u0442 \u0435 \u0438 \u043c\u043e\u0439"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202775&streamencoding=mp31", 
+            "name": "\u041f\u0438\u0440\u0430\u0442\u0441\u043a\u0430 \u043f\u0435\u0441\u0435\u043d"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30107"
+}

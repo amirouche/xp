@@ -1,0 +1,79 @@
+{
+    "name": "Zavodnaia Ptitsa", 
+    "artist": "\u0417\u0430\u0432\u043e\u0434\u043d\u0430\u044f \u041f\u0442\u0438\u0446\u0430-Die Mechanische Bird ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75908&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655502&streamencoding=mp31", 
+            "name": "\u0417\u0430\u0432\u0442\u0440\u0430"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655503&streamencoding=mp31", 
+            "name": " \u0437\u0430\u044f\u0446"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655504&streamencoding=mp31", 
+            "name": " \u041e\u0441\u0435\u043d\u044c"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655505&streamencoding=mp31", 
+            "name": " \u0434\u043b\u044f \u0422\u0430\u043d\u0438"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655506&streamencoding=mp31", 
+            "name": " \u0442\u0430\u043a \u0431\u044b\u0441\u0442\u0440\u043e"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655507&streamencoding=mp31", 
+            "name": "\u0421\u0442\u043e\u0440\u043e\u043d\u044b"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655508&streamencoding=mp31", 
+            "name": "\u0417\u0438\u043c\u043d\u044f\u044f"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655509&streamencoding=mp31", 
+            "name": " \u0442\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655510&streamencoding=mp31", 
+            "name": "\u0422\u0440\u0435\u0432\u043e\u0433\u0430"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655511&streamencoding=mp31", 
+            "name": " \u043b\u0438 \u0436\u0434\u0430\u0442\u044c"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655512&streamencoding=mp31", 
+            "name": " \u0442\u0440\u0430\u043c\u0432\u0430\u0439\u043d\u044b\u0445 \u043f\u0443\u0442\u0435\u0439"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655513&streamencoding=mp31", 
+            "name": " \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0435"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655514&streamencoding=mp31", 
+            "name": " \u043e\u0442\u0442\u043e\u0433\u043e,\u0447\u0442\u043e"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=655515&streamencoding=mp31", 
+            "name": " \u0441\u0432\u044f\u0437\u044c"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75908"
+}

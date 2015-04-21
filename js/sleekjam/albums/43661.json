@@ -1,0 +1,69 @@
+{
+    "name": "Glo", 
+    "artist": "Hungry Lucy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43661&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=325001&streamencoding=mp31", 
+            "name": "Could It Be?"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=325004&streamencoding=mp31", 
+            "name": "Her Song"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=325008&streamencoding=mp31", 
+            "name": "Into Pieces"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=325000&streamencoding=mp31", 
+            "name": "Telltale Shot"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=325007&streamencoding=mp31", 
+            "name": "Stay"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=325003&streamencoding=mp31", 
+            "name": "Rebirth"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=325009&streamencoding=mp31", 
+            "name": "Fearful"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=324998&streamencoding=mp31", 
+            "name": "Storm"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=325002&streamencoding=mp31", 
+            "name": "Last October"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=324999&streamencoding=mp31", 
+            "name": "Open Window"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=325006&streamencoding=mp31", 
+            "name": "In The Circle"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=325005&streamencoding=mp31", 
+            "name": "Glo"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43661"
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Massarock'03", 
+    "artist": "Equipo ska", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49717&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397610&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397612&streamencoding=mp31", 
+            "name": "M.A."
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397609&streamencoding=mp31", 
+            "name": "Tu que quieres se"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397604&streamencoding=mp31", 
+            "name": "El tanga"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397603&streamencoding=mp31", 
+            "name": "Se ha roto una cuerda"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397614&streamencoding=mp31", 
+            "name": "Torero cabron"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397608&streamencoding=mp31", 
+            "name": "Zzihuatanejo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397605&streamencoding=mp31", 
+            "name": "Al yankee"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397615&streamencoding=mp31", 
+            "name": "El bar de moe"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397611&streamencoding=mp31", 
+            "name": "Presentaci\u00f3n"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397606&streamencoding=mp31", 
+            "name": "Mi planta"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397673&streamencoding=mp31", 
+            "name": "Rino\u00f1es al jerez"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397602&streamencoding=mp31", 
+            "name": "El tongo"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397601&streamencoding=mp31", 
+            "name": "Besitos"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=397613&streamencoding=mp31", 
+            "name": "Yonkijote"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49717"
+}

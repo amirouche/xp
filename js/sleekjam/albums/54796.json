@@ -1,0 +1,29 @@
+{
+    "name": "Gone with the Storm", 
+    "artist": "One Dice", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54796&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459246&streamencoding=mp31", 
+            "name": "Gone with the Storm (Original Edit)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459249&streamencoding=mp31", 
+            "name": "Gone with the Storm (Virgill Ambient Remix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459248&streamencoding=mp31", 
+            "name": "Gone with the Storm (Dub Mix)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=459247&streamencoding=mp31", 
+            "name": "Gone with the Storm (Compo Rule Cut)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54796"
+}

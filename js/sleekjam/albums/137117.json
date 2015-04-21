@@ -1,0 +1,39 @@
+{
+    "name": "Summertime", 
+    "artist": "D_Tom", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137117&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143749&streamencoding=mp31", 
+            "name": "Let's Dance Around"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143750&streamencoding=mp31", 
+            "name": "Dream On New"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143751&streamencoding=mp31", 
+            "name": "Fly By Your Wings"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143752&streamencoding=mp31", 
+            "name": "Mystify"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143756&streamencoding=mp31", 
+            "name": "On Horseback"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1143757&streamencoding=mp31", 
+            "name": "Kickback"
+        }
+    ], 
+    "release": "2014", 
+    "id": "137117"
+}

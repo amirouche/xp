@@ -1,0 +1,29 @@
+{
+    "name": "Mystic", 
+    "artist": "coldreavers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63325&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543438&streamencoding=mp31", 
+            "name": "Mystic"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543440&streamencoding=mp31", 
+            "name": "For My Brother"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543439&streamencoding=mp31", 
+            "name": "Beatboxing In The Paris"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=543441&streamencoding=mp31", 
+            "name": "We Are In The Dark"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63325"
+}

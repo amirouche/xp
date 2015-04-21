@@ -1,0 +1,49 @@
+{
+    "name": "Forward In Loop", 
+    "artist": ".chicagoisthebirthplace", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56823&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482137&streamencoding=mp31", 
+            "name": "Struggle"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482138&streamencoding=mp31", 
+            "name": "Save What!?"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482139&streamencoding=mp31", 
+            "name": "Black People Screamin'"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482140&streamencoding=mp31", 
+            "name": "Loop Four"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482141&streamencoding=mp31", 
+            "name": "Many Bottles Of"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482142&streamencoding=mp31", 
+            "name": "Bottle5"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482143&streamencoding=mp31", 
+            "name": "db1 Acid"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=482144&streamencoding=mp31", 
+            "name": "ST.RT piano"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56823"
+}

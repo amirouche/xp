@@ -1,0 +1,74 @@
+{
+    "name": "Gh\u00e8 Semplice e Gh\u00e8 Facile", 
+    "artist": "Lu Leu SBF", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60550&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517725&streamencoding=mp31", 
+            "name": "Apri le ali"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517726&streamencoding=mp31", 
+            "name": "Regala Nu Sorrisu"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517727&streamencoding=mp31", 
+            "name": "Mundu Te Pace"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517728&streamencoding=mp31", 
+            "name": "Musica Giusta"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517729&streamencoding=mp31", 
+            "name": "Is Love Immagination"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517730&streamencoding=mp31", 
+            "name": "Voglia d'Estate"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517731&streamencoding=mp31", 
+            "name": "Nu Su Nisciunu"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517732&streamencoding=mp31", 
+            "name": "Ti Porto"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517733&streamencoding=mp31", 
+            "name": "lu leu nu cangiu"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517734&streamencoding=mp31", 
+            "name": "Intra L'Occhi"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517735&streamencoding=mp31", 
+            "name": "Ferma"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517736&streamencoding=mp31", 
+            "name": "Ghe\u00cc\u20ac Semplice e Ghe\u00cc\u20ac Facile"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517737&streamencoding=mp31", 
+            "name": "Lassa Cu Cunta"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60550"
+}

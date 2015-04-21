@@ -1,0 +1,59 @@
+{
+    "name": "the empire of...", 
+    "artist": "b.e.s. feat. little devil", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55239&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464744&streamencoding=mp31", 
+            "name": "Out Of Space I"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464595&streamencoding=mp31", 
+            "name": "Yello Brigde '09"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464594&streamencoding=mp31", 
+            "name": "Midgard's Sphere"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464596&streamencoding=mp31", 
+            "name": "Shore Leave II"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464597&streamencoding=mp31", 
+            "name": "The Quantum Leap"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464593&streamencoding=mp31", 
+            "name": "Tripple Hole"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464598&streamencoding=mp31", 
+            "name": "Get Down B 5"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464747&streamencoding=mp31", 
+            "name": "The Lost Tales"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464745&streamencoding=mp31", 
+            "name": "Mission Farpoint"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=464746&streamencoding=mp31", 
+            "name": "Tomorrow Is Yesterday (Bonus Track)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55239"
+}

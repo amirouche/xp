@@ -1,0 +1,24 @@
+{
+    "name": "Ocean Heart", 
+    "artist": "WMRI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57312&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488734&streamencoding=mp31", 
+            "name": "Deep in the Water"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488735&streamencoding=mp31", 
+            "name": "The World of Waves"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=488736&streamencoding=mp31", 
+            "name": "Ocean Heart"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57312"
+}

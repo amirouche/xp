@@ -1,0 +1,64 @@
+{
+    "name": "Mind, Body & Soul: Heart Cleaning", 
+    "artist": "Prinss", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80130&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=687695&streamencoding=mp31", 
+            "name": "All The Time"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=687696&streamencoding=mp31", 
+            "name": "Promesa"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688146&streamencoding=mp31", 
+            "name": "Take A Breath"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=687698&streamencoding=mp31", 
+            "name": "Heart Cleaning"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=687694&streamencoding=mp31", 
+            "name": "Proteccion ft Dement Plank"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=687693&streamencoding=mp31", 
+            "name": "Aunque Duela"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=687697&streamencoding=mp31", 
+            "name": "Heal Me ft Maryou"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=687690&streamencoding=mp31", 
+            "name": "Ilusi\u00f3n ft Jack Fido"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=688147&streamencoding=mp31", 
+            "name": "You &amp; Me"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=687691&streamencoding=mp31", 
+            "name": "+ Que Volando ft AD"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=687692&streamencoding=mp31", 
+            "name": "If Ya Were My Boo"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80130"
+}

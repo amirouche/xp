@@ -1,0 +1,29 @@
+{
+    "name": "Fire", 
+    "artist": "DJ Diktracy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48553&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383328&streamencoding=mp31", 
+            "name": "Fire"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383331&streamencoding=mp31", 
+            "name": "Another Step"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383334&streamencoding=mp31", 
+            "name": "Space Cake"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=383343&streamencoding=mp31", 
+            "name": "Scanner"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48553"
+}

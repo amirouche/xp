@@ -1,0 +1,54 @@
+{
+    "name": "Tragically Delicious", 
+    "artist": "Marty McGee", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34241&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233310&streamencoding=mp31", 
+            "name": "Salesman"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233303&streamencoding=mp31", 
+            "name": "Selfish Phase"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233306&streamencoding=mp31", 
+            "name": "Lama"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233312&streamencoding=mp31", 
+            "name": "Ratchet"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233308&streamencoding=mp31", 
+            "name": "I Hate Goodbyes"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233309&streamencoding=mp31", 
+            "name": "Greats"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233305&streamencoding=mp31", 
+            "name": "Dead Strategies"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233311&streamencoding=mp31", 
+            "name": "Sit Back"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=233307&streamencoding=mp31", 
+            "name": "Don't Tell Me"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34241"
+}

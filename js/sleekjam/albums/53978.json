@@ -1,0 +1,14 @@
+{
+    "name": "Loop(Single)", 
+    "artist": "ZEALOT", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53978&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=450111&streamencoding=mp31", 
+            "name": "Loop"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53978"
+}

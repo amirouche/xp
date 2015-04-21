@@ -1,0 +1,44 @@
+{
+    "name": "Thank you for the rains", 
+    "artist": "Blukaos", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98635&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843984&streamencoding=mp31", 
+            "name": "Blood in reverse (part 2)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843981&streamencoding=mp31", 
+            "name": "The rains"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844006&streamencoding=mp31", 
+            "name": "Recognizing your smell in a crowded street"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843980&streamencoding=mp31", 
+            "name": "Blood in reverse (part 1)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=844007&streamencoding=mp31", 
+            "name": "Stay in safe tonight"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843983&streamencoding=mp31", 
+            "name": "One was me"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843982&streamencoding=mp31", 
+            "name": "Lullaby for broken hearted insects"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98635"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "POLINESIA - PORINETIA", 
+    "artist": "DAVID BAYON - TAVITA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73256&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=632740&streamencoding=mp31", 
+            "name": "- Polinesia, mi nostalgia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=632750&streamencoding=mp31", 
+            "name": "- Monoi, el aroma de Tahit\u00ed"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=632744&streamencoding=mp31", 
+            "name": "- Otemanu, la monta\u00f1a sagrada"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=632739&streamencoding=mp31", 
+            "name": "- La roca de Hiro"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=632745&streamencoding=mp31", 
+            "name": "- El templo Taputapuatea, la casa de los antepasados"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=632741&streamencoding=mp31", 
+            "name": "- Fiesta familiar en la isla Mahaea"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=632747&streamencoding=mp31", 
+            "name": "- Haumana, estela de la mar"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=632742&streamencoding=mp31", 
+            "name": "- Maupiti, la isla lejana"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=632748&streamencoding=mp31", 
+            "name": "- Hermosa mujer maori, amor prohibido"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=632743&streamencoding=mp31", 
+            "name": "- La misteriosa perla negra de las profundidades del lagun de Manihi"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=632746&streamencoding=mp31", 
+            "name": "- Hanahei, la flor de Huahine"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=632749&streamencoding=mp31", 
+            "name": "- Tiburones en la bahia de Opunohu"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73256"
+}

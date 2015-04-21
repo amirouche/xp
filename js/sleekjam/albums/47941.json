@@ -1,0 +1,59 @@
+{
+    "name": "Missverst\u00e4ndnis Dialog", 
+    "artist": "Damiaskaron", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47941&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375598&streamencoding=mp31", 
+            "name": "Versuch, mich zu verstehen"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375603&streamencoding=mp31", 
+            "name": "Kind aus Kigali"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375622&streamencoding=mp31", 
+            "name": "Ein kleines Paradies"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375632&streamencoding=mp31", 
+            "name": "Religion der Dummen"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375633&streamencoding=mp31", 
+            "name": "Nur wer spricht, der wird geh\u00f6rt"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375634&streamencoding=mp31", 
+            "name": "Dominanz der Gruppierung"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375635&streamencoding=mp31", 
+            "name": "Missverst\u00e4ndnis Dialog"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375639&streamencoding=mp31", 
+            "name": "Zukunft verloren"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375642&streamencoding=mp31", 
+            "name": "Auge weint, Herzchen schl\u00e4gt"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=375645&streamencoding=mp31", 
+            "name": "Wer erwartet den Regen"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47941"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Salad of the Incumbent", 
+    "artist": "Mujaji", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22928&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159580&streamencoding=mp31", 
+            "name": "Here is Why"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159610&streamencoding=mp31", 
+            "name": "Oooh"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159606&streamencoding=mp31", 
+            "name": "Peepers"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159608&streamencoding=mp31", 
+            "name": "Venus Rules the Skin"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159604&streamencoding=mp31", 
+            "name": "The Franchise Returns"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159607&streamencoding=mp31", 
+            "name": "Zzhua"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159611&streamencoding=mp31", 
+            "name": "Money Sandwich"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159612&streamencoding=mp31", 
+            "name": "Brittany the One"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159662&streamencoding=mp31", 
+            "name": "Allahu Akbar"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159602&streamencoding=mp31", 
+            "name": "Murder"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159605&streamencoding=mp31", 
+            "name": "Ok, Ok"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159609&streamencoding=mp31", 
+            "name": "Escape From Paradise"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22928"
+}

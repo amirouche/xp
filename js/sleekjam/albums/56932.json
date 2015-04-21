@@ -1,0 +1,19 @@
+{
+    "name": "Vivo - Live", 
+    "artist": "brezo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56932&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483095&streamencoding=mp31", 
+            "name": "Paso Blues"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=483096&streamencoding=mp31", 
+            "name": "Raco"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56932"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Center Of Curr", 
+    "artist": "Axel Chesire", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136378&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135404&streamencoding=mp31", 
+            "name": "Broken Heart"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135405&streamencoding=mp31", 
+            "name": "Castle'Hills"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135406&streamencoding=mp31", 
+            "name": "Big Cloud Driver"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135407&streamencoding=mp31", 
+            "name": "Who is Call me again."
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135408&streamencoding=mp31", 
+            "name": "Dogs"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135409&streamencoding=mp31", 
+            "name": "Nightlife"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135410&streamencoding=mp31", 
+            "name": "Peace"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135411&streamencoding=mp31", 
+            "name": "Sarah's Love Song"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135412&streamencoding=mp31", 
+            "name": "Smoke Mar-J Is good for the Mind"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135413&streamencoding=mp31", 
+            "name": "The Twilight Zone"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136378"
+}

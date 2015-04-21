@@ -1,0 +1,34 @@
+{
+    "name": "I Can See the Shore", 
+    "artist": "Morris Masters", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110752&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=942622&streamencoding=mp31", 
+            "name": "King of Nothing"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=942625&streamencoding=mp31", 
+            "name": "If the Moon Could Cry"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=942621&streamencoding=mp31", 
+            "name": "Just Like the Walls of Jerricho"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=942624&streamencoding=mp31", 
+            "name": "Me Oh My"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=942623&streamencoding=mp31", 
+            "name": "I Can See the Shore"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110752"
+}

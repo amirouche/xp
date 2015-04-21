@@ -1,0 +1,14 @@
+{
+    "name": "UNIVERSAL", 
+    "artist": "MARSHALL AQUICCI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128636&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1079941&streamencoding=mp31", 
+            "name": "UNIVERSAL"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128636"
+}

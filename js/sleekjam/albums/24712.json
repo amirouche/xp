@@ -1,0 +1,69 @@
+{
+    "name": "Inspiration", 
+    "artist": "Serphonic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24712&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168263&streamencoding=mp31", 
+            "name": "Continued"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168268&streamencoding=mp31", 
+            "name": "Last Hope"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168269&streamencoding=mp31", 
+            "name": "Lease of life"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168270&streamencoding=mp31", 
+            "name": "Witness (Instrumental)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168285&streamencoding=mp31", 
+            "name": "Switch 1"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168288&streamencoding=mp31", 
+            "name": "On the Way"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168292&streamencoding=mp31", 
+            "name": "Somewhere"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168310&streamencoding=mp31", 
+            "name": "5am"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168311&streamencoding=mp31", 
+            "name": "Switch 2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168312&streamencoding=mp31", 
+            "name": "Life"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168313&streamencoding=mp31", 
+            "name": "Orchestronic"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168314&streamencoding=mp31", 
+            "name": "Midnight"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24712"
+}

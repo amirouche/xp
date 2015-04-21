@@ -1,0 +1,24 @@
+{
+    "name": "Take a Bullet to the Grave Single", 
+    "artist": "Sounds Like Chicken", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26858&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180170&streamencoding=mp31", 
+            "name": "Take a Bullet to the Grave (Sellout radio edit)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180173&streamencoding=mp31", 
+            "name": "El Chupanebre (Killbot mix)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=180175&streamencoding=mp31", 
+            "name": "Carla Foresees a Bleak Future (demo)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "26858"
+}

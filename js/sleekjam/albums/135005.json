@@ -1,0 +1,69 @@
+{
+    "name": "Epic Trailer Music", 
+    "artist": "Koke N\u00fa\u00f1ez G\u00f3mez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135005&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127447&streamencoding=mp31", 
+            "name": "God of War"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127448&streamencoding=mp31", 
+            "name": "Helios"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127444&streamencoding=mp31", 
+            "name": "Hercules' Strength"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127449&streamencoding=mp31", 
+            "name": "The Return of the Heroes"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127445&streamencoding=mp31", 
+            "name": "Figth the Minotaur"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127446&streamencoding=mp31", 
+            "name": "Welcome to the Olympus"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127469&streamencoding=mp31", 
+            "name": "An Epic Journey"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127451&streamencoding=mp31", 
+            "name": "Soul of Warrior"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127440&streamencoding=mp31", 
+            "name": "The Titans"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127441&streamencoding=mp31", 
+            "name": "Divine Immortality"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127443&streamencoding=mp31", 
+            "name": "Waves of Sand"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1127442&streamencoding=mp31", 
+            "name": "Awakening of the Colossus"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135005"
+}

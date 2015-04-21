@@ -1,0 +1,84 @@
+{
+    "name": "A un passo da te", 
+    "artist": "OSKAR&BRUNO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102698&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874687&streamencoding=mp31", 
+            "name": "Intro 'O"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874688&streamencoding=mp31", 
+            "name": "A un passo da te"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874689&streamencoding=mp31", 
+            "name": "Sprofondo blues"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874690&streamencoding=mp31", 
+            "name": "Donne in posa"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874836&streamencoding=mp31", 
+            "name": "Ansia legale"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874840&streamencoding=mp31", 
+            "name": "Quello che vorrei"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874841&streamencoding=mp31", 
+            "name": "Gocce infinite"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874938&streamencoding=mp31", 
+            "name": "Stop"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874952&streamencoding=mp31", 
+            "name": "Lista 14"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874960&streamencoding=mp31", 
+            "name": "Naturalmente"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874965&streamencoding=mp31", 
+            "name": "Segnali confusi"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874973&streamencoding=mp31", 
+            "name": "I miei sogni"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874990&streamencoding=mp31", 
+            "name": "Scioccami"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=874995&streamencoding=mp31", 
+            "name": "Pretendere l'anima"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875065&streamencoding=mp31", 
+            "name": "Totale assenza di gravit\u00e0"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102698"
+}

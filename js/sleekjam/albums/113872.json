@@ -1,0 +1,84 @@
+{
+    "name": "Tiempo de Alianza", 
+    "artist": "Colegio Mayor P. Jos\u00e9 Kentenich", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113872&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967985&streamencoding=mp31", 
+            "name": "Reina y Madre"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967981&streamencoding=mp31", 
+            "name": "Apareces"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967973&streamencoding=mp31", 
+            "name": "Frente a Ti"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967984&streamencoding=mp31", 
+            "name": "Caminho de eternidade"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967986&streamencoding=mp31", 
+            "name": "En manos del Padre"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967977&streamencoding=mp31", 
+            "name": "Milagro en el Jord\u00e1n"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967975&streamencoding=mp31", 
+            "name": "Acu\u00e9rdate de mi"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967982&streamencoding=mp31", 
+            "name": "Mi entrega a ti"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967978&streamencoding=mp31", 
+            "name": "Siempre para ti"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967979&streamencoding=mp31", 
+            "name": "Ap\u00f3stol de Jesucristo (San Pablo)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967974&streamencoding=mp31", 
+            "name": "Caminando"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967980&streamencoding=mp31", 
+            "name": "Tu voz"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967972&streamencoding=mp31", 
+            "name": "La labor del Ap\u00f3sotol"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967983&streamencoding=mp31", 
+            "name": "Sin frontereas"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967976&streamencoding=mp31", 
+            "name": "S\u00e9 en qui\u00e9n he puesto mi confianza"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113872"
+}

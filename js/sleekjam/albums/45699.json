@@ -1,0 +1,29 @@
+{
+    "name": "Van Ska Naar Beter", 
+    "artist": "Andere Koek!", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45699&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348046&streamencoding=mp31", 
+            "name": "Koekenpan"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348048&streamencoding=mp31", 
+            "name": "Drank"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348049&streamencoding=mp31", 
+            "name": "Chocola"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=348050&streamencoding=mp31", 
+            "name": "Vriendloos"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45699"
+}

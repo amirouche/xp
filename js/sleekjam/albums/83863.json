@@ -1,0 +1,24 @@
+{
+    "name": "I ", 
+    "artist": "Wolfp.a.c.k", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83863&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718928&streamencoding=mp31", 
+            "name": "Wolfpack"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718927&streamencoding=mp31", 
+            "name": "Annihilation"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=718964&streamencoding=mp31", 
+            "name": "Built For Battle"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83863"
+}

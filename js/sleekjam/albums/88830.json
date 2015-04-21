@@ -1,0 +1,14 @@
+{
+    "name": "8 bit morph", 
+    "artist": "BLS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88830&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759486&streamencoding=mp31", 
+            "name": "8 bit morph"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88830"
+}

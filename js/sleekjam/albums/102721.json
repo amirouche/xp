@@ -1,0 +1,64 @@
+{
+    "name": "Dancetruction", 
+    "artist": "GroNaZz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102721&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875102&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875183&streamencoding=mp31", 
+            "name": "Souvenirs d'AZF part 01"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875099&streamencoding=mp31", 
+            "name": "Flashballs Vs beer cans"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875098&streamencoding=mp31", 
+            "name": "Sambass em Goi\u00e2nia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875097&streamencoding=mp31", 
+            "name": "Post-apocalyptic breakdance"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875096&streamencoding=mp31", 
+            "name": "Rectal revolution"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875095&streamencoding=mp31", 
+            "name": "Fragrance au gaz moutarde"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875094&streamencoding=mp31", 
+            "name": "Souvenirs d'AZF part 02"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875104&streamencoding=mp31", 
+            "name": "Walk on Bikini"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875103&streamencoding=mp31", 
+            "name": "Dancefloor des \u00e9gouts"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=875101&streamencoding=mp31", 
+            "name": "The last mushroom"
+        }
+    ], 
+    "release": "2011", 
+    "id": "102721"
+}

@@ -1,0 +1,334 @@
+{
+    "albums": [
+        {
+            "release": "2008", 
+            "artist": "radmusic", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24959&imagesize=100", 
+            "id": "24959", 
+            "name": "Taste of Spring (single)"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "XBROS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122165&imagesize=100", 
+            "id": "122165", 
+            "name": "Mayflower"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Ephedrina Netlabel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129899&imagesize=100", 
+            "id": "129899", 
+            "name": "[EPH079] DJ ENIGMA - Soffici Miscugli"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "AlessandroTramacere", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93064&imagesize=100", 
+            "id": "93064", 
+            "name": "Inside my love"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Romahichi", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69924&imagesize=100", 
+            "id": "69924", 
+            "name": "No Return!"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "LionDance", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44841&imagesize=100", 
+            "id": "44841", 
+            "name": "Eurodance Evolution"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Happy Elf", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26237&imagesize=100", 
+            "id": "26237", 
+            "name": "First Contact"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "DJ DOS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104460&imagesize=100", 
+            "id": "104460", 
+            "name": "2012 year of the moon"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "DJ DOS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133744&imagesize=100", 
+            "id": "133744", 
+            "name": "Mental journey carefree"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "CLUB DESTINO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71906&imagesize=100", 
+            "id": "71906", 
+            "name": "Destino"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "CLUB DESTINO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80811&imagesize=100", 
+            "id": "80811", 
+            "name": "Destino I"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "CLUB DESTINO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87351&imagesize=100", 
+            "id": "87351", 
+            "name": "Destino III"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "CLUB DESTINO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110772&imagesize=100", 
+            "id": "110772", 
+            "name": "Destino IX"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "CLUB DESTINO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103911&imagesize=100", 
+            "id": "103911", 
+            "name": "Destino VII"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "CLUB DESTINO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109060&imagesize=100", 
+            "id": "109060", 
+            "name": "Destino VIII"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "CLUB DESTINO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84071&imagesize=100", 
+            "id": "84071", 
+            "name": "Destino II"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "D27m", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120561&imagesize=100", 
+            "id": "120561", 
+            "name": "Nothing changes me (1988- version 2013)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Oco Bnizen auch RDK", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68203&imagesize=100", 
+            "id": "68203", 
+            "name": "Apocaneo"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Yodona Music", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103061&imagesize=100", 
+            "id": "103061", 
+            "name": "X-Course - Busy people"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Yodona Music", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103068&imagesize=100", 
+            "id": "103068", 
+            "name": "X-Course - Milenium"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Mob", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9927&imagesize=100", 
+            "id": "9927", 
+            "name": "Album"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "TERAN AND CO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25696&imagesize=100", 
+            "id": "25696", 
+            "name": "Toca Paquito "
+        }, 
+        {
+            "release": "2011", 
+            "artist": "contusion", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84448&imagesize=100", 
+            "id": "84448", 
+            "name": "pikingsyl"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Mental Dream Factory", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39693&imagesize=100", 
+            "id": "39693", 
+            "name": "Remasters and Remixes"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Dom The Bear", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137067&imagesize=100", 
+            "id": "137067", 
+            "name": "Big bear party mixx"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "DJ Davidouille", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124819&imagesize=100", 
+            "id": "124819", 
+            "name": "SUNRISE"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "DJ Davidouille", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81200&imagesize=100", 
+            "id": "81200", 
+            "name": "MA FUCKEUSE"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "DJ Davidouille", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4002&imagesize=100", 
+            "id": "4002", 
+            "name": "AfterTheClouds"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Dj Goubz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87326&imagesize=100", 
+            "id": "87326", 
+            "name": "Saturday's kiss"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Dj Goubz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79357&imagesize=100", 
+            "id": "79357", 
+            "name": "Wen evaW"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Fresh Glue", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60398&imagesize=100", 
+            "id": "60398", 
+            "name": "Jambreaker - No.1"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Kriss Tap", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116018&imagesize=100", 
+            "id": "116018", 
+            "name": "Children - The Double Single"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Joel Reverdy  ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136934&imagesize=100", 
+            "id": "136934", 
+            "name": "Eclipse ( Reedit )"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Go Rand", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38454&imagesize=100", 
+            "id": "38454", 
+            "name": "Intensity"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "\u041a\u0438\u0441\u043a\u0430", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102149&imagesize=100", 
+            "id": "102149", 
+            "name": "Mon Debut"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Tony-b", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20946&imagesize=100", 
+            "id": "20946", 
+            "name": "Best of Tony-b Machine"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "dteix", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18385&imagesize=100", 
+            "id": "18385", 
+            "name": "neWave Feat Electronic World"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "DJ heartbeat dancer", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94960&imagesize=100", 
+            "id": "94960", 
+            "name": "JC4ever"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Guglielmo Brunelli ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73720&imagesize=100", 
+            "id": "73720", 
+            "name": "In The House"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Guglielmo Brunelli ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=106690&imagesize=100", 
+            "id": "106690", 
+            "name": "Dance Mania"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Akashic Records", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117411&imagesize=100", 
+            "id": "117411", 
+            "name": "Uplifting Trance Dance"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "K.A.R.M.A", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97259&imagesize=100", 
+            "id": "97259", 
+            "name": "\u041c\u0438\u0440 \u0413\u043b\u0430\u043c\u0443\u0440\u0430"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Theo Dege", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70777&imagesize=100", 
+            "id": "70777", 
+            "name": "Happiness"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Mietek Klasa", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18206&imagesize=100", 
+            "id": "18206", 
+            "name": "Na luzie"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Epsilone Project", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37111&imagesize=100", 
+            "id": "37111", 
+            "name": "TOXIC SONG"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Moodstarrr Productions", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103516&imagesize=100", 
+            "id": "103516", 
+            "name": "NANITA NOIR (produced by Moodstarrr)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "G-Noise", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69467&imagesize=100", 
+            "id": "69467", 
+            "name": "First"
+        }
+    ], 
+    "name": "Eurodance"
+}

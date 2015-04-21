@@ -1,0 +1,69 @@
+{
+    "name": "Ooma Kahdera", 
+    "artist": "Mujaji", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22935&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159671&streamencoding=mp31", 
+            "name": "Ooma Kahdera"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159672&streamencoding=mp31", 
+            "name": "Unicron Fumbles"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159673&streamencoding=mp31", 
+            "name": "Take It Down"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159674&streamencoding=mp31", 
+            "name": "Belly Full of Sand and Oil"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159675&streamencoding=mp31", 
+            "name": "Deadly Vermin"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159676&streamencoding=mp31", 
+            "name": "Pepper Snuggle"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159677&streamencoding=mp31", 
+            "name": "Bossa Nunca"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159678&streamencoding=mp31", 
+            "name": "LA Shit"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159679&streamencoding=mp31", 
+            "name": "Operational"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159680&streamencoding=mp31", 
+            "name": "Wa Ha Ha"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159681&streamencoding=mp31", 
+            "name": "Pretty Things (v2)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=159682&streamencoding=mp31", 
+            "name": "Good Cain"
+        }
+    ], 
+    "release": "2008", 
+    "id": "22935"
+}

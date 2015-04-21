@@ -1,0 +1,59 @@
+{
+    "name": "Galactica", 
+    "artist": "EPI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37984&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266693&streamencoding=mp31", 
+            "name": "Ald\u00e9baran"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266836&streamencoding=mp31", 
+            "name": "Vega"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266596&streamencoding=mp31", 
+            "name": "Regulus"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266860&streamencoding=mp31", 
+            "name": "Antares"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266748&streamencoding=mp31", 
+            "name": "Deneb"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266877&streamencoding=mp31", 
+            "name": "Alkaid"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266794&streamencoding=mp31", 
+            "name": "Alta\u00efr"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266888&streamencoding=mp31", 
+            "name": "Proxima"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266598&streamencoding=mp31", 
+            "name": "Menkalinan"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=266597&streamencoding=mp31", 
+            "name": "Polaris"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37984"
+}

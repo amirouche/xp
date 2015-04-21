@@ -1,0 +1,59 @@
+{
+    "name": "Remasters and Remixes", 
+    "artist": "Mental Dream Factory", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=39693&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284384&streamencoding=mp31", 
+            "name": "Intro Experience"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284375&streamencoding=mp31", 
+            "name": "Volvere a verte (Maxtermix '00)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284377&streamencoding=mp31", 
+            "name": "Mental Dream Factory (Album)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284378&streamencoding=mp31", 
+            "name": "La Fuerza (Hard Radio'00)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284376&streamencoding=mp31", 
+            "name": "ACT Power Sound (single)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284379&streamencoding=mp31", 
+            "name": "Te odio mi amor (Album)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284381&streamencoding=mp31", 
+            "name": "Duerme mi ni\u00f1a (Album)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284382&streamencoding=mp31", 
+            "name": "Ronwlney (Album)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284383&streamencoding=mp31", 
+            "name": "Volver\u00e9 a verte (Maxi dance 2000)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=284380&streamencoding=mp31", 
+            "name": "Mix Radio"
+        }
+    ], 
+    "release": "2009", 
+    "id": "39693"
+}

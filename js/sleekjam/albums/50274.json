@@ -1,0 +1,14 @@
+{
+    "name": "Terror ist", 
+    "artist": "Dirk Becker", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50274&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=404682&streamencoding=mp31", 
+            "name": "Terror ist"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50274"
+}

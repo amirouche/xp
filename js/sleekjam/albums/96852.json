@@ -1,0 +1,79 @@
+{
+    "name": "Freakshow", 
+    "artist": "Socrates", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96852&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828030&streamencoding=mp31", 
+            "name": "07-estudio_no11_opus_6"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828031&streamencoding=mp31", 
+            "name": "12-yo_congele_el_infierno"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828032&streamencoding=mp31", 
+            "name": "04-cancion_de_otogno_en_primavera"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828033&streamencoding=mp31", 
+            "name": "06-la_persecucion"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828034&streamencoding=mp31", 
+            "name": "02-69%"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828035&streamencoding=mp31", 
+            "name": "09-el_dragon"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828036&streamencoding=mp31", 
+            "name": "13-la_carrera_de_las_moscas"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828037&streamencoding=mp31", 
+            "name": "10-el_ultimo_vuelo_del_abejorro"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828038&streamencoding=mp31", 
+            "name": "11-pesadilla_de_una_noche_de_verano"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828039&streamencoding=mp31", 
+            "name": "14-quema_la_ciudad"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828040&streamencoding=mp31", 
+            "name": "05-infrahumano"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828041&streamencoding=mp31", 
+            "name": "03-todos_quieren_escuchar_al_freak"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828042&streamencoding=mp31", 
+            "name": "01-damas_y_caballeros_bienvenidos_al_freakshow"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=828043&streamencoding=mp31", 
+            "name": "08-teddy_(el_osito_diabolico)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96852"
+}

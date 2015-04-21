@@ -1,0 +1,44 @@
+{
+    "name": "Consapevolezza", 
+    "artist": "ThE cX MaN", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47566&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370359&streamencoding=mp31", 
+            "name": "Consapevolezza - (Consciousness)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370362&streamencoding=mp31", 
+            "name": "Lei (Sveglia e Nervosa) - (She's (Awake and Nervous))"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370360&streamencoding=mp31", 
+            "name": "Attesa - (Waiting)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370364&streamencoding=mp31", 
+            "name": "Sogno Dentro Sogno - (Dream Within a Dream)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370363&streamencoding=mp31", 
+            "name": "Volo notturno - (Night Flight)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370361&streamencoding=mp31", 
+            "name": "Nuvole - (Clouds)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=370365&streamencoding=mp31", 
+            "name": "Dentro il circuito ad anello - (Thru the Token Ring)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47566"
+}

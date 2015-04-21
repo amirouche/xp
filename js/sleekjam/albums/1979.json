@@ -1,0 +1,34 @@
+{
+    "name": "The Path of Self-Sacrificing Destruction", 
+    "artist": "Cynicism", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=1979&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=13823&streamencoding=mp31", 
+            "name": "Procreating Nightmares"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=13824&streamencoding=mp31", 
+            "name": "Inhaling the Poison"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=13825&streamencoding=mp31", 
+            "name": "Ravenous Blood"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=13826&streamencoding=mp31", 
+            "name": "Tragedy"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=13827&streamencoding=mp31", 
+            "name": "Into the Depths of an Unknown Hell"
+        }
+    ], 
+    "release": "2006", 
+    "id": "1979"
+}

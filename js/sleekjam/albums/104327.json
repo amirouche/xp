@@ -1,0 +1,29 @@
+{
+    "name": "Hegg Space", 
+    "artist": "Aural Disclosure", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104327&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887122&streamencoding=mp31", 
+            "name": "Bubbled Froth"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887125&streamencoding=mp31", 
+            "name": "Beyond The Philter"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887124&streamencoding=mp31", 
+            "name": "Smoke Without Fire"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887123&streamencoding=mp31", 
+            "name": "Caught Unawares"
+        }
+    ], 
+    "release": "2011", 
+    "id": "104327"
+}

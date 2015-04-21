@@ -1,0 +1,14 @@
+{
+    "name": "Mon r\u00eave", 
+    "artist": "Gill", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120235&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1022525&streamencoding=mp31", 
+            "name": "Mon r\u00eave"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120235"
+}

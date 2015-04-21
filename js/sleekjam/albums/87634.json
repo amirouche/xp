@@ -1,0 +1,114 @@
+{
+    "name": "Short Tracks", 
+    "artist": "Nikila", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87634&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748952&streamencoding=mp31", 
+            "name": "Antea"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748957&streamencoding=mp31", 
+            "name": "Bis"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748959&streamencoding=mp31", 
+            "name": "Coma"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748972&streamencoding=mp31", 
+            "name": "Delectatio"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748973&streamencoding=mp31", 
+            "name": "Extra"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748995&streamencoding=mp31", 
+            "name": "Femina"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748996&streamencoding=mp31", 
+            "name": "Gregatim"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=748997&streamencoding=mp31", 
+            "name": "Humo"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749002&streamencoding=mp31", 
+            "name": "Infra"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749003&streamencoding=mp31", 
+            "name": "Jugiter"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749007&streamencoding=mp31", 
+            "name": "Lacuna"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749008&streamencoding=mp31", 
+            "name": "Mirus"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749012&streamencoding=mp31", 
+            "name": "Natura"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749037&streamencoding=mp31", 
+            "name": "Obliquo"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749038&streamencoding=mp31", 
+            "name": "Porta"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749098&streamencoding=mp31", 
+            "name": "Quovis"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749099&streamencoding=mp31", 
+            "name": "Repens"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749100&streamencoding=mp31", 
+            "name": "Scio"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749105&streamencoding=mp31", 
+            "name": "Texo"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749106&streamencoding=mp31", 
+            "name": "Ulterius (feat. phon)"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749107&streamencoding=mp31", 
+            "name": "Vox"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87634"
+}

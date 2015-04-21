@@ -1,0 +1,49 @@
+{
+    "name": "The Key", 
+    "artist": "Eternal Blaze", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36211&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251764&streamencoding=mp31", 
+            "name": "I cure my troubles"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251775&streamencoding=mp31", 
+            "name": "The Beyond lets me fall"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251815&streamencoding=mp31", 
+            "name": "The Key"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251844&streamencoding=mp31", 
+            "name": "You stand under the rain"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251858&streamencoding=mp31", 
+            "name": "Devils of the Light"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251873&streamencoding=mp31", 
+            "name": "Coming from the Beyond"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251881&streamencoding=mp31", 
+            "name": "The evil flowers"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=251893&streamencoding=mp31", 
+            "name": "I live inside a dream"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36211"
+}

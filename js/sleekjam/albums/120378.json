@@ -1,0 +1,54 @@
+{
+    "name": "Separating Imminent Distances", 
+    "artist": "R. Winchester", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120378&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024055&streamencoding=mp31", 
+            "name": "Gold Transitorio"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024056&streamencoding=mp31", 
+            "name": "Phone Spam Representative"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024057&streamencoding=mp31", 
+            "name": "Gnawing Questions Unanswered"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024058&streamencoding=mp31", 
+            "name": "The Seeming or Being of Simple Things"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024060&streamencoding=mp31", 
+            "name": "Watching Your Every Move"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024059&streamencoding=mp31", 
+            "name": "The Space Left Behind"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024061&streamencoding=mp31", 
+            "name": "What My Friends Don't Know"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024062&streamencoding=mp31", 
+            "name": "Punching"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1024063&streamencoding=mp31", 
+            "name": "Metasonic Metallurgy"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120378"
+}

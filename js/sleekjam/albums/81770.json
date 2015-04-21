@@ -1,0 +1,24 @@
+{
+    "name": "Tengo, las 4 menos 3 minutos", 
+    "artist": "Jhonny Diox", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81770&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701057&streamencoding=mp31", 
+            "name": "My My Hey Hey (Versi\u00f3n Modificada)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701058&streamencoding=mp31", 
+            "name": "Mujer Reggae"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=701060&streamencoding=mp31", 
+            "name": "Mi Juventud Blues"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81770"
+}

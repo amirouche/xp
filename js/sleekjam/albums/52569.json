@@ -1,0 +1,19 @@
+{
+    "name": "For Marie", 
+    "artist": "The Peach Tree", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52569&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=432962&streamencoding=mp31", 
+            "name": "For Marie (1.Version)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=432963&streamencoding=mp31", 
+            "name": "For Marie (2.Version)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "52569"
+}

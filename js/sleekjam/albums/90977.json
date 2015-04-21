@@ -1,0 +1,64 @@
+{
+    "name": "Le string minimum", 
+    "artist": "Spleen l'ancien", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90977&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776013&streamencoding=mp31", 
+            "name": "Paddock"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776014&streamencoding=mp31", 
+            "name": "Si tu n'es pas l\u00e0"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776015&streamencoding=mp31", 
+            "name": "Touareg"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776016&streamencoding=mp31", 
+            "name": "Nouveau synopsis"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776017&streamencoding=mp31", 
+            "name": "Vos yeux bord\u00e9s"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776018&streamencoding=mp31", 
+            "name": "Coup de gueule"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776019&streamencoding=mp31", 
+            "name": "Sur ma route"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776020&streamencoding=mp31", 
+            "name": "Demain je tuerai mon patron"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776021&streamencoding=mp31", 
+            "name": "Question'z"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776307&streamencoding=mp31", 
+            "name": "--"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=776308&streamencoding=mp31", 
+            "name": "Blues again"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90977"
+}

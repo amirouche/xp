@@ -1,0 +1,84 @@
+{
+    "name": "Groove doch mal an", 
+    "artist": "RayCording", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27773&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185061&streamencoding=mp31", 
+            "name": "Intro Kauf mal was"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185062&streamencoding=mp31", 
+            "name": "Kauf mal was"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185069&streamencoding=mp31", 
+            "name": "Intro Groove"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185070&streamencoding=mp31", 
+            "name": "Groove doch mal an"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185077&streamencoding=mp31", 
+            "name": "Du"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185085&streamencoding=mp31", 
+            "name": "Arme Sau"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185097&streamencoding=mp31", 
+            "name": "Intro Held"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185098&streamencoding=mp31", 
+            "name": "Held der Nacht"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185361&streamencoding=mp31", 
+            "name": "Intro Ich h\u00e4tte gern"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185364&streamencoding=mp31", 
+            "name": "Ich h\u00e4tte gern"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185375&streamencoding=mp31", 
+            "name": "Tinkas Garten"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185377&streamencoding=mp31", 
+            "name": "Der Koch"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185380&streamencoding=mp31", 
+            "name": "Popolitiker"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185382&streamencoding=mp31", 
+            "name": "Monika"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=185390&streamencoding=mp31", 
+            "name": "Freddy"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27773"
+}

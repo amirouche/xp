@@ -1,0 +1,14 @@
+{
+    "name": "The Path To Zion feat. Haggis", 
+    "artist": "Yohannes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112558&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=957157&streamencoding=mp31", 
+            "name": "The Path To Zion feat. Haggis"
+        }
+    ], 
+    "release": "2012", 
+    "id": "112558"
+}

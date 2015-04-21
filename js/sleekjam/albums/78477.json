@@ -1,0 +1,19 @@
+{
+    "name": "Indian spirit (Jamendo edition)", 
+    "artist": "Zero-project", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78477&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675922&streamencoding=mp31", 
+            "name": "zero-project - 01 - Land of legends"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=675931&streamencoding=mp31", 
+            "name": "zero-project - 02 - Warrior's honor"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78477"
+}

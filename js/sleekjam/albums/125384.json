@@ -1,0 +1,34 @@
+{
+    "name": "Talk's Cheap", 
+    "artist": "MaverickBelfast", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125384&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061987&streamencoding=mp31", 
+            "name": "Maverick"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062003&streamencoding=mp31", 
+            "name": "Cat Got Your Tongue"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062004&streamencoding=mp31", 
+            "name": "Hellfire and Brimstone"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062005&streamencoding=mp31", 
+            "name": "Top Heavy"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1062020&streamencoding=mp31", 
+            "name": "Easy Come, Easy Go"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125384"
+}

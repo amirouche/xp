@@ -1,0 +1,24 @@
+{
+    "name": "Mystical and Mournful", 
+    "artist": "Aufklarung", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134038&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121760&streamencoding=mp31", 
+            "name": "Fiat Lux Aeterna - Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121761&streamencoding=mp31", 
+            "name": "Catulli Carmen CI  - Requiem"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1121762&streamencoding=mp31", 
+            "name": "Mystical Light - Outro"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134038"
+}

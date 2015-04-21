@@ -1,0 +1,49 @@
+{
+    "name": "Heartbroken", 
+    "artist": "One Dice", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103519&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=881070&streamencoding=mp31", 
+            "name": "The Tale of the Dark Isle"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=881089&streamencoding=mp31", 
+            "name": "I close my Eyes (Original Cut)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=881095&streamencoding=mp31", 
+            "name": "From Spirits within"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=881100&streamencoding=mp31", 
+            "name": "The Walls inside"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=881101&streamencoding=mp31", 
+            "name": "Gone with the Storm (Original Edit)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=881103&streamencoding=mp31", 
+            "name": "Glashaus (Alternate Interpretation)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=881104&streamencoding=mp31", 
+            "name": "Still"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=881110&streamencoding=mp31", 
+            "name": "Path"
+        }
+    ], 
+    "release": "2011", 
+    "id": "103519"
+}

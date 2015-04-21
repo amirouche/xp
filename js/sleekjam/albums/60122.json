@@ -1,0 +1,49 @@
+{
+    "name": "Vortex", 
+    "artist": "Matchdrive", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60122&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513750&streamencoding=mp31", 
+            "name": "chromatik system"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513753&streamencoding=mp31", 
+            "name": "To the memory of Templars"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513765&streamencoding=mp31", 
+            "name": "La Mal\u00e9diction Du Cornichon"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513836&streamencoding=mp31", 
+            "name": "the sign of the pharaohs"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513778&streamencoding=mp31", 
+            "name": "devil's storm"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513776&streamencoding=mp31", 
+            "name": "matchdrive"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513779&streamencoding=mp31", 
+            "name": "my wife and my children first !!!"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=513805&streamencoding=mp31", 
+            "name": "psychedelic fingers"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60122"
+}

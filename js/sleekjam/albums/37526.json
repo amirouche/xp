@@ -1,0 +1,54 @@
+{
+    "name": "Waste Your Time", 
+    "artist": "Loudog", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37526&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262988&streamencoding=mp31", 
+            "name": "New Friends"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262989&streamencoding=mp31", 
+            "name": "Time"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262990&streamencoding=mp31", 
+            "name": "Waste My Time"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262956&streamencoding=mp31", 
+            "name": "Too Wicked"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262957&streamencoding=mp31", 
+            "name": "She Don't Love Me"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262926&streamencoding=mp31", 
+            "name": "Another Day"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262994&streamencoding=mp31", 
+            "name": "Work Sux"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262955&streamencoding=mp31", 
+            "name": "Surfin' Out"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=262999&streamencoding=mp31", 
+            "name": "Burn Down The Castle"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37526"
+}

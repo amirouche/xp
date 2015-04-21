@@ -1,0 +1,39 @@
+{
+    "name": "Return to life", 
+    "artist": "Projekt `81", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85179&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728380&streamencoding=mp31", 
+            "name": "Return to live - [First Cut]"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728377&streamencoding=mp31", 
+            "name": "Return to live - [Club-dream]"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728352&streamencoding=mp31", 
+            "name": "Feel the time - [Original]"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728378&streamencoding=mp31", 
+            "name": "Follow me - [Original]"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728351&streamencoding=mp31", 
+            "name": "Memory time"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728379&streamencoding=mp31", 
+            "name": "End of feeling - [Part I]"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85179"
+}

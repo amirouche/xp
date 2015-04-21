@@ -1,0 +1,49 @@
+{
+    "name": "INFINIT-OHMM  Marc Giol & Sergio Piedras", 
+    "artist": "Marc Giol", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134416&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124059&streamencoding=mp31", 
+            "name": "experimentar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124056&streamencoding=mp31", 
+            "name": "joc mp3"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124057&streamencoding=mp31", 
+            "name": "consciencia"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124058&streamencoding=mp31", 
+            "name": "renacer"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124054&streamencoding=mp31", 
+            "name": "florecimiento"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124060&streamencoding=mp31", 
+            "name": "confianza"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124061&streamencoding=mp31", 
+            "name": "cargas"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124055&streamencoding=mp31", 
+            "name": "curacion"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134416"
+}

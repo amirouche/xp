@@ -1,0 +1,29 @@
+{
+    "name": "D\u00f6da F\u00e5glar", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68663&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=594554&streamencoding=mp31", 
+            "name": "D\u00f6da F\u00e5glar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=594558&streamencoding=mp31", 
+            "name": "Novemberdr\u00f6m"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=594560&streamencoding=mp31", 
+            "name": "Sorg"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=594565&streamencoding=mp31", 
+            "name": "Flyg Ut"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68663"
+}

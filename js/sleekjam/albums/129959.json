@@ -1,0 +1,54 @@
+{
+    "name": "Epic trailer music", 
+    "artist": "Iliakulakow", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129959&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090470&streamencoding=mp31", 
+            "name": "YOUR DESTINY IS COMING  (BLOCKBUSTER)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090467&streamencoding=mp31", 
+            "name": "VENDETTA  (BLOCKBUSTER)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090463&streamencoding=mp31", 
+            "name": "PREPARING FOR BATTLE  (BLOCKBUSTER)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090464&streamencoding=mp31", 
+            "name": "REVENGE OF THE SPIRITS  (BLOCKBUSTER)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090465&streamencoding=mp31", 
+            "name": "THE FIRE IN MY SOUL (BLOCKBUSTER)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090466&streamencoding=mp31", 
+            "name": "TRAGIC MEMORIES  (BLOCKBUSTER)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090468&streamencoding=mp31", 
+            "name": "WAR CRY (BLOCKBUSTER_CINEMATIC_MOVIE_TRAILER_FILM)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090469&streamencoding=mp31", 
+            "name": "WE TOGETHER TO THE END  (BLOCKBUSTER)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1090471&streamencoding=mp31", 
+            "name": "LAST WISH  (BLOCKBUSTER)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129959"
+}

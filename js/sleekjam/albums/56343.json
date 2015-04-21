@@ -1,0 +1,14 @@
+{
+    "name": "A Tribute to Tranqui Skanky", 
+    "artist": "Tranqui Skanky", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56343&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477649&streamencoding=mp31", 
+            "name": "Weis ned wieso"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56343"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Strand of Oaks at The Nave", 
+    "artist": "ARTSomerville", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49662&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396781&streamencoding=mp31", 
+            "name": "Dogs of War"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396782&streamencoding=mp31", 
+            "name": "Mourning Worker"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396783&streamencoding=mp31", 
+            "name": "Do You Like to Read"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396784&streamencoding=mp31", 
+            "name": "Two Kids"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396785&streamencoding=mp31", 
+            "name": "New Paris"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396786&streamencoding=mp31", 
+            "name": "Daniel's Blues"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=396787&streamencoding=mp31", 
+            "name": "End In Flames"
+        }
+    ], 
+    "release": "2009", 
+    "id": "49662"
+}

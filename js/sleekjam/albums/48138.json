@@ -1,0 +1,64 @@
+{
+    "name": "WELCOME INTO THE SUN", 
+    "artist": "ALONE IN THE CHAOS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48138&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377719&streamencoding=mp31", 
+            "name": "The Sign"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377718&streamencoding=mp31", 
+            "name": "For The Stars"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377720&streamencoding=mp31", 
+            "name": "Die Conection"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377721&streamencoding=mp31", 
+            "name": "Welcome Into The Sun"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377722&streamencoding=mp31", 
+            "name": "Turning Jupiter"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377723&streamencoding=mp31", 
+            "name": "The Spectrum"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377724&streamencoding=mp31", 
+            "name": "The Master Of Sirens"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377725&streamencoding=mp31", 
+            "name": "Aliens"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377727&streamencoding=mp31", 
+            "name": "Ghost! Back In Seven Skies"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377728&streamencoding=mp31", 
+            "name": "Fight The Demon"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=377729&streamencoding=mp31", 
+            "name": "In Outer Space"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48138"
+}

@@ -1,0 +1,94 @@
+{
+    "name": "CABAROCK", 
+    "artist": "LUCKY VACANCES", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13681&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110361&streamencoding=mp31", 
+            "name": "ET SI "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110365&streamencoding=mp31", 
+            "name": "Neig\u00e9 Sur Mon D\u00e9sert"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110369&streamencoding=mp31", 
+            "name": "Le\u00eela"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110375&streamencoding=mp31", 
+            "name": "Le Chat"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110388&streamencoding=mp31", 
+            "name": "R\u00eave"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110399&streamencoding=mp31", 
+            "name": "G\u00e9ographie"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110406&streamencoding=mp31", 
+            "name": "Le Voleur"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110411&streamencoding=mp31", 
+            "name": "Il Fait Froid"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110422&streamencoding=mp31", 
+            "name": "Bogota"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110429&streamencoding=mp31", 
+            "name": "Cr\u00e9puscule"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110434&streamencoding=mp31", 
+            "name": "Peut Etre"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110439&streamencoding=mp31", 
+            "name": "Sergent Major"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110444&streamencoding=mp31", 
+            "name": "Net the Song"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110441&streamencoding=mp31", 
+            "name": "Terre \u00e0 Bonheur"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110445&streamencoding=mp31", 
+            "name": "Qui va nous"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110453&streamencoding=mp31", 
+            "name": "Le revenant"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110490&streamencoding=mp31", 
+            "name": "Triptyque du Chien errant"
+        }
+    ], 
+    "release": "2007", 
+    "id": "13681"
+}

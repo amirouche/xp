@@ -1,0 +1,24 @@
+{
+    "name": "Dream Makers", 
+    "artist": "Francisco S\u00e1nchez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119577&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015464&streamencoding=mp31", 
+            "name": "Arthur C. Clark "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015115&streamencoding=mp31", 
+            "name": "Asimov"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1015116&streamencoding=mp31", 
+            "name": "Philip K. Dick"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119577"
+}

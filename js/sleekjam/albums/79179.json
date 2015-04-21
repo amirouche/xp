@@ -1,0 +1,54 @@
+{
+    "name": "November", 
+    "artist": "japersson", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79179&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681107&streamencoding=mp31", 
+            "name": "Sergeys blues"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681108&streamencoding=mp31", 
+            "name": "Blues i juni"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681109&streamencoding=mp31", 
+            "name": "Crazy about my baby"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681110&streamencoding=mp31", 
+            "name": "Blues-latin"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681111&streamencoding=mp31", 
+            "name": "Where did you go"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681112&streamencoding=mp31", 
+            "name": "Skammarpsblues"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681113&streamencoding=mp31", 
+            "name": "What are you complaining about"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681114&streamencoding=mp31", 
+            "name": "Under tr\u00e4det"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=681115&streamencoding=mp31", 
+            "name": "Kom n\u00e4ra mej"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79179"
+}

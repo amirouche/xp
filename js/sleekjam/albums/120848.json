@@ -1,0 +1,59 @@
+{
+    "name": "\u041d\u0430 \u0433\u0440\u0430\u043d\u0438", 
+    "artist": "\u0413\u0440\u0443\u043f\u043f\u0430 \u0410\u0441\u0441\u0443\u0440\u0430", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120848&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027655&streamencoding=mp31", 
+            "name": "\u041c\u043e\u043b\u043e\u0434\u0430\u044f \u0413\u0432\u0430\u0440\u0434\u0438\u044f"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027656&streamencoding=mp31", 
+            "name": "\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027657&streamencoding=mp31", 
+            "name": "\u0422\u0440\u0443\u0431\u0438 \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027658&streamencoding=mp31", 
+            "name": "\u0421\u0432\u0435\u0447\u0430"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027659&streamencoding=mp31", 
+            "name": "\u0422\u043e\u0432\u0430\u0440\u0438\u0449"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027668&streamencoding=mp31", 
+            "name": "\u0421\u043d\u043e\u0432\u0430 \u0433\u0440\u0443\u0441\u0442\u043d\u043e"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027671&streamencoding=mp31", 
+            "name": "\u041c\u043e\u0440\u0435"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027670&streamencoding=mp31", 
+            "name": "\u041d\u0430 \u0433\u0440\u0430\u043d\u0438 \u0444\u043e\u043b\u0430"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027672&streamencoding=mp31", 
+            "name": "\u0417\u0435\u0440\u043a\u0430\u043b\u0430"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1027669&streamencoding=mp31", 
+            "name": "\u0422\u044f\u043d\u0435\u0442\u0441\u044f \u043d\u0438\u0442\u044c"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120848"
+}

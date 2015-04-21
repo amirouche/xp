@@ -1,0 +1,24 @@
+{
+    "name": "Cocoared/blu drops", 
+    "artist": "Cocoared Fam", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48232&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379013&streamencoding=mp31", 
+            "name": "supernovastar rufkut"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379023&streamencoding=mp31", 
+            "name": "love swang soulbt"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=379024&streamencoding=mp31", 
+            "name": "soljah nip"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48232"
+}

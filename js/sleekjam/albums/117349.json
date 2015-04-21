@@ -1,0 +1,69 @@
+{
+    "name": "Hard Foot", 
+    "artist": "Franck Camu", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117349&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=997656&streamencoding=mp31", 
+            "name": "Dead Hot Foot"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=997657&streamencoding=mp31", 
+            "name": "Hard Lover"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=997658&streamencoding=mp31", 
+            "name": "Broken Toy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=997659&streamencoding=mp31", 
+            "name": "Ce Sera Mieux Demain"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=997660&streamencoding=mp31", 
+            "name": "Hard Morning"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=997661&streamencoding=mp31", 
+            "name": "Harder Drive (instr.)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=997662&streamencoding=mp31", 
+            "name": "Hey Baby"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=997663&streamencoding=mp31", 
+            "name": "Marche Ou Creve"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=997664&streamencoding=mp31", 
+            "name": "Tchoo Tchoo Shoes"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=997665&streamencoding=mp31", 
+            "name": "RIP (requiescat in pace )"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=997666&streamencoding=mp31", 
+            "name": "Sometimes I Feel Like A Motherless Child"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=997667&streamencoding=mp31", 
+            "name": "Boogie All Night Long"
+        }
+    ], 
+    "release": "2013", 
+    "id": "117349"
+}

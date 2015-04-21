@@ -1,0 +1,159 @@
+{
+    "name": "366 Songs: March", 
+    "artist": "Mark Elliot Cullen", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36096&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250786&streamencoding=mp31", 
+            "name": "Nervous Time"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250777&streamencoding=mp31", 
+            "name": "Mi Mi Mi"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250778&streamencoding=mp31", 
+            "name": "Games"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250770&streamencoding=mp31", 
+            "name": "Love On the Rocks"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250759&streamencoding=mp31", 
+            "name": "Too Old"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250761&streamencoding=mp31", 
+            "name": "Bloodhounds"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250772&streamencoding=mp31", 
+            "name": "Retarded"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250764&streamencoding=mp31", 
+            "name": "Upstairs Valentine"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250766&streamencoding=mp31", 
+            "name": "Como Se Llama"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250785&streamencoding=mp31", 
+            "name": "Hyphenated Lies"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250763&streamencoding=mp31", 
+            "name": "Harmonic Reception"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250784&streamencoding=mp31", 
+            "name": "Selling Souls"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250758&streamencoding=mp31", 
+            "name": "Another Word"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250768&streamencoding=mp31", 
+            "name": "Long Goodbye Major Flat Blues"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250775&streamencoding=mp31", 
+            "name": "The Sound of Squealing Brakes"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250769&streamencoding=mp31", 
+            "name": "Velvet Howler"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250787&streamencoding=mp31", 
+            "name": "I'll Give It to You"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250781&streamencoding=mp31", 
+            "name": "Urchin Ode"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250774&streamencoding=mp31", 
+            "name": "Everywhere Is a Mall"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250762&streamencoding=mp31", 
+            "name": "Goose in My Pillow"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250780&streamencoding=mp31", 
+            "name": "On the Cannibals"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250783&streamencoding=mp31", 
+            "name": "Ashes and Ashes"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250788&streamencoding=mp31", 
+            "name": "Two Dollar Love"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250767&streamencoding=mp31", 
+            "name": "Walk Alone and Apart"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250776&streamencoding=mp31", 
+            "name": "What You Get"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250760&streamencoding=mp31", 
+            "name": "Doing Fine"
+        }, 
+        {
+            "position": 27, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250773&streamencoding=mp31", 
+            "name": "Anhedonia"
+        }, 
+        {
+            "position": 28, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250765&streamencoding=mp31", 
+            "name": "Laughing Stock"
+        }, 
+        {
+            "position": 29, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250771&streamencoding=mp31", 
+            "name": "Petunia"
+        }, 
+        {
+            "position": 30, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250782&streamencoding=mp31", 
+            "name": "Cherries"
+        }
+    ], 
+    "release": "2008", 
+    "id": "36096"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "hyper tension", 
+    "artist": "Bionik Dread", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25055&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170402&streamencoding=mp31", 
+            "name": "waati"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170403&streamencoding=mp31", 
+            "name": "soya"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170454&streamencoding=mp31", 
+            "name": "d-zak-c"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170405&streamencoding=mp31", 
+            "name": "koukoun"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170406&streamencoding=mp31", 
+            "name": "narkot'x"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170407&streamencoding=mp31", 
+            "name": "kaniar"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170408&streamencoding=mp31", 
+            "name": "bato fou"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170409&streamencoding=mp31", 
+            "name": "banzai"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=170410&streamencoding=mp31", 
+            "name": "drum'n'hop"
+        }
+    ], 
+    "release": "2008", 
+    "id": "25055"
+}

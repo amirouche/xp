@@ -1,0 +1,34 @@
+{
+    "name": "No fear and a happy new year!", 
+    "artist": "Lobo Loco", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129057&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083523&streamencoding=mp31", 
+            "name": "Die weisse Taube"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083520&streamencoding=mp31", 
+            "name": "Wir alle sind Helden"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083521&streamencoding=mp31", 
+            "name": "Mountain Bells"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083522&streamencoding=mp31", 
+            "name": "Letzter macht das Licht_aus"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1083524&streamencoding=mp31", 
+            "name": "Hang over"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129057"
+}

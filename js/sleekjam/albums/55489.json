@@ -1,0 +1,39 @@
+{
+    "name": "Sexy woman in my heart", 
+    "artist": "David\u00b4s Blue", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55489&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467989&streamencoding=mp31", 
+            "name": "Sexy woman in my heart"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467990&streamencoding=mp31", 
+            "name": "The other side of the coin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467993&streamencoding=mp31", 
+            "name": "Feel free"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467996&streamencoding=mp31", 
+            "name": "My love is real"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468029&streamencoding=mp31", 
+            "name": "You are my love"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=468036&streamencoding=mp31", 
+            "name": "Chance on the road"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55489"
+}

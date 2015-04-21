@@ -1,0 +1,59 @@
+{
+    "name": "Family Portrait", 
+    "artist": "Raulin de los Bosques", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88680&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758058&streamencoding=mp31", 
+            "name": "SurfAce"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758063&streamencoding=mp31", 
+            "name": "Sobako Konwasa"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758057&streamencoding=mp31", 
+            "name": "ride on"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758060&streamencoding=mp31", 
+            "name": "highly strung"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758062&streamencoding=mp31", 
+            "name": "No the cases"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758064&streamencoding=mp31", 
+            "name": "Fata Morgana"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758059&streamencoding=mp31", 
+            "name": "Guadaira Breakdown"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758065&streamencoding=mp31", 
+            "name": "Heatwave"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758061&streamencoding=mp31", 
+            "name": "EOI Breakdown"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=758066&streamencoding=mp31", 
+            "name": "Highnoon"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88680"
+}

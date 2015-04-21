@@ -1,0 +1,14 @@
+{
+    "name": "Single", 
+    "artist": "WALTER DI NEUBOURG ROSWELL", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113643&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=966272&streamencoding=mp31", 
+            "name": "Esperanza "
+        }
+    ], 
+    "release": "2012", 
+    "id": "113643"
+}

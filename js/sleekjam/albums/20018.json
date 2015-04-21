@@ -1,0 +1,84 @@
+{
+    "name": "La revolucion escencial", 
+    "artist": "Adrian", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20018&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139988&streamencoding=mp31", 
+            "name": "La revolucion"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140008&streamencoding=mp31", 
+            "name": "Tiempo viento"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139987&streamencoding=mp31", 
+            "name": "SISTEMA PROBATORIO DE EXPULSION Y PROPULSION SATELITAL"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139941&streamencoding=mp31", 
+            "name": "Cuando miro al cielo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139940&streamencoding=mp31", 
+            "name": "Cheprak varat"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139938&streamencoding=mp31", 
+            "name": "Bla bla bla el mundo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139964&streamencoding=mp31", 
+            "name": "El momento de alegria"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139965&streamencoding=mp31", 
+            "name": "El salvador"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139939&streamencoding=mp31", 
+            "name": "Brunos bar"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139971&streamencoding=mp31", 
+            "name": "En el sol"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139973&streamencoding=mp31", 
+            "name": "Hazlo por ella"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139974&streamencoding=mp31", 
+            "name": "Flamenquillo"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=139989&streamencoding=mp31", 
+            "name": "La risa del mundo"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140007&streamencoding=mp31", 
+            "name": "Tu eres la luz de mi alma"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140009&streamencoding=mp31", 
+            "name": "Tonto que graba en casa"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20018"
+}

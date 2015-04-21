@@ -1,0 +1,19 @@
+{
+    "name": "Stimulate My Brain (single)", 
+    "artist": "Sins n Bliss", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=16647&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120852&streamencoding=mp31", 
+            "name": "Sins n Bliss - Stimulate My Brain"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120861&streamencoding=mp31", 
+            "name": "Sins n Bliss - Out Of My World"
+        }
+    ], 
+    "release": "2008", 
+    "id": "16647"
+}

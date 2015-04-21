@@ -1,0 +1,19 @@
+{
+    "name": "A Due Act", 
+    "artist": "Massimo Primiero", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81112&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695805&streamencoding=mp31", 
+            "name": "It Was Like That"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695838&streamencoding=mp31", 
+            "name": "Murazzi"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81112"
+}

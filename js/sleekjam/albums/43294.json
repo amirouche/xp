@@ -1,0 +1,54 @@
+{
+    "name": "MISS FREE", 
+    "artist": "diatty-boy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43294&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=321033&streamencoding=mp31", 
+            "name": "INTRO"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=321034&streamencoding=mp31", 
+            "name": "MISS FREE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=321049&streamencoding=mp31", 
+            "name": "SLADEM LOVE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=321057&streamencoding=mp31", 
+            "name": "NOS REVES"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=321062&streamencoding=mp31", 
+            "name": "INTERLUDE"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=321064&streamencoding=mp31", 
+            "name": "PIGEONNEUSE"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=321069&streamencoding=mp31", 
+            "name": "YOUHT BOY"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=321076&streamencoding=mp31", 
+            "name": "NE ME LAISSE PAS TOMBER"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=321079&streamencoding=mp31", 
+            "name": "FREESTYLE"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43294"
+}

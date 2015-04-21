@@ -1,0 +1,14 @@
+{
+    "name": "First Lick of Picon", 
+    "artist": "Dub Lab", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9031&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91967&streamencoding=mp31", 
+            "name": "Dub Lab - Sweet Dub"
+        }
+    ], 
+    "release": "2007", 
+    "id": "9031"
+}

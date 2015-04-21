@@ -1,0 +1,34 @@
+{
+    "name": "The Maw Of Sleep", 
+    "artist": "The Silence Industry", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113677&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=966533&streamencoding=mp31", 
+            "name": "Insurgent Heart(s)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=966531&streamencoding=mp31", 
+            "name": "Global Spring"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=966530&streamencoding=mp31", 
+            "name": "The Maw of Sleep"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=966534&streamencoding=mp31", 
+            "name": "Giants Over Broken Earth"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=966532&streamencoding=mp31", 
+            "name": "Yours Is the Light"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113677"
+}

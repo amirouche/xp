@@ -1,0 +1,39 @@
+{
+    "name": "Anthems for a mind lost in a world without heart", 
+    "artist": "Parkingsound Beatz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33318&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224633&streamencoding=mp31", 
+            "name": "Da Mind"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224634&streamencoding=mp31", 
+            "name": "Imsomnia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224635&streamencoding=mp31", 
+            "name": "Mamma Dark"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224637&streamencoding=mp31", 
+            "name": "No Future"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224636&streamencoding=mp31", 
+            "name": "No Dreams"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=224638&streamencoding=mp31", 
+            "name": "The Last Jazz"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33318"
+}

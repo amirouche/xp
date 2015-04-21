@@ -1,0 +1,134 @@
+{
+    "name": "Youtube Generation", 
+    "artist": "Dhalius", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66131&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572984&streamencoding=mp31", 
+            "name": "vinyltoy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572974&streamencoding=mp31", 
+            "name": "octajuan"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572981&streamencoding=mp31", 
+            "name": "santorronponpon youtube mexico"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572997&streamencoding=mp31", 
+            "name": "sandycoben"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572980&streamencoding=mp31", 
+            "name": "sorlak15"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572983&streamencoding=mp31", 
+            "name": "kimmy phone"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572977&streamencoding=mp31", 
+            "name": "aniux morelia"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572975&streamencoding=mp31", 
+            "name": "chris is awesome"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572996&streamencoding=mp31", 
+            "name": "luzdepp89"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572989&streamencoding=mp31", 
+            "name": "soytato"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572979&streamencoding=mp31", 
+            "name": "mimarmota"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572978&streamencoding=mp31", 
+            "name": "gwabir"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572976&streamencoding=mp31", 
+            "name": "watzongoman"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572991&streamencoding=mp31", 
+            "name": "lucielovesyou"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572988&streamencoding=mp31", 
+            "name": "veruku"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572986&streamencoding=mp31", 
+            "name": "soniaalicia"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572987&streamencoding=mp31", 
+            "name": "cajafresca"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572990&streamencoding=mp31", 
+            "name": "Werevertumorro"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572982&streamencoding=mp31", 
+            "name": "emperadormexica"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572993&streamencoding=mp31", 
+            "name": "benshortstuff"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572995&streamencoding=mp31", 
+            "name": "dada88"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572998&streamencoding=mp31", 
+            "name": "ixqanea"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572994&streamencoding=mp31", 
+            "name": "lyaa"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572985&streamencoding=mp31", 
+            "name": "ipad song"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=572992&streamencoding=mp31", 
+            "name": "youtube combo"
+        }
+    ], 
+    "release": "2010", 
+    "id": "66131"
+}

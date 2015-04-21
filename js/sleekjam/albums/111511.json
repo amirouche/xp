@@ -1,0 +1,14 @@
+{
+    "name": "Funny Children's Song", 
+    "artist": "Akashic Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111511&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=948722&streamencoding=mp31", 
+            "name": "Funny Children's Song"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111511"
+}

@@ -1,0 +1,99 @@
+{
+    "name": "PRESQUE RIEN", 
+    "artist": "LES P\u00caCHEURS DE LUNE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4157&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33820&streamencoding=mp31", 
+            "name": "L'ALPHABET"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33821&streamencoding=mp31", 
+            "name": "TIC TAC TIC"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33822&streamencoding=mp31", 
+            "name": "NOUNOURS"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33823&streamencoding=mp31", 
+            "name": "COULEURS"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33824&streamencoding=mp31", 
+            "name": "RIEN INVENTE"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33825&streamencoding=mp31", 
+            "name": "LE BUG"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33826&streamencoding=mp31", 
+            "name": "PLUS QU'UN P'TIT PEU MOINS"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33827&streamencoding=mp31", 
+            "name": "LE VENT"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33828&streamencoding=mp31", 
+            "name": "ZODIAQUE ( L'HOROSCOPE )"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33829&streamencoding=mp31", 
+            "name": "COMME DIT LE PETIT PRINCE"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33830&streamencoding=mp31", 
+            "name": "ARC EN CIEL"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33831&streamencoding=mp31", 
+            "name": "MONSIEUR ZIG ZAG"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33832&streamencoding=mp31", 
+            "name": "TAGADAGADA"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33833&streamencoding=mp31", 
+            "name": "KROKODIT"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33834&streamencoding=mp31", 
+            "name": "SOURIS ACADEMIE"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33835&streamencoding=mp31", 
+            "name": "LE JARDIN BLEU"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33836&streamencoding=mp31", 
+            "name": "LE PESTACLE"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=33837&streamencoding=mp31", 
+            "name": "PRESQUE RIEN"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4157"
+}

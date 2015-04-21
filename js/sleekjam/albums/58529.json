@@ -1,0 +1,14 @@
+{
+    "name": "TRAVEL IN THIS BASS!", 
+    "artist": "lartsound", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58529&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=499835&streamencoding=mp31", 
+            "name": "MOVE YOU IN THIS BASS"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58529"
+}

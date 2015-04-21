@@ -1,0 +1,34 @@
+{
+    "name": "STRONG AND LIGHT", 
+    "artist": "Doriano Belli", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55074&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=462530&streamencoding=mp31", 
+            "name": "TRIBUTE FOR FAST AND FURIOUS"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=462531&streamencoding=mp31", 
+            "name": "TRIBUTE FOR THE RING"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=462513&streamencoding=mp31", 
+            "name": "CALLING FOR YOUR LOVE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=462529&streamencoding=mp31", 
+            "name": "RAPLOVER"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=462515&streamencoding=mp31", 
+            "name": "FINAL"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55074"
+}

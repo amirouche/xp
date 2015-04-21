@@ -1,0 +1,14 @@
+{
+    "name": "Love At First Sigh", 
+    "artist": "GingerTom", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126652&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1070424&streamencoding=mp31", 
+            "name": "Love At First Sigh"
+        }
+    ], 
+    "release": "2013", 
+    "id": "126652"
+}

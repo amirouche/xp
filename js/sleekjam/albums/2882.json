@@ -1,0 +1,59 @@
+{
+    "name": "Shaking Hands!", 
+    "artist": "Robinson, Freitag And The Lonely Trumpet", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2882&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20529&streamencoding=mp31", 
+            "name": "Introduction"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20530&streamencoding=mp31", 
+            "name": "Garden Tree"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20531&streamencoding=mp31", 
+            "name": "In Da Jungle"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20532&streamencoding=mp31", 
+            "name": "Sister And Brother"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20533&streamencoding=mp31", 
+            "name": "Running With Rockets"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20534&streamencoding=mp31", 
+            "name": "I'm In Love"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20535&streamencoding=mp31", 
+            "name": "Dancehall Madness"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20536&streamencoding=mp31", 
+            "name": "Woman"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20537&streamencoding=mp31", 
+            "name": "Happy New Year"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20538&streamencoding=mp31", 
+            "name": "Music Is My Medicine"
+        }
+    ], 
+    "release": "2006", 
+    "id": "2882"
+}

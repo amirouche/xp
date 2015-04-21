@@ -1,0 +1,44 @@
+{
+    "name": "Slayers Online - Qu\u00eate des Lycans 2 (mp3 adapt\u00e9s des midis)", 
+    "artist": "Kiwi manchot", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100929&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861894&streamencoding=mp31", 
+            "name": "Plaines"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861895&streamencoding=mp31", 
+            "name": "Sombre for\u00eat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861896&streamencoding=mp31", 
+            "name": "Falaises"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861897&streamencoding=mp31", 
+            "name": "Village en ruine"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861898&streamencoding=mp31", 
+            "name": "Tour"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861899&streamencoding=mp31", 
+            "name": "Temple"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=861900&streamencoding=mp31", 
+            "name": "BONUS - Plaines (Version avec Oud)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "100929"
+}

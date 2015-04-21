@@ -1,0 +1,39 @@
+{
+    "name": "XY12", 
+    "artist": "Skarah-B", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123425&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047243&streamencoding=mp31", 
+            "name": "Primate"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047239&streamencoding=mp31", 
+            "name": "Identit\u00e9"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047240&streamencoding=mp31", 
+            "name": "Le Bar des Illusions"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047241&streamencoding=mp31", 
+            "name": "Aveugl\u00e9s"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047242&streamencoding=mp31", 
+            "name": "Metisse"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047237&streamencoding=mp31", 
+            "name": "Les chemins D\u00e9fendus"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123425"
+}

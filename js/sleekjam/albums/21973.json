@@ -1,0 +1,54 @@
+{
+    "name": "Points of Departure", 
+    "artist": "Bruce H. McCosar", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21973&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154029&streamencoding=mp31", 
+            "name": "Falling Into the Dream"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154032&streamencoding=mp31", 
+            "name": "Vale Avis Tenebrica"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154045&streamencoding=mp31", 
+            "name": "Let It Burn"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154047&streamencoding=mp31", 
+            "name": "Love and War / World on Fire"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154048&streamencoding=mp31", 
+            "name": "In Memory of Dorothy Blair"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154050&streamencoding=mp31", 
+            "name": "Casualty of the Battle of the Bands"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154051&streamencoding=mp31", 
+            "name": "The Wind of Distant Planets"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154058&streamencoding=mp31", 
+            "name": "Points of Departure"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=154059&streamencoding=mp31", 
+            "name": "Organometallic"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21973"
+}

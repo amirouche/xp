@@ -1,0 +1,19 @@
+{
+    "name": "Daylight Sky (Two Tracks)", 
+    "artist": "810N1C", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125820&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1065251&streamencoding=mp31", 
+            "name": "DAlightSki"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1065252&streamencoding=mp31", 
+            "name": "Fall Away"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125820"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Kito", 
+    "artist": "Loudog", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77452&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667743&streamencoding=mp31", 
+            "name": "Gone"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667746&streamencoding=mp31", 
+            "name": "Go to Hell"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667749&streamencoding=mp31", 
+            "name": "Checkmate"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667747&streamencoding=mp31", 
+            "name": "Cigarettes & Coffee"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667744&streamencoding=mp31", 
+            "name": "Shake Hands"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667752&streamencoding=mp31", 
+            "name": "Innocent"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667750&streamencoding=mp31", 
+            "name": "Each Lie"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667748&streamencoding=mp31", 
+            "name": "Once Upon a Crime"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667745&streamencoding=mp31", 
+            "name": "Best Days"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667742&streamencoding=mp31", 
+            "name": "Sometimes"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667751&streamencoding=mp31", 
+            "name": "In Their Eyes"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77452"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Grow Out Of Lego, Grow Out Of Life", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130751&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096487&streamencoding=mp31", 
+            "name": "Wednesday ft Kaer Trouz"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096489&streamencoding=mp31", 
+            "name": "Bah Humbug ft Kara Sqaure"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096490&streamencoding=mp31", 
+            "name": "Bah Humbag pt2 ft Speck"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096491&streamencoding=mp31", 
+            "name": "The Avicii Regime pt  1 ft Kaer Trouz"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096492&streamencoding=mp31", 
+            "name": "On A Silent Night (Casio Kings Mix) Ft Javolenus"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096493&streamencoding=mp31", 
+            "name": "Adder Adder Adagio - ft Javolenus"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096494&streamencoding=mp31", 
+            "name": "Sweet Seduction Rap (Romelar's Reloaded Mix)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096495&streamencoding=mp31", 
+            "name": "The Avicii Regime pt2 ft Admiral Bob"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096496&streamencoding=mp31", 
+            "name": "Sweet Seduction Rap (Hip Hop Goes Goth mix) ft Speck"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096497&streamencoding=mp31", 
+            "name": "America Mad And Naked ft Calling Sister Midnight"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096499&streamencoding=mp31", 
+            "name": "Goose 4 ft MWIC"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1096519&streamencoding=mp31", 
+            "name": "Hold My Heart ft SackJo22"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130751"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "So sweet", 
+    "artist": "Fgo70", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111708&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950192&streamencoding=mp31", 
+            "name": "One on seven"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950191&streamencoding=mp31", 
+            "name": "The exhibitionist"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950190&streamencoding=mp31", 
+            "name": "All opportunities are good"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950183&streamencoding=mp31", 
+            "name": "Be nice !"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950188&streamencoding=mp31", 
+            "name": "Smoky brain"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950187&streamencoding=mp31", 
+            "name": "So sweet"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950184&streamencoding=mp31", 
+            "name": "Five six seven"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950186&streamencoding=mp31", 
+            "name": "Be fair"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950193&streamencoding=mp31", 
+            "name": "Funky jam"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950185&streamencoding=mp31", 
+            "name": "Dreaming into the clouds"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=950189&streamencoding=mp31", 
+            "name": "For the love of G"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111708"
+}

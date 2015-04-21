@@ -1,0 +1,54 @@
+{
+    "name": "Hardcore Tracks 2", 
+    "artist": "Prana Yama", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80530&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=690929&streamencoding=mp31", 
+            "name": "Illusions (176 bpm)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=690928&streamencoding=mp31", 
+            "name": "Got news ? (177 bpm)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691006&streamencoding=mp31", 
+            "name": "Weird girl (178 bpm)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691004&streamencoding=mp31", 
+            "name": "Energetic rave (180 bpm)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691003&streamencoding=mp31", 
+            "name": "Who do you take me for ? (180 bpm)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=690930&streamencoding=mp31", 
+            "name": "Three shots (187 bpm)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691005&streamencoding=mp31", 
+            "name": "Spectre of rebellion (195 bpm)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=690925&streamencoding=mp31", 
+            "name": "Hard kicker (195 bpm)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=690927&streamencoding=mp31", 
+            "name": "Al-eX (225 bpm)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80530"
+}

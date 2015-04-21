@@ -1,0 +1,74 @@
+{
+    "name": "This Is The Age Of Cocaine", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126185&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067447&streamencoding=mp31", 
+            "name": "The First Age Of Cocaine ft scut_07"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067452&streamencoding=mp31", 
+            "name": "Elements 2 ft Platinum Butterfly"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067429&streamencoding=mp31", 
+            "name": "Bird ft Orrisroot + Tylerthedesigner"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067448&streamencoding=mp31", 
+            "name": "One Perfect Love ft Rachel Brown"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067451&streamencoding=mp31", 
+            "name": "Elements 1 ft  Asmus Koefoed + Nickleus + RobWalkerPoet"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067445&streamencoding=mp31", 
+            "name": "The Second Age Of Cocaine ft WhiteWolf225"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067446&streamencoding=mp31", 
+            "name": "Blackleg Miner (live at Kesgrave)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067443&streamencoding=mp31", 
+            "name": "Love Liberation Song ft Alex"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067449&streamencoding=mp31", 
+            "name": "Melody's Motion ft Speck"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067442&streamencoding=mp31", 
+            "name": "Girl On TV"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067430&streamencoding=mp31", 
+            "name": "Blackleg Miner (Bevin Boys Mix) - GUTT"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067444&streamencoding=mp31", 
+            "name": "The Third Age Of Cocaine ft Speck"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1067450&streamencoding=mp31", 
+            "name": "Depression, And The Ukelele Ft Kara Square And Friends"
+        }
+    ], 
+    "release": "2013", 
+    "id": "126185"
+}

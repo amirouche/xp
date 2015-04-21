@@ -1,0 +1,44 @@
+{
+    "name": "Mix session", 
+    "artist": "TONIGHT WE FLY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90487&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765637&streamencoding=mp31", 
+            "name": "Back to the old house (inst mix session one)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765638&streamencoding=mp31", 
+            "name": "Lost my soul (mix session one)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765639&streamencoding=mp31", 
+            "name": "Years after years (mix session one)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765641&streamencoding=mp31", 
+            "name": "The One I m waiting for (mix session one)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765642&streamencoding=mp31", 
+            "name": "See you (mix session one)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765643&streamencoding=mp31", 
+            "name": "Dear brother (mix session one)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=765640&streamencoding=mp31", 
+            "name": "The day before (mix session one)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90487"
+}

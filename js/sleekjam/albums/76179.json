@@ -1,0 +1,14 @@
+{
+    "name": "RAS DIPI REGGAE - LIVE DUB 2010", 
+    "artist": "Ras Dipi REGGAE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76179&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=657412&streamencoding=mp31", 
+            "name": "RAS DIPI - DUB LIVE 2010"
+        }
+    ], 
+    "release": "2010", 
+    "id": "76179"
+}

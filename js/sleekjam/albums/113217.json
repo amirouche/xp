@@ -1,0 +1,49 @@
+{
+    "name": "Noche Dulce Compa\u00f1\u00eda ", 
+    "artist": "Humberto Garc\u00eda ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113217&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960056&streamencoding=mp31", 
+            "name": "DITE , OIME      Vivaldi "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960069&streamencoding=mp31", 
+            "name": "SWEETER THAN ROSES ( M\u00e1s dulce que las rosas )    Purcell"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960175&streamencoding=mp31", 
+            "name": "DIE NACHT ( La noche )   Strauss"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960180&streamencoding=mp31", 
+            "name": "H\u00d3R ICH DAS LIEDCHEN KLINGEN( Escucho la cantinela... )    Schumann"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960181&streamencoding=mp31", 
+            "name": "DER LEIERMANN( el organillero )   Schubert "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960190&streamencoding=mp31", 
+            "name": "SORPRESA "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=960488&streamencoding=mp31", 
+            "name": "LES CHEMINS DE L\u00b4 AMOUR  ( Los caminos del amor )   Poulenc"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=962909&streamencoding=mp31", 
+            "name": "MONTPARNASSE   poulenc "
+        }
+    ], 
+    "release": "2012", 
+    "id": "113217"
+}

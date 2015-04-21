@@ -1,0 +1,44 @@
+{
+    "name": "Strange", 
+    "artist": "Conchadors", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7464&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81408&streamencoding=mp31", 
+            "name": "Rise Against Love"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81409&streamencoding=mp31", 
+            "name": "March Of Metal"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81410&streamencoding=mp31", 
+            "name": "Whisper Of Darkness"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81411&streamencoding=mp31", 
+            "name": "Dominate The World"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81412&streamencoding=mp31", 
+            "name": "Painted Faces"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81413&streamencoding=mp31", 
+            "name": "The Dog"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=81414&streamencoding=mp31", 
+            "name": "Catch And Punish Them"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7464"
+}

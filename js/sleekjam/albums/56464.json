@@ -1,0 +1,39 @@
+{
+    "name": "Imantado", 
+    "artist": "jorge manuel laso", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56464&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477816&streamencoding=mp31", 
+            "name": "UNA MANADA DE PERROS"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477836&streamencoding=mp31", 
+            "name": "SOLEDAD"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477852&streamencoding=mp31", 
+            "name": "DAME, DAME TU CALOR"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477893&streamencoding=mp31", 
+            "name": "BALADA DE LA JUSTICIA"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477903&streamencoding=mp31", 
+            "name": "SUE\u00d1O DE UNA NOCHE DE VERANO"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=477925&streamencoding=mp31", 
+            "name": "ISLA"
+        }
+    ], 
+    "release": "2009", 
+    "id": "56464"
+}

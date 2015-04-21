@@ -1,0 +1,44 @@
+{
+    "name": "Tadjinar", 
+    "artist": "Turjan Aylahn", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31715&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215401&streamencoding=mp31", 
+            "name": "ouverture"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215403&streamencoding=mp31", 
+            "name": "Dle Yaman "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215478&streamencoding=mp31", 
+            "name": "Onirya"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215404&streamencoding=mp31", 
+            "name": "Nomades"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215407&streamencoding=mp31", 
+            "name": "desert Nigth"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215476&streamencoding=mp31", 
+            "name": "Sand & Moonrise "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=215405&streamencoding=mp31", 
+            "name": "dessent"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31715"
+}

@@ -1,0 +1,89 @@
+{
+    "name": "Ad eternae", 
+    "artist": "Distimia (Espa\u00f1a)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3764&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29237&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29238&streamencoding=mp31", 
+            "name": "Vade Retro"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29239&streamencoding=mp31", 
+            "name": "Tuut"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29240&streamencoding=mp31", 
+            "name": "Intermedio I"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29241&streamencoding=mp31", 
+            "name": "Arcano 13"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29242&streamencoding=mp31", 
+            "name": "Cardenales"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29243&streamencoding=mp31", 
+            "name": "Intermedio II"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29244&streamencoding=mp31", 
+            "name": "Los que no morir\u00e1n te saludan"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29245&streamencoding=mp31", 
+            "name": "Hirviendo"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29246&streamencoding=mp31", 
+            "name": "Intermedio III"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29247&streamencoding=mp31", 
+            "name": "Baile de Samael"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29248&streamencoding=mp31", 
+            "name": "Danza de Fuego I"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29249&streamencoding=mp31", 
+            "name": "Invocaci\u00f3n Menor"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29250&streamencoding=mp31", 
+            "name": "Intermedio IV"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29251&streamencoding=mp31", 
+            "name": "Tammuz"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=29252&streamencoding=mp31", 
+            "name": "Coros Luciferinos"
+        }
+    ], 
+    "release": "2007", 
+    "id": "3764"
+}

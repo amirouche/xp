@@ -1,0 +1,24 @@
+{
+    "name": "Kekse", 
+    "artist": "Kielobot", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134510&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124696&streamencoding=mp31", 
+            "name": "Kekse"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124697&streamencoding=mp31", 
+            "name": "Weisst Du?"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1124698&streamencoding=mp31", 
+            "name": "Beat Man (live)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "134510"
+}

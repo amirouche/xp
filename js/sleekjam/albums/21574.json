@@ -1,0 +1,49 @@
+{
+    "name": "Contr\u00f4le d'identit\u00e9", 
+    "artist": "LIKASSA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21574&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151205&streamencoding=mp31", 
+            "name": "bagdad"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151206&streamencoding=mp31", 
+            "name": "NOS PERES"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151207&streamencoding=mp31", 
+            "name": "Politicien"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151208&streamencoding=mp31", 
+            "name": "multiculture"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151209&streamencoding=mp31", 
+            "name": "voyage"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151210&streamencoding=mp31", 
+            "name": "victimes"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151211&streamencoding=mp31", 
+            "name": "free"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=151212&streamencoding=mp31", 
+            "name": "d\u00e9sol\u00e9"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21574"
+}

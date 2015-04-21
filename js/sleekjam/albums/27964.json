@@ -1,0 +1,49 @@
+{
+    "name": "Les Enfants Perdus", 
+    "artist": "Gli Occhi di Faust", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27964&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186980&streamencoding=mp31", 
+            "name": "Les Enfants Perdus"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186981&streamencoding=mp31", 
+            "name": "Ego in Arcadia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186982&streamencoding=mp31", 
+            "name": "Povero Vlad"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186983&streamencoding=mp31", 
+            "name": "Bullenhuser Damm"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186984&streamencoding=mp31", 
+            "name": "William"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186985&streamencoding=mp31", 
+            "name": "Katyusha for Breakfast"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186986&streamencoding=mp31", 
+            "name": "Novembergrau"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=186979&streamencoding=mp31", 
+            "name": "Pauline"
+        }
+    ], 
+    "release": "2008", 
+    "id": "27964"
+}

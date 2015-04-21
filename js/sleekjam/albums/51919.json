@@ -1,0 +1,79 @@
+{
+    "name": "Nova Juva", 
+    "artist": "Sadista", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51919&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423754&streamencoding=mp31", 
+            "name": "Udar 3"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423755&streamencoding=mp31", 
+            "name": "U Loncu"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423756&streamencoding=mp31", 
+            "name": "Hardakan 2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423757&streamencoding=mp31", 
+            "name": "Jebena Majka"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423758&streamencoding=mp31", 
+            "name": "Longitudional"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423759&streamencoding=mp31", 
+            "name": "Vodeni Glis"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423760&streamencoding=mp31", 
+            "name": "Untiled"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423761&streamencoding=mp31", 
+            "name": "Cetrnaesti Odojak"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423762&streamencoding=mp31", 
+            "name": "Srednjak"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423763&streamencoding=mp31", 
+            "name": "Anomalia"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424358&streamencoding=mp31", 
+            "name": "Dojkos"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424359&streamencoding=mp31", 
+            "name": "Slomljena Grana"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424360&streamencoding=mp31", 
+            "name": "Brat od Paranoje"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=424361&streamencoding=mp31", 
+            "name": "Paranoja"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51919"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Hamburg Hafen City", 
+    "artist": "Varicourt", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130840&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097082&streamencoding=mp31", 
+            "name": "Hamburg Hafen City"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097073&streamencoding=mp31", 
+            "name": "Und wir sind so frei"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097074&streamencoding=mp31", 
+            "name": "Iwan"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097075&streamencoding=mp31", 
+            "name": "Die Stripperin"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097076&streamencoding=mp31", 
+            "name": "Blumenkind"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097077&streamencoding=mp31", 
+            "name": "Sie war eine \u00c4tze"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097078&streamencoding=mp31", 
+            "name": "Superbock"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097079&streamencoding=mp31", 
+            "name": "Mein Schwager"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097080&streamencoding=mp31", 
+            "name": "Rita Knobel Ulrich"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097081&streamencoding=mp31", 
+            "name": "Country Cherry"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097071&streamencoding=mp31", 
+            "name": "Talkshows"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1097072&streamencoding=mp31", 
+            "name": "Sunset Blvd. at night 2014"
+        }
+    ], 
+    "release": "2014", 
+    "id": "130840"
+}

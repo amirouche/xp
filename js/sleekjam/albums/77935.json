@@ -1,0 +1,59 @@
+{
+    "name": "Under the Blue Sun", 
+    "artist": "[LENA]", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77935&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671839&streamencoding=mp31", 
+            "name": "Intro Strangulation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671846&streamencoding=mp31", 
+            "name": "Planet Death"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671841&streamencoding=mp31", 
+            "name": "Shooting"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671837&streamencoding=mp31", 
+            "name": "Directed blast"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671842&streamencoding=mp31", 
+            "name": "Killers light"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671838&streamencoding=mp31", 
+            "name": "Panic"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671843&streamencoding=mp31", 
+            "name": "Pit"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671844&streamencoding=mp31", 
+            "name": "Parallax"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671845&streamencoding=mp31", 
+            "name": "Last hope"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=671840&streamencoding=mp31", 
+            "name": "Eclipse"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77935"
+}

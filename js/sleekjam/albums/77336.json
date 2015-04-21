@@ -1,0 +1,74 @@
+{
+    "name": "Peninsula Blues", 
+    "artist": "Truman", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77336&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666508&streamencoding=mp31", 
+            "name": "Shuffle"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666498&streamencoding=mp31", 
+            "name": "Flight 5"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666499&streamencoding=mp31", 
+            "name": "Chasin the Blues Away"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666506&streamencoding=mp31", 
+            "name": "Jazz in Em"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666504&streamencoding=mp31", 
+            "name": "Blues Rock"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666496&streamencoding=mp31", 
+            "name": "Sister Blues"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666497&streamencoding=mp31", 
+            "name": "Blue Peninsula"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666501&streamencoding=mp31", 
+            "name": "Jazz in F"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666507&streamencoding=mp31", 
+            "name": "5/4 Jazz"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666503&streamencoding=mp31", 
+            "name": "Jazz Ballad"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666500&streamencoding=mp31", 
+            "name": "Midnight3"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666505&streamencoding=mp31", 
+            "name": "Bluesy"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666502&streamencoding=mp31", 
+            "name": "More  Blue (from U-Pick)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77336"
+}

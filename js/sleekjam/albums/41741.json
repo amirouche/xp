@@ -1,0 +1,39 @@
+{
+    "name": "Steh Auf !", 
+    "artist": "Reverend Punk & The Real Dolls", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41741&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=307401&streamencoding=mp31", 
+            "name": "Miss You"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=307419&streamencoding=mp31", 
+            "name": "Steh Auf !"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=307441&streamencoding=mp31", 
+            "name": "Durch Die Nacht"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=307459&streamencoding=mp31", 
+            "name": "Alles in Ordnung"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=307463&streamencoding=mp31", 
+            "name": "Sojuz"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=307467&streamencoding=mp31", 
+            "name": "Daily Dance"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41741"
+}

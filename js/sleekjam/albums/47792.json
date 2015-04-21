@@ -1,0 +1,49 @@
+{
+    "name": "Experiments in a Holographic Universe", 
+    "artist": "Shufflebrain", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47792&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373401&streamencoding=mp31", 
+            "name": "Experiment 1 - A Hologramic Theory"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373411&streamencoding=mp31", 
+            "name": "Experiment 2 - (redacted)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373418&streamencoding=mp31", 
+            "name": "Experiment 3 - Sense Intensification"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373431&streamencoding=mp31", 
+            "name": "Experiment 4 - Memory Overflow"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373459&streamencoding=mp31", 
+            "name": "Experiment 4.1 - Memory Recall"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373463&streamencoding=mp31", 
+            "name": "Experiment 4.2 - Memory Recursion"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373466&streamencoding=mp31", 
+            "name": "Experiment 4.3 - CRC Error"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=373477&streamencoding=mp31", 
+            "name": "Experiment 5 - The Hologramic Mind"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47792"
+}

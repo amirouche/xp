@@ -1,0 +1,24 @@
+{
+    "name": "The Pony Picture", 
+    "artist": "The Pony Picture", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74833&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645872&streamencoding=mp31", 
+            "name": "Boygirl"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645873&streamencoding=mp31", 
+            "name": "Your World"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=645874&streamencoding=mp31", 
+            "name": "So Close To You"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74833"
+}

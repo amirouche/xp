@@ -1,0 +1,64 @@
+{
+    "name": "Les Yeux Du Monde", 
+    "artist": "Chrys Fair Light", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41576&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304369&streamencoding=mp31", 
+            "name": "Episode"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304335&streamencoding=mp31", 
+            "name": "Les Yeux Du Monde"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304363&streamencoding=mp31", 
+            "name": "Ce N'Etait Qu'Un R\u00eave"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304348&streamencoding=mp31", 
+            "name": "Elle Revient"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304347&streamencoding=mp31", 
+            "name": "Evasion (On The Planet Fair Light)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304370&streamencoding=mp31", 
+            "name": "D\u00e9r\u00e9alisation De Nos Vies"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304336&streamencoding=mp31", 
+            "name": "R\u00e9versibilit\u00e9"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304337&streamencoding=mp31", 
+            "name": "Manque D'Envie"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304364&streamencoding=mp31", 
+            "name": "Le Bal Des Tortur\u00e9s"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304371&streamencoding=mp31", 
+            "name": "Death Sentence"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=304362&streamencoding=mp31", 
+            "name": "A La Recherche D'Une Dame"
+        }
+    ], 
+    "release": "2009", 
+    "id": "41576"
+}

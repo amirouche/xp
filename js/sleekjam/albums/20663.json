@@ -1,0 +1,54 @@
+{
+    "name": "Strange Moon", 
+    "artist": "Emmanuel Saracco", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20663&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145203&streamencoding=mp31", 
+            "name": "Strange Moon"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145205&streamencoding=mp31", 
+            "name": "String Dust"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145206&streamencoding=mp31", 
+            "name": "Midnight Circus"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145193&streamencoding=mp31", 
+            "name": "Black Bird"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145196&streamencoding=mp31", 
+            "name": "Memories"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145197&streamencoding=mp31", 
+            "name": "One Zest"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145202&streamencoding=mp31", 
+            "name": "Ride It"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145194&streamencoding=mp31", 
+            "name": "Blue Egg"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=145195&streamencoding=mp31", 
+            "name": "Kalice"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20663"
+}

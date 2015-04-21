@@ -1,0 +1,39 @@
+{
+    "name": "Besoin d'Aide !", 
+    "artist": "iRieTEAM", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=12386&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104960&streamencoding=mp31", 
+            "name": "01 Sur la M\u00eame Roots"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104961&streamencoding=mp31", 
+            "name": "02 Which Future"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104962&streamencoding=mp31", 
+            "name": "03 9 m\u00e8tres Carr\u00e9s"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104963&streamencoding=mp31", 
+            "name": "04 Ce qu'on a fait de mieux"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104964&streamencoding=mp31", 
+            "name": "05 Besoin d'Aide"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=104965&streamencoding=mp31", 
+            "name": "06 Ce qu'on a Fait de Dub (Feat. Romain \"Sunatcha\"Allemandet)"
+        }
+    ], 
+    "release": "2007", 
+    "id": "12386"
+}

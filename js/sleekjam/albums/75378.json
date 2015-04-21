@@ -1,0 +1,14 @@
+{
+    "name": "Clash", 
+    "artist": "Selfplayers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75378&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650231&streamencoding=mp31", 
+            "name": "NO WAR"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75378"
+}

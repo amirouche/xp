@@ -1,0 +1,79 @@
+{
+    "name": "Feel the sky", 
+    "artist": "Dan Gschwind", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135245&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128790&streamencoding=mp31", 
+            "name": "Shinbui"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128799&streamencoding=mp31", 
+            "name": "Feel the sky"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128800&streamencoding=mp31", 
+            "name": "Funk Jam"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128801&streamencoding=mp31", 
+            "name": "Love grows"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128802&streamencoding=mp31", 
+            "name": "Crazy Love"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128803&streamencoding=mp31", 
+            "name": "Chill out"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128804&streamencoding=mp31", 
+            "name": "Thank you"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128805&streamencoding=mp31", 
+            "name": "Love and Light"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128806&streamencoding=mp31", 
+            "name": "Sunset Boulevard"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128807&streamencoding=mp31", 
+            "name": "Oh my Love"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128808&streamencoding=mp31", 
+            "name": "Goin\u00b4 home"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128809&streamencoding=mp31", 
+            "name": "Feel you near"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128810&streamencoding=mp31", 
+            "name": "Moon Mantra"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128811&streamencoding=mp31", 
+            "name": "Feel the sky - reprise"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135245"
+}

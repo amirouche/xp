@@ -1,0 +1,14 @@
+{
+    "name": "Warped & Back", 
+    "artist": "On The Mission From God", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67184&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=582296&streamencoding=mp31", 
+            "name": "Warped & Back"
+        }
+    ], 
+    "release": "2010", 
+    "id": "67184"
+}

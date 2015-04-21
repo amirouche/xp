@@ -1,0 +1,69 @@
+{
+    "name": "\u00f6 3 3 (otrestres)", 
+    "artist": "La Tarrancha", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60495&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516949&streamencoding=mp31", 
+            "name": "A la Lluna"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516975&streamencoding=mp31", 
+            "name": "Iviernu, calor"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516986&streamencoding=mp31", 
+            "name": "Cu\u00e1ntes veces"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=516998&streamencoding=mp31", 
+            "name": "La nuechi que t'alcontr\u00e9"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517000&streamencoding=mp31", 
+            "name": "Tierra"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517042&streamencoding=mp31", 
+            "name": "Reggae o ska"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517056&streamencoding=mp31", 
+            "name": "Qltiando"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517071&streamencoding=mp31", 
+            "name": "Nyahbingi"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517107&streamencoding=mp31", 
+            "name": "La palabra Llibert\u00e1"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517108&streamencoding=mp31", 
+            "name": "Salgo"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517140&streamencoding=mp31", 
+            "name": "Furen"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=517146&streamencoding=mp31", 
+            "name": "RSR"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60495"
+}

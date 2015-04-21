@@ -1,0 +1,24 @@
+{
+    "name": "Instinct divinatoire", 
+    "artist": "N\u00eeCO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4979&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=40414&streamencoding=mp31", 
+            "name": "Instinct Divinatoire (feat tchoune)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=40417&streamencoding=mp31", 
+            "name": "Cri du fou"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=40418&streamencoding=mp31", 
+            "name": "Indienne Trimix"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4979"
+}

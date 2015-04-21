@@ -1,0 +1,29 @@
+{
+    "name": "In-Ear Surgery (Live Edits)", 
+    "artist": "AX11", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64978&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559705&streamencoding=mp31", 
+            "name": "AX11 - Reliable Patterns (Live RMX)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559707&streamencoding=mp31", 
+            "name": "AX11 - Handcuffs, Roses and Champagne"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559708&streamencoding=mp31", 
+            "name": "AX11 - Leviathan (Live Edit)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=559706&streamencoding=mp31", 
+            "name": "AX11 - The Loops - AAAAH!! THE LOOPS!"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64978"
+}

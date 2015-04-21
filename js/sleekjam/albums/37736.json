@@ -1,0 +1,44 @@
+{
+    "name": "ODI - La terra dels origens", 
+    "artist": "ODI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37736&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264775&streamencoding=mp31", 
+            "name": "L'opressi\u00f3 d'un poble"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264796&streamencoding=mp31", 
+            "name": "Un nou m\u00f3n"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264803&streamencoding=mp31", 
+            "name": "Correllengua"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264816&streamencoding=mp31", 
+            "name": "L'altra cara"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264826&streamencoding=mp31", 
+            "name": "\u00c0frika"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264840&streamencoding=mp31", 
+            "name": "TV manipulaci\u00f3"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=264846&streamencoding=mp31", 
+            "name": "La terra dels origens"
+        }
+    ], 
+    "release": "2009", 
+    "id": "37736"
+}

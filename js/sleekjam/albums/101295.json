@@ -1,0 +1,44 @@
+{
+    "name": "\u0411\u0435\u0437\u0434\u043d\u0430", 
+    "artist": "And Remain There Forever", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101295&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864685&streamencoding=mp31", 
+            "name": "\u041d\u0435\u043f\u0440\u0438\u0447\u0430\u0441\u0442\u043d\u044b\u0439"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864684&streamencoding=mp31", 
+            "name": "\u0423\u0431\u0438\u0432\u0430\u044f \u043d\u0435\u043d\u0430\u0432\u0438\u0441\u0442\u044c"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864683&streamencoding=mp31", 
+            "name": "\u0414\u0443\u0448\u0438\u0442"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864682&streamencoding=mp31", 
+            "name": "\u0421\u0435\u043a\u0443\u043d\u0434\u043d\u0430\u044f \u0412\u0435\u0447\u043d\u043e\u0441\u0442\u044c"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864680&streamencoding=mp31", 
+            "name": "\u0420\u043e\u044e\u0449\u0438\u0435 \u0438\u0437 \u0433\u043b\u0443\u0431\u0438\u043d \u0417\u0435\u043c\u043b\u0438,\u043f\u0443\u0442\u044c \u043a \u0441\u043e\u043b\u043d\u0446\u0443"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864681&streamencoding=mp31", 
+            "name": "\u041f\u043e\u0434\u043d\u044f\u0442\u044b\u0435 \u0432 \u0431\u0435\u0437\u0434\u043d\u0443"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=864679&streamencoding=mp31", 
+            "name": "\u041e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u0435"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101295"
+}

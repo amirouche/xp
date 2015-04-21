@@ -1,0 +1,14 @@
+{
+    "name": "Flight", 
+    "artist": "Alex", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97335&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=832451&streamencoding=mp31", 
+            "name": "Flight"
+        }
+    ], 
+    "release": "2011", 
+    "id": "97335"
+}

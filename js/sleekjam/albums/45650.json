@@ -1,0 +1,49 @@
+{
+    "name": "Live in Second Life", 
+    "artist": "Ekeynox", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45650&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347530&streamencoding=mp31", 
+            "name": "May 2, Nitida Ridge (1, Bree's Ballad)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347533&streamencoding=mp31", 
+            "name": "May 2, Nitida Ridge (2)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347534&streamencoding=mp31", 
+            "name": "April 17, U21Global Auditorium"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347535&streamencoding=mp31", 
+            "name": "April 29, Hummingbird Cafe"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347537&streamencoding=mp31", 
+            "name": "April 20, Aquastar Lounge"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347538&streamencoding=mp31", 
+            "name": "May 2, Nitida Ridge (3)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347539&streamencoding=mp31", 
+            "name": "April 24, Aquastar Lounge"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=347540&streamencoding=mp31", 
+            "name": "April 19, Nederpoort Opening"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45650"
+}

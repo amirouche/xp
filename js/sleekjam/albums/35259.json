@@ -1,0 +1,59 @@
+{
+    "name": "rave-o-tik 2008", 
+    "artist": "djdanyxx", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35259&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242990&streamencoding=mp31", 
+            "name": "the pope is dead"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243093&streamencoding=mp31", 
+            "name": "heavenly sound"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243110&streamencoding=mp31", 
+            "name": "heavenly sound"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243131&streamencoding=mp31", 
+            "name": "now satisfection 1"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243136&streamencoding=mp31", 
+            "name": "juiced mix"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243151&streamencoding=mp31", 
+            "name": "enjoy your smell 1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243153&streamencoding=mp31", 
+            "name": "good for valy 1"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243158&streamencoding=mp31", 
+            "name": "touch me,fly away 1"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243173&streamencoding=mp31", 
+            "name": "remember me 1"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=243176&streamencoding=mp31", 
+            "name": "kalika helium mix"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35259"
+}

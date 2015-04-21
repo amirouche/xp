@@ -1,0 +1,24 @@
+{
+    "name": "Die Legende von Gnor (Auswahl)", 
+    "artist": "CrossingTom", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78926&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679227&streamencoding=mp31", 
+            "name": "Main Theme from Gnor"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679228&streamencoding=mp31", 
+            "name": "Silberwald"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=679229&streamencoding=mp31", 
+            "name": "Final Theme from Gnor"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78926"
+}

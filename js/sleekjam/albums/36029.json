@@ -1,0 +1,89 @@
+{
+    "name": "iutro'", 
+    "artist": "Bielebny", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36029&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249994&streamencoding=mp31", 
+            "name": "Mamboa"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249996&streamencoding=mp31", 
+            "name": "Reggaeneracja"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250001&streamencoding=mp31", 
+            "name": "SG-nifico"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250003&streamencoding=mp31", 
+            "name": "Toffu"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249999&streamencoding=mp31", 
+            "name": "Sand-Witch"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249988&streamencoding=mp31", 
+            "name": "Step 2"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250005&streamencoding=mp31", 
+            "name": "Walkin On A Black HOle"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250002&streamencoding=mp31", 
+            "name": "Sound Ostateczny"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250006&streamencoding=mp31", 
+            "name": "Sound Fiction"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249989&streamencoding=mp31", 
+            "name": "Break-Fast"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249990&streamencoding=mp31", 
+            "name": "Extragonia"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249991&streamencoding=mp31", 
+            "name": "Jazzurection"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249993&streamencoding=mp31", 
+            "name": "KJ5-647"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249995&streamencoding=mp31", 
+            "name": "Quadrum"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=249998&streamencoding=mp31", 
+            "name": "Sadnessinblue"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=250007&streamencoding=mp31", 
+            "name": "Bonus Track-Wonderful..."
+        }
+    ], 
+    "release": "2008", 
+    "id": "36029"
+}

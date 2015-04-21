@@ -1,0 +1,44 @@
+{
+    "name": "Permanent Crisis", 
+    "artist": "DUST RIVER", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30888&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208878&streamencoding=mp31", 
+            "name": "Never Forgive"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208881&streamencoding=mp31", 
+            "name": "Dirty Shoes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208882&streamencoding=mp31", 
+            "name": "Slipping Down"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208889&streamencoding=mp31", 
+            "name": "Confused Entertainment"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208892&streamencoding=mp31", 
+            "name": "Permanent Crisis"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208893&streamencoding=mp31", 
+            "name": "Human Nature"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=208894&streamencoding=mp31", 
+            "name": "Who Are We?"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30888"
+}

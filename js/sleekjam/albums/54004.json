@@ -1,0 +1,49 @@
+{
+    "name": "Six Strings and a Voice", 
+    "artist": "Rayart Selinnes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54004&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=449312&streamencoding=mp31", 
+            "name": "Man on the run"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=449321&streamencoding=mp31", 
+            "name": "Overload"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=449326&streamencoding=mp31", 
+            "name": "Busdriver"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=449415&streamencoding=mp31", 
+            "name": "Long Time"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=449473&streamencoding=mp31", 
+            "name": "Perfect Body"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=449607&streamencoding=mp31", 
+            "name": "4U"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=449609&streamencoding=mp31", 
+            "name": "Six Strings"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=449647&streamencoding=mp31", 
+            "name": "Hell Blues"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54004"
+}

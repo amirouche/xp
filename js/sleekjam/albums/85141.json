@@ -1,0 +1,64 @@
+{
+    "name": "Arrhythmia", 
+    "artist": "Curious", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85141&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728441&streamencoding=mp31", 
+            "name": "Resurrection"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728442&streamencoding=mp31", 
+            "name": "Days"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728443&streamencoding=mp31", 
+            "name": "Slowly Decaying"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728444&streamencoding=mp31", 
+            "name": "To Run"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728445&streamencoding=mp31", 
+            "name": "Ashes Down"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728446&streamencoding=mp31", 
+            "name": "J. Mary"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728447&streamencoding=mp31", 
+            "name": "Face a Wall"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728448&streamencoding=mp31", 
+            "name": "Dazzled"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728449&streamencoding=mp31", 
+            "name": "The Way to Nowhere"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728450&streamencoding=mp31", 
+            "name": "Holy Ground"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728451&streamencoding=mp31", 
+            "name": "Thrill B"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85141"
+}

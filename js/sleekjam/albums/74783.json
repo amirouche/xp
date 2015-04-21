@@ -1,0 +1,134 @@
+{
+    "name": "Well, if you hear me howlin'!", 
+    "artist": "Suitcase Sessions", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74783&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644778&streamencoding=mp31", 
+            "name": "intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644779&streamencoding=mp31", 
+            "name": "charm school"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644780&streamencoding=mp31", 
+            "name": "freudian slip"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644781&streamencoding=mp31", 
+            "name": "howlin' wolf"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644782&streamencoding=mp31", 
+            "name": "benjamin otto's 119th dream"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644783&streamencoding=mp31", 
+            "name": "mojo hand"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644784&streamencoding=mp31", 
+            "name": "still i'm stuck"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644785&streamencoding=mp31", 
+            "name": "don't go"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644786&streamencoding=mp31", 
+            "name": "serendipity"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644787&streamencoding=mp31", 
+            "name": "find a love"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644788&streamencoding=mp31", 
+            "name": "beats me [composer]"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644789&streamencoding=mp31", 
+            "name": "the soloist"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644790&streamencoding=mp31", 
+            "name": "burned right off the hinge"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644791&streamencoding=mp31", 
+            "name": "dark globe"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644792&streamencoding=mp31", 
+            "name": "good eats"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644793&streamencoding=mp31", 
+            "name": "broke down engine blues"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644794&streamencoding=mp31", 
+            "name": "no tilt zone"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644795&streamencoding=mp31", 
+            "name": "bring our boys back home"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644796&streamencoding=mp31", 
+            "name": "you must pay the rent"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644797&streamencoding=mp31", 
+            "name": "a flash in the pan"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644798&streamencoding=mp31", 
+            "name": "the bell it sings"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644799&streamencoding=mp31", 
+            "name": "aliens III"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644800&streamencoding=mp31", 
+            "name": "fluffin' pillows"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644801&streamencoding=mp31", 
+            "name": "hell yeah v 2.0"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=644802&streamencoding=mp31", 
+            "name": "end of the album"
+        }
+    ], 
+    "release": "2010", 
+    "id": "74783"
+}

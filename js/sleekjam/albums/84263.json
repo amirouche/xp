@@ -1,0 +1,59 @@
+{
+    "name": "Symmetry Of The Sky v2", 
+    "artist": "Dramata", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84263&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721900&streamencoding=mp31", 
+            "name": "Dramata - Depressiva Instalation v2"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721907&streamencoding=mp31", 
+            "name": "Dramata - The Lone-Dog Interlude v2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721902&streamencoding=mp31", 
+            "name": "Dramata - Grey Eyes v2"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721898&streamencoding=mp31", 
+            "name": "Dramata - Katharsis v2"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721903&streamencoding=mp31", 
+            "name": "Dramata - End Of Evangelion v2"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721899&streamencoding=mp31", 
+            "name": "Dramata - 5 Minutes Before I Meet You Again v2"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721904&streamencoding=mp31", 
+            "name": "Dramata - Eternal v2"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721905&streamencoding=mp31", 
+            "name": "Dramata - Nuclear Heart v2"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721906&streamencoding=mp31", 
+            "name": "Dramata - Silence Before The Storm v2"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=721901&streamencoding=mp31", 
+            "name": "Dramata - Final Breath v2"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84263"
+}

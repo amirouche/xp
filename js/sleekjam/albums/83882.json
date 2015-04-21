@@ -1,0 +1,49 @@
+{
+    "name": "wolf rythmes vol 1", 
+    "artist": "wolf5dc", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83882&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719026&streamencoding=mp31", 
+            "name": "wolfinst39"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719027&streamencoding=mp31", 
+            "name": "wolfinst45"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719028&streamencoding=mp31", 
+            "name": "wolfinstru31"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719056&streamencoding=mp31", 
+            "name": "wolf5dcMetal09"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719057&streamencoding=mp31", 
+            "name": "WOLF5instr8"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719058&streamencoding=mp31", 
+            "name": "wolfinsr13"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719059&streamencoding=mp31", 
+            "name": "wolfinsr15"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=719060&streamencoding=mp31", 
+            "name": "untitledxolf5dc release"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83882"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "L'Amore", 
+    "artist": "Big BaMa & Dexa", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58901&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=503040&streamencoding=mp31", 
+            "name": "L'amore Feat Dexa Bastard Lady - Big BaMa"
+        }
+    ], 
+    "release": "2010", 
+    "id": "58901"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Auf Sehnsucht folgt Ern\u00fcchterung", 
+    "artist": "Soul in Sadness", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110531&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940930&streamencoding=mp31", 
+            "name": "Ern\u00fcchterung (Intro)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940933&streamencoding=mp31", 
+            "name": "Burning the Sad Souls"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940932&streamencoding=mp31", 
+            "name": "Lieblos"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940931&streamencoding=mp31", 
+            "name": "Reflections (Mystery Called Love 2.1)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940955&streamencoding=mp31", 
+            "name": "Spiel des Lebens"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940936&streamencoding=mp31", 
+            "name": "Das Letzte Wort der Lust"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940937&streamencoding=mp31", 
+            "name": "Credo (Eine Gedankensammlung)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940938&streamencoding=mp31", 
+            "name": "Hatred and Forsaken"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940954&streamencoding=mp31", 
+            "name": "Menschlichkeit"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940934&streamencoding=mp31", 
+            "name": "Last Rare Tears"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=940935&streamencoding=mp31", 
+            "name": "Zur\u00fcck zu deiner T\u00fcr (Outro)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110531"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "poppycock", 
+    "artist": "The Sacred Datura", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43179&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316960&streamencoding=mp31", 
+            "name": "my demons are your delights"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316959&streamencoding=mp31", 
+            "name": "poppycock"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316961&streamencoding=mp31", 
+            "name": "wild eyed master"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316963&streamencoding=mp31", 
+            "name": "my little raygun of sunshine"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316964&streamencoding=mp31", 
+            "name": "tongue experience"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=316962&streamencoding=mp31", 
+            "name": "dolphine swimmer"
+        }
+    ], 
+    "release": "2009", 
+    "id": "43179"
+}

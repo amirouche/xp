@@ -1,0 +1,84 @@
+{
+    "name": "FINE LINE", 
+    "artist": "Cilla K", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85031&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727368&streamencoding=mp31", 
+            "name": "WE ARE ONE Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727383&streamencoding=mp31", 
+            "name": "FINE LINE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727384&streamencoding=mp31", 
+            "name": "CONNECTED"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727385&streamencoding=mp31", 
+            "name": "DRIVE YOU HOME REMIX"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727386&streamencoding=mp31", 
+            "name": "BLACK & WHITE"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727387&streamencoding=mp31", 
+            "name": "LOST IN YOU"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727388&streamencoding=mp31", 
+            "name": "HALLUCINATION"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727389&streamencoding=mp31", 
+            "name": "EVIL CHILD"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727390&streamencoding=mp31", 
+            "name": "DEMAIN"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727391&streamencoding=mp31", 
+            "name": "CHILD OF THE UNIVERSE "
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727392&streamencoding=mp31", 
+            "name": "DRIVE YOU HOME"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727393&streamencoding=mp31", 
+            "name": "FUTURE"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727394&streamencoding=mp31", 
+            "name": "RISE ON ME Interlude"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727395&streamencoding=mp31", 
+            "name": "NOMAD"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=727396&streamencoding=mp31", 
+            "name": "EASY TO LOVE"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85031"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Michiboux #32 \"D\u00e9ca...\"", 
+    "artist": "Michiboux", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7021&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77714&streamencoding=mp31", 
+            "name": "Michiboux_32_A"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77715&streamencoding=mp31", 
+            "name": "Michiboux_32_B"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77716&streamencoding=mp31", 
+            "name": "Michiboux_32_C"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77717&streamencoding=mp31", 
+            "name": "Michiboux_32_D"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77718&streamencoding=mp31", 
+            "name": "Michiboux_32_E"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=77719&streamencoding=mp31", 
+            "name": "Michiboux_32_F"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7021"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Worst Case Scenarios", 
+    "artist": "The Kiss That Took A Trip", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42574&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314627&streamencoding=mp31", 
+            "name": "[king's piss... the beggar's song]"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314637&streamencoding=mp31", 
+            "name": "Yours is a fitting name"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314830&streamencoding=mp31", 
+            "name": "This is the furthest I've been from you"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314628&streamencoding=mp31", 
+            "name": "Mary Ward"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314635&streamencoding=mp31", 
+            "name": "Hi, America!"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314638&streamencoding=mp31", 
+            "name": "Google the one you love"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314633&streamencoding=mp31", 
+            "name": "One trick pony"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314632&streamencoding=mp31", 
+            "name": "[king's piss... the rally anthem]"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314629&streamencoding=mp31", 
+            "name": "City in decay"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314630&streamencoding=mp31", 
+            "name": "The atheists lament"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314631&streamencoding=mp31", 
+            "name": "Tiananmen"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314636&streamencoding=mp31", 
+            "name": "Demerol"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=314626&streamencoding=mp31", 
+            "name": "Who goes there...?"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42574"
+}

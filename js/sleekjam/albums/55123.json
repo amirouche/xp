@@ -1,0 +1,64 @@
+{
+    "name": "Mycopholies", 
+    "artist": "Glandul", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55123&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463155&streamencoding=mp31", 
+            "name": "Mycopholies"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463226&streamencoding=mp31", 
+            "name": "Barbu"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463163&streamencoding=mp31", 
+            "name": "L'hydre"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463167&streamencoding=mp31", 
+            "name": "Toto l'escargot"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463169&streamencoding=mp31", 
+            "name": "Monsieur plus"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463171&streamencoding=mp31", 
+            "name": "Ca goutte dehors"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463172&streamencoding=mp31", 
+            "name": "Ratman"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463238&streamencoding=mp31", 
+            "name": "Petit dej"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463227&streamencoding=mp31", 
+            "name": "Rasta pour la R\u00e9publique"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463175&streamencoding=mp31", 
+            "name": "Rock'n bio"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=463177&streamencoding=mp31", 
+            "name": "Nectar"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55123"
+}

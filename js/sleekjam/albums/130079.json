@@ -1,0 +1,69 @@
+{
+    "name": "Il divenire delle cose", 
+    "artist": "Sui Generis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130079&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089563&streamencoding=mp31", 
+            "name": "Il divenire delle cose"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089450&streamencoding=mp31", 
+            "name": "Uragano"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091253&streamencoding=mp31", 
+            "name": "Colpo su colpo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089448&streamencoding=mp31", 
+            "name": "Amore e geniale follia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089564&streamencoding=mp31", 
+            "name": "Ade vi prender\u00e0"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089452&streamencoding=mp31", 
+            "name": "Spesa"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089453&streamencoding=mp31", 
+            "name": "Madrugada"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089454&streamencoding=mp31", 
+            "name": "La mia ruota girer\u00e0"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089451&streamencoding=mp31", 
+            "name": "Sua santit\u00e0 new economy"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091254&streamencoding=mp31", 
+            "name": "Bestia"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089449&streamencoding=mp31", 
+            "name": "Wake up my friends"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091204&streamencoding=mp31", 
+            "name": "Sui Generis"
+        }
+    ], 
+    "release": "2013", 
+    "id": "130079"
+}

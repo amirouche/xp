@@ -1,0 +1,14 @@
+{
+    "name": "Black Crystal", 
+    "artist": "CORDE", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69096&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=598158&streamencoding=mp31", 
+            "name": "Black Crystal"
+        }
+    ], 
+    "release": "2010", 
+    "id": "69096"
+}

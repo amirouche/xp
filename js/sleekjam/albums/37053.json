@@ -1,0 +1,59 @@
+{
+    "name": "Zellverfall", 
+    "artist": "Damiaskaron", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37053&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258601&streamencoding=mp31", 
+            "name": "Roter Schnee"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258602&streamencoding=mp31", 
+            "name": "Sicher nicht allein"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258603&streamencoding=mp31", 
+            "name": "Zellverfall"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258604&streamencoding=mp31", 
+            "name": "Leben definiert die Zeit"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258610&streamencoding=mp31", 
+            "name": "Seelen"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258616&streamencoding=mp31", 
+            "name": "Das Experiment"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258633&streamencoding=mp31", 
+            "name": "Der Mond zieht seine Bahn"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258637&streamencoding=mp31", 
+            "name": "Der leichte Weg"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258644&streamencoding=mp31", 
+            "name": "Das Klischee"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258645&streamencoding=mp31", 
+            "name": "C10H14N2"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37053"
+}

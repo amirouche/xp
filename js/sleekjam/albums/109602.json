@@ -1,0 +1,49 @@
+{
+    "name": "[EPH013] AAVV - Noisydrina vol 2", 
+    "artist": "Ephedrina Netlabel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109602&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934062&streamencoding=mp31", 
+            "name": "REMOTE GUEST LIST - Say To You"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934067&streamencoding=mp31", 
+            "name": "MILDTAPE - Index Dub"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934068&streamencoding=mp31", 
+            "name": "DZIGA - UNity"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934069&streamencoding=mp31", 
+            "name": "JAHPAWA - dubmind"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934073&streamencoding=mp31", 
+            "name": "BIST - Everything flows (Future version)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934074&streamencoding=mp31", 
+            "name": "DUBBEMO - Breath dub"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934075&streamencoding=mp31", 
+            "name": "EIKOSPUD - Break's"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=934076&streamencoding=mp31", 
+            "name": "BLISTER - SuperBeatRMX"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109602"
+}

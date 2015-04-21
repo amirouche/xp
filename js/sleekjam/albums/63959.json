@@ -1,0 +1,59 @@
+{
+    "name": "Play on Mute", 
+    "artist": "Ben Wunder", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63959&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549235&streamencoding=mp31", 
+            "name": "In Endless Pursuit"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549216&streamencoding=mp31", 
+            "name": "A Song to Remind You"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549208&streamencoding=mp31", 
+            "name": "Eternal Chase"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549213&streamencoding=mp31", 
+            "name": "Sinister Psyclone"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549209&streamencoding=mp31", 
+            "name": "Ruckus"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549210&streamencoding=mp31", 
+            "name": "To You from the Moon... (From the Moon to You)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549215&streamencoding=mp31", 
+            "name": "Right Behind You"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549214&streamencoding=mp31", 
+            "name": "Our Endless March on Certain Death"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549207&streamencoding=mp31", 
+            "name": "Love in a New Age"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=549212&streamencoding=mp31", 
+            "name": "Hidden in Rhythm"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63959"
+}

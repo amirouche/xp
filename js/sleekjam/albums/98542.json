@@ -1,0 +1,19 @@
+{
+    "name": "Wem gehoert die Welt DUB", 
+    "artist": "Hinterhof HiFi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98542&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843287&streamencoding=mp31", 
+            "name": "Hinterhof HiFi - Wem gehoert die Welt DUB (Trackdriver Remix)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=843286&streamencoding=mp31", 
+            "name": "Hinterhof HiFi - Wem gehoert die Welt DUB (suboptional Remix)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98542"
+}

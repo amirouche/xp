@@ -1,0 +1,14 @@
+{
+    "name": "Destino VIII", 
+    "artist": "CLUB DESTINO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109060&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920904&streamencoding=mp31", 
+            "name": "CLUB DESTINO - La batalla"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109060"
+}

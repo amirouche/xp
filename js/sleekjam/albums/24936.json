@@ -1,0 +1,39 @@
+{
+    "name": "Gregg Porter Project", 
+    "artist": "ARTSomerville", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24936&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169544&streamencoding=mp31", 
+            "name": "Season For Working"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169545&streamencoding=mp31", 
+            "name": "Mr. Bloodblister"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169546&streamencoding=mp31", 
+            "name": "Instrumental"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169629&streamencoding=mp31", 
+            "name": "Tangled Tongue"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169548&streamencoding=mp31", 
+            "name": "Drive a Man To Drink"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=169549&streamencoding=mp31", 
+            "name": "Take Care / I'm Not History"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24936"
+}

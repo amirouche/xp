@@ -1,0 +1,44 @@
+{
+    "name": "The RuediRena System", 
+    "artist": "RuediRena", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81019&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694660&streamencoding=mp31", 
+            "name": "Cuba Here I Come"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694661&streamencoding=mp31", 
+            "name": "Alle V\u00f6gel sind schon da"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694662&streamencoding=mp31", 
+            "name": "Hipshot (Cracker Mix)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694663&streamencoding=mp31", 
+            "name": "Wyatt1"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694664&streamencoding=mp31", 
+            "name": "Cuba Here I Come (Dub Version)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694665&streamencoding=mp31", 
+            "name": "Umtahunta"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=694666&streamencoding=mp31", 
+            "name": "Tesbitt Eins"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81019"
+}

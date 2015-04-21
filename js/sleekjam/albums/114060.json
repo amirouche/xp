@@ -1,0 +1,44 @@
+{
+    "name": "Seven Lights for Our Lady Melancholy ", 
+    "artist": "Aufklarung", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114060&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969340&streamencoding=mp31", 
+            "name": "Sudden Memory"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969348&streamencoding=mp31", 
+            "name": "The End in your Eyes"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969343&streamencoding=mp31", 
+            "name": "Quintessential Hope "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969347&streamencoding=mp31", 
+            "name": "Old Beauty"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969345&streamencoding=mp31", 
+            "name": "Yellowed Photos Tale"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969346&streamencoding=mp31", 
+            "name": "Little Joy to Save"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969349&streamencoding=mp31", 
+            "name": "Childish Nostalgia"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114060"
+}

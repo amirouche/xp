@@ -1,0 +1,14 @@
+{
+    "name": "Wolf ", 
+    "artist": "Leo Bowers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113832&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=967677&streamencoding=mp31", 
+            "name": "Wolf (M)"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113832"
+}

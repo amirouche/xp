@@ -1,0 +1,44 @@
+{
+    "name": "Fusion X", 
+    "artist": "Noblemo \"electro,techno,house\"", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136330&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135533&streamencoding=mp31", 
+            "name": "INSTABLE PLANETE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135534&streamencoding=mp31", 
+            "name": "Lixuim univers"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135535&streamencoding=mp31", 
+            "name": "H-max particule"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135536&streamencoding=mp31", 
+            "name": "My cosmos priority"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135537&streamencoding=mp31", 
+            "name": "Atome VNX=C2"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135538&streamencoding=mp31", 
+            "name": "X-STORM"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135539&streamencoding=mp31", 
+            "name": "FATAL SYSTEM"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136330"
+}

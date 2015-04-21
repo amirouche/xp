@@ -1,0 +1,44 @@
+{
+    "name": "Djembekanfoly Kela", 
+    "artist": "Mo2", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124583&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1056535&streamencoding=mp31", 
+            "name": "Koredjugadeni"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1056536&streamencoding=mp31", 
+            "name": "Diabasseri"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1056537&streamencoding=mp31", 
+            "name": "Sabar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1056538&streamencoding=mp31", 
+            "name": "Madan"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1056539&streamencoding=mp31", 
+            "name": "Djolena"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1056540&streamencoding=mp31", 
+            "name": "Bondialan"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1056541&streamencoding=mp31", 
+            "name": "Sadjuna"
+        }
+    ], 
+    "release": "2013", 
+    "id": "124583"
+}

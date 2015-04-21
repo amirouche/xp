@@ -1,0 +1,79 @@
+{
+    "name": "Dans mon coeur", 
+    "artist": "DON VALDES", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71458&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617331&streamencoding=mp31", 
+            "name": "Big up"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617330&streamencoding=mp31", 
+            "name": "I Love Reggae"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617333&streamencoding=mp31", 
+            "name": "O Petite Soeur"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617329&streamencoding=mp31", 
+            "name": "Tout va trop vite"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617334&streamencoding=mp31", 
+            "name": "Je prie Jah"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617338&streamencoding=mp31", 
+            "name": "Le Fruit des Entrailles (feat. Sista Mora)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617343&streamencoding=mp31", 
+            "name": "Le Monde change (feat. Mama Conscious)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617342&streamencoding=mp31", 
+            "name": "Tu sais Man"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617335&streamencoding=mp31", 
+            "name": "Les Kings de ce Royaume (feat. Jah Children)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617341&streamencoding=mp31", 
+            "name": "Maman (feat. Sista Mora)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617337&streamencoding=mp31", 
+            "name": "On l\u00e2che pas l'affaire"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617340&streamencoding=mp31", 
+            "name": "Faya Babylon"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617332&streamencoding=mp31", 
+            "name": "Le syst\u00e8me assassine"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617336&streamencoding=mp31", 
+            "name": "Faut de la maille"
+        }
+    ], 
+    "release": "2010", 
+    "id": "71458"
+}

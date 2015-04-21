@@ -1,0 +1,49 @@
+{
+    "name": "Spring of the southern city (2013, Vol-1)", 
+    "artist": "Southern City\u2018s Lab", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121465&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032212&streamencoding=mp31", 
+            "name": "pawspaws - Cold"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032218&streamencoding=mp31", 
+            "name": "Pk jazz Collective - Madness and laughing"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032219&streamencoding=mp31", 
+            "name": "\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u041d\u0438\u043a\u0443\u043b\u0438\u043d - \u0417\u0432\u0435\u0440\u044c"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032214&streamencoding=mp31", 
+            "name": "Kosta T - new life"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032216&streamencoding=mp31", 
+            "name": "Radiomaniac - Spear Of Mars And Belt Of Venus"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032215&streamencoding=mp31", 
+            "name": "\u0425\u043e\u0432\u0431\u0430\u0439 \u0425\u0432\u0435\u043a\u043c\u0435\u0435\u0432 & Pk jazz Collective - Spring tanks"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032213&streamencoding=mp31", 
+            "name": "Taigerbery - Burn Motherfucker"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032217&streamencoding=mp31", 
+            "name": "W.H.W.Y - So Shy"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121465"
+}

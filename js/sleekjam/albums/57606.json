@@ -1,0 +1,34 @@
+{
+    "name": "Dance of the Solar Wind", 
+    "artist": "Brenda Clews", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57606&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491670&streamencoding=mp31", 
+            "name": "Dance of the Solar Wind"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491671&streamencoding=mp31", 
+            "name": "Light Catches Diamonds"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491672&streamencoding=mp31", 
+            "name": "Love Letters On Sand Mandalas"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491673&streamencoding=mp31", 
+            "name": "Roses and Hands"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=491674&streamencoding=mp31", 
+            "name": "Meridians of Culture"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57606"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "I CAN FEEL THE PAIN", 
+    "artist": "ANTHONY T MILLIGAN", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80635&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691926&streamencoding=mp31", 
+            "name": "I CAN FEEL THE PAIN "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691927&streamencoding=mp31", 
+            "name": "GODS GRACE"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691928&streamencoding=mp31", 
+            "name": "I WILL NOT LET THE DEVIL BRING ME DOWN"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691929&streamencoding=mp31", 
+            "name": "REACH OUT A HAND [REMIX]"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691930&streamencoding=mp31", 
+            "name": "YOU CAN'T SAY"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691931&streamencoding=mp31", 
+            "name": "THE WORD OF GOD"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691932&streamencoding=mp31", 
+            "name": "CRUCIFIXION"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691933&streamencoding=mp31", 
+            "name": "RIGHTEOUS GOD"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691935&streamencoding=mp31", 
+            "name": "VISIONS IN THE NIGHT"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691936&streamencoding=mp31", 
+            "name": "END OF TIME"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691937&streamencoding=mp31", 
+            "name": "HARVEST TIME"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691938&streamencoding=mp31", 
+            "name": "GOD KNOWS [REMIX]"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691941&streamencoding=mp31", 
+            "name": "MY GOD"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=691942&streamencoding=mp31", 
+            "name": "TIME IS ON ARE HAND"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80635"
+}

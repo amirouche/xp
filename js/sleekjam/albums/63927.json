@@ -1,0 +1,64 @@
+{
+    "name": "\u0411\u0435\u0437\u0433\u043b\u0443\u0437\u0434\u0430 \u043e\u043f\u043e\u0440\u0430 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u043a\u0456\u0432 \u0421\u043e\u043d\u0446\u044f", 
+    "artist": "KLINIKA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63927&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548983&streamencoding=mp31", 
+            "name": "\u0434\u043e\u043a\u0438 \u0441\u0432i\u0442 \u0437\u0430\u043b\u0438\u0448\u0430\u0432\u0441\u044f \u043f\u043e\u0440\u0443\u0447"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548932&streamencoding=mp31", 
+            "name": "\u0422\u0435\u043f\u043bi \u0441\u043b\u044c\u043e\u0437\u0438 \u043b\u044c\u043e\u0434\u044f\u043d\u0438\u0445 \u0445\u0440\u0435\u0441\u0442i\u0432"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548984&streamencoding=mp31", 
+            "name": "\u041f\u043e\u0442\u043e\u0439\u0431i\u0447\u043di\u0441\u0442\u044c \u043f\u0440\u0438\u0447\u0438\u043d"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548986&streamencoding=mp31", 
+            "name": "\u0411\u043b\u0430\u043a\u0438\u0442\u043d\u0438\u0439 \u043bi\u0434 \u0432i\u0447\u0443\u0434\u0436\u0435\u043d\u043d\u0438\u0445 \u0441\u043f\u043e\u043c\u0438\u043di\u0432"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548981&streamencoding=mp31", 
+            "name": "\u0421\u0443\u0447\u0430\u0441\u043d\u0438\u043a\u0438 \u0421\u043e\u043d\u0446\u044f"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548982&streamencoding=mp31", 
+            "name": "I\u0440\u0436\u0430\u0432i \u0441\u0443\u0442i\u043d\u043a\u0438"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548985&streamencoding=mp31", 
+            "name": "\u041di\u043c\u0430 \u043f\u0440\u0438\u0441\u0443\u0442\u043di\u0441\u0442\u044c"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548933&streamencoding=mp31", 
+            "name": "\u0410\u0442\u0440\u0438\u0431\u0443\u0442\u0438 \u043b\u044e\u0434\u0441\u044c\u043a\u043e\u0457 \u0441\u0432\u0456\u0434\u043e\u043c\u043e\u0441\u0442i"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548987&streamencoding=mp31", 
+            "name": "\u0421\u043bi\u043fi \u043f\u0430\u0437\u0443\u0440\u0438 \u0434\u0435\u043f\u0440\u0435\u0441i\u0457"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548988&streamencoding=mp31", 
+            "name": "\u041f\u0430\u0434i\u043d\u043d\u044f"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=548980&streamencoding=mp31", 
+            "name": "\u0412i\u0434\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63927"
+}

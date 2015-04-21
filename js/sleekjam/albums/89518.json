@@ -1,0 +1,19 @@
+{
+    "name": "Home & Revenge", 
+    "artist": "Luigi Aristi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89518&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764427&streamencoding=mp31", 
+            "name": "Home"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=764428&streamencoding=mp31", 
+            "name": "Revenge"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89518"
+}

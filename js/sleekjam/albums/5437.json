@@ -1,0 +1,39 @@
+{
+    "name": "Find people", 
+    "artist": "Verte couverture", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5437&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45368&streamencoding=mp31", 
+            "name": "autobahn"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45372&streamencoding=mp31", 
+            "name": "slow down"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45374&streamencoding=mp31", 
+            "name": "massive extinction"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45375&streamencoding=mp31", 
+            "name": "source"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45378&streamencoding=mp31", 
+            "name": "piano bass"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45380&streamencoding=mp31", 
+            "name": "extract"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5437"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "la symphonie nocturne des m\u00e9taux d\u00e9rang\u00e9s", 
+    "artist": "Matrakage", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28056&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187686&streamencoding=mp31", 
+            "name": "une nouvelle \u00e8re"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187724&streamencoding=mp31", 
+            "name": "les d\u00e9bris qui s'entrela\u00e7ent"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187683&streamencoding=mp31", 
+            "name": "les rouages grin\u00e7ants de l'espace-rouille"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187671&streamencoding=mp31", 
+            "name": "dans les reves perdus d'un fragment"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187672&streamencoding=mp31", 
+            "name": "la machine a forer les dimensions"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187673&streamencoding=mp31", 
+            "name": "la sid\u00e9rurgie cosmique"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187669&streamencoding=mp31", 
+            "name": "dans les abimes infinis de la corrosion"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187685&streamencoding=mp31", 
+            "name": "m\u00e9tallisation des masses"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187677&streamencoding=mp31", 
+            "name": "les d\u00e9bris qui s'entrela\u00e7ent"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187680&streamencoding=mp31", 
+            "name": "les irradiations m\u00e9talliques"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187681&streamencoding=mp31", 
+            "name": "les m\u00e9taux qui pensent"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187687&streamencoding=mp31", 
+            "name": "voyage dans  l'oxydation"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=187676&streamencoding=mp31", 
+            "name": "la valse nocturne des \u00e9clats d'acier"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28056"
+}

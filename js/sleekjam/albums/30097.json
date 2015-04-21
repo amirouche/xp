@@ -1,0 +1,79 @@
+{
+    "name": "Live Bilbo Rock -CD1- 13/01/06 ", 
+    "artist": "El Paso Killers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30097&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202541&streamencoding=mp31", 
+            "name": "El Paso"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202542&streamencoding=mp31", 
+            "name": "Black Leather"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202543&streamencoding=mp31", 
+            "name": "Demon eyes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202544&streamencoding=mp31", 
+            "name": "Grita, salta y baila"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202545&streamencoding=mp31", 
+            "name": "El Alamo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202546&streamencoding=mp31", 
+            "name": "El desfiladero de la muerte"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202547&streamencoding=mp31", 
+            "name": "Spit my soul"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202548&streamencoding=mp31", 
+            "name": "For the sun..."
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202549&streamencoding=mp31", 
+            "name": "Fire"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202550&streamencoding=mp31", 
+            "name": "Fuck for free"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202551&streamencoding=mp31", 
+            "name": "Piel"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202552&streamencoding=mp31", 
+            "name": "Into the boogie"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202553&streamencoding=mp31", 
+            "name": "Mujeres asesinas"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=202540&streamencoding=mp31", 
+            "name": "Fight for your tribe"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30097"
+}

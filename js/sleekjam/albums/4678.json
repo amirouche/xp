@@ -1,0 +1,49 @@
+{
+    "name": "secret garden", 
+    "artist": "Moving sand", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4678&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38145&streamencoding=mp31", 
+            "name": "global hard girl"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38146&streamencoding=mp31", 
+            "name": "hell tango"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38147&streamencoding=mp31", 
+            "name": "don't break my head"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38148&streamencoding=mp31", 
+            "name": "scarface"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38149&streamencoding=mp31", 
+            "name": "mirror"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38150&streamencoding=mp31", 
+            "name": "secret garden"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38151&streamencoding=mp31", 
+            "name": "shievering hand"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=38152&streamencoding=mp31", 
+            "name": "i don't want"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4678"
+}

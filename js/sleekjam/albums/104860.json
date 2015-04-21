@@ -1,0 +1,89 @@
+{
+    "name": "Tab & Anitek: Project Monarch", 
+    "artist": "Anitek", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104860&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891603&streamencoding=mp31", 
+            "name": "Merlot Downer"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891614&streamencoding=mp31", 
+            "name": "Dormouse"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891599&streamencoding=mp31", 
+            "name": "Computer Bug"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891610&streamencoding=mp31", 
+            "name": "BlueBird"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891605&streamencoding=mp31", 
+            "name": "Moloko Plus"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891600&streamencoding=mp31", 
+            "name": "ArtiChoke"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891611&streamencoding=mp31", 
+            "name": "UnderDub"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891607&streamencoding=mp31", 
+            "name": "The Ludovico Technique"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891601&streamencoding=mp31", 
+            "name": "Sleeper Agent"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891612&streamencoding=mp31", 
+            "name": "ChatterMask"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891604&streamencoding=mp31", 
+            "name": "Wolf Messing"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891613&streamencoding=mp31", 
+            "name": "Operation Paperclip"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891606&streamencoding=mp31", 
+            "name": "Ataxia"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891602&streamencoding=mp31", 
+            "name": "Empire of the Ants"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891608&streamencoding=mp31", 
+            "name": "Heavy Sphere"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=891609&streamencoding=mp31", 
+            "name": "Divine Invasion"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104860"
+}

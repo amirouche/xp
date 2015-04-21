@@ -1,0 +1,34 @@
+{
+    "name": "African Sun", 
+    "artist": "Out Of Orion (Ox3)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98935&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846529&streamencoding=mp31", 
+            "name": "African Sun"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846533&streamencoding=mp31", 
+            "name": "Safari"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846531&streamencoding=mp31", 
+            "name": "Harold's Theme"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846532&streamencoding=mp31", 
+            "name": "Sea Turtle"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=846530&streamencoding=mp31", 
+            "name": "Baboon Moon"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98935"
+}

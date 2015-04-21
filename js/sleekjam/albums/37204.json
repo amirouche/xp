@@ -1,0 +1,64 @@
+{
+    "name": "Freestyle Percussion Magik", 
+    "artist": "Freestyle Percussion Magik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37204&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259362&streamencoding=mp31", 
+            "name": "The Arrow "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258841&streamencoding=mp31", 
+            "name": "Dumno Mundo"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258844&streamencoding=mp31", 
+            "name": "Flamenco Flight"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258843&streamencoding=mp31", 
+            "name": "Belly Bounce "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=258842&streamencoding=mp31", 
+            "name": "Picoli"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259424&streamencoding=mp31", 
+            "name": "Carnaval de Brazil"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259505&streamencoding=mp31", 
+            "name": "Greyhound"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259517&streamencoding=mp31", 
+            "name": "Mister Beat"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259417&streamencoding=mp31", 
+            "name": "Malabishna "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259519&streamencoding=mp31", 
+            "name": "Bar mami"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=259542&streamencoding=mp31", 
+            "name": "Halloween"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37204"
+}

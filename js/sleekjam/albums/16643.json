@@ -1,0 +1,24 @@
+{
+    "name": "THE BLACK BEARDS", 
+    "artist": "THE BLACK BEARDS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=16643&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120825&streamencoding=mp31", 
+            "name": "Rock\u00b4n\u00b4rolling man"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120826&streamencoding=mp31", 
+            "name": "Honky Tonk Garito Bar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120827&streamencoding=mp31", 
+            "name": "Double Trouble"
+        }
+    ], 
+    "release": "2008", 
+    "id": "16643"
+}

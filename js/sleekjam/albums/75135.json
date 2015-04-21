@@ -1,0 +1,24 @@
+{
+    "name": "Resistance Is Futile", 
+    "artist": "Wicked Sick", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75135&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=648308&streamencoding=mp31", 
+            "name": "Gathering Information"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=648309&streamencoding=mp31", 
+            "name": "Brainwashing"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=648311&streamencoding=mp31", 
+            "name": "Everything Is Fine"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75135"
+}

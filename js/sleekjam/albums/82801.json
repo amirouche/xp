@@ -1,0 +1,94 @@
+{
+    "name": "The Jazz Club", 
+    "artist": "The Magnetic Button", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82801&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709726&streamencoding=mp31", 
+            "name": "S\u00e5 Fandt Jeg Lige en Slikkepind Dernede"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709753&streamencoding=mp31", 
+            "name": "Hej Mit Navn er Kurt"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709734&streamencoding=mp31", 
+            "name": "Super Svend"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709722&streamencoding=mp31", 
+            "name": "Lonely Cowboy"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709728&streamencoding=mp31", 
+            "name": "Fuck Bird (feat. Ida)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709732&streamencoding=mp31", 
+            "name": "Psychedelic Snow"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709738&streamencoding=mp31", 
+            "name": "Rikke"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709725&streamencoding=mp31", 
+            "name": "500 People"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709733&streamencoding=mp31", 
+            "name": "Fine Shoe"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709736&streamencoding=mp31", 
+            "name": "Alle Elsker Mads"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709731&streamencoding=mp31", 
+            "name": "Discokollaps"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709739&streamencoding=mp31", 
+            "name": "Ild i mit H\u00e5r"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709724&streamencoding=mp31", 
+            "name": "Jeg Aner det Ikke"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709735&streamencoding=mp31", 
+            "name": "Sommer Sangen"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709737&streamencoding=mp31", 
+            "name": "Guitaren p\u00e5 Bjerget (feat. Lyck)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709727&streamencoding=mp31", 
+            "name": "Speed Song"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=709723&streamencoding=mp31", 
+            "name": "The Jazz Club"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82801"
+}

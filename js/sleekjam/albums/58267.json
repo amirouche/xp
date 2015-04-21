@@ -1,0 +1,44 @@
+{
+    "name": "Morphology", 
+    "artist": "Deff Syndicate", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58267&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497532&streamencoding=mp31", 
+            "name": "Trackers"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497529&streamencoding=mp31", 
+            "name": "Hip-Hop 2.1"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497530&streamencoding=mp31", 
+            "name": "The Disciple"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497528&streamencoding=mp31", 
+            "name": "Disgrace of the Hardstyle"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497531&streamencoding=mp31", 
+            "name": "Hindsight"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497533&streamencoding=mp31", 
+            "name": "Redesign"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=497534&streamencoding=mp31", 
+            "name": "Dookey"
+        }
+    ], 
+    "release": "2009", 
+    "id": "58267"
+}

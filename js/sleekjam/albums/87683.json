@@ -1,0 +1,69 @@
+{
+    "name": "2005 *3rd*", 
+    "artist": "Sinestesia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87683&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749854&streamencoding=mp31", 
+            "name": "C4acT\u0439\u0430!"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749774&streamencoding=mp31", 
+            "name": "Und Self"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749767&streamencoding=mp31", 
+            "name": "On a Wawes"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749775&streamencoding=mp31", 
+            "name": "Programming"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749768&streamencoding=mp31", 
+            "name": "Outher Space"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749776&streamencoding=mp31", 
+            "name": "Tramal Train"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749770&streamencoding=mp31", 
+            "name": "\u0418\u043c\u044f \u0420\u043e3bl"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749771&streamencoding=mp31", 
+            "name": "TyBa kocMoc"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749772&streamencoding=mp31", 
+            "name": "Lucid Concentration"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749855&streamencoding=mp31", 
+            "name": "\u041f\u0443\u0440\u0443\u0448\u0430"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749769&streamencoding=mp31", 
+            "name": "\u0418\u043d\u043en\u043b\u0430\u041d\u0435\u0422\u041dble UBeTbl"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749773&streamencoding=mp31", 
+            "name": "A-mourning"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87683"
+}

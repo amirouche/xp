@@ -1,0 +1,79 @@
+{
+    "name": "\u0421\u0442\u0443\u043a\u0430\u0454 \u0443 \u0434\u0432\u0435\u0440\u0456 \u043a\u043e\u043b\u044f\u0434\u0430", 
+    "artist": "Kozhushky (family ensemble)", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=103467&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880795&streamencoding=mp31", 
+            "name": "Stukaje u dveri koliada"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880796&streamencoding=mp31", 
+            "name": "Tam vysoko nad zemleju"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880797&streamencoding=mp31", 
+            "name": "Rizdvo Khrystove"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880800&streamencoding=mp31", 
+            "name": "Nyni radist' nam usim"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880805&streamencoding=mp31", 
+            "name": "Tykhyj vechir"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880807&streamencoding=mp31", 
+            "name": "Diva Syna porodyla"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880836&streamencoding=mp31", 
+            "name": "Shcho to za predyvo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880806&streamencoding=mp31", 
+            "name": "V Vyflejemi tajna"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880801&streamencoding=mp31", 
+            "name": "Jasna zorja"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880804&streamencoding=mp31", 
+            "name": "Na nebi zirka"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880803&streamencoding=mp31", 
+            "name": "Sviata nich"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880808&streamencoding=mp31", 
+            "name": "Nyni sja javyla vesela novyna"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880809&streamencoding=mp31", 
+            "name": "V Vyflejemi dnes' Marija Prechysta"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=880802&streamencoding=mp31", 
+            "name": "Diakujemo, Bozhe"
+        }
+    ], 
+    "release": "2011", 
+    "id": "103467"
+}

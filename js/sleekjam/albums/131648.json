@@ -1,0 +1,14 @@
+{
+    "name": "Don't Let Me Go", 
+    "artist": "Lollita", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131648&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103000&streamencoding=mp31", 
+            "name": "Don't Let Me Go (feat. Youngbirdy / prod. by DJ Wide)"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131648"
+}

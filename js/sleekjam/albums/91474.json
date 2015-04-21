@@ -1,0 +1,54 @@
+{
+    "name": "Giuseppe Verdi Rock Tribute", 
+    "artist": "Giuseppe Verdi Rock Tribute", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91474&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780135&streamencoding=mp31", 
+            "name": "Nabucco: overture-v\u00e0 pensiero"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780140&streamencoding=mp31", 
+            "name": "Messa di Requiem: Lacrimosa"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780137&streamencoding=mp31", 
+            "name": "Messa di Requiem: Dies Irae"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780480&streamencoding=mp31", 
+            "name": "La Forza Del Destino: Overture"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780138&streamencoding=mp31", 
+            "name": "Il Trovatore: Il Coro degli Zingari"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780136&streamencoding=mp31", 
+            "name": "Un ballo in Maschera: Overture 1\u00b0 e 2\u00b0 atto"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780134&streamencoding=mp31", 
+            "name": "Rigoletto: Dhe Non Parlare..."
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780133&streamencoding=mp31", 
+            "name": "Aida: Marcia Trionfale"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=780141&streamencoding=mp31", 
+            "name": "I Vespri Siciliani: Overture (live performance by historia)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "91474"
+}

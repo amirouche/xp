@@ -1,0 +1,29 @@
+{
+    "name": "Wi\u0119cbork Impressions", 
+    "artist": "DigitalSimplyWorld ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62345&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=534667&streamencoding=mp31", 
+            "name": "Wi\u0119cbork Impressions - Wi\u0119cborskie Impresje ( Light Radio Edit )"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=534669&streamencoding=mp31", 
+            "name": "Wi\u0119cbork Impressions ( electronic version ) "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=534666&streamencoding=mp31", 
+            "name": "Wi\u0119cbork Impressions  ( long version )"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=534668&streamencoding=mp31", 
+            "name": "Wi\u0119cbork Impressions  ( ambient version )"
+        }
+    ], 
+    "release": "2010", 
+    "id": "62345"
+}

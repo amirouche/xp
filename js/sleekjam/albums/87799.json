@@ -1,0 +1,64 @@
+{
+    "name": "Magnolia 2003", 
+    "artist": "Magnolia Chile", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87799&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750338&streamencoding=mp31", 
+            "name": "Tomador"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750339&streamencoding=mp31", 
+            "name": "Sof\u00e1 Cama"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750340&streamencoding=mp31", 
+            "name": "Ombligo de Mujer"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750341&streamencoding=mp31", 
+            "name": "Malas Costumbres"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750342&streamencoding=mp31", 
+            "name": "Shato / Nave F\u00e9nix"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750343&streamencoding=mp31", 
+            "name": "Helechos"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750344&streamencoding=mp31", 
+            "name": "Moroso"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750345&streamencoding=mp31", 
+            "name": "T\u00e9mpano de Hielo"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750346&streamencoding=mp31", 
+            "name": "Vino Barato"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750347&streamencoding=mp31", 
+            "name": "Nena"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750348&streamencoding=mp31", 
+            "name": "Perro Vago"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87799"
+}

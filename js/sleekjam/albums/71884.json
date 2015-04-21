@@ -1,0 +1,29 @@
+{
+    "name": "Last waltz on the Titanic", 
+    "artist": "Smokin on Sunshine", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71884&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=620681&streamencoding=mp31", 
+            "name": "The last waltz on Titanic"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=620682&streamencoding=mp31", 
+            "name": "Walk and surf"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=620683&streamencoding=mp31", 
+            "name": "Heaven's moments"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=620684&streamencoding=mp31", 
+            "name": "JoJo's House"
+        }
+    ], 
+    "release": "2010", 
+    "id": "71884"
+}

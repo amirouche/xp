@@ -1,0 +1,44 @@
+{
+    "name": "En el camino - E. P.", 
+    "artist": "John Palomo Fussion Blues Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51158&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414276&streamencoding=mp31", 
+            "name": "Carretera y manta"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414291&streamencoding=mp31", 
+            "name": "Es solo un blues"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414632&streamencoding=mp31", 
+            "name": "Otra est\u00fapida balada"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414644&streamencoding=mp31", 
+            "name": "En el camino"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414675&streamencoding=mp31", 
+            "name": "Confusi\u00f3n"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=415215&streamencoding=mp31", 
+            "name": "Viejos tiempos (Oda en Re m)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=414684&streamencoding=mp31", 
+            "name": "El \u00faltimo blues de Charlie"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51158"
+}

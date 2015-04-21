@@ -1,0 +1,14 @@
+{
+    "name": "In the Fairytale Woods (feat. Zimovey)", 
+    "artist": "Tenth Virgo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101405&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=865526&streamencoding=mp31", 
+            "name": "In the Fairytale Woods (feat. Zimovey)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101405"
+}

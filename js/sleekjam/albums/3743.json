@@ -1,0 +1,79 @@
+{
+    "name": "The Musik Vol. One", 
+    "artist": "AkerUi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3743&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28101&streamencoding=mp31", 
+            "name": "Drone"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28102&streamencoding=mp31", 
+            "name": "Ab Beat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28103&streamencoding=mp31", 
+            "name": "Unconditional Luv"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28104&streamencoding=mp31", 
+            "name": "Blue Mountain"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28105&streamencoding=mp31", 
+            "name": "Why Worry"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28106&streamencoding=mp31", 
+            "name": "NO Thing"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28107&streamencoding=mp31", 
+            "name": "Guilty"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28108&streamencoding=mp31", 
+            "name": "Crescent"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28109&streamencoding=mp31", 
+            "name": "PuRe LoVe"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28110&streamencoding=mp31", 
+            "name": "Phish"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28111&streamencoding=mp31", 
+            "name": "A Little"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28112&streamencoding=mp31", 
+            "name": "Luv Unconditional  "
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28113&streamencoding=mp31", 
+            "name": "Jealousy                                                                                     "
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=28114&streamencoding=mp31", 
+            "name": "TIME"
+        }
+    ], 
+    "release": "2007", 
+    "id": "3743"
+}

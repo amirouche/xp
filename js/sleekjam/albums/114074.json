@@ -1,0 +1,64 @@
+{
+    "name": "La poiladouille !", 
+    "artist": "QSM", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114074&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969522&streamencoding=mp31", 
+            "name": "La poiladouille"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969523&streamencoding=mp31", 
+            "name": "Ta k\u00ee tu"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969524&streamencoding=mp31", 
+            "name": "\u00e7a me gratouille"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969525&streamencoding=mp31", 
+            "name": "Test micro"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969526&streamencoding=mp31", 
+            "name": "Les rappeurs attaquent"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969527&streamencoding=mp31", 
+            "name": "La cabane de la rigoladouille"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969528&streamencoding=mp31", 
+            "name": "Allez les bleus !"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969529&streamencoding=mp31", 
+            "name": "La d\u00e9couverte du son clair"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969530&streamencoding=mp31", 
+            "name": "Was ist das Ta k\u00ee tu"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969531&streamencoding=mp31", 
+            "name": "Jeannot et Libellule"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=969532&streamencoding=mp31", 
+            "name": "Texas rangers"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114074"
+}

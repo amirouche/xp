@@ -1,0 +1,39 @@
+{
+    "name": "Natural Things", 
+    "artist": "Wa Jazz Quintet", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129557&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086788&streamencoding=mp31", 
+            "name": "Sakura Street"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086789&streamencoding=mp31", 
+            "name": "Summer Breeze"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086782&streamencoding=mp31", 
+            "name": "True Strength"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086791&streamencoding=mp31", 
+            "name": "Love is Magic"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086793&streamencoding=mp31", 
+            "name": "Relax a Day"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1086784&streamencoding=mp31", 
+            "name": "Hoshi wo miagete (Look up at the stars)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129557"
+}

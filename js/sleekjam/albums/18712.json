@@ -1,0 +1,29 @@
+{
+    "name": "Demo", 
+    "artist": "Nopal Burton", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18712&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132454&streamencoding=mp31", 
+            "name": "Caja Musical"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132464&streamencoding=mp31", 
+            "name": "Riff-n-Riffs"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132470&streamencoding=mp31", 
+            "name": "Eco"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132476&streamencoding=mp31", 
+            "name": "Pasos"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18712"
+}

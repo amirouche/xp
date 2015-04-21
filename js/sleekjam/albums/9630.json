@@ -1,0 +1,14 @@
+{
+    "name": "UN MORCEAU D ETOFFE", 
+    "artist": "patrice chala", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9630&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=94894&streamencoding=mp31", 
+            "name": "UN MORCEAU D ETOFFE"
+        }
+    ], 
+    "release": "2007", 
+    "id": "9630"
+}

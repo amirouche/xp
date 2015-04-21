@@ -1,0 +1,69 @@
+{
+    "name": "\u00bfFue Mike o el ataque de los gordos at\u00f3micos?", 
+    "artist": "Cebollita Macabra", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93496&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793981&streamencoding=mp31", 
+            "name": "Introducci\u00f3n al mundo de Mike"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793972&streamencoding=mp31", 
+            "name": "El Blues de la Cebollita"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793979&streamencoding=mp31", 
+            "name": "November Rain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793980&streamencoding=mp31", 
+            "name": "Festival"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793974&streamencoding=mp31", 
+            "name": "Interrupci\u00f3n"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793975&streamencoding=mp31", 
+            "name": "Narraci\u00f3n corta"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793976&streamencoding=mp31", 
+            "name": "Estados de euforia I"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796570&streamencoding=mp31", 
+            "name": "P\u00farpura"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793977&streamencoding=mp31", 
+            "name": "Estados de euforia II"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=793978&streamencoding=mp31", 
+            "name": "El ataque de los gordos at\u00f3micos"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796568&streamencoding=mp31", 
+            "name": "Domingo en el velero"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=796569&streamencoding=mp31", 
+            "name": "Muerte en el agujero"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93496"
+}

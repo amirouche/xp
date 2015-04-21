@@ -1,0 +1,14 @@
+{
+    "name": "*Please Come Home Today", 
+    "artist": "Leo Bowers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123489&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1047963&streamencoding=mp31", 
+            "name": "*Please Come Home Today "
+        }
+    ], 
+    "release": "2013", 
+    "id": "123489"
+}

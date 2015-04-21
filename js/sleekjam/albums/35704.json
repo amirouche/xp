@@ -1,0 +1,49 @@
+{
+    "name": "Blue Spirits - The First Chapter", 
+    "artist": "PeerGynt Lobogris", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35704&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=246822&streamencoding=mp31", 
+            "name": "Winds Riders"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=246840&streamencoding=mp31", 
+            "name": "Tribal Future"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=246820&streamencoding=mp31", 
+            "name": "Wasted Land"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=246846&streamencoding=mp31", 
+            "name": "Broken Promises"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=246857&streamencoding=mp31", 
+            "name": "Unlove"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=246962&streamencoding=mp31", 
+            "name": "Calling for the Rain"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=246977&streamencoding=mp31", 
+            "name": "Blue Rain "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=246819&streamencoding=mp31", 
+            "name": "Tales of the BlueMoons"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35704"
+}

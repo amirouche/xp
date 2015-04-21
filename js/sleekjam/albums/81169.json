@@ -1,0 +1,34 @@
+{
+    "name": "Atlas Shrugged", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81169&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=696251&streamencoding=mp31", 
+            "name": "Atlas Shrugged"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=696281&streamencoding=mp31", 
+            "name": "The Fountainhead"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=696306&streamencoding=mp31", 
+            "name": "Monkey Business"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=696308&streamencoding=mp31", 
+            "name": "Religion"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=696312&streamencoding=mp31", 
+            "name": "Racism"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81169"
+}

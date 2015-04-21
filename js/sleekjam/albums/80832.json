@@ -1,0 +1,14 @@
+{
+    "name": "Requiem Du Damn\u00e9", 
+    "artist": "Von Gott", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80832&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=693601&streamencoding=mp31", 
+            "name": "Funeral"
+        }
+    ], 
+    "release": "2010", 
+    "id": "80832"
+}

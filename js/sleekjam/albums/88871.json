@@ -1,0 +1,49 @@
+{
+    "name": "Flowers", 
+    "artist": "Massimo Di Nocera", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88871&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759716&streamencoding=mp31", 
+            "name": "Armonia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759717&streamencoding=mp31", 
+            "name": "Canta ta ta"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759718&streamencoding=mp31", 
+            "name": "Canto amor"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759727&streamencoding=mp31", 
+            "name": "il Vento"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759749&streamencoding=mp31", 
+            "name": "Pink"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759750&streamencoding=mp31", 
+            "name": "Sale"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759780&streamencoding=mp31", 
+            "name": "Santa Maria"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=759799&streamencoding=mp31", 
+            "name": "To gazebo"
+        }
+    ], 
+    "release": "2011", 
+    "id": "88871"
+}

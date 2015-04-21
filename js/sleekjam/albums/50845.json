@@ -1,0 +1,54 @@
+{
+    "name": "MTHY-ET-NIEGEL", 
+    "artist": "MTHY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50845&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411355&streamencoding=mp31", 
+            "name": "belle mulatresse    -  mthy"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411371&streamencoding=mp31", 
+            "name": "la jet        -nm"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411370&streamencoding=mp31", 
+            "name": "lagen-mthy"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411385&streamencoding=mp31", 
+            "name": "bang-bang-mthy"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411386&streamencoding=mp31", 
+            "name": "la clef-nm-mthy"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411387&streamencoding=mp31", 
+            "name": "kadiak-nm"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411388&streamencoding=mp31", 
+            "name": "mizik c\u00e9 pl\u00e9zy-mthy"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411389&streamencoding=mp31", 
+            "name": "dance-nm-mthy"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=411390&streamencoding=mp31", 
+            "name": "souvenir-mthy-compzouk"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50845"
+}

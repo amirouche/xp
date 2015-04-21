@@ -1,0 +1,14 @@
+{
+    "name": "Child of Africa", 
+    "artist": "Whiteyes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33515&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=226594&streamencoding=mp31", 
+            "name": "Child of Africa"
+        }
+    ], 
+    "release": "2008", 
+    "id": "33515"
+}

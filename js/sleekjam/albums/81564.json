@@ -1,0 +1,69 @@
+{
+    "name": "ALBUM \"J'SUIS A L'OUEST ET J'AI FROID\"", 
+    "artist": "Jean-Christophe Morin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81564&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699521&streamencoding=mp31", 
+            "name": "NANTES (IMPROVISATION)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699522&streamencoding=mp31", 
+            "name": "NO FUTURE (VERSION ACOUSTIQUE)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699523&streamencoding=mp31", 
+            "name": "UN HOMME (VERSION ACOUSTIQUE)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699524&streamencoding=mp31", 
+            "name": "PETITE FILLE (VERSION ACOUSTIQUE)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699525&streamencoding=mp31", 
+            "name": "SENS EXTRALUCIDE (VERSION ACOUSTIQUE)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699526&streamencoding=mp31", 
+            "name": "EXCUSEZ POUR L'D\u00c9RANGEMENT"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699527&streamencoding=mp31", 
+            "name": "LIBERT\u00c9-\u00c9GALIT\u00c9-FRATERNIT\u00c9 (VERSION ACOUSTIQUE)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699528&streamencoding=mp31", 
+            "name": "JETEZ L'\u00c9PONGE (IMPROVISATION)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699529&streamencoding=mp31", 
+            "name": "LUTTE CONTRE LA SOUMISSION (ELECTRIC GUITAR IMPROVISATION)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699597&streamencoding=mp31", 
+            "name": "ONLY INSPIRATIONAL IMAGINATION (IMPROVISATION)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699598&streamencoding=mp31", 
+            "name": "MY FIRST LOVE SONG WAS FOR YOU (IMPROVISATION)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=699599&streamencoding=mp31", 
+            "name": "TO MY BROTHERS, MYSISTERS AND MY LOVERS (IMPROVISATION)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81564"
+}

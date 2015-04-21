@@ -1,0 +1,14 @@
+{
+    "name": "Su poci\u00f3n", 
+    "artist": "Frisco Sanchez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86457&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=739959&streamencoding=mp31", 
+            "name": "Su poci\u00f3n"
+        }
+    ], 
+    "release": "2011", 
+    "id": "86457"
+}

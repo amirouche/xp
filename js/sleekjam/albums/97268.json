@@ -1,0 +1,19 @@
+{
+    "name": "Chill and voice", 
+    "artist": "Bethke-Musik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97268&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=831861&streamencoding=mp31", 
+            "name": "chill-trumpet"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=831862&streamencoding=mp31", 
+            "name": "chill-guitar"
+        }
+    ], 
+    "release": "2011", 
+    "id": "97268"
+}

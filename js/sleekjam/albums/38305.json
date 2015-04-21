@@ -1,0 +1,49 @@
+{
+    "name": "Basado en una historia real", 
+    "artist": "MARISKADA SOUND", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38305&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269692&streamencoding=mp31", 
+            "name": "Babilonia"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269749&streamencoding=mp31", 
+            "name": "Una historia real"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269757&streamencoding=mp31", 
+            "name": "Demasiado USAdo"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269760&streamencoding=mp31", 
+            "name": "El jarcopata"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269728&streamencoding=mp31", 
+            "name": "Lideres"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269756&streamencoding=mp31", 
+            "name": "La secta"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269595&streamencoding=mp31", 
+            "name": "freestyle"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=269609&streamencoding=mp31", 
+            "name": "Traficantes"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38305"
+}

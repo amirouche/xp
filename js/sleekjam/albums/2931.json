@@ -1,0 +1,59 @@
+{
+    "name": "First Dubs", 
+    "artist": "King Dubby", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2931&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20940&streamencoding=mp31", 
+            "name": "Stalag riddim"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20941&streamencoding=mp31", 
+            "name": "searching the dub"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20942&streamencoding=mp31", 
+            "name": "N\u00b01 Dub"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20943&streamencoding=mp31", 
+            "name": "A Zen Dub "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20944&streamencoding=mp31", 
+            "name": "A Space Dub"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20945&streamencoding=mp31", 
+            "name": "A crazy version"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20946&streamencoding=mp31", 
+            "name": "Alibaba Riddim+Dub"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20947&streamencoding=mp31", 
+            "name": "I don't want to see you cry"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20948&streamencoding=mp31", 
+            "name": "My conversation"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=20949&streamencoding=mp31", 
+            "name": "betrayers call"
+        }
+    ], 
+    "release": "2006", 
+    "id": "2931"
+}

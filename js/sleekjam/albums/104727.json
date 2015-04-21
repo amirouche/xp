@@ -1,0 +1,59 @@
+{
+    "name": "Etat DeS LieUx ", 
+    "artist": "PHILIpPE bRaY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104727&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890429&streamencoding=mp31", 
+            "name": "En attendant le prochain po\u00e8me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890415&streamencoding=mp31", 
+            "name": "All\u00e9geance"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890416&streamencoding=mp31", 
+            "name": "Le soldat"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890417&streamencoding=mp31", 
+            "name": "Le feu des senteurs"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890421&streamencoding=mp31", 
+            "name": "Etat des lieux"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890431&streamencoding=mp31", 
+            "name": "Ressac sur le quai"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890422&streamencoding=mp31", 
+            "name": "Autour de la maison"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890423&streamencoding=mp31", 
+            "name": "Le chant de l'oiseau"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890426&streamencoding=mp31", 
+            "name": "De ce voyage"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=890430&streamencoding=mp31", 
+            "name": "Marqu\u00e9s \u00e0 vif"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104727"
+}

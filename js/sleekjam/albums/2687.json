@@ -1,0 +1,79 @@
+{
+    "name": "Avatars", 
+    "artist": "D\u00e9ho", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2687&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19100&streamencoding=mp31", 
+            "name": "Chanson engag\u00e9e"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19101&streamencoding=mp31", 
+            "name": "Il me reste toi"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19102&streamencoding=mp31", 
+            "name": "Juillet"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19103&streamencoding=mp31", 
+            "name": "La frange"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19104&streamencoding=mp31", 
+            "name": "Le musicien"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19105&streamencoding=mp31", 
+            "name": "Le tango des gens"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19106&streamencoding=mp31", 
+            "name": "Le vers solitaire"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19107&streamencoding=mp31", 
+            "name": "Les petits matins paum\u00e9s"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19108&streamencoding=mp31", 
+            "name": "L\u00e9on"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19109&streamencoding=mp31", 
+            "name": "Paris by night"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19110&streamencoding=mp31", 
+            "name": "Pauvre sotte"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19111&streamencoding=mp31", 
+            "name": "Rossinante"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19112&streamencoding=mp31", 
+            "name": "Si j'avais un marteau...entre autres"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19113&streamencoding=mp31", 
+            "name": "Si tu m'aimais"
+        }
+    ], 
+    "release": "2006", 
+    "id": "2687"
+}

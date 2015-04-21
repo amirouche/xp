@@ -1,0 +1,99 @@
+{
+    "name": "The Greatest of These is Love", 
+    "artist": "Tony Bardon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50387&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405935&streamencoding=mp31", 
+            "name": "No Room at the Inn"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405929&streamencoding=mp31", 
+            "name": "After 40 Days in the Desert"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405930&streamencoding=mp31", 
+            "name": "The Wedding at Cana"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405926&streamencoding=mp31", 
+            "name": "Seventy Two"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405919&streamencoding=mp31", 
+            "name": "The Man from Samaria"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405928&streamencoding=mp31", 
+            "name": "Martha & Mary"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405921&streamencoding=mp31", 
+            "name": "First Stone"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405920&streamencoding=mp31", 
+            "name": "The Prodigal Son"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405927&streamencoding=mp31", 
+            "name": "The Good Shepherd"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405925&streamencoding=mp31", 
+            "name": "The Pharisee and the Tax Collector "
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405933&streamencoding=mp31", 
+            "name": "Zaccheus"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405922&streamencoding=mp31", 
+            "name": "This is my Beloved Son"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405934&streamencoding=mp31", 
+            "name": "Gethsemane"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405978&streamencoding=mp31", 
+            "name": "Three Men Hanginig on Wooden Crosses"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405923&streamencoding=mp31", 
+            "name": "Easter Day"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405931&streamencoding=mp31", 
+            "name": "The Road to Emmaus"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405924&streamencoding=mp31", 
+            "name": "New Light Shining"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=405932&streamencoding=mp31", 
+            "name": "The Greatest of These is Love"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50387"
+}

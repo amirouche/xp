@@ -1,0 +1,84 @@
+{
+    "name": "Boton de muestra", 
+    "artist": "brezo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57854&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493116&streamencoding=mp31", 
+            "name": "Tubular Beige"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493615&streamencoding=mp31", 
+            "name": "Brezo"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493114&streamencoding=mp31", 
+            "name": "Belcaire"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493278&streamencoding=mp31", 
+            "name": "Pasar Pagina"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493275&streamencoding=mp31", 
+            "name": "La Ciudadela"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493279&streamencoding=mp31", 
+            "name": "A Dedo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493277&streamencoding=mp31", 
+            "name": "Vueltas que da la vida"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493616&streamencoding=mp31", 
+            "name": "Kosovo"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493105&streamencoding=mp31", 
+            "name": "Karakorum"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493109&streamencoding=mp31", 
+            "name": "Cuba Libre"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493276&streamencoding=mp31", 
+            "name": "Decir No"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493107&streamencoding=mp31", 
+            "name": "Intuyo"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493281&streamencoding=mp31", 
+            "name": "Voramar"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493117&streamencoding=mp31", 
+            "name": "Algo Blues"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=493108&streamencoding=mp31", 
+            "name": "Albatros"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57854"
+}

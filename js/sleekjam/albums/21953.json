@@ -1,0 +1,44 @@
+{
+    "name": "Autoretrato", 
+    "artist": "Igniciam", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21953&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153307&streamencoding=mp31", 
+            "name": "Sentimientos del ayer"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153863&streamencoding=mp31", 
+            "name": "Entranda a Jerusal\u00e9n"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153857&streamencoding=mp31", 
+            "name": "Sobrevolando el mar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153859&streamencoding=mp31", 
+            "name": "La batalla interior"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153860&streamencoding=mp31", 
+            "name": "Baile de la tierra"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153864&streamencoding=mp31", 
+            "name": "Traslaci\u00f3n interior"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=153865&streamencoding=mp31", 
+            "name": "Vuelo sideral"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21953"
+}

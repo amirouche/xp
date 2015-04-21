@@ -1,0 +1,29 @@
+{
+    "name": "Nano", 
+    "artist": "thelittlewoodstudio", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7166&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78708&streamencoding=mp31", 
+            "name": "N400"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78709&streamencoding=mp31", 
+            "name": "aDuckTrain"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78710&streamencoding=mp31", 
+            "name": "nothingButTheSand"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=78711&streamencoding=mp31", 
+            "name": "oreades"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7166"
+}

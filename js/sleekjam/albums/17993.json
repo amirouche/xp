@@ -1,0 +1,64 @@
+{
+    "name": "Projekt  Niewidzialne Swinie 1st Album", 
+    "artist": "Projekt Niewidzialne Swinie", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17993&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127320&streamencoding=mp31", 
+            "name": "Rzeka"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127314&streamencoding=mp31", 
+            "name": "Dzien Jak Ten"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127322&streamencoding=mp31", 
+            "name": "Tchnienie"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127321&streamencoding=mp31", 
+            "name": "Slowo"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127316&streamencoding=mp31", 
+            "name": "Ladny"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127318&streamencoding=mp31", 
+            "name": "Noc"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127319&streamencoding=mp31", 
+            "name": "Obecnosc"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127317&streamencoding=mp31", 
+            "name": "Listopad"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127323&streamencoding=mp31", 
+            "name": "Wschod"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127324&streamencoding=mp31", 
+            "name": "Zmierzch"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=127315&streamencoding=mp31", 
+            "name": "Koniec"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17993"
+}

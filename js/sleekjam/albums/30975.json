@@ -1,0 +1,19 @@
+{
+    "name": "Oscar S\u00e1nchez: Gaita. Pablo Camarero: Viol\u00edn", 
+    "artist": "Pablo Camarero", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30975&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209413&streamencoding=mp31", 
+            "name": "Entrada"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=209412&streamencoding=mp31", 
+            "name": "Non te namores Neni\u00f1a"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30975"
+}

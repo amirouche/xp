@@ -1,0 +1,29 @@
+{
+    "name": "TEKALEX", 
+    "artist": "TEKALEX", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53055&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=438176&streamencoding=mp31", 
+            "name": "NO RETURN"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=438177&streamencoding=mp31", 
+            "name": "ON LUI PELERA LE JON"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=438397&streamencoding=mp31", 
+            "name": "TROP MENTAL POUR TOI"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=438673&streamencoding=mp31", 
+            "name": "G JAMAIS VU"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53055"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Les jours o\u00f9 les roses sont \u00e0 moiti\u00e9 roses  / Po\u00e8mesPhoniques verts s\u00e9rie 2 ", 
+    "artist": "PHILIpPE bRaY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47293&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=367028&streamencoding=mp31", 
+            "name": "Les jours o\u00f9 les roses sont \u00e0 moiti\u00e9 roses."
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=367038&streamencoding=mp31", 
+            "name": "Sur la lande"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=367048&streamencoding=mp31", 
+            "name": "Aux fronti\u00e8res"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=367061&streamencoding=mp31", 
+            "name": "Je suis pass\u00e9 par la ville"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=367062&streamencoding=mp31", 
+            "name": "Au bord du fleuve"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=367065&streamencoding=mp31", 
+            "name": "Ceci est de la prose"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=367068&streamencoding=mp31", 
+            "name": "Dans l'appartement de Gustave Moreau"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=367076&streamencoding=mp31", 
+            "name": "Le temps devient l\u00e9ger"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=367079&streamencoding=mp31", 
+            "name": "Dans la contre- all\u00e9e du vent."
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=367080&streamencoding=mp31", 
+            "name": "Sur la pente fatale"
+        }
+    ], 
+    "release": "2009", 
+    "id": "47293"
+}

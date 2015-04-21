@@ -1,0 +1,14 @@
+{
+    "name": "\u041a\u0440\u044b\u0441\u044b", 
+    "artist": "\u0412\u043e\u043b\u043e\u0434\u044f \u0414\u0430\u043b\u044c\u0432\u0430\u043d", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132637&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1110286&streamencoding=mp31", 
+            "name": "\u0412\u043e\u043b\u043e\u0434\u044f \u0414\u0430\u043b\u044c\u0432\u0430\u043d - \u041a\u0440\u044b\u0441\u044b"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132637"
+}

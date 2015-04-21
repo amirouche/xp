@@ -1,0 +1,79 @@
+{
+    "name": "Vintage Rock N Roll Instrumentals vol:1", 
+    "artist": "Conway Hambone", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118897&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1010008&streamencoding=mp31", 
+            "name": "Bone hip shake"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009695&streamencoding=mp31", 
+            "name": "Aquaplane "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009699&streamencoding=mp31", 
+            "name": "Country fish "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009701&streamencoding=mp31", 
+            "name": "milk stout rock"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009694&streamencoding=mp31", 
+            "name": "a billy walk"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009710&streamencoding=mp31", 
+            "name": "Move me "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009711&streamencoding=mp31", 
+            "name": "nascar surfsmash"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009698&streamencoding=mp31", 
+            "name": "Cell phone shake "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009712&streamencoding=mp31", 
+            "name": "surfsmash"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009700&streamencoding=mp31", 
+            "name": "Gt lover"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009696&streamencoding=mp31", 
+            "name": "Been riding "
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009697&streamencoding=mp31", 
+            "name": "bent fender boogie"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009713&streamencoding=mp31", 
+            "name": "the cock runner"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1009714&streamencoding=mp31", 
+            "name": "Nick the led."
+        }
+    ], 
+    "release": "2013", 
+    "id": "118897"
+}

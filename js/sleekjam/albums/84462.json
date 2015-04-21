@@ -1,0 +1,39 @@
+{
+    "name": "Very Low", 
+    "artist": "Liam Nixon", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84462&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723461&streamencoding=mp31", 
+            "name": "Anyone Can"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723456&streamencoding=mp31", 
+            "name": "Hoist a Flag"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723457&streamencoding=mp31", 
+            "name": "Expression is a Brick Wall"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723458&streamencoding=mp31", 
+            "name": "Failure of Thought"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723459&streamencoding=mp31", 
+            "name": "Addicted to Discomfort"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=723460&streamencoding=mp31", 
+            "name": "Very Low"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84462"
+}

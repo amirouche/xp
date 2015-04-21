@@ -1,0 +1,54 @@
+{
+    "name": "Night's Symphonies", 
+    "artist": "Wolfuneral", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=69672&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602690&streamencoding=mp31", 
+            "name": "Wolfuneral - Over The Skies"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602687&streamencoding=mp31", 
+            "name": "Wolfuneral - Thoughts Under the Moon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602682&streamencoding=mp31", 
+            "name": "Wolfuneral - Through The Eras"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602688&streamencoding=mp31", 
+            "name": "Wolfuneral - Out of the dark"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602683&streamencoding=mp31", 
+            "name": "Wolfuneral - Forest's Path"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602689&streamencoding=mp31", 
+            "name": "Wolfuneral - Lucifer"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602684&streamencoding=mp31", 
+            "name": "Wolfuneral - Paradise Lost"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602685&streamencoding=mp31", 
+            "name": "Wolfuneral - Night's Chants"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=602686&streamencoding=mp31", 
+            "name": "Wolfuneral - Dreaming"
+        }
+    ], 
+    "release": "2010", 
+    "id": "69672"
+}

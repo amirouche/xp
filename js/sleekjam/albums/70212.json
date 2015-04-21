@@ -1,0 +1,49 @@
+{
+    "name": "Zombies", 
+    "artist": "Alberto Flores", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70212&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606634&streamencoding=mp31", 
+            "name": "a) 12 de Diciembre"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606631&streamencoding=mp31", 
+            "name": "b) Aromas 3 E A B A 1 A"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606635&streamencoding=mp31", 
+            "name": "c) Devra"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606632&streamencoding=mp31", 
+            "name": "d) Viajes Ineditos"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606633&streamencoding=mp31", 
+            "name": "f) Aromas 5 G A 1"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606636&streamencoding=mp31", 
+            "name": "e) Tat\u00e1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606637&streamencoding=mp31", 
+            "name": "g) Orbitando (Bonus Track)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=606638&streamencoding=mp31", 
+            "name": "h) Tutoria (Bonus Track)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "70212"
+}

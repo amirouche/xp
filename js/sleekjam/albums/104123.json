@@ -1,0 +1,14 @@
+{
+    "name": "OUR TOWN", 
+    "artist": "Necessary Road", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104123&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=885568&streamencoding=mp31", 
+            "name": "OUR TOWN"
+        }
+    ], 
+    "release": "2012", 
+    "id": "104123"
+}

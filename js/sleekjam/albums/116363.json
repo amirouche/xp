@@ -1,0 +1,14 @@
+{
+    "name": "Ukrainian Vocal Folk Music", 
+    "artist": "Origen Music Artists", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116363&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=989108&streamencoding=mp31", 
+            "name": "A Star  Rose"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116363"
+}

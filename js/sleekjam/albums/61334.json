@@ -1,0 +1,54 @@
+{
+    "name": "nagisa.f Introduction", 
+    "artist": "Nagisa.f", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61334&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=524724&streamencoding=mp31", 
+            "name": "Image"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=524729&streamencoding=mp31", 
+            "name": "samurai"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=524727&streamencoding=mp31", 
+            "name": "ou-hito"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=524725&streamencoding=mp31", 
+            "name": "air-miku-"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=524726&streamencoding=mp31", 
+            "name": "hikari-wo-motomete"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=524721&streamencoding=mp31", 
+            "name": "estrangement"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=524728&streamencoding=mp31", 
+            "name": "Image-of-\"Jigoku\""
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=524722&streamencoding=mp31", 
+            "name": "samurai-off-melody"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=524723&streamencoding=mp31", 
+            "name": "Image-off-melody"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61334"
+}

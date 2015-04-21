@@ -1,0 +1,24 @@
+{
+    "name": "Guitar Bhajans @ Gundica", 
+    "artist": "Gundica Bhajans", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40838&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297871&streamencoding=mp31", 
+            "name": "Sri Nrisimha Pranama by Maitreya Muni &amp; Bhakta Marc"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297869&streamencoding=mp31", 
+            "name": "Maha-mantra by Maitreya Muni & Bhakta Marc"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=297870&streamencoding=mp31", 
+            "name": "Jaya Radha-Madhava by Maitreya Muni & Bhakta Marc"
+        }
+    ], 
+    "release": "2009", 
+    "id": "40838"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Original Haunted Factory", 
+    "artist": "djbsk", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38831&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275377&streamencoding=mp31", 
+            "name": "Original haunted factory hc"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275378&streamencoding=mp31", 
+            "name": "Running scared"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275379&streamencoding=mp31", 
+            "name": "Confusion"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275380&streamencoding=mp31", 
+            "name": "To never try it"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38831"
+}

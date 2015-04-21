@@ -1,0 +1,14 @@
+{
+    "name": "RiVAldi ft. Emily-Star- When the sun", 
+    "artist": "Emily-Star", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34464&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=235826&streamencoding=mp31", 
+            "name": "when the sun kissed the horizon"
+        }
+    ], 
+    "release": "2008", 
+    "id": "34464"
+}

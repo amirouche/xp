@@ -1,0 +1,84 @@
+{
+    "name": "Sunny Side of the Street", 
+    "artist": "Josh Woodward", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84877&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726462&streamencoding=mp31", 
+            "name": "Talk About Your Feelings"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726456&streamencoding=mp31", 
+            "name": "Bonjour Mon Amie"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726453&streamencoding=mp31", 
+            "name": "Chainsaw"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726457&streamencoding=mp31", 
+            "name": "I Hate You"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726461&streamencoding=mp31", 
+            "name": "She's On My Mind"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726451&streamencoding=mp31", 
+            "name": "Snooter"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726455&streamencoding=mp31", 
+            "name": "Brown Boxes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726459&streamencoding=mp31", 
+            "name": "Up Kilkenny"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726464&streamencoding=mp31", 
+            "name": "Coffee"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726452&streamencoding=mp31", 
+            "name": "Fast Food Fantasy"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726458&streamencoding=mp31", 
+            "name": "Are You Having Fun?"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726465&streamencoding=mp31", 
+            "name": "A Song"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726454&streamencoding=mp31", 
+            "name": "Cheapskate Romantic"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726460&streamencoding=mp31", 
+            "name": "Violet Wants It Her Way"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=726463&streamencoding=mp31", 
+            "name": "Baba Ganoush"
+        }
+    ], 
+    "release": "2011", 
+    "id": "84877"
+}

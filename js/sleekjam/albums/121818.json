@@ -1,0 +1,14 @@
+{
+    "name": "Mansion = Un final", 
+    "artist": "BLS", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121818&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1034942&streamencoding=mp31", 
+            "name": "Mansion \u00e9gal Un Final"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121818"
+}

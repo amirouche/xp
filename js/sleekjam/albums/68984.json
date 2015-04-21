@@ -1,0 +1,49 @@
+{
+    "name": "PIE DE DOME", 
+    "artist": "GASNOPROD", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68984&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597099&streamencoding=mp31", 
+            "name": "Gazouillage v12"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597230&streamencoding=mp31", 
+            "name": "En mai de 10"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597189&streamencoding=mp31", 
+            "name": "Render fraise"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597108&streamencoding=mp31", 
+            "name": "Hardnosazz"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597173&streamencoding=mp31", 
+            "name": "Un nouveau type de mauve"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597172&streamencoding=mp31", 
+            "name": "Sans voix"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597114&streamencoding=mp31", 
+            "name": "Paire 2 fille"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=597139&streamencoding=mp31", 
+            "name": "Souffrir souffler saoul souvent"
+        }
+    ], 
+    "release": "2010", 
+    "id": "68984"
+}

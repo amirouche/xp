@@ -1,0 +1,49 @@
+{
+    "name": "Autapkeia", 
+    "artist": "Hecti Gonz\u00e1lez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77099&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664565&streamencoding=mp31", 
+            "name": "Nataraja"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664569&streamencoding=mp31", 
+            "name": "Patas arriba"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664566&streamencoding=mp31", 
+            "name": "Somnium"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664570&streamencoding=mp31", 
+            "name": "autapkeia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664567&streamencoding=mp31", 
+            "name": "Newspeak"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664563&streamencoding=mp31", 
+            "name": "A personal voyage"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664564&streamencoding=mp31", 
+            "name": "Satelles"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=664568&streamencoding=mp31", 
+            "name": "Dietrich trifft Steve"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77099"
+}

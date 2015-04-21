@@ -1,0 +1,44 @@
+{
+    "name": "The Prisoners of Addiction and the Prisoners of Envy", 
+    "artist": "Futurolog\u00eda", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135184&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128486&streamencoding=mp31", 
+            "name": "Deschooling Society"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128481&streamencoding=mp31", 
+            "name": "Environment as commons"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128484&streamencoding=mp31", 
+            "name": "Environment_as_resource"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128482&streamencoding=mp31", 
+            "name": "Enclosure"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128485&streamencoding=mp31", 
+            "name": "Artifact people"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128480&streamencoding=mp31", 
+            "name": "It is from your eye that I find myself"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1128483&streamencoding=mp31", 
+            "name": "Politaea"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135184"
+}

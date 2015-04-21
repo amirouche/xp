@@ -1,0 +1,14 @@
+{
+    "name": "Through The Rain", 
+    "artist": "RIM", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110181&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938447&streamencoding=mp31", 
+            "name": "Through The Rain"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110181"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "An Evening With Space Cadet", 
+    "artist": "Space Cadet Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119431&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014408&streamencoding=mp31", 
+            "name": "Safe At Night"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014403&streamencoding=mp31", 
+            "name": "Spaghetti"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014411&streamencoding=mp31", 
+            "name": "Trophy Life"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014405&streamencoding=mp31", 
+            "name": "Radium Girl"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014407&streamencoding=mp31", 
+            "name": "Highdrops Falling"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014410&streamencoding=mp31", 
+            "name": "Glitter Beard"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014406&streamencoding=mp31", 
+            "name": "Hey, My."
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014412&streamencoding=mp31", 
+            "name": "I Am No Elk"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014409&streamencoding=mp31", 
+            "name": "Easter Island Watercolor Song"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014404&streamencoding=mp31", 
+            "name": "True Love Waits"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1014402&streamencoding=mp31", 
+            "name": "Half Broken Bell"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119431"
+}

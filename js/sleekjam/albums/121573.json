@@ -1,0 +1,49 @@
+{
+    "name": "Roswell 4", 
+    "artist": "WALTER DI NEUBOURG ROSWELL", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121573&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032957&streamencoding=mp31", 
+            "name": "cruzando el nilo"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032956&streamencoding=mp31", 
+            "name": "solo ellos"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032958&streamencoding=mp31", 
+            "name": "mi forma de ser"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032959&streamencoding=mp31", 
+            "name": "ya no mires atras"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032960&streamencoding=mp31", 
+            "name": "esperanza"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1032961&streamencoding=mp31", 
+            "name": "no para de llover"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033019&streamencoding=mp31", 
+            "name": "cinturon fotonico"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1033020&streamencoding=mp31", 
+            "name": "melina"
+        }
+    ], 
+    "release": "2013", 
+    "id": "121573"
+}

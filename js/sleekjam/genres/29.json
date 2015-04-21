@@ -1,0 +1,621 @@
+{
+    "albums": [
+        {
+            "release": "2007", 
+            "artist": "AdHoc", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9372&imagesize=100", 
+            "id": "9372", 
+            "name": "The Ultimate Best Of The Live At Contamines-Montjoie"
+        }, 
+        {
+            "release": "2005", 
+            "artist": "AdHoc", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=357&imagesize=100", 
+            "id": "357", 
+            "name": "Toutes directions"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "AdHoc", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3984&imagesize=100", 
+            "id": "3984", 
+            "name": "Un micro dans la salle"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Carei Thomas, David Means, and Steve Goldstein", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22827&imagesize=100", 
+            "id": "22827", 
+            "name": "Walking Through Songs (Strange Attractors 18 Festival)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The fixer", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37100&imagesize=100", 
+            "id": "37100", 
+            "name": "Cool walk (single)"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Ostapenkovich", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111587&imagesize=100", 
+            "id": "111587", 
+            "name": "Giants of funk"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Birds of fire", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67704&imagesize=100", 
+            "id": "67704", 
+            "name": "Dark sky"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "NICOCO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131720&imagesize=100", 
+            "id": "131720", 
+            "name": "Palpitations"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "NICOCO", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116154&imagesize=100", 
+            "id": "116154", 
+            "name": "Very Buzzy"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "kaodenuit", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4145&imagesize=100", 
+            "id": "4145", 
+            "name": "Access Denied"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Panda Nation", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85690&imagesize=100", 
+            "id": "85690", 
+            "name": "Wisdom Of Panda(Live)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Xau", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17185&imagesize=100", 
+            "id": "17185", 
+            "name": "Ez duzu kontzientziarik"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "jo.henkel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76619&imagesize=100", 
+            "id": "76619", 
+            "name": "beyond the surface"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Fortadelis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132728&imagesize=100", 
+            "id": "132728", 
+            "name": "Up Close And Personal"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Fortadelis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58757&imagesize=100", 
+            "id": "58757", 
+            "name": "Cityscapes"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Fortadelis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82984&imagesize=100", 
+            "id": "82984", 
+            "name": "FUNKTIONAL"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Fortadelis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24399&imagesize=100", 
+            "id": "24399", 
+            "name": "Convergence"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Fortadelis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123576&imagesize=100", 
+            "id": "123576", 
+            "name": "Higher Perspective"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Five Mix Colors", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19138&imagesize=100", 
+            "id": "19138", 
+            "name": "Sketches On The Board"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "kokkie-P (a.k.a kokstar)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45193&imagesize=100", 
+            "id": "45193", 
+            "name": "Bubbletown-beatz"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Jahzzar", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=43863&imagesize=100", 
+            "id": "43863", 
+            "name": "1974"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Instant Jam Experience", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34484&imagesize=100", 
+            "id": "34484", 
+            "name": "Live 5 juillet 2008"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Reole", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120802&imagesize=100", 
+            "id": "120802", 
+            "name": "Ya Heard Me"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "JPMOUNIER groove", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48089&imagesize=100", 
+            "id": "48089", 
+            "name": "GROOVE A GOGO"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Francesco Muliedda", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100521&imagesize=100", 
+            "id": "100521", 
+            "name": "Blues for Jesus"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Beat.Bourdeaux", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=100633&imagesize=100", 
+            "id": "100633", 
+            "name": "LoungeFusion"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Natali Queen", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110151&imagesize=100", 
+            "id": "110151", 
+            "name": "\u0410 \u0432\u0435\u0434\u044c \u043c\u044b \u043c\u043e\u0433\u043b\u0438 \u0438 \u043d\u0435 \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u044c\u0441\u044f 2\u0447\u0430\u0441\u0442\u044c"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Frostafari", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44362&imagesize=100", 
+            "id": "44362", 
+            "name": "Jazz Up"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Sajtrus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33571&imagesize=100", 
+            "id": "33571", 
+            "name": "Memories"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Blackgibbon", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129887&imagesize=100", 
+            "id": "129887", 
+            "name": "Evening Sessions I"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Stellar Art Wars", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108403&imagesize=100", 
+            "id": "108403", 
+            "name": "Because I Know You're There (Single)"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Arkady Michalik & MUSICOCOMPANY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9518&imagesize=100", 
+            "id": "9518", 
+            "name": "Wszystko albo nic (2007) Everything or nothing"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Luigi Aristi", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115010&imagesize=100", 
+            "id": "115010", 
+            "name": "Terra Bruciata"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Luigi Aristi", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73991&imagesize=100", 
+            "id": "73991", 
+            "name": "Vibes "
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Custom Radio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88915&imagesize=100", 
+            "id": "88915", 
+            "name": "Jazz Funk Underground"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Lucas Jim\u00e9nez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24510&imagesize=100", 
+            "id": "24510", 
+            "name": "Lucas Jim\u00e9nez \"en silencio\" 2008"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "JPMOUNIER smooth jazz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82368&imagesize=100", 
+            "id": "82368", 
+            "name": "SWEEPING ROUND"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Little Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53522&imagesize=100", 
+            "id": "53522", 
+            "name": "Little band sample"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Ben5bass", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116535&imagesize=100", 
+            "id": "116535", 
+            "name": "The Stockholm session"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Ben5bass", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77582&imagesize=100", 
+            "id": "77582", 
+            "name": "Loz\u00e8re jazz festival"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Alexander Frost", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77889&imagesize=100", 
+            "id": "77889", 
+            "name": "Good Morning Berlin"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "SaReGaMa", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6471&imagesize=100", 
+            "id": "6471", 
+            "name": "Honky Fonky (EP)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "SaReGaMa", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15248&imagesize=100", 
+            "id": "15248", 
+            "name": "Lucky Number 7 (single) 2007"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Xaviant Haze", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26662&imagesize=100", 
+            "id": "26662", 
+            "name": "Video Game Mushroom Funk"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "R\u00e9gis V. Gronoff", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122027&imagesize=100", 
+            "id": "122027", 
+            "name": "A Winter in Babylon"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "conFusion", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37602&imagesize=100", 
+            "id": "37602", 
+            "name": "HOME MADE"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Souled Out", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21852&imagesize=100", 
+            "id": "21852", 
+            "name": "New Generation"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Souled Out", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25609&imagesize=100", 
+            "id": "25609", 
+            "name": "The Noname Funk EP"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "TomMcBass", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=137200&imagesize=100", 
+            "id": "137200", 
+            "name": "Science-Fiction"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Fgo70", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111708&imagesize=100", 
+            "id": "111708", 
+            "name": "So sweet"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Georges Laporte", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28207&imagesize=100", 
+            "id": "28207", 
+            "name": "compil   DRAG SAX AND ROCK'N HOP"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Dhalius", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35880&imagesize=100", 
+            "id": "35880", 
+            "name": "Paladina Sahari"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Bruno Susio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107130&imagesize=100", 
+            "id": "107130", 
+            "name": "Intimate Heaven"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Bruno Susio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83956&imagesize=100", 
+            "id": "83956", 
+            "name": "The Little Prince - My tribute"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Bruno Susio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121987&imagesize=100", 
+            "id": "121987", 
+            "name": "A Blue Shadow"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "SONGO 21", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74097&imagesize=100", 
+            "id": "74097", 
+            "name": "SONGO 21 - Studio sessions 2003"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Fatman On The Vibes", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44470&imagesize=100", 
+            "id": "44470", 
+            "name": "Tetris Spirit"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Kielobot", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134510&imagesize=100", 
+            "id": "134510", 
+            "name": "Kekse"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Arnaud Martin Jazabana", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123557&imagesize=100", 
+            "id": "123557", 
+            "name": "Live in Goldengate"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Urtzi Azkue", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59611&imagesize=100", 
+            "id": "59611", 
+            "name": "Urtzi Azkue"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Jazz Oil", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51994&imagesize=100", 
+            "id": "51994", 
+            "name": "Rigor Partys"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "FOOL DADAZ FIRE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20790&imagesize=100", 
+            "id": "20790", 
+            "name": "Ce Cri"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "FOOL DADAZ FIRE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2088&imagesize=100", 
+            "id": "2088", 
+            "name": "CNSM SESSIONS #1"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Roberto Daglio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=68928&imagesize=100", 
+            "id": "68928", 
+            "name": "boomboom"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Roberto Daglio", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60158&imagesize=100", 
+            "id": "60158", 
+            "name": "ryoryot"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Germain, Gabily", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59136&imagesize=100", 
+            "id": "59136", 
+            "name": "G Color"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Beder K.", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27131&imagesize=100", 
+            "id": "27131", 
+            "name": "Oxampo - single"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Ensono", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96175&imagesize=100", 
+            "id": "96175", 
+            "name": "Midnight Gigolos"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "flash2nite", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37194&imagesize=100", 
+            "id": "37194", 
+            "name": "West Side Xmas Special"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Akashic Records", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132320&imagesize=100", 
+            "id": "132320", 
+            "name": "Funky Drum and Bass"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Truculent", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25107&imagesize=100", 
+            "id": "25107", 
+            "name": "Pantagruelik"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Atomik Clocks", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57680&imagesize=100", 
+            "id": "57680", 
+            "name": "Tundra Funk DEMO"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Atomik Clocks", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57686&imagesize=100", 
+            "id": "57686", 
+            "name": "The Country Hell EP DEMO"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Greco Cruz", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21410&imagesize=100", 
+            "id": "21410", 
+            "name": "ACORDA PRA VIVER"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "EffeBros Fattanza Brothers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122060&imagesize=100", 
+            "id": "122060", 
+            "name": "Ufo Ebani Su Bologna"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "So What? Band", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=47084&imagesize=100", 
+            "id": "47084", 
+            "name": "The White Room"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Arkady Michalik & MUSICOCOMPANY", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9587&imagesize=100", 
+            "id": "9587", 
+            "name": "Nie wiem kim jeste\u015bmy (2005) I don't know who we are"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "IOVA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114416&imagesize=100", 
+            "id": "114416", 
+            "name": "A tribute to Herbie Hancock"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "winje22", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118560&imagesize=100", 
+            "id": "118560", 
+            "name": "Funkybrass"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Jazz'fixie", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7087&imagesize=100", 
+            "id": "7087", 
+            "name": "Demo"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Proszek na muchy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44050&imagesize=100", 
+            "id": "44050", 
+            "name": "RADIOW\u00d3Z"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "JPMOUNIER", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109582&imagesize=100", 
+            "id": "109582", 
+            "name": "PULSE"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "JPMOUNIER", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112189&imagesize=100", 
+            "id": "112189", 
+            "name": "ABISS"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "JPMOUNIER", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99164&imagesize=100", 
+            "id": "99164", 
+            "name": "DEEP SKY BLUES"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "JPMOUNIER", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7476&imagesize=100", 
+            "id": "7476", 
+            "name": "JPMOUNIER jazz music"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "conFusion", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=72804&imagesize=100", 
+            "id": "72804", 
+            "name": "3 \u00e8me Impair"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Angus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129490&imagesize=100", 
+            "id": "129490", 
+            "name": "REVISED & CORRECTED VOL.1"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Angus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129683&imagesize=100", 
+            "id": "129683", 
+            "name": "Revised & corrected vol.2"
+        }
+    ], 
+    "name": "Jazz+Funk"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "\u0410\u0440\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u044f", 
+    "artist": "Meldis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99441&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851066&streamencoding=mp31", 
+            "name": "Wherever he goes"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851067&streamencoding=mp31", 
+            "name": "Rambles to Cashel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851068&streamencoding=mp31", 
+            "name": "Cruel Sister"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851064&streamencoding=mp31", 
+            "name": "Lorient"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851065&streamencoding=mp31", 
+            "name": "Hindero Horo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851058&streamencoding=mp31", 
+            "name": "Stivell"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851059&streamencoding=mp31", 
+            "name": "Prince Yaouank"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851062&streamencoding=mp31", 
+            "name": "Flying to the Fleadh"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851061&streamencoding=mp31", 
+            "name": "Scarborough fair"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851069&streamencoding=mp31", 
+            "name": "Sweepers tune"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851060&streamencoding=mp31", 
+            "name": "Parting Glass"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=851063&streamencoding=mp31", 
+            "name": "Inspired by Gwerz"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99441"
+}

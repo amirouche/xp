@@ -1,0 +1,84 @@
+{
+    "name": "Palpitations", 
+    "artist": "NICOCO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131720&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103564&streamencoding=mp31", 
+            "name": "Dray Dray Joli"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103558&streamencoding=mp31", 
+            "name": "Spyromaniac"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103560&streamencoding=mp31", 
+            "name": "Blow Up"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103556&streamencoding=mp31", 
+            "name": "FredShift"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103550&streamencoding=mp31", 
+            "name": "Palpitations"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103555&streamencoding=mp31", 
+            "name": "Dukey Love Affair"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103551&streamencoding=mp31", 
+            "name": "Stellar Potatoes"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103559&streamencoding=mp31", 
+            "name": "Intricoting"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103554&streamencoding=mp31", 
+            "name": "Blooming Mary Lou"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103552&streamencoding=mp31", 
+            "name": "The Incredible Luc"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103553&streamencoding=mp31", 
+            "name": "Friendly"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103572&streamencoding=mp31", 
+            "name": "Cold light"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103557&streamencoding=mp31", 
+            "name": "Coucou"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103561&streamencoding=mp31", 
+            "name": "Fatal Error"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1103562&streamencoding=mp31", 
+            "name": "And Voila!"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131720"
+}

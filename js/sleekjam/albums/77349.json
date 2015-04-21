@@ -1,0 +1,49 @@
+{
+    "name": "Love would never work", 
+    "artist": "Loneload", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77349&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666594&streamencoding=mp31", 
+            "name": "EINSTEIN"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666598&streamencoding=mp31", 
+            "name": "BAD KITCHEN"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666611&streamencoding=mp31", 
+            "name": "INTO THE CITY CENTER"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666614&streamencoding=mp31", 
+            "name": "BILL GATES"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666619&streamencoding=mp31", 
+            "name": "ROTTEN LONE"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666620&streamencoding=mp31", 
+            "name": "SICK OF THE SCENE"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666622&streamencoding=mp31", 
+            "name": "TO ALEX"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=666623&streamencoding=mp31", 
+            "name": "GOODNIGHT"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77349"
+}

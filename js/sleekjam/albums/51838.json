@@ -1,0 +1,99 @@
+{
+    "name": "Dead End", 
+    "artist": "Sadista", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51838&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422255&streamencoding=mp31", 
+            "name": "O Fortuna New-World"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422262&streamencoding=mp31", 
+            "name": "No Help"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422480&streamencoding=mp31", 
+            "name": "Mila Majka"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422829&streamencoding=mp31", 
+            "name": "Gonoreja"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422830&streamencoding=mp31", 
+            "name": "Jos Jedna"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422479&streamencoding=mp31", 
+            "name": "Glista u Napadu"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422856&streamencoding=mp31", 
+            "name": "Hrskavica"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422857&streamencoding=mp31", 
+            "name": "Ko to Kaze"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422858&streamencoding=mp31", 
+            "name": "Venom Play"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422859&streamencoding=mp31", 
+            "name": "Wake Up Matta"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422860&streamencoding=mp31", 
+            "name": "Cybergangsta rmx"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422861&streamencoding=mp31", 
+            "name": "Alien"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422862&streamencoding=mp31", 
+            "name": "Njutro"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422863&streamencoding=mp31", 
+            "name": "Sadista is Shit"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422864&streamencoding=mp31", 
+            "name": "Giri giri"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422865&streamencoding=mp31", 
+            "name": "Dubidu"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=422866&streamencoding=mp31", 
+            "name": "Drugz"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=423343&streamencoding=mp31", 
+            "name": "Can Cannabis"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51838"
+}

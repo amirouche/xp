@@ -1,0 +1,14 @@
+{
+    "name": "Aerodon violet", 
+    "artist": "Jean Toba", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110128&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=938127&streamencoding=mp31", 
+            "name": "Mon tam-tam de Quercy"
+        }
+    ], 
+    "release": "2012", 
+    "id": "110128"
+}

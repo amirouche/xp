@@ -1,0 +1,74 @@
+{
+    "name": "Bryan Art", 
+    "artist": "Bryan Art", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132809&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112034&streamencoding=mp31", 
+            "name": "Any Way"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112035&streamencoding=mp31", 
+            "name": "Get It"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112036&streamencoding=mp31", 
+            "name": "New Day (feat. Warrior King)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112038&streamencoding=mp31", 
+            "name": "Murder Dem A Play (feat. Quee"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112039&streamencoding=mp31", 
+            "name": "Rock And Come In"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112040&streamencoding=mp31", 
+            "name": "Dem Fass (feat. Capleton)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112063&streamencoding=mp31", 
+            "name": "Second Class (feat. Hawkeye)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112041&streamencoding=mp31", 
+            "name": "Beautiful"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112042&streamencoding=mp31", 
+            "name": "Sweeter Love"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112043&streamencoding=mp31", 
+            "name": "No Malice"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112044&streamencoding=mp31", 
+            "name": "Taxi"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112045&streamencoding=mp31", 
+            "name": "Show Your Love"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1112046&streamencoding=mp31", 
+            "name": "Best Of My Love"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132809"
+}

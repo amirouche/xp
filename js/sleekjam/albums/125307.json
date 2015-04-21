@@ -1,0 +1,84 @@
+{
+    "name": "Elektrotango Maktub", 
+    "artist": "Santiago Louvet", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=125307&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061404&streamencoding=mp31", 
+            "name": "Elektro Oblivion"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061400&streamencoding=mp31", 
+            "name": "Nostalgias"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061397&streamencoding=mp31", 
+            "name": "Paris"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061393&streamencoding=mp31", 
+            "name": "Caballito"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061402&streamencoding=mp31", 
+            "name": "Luna por Callao"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061391&streamencoding=mp31", 
+            "name": "House Ghetto"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061401&streamencoding=mp31", 
+            "name": "Congreso"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061392&streamencoding=mp31", 
+            "name": "Recuerdos"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061396&streamencoding=mp31", 
+            "name": "San Telmo Lounge"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061394&streamencoding=mp31", 
+            "name": "Jungle"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061390&streamencoding=mp31", 
+            "name": "Secretos"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061395&streamencoding=mp31", 
+            "name": "Junto a Ti"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061398&streamencoding=mp31", 
+            "name": "Volver"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061399&streamencoding=mp31", 
+            "name": "Walking Cayengue"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1061403&streamencoding=mp31", 
+            "name": "Bonus Track   -  Bayres Chill Out"
+        }
+    ], 
+    "release": "2013", 
+    "id": "125307"
+}

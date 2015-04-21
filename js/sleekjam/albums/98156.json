@@ -1,0 +1,14 @@
+{
+    "name": "waste your life on me", 
+    "artist": "Vermillia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98156&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=839112&streamencoding=mp31", 
+            "name": "waste your life on me"
+        }
+    ], 
+    "release": "2011", 
+    "id": "98156"
+}

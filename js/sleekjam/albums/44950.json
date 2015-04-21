@@ -1,0 +1,24 @@
+{
+    "name": "XYZ-2009", 
+    "artist": "Zitherator", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44950&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=340087&streamencoding=mp31", 
+            "name": "Relax"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=340102&streamencoding=mp31", 
+            "name": "PONG"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=340112&streamencoding=mp31", 
+            "name": "Open End"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44950"
+}

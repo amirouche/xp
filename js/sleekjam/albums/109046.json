@@ -1,0 +1,89 @@
+{
+    "name": "Galaico's Sign", 
+    "artist": "Lughum", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=109046&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920792&streamencoding=mp31", 
+            "name": "Fight for freedom"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920789&streamencoding=mp31", 
+            "name": "Pagans of the world"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920777&streamencoding=mp31", 
+            "name": "Cruzando o Alen"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920778&streamencoding=mp31", 
+            "name": "Breaogan"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920779&streamencoding=mp31", 
+            "name": "As herbas da Xacia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920780&streamencoding=mp31", 
+            "name": "Mount Medulio"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920781&streamencoding=mp31", 
+            "name": "Navia, goddes of magic water (Ode in a blues soul death metal)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920782&streamencoding=mp31", 
+            "name": "The victory, the desolation"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920783&streamencoding=mp31", 
+            "name": "Terra de meigas"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920784&streamencoding=mp31", 
+            "name": "O aturuxo"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920785&streamencoding=mp31", 
+            "name": "We are the rain (between cold and hot)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920786&streamencoding=mp31", 
+            "name": "Tardo"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920787&streamencoding=mp31", 
+            "name": "As arbores ollaran a batalla"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920788&streamencoding=mp31", 
+            "name": "Badua protect us"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920790&streamencoding=mp31", 
+            "name": "Escoler vs Legromante"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=920791&streamencoding=mp31", 
+            "name": "Mind controllers"
+        }
+    ], 
+    "release": "2012", 
+    "id": "109046"
+}

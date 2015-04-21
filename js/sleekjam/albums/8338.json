@@ -1,0 +1,49 @@
+{
+    "name": "Coloratura Nightmare", 
+    "artist": "Giles Howe", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8338&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86810&streamencoding=mp31", 
+            "name": "Cignasch"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86811&streamencoding=mp31", 
+            "name": "Heur ais be la loden"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86812&streamencoding=mp31", 
+            "name": "Icelisch"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86813&streamencoding=mp31", 
+            "name": "Madisch"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86814&streamencoding=mp31", 
+            "name": "Nightmarsch"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86815&streamencoding=mp31", 
+            "name": "Onesch"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86817&streamencoding=mp31", 
+            "name": "Rusch"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=86818&streamencoding=mp31", 
+            "name": "Turksch"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8338"
+}

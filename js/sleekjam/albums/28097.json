@@ -1,0 +1,29 @@
+{
+    "name": "The Ascension Island EP", 
+    "artist": "Sweet Mother Logic", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28097&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188077&streamencoding=mp31", 
+            "name": "Ascension Island"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188078&streamencoding=mp31", 
+            "name": "Pens with Benefits"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188079&streamencoding=mp31", 
+            "name": "Days into Night"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=188080&streamencoding=mp31", 
+            "name": "Pruning Song"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28097"
+}

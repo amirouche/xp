@@ -1,0 +1,29 @@
+{
+    "name": "l\u00e4gger \u00e4se", 
+    "artist": "Stromble Fix", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=5464&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45567&streamencoding=mp31", 
+            "name": "Icicle Song"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45568&streamencoding=mp31", 
+            "name": "Thrill"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45569&streamencoding=mp31", 
+            "name": "Waves"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=45570&streamencoding=mp31", 
+            "name": "L\u00e4gger \u00c4se"
+        }
+    ], 
+    "release": "2007", 
+    "id": "5464"
+}

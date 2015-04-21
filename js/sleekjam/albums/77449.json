@@ -1,0 +1,54 @@
+{
+    "name": "Cat Songs", 
+    "artist": "Yoseph Lion", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77449&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667381&streamencoding=mp31", 
+            "name": "Reflection"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667379&streamencoding=mp31", 
+            "name": "Mystic View"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667385&streamencoding=mp31", 
+            "name": "Cat Song"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667380&streamencoding=mp31", 
+            "name": "Technology"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667530&streamencoding=mp31", 
+            "name": "Revelation"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667382&streamencoding=mp31", 
+            "name": "The End of Wars"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667377&streamencoding=mp31", 
+            "name": "Dub Must Come"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667383&streamencoding=mp31", 
+            "name": "City of Glass"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=667384&streamencoding=mp31", 
+            "name": "Fabrika s Rabami"
+        }
+    ], 
+    "release": "2010", 
+    "id": "77449"
+}

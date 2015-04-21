@@ -1,0 +1,44 @@
+{
+    "name": "Cursed Teenage Dissidents", 
+    "artist": "Resistance Fezes", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35218&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242712&streamencoding=mp31", 
+            "name": "GangstaCore"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242724&streamencoding=mp31", 
+            "name": "Killers"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242714&streamencoding=mp31", 
+            "name": "Gangst Angst"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242711&streamencoding=mp31", 
+            "name": "Mentalman"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242713&streamencoding=mp31", 
+            "name": "Prisonman"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242723&streamencoding=mp31", 
+            "name": "Hope (Is There?)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=242728&streamencoding=mp31", 
+            "name": "Great Fall"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35218"
+}

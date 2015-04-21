@@ -1,0 +1,74 @@
+{
+    "name": "Advertitis", 
+    "artist": "Inefficient Screws", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89244&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762015&streamencoding=mp31", 
+            "name": "Please Be Seated"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762016&streamencoding=mp31", 
+            "name": "0.16 Mps"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762017&streamencoding=mp31", 
+            "name": "Pursuit Of Happiness"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762018&streamencoding=mp31", 
+            "name": "A Quiet Neighbourhood In Kobe"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762019&streamencoding=mp31", 
+            "name": "No Imminent Threat"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762020&streamencoding=mp31", 
+            "name": "The Tigers Are Quiet"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762021&streamencoding=mp31", 
+            "name": "Finally, A Nice Surprise!"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762022&streamencoding=mp31", 
+            "name": "City Centerfold"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762023&streamencoding=mp31", 
+            "name": "Both Hands"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762024&streamencoding=mp31", 
+            "name": "Musth"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762025&streamencoding=mp31", 
+            "name": "What Would Grandpa Do?"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762026&streamencoding=mp31", 
+            "name": "Red For Blue"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=762027&streamencoding=mp31", 
+            "name": "The Leash"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89244"
+}

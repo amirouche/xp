@@ -1,0 +1,14 @@
+{
+    "name": "mirco panarotto dj", 
+    "artist": "mirco dj", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30702&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=207362&streamencoding=mp31", 
+            "name": "time flash"
+        }
+    ], 
+    "release": "2008", 
+    "id": "30702"
+}

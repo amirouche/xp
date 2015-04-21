@@ -1,0 +1,14 @@
+{
+    "name": "Un essai tout simplement", 
+    "artist": "P.P", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44704&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=337393&streamencoding=mp31", 
+            "name": "J'ai vu sur la Terre"
+        }
+    ], 
+    "release": "2009", 
+    "id": "44704"
+}

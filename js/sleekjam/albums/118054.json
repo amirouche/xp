@@ -1,0 +1,19 @@
+{
+    "name": "Paradise Lost", 
+    "artist": "CHASMA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118054&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1003146&streamencoding=mp31", 
+            "name": "Paradise Lost"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1003147&streamencoding=mp31", 
+            "name": "Kin Selection"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118054"
+}

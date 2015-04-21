@@ -1,0 +1,99 @@
+{
+    "name": "ALBUM \"RETOUR A LA VIE\" PREMIERE VERSION", 
+    "artist": "Jean-Christophe Morin", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81390&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697808&streamencoding=mp31", 
+            "name": "No Future Premi\u00e8re Version"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697811&streamencoding=mp31", 
+            "name": "Murs Blancs Premi\u00e8re Version"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697849&streamencoding=mp31", 
+            "name": "Faiblesse Premi\u00e8re Version"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697812&streamencoding=mp31", 
+            "name": "Un Homme Premi\u00e8re Version"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697850&streamencoding=mp31", 
+            "name": "Billet Retour Premi\u00e8re Version"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697851&streamencoding=mp31", 
+            "name": "\"Petite Fille\" Premi\u00e8re Version"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697860&streamencoding=mp31", 
+            "name": "Sens Extralucide Premi\u00e8re Version"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697861&streamencoding=mp31", 
+            "name": "Libert\u00e9-\u00c9galit\u00e9-Fraternit\u00e9 Premi\u00e8re Version"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697862&streamencoding=mp31", 
+            "name": "Bandes de Troupeaux Premi\u00e8re Version"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697863&streamencoding=mp31", 
+            "name": "Homme ! Sois Honn\u00eate ! Sois Humain !  Premi\u00e8re Version"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697864&streamencoding=mp31", 
+            "name": "Un Autre Homme Premi\u00e8re Version"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697865&streamencoding=mp31", 
+            "name": "J'ai Longtemps Essay\u00e9 Premi\u00e8re Version"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697884&streamencoding=mp31", 
+            "name": "Mon Ami Premi\u00e8re Version"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697885&streamencoding=mp31", 
+            "name": "Adieu l'Ami Premi\u00e8re Version"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697886&streamencoding=mp31", 
+            "name": "Anarchie dans un Bain d'Espoir Premi\u00e8re Version"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697926&streamencoding=mp31", 
+            "name": "Les Gueules Cass\u00e9es Premi\u00e8re Version"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697927&streamencoding=mp31", 
+            "name": "Le Stade de la R\u00e9sistance Premi\u00e8re Version"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=697928&streamencoding=mp31", 
+            "name": "Piranha"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81390"
+}

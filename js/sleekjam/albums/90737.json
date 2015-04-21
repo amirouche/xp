@@ -1,0 +1,59 @@
+{
+    "name": "Collection of Utter Disgust [Home Recordings]", 
+    "artist": "Halalnihil", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90737&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774351&streamencoding=mp31", 
+            "name": "Mater Destruction Azonnal"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774352&streamencoding=mp31", 
+            "name": "\u00dcr\u00fcl\u00e9k \u00e9s Vizelet"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774348&streamencoding=mp31", 
+            "name": "Isten Sz\u00e1z Pics\u00e1j\u00e1nak V\u00e9re"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774349&streamencoding=mp31", 
+            "name": "K\u00ednfal"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774345&streamencoding=mp31", 
+            "name": "Halott Gyermek Fuldoklik"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774374&streamencoding=mp31", 
+            "name": "Izzad\u00f3 Teremt\u0151"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774346&streamencoding=mp31", 
+            "name": "Apokaliptikus Moleszt\u00e1l\u00e1s"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774347&streamencoding=mp31", 
+            "name": "B\u00e9lf\u00e9reg K\u00f6nnyek"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774375&streamencoding=mp31", 
+            "name": "Deathscream From The Other Side"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=774350&streamencoding=mp31", 
+            "name": "HNW"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90737"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Alphatier", 
+    "artist": "The Jimmy Hofer Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67282&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=582538&streamencoding=mp31", 
+            "name": "Draconian Saint"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=582531&streamencoding=mp31", 
+            "name": "Asshole Rocket"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=582536&streamencoding=mp31", 
+            "name": "Run with the Devil"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=582534&streamencoding=mp31", 
+            "name": "The Duke"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=582535&streamencoding=mp31", 
+            "name": "Bye Bye Bye"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=582532&streamencoding=mp31", 
+            "name": "Go and Tell the Others"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=582537&streamencoding=mp31", 
+            "name": "Baby Jane"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=582533&streamencoding=mp31", 
+            "name": "Got the Blues"
+        }
+    ], 
+    "release": "2010", 
+    "id": "67282"
+}

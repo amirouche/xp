@@ -1,0 +1,39 @@
+{
+    "name": "Impressions", 
+    "artist": "Obaldo Dikdik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79877&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686108&streamencoding=mp31", 
+            "name": "Pandora Jam (Live)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686090&streamencoding=mp31", 
+            "name": "Uptime Live@Sub071 (30-09-2010)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686093&streamencoding=mp31", 
+            "name": "Sensual"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686107&streamencoding=mp31", 
+            "name": "+Bros 4.2"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686149&streamencoding=mp31", 
+            "name": "Saxual"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=686150&streamencoding=mp31", 
+            "name": "Off the Coach (Live)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "79877"
+}

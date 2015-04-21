@@ -1,0 +1,29 @@
+{
+    "name": "Broc EP", 
+    "artist": "Lovely Girls Are Blind", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85407&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=730855&streamencoding=mp31", 
+            "name": "Saint Jude"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=730852&streamencoding=mp31", 
+            "name": "Interlude 3"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=730853&streamencoding=mp31", 
+            "name": "Amazonie"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=730854&streamencoding=mp31", 
+            "name": "Le Retour"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85407"
+}

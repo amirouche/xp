@@ -1,0 +1,39 @@
+{
+    "name": "dasABSTRAKT", 
+    "artist": "Deckard", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2682&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19063&streamencoding=mp31", 
+            "name": "977"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19064&streamencoding=mp31", 
+            "name": "Headz Theme"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19065&streamencoding=mp31", 
+            "name": "Gedankenjaeger"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19066&streamencoding=mp31", 
+            "name": "SlowBodyMovement"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19067&streamencoding=mp31", 
+            "name": "Let There Be Light"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=19068&streamencoding=mp31", 
+            "name": "Defunked"
+        }
+    ], 
+    "release": "2006", 
+    "id": "2682"
+}

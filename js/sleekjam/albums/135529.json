@@ -1,0 +1,49 @@
+{
+    "name": "Strings Roads", 
+    "artist": "JAC", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=135529&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1130758&streamencoding=mp31", 
+            "name": "Strange swaying forget me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1130759&streamencoding=mp31", 
+            "name": "Blueberry smell"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1130760&streamencoding=mp31", 
+            "name": "Twin Blues (avec la participation de MTA)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1130761&streamencoding=mp31", 
+            "name": "Sun Road"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1130762&streamencoding=mp31", 
+            "name": "with indigo"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1130763&streamencoding=mp31", 
+            "name": "Blue street"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1130764&streamencoding=mp31", 
+            "name": "Blue ballad"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1130765&streamencoding=mp31", 
+            "name": "Crestwood boulevard"
+        }
+    ], 
+    "release": "2014", 
+    "id": "135529"
+}

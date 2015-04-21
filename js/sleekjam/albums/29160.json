@@ -1,0 +1,24 @@
+{
+    "name": "Promo 2008", 
+    "artist": "Ulthar", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29160&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=195356&streamencoding=mp31", 
+            "name": "Beratung des Psychotherapeuten"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=195373&streamencoding=mp31", 
+            "name": "Fhgarharh!!! or how I felt at the"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=195383&streamencoding=mp31", 
+            "name": "\u00dcber den G\u00f6ttern [Above the gods]"
+        }
+    ], 
+    "release": "2008", 
+    "id": "29160"
+}

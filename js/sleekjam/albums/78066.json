@@ -1,0 +1,89 @@
+{
+    "name": "Water Breathing", 
+    "artist": "Gloovis", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78066&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672560&streamencoding=mp31", 
+            "name": "about me"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672557&streamencoding=mp31", 
+            "name": "groovix"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672561&streamencoding=mp31", 
+            "name": "boxed and fizzled"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672566&streamencoding=mp31", 
+            "name": "dremas"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672555&streamencoding=mp31", 
+            "name": "drumatic exp"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672559&streamencoding=mp31", 
+            "name": "level15"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672564&streamencoding=mp31", 
+            "name": "operator"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672553&streamencoding=mp31", 
+            "name": "pipiifaxen"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672556&streamencoding=mp31", 
+            "name": "shakedown"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672563&streamencoding=mp31", 
+            "name": "sin high"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672554&streamencoding=mp31", 
+            "name": "singh"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672558&streamencoding=mp31", 
+            "name": "slow burn"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672565&streamencoding=mp31", 
+            "name": "spin"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672568&streamencoding=mp31", 
+            "name": "tasmanian"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672562&streamencoding=mp31", 
+            "name": "tundra"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=672567&streamencoding=mp31", 
+            "name": "timidity"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78066"
+}

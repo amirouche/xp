@@ -1,0 +1,14 @@
+{
+    "name": "Destino III", 
+    "artist": "CLUB DESTINO", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87351&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=747122&streamencoding=mp31", 
+            "name": "CLUB DESTINO - Sin miedo"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87351"
+}

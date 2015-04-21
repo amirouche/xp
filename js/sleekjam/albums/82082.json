@@ -1,0 +1,44 @@
+{
+    "name": "Sic transit gloria mundi", 
+    "artist": "Pepe", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82082&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703973&streamencoding=mp31", 
+            "name": "Il mago (1980)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703977&streamencoding=mp31", 
+            "name": "Mi accendo un sigaro (parlando con Kerouac) (1973)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703975&streamencoding=mp31", 
+            "name": "Stella (1975)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703974&streamencoding=mp31", 
+            "name": "Polvere (2003)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703976&streamencoding=mp31", 
+            "name": "Le fontane del Cielo (1998)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703978&streamencoding=mp31", 
+            "name": "Tahiti (1980)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=703972&streamencoding=mp31", 
+            "name": "Il treno delle sei (1974)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "82082"
+}

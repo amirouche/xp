@@ -1,0 +1,34 @@
+{
+    "name": "Pieces", 
+    "artist": "JL Hanson", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48830&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=386066&streamencoding=mp31", 
+            "name": "Shades of Sharya"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=386072&streamencoding=mp31", 
+            "name": "Uptown, Downtown, All Around the Damn Town"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=386729&streamencoding=mp31", 
+            "name": "Jungle Jam"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=386732&streamencoding=mp31", 
+            "name": "Snakin' Homeward on a Foggy Night"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=386737&streamencoding=mp31", 
+            "name": "Run Fox Run"
+        }
+    ], 
+    "release": "2009", 
+    "id": "48830"
+}

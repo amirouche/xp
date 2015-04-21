@@ -1,0 +1,54 @@
+{
+    "name": "Lo que Escuchan los Sat\u00e9lites", 
+    "artist": "Futurolog\u00eda", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132528&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109414&streamencoding=mp31", 
+            "name": "Va-Op3"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109407&streamencoding=mp31", 
+            "name": "Colegio Invisible"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109411&streamencoding=mp31", 
+            "name": "MT10"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109408&streamencoding=mp31", 
+            "name": "Blue Beam"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109412&streamencoding=mp31", 
+            "name": "Ni Siquiera un Poquito"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109406&streamencoding=mp31", 
+            "name": "Aviones Belatricianos"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109409&streamencoding=mp31", 
+            "name": "120905"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109413&streamencoding=mp31", 
+            "name": "Dwight York"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109410&streamencoding=mp31", 
+            "name": "MT16"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132528"
+}

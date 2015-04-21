@@ -1,0 +1,99 @@
+{
+    "name": "embarcad\u00e8re", 
+    "artist": "Le Pantin Roi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83253&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713171&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 01 - Esculape"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713177&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 02 - la Nouvelle Isabelle"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713165&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 03 - je suis un disciple de Bacchus"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713169&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 04 - destination n\u00e9buleuse"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713172&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 05 - Diane"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713160&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 06 - gens lib\u00e9r\u00e9s"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713174&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 07 - noce \u00e0 l'italienne"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713164&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 08 - mer de Weddell"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713168&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 09 - la banquise"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713167&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 10 - diviser un \u00e9lectron"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713176&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 11 - un r\u00eave Freudien"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713182&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 12 - classe A"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713185&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 13 - le carcajou"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713163&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 14 - pand\u00e9monium"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713173&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 15 - un don rarissime"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713180&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 16 - banane et fusion froide"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713162&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 17 - enro\u00fcte"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=713161&streamencoding=mp31", 
+            "name": "Le Pantin Roi - 18 - acide gamma-aminobutyrique (GABA)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "83253"
+}

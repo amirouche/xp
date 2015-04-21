@@ -1,0 +1,49 @@
+{
+    "name": "Praise to Insanity", 
+    "artist": "Opus 23", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=90012&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768200&streamencoding=mp31", 
+            "name": "Behind Mountains (Negrin)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768220&streamencoding=mp31", 
+            "name": "Sweet Sound of Rain (Carolina/Negrin)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768227&streamencoding=mp31", 
+            "name": "Flying on Clounds (Negrin)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768229&streamencoding=mp31", 
+            "name": "Praise to Insanity (Carolina/Negrin)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768230&streamencoding=mp31", 
+            "name": "Freedom's Night (Negrin/Carolina)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768231&streamencoding=mp31", 
+            "name": "Like Angels Fly by Light (Carolina)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768232&streamencoding=mp31", 
+            "name": "Picture Place (Negrin/Carolina)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=768237&streamencoding=mp31", 
+            "name": "Writing in the Time (Negrin)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "90012"
+}

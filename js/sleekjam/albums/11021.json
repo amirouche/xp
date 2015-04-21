@@ -1,0 +1,49 @@
+{
+    "name": "Far Horizons Unleashed", 
+    "artist": "Enden Wickers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=11021&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100276&streamencoding=mp31", 
+            "name": "03 - Lobozpoz"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100282&streamencoding=mp31", 
+            "name": "15 - Assolo Gatto Onofrio"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100281&streamencoding=mp31", 
+            "name": "14 - Diciamo che qui siamo a posto"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100284&streamencoding=mp31", 
+            "name": "22 - Assolo Super Eva"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100285&streamencoding=mp31", 
+            "name": "30 - Tarantella"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100280&streamencoding=mp31", 
+            "name": "11 - Assolo Villanova Membris"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100283&streamencoding=mp31", 
+            "name": "16 - Sandro Dance ver 3.14 Guitar"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100287&streamencoding=mp31", 
+            "name": "32 - Chorus Redresgue"
+        }
+    ], 
+    "release": "2007", 
+    "id": "11021"
+}

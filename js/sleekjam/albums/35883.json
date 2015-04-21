@@ -1,0 +1,49 @@
+{
+    "name": "On assume!!!", 
+    "artist": "Blob & Klm", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35883&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248491&streamencoding=mp31", 
+            "name": "lala"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248492&streamencoding=mp31", 
+            "name": "ton etoile"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248519&streamencoding=mp31", 
+            "name": "papipute"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248615&streamencoding=mp31", 
+            "name": "bizoubizoubizou"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248533&streamencoding=mp31", 
+            "name": "mon ex je t'oublierai tjrs"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248635&streamencoding=mp31", 
+            "name": "pq a\u00efe"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248498&streamencoding=mp31", 
+            "name": "pardon c moche tout du long"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=248650&streamencoding=mp31", 
+            "name": "M\u00eame si on est pas tr\u00e8s dou\u00e9s"
+        }
+    ], 
+    "release": "2008", 
+    "id": "35883"
+}

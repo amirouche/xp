@@ -1,0 +1,54 @@
+{
+    "name": "Martian Winter", 
+    "artist": "Bruce H. McCosar", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37423&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261651&streamencoding=mp31", 
+            "name": "Whirlpool of Memory"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261654&streamencoding=mp31", 
+            "name": "The Morning the Stars Began to Fall"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261658&streamencoding=mp31", 
+            "name": "Some Time Away from the War"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261662&streamencoding=mp31", 
+            "name": "Three Days After the Invasion"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261675&streamencoding=mp31", 
+            "name": "786 Miles"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261694&streamencoding=mp31", 
+            "name": "A Storm of Falling Leaves"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261700&streamencoding=mp31", 
+            "name": "Night and the Telescope"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261709&streamencoding=mp31", 
+            "name": "Ironclad Evidence"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261717&streamencoding=mp31", 
+            "name": "Kaleidoscope Future"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37423"
+}

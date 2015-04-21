@@ -1,0 +1,69 @@
+{
+    "name": "ARTI MAGJIK I DORES SE DJATHTE", 
+    "artist": "ZERO ZERO GENTI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65213&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563728&streamencoding=mp31", 
+            "name": "Genti Ecen Vete"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563731&streamencoding=mp31", 
+            "name": "Per Loje"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563729&streamencoding=mp31", 
+            "name": "7 Years"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563726&streamencoding=mp31", 
+            "name": "Historia e Pingpongut"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563734&streamencoding=mp31", 
+            "name": "Sayonara"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563732&streamencoding=mp31", 
+            "name": "Endrra Bardhe e Zi"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563724&streamencoding=mp31", 
+            "name": "Analizimi i Flamur Topit Ne Mi Minor"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563733&streamencoding=mp31", 
+            "name": "Alo Babi..Sot Jam President"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563735&streamencoding=mp31", 
+            "name": "Efekti Santa Klaus"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563727&streamencoding=mp31", 
+            "name": "Ora n'Form Lule"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563730&streamencoding=mp31", 
+            "name": "Rreth"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=563725&streamencoding=mp31", 
+            "name": "Genti Ecen Vete (akustike)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "65213"
+}

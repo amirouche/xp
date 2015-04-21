@@ -1,0 +1,29 @@
+{
+    "name": "Unseen Isolation", 
+    "artist": "Bleak Fiction", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113889&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=968089&streamencoding=mp31", 
+            "name": "Drained"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=968086&streamencoding=mp31", 
+            "name": "Silence Accumulation"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=968087&streamencoding=mp31", 
+            "name": "Paralysis"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=968088&streamencoding=mp31", 
+            "name": "Death Written As Forgotten Eyes"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113889"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "The Direction", 
+    "artist": "MARKHEM", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114282&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971126&streamencoding=mp31", 
+            "name": "The Street (radio edit)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971127&streamencoding=mp31", 
+            "name": "The Medecine"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971128&streamencoding=mp31", 
+            "name": "The Direction"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971129&streamencoding=mp31", 
+            "name": "The Driving"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971130&streamencoding=mp31", 
+            "name": "The Feeling"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971131&streamencoding=mp31", 
+            "name": "The Darkness"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971132&streamencoding=mp31", 
+            "name": "The Sadness"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971133&streamencoding=mp31", 
+            "name": "The Soul"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=971134&streamencoding=mp31", 
+            "name": "The Street"
+        }
+    ], 
+    "release": "2012", 
+    "id": "114282"
+}

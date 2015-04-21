@@ -1,0 +1,39 @@
+{
+    "name": "nacht", 
+    "artist": "joerg borning", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=13687&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110610&streamencoding=mp31", 
+            "name": "animal safari"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110611&streamencoding=mp31", 
+            "name": "singing lalala for the real people"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110615&streamencoding=mp31", 
+            "name": "who has stolen my lipstick"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110616&streamencoding=mp31", 
+            "name": "wer kontrolliert hier"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110612&streamencoding=mp31", 
+            "name": "the sun is shining tonite"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=110617&streamencoding=mp31", 
+            "name": "ist doch alles kein heldentum mehr"
+        }
+    ], 
+    "release": "2007", 
+    "id": "13687"
+}

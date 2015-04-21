@@ -1,0 +1,39 @@
+{
+    "name": "Had I Died Tomorrow (MCD)", 
+    "artist": "IX-Acht", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=130101&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091461&streamencoding=mp31", 
+            "name": "Had I Died Tomorrow (Leisure)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091498&streamencoding=mp31", 
+            "name": "Had I Died Tomorrow (Ethereal Remix by X8)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091484&streamencoding=mp31", 
+            "name": "Had I Died Tomorrow (Forthright Remix by X8)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091497&streamencoding=mp31", 
+            "name": "Had I Died Tomorrow (Burly Remix by X8)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091485&streamencoding=mp31", 
+            "name": "Circling Straight Around The Black Hole"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1091457&streamencoding=mp31", 
+            "name": "Had I Died Tomorrow (Demo)"
+        }
+    ], 
+    "release": "2013", 
+    "id": "130101"
+}

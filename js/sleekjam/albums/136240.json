@@ -1,0 +1,89 @@
+{
+    "name": "Dubtex", 
+    "artist": "Mischapex", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=136240&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135081&streamencoding=mp31", 
+            "name": "Completely Black"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135079&streamencoding=mp31", 
+            "name": "Inner Aliens"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135067&streamencoding=mp31", 
+            "name": "Deus ex Machina"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135085&streamencoding=mp31", 
+            "name": "Yah is I"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135083&streamencoding=mp31", 
+            "name": "The Shadowman"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135072&streamencoding=mp31", 
+            "name": "Sirenes On"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135082&streamencoding=mp31", 
+            "name": "Kimigayo Dub"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135075&streamencoding=mp31", 
+            "name": "Planet Wobble"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135070&streamencoding=mp31", 
+            "name": "Lucky Beast"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135068&streamencoding=mp31", 
+            "name": "Coopertime"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135069&streamencoding=mp31", 
+            "name": "Tweakers"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135074&streamencoding=mp31", 
+            "name": "Arabian Nights"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135078&streamencoding=mp31", 
+            "name": "Kungfu Buffet"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135073&streamencoding=mp31", 
+            "name": "Broken"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135076&streamencoding=mp31", 
+            "name": "Master Control Program"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1135071&streamencoding=mp31", 
+            "name": "How To Show That You Care"
+        }
+    ], 
+    "release": "2014", 
+    "id": "136240"
+}

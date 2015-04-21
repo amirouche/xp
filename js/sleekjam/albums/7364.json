@@ -1,0 +1,59 @@
+{
+    "name": "Syst\u00e8me D", 
+    "artist": "Les Looz' Brothers", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7364&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80490&streamencoding=mp31", 
+            "name": "Les Mains Li\u00e9es"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80491&streamencoding=mp31", 
+            "name": "Jeannot Lapin"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80492&streamencoding=mp31", 
+            "name": "Sexe & Bon Sens"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80493&streamencoding=mp31", 
+            "name": "P.L.S.T.C"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80494&streamencoding=mp31", 
+            "name": "D\u00e9lire Ethilique Intro"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80495&streamencoding=mp31", 
+            "name": "D\u00e9lire Ethylique"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80496&streamencoding=mp31", 
+            "name": "D\u00e9lire Ethylique 2"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80497&streamencoding=mp31", 
+            "name": "Jeannot Lapin (version banjo)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80498&streamencoding=mp31", 
+            "name": "(on chie sur) La Censure"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=80499&streamencoding=mp31", 
+            "name": "P.L.S.T.C. Remix"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7364"
+}

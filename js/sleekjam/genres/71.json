@@ -1,0 +1,971 @@
+{
+    "albums": [
+        {
+            "release": "2011", 
+            "artist": "Friend Owl", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94451&imagesize=100", 
+            "id": "94451", 
+            "name": "Reconnoiter"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Friend Owl", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134779&imagesize=100", 
+            "id": "134779", 
+            "name": "Radium Girl"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Friend Owl", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52291&imagesize=100", 
+            "id": "52291", 
+            "name": "Antelope."
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Friend Owl", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=124772&imagesize=100", 
+            "id": "124772", 
+            "name": "Turn Signals"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Friend Owl", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113063&imagesize=100", 
+            "id": "113063", 
+            "name": "St. Range"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Friend Owl", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=114969&imagesize=100", 
+            "id": "114969", 
+            "name": "The Worst of Friend Owl: Volume 1"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Administration105", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79014&imagesize=100", 
+            "id": "79014", 
+            "name": "Playful Forfeit"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "YARDS OF SILK", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55420&imagesize=100", 
+            "id": "55420", 
+            "name": "Green Tea"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "YARDS OF SILK", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=56607&imagesize=100", 
+            "id": "56607", 
+            "name": "It's Morning Now 7\""
+        }, 
+        {
+            "release": "2010", 
+            "artist": "YARDS OF SILK", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77924&imagesize=100", 
+            "id": "77924", 
+            "name": "Leaving My Body"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "YARDS OF SILK", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63906&imagesize=100", 
+            "id": "63906", 
+            "name": "Headphone Songs EP"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Nik Rawlings", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25710&imagesize=100", 
+            "id": "25710", 
+            "name": "A Crowd, Alone"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Nik Rawlings", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=44215&imagesize=100", 
+            "id": "44215", 
+            "name": "Drop"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Glandul", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55123&imagesize=100", 
+            "id": "55123", 
+            "name": "Mycopholies"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Glandul", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35168&imagesize=100", 
+            "id": "35168", 
+            "name": "Le bruit de la chemin\u00e9e"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Scritch and The Clerks", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25787&imagesize=100", 
+            "id": "25787", 
+            "name": "The Ang'Hell EP"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Amazing Bubbles", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38045&imagesize=100", 
+            "id": "38045", 
+            "name": "Songs about Love, Dancing, and the Moon"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "mintscum", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108228&imagesize=100", 
+            "id": "108228", 
+            "name": "Demo"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "mintscum", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112828&imagesize=100", 
+            "id": "112828", 
+            "name": "dream! fly! love! [EP]"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Southern City\u2018s Lab", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121465&imagesize=100", 
+            "id": "121465", 
+            "name": "Spring of the southern city (2013, Vol-1)"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "A Jovian Night", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58222&imagesize=100", 
+            "id": "58222", 
+            "name": "Balayan Bats"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Jake Limon", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84958&imagesize=100", 
+            "id": "84958", 
+            "name": "Iced EP"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Jake Limon", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84884&imagesize=100", 
+            "id": "84884", 
+            "name": "Anticipation EP"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Jake Limon", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84872&imagesize=100", 
+            "id": "84872", 
+            "name": "Dictated, but not read..."
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Ajo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126253&imagesize=100", 
+            "id": "126253", 
+            "name": "Be the idiot you talking about"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Wobinidan", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=14259&imagesize=100", 
+            "id": "14259", 
+            "name": "New Fireplace - Demo"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Wobinidan", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24641&imagesize=100", 
+            "id": "24641", 
+            "name": "Hope February"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "The System/Addicts", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102617&imagesize=100", 
+            "id": "102617", 
+            "name": "The adventures of The System/Addicts in the lost Zombie Garden"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Ephedrina Netlabel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=133818&imagesize=100", 
+            "id": "133818", 
+            "name": "[EPH088] PL 433 - Carlo And The Rotten Food"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Ephedrina Netlabel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128114&imagesize=100", 
+            "id": "128114", 
+            "name": "[EPH072] FABIOROSHO - Old and Unreleased 2005-07"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "ED", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94441&imagesize=100", 
+            "id": "94441", 
+            "name": "This is Just for Practice"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "The Outhome Project", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74241&imagesize=100", 
+            "id": "74241", 
+            "name": "Background Sushi"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Benjamin Grassineau", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18397&imagesize=100", 
+            "id": "18397", 
+            "name": "10 minutes"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Benjamin Grassineau", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=25047&imagesize=100", 
+            "id": "25047", 
+            "name": "GpougPGTOHOIGPgjigojoirpemcnviofpwm"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Benjamin Grassineau", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19861&imagesize=100", 
+            "id": "19861", 
+            "name": "Souvenirs d'un oc\u00e9an disparu"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Fiffdimension", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22885&imagesize=100", 
+            "id": "22885", 
+            "name": "Loose Autumn Moans"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Guibernau", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98021&imagesize=100", 
+            "id": "98021", 
+            "name": "Sonidos Oscuros"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Gloovis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78066&imagesize=100", 
+            "id": "78066", 
+            "name": "Water Breathing"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Gloovis", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79780&imagesize=100", 
+            "id": "79780", 
+            "name": "Air Drying"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Muyolab", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18146&imagesize=100", 
+            "id": "18146", 
+            "name": "slow-fi (2002)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Danie Nel", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88684&imagesize=100", 
+            "id": "88684", 
+            "name": "Live to a mic"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Lctrolord", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93184&imagesize=100", 
+            "id": "93184", 
+            "name": "lctrolord - facmiluv"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Edgerub", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84668&imagesize=100", 
+            "id": "84668", 
+            "name": "Fsck Nose"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Townhouse Woods", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122249&imagesize=100", 
+            "id": "122249", 
+            "name": "I Am Ready, Warden"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Steve Tarzan et les d\u00e9colonisateurs", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18802&imagesize=100", 
+            "id": "18802", 
+            "name": "ANALog"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Circles", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=65979&imagesize=100", 
+            "id": "65979", 
+            "name": "Demolition"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Davy Long", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=66658&imagesize=100", 
+            "id": "66658", 
+            "name": "Babies (Side A)"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "JCRZ", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=79429&imagesize=100", 
+            "id": "79429", 
+            "name": "Skyline Sequences (Lo-Fi Vinyl Version)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Mark Elliot Cullen", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=33670&imagesize=100", 
+            "id": "33670", 
+            "name": "366 Songs: January"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Mark Elliot Cullen", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36096&imagesize=100", 
+            "id": "36096", 
+            "name": "366 Songs: March"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Mark Elliot Cullen", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=36079&imagesize=100", 
+            "id": "36079", 
+            "name": "366 Songs: February"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Mark Elliot Cullen", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37748&imagesize=100", 
+            "id": "37748", 
+            "name": "366 Songs: April"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "ElettrofurtE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20305&imagesize=100", 
+            "id": "20305", 
+            "name": "Quiet Songs"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "giannY sYmbolo e i geni del picco e pala", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105777&imagesize=100", 
+            "id": "105777", 
+            "name": "GiannY sYmbolo e i geni del picco e pala present LNATZ PROJ (Das Joachim Ringelnatz Liederbuch von Fridolin Fladderdatz)"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Inefficient Screws", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89244&imagesize=100", 
+            "id": "89244", 
+            "name": "Advertitis"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "\u767d\u8056\u4ec1", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=117994&imagesize=100", 
+            "id": "117994", 
+            "name": "A Collection Of Songs & Stories By \u767d\u8056\u4ec1"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "\u767d\u8056\u4ec1", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=122637&imagesize=100", 
+            "id": "122637", 
+            "name": "The River Variations"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Ben K Adams", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=134698&imagesize=100", 
+            "id": "134698", 
+            "name": "The Betamax EP"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "JAPOKORE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45380&imagesize=100", 
+            "id": "45380", 
+            "name": "Japokore is my laif!"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "mr&mrsBrian", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84054&imagesize=100", 
+            "id": "84054", 
+            "name": "X"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Uifoayuit", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=48245&imagesize=100", 
+            "id": "48245", 
+            "name": "28 Avril 1969"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Rashpil", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=84732&imagesize=100", 
+            "id": "84732", 
+            "name": "Orange cold"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Oleg O. Kachanko", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=102545&imagesize=100", 
+            "id": "102545", 
+            "name": "Lovely 8 bit"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Bridge Underwater", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107911&imagesize=100", 
+            "id": "107911", 
+            "name": "The Love EP"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Louis Lingg and the Bombs", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51931&imagesize=100", 
+            "id": "51931", 
+            "name": "Radio Konstroy live, acoustic and crazy interview and session type thingy "
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Under The Table", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=26648&imagesize=100", 
+            "id": "26648", 
+            "name": "my friend loves circles"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Jim Guittard", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55876&imagesize=100", 
+            "id": "55876", 
+            "name": "96/98"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Jim Guittard", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115538&imagesize=100", 
+            "id": "115538", 
+            "name": "Forward"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Jim Guittard", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=126618&imagesize=100", 
+            "id": "126618", 
+            "name": "The Guittard Tapes Volume 2"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "ANIMIC", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8525&imagesize=100", 
+            "id": "8525", 
+            "name": "ANIMIC \"Edici\u00f3n Digital\""
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Sleepless", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=70850&imagesize=100", 
+            "id": "70850", 
+            "name": "Sleepless EP"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "mysilenttragedy", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76875&imagesize=100", 
+            "id": "76875", 
+            "name": "surviving the movie scenes"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "WINSTONMCNAMARA", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108499&imagesize=100", 
+            "id": "108499", 
+            "name": "Dustbeen"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Electronic Noise Controller", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29306&imagesize=100", 
+            "id": "29306", 
+            "name": "Pneuma EP"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "*eat the daisies*", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=91585&imagesize=100", 
+            "id": "91585", 
+            "name": "Instrumental Sorority EP"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "RuediRena", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81019&imagesize=100", 
+            "id": "81019", 
+            "name": "The RuediRena System"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "ISOBAR", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=62117&imagesize=100", 
+            "id": "62117", 
+            "name": "D\u00e9sertion"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "mykee", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=30851&imagesize=100", 
+            "id": "30851", 
+            "name": "Tov\u00e1rna na kr\u00e1sn\u00e1 slova"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "mykee", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18043&imagesize=100", 
+            "id": "18043", 
+            "name": "May the folk be with you"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Farmertan", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=34897&imagesize=100", 
+            "id": "34897", 
+            "name": "Basement"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Farmertan", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53221&imagesize=100", 
+            "id": "53221", 
+            "name": "The Softer Side"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "MT", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77372&imagesize=100", 
+            "id": "77372", 
+            "name": "delicate particle logic"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "C.Kd", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31882&imagesize=100", 
+            "id": "31882", 
+            "name": "Two Shots for my keyboard"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "SIGU", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108995&imagesize=100", 
+            "id": "108995", 
+            "name": "OUTPUT"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Arnau Oliver", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=115314&imagesize=100", 
+            "id": "115314", 
+            "name": "Primers cants"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Melange Promenade", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8721&imagesize=100", 
+            "id": "8721", 
+            "name": "The Only Girl at the Bar feat. The Public Domain"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Melange Promenade", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=19418&imagesize=100", 
+            "id": "19418", 
+            "name": "It's Almost Over..."
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Dhalius", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=58121&imagesize=100", 
+            "id": "58121", 
+            "name": "Dhalius"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Marc Shaftenberg", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41577&imagesize=100", 
+            "id": "41577", 
+            "name": "Intercourse"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Minusminus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=97816&imagesize=100", 
+            "id": "97816", 
+            "name": "Small is beautiful EP"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Minusminus", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104342&imagesize=100", 
+            "id": "104342", 
+            "name": "Bathroom naturism"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Denk-mal", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110561&imagesize=100", 
+            "id": "110561", 
+            "name": "Schmaeh Ep"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Bayard Russell", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121612&imagesize=100", 
+            "id": "121612", 
+            "name": "Selftitled"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "Robinson, Freitag And The Lonely Trumpet", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2882&imagesize=100", 
+            "id": "2882", 
+            "name": "Shaking Hands!"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "EugeneKha (feat. Alex D)", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63532&imagesize=100", 
+            "id": "63532", 
+            "name": "I Belong To You (Single)"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "gianluca natanti", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28373&imagesize=100", 
+            "id": "28373", 
+            "name": "gianluca natanti - 15 minutes of brainout"
+        }, 
+        {
+            "release": "2006", 
+            "artist": "The Chadderandom Abyss", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=2374&imagesize=100", 
+            "id": "2374", 
+            "name": "My Vampire Bite"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "The Chadderandom Abyss", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=127246&imagesize=100", 
+            "id": "127246", 
+            "name": "I'm a Wolf"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "the boring landmarks", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=49941&imagesize=100", 
+            "id": "49941", 
+            "name": "go away"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Funny Death", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105542&imagesize=100", 
+            "id": "105542", 
+            "name": "Dying Sun"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "The Magnetic Button", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82801&imagesize=100", 
+            "id": "82801", 
+            "name": "The Jazz Club"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Quietly Concerned", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=121631&imagesize=100", 
+            "id": "121631", 
+            "name": "Finding Our Way in the Dark (Single)"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "Kokkalj\u00f3s", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7454&imagesize=100", 
+            "id": "7454", 
+            "name": "Kokkalj\u00f3s Khronicles"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Floating Isle", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=98339&imagesize=100", 
+            "id": "98339", 
+            "name": "8Bit Traveller"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Fallback", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=88897&imagesize=100", 
+            "id": "88897", 
+            "name": "Bad Signal"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "SACAGE", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6640&imagesize=100", 
+            "id": "6640", 
+            "name": "tritherapie"
+        }, 
+        {
+            "release": "2013", 
+            "artist": "Rene Sens", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120228&imagesize=100", 
+            "id": "120228", 
+            "name": "8 Bit and 1 Bit More"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "aoriste", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86232&imagesize=100", 
+            "id": "86232", 
+            "name": "deux titres"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "M. Wag. Music feat. Will W.", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=67301&imagesize=100", 
+            "id": "67301", 
+            "name": "Jam Session #1"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "PTAH", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=52071&imagesize=100", 
+            "id": "52071", 
+            "name": "Early recordings (1998-2005)"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "The Bedtime Vice Of Wallpapertown", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=41293&imagesize=100", 
+            "id": "41293", 
+            "name": "Tiny Voices"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "PHST RECORDS", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6742&imagesize=100", 
+            "id": "6742", 
+            "name": "Noise Consortium Feat. Zuzule -\"Hallamass 1.0\" (demotape) - PHST01"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Rec.koner", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=83853&imagesize=100", 
+            "id": "83853", 
+            "name": "Pi/2"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Indigo78", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71164&imagesize=100", 
+            "id": "71164", 
+            "name": "The Autumn EP"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "Indigo78", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=92962&imagesize=100", 
+            "id": "92962", 
+            "name": "Sun Stone"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Dr. Saylermorph", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=76714&imagesize=100", 
+            "id": "76714", 
+            "name": "RINGTONES OF DOOM"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Bad Gorilla", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=110347&imagesize=100", 
+            "id": "110347", 
+            "name": "Giungla di Asfalto"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Realism Stealth Warrior", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=29200&imagesize=100", 
+            "id": "29200", 
+            "name": "Synth Realism"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "coldreavers", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57247&imagesize=100", 
+            "id": "57247", 
+            "name": "Social Freaks"
+        }, 
+        {
+            "release": "2007", 
+            "artist": "jjmm", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=12010&imagesize=100", 
+            "id": "12010", 
+            "name": "entre luces y sombras"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "The Desks", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=22929&imagesize=100", 
+            "id": "22929", 
+            "name": "Calendars"
+        }, 
+        {
+            "release": "2014", 
+            "artist": "Antonius", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129964&imagesize=100", 
+            "id": "129964", 
+            "name": "Recorder lofi"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Bryan Baker", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57871&imagesize=100", 
+            "id": "57871", 
+            "name": "Itch"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "\u0411\u0435\u0441\u043f\u0430\u043c\u044f\u0442\u0441\u0442\u0432\u043e", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=77775&imagesize=100", 
+            "id": "77775", 
+            "name": "\u0422\u0423\u0422"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Gabriel Guimar\u00e3es", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113531&imagesize=100", 
+            "id": "113531", 
+            "name": "Demo 1"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Deine Eltern", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=112017&imagesize=100", 
+            "id": "112017", 
+            "name": "OK Kaffeevollautomat"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Sean T Wright", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=74713&imagesize=100", 
+            "id": "74713", 
+            "name": "Beautiful World"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Fr\u00eamito", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35120&imagesize=100", 
+            "id": "35120", 
+            "name": "8-beat"
+        }, 
+        {
+            "release": "2011", 
+            "artist": "how how", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=86730&imagesize=100", 
+            "id": "86730", 
+            "name": "Bumpy EP"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "ieatpants", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53256&imagesize=100", 
+            "id": "53256", 
+            "name": "i am trying to be grown up here"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "ieatpants", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108710&imagesize=100", 
+            "id": "108710", 
+            "name": "The empire never ended"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "ieatpants", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64555&imagesize=100", 
+            "id": "64555", 
+            "name": "ieatpants"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Dr. Pimp", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61645&imagesize=100", 
+            "id": "61645", 
+            "name": "The Irish Girl"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "Dr. Pimp", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=40199&imagesize=100", 
+            "id": "40199", 
+            "name": "Lounge 1.0"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Richard There", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=80235&imagesize=100", 
+            "id": "80235", 
+            "name": "Ok, I\u00b4ll do all that again"
+        }, 
+        {
+            "release": "2010", 
+            "artist": "Real Life Bears", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=59189&imagesize=100", 
+            "id": "59189", 
+            "name": "ART"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "Real Life Bears", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=27081&imagesize=100", 
+            "id": "27081", 
+            "name": "Strange Dogs"
+        }, 
+        {
+            "release": "2008", 
+            "artist": "N.D. Monroe", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=35443&imagesize=100", 
+            "id": "35443", 
+            "name": "Dark Diary"
+        }
+    ], 
+    "name": "Lo-Fi"
+}

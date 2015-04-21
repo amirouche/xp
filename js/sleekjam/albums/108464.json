@@ -1,0 +1,79 @@
+{
+    "name": "Folklore Song", 
+    "artist": "Alban Lepsy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=108464&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915916&streamencoding=mp31", 
+            "name": "Shogun"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915919&streamencoding=mp31", 
+            "name": "Asian Dream"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915913&streamencoding=mp31", 
+            "name": "Samourai"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915920&streamencoding=mp31", 
+            "name": "Arab"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915917&streamencoding=mp31", 
+            "name": "Africa"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915915&streamencoding=mp31", 
+            "name": "Medieval Song"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915911&streamencoding=mp31", 
+            "name": "irishsong"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915914&streamencoding=mp31", 
+            "name": "Raining Dance"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915912&streamencoding=mp31", 
+            "name": "Tribal Song"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915910&streamencoding=mp31", 
+            "name": "Lepsy Tango"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915908&streamencoding=mp31", 
+            "name": "Sirtaki1"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915909&streamencoding=mp31", 
+            "name": "Sirtaki2"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915921&streamencoding=mp31", 
+            "name": "Sirtaki3"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=915918&streamencoding=mp31", 
+            "name": "Elfaranel"
+        }
+    ], 
+    "release": "2012", 
+    "id": "108464"
+}

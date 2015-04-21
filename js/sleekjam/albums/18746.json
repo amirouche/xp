@@ -1,0 +1,19 @@
+{
+    "name": "GHOST", 
+    "artist": "SuperMarket", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18746&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132755&streamencoding=mp31", 
+            "name": "GHOST"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=132754&streamencoding=mp31", 
+            "name": "Nervous breakdown"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18746"
+}

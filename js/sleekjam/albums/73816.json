@@ -1,0 +1,24 @@
+{
+    "name": "Heliophagia 06", 
+    "artist": "Heliophagia Projects", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73816&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=637397&streamencoding=mp31", 
+            "name": "Nojda - Ly\u0161t Pudt Olmevudt"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=637398&streamencoding=mp31", 
+            "name": "Panacea Enterpainment - Hymnus Hibernus"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=637396&streamencoding=mp31", 
+            "name": "System Morgue - Reactor 4/Fenrir Awakening"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73816"
+}

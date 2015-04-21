@@ -1,0 +1,49 @@
+{
+    "name": "SEVEN MINUTES TO MIDNIGHT (RMX)", 
+    "artist": "EJAY IVAN LAC", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94887&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810128&streamencoding=mp31", 
+            "name": "EJAY IVAN LAC and RONDO BROTHERS - STILL YOUR GHOST"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810338&streamencoding=mp31", 
+            "name": "EJAY IVAN LAC and RONDO BROTHERS - NEW YORK KID "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810384&streamencoding=mp31", 
+            "name": "EJAY IVAN LAC and RONDO BROTHERS - LA LA LA (GET OUT NOW)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811708&streamencoding=mp31", 
+            "name": "EJAY IVAN LAC and RONDO BROTHERS - IN THE VALLEY"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811720&streamencoding=mp31", 
+            "name": "EJAY IVAN LAC and RONDO BROTHERS - EL CORAZON"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811735&streamencoding=mp31", 
+            "name": "EJAY IVAN LAC and RONDO BROTHERS - DUNE STALKER"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812123&streamencoding=mp31", 
+            "name": "EJAY IVAN LAC and RONDO BROTHERS - DON'T WAKE UP"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812346&streamencoding=mp31", 
+            "name": "EJAY IVAN LAC and RONDO BROTHERS - CRAZED"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94887"
+}

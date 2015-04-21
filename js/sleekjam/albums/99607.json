@@ -1,0 +1,99 @@
+{
+    "name": "Old'tracks ", 
+    "artist": "z1ku", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=99607&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852336&streamencoding=mp31", 
+            "name": "elektrosmooth"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852342&streamencoding=mp31", 
+            "name": "trancekilou"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852334&streamencoding=mp31", 
+            "name": "poufatrance"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852340&streamencoding=mp31", 
+            "name": "nteK"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852344&streamencoding=mp31", 
+            "name": "mininew"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852350&streamencoding=mp31", 
+            "name": "after underground party II"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852347&streamencoding=mp31", 
+            "name": "bonzour les fonsd\u00e9s"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852337&streamencoding=mp31", 
+            "name": "tribe2nouf"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852351&streamencoding=mp31", 
+            "name": "champiz1ku xxl"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852349&streamencoding=mp31", 
+            "name": "rekik"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852346&streamencoding=mp31", 
+            "name": "11H23"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852341&streamencoding=mp31", 
+            "name": "z1ku1.2"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852345&streamencoding=mp31", 
+            "name": "Crash test"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852339&streamencoding=mp31", 
+            "name": "rock this"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852343&streamencoding=mp31", 
+            "name": "voyage spacial"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852348&streamencoding=mp31", 
+            "name": "mad piano tekno(v2.0)"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852335&streamencoding=mp31", 
+            "name": "je propose de profiT"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=852352&streamencoding=mp31", 
+            "name": "z1ku park!"
+        }
+    ], 
+    "release": "2011", 
+    "id": "99607"
+}

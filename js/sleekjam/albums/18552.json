@@ -1,0 +1,59 @@
+{
+    "name": "Walk in my dreams", 
+    "artist": "Endo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18552&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131600&streamencoding=mp31", 
+            "name": "Just a smile"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131569&streamencoding=mp31", 
+            "name": "Further"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131618&streamencoding=mp31", 
+            "name": "Thrill "
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131645&streamencoding=mp31", 
+            "name": "Some style"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131568&streamencoding=mp31", 
+            "name": "Elles"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131632&streamencoding=mp31", 
+            "name": "Tranche de blues"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131615&streamencoding=mp31", 
+            "name": "Vitamine cafeine"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131636&streamencoding=mp31", 
+            "name": "Touch of blues"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131613&streamencoding=mp31", 
+            "name": "Walk in my dreams"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131628&streamencoding=mp31", 
+            "name": "Alethea"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18552"
+}

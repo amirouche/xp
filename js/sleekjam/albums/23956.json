@@ -1,0 +1,14 @@
+{
+    "name": "trop d'enfants", 
+    "artist": "sauvage", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=23956&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=163497&streamencoding=mp31", 
+            "name": "trop d'enfants dans ce monde qui jouent avec des armes"
+        }
+    ], 
+    "release": "2008", 
+    "id": "23956"
+}

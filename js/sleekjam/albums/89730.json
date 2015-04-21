@@ -1,0 +1,14 @@
+{
+    "name": "Nostalgiastrike Theme", 
+    "artist": "Luis Miguel Olmo Morago", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89730&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=766122&streamencoding=mp31", 
+            "name": "Nostalgiastrike Theme"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89730"
+}

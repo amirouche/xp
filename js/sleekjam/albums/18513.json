@@ -1,0 +1,59 @@
+{
+    "name": "AURA", 
+    "artist": "michael wehr", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=18513&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131232&streamencoding=mp31", 
+            "name": "Intrduction"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131236&streamencoding=mp31", 
+            "name": "Floating"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131240&streamencoding=mp31", 
+            "name": "LoveSong"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131241&streamencoding=mp31", 
+            "name": "Aural Exciter"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131242&streamencoding=mp31", 
+            "name": "Mystic Field"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131243&streamencoding=mp31", 
+            "name": "Nora"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131261&streamencoding=mp31", 
+            "name": "Beatrice"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131262&streamencoding=mp31", 
+            "name": "Contemplation"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131263&streamencoding=mp31", 
+            "name": "Devotion"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=131267&streamencoding=mp31", 
+            "name": "Floating Away"
+        }
+    ], 
+    "release": "2008", 
+    "id": "18513"
+}

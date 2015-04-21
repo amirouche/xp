@@ -1,0 +1,54 @@
+{
+    "name": "Je parle au hasard", 
+    "artist": "Dj Poke", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=9502&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93906&streamencoding=mp31", 
+            "name": "je parle au hasard"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93912&streamencoding=mp31", 
+            "name": "woowoowhat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93919&streamencoding=mp31", 
+            "name": "where am i"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93933&streamencoding=mp31", 
+            "name": "not believed"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93942&streamencoding=mp31", 
+            "name": "drop your temptation on the ground"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93951&streamencoding=mp31", 
+            "name": "pi"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93956&streamencoding=mp31", 
+            "name": "deus made us"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93973&streamencoding=mp31", 
+            "name": "the respect"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=93977&streamencoding=mp31", 
+            "name": "was it real"
+        }
+    ], 
+    "release": "2007", 
+    "id": "9502"
+}

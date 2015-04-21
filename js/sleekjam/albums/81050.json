@@ -1,0 +1,69 @@
+{
+    "name": "No Fake Ending, No Fade Outs - Album", 
+    "artist": "Viln", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=81050&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695201&streamencoding=mp31", 
+            "name": "the first song"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695202&streamencoding=mp31", 
+            "name": "orders"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695203&streamencoding=mp31", 
+            "name": "bottomless beat"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695204&streamencoding=mp31", 
+            "name": "at the crack of dawn"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695205&streamencoding=mp31", 
+            "name": "O"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695206&streamencoding=mp31", 
+            "name": "serious"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695207&streamencoding=mp31", 
+            "name": "play"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695208&streamencoding=mp31", 
+            "name": "belongs to you"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695209&streamencoding=mp31", 
+            "name": "news"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695211&streamencoding=mp31", 
+            "name": "my style (remix)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695212&streamencoding=mp31", 
+            "name": "just wanna love you"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=695213&streamencoding=mp31", 
+            "name": "bonus track - the art of war"
+        }
+    ], 
+    "release": "2010", 
+    "id": "81050"
+}

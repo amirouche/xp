@@ -1,0 +1,54 @@
+{
+    "name": "UVN", 
+    "artist": "BC13", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=8967&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91651&streamencoding=mp31", 
+            "name": "1_UVN"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91652&streamencoding=mp31", 
+            "name": "2_Vengence"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91653&streamencoding=mp31", 
+            "name": "3_Believe_in_me"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91654&streamencoding=mp31", 
+            "name": "4_Can't_Help_It"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91655&streamencoding=mp31", 
+            "name": "5_I_Stand_Alone"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91656&streamencoding=mp31", 
+            "name": "6_Kyoto_Song"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91657&streamencoding=mp31", 
+            "name": "7_Modern_Life_221"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91658&streamencoding=mp31", 
+            "name": "8_Underground_404"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=91650&streamencoding=mp31", 
+            "name": "9_Gun_Boy"
+        }
+    ], 
+    "release": "2007", 
+    "id": "8967"
+}

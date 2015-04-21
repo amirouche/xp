@@ -1,0 +1,49 @@
+{
+    "name": "Edward", 
+    "artist": "Noctiflora", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=71446&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617244&streamencoding=mp31", 
+            "name": "Intro Edward"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617245&streamencoding=mp31", 
+            "name": "Wallflowers"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617246&streamencoding=mp31", 
+            "name": "Violet"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617247&streamencoding=mp31", 
+            "name": "Magnolia"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617249&streamencoding=mp31", 
+            "name": "Scared Melody"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617250&streamencoding=mp31", 
+            "name": "Ostilit\u00e1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617251&streamencoding=mp31", 
+            "name": "D.N.A."
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=617252&streamencoding=mp31", 
+            "name": "Roquentin"
+        }
+    ], 
+    "release": "2010", 
+    "id": "71446"
+}

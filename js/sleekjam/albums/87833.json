@@ -1,0 +1,54 @@
+{
+    "name": "2005 *Silence* (feat IDDI)", 
+    "artist": "Sinestesia", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87833&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750787&streamencoding=mp31", 
+            "name": "TaT SaT"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750782&streamencoding=mp31", 
+            "name": "Snow"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750786&streamencoding=mp31", 
+            "name": "Sub Sun"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750784&streamencoding=mp31", 
+            "name": "INmental"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750783&streamencoding=mp31", 
+            "name": "CaTsilence"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750788&streamencoding=mp31", 
+            "name": "The Mirror"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750781&streamencoding=mp31", 
+            "name": "Rain"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750785&streamencoding=mp31", 
+            "name": "Runitar"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=750789&streamencoding=mp31", 
+            "name": "Ho4b_bonus "
+        }
+    ], 
+    "release": "2011", 
+    "id": "87833"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "\u305d\u308c\u306f\u6e1b\u5c11\u306e\u4e16\u754c\u3067\u3042\u308b\u304b\u3002", 
+    "artist": "Midoriiro", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24720&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168476&streamencoding=mp31", 
+            "name": "\u6b7b\u795e"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168483&streamencoding=mp31", 
+            "name": "\u7167\u3089\u3059"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168485&streamencoding=mp31", 
+            "name": "\u5bc2\u3057\u3044"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=168486&streamencoding=mp31", 
+            "name": "\u7537\u306e\u706b"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24720"
+}

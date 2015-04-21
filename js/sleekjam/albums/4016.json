@@ -1,0 +1,24 @@
+{
+    "name": "LATERAL SEX DIRECTION", 
+    "artist": "FONKADELIK", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=4016&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=32256&streamencoding=mp31", 
+            "name": "J'AI ARRET\u00c9 LA BLONDE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=32257&streamencoding=mp31", 
+            "name": "J'AIME (fonk)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=32261&streamencoding=mp31", 
+            "name": "L'AMOUR"
+        }
+    ], 
+    "release": "2007", 
+    "id": "4016"
+}

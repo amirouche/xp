@@ -1,0 +1,74 @@
+{
+    "name": "Blindfold", 
+    "artist": "Skunk Puppet", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123813&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051184&streamencoding=mp31", 
+            "name": "Hellride"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051181&streamencoding=mp31", 
+            "name": "My Dinner with Azathoth"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051185&streamencoding=mp31", 
+            "name": "No Tongue"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051180&streamencoding=mp31", 
+            "name": "The Unconcious Balloonist"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051179&streamencoding=mp31", 
+            "name": "Tractor Pull"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051186&streamencoding=mp31", 
+            "name": "Where Horns are Born"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051187&streamencoding=mp31", 
+            "name": "Cthulhu Blues"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051188&streamencoding=mp31", 
+            "name": "Death and the Loudspeaker"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051189&streamencoding=mp31", 
+            "name": "April in Barstow"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051190&streamencoding=mp31", 
+            "name": "Dancing Lunch"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051178&streamencoding=mp31", 
+            "name": "Harp of Heaven"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051182&streamencoding=mp31", 
+            "name": "An Ancient Etiquette"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1051183&streamencoding=mp31", 
+            "name": "Save the Last Dance for Shiva"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123813"
+}

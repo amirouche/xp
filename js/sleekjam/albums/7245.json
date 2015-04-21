@@ -1,0 +1,64 @@
+{
+    "name": "So Many Songs", 
+    "artist": "Jaimina Johnston", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7245&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79450&streamencoding=mp31", 
+            "name": "Uno queriendo ser dos"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79451&streamencoding=mp31", 
+            "name": "Este es el dia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79452&streamencoding=mp31", 
+            "name": "All I ask of you"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79453&streamencoding=mp31", 
+            "name": "Centro de gravedad permanente"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79454&streamencoding=mp31", 
+            "name": "Doce presen\u00e7a"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79455&streamencoding=mp31", 
+            "name": "Rosas"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79456&streamencoding=mp31", 
+            "name": "Bogoroditse dievo"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79457&streamencoding=mp31", 
+            "name": "When you get caught"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79458&streamencoding=mp31", 
+            "name": "Millon de amigos"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79459&streamencoding=mp31", 
+            "name": "Bachata rosa"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=79460&streamencoding=mp31", 
+            "name": "A song for you"
+        }
+    ], 
+    "release": "2007", 
+    "id": "7245"
+}

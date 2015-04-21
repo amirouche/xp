@@ -1,0 +1,84 @@
+{
+    "name": "Limits", 
+    "artist": "Funny Death", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116686&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991953&streamencoding=mp31", 
+            "name": "[Premise][Promise]"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991944&streamencoding=mp31", 
+            "name": "Transition"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991945&streamencoding=mp31", 
+            "name": "Place & Space - Mr. Switch & The Witch"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991946&streamencoding=mp31", 
+            "name": "Too Many Dreams in One Kid"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991947&streamencoding=mp31", 
+            "name": "First Love"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991948&streamencoding=mp31", 
+            "name": "All That I've Tried"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991949&streamencoding=mp31", 
+            "name": "My Stupid Friend"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991950&streamencoding=mp31", 
+            "name": "Father Never Talks"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991951&streamencoding=mp31", 
+            "name": "UUUU"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991952&streamencoding=mp31", 
+            "name": "Le Gamin"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991954&streamencoding=mp31", 
+            "name": "I Don't Need a Fiction"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991955&streamencoding=mp31", 
+            "name": "Ghost Town"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991956&streamencoding=mp31", 
+            "name": "I Died So Listen"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991957&streamencoding=mp31", 
+            "name": "Space Burial"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=991958&streamencoding=mp31", 
+            "name": "Shyness"
+        }
+    ], 
+    "release": "2012", 
+    "id": "116686"
+}

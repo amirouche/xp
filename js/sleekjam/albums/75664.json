@@ -1,0 +1,69 @@
+{
+    "name": "Emerson Antoniacomi", 
+    "artist": "Emerson Antoniacomi", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75664&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653227&streamencoding=mp31", 
+            "name": "Lixo Recicl\u00e1vel"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653253&streamencoding=mp31", 
+            "name": "Atualmente"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653254&streamencoding=mp31", 
+            "name": "Quarto Escuro"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653229&streamencoding=mp31", 
+            "name": "Desconhecido"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653258&streamencoding=mp31", 
+            "name": "Cavalos Na Chuva"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653256&streamencoding=mp31", 
+            "name": "Vazio Profundo"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653247&streamencoding=mp31", 
+            "name": "Flutuante"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653259&streamencoding=mp31", 
+            "name": "Mestre Frank"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653246&streamencoding=mp31", 
+            "name": "Falta de sorte"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653252&streamencoding=mp31", 
+            "name": "Abaixo de Zero"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653226&streamencoding=mp31", 
+            "name": "Naja"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=653255&streamencoding=mp31", 
+            "name": "No final"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75664"
+}

@@ -1,0 +1,114 @@
+{
+    "name": "CHAABIMAROC", 
+    "artist": "ILOVE MAROC", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=94964&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=808488&streamencoding=mp31", 
+            "name": "DAOUDI SI LFEQIHE"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812960&streamencoding=mp31", 
+            "name": "ILA JATE FIK TAHADE MAYAQAL 3LIK"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810752&streamencoding=mp31", 
+            "name": "SIDI AMARA"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812172&streamencoding=mp31", 
+            "name": "DIRI MLIHA"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812173&streamencoding=mp31", 
+            "name": "KARAB"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812190&streamencoding=mp31", 
+            "name": "MAJNOUNA BIK"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812174&streamencoding=mp31", 
+            "name": "BAGHA NACHTAH ALA KAYTO"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810641&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811773&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811086&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810802&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810360&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810410&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810434&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810458&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810487&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=810705&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=811056&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812176&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=812187&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=813025&streamencoding=mp31", 
+            "name": "CHAABI MAROC"
+        }
+    ], 
+    "release": "2011", 
+    "id": "94964"
+}

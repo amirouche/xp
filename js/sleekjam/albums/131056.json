@@ -1,0 +1,39 @@
+{
+    "name": "An Siansa h\u00c9ireann", 
+    "artist": "Dee Yan-Key", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131056&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098645&streamencoding=mp31", 
+            "name": "An Samhradh"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098646&streamencoding=mp31", 
+            "name": "An Fh\u00f3mhair"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098647&streamencoding=mp31", 
+            "name": "An Earraigh"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098648&streamencoding=mp31", 
+            "name": "I. Allegro"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098650&streamencoding=mp31", 
+            "name": "II. Adagio"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1098649&streamencoding=mp31", 
+            "name": "III. Vivace"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131056"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "PQR", 
+    "artist": "Elg", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=101669&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867305&streamencoding=mp31", 
+            "name": "The_First_Day"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=867306&streamencoding=mp31", 
+            "name": "Tada_Dadadidum"
+        }
+    ], 
+    "release": "2011", 
+    "id": "101669"
+}

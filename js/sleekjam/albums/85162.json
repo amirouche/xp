@@ -1,0 +1,64 @@
+{
+    "name": "Salvation", 
+    "artist": "Mess", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=85162&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728572&streamencoding=mp31", 
+            "name": "Addiction intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728571&streamencoding=mp31", 
+            "name": "Noock and crannies blues"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728576&streamencoding=mp31", 
+            "name": "Waster"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728575&streamencoding=mp31", 
+            "name": "Mr. Big Bugs office"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728577&streamencoding=mp31", 
+            "name": "Mess Rock'n'Roll"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728570&streamencoding=mp31", 
+            "name": "Messex"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728569&streamencoding=mp31", 
+            "name": "Broken mirror (Mess)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728574&streamencoding=mp31", 
+            "name": "Me & I"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728579&streamencoding=mp31", 
+            "name": "Useless woman (live)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728578&streamencoding=mp31", 
+            "name": "She'll do the same (live)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=728573&streamencoding=mp31", 
+            "name": "Vida y suerte (live)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "85162"
+}

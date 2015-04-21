@@ -1,0 +1,109 @@
+{
+    "name": "Findet den Pinguink\u00f6nig", 
+    "artist": "radjKarl", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55860&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=470386&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=470394&streamencoding=mp31", 
+            "name": "Der Brief"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=470415&streamencoding=mp31", 
+            "name": "Etwas ist faul"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=470419&streamencoding=mp31", 
+            "name": "Richtung Norden"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472582&streamencoding=mp31", 
+            "name": "Zum Plan"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472613&streamencoding=mp31", 
+            "name": "Ein merkw\u00fcrdiges Volk"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472628&streamencoding=mp31", 
+            "name": "Heimw\u00e4rts"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472652&streamencoding=mp31", 
+            "name": "Ins Moor"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472656&streamencoding=mp31", 
+            "name": "Sturm"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472665&streamencoding=mp31", 
+            "name": "EXTRA 1: All die kleinen Dinge"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472667&streamencoding=mp31", 
+            "name": "EXTRA 2: Reisefieber"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472671&streamencoding=mp31", 
+            "name": " EXTRA 3: Wie ist der Weg"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472674&streamencoding=mp31", 
+            "name": "EXTRA 4: Blue"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472675&streamencoding=mp31", 
+            "name": "EXTRA 5: Die Schatten"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472677&streamencoding=mp31", 
+            "name": "EXTRA 6: Abschlusslied"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472678&streamencoding=mp31", 
+            "name": "EXTRA 7: vier"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472682&streamencoding=mp31", 
+            "name": "EXTRA 8: sechs"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472683&streamencoding=mp31", 
+            "name": "EXTRA 9: acht"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472685&streamencoding=mp31", 
+            "name": "EXTRA 10: neun"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=472702&streamencoding=mp31", 
+            "name": "EXTRA 11: elf"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55860"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Ese vientecito y esos ruidos de mi boca", 
+    "artist": "Antonio Leal Esp\u00edn", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=123213&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1045928&streamencoding=mp31", 
+            "name": "Ese vientecito y esos ruidos de mi boca"
+        }
+    ], 
+    "release": "2013", 
+    "id": "123213"
+}

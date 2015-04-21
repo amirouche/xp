@@ -1,0 +1,19 @@
+{
+    "name": "Toi", 
+    "artist": "RV", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=15901&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=118241&streamencoding=mp31", 
+            "name": "rv_toi"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=118246&streamencoding=mp31", 
+            "name": "rv_rendez_vous"
+        }
+    ], 
+    "release": "2007", 
+    "id": "15901"
+}

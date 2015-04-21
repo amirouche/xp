@@ -1,0 +1,24 @@
+{
+    "name": "Bad Boys", 
+    "artist": "Sinners Hard Rock Band", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=104388&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887674&streamencoding=mp31", 
+            "name": "Bad boys"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887676&streamencoding=mp31", 
+            "name": "Catwoman"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=887675&streamencoding=mp31", 
+            "name": "Meat Eater"
+        }
+    ], 
+    "release": "2011", 
+    "id": "104388"
+}

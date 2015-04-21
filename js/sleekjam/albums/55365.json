@@ -1,0 +1,169 @@
+{
+    "name": "Encore Live", 
+    "artist": "A STAGE KINDLY", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55365&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466298&streamencoding=mp31", 
+            "name": "I Can Sing - Tales of Tinseltown - Paul Katz and Michael Colby (Teresa De Gennaro)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466316&streamencoding=mp31", 
+            "name": "How Do You Make Magic? - Mrs McThing - Jack Urbont and Michael Colby (Scott Armstrong)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466309&streamencoding=mp31", 
+            "name": "Lana Laney - Quel Fromage - Peter Milrose and Michael Colby (Lewis Greenslade)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466315&streamencoding=mp31", 
+            "name": "Upon The Table - The Charmed Life - Michael Gordon Shapiro (Elise Bowd)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466304&streamencoding=mp31", 
+            "name": "When You're In Love - Ballet Russes - David Reiser (Nicola Henderson)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466327&streamencoding=mp31", 
+            "name": "Marry Me - The Company of Women - Noel Katz (Teresa De Gennaro and Scott Armstrong)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466322&streamencoding=mp31", 
+            "name": "Angel Delight - Turkish Delight the Opera - Giles Howe and Katy Lipson (Lewis Greenslade)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466325&streamencoding=mp31", 
+            "name": "Do You Remember? - Turkish Delight the Opera - Giles Howe and Katy Lipson (Giles Howe and Katy Lipson)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466314&streamencoding=mp31", 
+            "name": "Inside Jane's Head - B.O.A.T.S - Christopher J. Orton and Bob Gould - (Elise Bowd)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466307&streamencoding=mp31", 
+            "name": "Be There - Quel Fromage - Steven Silverstein and Michael Colby (Scott Armstrong)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466329&streamencoding=mp31", 
+            "name": "The Lovliest Child In The World - Mrs McThing - Jack Urbont and Michael Colby (Nicola Henderson)"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466313&streamencoding=mp31", 
+            "name": "Face Without a Face - A Weekend of Art Deco - Terry Hicks and Mike Hallet (Teresa De Gennaro)"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466326&streamencoding=mp31", 
+            "name": "When We Were Only Friends - Grace Notes - Christopher J Orton and Bob Gould (Lewis Greenslade)"
+        }, 
+        {
+            "position": 14, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466312&streamencoding=mp31", 
+            "name": "Fluttering - The Christmas Bride - Noel Katz (Elise Bowd)"
+        }, 
+        {
+            "position": 15, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466301&streamencoding=mp31", 
+            "name": "The Neon Lights - Mind The Gap - Giles Howe (Nicola Henderson)"
+        }, 
+        {
+            "position": 16, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466320&streamencoding=mp31", 
+            "name": "I See The Train - Soviet Zion - Giles Howe (Lewis Greenslade and company)"
+        }, 
+        {
+            "position": 17, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466300&streamencoding=mp31", 
+            "name": "Slasher Movie - Slay It With Music - Paul Katz and Michael Colby (Scott Armstrong)"
+        }, 
+        {
+            "position": 18, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466324&streamencoding=mp31", 
+            "name": "You and I - Joined At The Heart - Graham Brown and Geoff Meads (Nicola Henderson)"
+        }, 
+        {
+            "position": 19, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466323&streamencoding=mp31", 
+            "name": "Why Did This Happen? - Joined at the Heart - Graham Brown and Geoff Meads (Lewis Greenslade)"
+        }, 
+        {
+            "position": 20, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466318&streamencoding=mp31", 
+            "name": "Every Rose - Mind The Gap - Giles Howe (Giles Howe with Katy Lipson)"
+        }, 
+        {
+            "position": 21, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466306&streamencoding=mp31", 
+            "name": "It's Not Like I Thought It Would Be - All About Love - David Reiser (Elise Bowd)"
+        }, 
+        {
+            "position": 22, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466303&streamencoding=mp31", 
+            "name": "The Clock Slows Down - A Fine Time For Wine - Tony Osborne and Jonathan Posner (Teresa De Gennaro)"
+        }, 
+        {
+            "position": 23, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466321&streamencoding=mp31", 
+            "name": "I Just Have To Be Loved - This Time Next Week - Chrisopher J Orton and Bob Gould (Scott Armstrong and Nicola Henderson)"
+        }, 
+        {
+            "position": 24, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466328&streamencoding=mp31", 
+            "name": "I Know I Love Him - Christopher J Orton - (Teresa De Gennaro, ELise Bowd, Nicola Henderson)"
+        }, 
+        {
+            "position": 25, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466317&streamencoding=mp31", 
+            "name": "Revelation - Ballet Russes - David Reiser (Scott Armstrong)"
+        }, 
+        {
+            "position": 26, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466319&streamencoding=mp31", 
+            "name": "Now That He Is Gone - All About Love - David Reiser (Teresa De Gennaro)"
+        }, 
+        {
+            "position": 27, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466310&streamencoding=mp31", 
+            "name": "It Doesnt Mean A Thing - Katy Lipson"
+        }, 
+        {
+            "position": 28, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466305&streamencoding=mp31", 
+            "name": "You're There When I Need You - Slay It With Music - Paul Katz and Michael Colby (Giles Howe and Katy Lipson)"
+        }, 
+        {
+            "position": 29, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466299&streamencoding=mp31", 
+            "name": "Interested Introvert - Macho Manly Men - Michael Gordon Shapiro (Lewis Greenslade and company)"
+        }, 
+        {
+            "position": 30, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466311&streamencoding=mp31", 
+            "name": "A Tenor, A Soprano - Murder at the Savoy - Noel Katz (Scott Armstrong and Teresa De Gennaro)"
+        }, 
+        {
+            "position": 31, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466302&streamencoding=mp31", 
+            "name": "My Chiropractor's Hands - Spilt Milk - Noel Katz (Elise Bowd)"
+        }, 
+        {
+            "position": 32, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=466308&streamencoding=mp31", 
+            "name": "Stars In My Eyes - Tales of Tinseltown - Paul Katz and Michael Colby, arr. Larry Moore (Nicola Henderson, Giles Howe, Katy Lipson, Elise Bowd, Teresa De Gennaro, Scott Armstrong, Lewis Greenslade)"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55365"
+}

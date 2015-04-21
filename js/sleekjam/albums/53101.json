@@ -1,0 +1,14 @@
+{
+    "name": "Zinfonia do mosquito n\u00ba 21", 
+    "artist": "L\u00e9o Lago", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=53101&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=439217&streamencoding=mp31", 
+            "name": "Zinfonia do mosquito n 21"
+        }
+    ], 
+    "release": "2009", 
+    "id": "53101"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "EXPERIENCIA II", 
+    "artist": "ANDREPERCEBOM II", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54121&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451663&streamencoding=mp31", 
+            "name": "andrepercebom - Rock In Line"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451696&streamencoding=mp31", 
+            "name": "andrepercebom - ALFA-ART-ROCK@"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451697&streamencoding=mp31", 
+            "name": "andrepercebom - ANDREPERCEBOM Rock Choros"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451709&streamencoding=mp31", 
+            "name": "andrepercebom - O GUITARRISTA X O BATERISTA"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451710&streamencoding=mp31", 
+            "name": "andrepercebom - Experiencia"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451711&streamencoding=mp31", 
+            "name": "andrepercebom - ROCK POWER"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451714&streamencoding=mp31", 
+            "name": "andrepercebom - ART-ROCK-BLUE"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451716&streamencoding=mp31", 
+            "name": "andrepercebom - THE TRES"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=451717&streamencoding=mp31", 
+            "name": "andrepercebom - LITTLEBOY"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54121"
+}

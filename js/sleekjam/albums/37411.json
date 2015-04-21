@@ -1,0 +1,19 @@
+{
+    "name": "Mear of  Darkness EP", 
+    "artist": "Mear Of Darkness", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=37411&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261623&streamencoding=mp31", 
+            "name": "Tell me Why"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=261622&streamencoding=mp31", 
+            "name": "Dark Anthem"
+        }
+    ], 
+    "release": "2008", 
+    "id": "37411"
+}

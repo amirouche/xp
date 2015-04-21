@@ -1,0 +1,59 @@
+{
+    "name": "History", 
+    "artist": "MB and Friends", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78272&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674386&streamencoding=mp31", 
+            "name": "Aschenbecher "
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674387&streamencoding=mp31", 
+            "name": "Rock it "
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674388&streamencoding=mp31", 
+            "name": "MB and Franky Rebel -"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674389&streamencoding=mp31", 
+            "name": "Loving you "
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674390&streamencoding=mp31", 
+            "name": "Onyx1   "
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674391&streamencoding=mp31", 
+            "name": "is not here "
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674417&streamencoding=mp31", 
+            "name": "Nachhause          "
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674418&streamencoding=mp31", 
+            "name": "Falling  love with you  "
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674428&streamencoding=mp31", 
+            "name": "Lock up "
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=674429&streamencoding=mp31", 
+            "name": "Onyx   "
+        }
+    ], 
+    "release": "2010", 
+    "id": "78272"
+}

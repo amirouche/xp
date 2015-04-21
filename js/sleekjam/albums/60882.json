@@ -1,0 +1,29 @@
+{
+    "name": "Indian Instrumental Vol3- Robert James on Hawaiian Guitar", 
+    "artist": "Robert James", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=60882&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=520965&streamencoding=mp31", 
+            "name": "intro Pathar Ke Sanam - Robert James on Hawaiian Guitar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=520966&streamencoding=mp31", 
+            "name": "Pathar Ke Sanam - Robert James on Hawaiian Guitar"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=520983&streamencoding=mp31", 
+            "name": "Intro Jaane Kahan Robert James on Hawaiian Guitar"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=520990&streamencoding=mp31", 
+            "name": "jaane kahan Robert James on Hawaiian Guitar"
+        }
+    ], 
+    "release": "2010", 
+    "id": "60882"
+}

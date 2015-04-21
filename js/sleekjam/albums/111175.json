@@ -1,0 +1,59 @@
+{
+    "name": "Proxima Centauri II", 
+    "artist": "Lobo Loco", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111175&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946366&streamencoding=mp31", 
+            "name": "Oortsche Wolke"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946374&streamencoding=mp31", 
+            "name": "Der Planet Antonia"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946373&streamencoding=mp31", 
+            "name": "Gasriese Zeta II"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946372&streamencoding=mp31", 
+            "name": "Notlandung Terra Nova"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946371&streamencoding=mp31", 
+            "name": "Stadt der Geisire"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946370&streamencoding=mp31", 
+            "name": "Der Abschied"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946368&streamencoding=mp31", 
+            "name": "Tanz des gelben Elefants"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946369&streamencoding=mp31", 
+            "name": "Ueberraschung aus der Parallelwelt"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946365&streamencoding=mp31", 
+            "name": "Dub Planet"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=946367&streamencoding=mp31", 
+            "name": "Ruecksturz zur Erde"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111175"
+}

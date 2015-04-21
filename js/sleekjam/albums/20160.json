@@ -1,0 +1,59 @@
+{
+    "name": "05 En Chap et en son", 
+    "artist": "Grego Mondo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20160&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141066&streamencoding=mp31", 
+            "name": "Dubby music box"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141067&streamencoding=mp31", 
+            "name": "la boite \u00e0 Pont"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141068&streamencoding=mp31", 
+            "name": "Bone in the pelouse"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141073&streamencoding=mp31", 
+            "name": "Atoyboxav"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141075&streamencoding=mp31", 
+            "name": "Enfin du Tube"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141078&streamencoding=mp31", 
+            "name": "Impro part 1"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141088&streamencoding=mp31", 
+            "name": "Impro part 2"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141089&streamencoding=mp31", 
+            "name": "Bo\u00eete \u00e0 Roufi"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141095&streamencoding=mp31", 
+            "name": "09 09 bhand clap sht"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=141096&streamencoding=mp31", 
+            "name": "05 03 24 Boites"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20160"
+}

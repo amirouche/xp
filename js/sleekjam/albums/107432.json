@@ -1,0 +1,59 @@
+{
+    "name": "Rock 'n Roll & a bit of Soul", 
+    "artist": "Traffic Jam", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107432&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908383&streamencoding=mp31", 
+            "name": "Prawn Crackers"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908391&streamencoding=mp31", 
+            "name": "LED"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908390&streamencoding=mp31", 
+            "name": "Pineaple EXP"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908394&streamencoding=mp31", 
+            "name": "La Xara Groove"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908388&streamencoding=mp31", 
+            "name": "Monkey Republic"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908387&streamencoding=mp31", 
+            "name": "Slide"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908386&streamencoding=mp31", 
+            "name": "Little Miss Sunshine"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908385&streamencoding=mp31", 
+            "name": "Instrumental Jam"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908384&streamencoding=mp31", 
+            "name": "Crazy Horse"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908382&streamencoding=mp31", 
+            "name": "A McFly Day [Bonus Track]"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107432"
+}

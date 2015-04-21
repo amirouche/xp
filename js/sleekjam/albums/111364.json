@@ -1,0 +1,59 @@
+{
+    "name": "The Pearls", 
+    "artist": "Jimi Sobara", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=111364&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947780&streamencoding=mp31", 
+            "name": "View from Space"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947784&streamencoding=mp31", 
+            "name": "Memories of Mind"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947782&streamencoding=mp31", 
+            "name": "Sunshine"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947783&streamencoding=mp31", 
+            "name": "One"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947781&streamencoding=mp31", 
+            "name": "Trembling"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947788&streamencoding=mp31", 
+            "name": "Empty Room"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947786&streamencoding=mp31", 
+            "name": "In the body of the moon"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947787&streamencoding=mp31", 
+            "name": "Fly"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947785&streamencoding=mp31", 
+            "name": "Locking"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=947789&streamencoding=mp31", 
+            "name": "East of Paradise"
+        }
+    ], 
+    "release": "2012", 
+    "id": "111364"
+}

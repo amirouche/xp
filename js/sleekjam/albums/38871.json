@@ -1,0 +1,34 @@
+{
+    "name": "Roghi dei Libri", 
+    "artist": "Lorre", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=38871&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275858&streamencoding=mp31", 
+            "name": "The mother of Lovers"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275859&streamencoding=mp31", 
+            "name": "Lost in a pill of modern love"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275860&streamencoding=mp31", 
+            "name": "Libertine sister"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275857&streamencoding=mp31", 
+            "name": "We are complete failures"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=275861&streamencoding=mp31", 
+            "name": "The boy in the grey"
+        }
+    ], 
+    "release": "2009", 
+    "id": "38871"
+}

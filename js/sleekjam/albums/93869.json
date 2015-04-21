@@ -1,0 +1,54 @@
+{
+    "name": "The Substance Affair", 
+    "artist": "Anitek", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=93869&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802181&streamencoding=mp31", 
+            "name": "Tale Of The Elegance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802175&streamencoding=mp31", 
+            "name": "First Contact"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802178&streamencoding=mp31", 
+            "name": "East Rain"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802184&streamencoding=mp31", 
+            "name": "The Better Kids"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802177&streamencoding=mp31", 
+            "name": "Supervisor Crew"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802180&streamencoding=mp31", 
+            "name": "Practical Use {feat. Evan Straley}"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802176&streamencoding=mp31", 
+            "name": "Sleepless Nights"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802183&streamencoding=mp31", 
+            "name": "Visa Race"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=802179&streamencoding=mp31", 
+            "name": "Waiting Process"
+        }
+    ], 
+    "release": "2011", 
+    "id": "93869"
+}

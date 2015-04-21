@@ -1,0 +1,29 @@
+{
+    "name": "Mais kes ke c", 
+    "artist": "ADNH", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=7652&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82899&streamencoding=mp31", 
+            "name": "Canelle"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82900&streamencoding=mp31", 
+            "name": "Mais kes ke c"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82901&streamencoding=mp31", 
+            "name": "Jah"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=82902&streamencoding=mp31", 
+            "name": "Ste C\u00e9cile"
+        }
+    ], 
+    "release": "2009", 
+    "id": "7652"
+}

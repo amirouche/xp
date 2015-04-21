@@ -1,0 +1,29 @@
+{
+    "name": "In the dark", 
+    "artist": "Weightless", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=63945&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=515292&streamencoding=mp31", 
+            "name": "In the Dark"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=515302&streamencoding=mp31", 
+            "name": "Storm"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=515301&streamencoding=mp31", 
+            "name": "Liquidice"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=515300&streamencoding=mp31", 
+            "name": "Teck Teck"
+        }
+    ], 
+    "release": "2010", 
+    "id": "63945"
+}

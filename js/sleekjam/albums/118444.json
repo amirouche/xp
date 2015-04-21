@@ -1,0 +1,64 @@
+{
+    "name": "La Calle Encendida", 
+    "artist": "Falsa Monea", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118444&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005890&streamencoding=mp31", 
+            "name": "01 falsa monea - INTRO"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005887&streamencoding=mp31", 
+            "name": "02 falsa monea - EXAGERAO"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005891&streamencoding=mp31", 
+            "name": "03 falsa monea - EL GOLPE"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005892&streamencoding=mp31", 
+            "name": "04 falsa monea - LA CALLE ENCENDIDA"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005893&streamencoding=mp31", 
+            "name": "05 falsa monea - CHANELATELO"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005894&streamencoding=mp31", 
+            "name": "06 falsa monea - MIRA COMO SUENA"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005895&streamencoding=mp31", 
+            "name": "07 falsa monea - FIESTA FLAMENCA IN DA FUNK"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005896&streamencoding=mp31", 
+            "name": "08 falsa monea - TIO NACARINO"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005886&streamencoding=mp31", 
+            "name": "09 falsa monea - LA RAMITA"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005888&streamencoding=mp31", 
+            "name": "10 falsa monea - TODO HORTERA"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1005889&streamencoding=mp31", 
+            "name": "11 falsa monea - MI ABUELA DICE"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118444"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Brainsick World", 
+    "artist": "Ostenvegr", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=87655&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749621&streamencoding=mp31", 
+            "name": "The Cliff Drops Into The Nothingness"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749629&streamencoding=mp31", 
+            "name": "Brainsick World"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749637&streamencoding=mp31", 
+            "name": "The Man Who Believed To Be Free"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=749748&streamencoding=mp31", 
+            "name": "Madness Dawn (raw ambient black metal)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "87655"
+}

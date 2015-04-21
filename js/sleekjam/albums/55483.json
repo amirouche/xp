@@ -1,0 +1,44 @@
+{
+    "name": "first contact (1995)", 
+    "artist": "b.e.s. feat. little devil", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=55483&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467924&streamencoding=mp31", 
+            "name": "Intro '95"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467925&streamencoding=mp31", 
+            "name": "Track One '95"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467923&streamencoding=mp31", 
+            "name": "Track Two '95"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467920&streamencoding=mp31", 
+            "name": "Track Three '95"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467919&streamencoding=mp31", 
+            "name": "Track Four '95"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467921&streamencoding=mp31", 
+            "name": "Track Five '95"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=467922&streamencoding=mp31", 
+            "name": "Outro '95"
+        }
+    ], 
+    "release": "2009", 
+    "id": "55483"
+}

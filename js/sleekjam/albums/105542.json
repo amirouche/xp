@@ -1,0 +1,19 @@
+{
+    "name": "Dying Sun", 
+    "artist": "Funny Death", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=105542&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=896985&streamencoding=mp31", 
+            "name": "Moon Over Neat Abstraction"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=896952&streamencoding=mp31", 
+            "name": "Sun Is Dying"
+        }
+    ], 
+    "release": "2012", 
+    "id": "105542"
+}

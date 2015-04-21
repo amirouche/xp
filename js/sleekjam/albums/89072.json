@@ -1,0 +1,19 @@
+{
+    "name": "Un Nouveau Monde", 
+    "artist": "Anckorage", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=89072&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=761399&streamencoding=mp31", 
+            "name": "Noldor"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=761400&streamencoding=mp31", 
+            "name": "Harp of sorts"
+        }
+    ], 
+    "release": "2011", 
+    "id": "89072"
+}

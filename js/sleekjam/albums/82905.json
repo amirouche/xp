@@ -1,0 +1,44 @@
+{
+    "name": "Assembly", 
+    "artist": "Eftos!rx", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=82905&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710461&streamencoding=mp31", 
+            "name": "Transitions (Op. ER08 1.3)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710465&streamencoding=mp31", 
+            "name": "Hypnotic Breakdown (Op. ER10 2.1)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710462&streamencoding=mp31", 
+            "name": "Space of Chaos (Op. ER02 3.5)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710459&streamencoding=mp31", 
+            "name": "Enigmatic Soul (Op. ER04 3.6)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710463&streamencoding=mp31", 
+            "name": "Hovering Thru (Op. ER03 3.2)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710460&streamencoding=mp31", 
+            "name": "Without you (Op. ER05 3.1)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=710464&streamencoding=mp31", 
+            "name": "Picture of her (Op. ER12 2.9)"
+        }
+    ], 
+    "release": "2011", 
+    "id": "82905"
+}

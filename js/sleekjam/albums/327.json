@@ -1,0 +1,44 @@
+{
+    "name": "Nouvelles Shortstories", 
+    "artist": "Manuzik", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=327&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2079&streamencoding=mp31", 
+            "name": "Intro"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2080&streamencoding=mp31", 
+            "name": "FatBackBeat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2081&streamencoding=mp31", 
+            "name": "SurfSurLaPlage"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2082&streamencoding=mp31", 
+            "name": "GoodMood"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2083&streamencoding=mp31", 
+            "name": "TripToJazz"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2084&streamencoding=mp31", 
+            "name": "Yeah, Yeah, Yeah, Yeah"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=2085&streamencoding=mp31", 
+            "name": "Pseudauthentique"
+        }
+    ], 
+    "release": "2005", 
+    "id": "327"
+}

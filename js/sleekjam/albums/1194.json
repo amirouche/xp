@@ -1,0 +1,64 @@
+{
+    "name": "Remember Senegal", 
+    "artist": "AfreecanXpress dkr bluez", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=1194&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=7860&streamencoding=mp31", 
+            "name": "06 Mr President"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=7861&streamencoding=mp31", 
+            "name": "Ce soir c'est Fire"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=7863&streamencoding=mp31", 
+            "name": "Je veux etre libre music by papa sohou"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=7864&streamencoding=mp31", 
+            "name": " fbs fonky bledy style"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=7865&streamencoding=mp31", 
+            "name": " fire and roll"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=7866&streamencoding=mp31", 
+            "name": " gettho actitude"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=7867&streamencoding=mp31", 
+            "name": " give a praise"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=7868&streamencoding=mp31", 
+            "name": " my daughter"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=7870&streamencoding=mp31", 
+            "name": " remember senegal"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=7872&streamencoding=mp31", 
+            "name": " touba"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=7873&streamencoding=mp31", 
+            "name": " tous les massives"
+        }
+    ], 
+    "release": "2006", 
+    "id": "1194"
+}

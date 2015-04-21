@@ -1,0 +1,49 @@
+{
+    "name": "filar", 
+    "artist": "notv", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=51629&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420895&streamencoding=mp31", 
+            "name": "1-aethernet-callingup"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420900&streamencoding=mp31", 
+            "name": "2-groone2"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420902&streamencoding=mp31", 
+            "name": "3-faint late rumbling-newt eh!"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420898&streamencoding=mp31", 
+            "name": "4-difrinzitisimlasounz"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420899&streamencoding=mp31", 
+            "name": "5-brd9"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420896&streamencoding=mp31", 
+            "name": "6-gostling, talk and stuff"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420897&streamencoding=mp31", 
+            "name": "7-timecode-faint late rumbling"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=420901&streamencoding=mp31", 
+            "name": "8-final organic function(Object machine);"
+        }
+    ], 
+    "release": "2009", 
+    "id": "51629"
+}

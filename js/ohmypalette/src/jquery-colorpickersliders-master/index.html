@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>jQuery Color Picker Sliders</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="An advanced responsive color selector with color swatches and support for human perceived lightness. Works in all modern browsers and on touch devices.">
+    <meta name="author" content="István Ujj-Mészáros">
+
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+    <link href="libraries/prettify/prettify.css" rel="stylesheet" type="text/css" media="all">
+    <link href="demo.css" rel="stylesheet" type="text/css" media="all">
+    <link href="jquery-colorpickersliders/jquery.colorpickersliders.css" rel="stylesheet" type="text/css" media="all">
+
+    <script src="libraries/jquery-1.9.0.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="libraries/prettify/prettify.js"></script>
+    <script src="libraries/tinycolor.js"></script>
+    <script src="jquery-colorpickersliders/jquery.colorpickersliders.js"></script>
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <div class="hero-unit">
+        <h1>jQuery Color Picker Sliders<small> with human color perception</small></h1>
+        <a id="link-ghp" class="btn btn-primary" href="https://github.com/istvan-ujjmeszaros/jquery-colorpickersliders" target="_blank"><span class="glyphicon glyphicon-link"></span> Github project page</a>
+        <a id="link-ghdl" href="https://github.com/istvan-ujjmeszaros/jquery-colorpickersliders/archive/master.zip" class="btn btn-primary" title="download"><span class="glyphicon glyphicon-download"></span> Download</a>
+      </div>
+
+      <blockquote>A jQuery plugin that overhauls the classic color pickers and provides users with a whole new way of selecting desired color codes. <small>Softpedia.com</small></blockquote>
+      <p>
+        Do you know the difference between the usual HSL and the human perceived (CIE Lch) sliders?
+      </p>
+
+      <h2>See the difference</h2>
+
+      <p>
+        Use the HSL hue slider, and the human perceived lightness will change a lot between the different hue angles (blue seems to be darker than yellow). Use the CIE hue slider, and the perceived lightness remains much more constant.
+      </p>
+      <span class="demo1"></span>
+      <script>
+        $(".demo1").ColorPickerSliders({
+        flat: true,
+        <!-- color: 'orange', -->
+        order: {
+        cie: 1,
+        <!-- hsl: 2, -->
+        <!-- opacity: 3, -->
+        preview: 4
+        },
+        labels: {
+        cielightness: 'Human perceived lightness',
+        ciechroma: 'CIE Chroma',
+        ciehue: 'CIE Hue'
+        }
+        });
+      </script>
+
+    </div>
+  </body>
+</html>

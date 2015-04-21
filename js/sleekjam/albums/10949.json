@@ -1,0 +1,74 @@
+{
+    "name": "Hypocrisy", 
+    "artist": "Fusz", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=10949&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=99995&streamencoding=mp31", 
+            "name": "01-Scared out"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=99996&streamencoding=mp31", 
+            "name": "02-Dying for"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=99997&streamencoding=mp31", 
+            "name": "03-Drowned"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=99998&streamencoding=mp31", 
+            "name": "04-Gazing at the sun"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=99999&streamencoding=mp31", 
+            "name": "05-Burn your enemy"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100000&streamencoding=mp31", 
+            "name": "06-Down"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100001&streamencoding=mp31", 
+            "name": "07-Anaesthesia"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100002&streamencoding=mp31", 
+            "name": "08-Aristocrap"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100003&streamencoding=mp31", 
+            "name": "09-Teenage passion"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100004&streamencoding=mp31", 
+            "name": "10-Erratic"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100005&streamencoding=mp31", 
+            "name": "11-Starshape"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=100006&streamencoding=mp31", 
+            "name": "13- Slipstream"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=99994&streamencoding=mp31", 
+            "name": "12-Paradox"
+        }
+    ], 
+    "release": "2007", 
+    "id": "10949"
+}

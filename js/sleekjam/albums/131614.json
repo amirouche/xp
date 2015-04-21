@@ -1,0 +1,64 @@
+{
+    "name": "Seelenschmerz", 
+    "artist": "S\u00e5\u00f1a \u00d8lzk\u00e8 G\u00e6\u0161p\u00e4ns", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=131614&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102729&streamencoding=mp31", 
+            "name": "Liebe und Tod (Intro)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102726&streamencoding=mp31", 
+            "name": "Ahoy"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102727&streamencoding=mp31", 
+            "name": "Der Hass"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102728&streamencoding=mp31", 
+            "name": "Die Feier des Wahnsinns"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102724&streamencoding=mp31", 
+            "name": "Nicht schlafen"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102730&streamencoding=mp31", 
+            "name": "Willkommen in die H\u00f6lle"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102731&streamencoding=mp31", 
+            "name": "Ungegenseitige Liebe"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102732&streamencoding=mp31", 
+            "name": "Ich war entt\u00e4uscht"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102733&streamencoding=mp31", 
+            "name": "Keine Ruhe"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102734&streamencoding=mp31", 
+            "name": "Allem ist schei\u00dfegal"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1102725&streamencoding=mp31", 
+            "name": "Dunkle Sinfonie"
+        }
+    ], 
+    "release": "2014", 
+    "id": "131614"
+}

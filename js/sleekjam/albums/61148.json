@@ -1,0 +1,64 @@
+{
+    "name": "KOSMODROMM 1.0", 
+    "artist": "KOSMODROMM", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61148&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523200&streamencoding=mp31", 
+            "name": "Intro 2005"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523201&streamencoding=mp31", 
+            "name": "\u041f\u0443\u0441\u0442\u043e\u0439 \u0413\u043e\u0440\u043e\u0434 (Radio Version)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523202&streamencoding=mp31", 
+            "name": "\u0421\u0442\u0430\u043b\u043a\u0435\u0440 (Orchestral Version)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523203&streamencoding=mp31", 
+            "name": "\u0421\u0442\u0430\u043b\u043a\u0435\u0440 (Album Version)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523204&streamencoding=mp31", 
+            "name": "\u0421\u0442\u0430\u043b\u043a\u0435\u0440 (Live Version)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523205&streamencoding=mp31", 
+            "name": "\u041f\u0443\u0441\u0442\u043e\u0439 \u0413\u043e\u0440\u043e\u0434 (Kosmo-dance Mix)"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523206&streamencoding=mp31", 
+            "name": "\u041f\u0443\u0441\u0442\u043e\u0439 \u0413\u043e\u0440\u043e\u0434 (Autumn Mix)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523207&streamencoding=mp31", 
+            "name": "\u041f\u0443\u0441\u0442\u043e\u0439 \u0413\u043e\u0440\u043e\u0434 (1.0 Version)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523208&streamencoding=mp31", 
+            "name": "\u0421\u0442\u0430\u043b\u043a\u0435\u0440 (Sound Of Silence Mix by ALIEN2064)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523209&streamencoding=mp31", 
+            "name": "\u0421\u0442\u0430\u043b\u043a\u0435\u0440 (Desolate Area Mix by Fractal Decay)"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=523210&streamencoding=mp31", 
+            "name": "\u041d\u043e\u0447\u044c \u0412 \u041f\u0440\u0438\u043f\u044f\u0442\u0438 (Klavir)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "61148"
+}

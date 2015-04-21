@@ -1,0 +1,64 @@
+{
+    "name": "Lavinia Jones - @ngel", 
+    "artist": "Lavinia Jones", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=24391&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166391&streamencoding=mp31", 
+            "name": "Jamais Oubli\u00e9e (feat. Ziad)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166392&streamencoding=mp31", 
+            "name": "@ngel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166393&streamencoding=mp31", 
+            "name": "Lynx"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166394&streamencoding=mp31", 
+            "name": "Recurring Spirals"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166395&streamencoding=mp31", 
+            "name": "Liebesakkord"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166396&streamencoding=mp31", 
+            "name": "Warriors"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166397&streamencoding=mp31", 
+            "name": "Ne-On"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166398&streamencoding=mp31", 
+            "name": "ColourCreativity"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166399&streamencoding=mp31", 
+            "name": "Passport"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166400&streamencoding=mp31", 
+            "name": "Serafime"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=166401&streamencoding=mp31", 
+            "name": "Sire"
+        }
+    ], 
+    "release": "2008", 
+    "id": "24391"
+}

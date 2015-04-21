@@ -1,0 +1,29 @@
+{
+    "name": "Encruzilhada", 
+    "artist": "Guilherme De Marco", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=45882&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=349839&streamencoding=mp31", 
+            "name": "Encruzilhada"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=349846&streamencoding=mp31", 
+            "name": "Retirante"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=349849&streamencoding=mp31", 
+            "name": "Valsa"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=349850&streamencoding=mp31", 
+            "name": "\u00d3rg\u00e3o do Universo"
+        }
+    ], 
+    "release": "2009", 
+    "id": "45882"
+}

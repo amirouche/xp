@@ -1,0 +1,44 @@
+{
+    "name": "Revised & corrected vol.2", 
+    "artist": "Angus", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129683&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087755&streamencoding=mp31", 
+            "name": "PRELUDIO - sax version"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087769&streamencoding=mp31", 
+            "name": "SOTTERRANEI DEL CUORE - electric piano version"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087729&streamencoding=mp31", 
+            "name": "A MENTE SERENA - jazz version"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087746&streamencoding=mp31", 
+            "name": "PICCOLA OASI - jazz guitar version"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087768&streamencoding=mp31", 
+            "name": "SLOW INNUENDO - vibes version"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087792&streamencoding=mp31", 
+            "name": "TALKING MACHINE  - trumpet version"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1087795&streamencoding=mp31", 
+            "name": "THEN AND NOW- vibes version"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129683"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "G8, j'ai rien", 
+    "artist": "MAD IN SKA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=73448&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634715&streamencoding=mp31", 
+            "name": "si la nature _ si la nature"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634714&streamencoding=mp31", 
+            "name": "mad in ska _ mad in ska"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634713&streamencoding=mp31", 
+            "name": "torero _ PisteAudio 01"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=634716&streamencoding=mp31", 
+            "name": "lena _ lena"
+        }
+    ], 
+    "release": "2010", 
+    "id": "73448"
+}

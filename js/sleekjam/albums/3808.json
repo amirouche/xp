@@ -1,0 +1,34 @@
+{
+    "name": "THE NEXT UNKNOW", 
+    "artist": "KAMDER", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=3808&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=30230&streamencoding=mp31", 
+            "name": "the monster.fr"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=30231&streamencoding=mp31", 
+            "name": "ecologikorgan"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=30232&streamencoding=mp31", 
+            "name": "pickpoket"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=30233&streamencoding=mp31", 
+            "name": "triphoprex"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=30234&streamencoding=mp31", 
+            "name": "j'entend nothing"
+        }
+    ], 
+    "release": "2007", 
+    "id": "3808"
+}

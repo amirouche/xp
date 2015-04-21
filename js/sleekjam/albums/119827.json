@@ -1,0 +1,24 @@
+{
+    "name": "Sociedade Arrocheiros de Capote 2 EP", 
+    "artist": "Pijama de Ferro", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=119827&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017597&streamencoding=mp31", 
+            "name": "Luz do Poste (\u00c0s Vezes Nem \u00c9)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017596&streamencoding=mp31", 
+            "name": "As Perip\u00e9cias de Jumon"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1017598&streamencoding=mp31", 
+            "name": "Potruga"
+        }
+    ], 
+    "release": "2013", 
+    "id": "119827"
+}

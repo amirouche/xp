@@ -1,0 +1,14 @@
+{
+    "name": "Angels Voice (single)", 
+    "artist": "Traffic In My Head", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=28602&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=191044&streamencoding=mp31", 
+            "name": "Angels Voice"
+        }
+    ], 
+    "release": "2008", 
+    "id": "28602"
+}

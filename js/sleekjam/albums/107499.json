@@ -1,0 +1,74 @@
+{
+    "name": "The Acedia Project A.D. - remastered", 
+    "artist": "Seal Seven", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=107499&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908928&streamencoding=mp31", 
+            "name": "Pick Me Up"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908918&streamencoding=mp31", 
+            "name": "Battle Song"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908930&streamencoding=mp31", 
+            "name": "My Life as a Squid"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908929&streamencoding=mp31", 
+            "name": "Brother Brother"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908922&streamencoding=mp31", 
+            "name": "Pieces of You"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908921&streamencoding=mp31", 
+            "name": "Untitled&amp;_#23"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908926&streamencoding=mp31", 
+            "name": "Say Hello to New Mexico"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908919&streamencoding=mp31", 
+            "name": "Hooch"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908924&streamencoding=mp31", 
+            "name": "Serendipity"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908925&streamencoding=mp31", 
+            "name": "Hello Jesus"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908927&streamencoding=mp31", 
+            "name": "They Call Me"
+        }, 
+        {
+            "position": 12, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908923&streamencoding=mp31", 
+            "name": "Free Again"
+        }, 
+        {
+            "position": 13, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=908920&streamencoding=mp31", 
+            "name": "Battle Song feat. James T. Houx"
+        }
+    ], 
+    "release": "2012", 
+    "id": "107499"
+}

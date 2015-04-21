@@ -1,0 +1,14 @@
+{
+    "name": "Ukulele Reggae", 
+    "artist": "Akashic Records", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=118544&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1007256&streamencoding=mp31", 
+            "name": "Lighthearted Ukulele Reggae"
+        }
+    ], 
+    "release": "2013", 
+    "id": "118544"
+}

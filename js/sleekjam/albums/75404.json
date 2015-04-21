@@ -1,0 +1,49 @@
+{
+    "name": "Le gnou qui s'imaginait pouvoir infiltrer les z\u00e8bres en toute impunit\u00e9 (et qui s'est fait griller direct)", 
+    "artist": "Les gnous fallacieux", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=75404&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650360&streamencoding=mp31", 
+            "name": "A ma sant\u00e9"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650358&streamencoding=mp31", 
+            "name": "Hymne \u00e0 la paresse"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650362&streamencoding=mp31", 
+            "name": "Instru B-X3012"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650365&streamencoding=mp31", 
+            "name": "Tapatam"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650361&streamencoding=mp31", 
+            "name": "Madame martin (ou les \u00e9lucubrations des petits vieux aigris)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650363&streamencoding=mp31", 
+            "name": "N'importe quoi"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650364&streamencoding=mp31", 
+            "name": "Production hollywoodienne"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=650366&streamencoding=mp31", 
+            "name": "Sa petite vie"
+        }
+    ], 
+    "release": "2010", 
+    "id": "75404"
+}

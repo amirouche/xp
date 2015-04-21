@@ -1,0 +1,19 @@
+{
+    "name": "Breathing Together ( demo2008 )", 
+    "artist": "Jeffo's Dream", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=31869&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217076&streamencoding=mp31", 
+            "name": "autumn_in_london_ok"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=217077&streamencoding=mp31", 
+            "name": "breathing_together_ok"
+        }
+    ], 
+    "release": "2008", 
+    "id": "31869"
+}

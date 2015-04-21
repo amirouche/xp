@@ -1,0 +1,14 @@
+{
+    "name": "Energy Release", 
+    "artist": "LifeBloom", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=54887&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=460119&streamencoding=mp31", 
+            "name": "Lifebloom - Energy release"
+        }
+    ], 
+    "release": "2009", 
+    "id": "54887"
+}

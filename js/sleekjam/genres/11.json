@@ -1,0 +1,26 @@
+{
+    "albums": [
+        {
+            "release": "2013", 
+            "artist": "Tenth Virgo", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120290&imagesize=100", 
+            "id": "120290", 
+            "name": "Tittle-Tattle"
+        }, 
+        {
+            "release": "2012", 
+            "artist": "Adri\u00e1n Alvarado Ram\u00edrez", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=116739&imagesize=100", 
+            "id": "116739", 
+            "name": "Diciembre 2012"
+        }, 
+        {
+            "release": "2009", 
+            "artist": "The Racoons", 
+            "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57420&imagesize=100", 
+            "id": "57420", 
+            "name": "Crazy Wintertime"
+        }
+    ], 
+    "name": "Oldies"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "All Things Whisper", 
+    "artist": "iN2Ni", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=21373&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149055&streamencoding=mp31", 
+            "name": "Slippershell (Kristin Hersh - iN2Ni)"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149056&streamencoding=mp31", 
+            "name": "The Tiger (William Blake - Kristin Hughes - iN2Ni)"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149057&streamencoding=mp31", 
+            "name": "Around Dusk (Kristin Hersh - iN2Ni)"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149058&streamencoding=mp31", 
+            "name": "Shu'ayya II"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149059&streamencoding=mp31", 
+            "name": "Torque (Kristin Hersh - iN2Ni)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149060&streamencoding=mp31", 
+            "name": "L'enfance de l'hu\u00eetre"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149061&streamencoding=mp31", 
+            "name": "All Things Whisper (story of the world) - (Ruggea - iN2Ni)"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149062&streamencoding=mp31", 
+            "name": "Where Earth Meets Sea (a love story) - (Ruggea - iN2Ni)"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149064&streamencoding=mp31", 
+            "name": "Whisper - (Ruggea - iN2Ni)"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149066&streamencoding=mp31", 
+            "name": "Shu'ayya I"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=149067&streamencoding=mp31", 
+            "name": "Freedom (Snowflake - iN2Ni)"
+        }
+    ], 
+    "release": "2008", 
+    "id": "21373"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Hollywood's Losers And Failed", 
+    "artist": "Stellar Art Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=132501&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109259&streamencoding=mp31", 
+            "name": "Snow ft Kara Square"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109261&streamencoding=mp31", 
+            "name": "FDM2 - Building The Future Today ft 4nsic + TheDice"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109256&streamencoding=mp31", 
+            "name": "My Open Heart ft SackJo22"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109257&streamencoding=mp31", 
+            "name": "Perfectly For You (Unreal DM Jazzy Acoustic Mix)"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109258&streamencoding=mp31", 
+            "name": "Showbiz Career Advice Ft JeffSpeed68"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1109260&streamencoding=mp31", 
+            "name": "Big Man likes it in Gilead ft 4nsic"
+        }
+    ], 
+    "release": "2014", 
+    "id": "132501"
+}

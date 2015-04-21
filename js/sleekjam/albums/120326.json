@@ -1,0 +1,29 @@
+{
+    "name": "Marzenia ulotne", 
+    "artist": "Mancy", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=120326&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023402&streamencoding=mp31", 
+            "name": "Powr\u00f3ci\u0107 do miejsc, kt\u00f3rych ju\u017c nie ma"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023401&streamencoding=mp31", 
+            "name": "Spotka\u0107 zn\u00f3w ludzi z minionych lat"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023400&streamencoding=mp31", 
+            "name": "Polecie\u0107 jak ptak, wolnym, w nieznane"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1023403&streamencoding=mp31", 
+            "name": "Zobaczy\u0107 to, co jeszcze przed nami"
+        }
+    ], 
+    "release": "2013", 
+    "id": "120326"
+}

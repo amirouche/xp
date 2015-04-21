@@ -1,0 +1,39 @@
+{
+    "name": "DREAMS OF DANCING DINGO", 
+    "artist": "ZMEIRADUGA ", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=113320&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963823&streamencoding=mp31", 
+            "name": "ZmeiRaduga_Dream sample"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963822&streamencoding=mp31", 
+            "name": "ZmeiRaduga_Laughter of hollow wood"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963821&streamencoding=mp31", 
+            "name": "ZmeiRaduga and Bamboo_Jump in a dust"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963820&streamencoding=mp31", 
+            "name": "ZmeiRaduga and Bamboo_ Lunar doggies"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963819&streamencoding=mp31", 
+            "name": "ZmeiRaduga_PamyatiKota"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=963818&streamencoding=mp31", 
+            "name": "ZmeiRaduga_Indraft"
+        }
+    ], 
+    "release": "2012", 
+    "id": "113320"
+}

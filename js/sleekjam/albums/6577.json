@@ -1,0 +1,34 @@
+{
+    "name": "INSPIRATOR", 
+    "artist": "MontesProject", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=6577&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=74121&streamencoding=mp31", 
+            "name": "Tan Solo Piano"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=74122&streamencoding=mp31", 
+            "name": "Inventando Jazz"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=74123&streamencoding=mp31", 
+            "name": "Mi Catedral Particular"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=74124&streamencoding=mp31", 
+            "name": "El Sue\u00f1o de Mi Guitarra"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=74125&streamencoding=mp31", 
+            "name": "DeepFinger"
+        }
+    ], 
+    "release": "2007", 
+    "id": "6577"
+}

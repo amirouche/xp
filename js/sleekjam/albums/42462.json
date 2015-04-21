@@ -1,0 +1,24 @@
+{
+    "name": "ANDROKA", 
+    "artist": "ALAIN GAUDIN", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=42462&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=313703&streamencoding=mp31", 
+            "name": "ANDROKA"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=313701&streamencoding=mp31", 
+            "name": "DESERT NOIR"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=313699&streamencoding=mp31", 
+            "name": "FIGURINES"
+        }
+    ], 
+    "release": "2009", 
+    "id": "42462"
+}

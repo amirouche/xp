@@ -1,0 +1,59 @@
+{
+    "name": "La forma dell'acqua", 
+    "artist": "Frequency on Border", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=57735&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492437&streamencoding=mp31", 
+            "name": "Isthar"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492442&streamencoding=mp31", 
+            "name": "Promenade"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492444&streamencoding=mp31", 
+            "name": "New spring"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492439&streamencoding=mp31", 
+            "name": "Following the shark line"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492440&streamencoding=mp31", 
+            "name": "Soffice citt\u00e0(Lounge version)"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492443&streamencoding=mp31", 
+            "name": "Uncle pine"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492438&streamencoding=mp31", 
+            "name": "La forma dell'acqua"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492445&streamencoding=mp31", 
+            "name": "Danseur rouge"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492446&streamencoding=mp31", 
+            "name": "Latin pek"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=492441&streamencoding=mp31", 
+            "name": "Barrio Alto"
+        }
+    ], 
+    "release": "2009", 
+    "id": "57735"
+}

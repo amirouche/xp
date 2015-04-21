@@ -1,0 +1,34 @@
+{
+    "name": "The Realm of the Nebulae", 
+    "artist": "Isak Isakov", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=96745&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827382&streamencoding=mp31", 
+            "name": "The Perseids"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827384&streamencoding=mp31", 
+            "name": "The Realm of the Nebulae"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827381&streamencoding=mp31", 
+            "name": "Plankton"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827383&streamencoding=mp31", 
+            "name": "Distant Thunder"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=827385&streamencoding=mp31", 
+            "name": "Deep Field"
+        }
+    ], 
+    "release": "2011", 
+    "id": "96745"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "[EPH082] NCOMFORTABLE - Cold War (Ephedrin7\")", 
+    "artist": "Ephedrina Netlabel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129906&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089933&streamencoding=mp31", 
+            "name": "Ncomfortable - Cold War"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1089934&streamencoding=mp31", 
+            "name": "Ncomfortable - Wake Up"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129906"
+}

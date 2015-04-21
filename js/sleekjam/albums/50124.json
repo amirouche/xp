@@ -1,0 +1,59 @@
+{
+    "name": "Convinced And Perplexed", 
+    "artist": "Immortal Melody", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=50124&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401395&streamencoding=mp31", 
+            "name": "Start to the regret"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401415&streamencoding=mp31", 
+            "name": "The Game of my Life"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401459&streamencoding=mp31", 
+            "name": "Overlap"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401474&streamencoding=mp31", 
+            "name": "Go Back"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401515&streamencoding=mp31", 
+            "name": "Slide In The Regret"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401558&streamencoding=mp31", 
+            "name": "I Love You"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401624&streamencoding=mp31", 
+            "name": "Wrong Dream"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=401726&streamencoding=mp31", 
+            "name": "Apolitical Sound"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402835&streamencoding=mp31", 
+            "name": "Drown In My Crises"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=402836&streamencoding=mp31", 
+            "name": "My Brain's a Mess"
+        }
+    ], 
+    "release": "2009", 
+    "id": "50124"
+}

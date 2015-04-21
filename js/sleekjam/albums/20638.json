@@ -1,0 +1,19 @@
+{
+    "name": "advance Venusianite (2008)", 
+    "artist": "Abstrackt Particule", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20638&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144813&streamencoding=mp31", 
+            "name": "Hematozoaire advance"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=144827&streamencoding=mp31", 
+            "name": "Daughter of Gaya advance"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20638"
+}

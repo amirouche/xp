@@ -1,0 +1,44 @@
+{
+    "name": "Le poison des dieux", 
+    "artist": "DDA", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=20075&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140388&streamencoding=mp31", 
+            "name": "Call my heart"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140415&streamencoding=mp31", 
+            "name": "Damned Dead Angel"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140423&streamencoding=mp31", 
+            "name": "Dans tes yeux"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140424&streamencoding=mp31", 
+            "name": "Je n'y vois rien"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140425&streamencoding=mp31", 
+            "name": "Le Poison des Dieux"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140426&streamencoding=mp31", 
+            "name": "Nobody says no"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=140427&streamencoding=mp31", 
+            "name": "Mamie"
+        }
+    ], 
+    "release": "2008", 
+    "id": "20075"
+}

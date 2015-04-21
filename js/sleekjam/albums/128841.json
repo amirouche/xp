@@ -1,0 +1,14 @@
+{
+    "name": "WHAT U SAY", 
+    "artist": "MARSHALL AQUICCI", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=128841&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1081511&streamencoding=mp31", 
+            "name": "WHAT U SAY"
+        }
+    ], 
+    "release": "2013", 
+    "id": "128841"
+}

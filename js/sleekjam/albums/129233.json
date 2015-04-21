@@ -1,0 +1,39 @@
+{
+    "name": "[EPH078] HASTILY - Wtf Sound", 
+    "artist": "Ephedrina Netlabel", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=129233&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1084770&streamencoding=mp31", 
+            "name": "Boots"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1084771&streamencoding=mp31", 
+            "name": "Jean'"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1084772&streamencoding=mp31", 
+            "name": "Fucking Jacket"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1084773&streamencoding=mp31", 
+            "name": "Hat"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1084774&streamencoding=mp31", 
+            "name": "Fly Killer"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=1084775&streamencoding=mp31", 
+            "name": "Bonus Track - Driver Stress"
+        }
+    ], 
+    "release": "2013", 
+    "id": "129233"
+}

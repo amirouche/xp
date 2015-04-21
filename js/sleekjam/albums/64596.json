@@ -1,0 +1,49 @@
+{
+    "name": "RIFT", 
+    "artist": "The Wars", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=64596&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555601&streamencoding=mp31", 
+            "name": "Oil"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555602&streamencoding=mp31", 
+            "name": "Sequence"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555603&streamencoding=mp31", 
+            "name": "Pacific"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555604&streamencoding=mp31", 
+            "name": "Bran"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555605&streamencoding=mp31", 
+            "name": "Stillbirth"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555606&streamencoding=mp31", 
+            "name": "Rift"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555607&streamencoding=mp31", 
+            "name": "Diet"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=555608&streamencoding=mp31", 
+            "name": "Stillbirth [RMX]"
+        }
+    ], 
+    "release": "2010", 
+    "id": "64596"
+}

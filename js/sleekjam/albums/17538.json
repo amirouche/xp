@@ -1,0 +1,64 @@
+{
+    "name": "Clan of the dark", 
+    "artist": "Bass", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=17538&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125146&streamencoding=mp31", 
+            "name": "01 - Clan of the dark"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125152&streamencoding=mp31", 
+            "name": "02 - Head mad"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125296&streamencoding=mp31", 
+            "name": "03 - Age of living"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125303&streamencoding=mp31", 
+            "name": "04 - Sonar"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125306&streamencoding=mp31", 
+            "name": "05 - My trance"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125311&streamencoding=mp31", 
+            "name": "06 - Oh my god"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125314&streamencoding=mp31", 
+            "name": "07 - Delirium very thin"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125318&streamencoding=mp31", 
+            "name": "08 - Sanctuary"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125327&streamencoding=mp31", 
+            "name": "09 - La cage"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125337&streamencoding=mp31", 
+            "name": "10 - Tribute of cure"
+        }, 
+        {
+            "position": 11, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=125351&streamencoding=mp31", 
+            "name": "11 - The late rock"
+        }
+    ], 
+    "release": "2008", 
+    "id": "17538"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "MAQUETTE LIVE - OLD SONG", 
+    "artist": "Le\u00efdo", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=16733&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120555&streamencoding=mp31", 
+            "name": "Caution"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120556&streamencoding=mp31", 
+            "name": "Passin' Threw"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=120557&streamencoding=mp31", 
+            "name": "Whisper"
+        }
+    ], 
+    "release": "2008", 
+    "id": "16733"
+}

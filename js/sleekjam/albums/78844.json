@@ -1,0 +1,59 @@
+{
+    "name": "X marks the spot", 
+    "artist": "XBloome", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=78844&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678590&streamencoding=mp31", 
+            "name": "Depends on the situation"
+        }, 
+        {
+            "position": 2, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678591&streamencoding=mp31", 
+            "name": "90 is not enough"
+        }, 
+        {
+            "position": 3, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678592&streamencoding=mp31", 
+            "name": "Love over systems"
+        }, 
+        {
+            "position": 4, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678618&streamencoding=mp31", 
+            "name": "Mushroom"
+        }, 
+        {
+            "position": 5, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678619&streamencoding=mp31", 
+            "name": "Keep on"
+        }, 
+        {
+            "position": 6, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678620&streamencoding=mp31", 
+            "name": "Slow motion"
+        }, 
+        {
+            "position": 7, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678641&streamencoding=mp31", 
+            "name": "You and me"
+        }, 
+        {
+            "position": 8, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678642&streamencoding=mp31", 
+            "name": "Tonglen"
+        }, 
+        {
+            "position": 9, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678695&streamencoding=mp31", 
+            "name": "Brea"
+        }, 
+        {
+            "position": 10, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=678701&streamencoding=mp31", 
+            "name": "Happy Rebel (Loleq Remix)"
+        }
+    ], 
+    "release": "2010", 
+    "id": "78844"
+}

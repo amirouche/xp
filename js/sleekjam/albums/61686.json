@@ -1,0 +1,14 @@
+{
+    "name": "The Twilight Zone", 
+    "artist": "Beuxcbunny", 
+    "cover": "http://api.jamendo.com/get2/image/album/redirect/?id=61686&imagesize=400", 
+    "tracks": [
+        {
+            "position": 1, 
+            "mp3": "http://api.jamendo.com/get2/stream/track/redirect/?id=528246&streamencoding=mp31", 
+            "name": "Beuxcbunny -  The Twilight Zone "
+        }
+    ], 
+    "release": "2010", 
+    "id": "61686"
+}
