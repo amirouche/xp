@@ -1,0 +1,208 @@
+.alphascrollselect .wrapper li, .alphascrollselect .scrollbar li {
+    cursor: pointer;
+}
+
+.alphascrollselect .first-letter {
+    margin-top: 10px;
+    padding-top: 10px;
+
+}
+
+.alphascrollselect .first-letter:first-child {
+    border: none;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+
+.alphascrollselect .wrapper li.first-num:before {
+    content: "#";
+}
+
+.alphascrollselect .wrapper li.first-a:before {
+    content: "A";
+}
+
+.alphascrollselect .wrapper li.first-b:before {
+    content: "B";
+}
+
+.alphascrollselect .wrapper li.first-c:before {
+    content: "C";
+}
+
+.alphascrollselect .wrapper li.first-d:before {
+    content: "D";
+}
+
+.alphascrollselect .wrapper li.first-e:before {
+    content: "E";
+}
+
+.alphascrollselect .wrapper li.first-f:before {
+    content: "F";
+}
+
+.alphascrollselect .wrapper li.first-g:before {
+    content: "G";
+}
+.alphascrollselect .wrapper li.first-h:before {
+    content: "H";
+}
+
+.alphascrollselect .wrapper li.first-i:before {
+    content: "I";
+}
+
+.alphascrollselect .wrapper li.first-j:before {
+    content: "J";
+}
+
+.alphascrollselect .wrapper li.first-k:before {
+    content: "K";
+}
+
+.alphascrollselect .wrapper li.first-l:before {
+    content: "L";
+}
+
+.alphascrollselect .wrapper li.first-m:before {
+    content: "M";
+}
+
+.alphascrollselect .wrapper li.first-n:before {
+    content: "N";
+}
+
+.alphascrollselect .wrapper li.first-o:before {
+    content: "O";
+}
+
+.alphascrollselect .wrapper li.first-p:before {
+    content: "P";
+}
+
+.alphascrollselect .wrapper li.first-q:before {
+    content: "Q";
+}
+
+.alphascrollselect .wrapper li.first-r:before {
+    content: "R";
+}
+
+.alphascrollselect .wrapper li.first-s:before {
+    content: "S";
+}
+
+.alphascrollselect .wrapper li.first-t:before {
+    content: "T";
+}
+
+.alphascrollselect .wrapper li.first-u:before {
+    content: "U";
+}
+
+.alphascrollselect .wrapper li.first-v:before {
+    content: "V";
+}
+
+.alphascrollselect .wrapper li.first-w:before {
+    content: "W";
+}
+
+.alphascrollselect .wrapper li.first-x:before {
+    content: "X";
+}
+
+.alphascrollselect .wrapper li.first-y:before {
+    content: "Y";
+}
+
+.alphascrollselect .wrapper li.first-z:before {
+    content: "Z";
+}
+
+
+.alphascrollselect {
+    margin: 0px;
+    padding: 0px;
+
+    height: 100%;
+    width: 100%;
+    overflow-y: hidden;
+    
+    display: flex;
+}
+
+.alphascrollselect .wrapper {
+    flex-grow: 1;
+    padding: 0px;
+    padding-left: 70px;
+    padding-right: 15px;
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.alphascrollselect .wrapper ol,  .alphascrollselect .wrapper ul {
+    list-style: none;
+    margin: 0px;
+    padding: 20px 0px;
+}
+
+.alphascrollselect .wrapper li:hover {
+    font-weight: bold;
+}
+
+
+.alphascrollselect .wrapper li.first-letter:before {
+    position: relative;
+    left: -50px;
+    top: 20px;
+    font-size: 2.0em;
+    float: left;
+    padding: 0;
+    margin: 0;
+    line-height: 0px;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.56);
+}
+
+
+.alphascrollselect .scrollbar {
+    margin: 0px;
+    padding: 0px;
+    line-height: 1em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    list-style: none;
+
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 3px;
+}
+
+.alphascrollselect .scrollbar li
+{
+    text-align: center;
+    border-radius: 3px;
+    transition: background 1s, color 0.5s;
+    line-height: 0px;
+}
+
+.alphascrollselect .scrollbar li:hover {
+    font-weight: bold;
+}
+
+.alphascrollselect .scrollbar .in-view {
+
+    font-weight: bold;
+}
+
+.alphascrollselect .overlay {
+    width: 20px;
+    position: relative;
+    right: 17px;
+    background: rgba(255, 255, 255, 7);
+}
+

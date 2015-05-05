@@ -1,0 +1,21 @@
+ⵣimage{ⵣvar{root}static/branding/reactive-menu/jQuery.reactivemenu.png}{jQuery reactive menu logo}
+
+ⵣname is a javascript jQuery plugin that allows to build navigation menus based on the content of the page. Buy it at ⵣhref{link}{codecanyon}.
+
+ⵣsection{Features}
+
+ⵣlist{
+        ⵣitem{The maximum heading level appearing in the menu is configurable}
+        ⵣitem{If required, slugs are generated to populate headings' ⵣattribute{id} attribute}
+        ⵣitem{When the user click on the menu the page scroll until the correct heading}
+        ⵣitem{Scroll speed is configurable}
+        ⵣitem{It's possible to provide a scroll shift to work around any header}
+        ⵣitem{It's also possible to configure what region the plugin consider active}
+        ⵣitem{Last but not least it has an optimised strategy to update menu's active heading, which
+              snappyness can be configured
+        }
+}
+
+ⵣsection{Demos}
+
+ⵣrequire{demos.azf}

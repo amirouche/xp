@@ -1,0 +1,60 @@
+ⵣimage{ⵣvar{root}static/branding/alpha-scroll-select/jQuery.alphascrollselect.png}{jQuery alpha scroll select logo}
+
+ⵣsection{Getting started}
+
+jQuery plugin that allows to build select widget that can take full advantage of html5 power with a configurable alpha numeric scrollbar widget.
+
+ⵣinclude{example/app.js}
+
+Some html and css are required. Read on.
+
+ⵣsection{ⵣprototype{jQuery.alphascrollselect(config)}}
+
+ⵣfunction{jQuery.alphascrollselect} will create the alphanumeric scrollbar for the selected element, add a few css classes to selectables items to ease styling.
+
+ⵣvariable{config} is a javascript ⵣcode{Object} which accepts the following configurations keys:
+
+ⵣlist{
+        ⵣitem{ⵣvariable{scrollspeed}, default value: ⵣcode{1000}. Time in millisecond the scroll animation (triggered when the scrollbar is clicked) will take to reach its target.
+        }
+        ⵣitem{ⵣvariable{scrollUpdateTimeout}, default value: ⵣcode{100}. Time in millisecond before the scrollbar active letter is updated.
+              A small value, will make the scrollbar more reactive, but it will also generate more
+              updates.
+        }
+	ⵣitem{ⵣvariable{abc}, default value: ⵣcode{'abcdefghijklmnopqrstuvwxyz'}. The alphabet used to build the scrollbar. A ⵣcode{"#"} character will be used for anything numeric and not part of the provided alphabet.
+        }
+
+}
+
+Letters that have no related element in the list, won't trigger a scroll.
+
+
+ⵣsection{HTML & CSS}
+
+ⵣtldr{
+ⵣlist{
+        ⵣitem{ⵣvariable{.first-letter} for every element which ⵣattribute{data-key} attribute or text's first letter appears for the first time.
+        }
+        ⵣitem{ⵣvariable{.first-CHAR}, elements which have ⵣvariable{.first-letter}, will also have a ⵣvariable{.first-CHAR} class, where ⵣvariable{CHAR} is replaced by the first character of ⵣattribute{data-key} attribute  or the first letter of the element's text.
+        }
+	ⵣitem{ⵣvariable{abc}, default value: ⵣcode{'abcdefghijklmnopqrstuvwxyz'}. The alphabet used to build the scrollbar. A ⵣcode{"#"} character will be used for anything numeric and not part of the provided alphabet.
+        }
+	ⵣitem{ⵣvariable{.in-view} is added to ⵣcode{.scrollbar li} items which are currently visible.
+        }
+	ⵣitem{Last but not least, there is a mandatory ⵣcode{div.overlay} element to add to the html and which styles must be tweaked to make sure that the native scroll bar remains invisible.
+	}
+}
+}
+
+The base html is described below:
+
+ⵣinclude{base.html}
+
+It's recommended to include ⵣcode{jquery.alphascrollselect.css} and study it.
+
+It's important to note that the plugin will not order the list for you. So
+ⵣcode{<li>} elements must be pre-ordered according to ⵣattribute{data-key} attribute or their text content.
+
+The ⵣcode{<div class="overlay">} is hackish but not that fragile. Native scrolling is used to avoid the need for a cross-browser mousewheel plugin, in this particular context it's the most reliable way to hide the scrollbar. You can also put ⵣcode{<div class="overlay">} outside ⵣcode{<div class="alphascrolselect">} element, but it will require another wrapper to be able to position the overlay correctly.
+
+The best way to learn is to experiment.

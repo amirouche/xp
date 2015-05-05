@@ -1,0 +1,11 @@
+html, body {
+    padding: 10px;
+}
+
+.alphascrollselect {
+    height: 400px;
+    width: 250px;
+    
+    border: 1px solid #DDD;
+    border-radius: 3px;   
+}

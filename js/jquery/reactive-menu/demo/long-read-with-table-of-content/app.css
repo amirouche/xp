@@ -1,0 +1,94 @@
+body {
+    background: #252F38 url(bulb.svg) no-repeat;
+    background-position: 50% 50px;
+    color: #aaa;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #27D6BD;
+    font-family: LeagueGothic, Impact, Arial, sans;
+    font-weight: normal;
+    margin-bottom: 0px;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.7em;
+}
+
+h4 {
+    font-size: 1.5em;
+}
+
+.ad {
+    border: 2px solid #27D6BD;
+    color: white;
+    padding: 50px;;
+    font-size: 1em;
+}
+
+.ad p {
+    margin: 0px;
+}
+
+.ad p:last-child {
+    margin-top: 1em;
+    text-align: right !important;
+}
+
+a {
+    color: #27D6BD;
+    transition: color 1s;
+}
+
+a:hover {
+    color: white;
+}
+
+#wrapper {
+    margin-top: 280px;
+}
+
+#main {
+    max-width: 700px;
+    margin: 0px auto;
+}
+
+
+#navigation {
+    position: fixed;
+    top: 50px;
+}
+
+#navigation ol {
+    list-style: none;
+}
+
+#navigation ol, #navigation li {
+    line-height: 1em;
+    margin: 0px;
+}
+
+#navigation li a {
+    color: #777;
+    text-decoration: none;
+    transition: color 1s;
+    font-weight: 400;
+
+}
+
+#navigation ol li a:hover {
+    color: white;
+}
+
+
+#navigation ol li.active > a {
+    color: #27D6BD;
+}

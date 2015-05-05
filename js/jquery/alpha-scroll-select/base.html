@@ -1,0 +1,26 @@
+<div class="alphascrollselect">
+  <div class="wrapper">
+    <!-- you can use <ul> if you prefer -->
+    <ol> 
+      
+      <!-- If select items are simple text you
+	   can use the following kind of code -->
+      <li>Einstein</li>
+
+      <!-- Otherwise, if select items are complex 
+	   html where the "ordering key" is not the
+	   immediate node text content, use a data-key 
+	   attribute --->
+      <li data-key="einstein">
+	<div>
+	  <p>Einstein</p>
+	  <p>+271 828 182 846</p>
+	</div>
+      </li>
+    </ol>
+  </div>
+
+  <!-- This element is used to hide 
+       the native scrollbar -->
+  <div class="overlay"></div>
+</div>

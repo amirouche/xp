@@ -1,0 +1,8 @@
+The widget is not constrained to a particular style:
+
+ⵣlist{
+        ⵣitem{ⵣhref{ⵣvar{projectroot}demo/contact-list/}{Contact list}{demo} looks just like its native counterpart}
+        ⵣitem{A much more usable ⵣhref{ⵣvar{projectroot}demo/select-a-country/}{country selector}{demo}}
+}
+
+You can of course plug it with native html ⵣcode{select} elements and combox box ie. multi-select.

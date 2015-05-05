@@ -1,0 +1,22 @@
+#main {
+    margin-top: 300px;
+    max-width: 400px;
+    margin: 300px auto;
+    text-align: justify;
+}
+
+#navigation{
+    position: fixed;
+}
+
+#navigation a {
+    color: black;
+}
+
+#navigation li.active.primary > a {
+    color: blue;
+}
+
+#navigation a:hover {
+    font-weight: bold;
+}

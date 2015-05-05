@@ -1,0 +1,94 @@
+/* styles for single column layouts screens */
+
+body {
+    display: block;
+}
+
+h1 {
+    display: none;
+}
+
+.box {
+    border-radius: 0px;
+}
+
+body, html { 
+    height: 100%;
+}
+
+.ad {
+    background: #20282D;
+    padding: 10px;
+    display: none;
+}
+
+.alphascrollselect, .alphascrollselect .overlay {
+    background: #20282D;
+}
+
+.alphascrollselect .wrapper li.first-letter.selected:before {
+    color: white;
+}
+
+
+.alphascrollselect .scrollbar {
+    padding: 5px;
+}
+
+
+
+.alphascrollselect .scrollbar li {
+    opacity: 0.5;
+}
+
+.alphascrollselect .scrollbar li.in-view {
+    opacity: 1;
+}
+
+.alphascrollselect .wrapper li.selected {
+    background: rgba(10, 166, 133, 1);
+    padding: 3px 5px;
+    color: black;
+    border-radius: 3px;
+    margin: 3px 0px;
+}
+
+    
+
+
+/* styles overrides for screens not limited 
+   to single column layouts */
+@media (min-width: 640px) {
+    body {
+	padding: 50px;
+    }
+    .ad {
+	display: block;
+    }
+    
+    .box {
+	border-radius: 5px;
+    }
+    
+    h1 {
+	 display: block;
+    }
+     
+    #countries {
+	width: 350px;
+	height: 500px;
+    }
+
+    .alphascrollselect ol.scrollbar {
+	width: 30px;
+    }
+
+    .alphascrollselect ol.scrollbar li {
+	padding: 2px;
+	margin: 0px;
+    }
+
+    .alphascrollselect ol.scrollbar  {
+	font-size: 14px;
+    }
+}

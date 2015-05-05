@@ -1,0 +1,9 @@
+You can build several kind of menus. Here are few examples:
+
+ⵣlist{
+        ⵣitem{ⵣhref{ⵣvar{projectroot}demo/static-header-menu/}{Classic, single depth menu}{demo}}
+        ⵣitem{ⵣhref{ⵣvar{projectroot}demo/long-read-with-table-of-content/}{Table of content}{demo}, like the ones you find in books}
+        ⵣitem{ⵣhref{ⵣvar{projectroot}demo/long-read-with-breadcrumb/}{Breadcrumb}{demo}, follow the user navigation, only displaying current document branch}
+}
+
+All those can be done only using css (and sometime some javascript options). Advanced css styling can provide the advantages of all the above menu styles, including drop down menus and drawers.

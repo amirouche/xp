@@ -1,0 +1,131 @@
+ⵣimage{ⵣvar{root}static/branding/reactive-menu/jQuery.reactivemenu.png}{jQuery reactive menu logo}
+
+ⵣsection{Getting started}
+
+ⵣname is a plugin that allows to build navigation menus based on the content of the page.
+
+ⵣinclude{example/app.js}
+
+ⵣsection{ⵣprototype{jQuery.reactiveMenu(navigation, config)}}
+
+Create a menu for the selected element inside the element pointed by ⵣvariable{navigation} selector.
+
+ⵣvariable{config} is a javascript ⵣcode{Object} which accepts the following configurations keys:
+
+ⵣlist{
+        ⵣitem{ⵣvariable{maxHeadingLevel}, Default value: ⵣcode{6}. A number indicating the maximum heading
+              level to consider. In terms of code, if ⵣvariable{maxHeadingLevel}
+              is ⵣcode{4}, it will consider the following headings ⵣcode{<h1>, <h2>, <h3>, <h4>}.
+              If there is no ⵣcode{<h1>} elements, it will skip it and start with ⵣcode{<h2>}.
+        }
+        ⵣitem{ⵣvariable{scrollshift}, default value: ⵣcode{100}. When the page must scroll, ⵣvariable{scrollshift}
+              is included with the target position to make up for anything at the top of the page that
+              might hide the target heading. Anyway, some ⵣvariable{scrollshift} always looks better.
+        }
+        ⵣitem{ⵣvariable{scrollspeed}, default value: ⵣcode{1000}. Time in millisecond the scroll animation will take to
+              reach its target.
+        }
+        ⵣitem{ⵣvariable{scrollUpdateTimeout}, default value: ⵣcode{100}. Time in millisecond before the menu is updated.
+              A small value, will make the menu more reactive, but it will also generate more
+              updates.
+        }
+        ⵣitem{ⵣvariable{activeRegion}, default value: ⵣcode{300}. Distance to the top of the viewport where headings are
+              considered active. It takes into account ⵣvariable{scrollshift}. You might want
+              to configure this value depending on the text or or the layout.
+        }
+        ⵣitem{ⵣvariable{initialScrollFunc(hash, config)}, default value: ⵣfunction{initialScroll}. A function called when
+              the page is loaded with the document's location hash something like ⵣcode{#lorem-ipsum-hash}. It has the responsability
+              to scroll the page to the correct offset. The default implementation try to workaround document loading speed, which can lead to shifted initial scroll.
+              It should be enough in most cases. You might want to use an custom strategy matching your document specifics.
+        }
+
+}
+
+
+ⵣsection{HTML & CSS}
+
+ⵣtldr{ⵣname use ⵣvariable{.primary} and ⵣvariable{.active} classes in the generated menu to keep track
+      of which part of the document is currently visible.
+}
+
+Any document will do. You are free to nest ⵣcode{<div>}, headings and paragraphs however you want. That said, ⵣname expects that headings appear in the correct order without leap. If ⵣcode{<h2>} is followed by ⵣcode{<h4>} without ⵣcode{<h3>} in between, ⵣcode{<h4>} and any sub headings following it, will be ignored.
+
+Here is an example document:
+
+ⵣinclude{example/index.html}
+
+It's helpful to have ⵣcode{<h4>} elements is inside their own ⵣcode{<div>}.
+
+Anyway to build a menu only for ⵣcode{<h3>} headings inside ⵣvariable{#navigation}, one can use:
+
+ⵣinclude{example/app.js}
+
+It will add some html to ⵣvariable{#navigation} element, only visible through developer tools inspect feature (ie. not via “show source”):
+
+ⵣhighlight{html}{
+<div id="navigation">
+     <ol class="active">
+         <li>
+             <a href="#the-art-of-lipsum">
+                The art of lipsum
+             </a>
+         </li>
+	 <!-- primary element -->
+         <li class="active primary">
+             <a href="#development">
+                 Development
+             </a>
+         </li>
+     </ol>
+</div>
+}
+
+As you can see the generated html, is mix of ⵣcode{<li>} and ⵣcode{<ol>} and some css class:
+
+
+ⵣlist{
+        ⵣitem{ⵣvariable{.primary} is only applied to one (and only one)
+              ⵣcode{<li>} element when the user is reading that specific
+              part of the document.
+        }
+        ⵣitem{ⵣvariable{.active} is applied to parent ⵣcode{<ol>} and
+              ⵣcode{<li>} elements of the ⵣvariable{.primary} element.
+              Otherwise said, if a ⵣcode{<ol>} or ⵣcode{<li>} is
+              ⵣvariable{.active} there is one (and only one) ⵣcode{<li>}
+              decendant that is ⵣvariable{.primary}.
+        }
+}
+
+In the above simple example, there is only one level of ⵣcode{<ol>} and only
+one ⵣvariable{.active} ⵣcode{<li>} element which happens to also be ⵣvariable{.primary}.
+
+If one drops the ⵣcode{maxHeadingLevel} constraint, the full table of content will be generated as follow:
+
+ⵣhighlight{html}{
+<div id="navigation">
+   <ol class="active">
+      <li class="active">
+         <a href="#the-art-of-lipsum">The art of lipsum</a>
+         <ol class="active">
+          <li><a href="#abstract">Abstract</a></li>
+          <li><a href="#expectations">Expectations </a></li>
+          <!-- primary element -->	  
+          <li class="active primary">
+	    <a href="#results">Results</a>
+	  </li>
+          <!-- all the remaining <li> elements are not active
+	       because the coresponding text appears after
+	       the current active heading -->	  
+          <li><a href="#improvements">Improvements</a></li>
+         </ol>
+      </li>
+      <li>
+         <a href="#development">Development</a>
+      </li>
+   </ol>
+</div>
+}
+
+As you can see, this time, there is an extra ⵣcode{<ol>} list element inside “The art of lipsum”. In this list, “Results” item is both ⵣvariable{.active} and ⵣvariable{.primary} because that is the subsection that is currently visible. All it's parent element ⵣcode{<ol>} and ⵣcode{<li>} are only ⵣvariable{.active}.
+
+The best way to get it, is to experiment and inspect how the plugin updates ⵣvariable{#navigation} with the inspector.

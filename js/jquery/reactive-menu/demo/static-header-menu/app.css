@@ -1,0 +1,64 @@
+.ad {
+    border: 2px solid #27D6BD;
+    color: white;
+    padding: 50px;;
+    font-size: 1em;
+}
+
+.ad p {
+    margin: 0px;
+}
+
+.ad p:last-child {
+    margin-top: 1em;
+    text-align: right !important;
+}
+
+#wrapper {
+    max-width: 540px;
+}
+
+#navigation {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background: #252F38;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    display: flex;
+    border-bottom: 1px solid #27D6BD;
+}
+
+#navigation a {
+    font-family: LeagueGothic, Impact, Arial, sans;
+    font-weight: 400;
+    font-size: 2em;
+}
+
+#navigation ol {
+    padding: 0px;    
+    margin: auto;
+    list-style: none;
+    line-height: 0em;
+}
+
+#navigation li {
+    display: inline;
+    line-height: 0em;    
+}
+
+#navigation li.active a {
+    color: white;
+}
+
+#navigation  li:after {
+    content: "•";
+    padding-left: 3px;
+    padding-right: 8px;
+    color: white;
+    font-size: 0.5em;
+}
+
+#navigation ol li:last-child:after {
+    content: "";
+}

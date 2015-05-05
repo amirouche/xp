@@ -1,0 +1,17 @@
+ⵣimage{ⵣvar{root}static/branding/alpha-scroll-select/jQuery.alphascrollselect.png}{jQuery alpha scroll select logo}
+
+Javascript jQuery plugin that allows to build select widget that can take full advantage of html5 power with a configurable alpha numeric scrollbar widget.
+
+ⵣsection{Features}
+
+ⵣlist{
+        ⵣitem{Alphabet is configurable.}
+	ⵣitem{Use native scroll}
+        ⵣitem{Works on mobile devices}
+        ⵣitem{Configurable scroll animation speed}
+        ⵣitem{Last but not least it has an optimised strategy to update scroll bar current active letter}
+}
+
+ⵣsection{Demos}
+
+ⵣrequire{demos.azf}
