@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+import asyncio
 import aiohttp
 from re import compile
 
@@ -15,6 +17,27 @@ from aiohttp.multidict import MultiDict
 from aiohttp.server import ServerHttpProtocol
 
 
+class NerfedException(Exception):
+    pass
+
+
+class InvalidRoute(NerfedException):
+    pass
+
+
+class InvalidPatternConversion(NerfedException):
+    pass
+
+
+def debug(*args, **kwargs):
+    import colorama
+    args = list(args)
+    args.insert(0, colorama.Fore.RED)
+    args.append(kwargs)
+    args.append(colorama.Fore.RESET)
+    print(' '.join(list(map(lambda x: str(x), args))))
+
+
 class Route:
 
     RE_DYNAMIC = compile(r'^<(?P<name>[^:>]+)(:(?P<kind>[^>]+))?>$')
@@ -22,7 +45,7 @@ class Route:
 
     def __init__(self, method, path, handler):
         if not path.startswith('/'):
-            raise Exception("path must start with a slash '/'")
+            raise InvalidRoute("path must start with a slash '/'")
         self.method = method
         self.path = path
         self.handler = handler
@@ -33,41 +56,40 @@ class Route:
         parts = self.path[1:].split('/')
         patterns = list()
         conversion = dict()
+        names = list()
         for part in parts:
             match = Route.RE_DYNAMIC.match(part)
             if match:
                 match = match.groupdict()
                 name = match['name']
+                if name in names:
+                    # FIXME: this check on all routes before
+                    # the server starts
+                    msg = 'Invalid route, pattern named %s already exists'
+                    msg = msg % name
+                    raise InvalidRoute(msg)
+                names.append(name)
                 pattern = Route.RE_NAMED_PART % name
                 patterns.append(pattern)
                 kind = match['kind']
                 if kind:
-                    if name in conversion.keys():
-                        # FIXME: this check on all routes before
-                        # the server starts
-                        msg = 'Invalid route, pattern named %s already exists'
-                        msg = msg % name
-                        raise Exception(msg)
-                    else:
-                        conversion[name] = match['kind']
+                    conversion[name] = match['kind']
             else:
                 # not a dynamic url
                 patterns.append(part)
-        pattern = '/' + '/'.join(patterns)
+        pattern = '/'.join(patterns)
 
         if self.path.endswith('/'):
             pattern += '/'
+        if len(self.path) > 1:
+            pattern = '/' + pattern
 
         pattern = '^' + pattern
         if self.method is not None:
             pattern += '$'
 
-        try:
-            pattern = compile(pattern)
-        except Exception:
-            raise Exception('Invalid route pattern')
-        else:
-            return pattern, conversion
+        pattern = compile(pattern)
+        return pattern, conversion
 
     def convert(self, kind, value):
         """Convert 'value' to a python value based on 'kind'
@@ -84,21 +106,21 @@ class Route:
             msg = ('%s is not supported conversion format'
                    'you can add it by overriding Router.convert')
             msg = msg % kind
-            raise Exception(msg)
+            raise InvalidPatternConversion(msg)
 
     def match(self, sub, method, path, infos):
         """match path against this route
 
-        This is return ``handler`` and ``infos`` if there is a match,
-        ``(None, None)`` otherwise"""
+        This is return `sub`, ``handler`` and ``infos`` if there is a match,
+        ``(None, None, None)`` otherwise"""
         match = self.pattern.match(path)
         if match:
             if self.method and match.endpos != match.end():
                 # this is not a sub route and the path is not fully consumed
-                return None, None
+                return None, None, None
             elif not self.method and match.endpos == match.end():
                 # this is a sub route and the path is fully consumed
-                return None, None
+                return None, None, None
             else:
                 moreinfos = match.groupdict()
                 convert = lambda item: (
@@ -109,7 +131,7 @@ class Route:
                     native = map(convert, self.conversion.items())
                 except Exception:
                     # failing to convert some part of the url, not a match
-                    return None, None
+                    return None, None, None
                 else:
                     # override old values with python values
                     infos = dict(infos)
@@ -168,9 +190,7 @@ class Sub:
     def route(self, method, path):
         """Use this method as decorator to declare a route against this Sub"""
         def wrapper(func):
-            func.is_route = True
-            func.method = method
-            func.path = path
+            self.add_route(method, path, func)
             return func
         return wrapper
 
@@ -259,7 +279,7 @@ class App(Sub, ServerHttpProtocol):
             self.writer
         )
         sub, handler, infos = self.resolve(request.method, request.path, dict())
-        print('handling %s, resolved: %s %s %s' % (request.path, sub, handler, infos))
+        debug('handling %s, resolved: %s %s %s' % (request.path, sub, handler, infos))
         if sub:
             try:
                 context = Context(self, sub, request)
@@ -278,7 +298,7 @@ class App(Sub, ServerHttpProtocol):
                 response = exc
         else:
             response = HTTPNotFound()
-
+        debug(response, request)
         response_message = response.start(request)
         yield from response.write_eof()
 
@@ -294,6 +314,8 @@ class App(Sub, ServerHttpProtocol):
         )
 
 
+
+
 if __name__ == '__main__':
     loop = asyncio.get_event_loop()
     f = loop.create_server(
@@ -302,7 +324,7 @@ if __name__ == '__main__':
         '8000',
     )
     srv = loop.run_until_complete(f)
-    print('serving on', srv.sockets[0].getsockname())
+    print('serving on', 'http://{}:{}'.format(*srv.sockets[0].getsockname()))
     try:
         loop.run_forever()
     except KeyboardInterrupt:
