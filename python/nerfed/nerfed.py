@@ -298,7 +298,7 @@ class App(Sub, ServerHttpProtocol):
                 response = exc
         else:
             response = HTTPNotFound()
-        debug(response, request)
+
         response_message = response.start(request)
         yield from response.write_eof()
 
@@ -312,8 +312,6 @@ class App(Sub, ServerHttpProtocol):
             response_message,
             self._loop.time() - now
         )
-
-
 
 
 if __name__ == '__main__':
