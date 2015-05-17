@@ -86,6 +86,7 @@ class Route:
 
         pattern = '^' + pattern
         if self.method is not None:
+            # this is not a sub, the path must end
             pattern += '$'
 
         pattern = compile(pattern)
@@ -110,16 +111,16 @@ class Route:
             raise InvalidPatternConversion(msg)
 
     def match(self, sub, method, path, infos):
-        """match path against this route
+        """match recursivly path against this route
 
         This is return `sub`, ``handler`` and ``infos`` if there is a match,
         ``(None, None, None)`` otherwise"""
         match = self.pattern.match(path)
         if match:
-            if self.method and match.endpos != match.end():
-                # this is not a sub route and the path is not fully consumed
-                return None, None, None
-            elif not self.method and match.endpos == match.end():
+            # if self.method and match.endpos != match.end():
+            #     # this is not a sub route and the path is not fully consumed
+            #     return None, None, None
+            if not self.method and match.endpos == match.end():
                 # this is a sub route and the path is fully consumed
                 return None, None, None
             else:
@@ -129,8 +130,8 @@ class Route:
                     self.convert(item[1], moreinfos[item[0]])
                 )
                 try:
-                    native = map(convert, self.conversion.items())
-                except Exception:
+                    native = list(map(convert, self.conversion.items()))
+                except ValueError:
                     # failing to convert some part of the url, not a match
                     return None, None, None
                 else:
@@ -323,13 +324,13 @@ class App(Sub, ServerHttpProtocol):
 
 
 if __name__ == '__main__':
-    loop = asyncio.get_event_loop()
     app = App()
 
     @app.route('GET', '/')
     def hello(context, **infos):
         return Response(body='Héllo'.encode('utf-8'))
 
+    loop = asyncio.get_event_loop()
     f = loop.create_server(
         lambda: app,
         '0.0.0.0',
