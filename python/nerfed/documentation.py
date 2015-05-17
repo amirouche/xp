@@ -22,7 +22,7 @@ app.add_route('GET', '/another', hello)
 
 
 # Class style
-class NerfedClassStyle(App):
+class MyApp(App):
 
     def __init__(self, *args, **kwargs):
         super().__init_(*args, **kwargs)
@@ -33,8 +33,8 @@ class NerfedClassStyle(App):
         return Response(body='Héllo, World!'.encode('utf-8'))
 
 
-# Second class style (prefered)
-class NerfedClassStylePrefered(App):
+# Second class style
+class MyOtherApp(App):
 
     @App.make_route('GET', '/')
     def hello(self, context, **infos):
