@@ -82,6 +82,32 @@ class TestRouteClass(TestCase):
             lambda:route.match(self.sentinel, 'GET', '/2.006', {})[0]
         )
 
+    # the following test is tests that use mocks
+    # they *reflect* actual use of the features
+    def test_wrong_route_sub_but_fully_consumed_path(self):
+        # method is None, when the route leads to a sub
+        # a sub is a class, an object is used instead
+        route = Route(None, '/path/to/something', object())
+        out = route.match(
+            object(),
+            'whatever method',
+            '/path/to/something',
+            dict()
+        )
+        # no match
+        self.assertEqual(out, (None, None, None))
+
+    def test_match_fail_to_convert(self):
+        route = Route('GET', '/object/<id:int>/do/something', object())
+        out = route.match(
+            object(),
+            'GET',
+            '/object/13.2/do/something',
+            dict()
+        )
+        # no match
+        self.assertEqual(out, (None, None, None))
+
 
 class TestAppClass(TestCase):
 
