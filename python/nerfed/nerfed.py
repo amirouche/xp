@@ -91,7 +91,8 @@ class Route:
         pattern = compile(pattern)
         return pattern, conversion
 
-    def convert(self, kind, value):
+    @staticmethod
+    def convert(kind, value):
         """Convert 'value' to a python value based on 'kind'
 
         Only support 'int', override this method to support
@@ -190,7 +191,9 @@ class Sub:
     def route(self, method, path):
         """Use this method as decorator to declare a route against this Sub"""
         def wrapper(func):
-            self.add_route(method, path, func)
+            coro = asyncio.coroutine(func)
+            func.coroutine = coro
+            self.add_route(method, path, coro)
             return func
         return wrapper
 
@@ -249,6 +252,9 @@ class Sub:
                 return match
         return None, None, None
 
+    def reverse(self, sub, name, **infos):
+        pass
+
 
 class App(Sub, ServerHttpProtocol):
 
@@ -280,10 +286,11 @@ class App(Sub, ServerHttpProtocol):
         )
         sub, handler, infos = self.resolve(request.method, request.path, dict())
         debug('handling %s, resolved: %s %s %s' % (request.path, sub, handler, infos))
+
         if sub:
             try:
                 context = Context(self, sub, request)
-                response = yield from self.index(context, **infos)
+                response = yield from handler(context, **infos)
 
                 if not isinstance(response, StreamResponse):
                     msg = ("Handler {!r} should return response instance, "
@@ -299,6 +306,7 @@ class App(Sub, ServerHttpProtocol):
         else:
             response = HTTPNotFound()
 
+        debug(response)
         response_message = response.start(request)
         yield from response.write_eof()
 
@@ -316,8 +324,14 @@ class App(Sub, ServerHttpProtocol):
 
 if __name__ == '__main__':
     loop = asyncio.get_event_loop()
+    app = App()
+
+    @app.route('GET', '/')
+    def hello(context, **infos):
+        return Response(body='Héllo'.encode('utf-8'))
+
     f = loop.create_server(
-        App.make,
+        lambda: app,
         '0.0.0.0',
         '8000',
     )
