@@ -15,6 +15,9 @@ class TestRouteClass(TestCase):
     sentinel = object()
     handler = lambda context, **infos: (sentinel, context, infos)
 
+    def test_convert(self):
+        self.assertEqual(Route.convert('int', '132'), 132)
+
     def test_duplicate_pattern_route(self):
         self.assertRaises(
             InvalidRoute,
@@ -80,7 +83,6 @@ class TestRouteClass(TestCase):
         )
 
 
-
 class TestAppClass(TestCase):
 
     def test_index_resolve(self):
@@ -93,7 +95,7 @@ class TestAppClass(TestCase):
             return 'Héllo'
 
         sub, handler, infos = app.resolve('GET', '/', {})
-        self.assertEqual(handler, index)
+        self.assertEqual(handler, index.coroutine)
 
     def test_index_resolve_with_two_routes(self):
         from nerfed import App
@@ -109,4 +111,20 @@ class TestAppClass(TestCase):
             return 'Héllo'  # FIXME: not correct return
 
         sub, handler, infos = app.resolve('GET', '/', {})
-        self.assertEqual(handler, index)
+        self.assertEqual(handler, index.coroutine)
+
+    def test_index_resolve_the_other_route(self):
+        from nerfed import App
+
+        app = App()
+
+        @app.route('GET', '/')
+        def index(context, **infos):
+            return 'Héllo'  # FIXME: not correct return
+
+        @app.route('GET', '/about')
+        def about(context, **infos):
+            return 'Héllo'  # FIXME: not correct return
+
+        sub, handler, infos = app.resolve('GET', '/about', {})
+        self.assertEqual(handler, about.coroutine)
