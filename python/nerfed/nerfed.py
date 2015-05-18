@@ -17,6 +17,86 @@ from aiohttp.multidict import MultiDict
 from aiohttp.server import ServerHttpProtocol
 
 
+class Property(object):
+
+    COUNTER = 0
+    
+    def __init__(self):
+        self._idx = self.COUNTER + 1
+        self.COUNTER += 1
+    
+    def __get__(self, obj, klass):
+        return obj._properties.get(self, None)
+
+    def __set__(self, obj, value):
+        obj._properties[self] = value
+
+
+def declared_properties(clazz):
+    from collections import OrderedDict
+    clazz._properties = OrderedDict()
+
+    items = sorted(
+        filter(lambda x: isinstance(x[1], Property), vars(clazz).items()),
+        key=lambda x: x[1]._idx
+    )
+
+    for name, prop in items:
+        clazz._properties[name] = prop
+        prop.name = name
+
+    return clazz
+
+
+class Imperator:
+
+    COUNTER = 0
+
+    def __init__(self, *args, **kwargs):
+        self._idx = self.COUNTER + 1
+        self.COUNTER += 1
+
+        from collections import OrderedDict
+        self._values = OrderedDict()
+
+        for name in kwargs.keys():
+            self._values[name] = kwargs[name]
+
+    def freeze(self):
+        from collections import OrderedDict
+        out = OrderedDict()
+
+        property_names = [item[0] for item in sorted(
+            self._properties.items(),
+            key=lambda x: x[1]._idx
+        )]
+        print(property_names)
+        for name in property_names:
+            try:
+                out[name] = self._values[name]
+            except KeyError:
+                continue
+        return out
+
+
+@declared_properties
+class A(Imperator):
+
+    zarname = Property()
+    name = Property()
+    yourname = Property()
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.arguments = args
+        self.options = kwargs
+
+print(A)
+a = A()
+print(a)
+a = A(zarname="foo", name="bar", yourname="spam")
+print(a.freeze())
+
 class NerfedException(Exception):
     pass
 
@@ -321,24 +401,3 @@ class App(Sub, ServerHttpProtocol):
             response_message,
             self._loop.time() - now
         )
-
-
-if __name__ == '__main__':
-    app = App()
-
-    @app.route('GET', '/')
-    def hello(context, **infos):
-        return Response(body='Héllo'.encode('utf-8'))
-
-    loop = asyncio.get_event_loop()
-    f = loop.create_server(
-        lambda: app,
-        '0.0.0.0',
-        '8000',
-    )
-    srv = loop.run_until_complete(f)
-    print('serving on', 'http://{}:{}'.format(*srv.sockets[0].getsockname()))
-    try:
-        loop.run_forever()
-    except KeyboardInterrupt:
-        pass
