@@ -23,16 +23,18 @@ class Property(object):
     
     def __init__(self):
         self._idx = self.COUNTER + 1
-        self.COUNTER += 1
-    
+        Property.COUNTER = Property.COUNTER + 1
+        self.name = None  # set by ``with_properties``
+                          # by with_properties decorator
+
     def __get__(self, obj, klass):
-        return obj._properties.get(self, None)
+        return obj._values.get(self.name, None)
 
     def __set__(self, obj, value):
         obj._properties[self] = value
 
 
-def declared_properties(clazz):
+def with_properties(clazz):
     from collections import OrderedDict
     clazz._properties = OrderedDict()
 
@@ -51,6 +53,8 @@ def declared_properties(clazz):
 class Imperator:
 
     COUNTER = 0
+    Property = Property
+    with_properties = with_properties
 
     def __init__(self, *args, **kwargs):
         self._idx = self.COUNTER + 1
@@ -59,8 +63,10 @@ class Imperator:
         from collections import OrderedDict
         self._values = OrderedDict()
 
-        for name in kwargs.keys():
-            self._values[name] = kwargs[name]
+        for value, name in zip(args, self._properties.keys()):
+            self._values[name] = value
+
+        self._values.update(kwargs)
 
     def freeze(self):
         from collections import OrderedDict
@@ -70,7 +76,7 @@ class Imperator:
             self._properties.items(),
             key=lambda x: x[1]._idx
         )]
-        print(property_names)
+
         for name in property_names:
             try:
                 out[name] = self._values[name]
@@ -78,24 +84,6 @@ class Imperator:
                 continue
         return out
 
-
-@declared_properties
-class A(Imperator):
-
-    zarname = Property()
-    name = Property()
-    yourname = Property()
-
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-        self.arguments = args
-        self.options = kwargs
-
-print(A)
-a = A()
-print(a)
-a = A(zarname="foo", name="bar", yourname="spam")
-print(a.freeze())
 
 class NerfedException(Exception):
     pass
