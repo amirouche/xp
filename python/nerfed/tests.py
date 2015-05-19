@@ -1,6 +1,7 @@
 from unittest import TestCase
 
 from nerfed import Route
+from nerfed import Imperator
 from nerfed import InvalidRoute
 from nerfed import InvalidPatternConversion
 
@@ -10,6 +11,66 @@ def debug():
     ipdb.set_trace()
 
 
+class TestImperator(TestCase):
+
+    def test_imperator_init_with_keywords(self):
+
+        @Imperator.with_properties
+        class AnotherImperator(Imperator):
+
+            zarname = Imperator.Property()
+            name = Imperator.Property()
+            yourname = Imperator.Property()
+
+            def __init__(self, *args, **kwargs):
+                super().__init__(*args, **kwargs)
+                self.arguments = args
+                self.options = kwargs
+
+        a = AnotherImperator(zarname="foo", name="bar", yourname="spam")
+        self.assertEqual(a.zarname, 'foo')
+        self.assertEqual(a.name, 'bar')
+        self.assertEqual(a.yourname, 'spam')
+
+    def test_imperator_init_with_args(self):
+
+        @Imperator.with_properties
+        class AnotherImperator(Imperator):
+
+            zarname = Imperator.Property()
+            name = Imperator.Property()
+            yourname = Imperator.Property()
+
+            def __init__(self, *args, **kwargs):
+                super().__init__(*args, **kwargs)
+                self.arguments = args
+                self.options = kwargs
+
+        a = AnotherImperator("foo", "bar", "spam")
+        self.assertEqual(a.zarname, 'foo')
+        self.assertEqual(a.name, 'bar')
+        self.assertEqual(a.yourname, 'spam')
+
+    def test_imperator_init_with_args_and_keywords(self):
+
+        @Imperator.with_properties
+        class AnotherImperator(Imperator):
+
+            zarname = Imperator.Property()
+            name = Imperator.Property()
+            yourname = Imperator.Property()
+
+            def __init__(self, *args, **kwargs):
+                super().__init__(*args, **kwargs)
+                self.arguments = args
+                self.options = kwargs
+
+        a = AnotherImperator("foo", "bar", yourname="spam")
+        self.assertEqual(a.zarname, 'foo')
+        self.assertEqual(a.name, 'bar')
+        self.assertEqual(a.yourname, 'spam')
+
+        
 class TestRouteClass(TestCase):
 
     sentinel = object()
