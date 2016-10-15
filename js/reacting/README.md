@@ -1,1 +1,0 @@
-Diptyque: raining cube && solving cube.
