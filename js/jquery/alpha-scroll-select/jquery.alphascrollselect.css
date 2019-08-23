@@ -130,7 +130,7 @@
     height: 100%;
     width: 100%;
     overflow-y: hidden;
-    
+
     display: flex;
 }
 
@@ -198,11 +198,3 @@
 
     font-weight: bold;
 }
-
-.alphascrollselect .overlay {
-    width: 20px;
-    position: relative;
-    right: 17px;
-    background: rgba(255, 255, 255, 7);
-}
-

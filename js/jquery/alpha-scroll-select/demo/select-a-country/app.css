@@ -2,6 +2,8 @@
 
 body {
     display: block;
+    background: hsl(208.4, 20.4%, 18.2%);
+    color: white;
 }
 
 h1 {
@@ -12,7 +14,7 @@ h1 {
     border-radius: 0px;
 }
 
-body, html { 
+body, html {
     height: 100%;
 }
 
@@ -53,10 +55,10 @@ body, html {
     margin: 3px 0px;
 }
 
-    
 
 
-/* styles overrides for screens not limited 
+
+/* styles overrides for screens not limited
    to single column layouts */
 @media (min-width: 640px) {
     body {
@@ -65,15 +67,15 @@ body, html {
     .ad {
 	display: block;
     }
-    
+
     .box {
 	border-radius: 5px;
     }
-    
+
     h1 {
 	 display: block;
     }
-     
+
     #countries {
 	width: 350px;
 	height: 500px;

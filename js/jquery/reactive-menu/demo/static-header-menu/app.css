@@ -1,8 +1,17 @@
+body {
+    background: #252F38;
+    color: white;
+}
+
+a:link, a:visited, a:hover {
+    color: #27D6BD;
+}
+
 .ad {
     border: 2px solid #27D6BD;
     color: white;
     padding: 50px;;
-    font-size: 1em;
+swrappnt-size: 1em;
 }
 
 .ad p {
@@ -16,6 +25,8 @@
 
 #wrapper {
     max-width: 540px;
+    margin: 100px auto;
+    text-align: justify;
 }
 
 #navigation {
@@ -36,7 +47,7 @@
 }
 
 #navigation ol {
-    padding: 0px;    
+    padding: 0px;
     margin: auto;
     list-style: none;
     line-height: 0em;
@@ -44,7 +55,7 @@
 
 #navigation li {
     display: inline;
-    line-height: 0em;    
+    line-height: 0em;
 }
 
 #navigation li.active a {

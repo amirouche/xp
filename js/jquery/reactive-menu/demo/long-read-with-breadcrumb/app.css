@@ -54,7 +54,9 @@ a:hover {
 }
 
 #wrapper {
-    margin-top: 400px;
+    max-width: 800px;
+    margin: 400px auto;
+    text-align: justify;
 }
 
 #navigation {

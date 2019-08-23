@@ -2,6 +2,8 @@
 
 body {
     display: block;
+    background: hsl(208.4, 20.4%, 18.2%);
+    color: white;
 }
 
 h1 {
@@ -18,11 +20,11 @@ h1 {
     background: #20282D;
 }
 
-body, html { 
+body, html {
     height: 100%;
 }
 
-/* making sure scrollbar parents are only 
+/* making sure scrollbar parents are only
    the size of the screen on mobile */
 
 #widget, #widget > div {
@@ -55,7 +57,7 @@ body, html {
     display: flex;
 
     border-radius: 15px;
-    padding: 5px;    
+    padding: 5px;
 }
 
 .alphascrollselect .wrapper li img {
@@ -87,7 +89,7 @@ body, html {
 }
 
 
-/* styles overrides for screens not limited 
+/* styles overrides for screens not limited
    to single column layouts */
 @media (min-width: 640px) {
     body {
@@ -107,7 +109,7 @@ body, html {
 	height: inherit;
     }
 
-    
+
     /* display alphascroll widget to the left of the #selected widget */
 
     #widget {
@@ -119,15 +121,15 @@ body, html {
 	margin-right: 40px;
     }
 
-    
+
     #selected {
 	display: block;
     }
-    
+
     h1 {
 	display: block;
     }
-    
+
     #contacts {
 	width: 350px;
 	height: 500px;
@@ -151,7 +153,7 @@ body, html {
     #widget #selected {
 	margin-top: 5.3em;
 	width: 400px;
-	height: 200px;    
+	height: 200px;
     }
 
     #widget #selected > h1 {
@@ -169,16 +171,16 @@ body, html {
 	display: flex;
 
 	border-radius: 15px;
-	padding: 5px;    
+	padding: 5px;
     }
 
     #widget #selected > div > div {
 	flex-grow: 1;
-	
+
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
     }
 
-    
+
 }

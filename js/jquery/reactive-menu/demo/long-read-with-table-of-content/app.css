@@ -59,6 +59,7 @@ a:hover {
 #main {
     max-width: 700px;
     margin: 0px auto;
+    text-align: justify;
 }
 
 
